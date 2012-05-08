@@ -1,0 +1,1381 @@
+01|BUDAPEST|001|BUDAPEST     I. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1705|5|556
+01|BUDAPEST|001|BUDAPEST     I. ker.|5|LENGYEL|5|Kis. vál. érvényes, eredményes|3898|5|1433
+01|BUDAPEST|001|BUDAPEST     I. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|6287|5|2295
+01|BUDAPEST|001|BUDAPEST     I. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|3325|5|1007
+01|BUDAPEST|001|BUDAPEST     I. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|482|5|168
+01|BUDAPEST|001|BUDAPEST     I. ker.|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|868|5|313
+01|BUDAPEST|002|BUDAPEST     II. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5060|5|1425
+01|BUDAPEST|002|BUDAPEST     II. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|3121|5|1023
+01|BUDAPEST|002|BUDAPEST     II. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|29017|5|9985
+01|BUDAPEST|002|BUDAPEST     II. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|8917|5|2853
+01|BUDAPEST|002|BUDAPEST     II. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1184|5|458
+01|BUDAPEST|002|BUDAPEST     II. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|995|5|351
+01|BUDAPEST|003|BUDAPEST     III. ker.|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|774|5|300
+01|BUDAPEST|003|BUDAPEST     III. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5386|5|2257
+01|BUDAPEST|003|BUDAPEST     III. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|6214|5|2170
+01|BUDAPEST|003|BUDAPEST     III. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|38965|5|14377
+01|BUDAPEST|003|BUDAPEST     III. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|3414|5|1132
+01|BUDAPEST|003|BUDAPEST     III. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|1110|5|456
+01|BUDAPEST|003|BUDAPEST     III. ker.|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2217|5|892
+01|BUDAPEST|004|BUDAPEST     IV. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5460|5|2207
+01|BUDAPEST|004|BUDAPEST     IV. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|4751|5|1525
+01|BUDAPEST|004|BUDAPEST     IV. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1813|5|668
+01|BUDAPEST|004|BUDAPEST     IV. ker.|5|LENGYEL|5|Kis. vál. érvényes, eredményes|5092|5|1906
+01|BUDAPEST|004|BUDAPEST     IV. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|14644|5|5038
+01|BUDAPEST|004|BUDAPEST     IV. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|852|5|335
+01|BUDAPEST|004|BUDAPEST     IV. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|479|5|190
+01|BUDAPEST|004|BUDAPEST     IV. ker.|13|UKRÁN|5|Kis. vál. érvényes, eredményes|837|5|308
+01|BUDAPEST|005|BUDAPEST     V. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2485|5|876
+01|BUDAPEST|005|BUDAPEST     V. ker.|5|LENGYEL|5|Kis. vál. érvényes, eredményes|1412|5|524
+01|BUDAPEST|005|BUDAPEST     V. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|5559|5|1867
+01|BUDAPEST|005|BUDAPEST     V. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|3024|5|1030
+01|BUDAPEST|005|BUDAPEST     V. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|360|5|159
+01|BUDAPEST|005|BUDAPEST     V. ker.|9|RUSZIN|5|Kis. vál. érvényes, eredményes|792|5|205
+01|BUDAPEST|005|BUDAPEST     V. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|581|5|215
+01|BUDAPEST|006|BUDAPEST     VI. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2943|5|1207
+01|BUDAPEST|006|BUDAPEST     VI. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|9171|5|3351
+01|BUDAPEST|006|BUDAPEST     VI. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|2226|5|859
+01|BUDAPEST|006|BUDAPEST     VI. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|418|5|188
+01|BUDAPEST|006|BUDAPEST     VI. ker.|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|976|5|341
+01|BUDAPEST|007|BUDAPEST     VII. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5728|5|1970
+01|BUDAPEST|007|BUDAPEST     VII. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1581|5|530
+01|BUDAPEST|007|BUDAPEST     VII. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|9810|5|3322
+01|BUDAPEST|007|BUDAPEST     VII. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1781|5|594
+01|BUDAPEST|007|BUDAPEST     VII. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|566|5|234
+01|BUDAPEST|007|BUDAPEST     VII. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|404|5|193
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|8516|5|3232
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|11882|5|4030
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1074|5|500
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|9|RUSZIN|5|Kis. vál. érvényes, eredményes|734|5|247
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1314|5|509
+01|BUDAPEST|009|BUDAPEST     IX. ker.|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|849|5|295
+01|BUDAPEST|009|BUDAPEST     IX. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4124|5|1562
+01|BUDAPEST|009|BUDAPEST     IX. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|3815|5|1161
+01|BUDAPEST|009|BUDAPEST     IX. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|783|5|277
+01|BUDAPEST|009|BUDAPEST     IX. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|9801|5|3385
+01|BUDAPEST|009|BUDAPEST     IX. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1668|5|488
+01|BUDAPEST|009|BUDAPEST     IX. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|455|5|170
+01|BUDAPEST|009|BUDAPEST     IX. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|297|5|103
+01|BUDAPEST|009|BUDAPEST     IX. ker.|13|UKRÁN|5|Kis. vál. érvényes, eredményes|742|5|294
+01|BUDAPEST|010|BUDAPEST     X. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2554|5|1022
+01|BUDAPEST|010|BUDAPEST     X. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|2553|5|989
+01|BUDAPEST|010|BUDAPEST     X. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1061|5|408
+01|BUDAPEST|010|BUDAPEST     X. ker.|5|LENGYEL|5|Kis. vál. érvényes, eredményes|3725|5|1490
+01|BUDAPEST|010|BUDAPEST     X. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|5613|5|2079
+01|BUDAPEST|010|BUDAPEST     X. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|533|5|183
+01|BUDAPEST|010|BUDAPEST     X. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|393|5|163
+01|BUDAPEST|010|BUDAPEST     X. ker.|13|UKRÁN|2|Érvénytelen választás|224|5|83
+01|BUDAPEST|011|BUDAPEST     XI. ker.|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|1573|5|635
+01|BUDAPEST|011|BUDAPEST     XI. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|6347|5|1991
+01|BUDAPEST|011|BUDAPEST     XI. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2383|5|771
+01|BUDAPEST|011|BUDAPEST     XI. ker.|5|LENGYEL|5|Kis. vál. érvényes, eredményes|9010|5|2849
+01|BUDAPEST|011|BUDAPEST     XI. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|32441|5|9712
+01|BUDAPEST|011|BUDAPEST     XI. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|7402|5|2230
+01|BUDAPEST|011|BUDAPEST     XI. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1189|5|516
+01|BUDAPEST|011|BUDAPEST     XI. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|846|5|290
+01|BUDAPEST|012|BUDAPEST     XII. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3058|5|842
+01|BUDAPEST|012|BUDAPEST     XII. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|2748|5|882
+01|BUDAPEST|012|BUDAPEST     XII. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1736|5|636
+01|BUDAPEST|012|BUDAPEST     XII. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|16307|5|5537
+01|BUDAPEST|012|BUDAPEST     XII. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|5664|5|1892
+01|BUDAPEST|012|BUDAPEST     XII. ker.|9|RUSZIN|5|Kis. vál. érvényes, eredményes|905|5|349
+01|BUDAPEST|012|BUDAPEST     XII. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|672|5|210
+01|BUDAPEST|012|BUDAPEST     XII. ker.|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2077|5|677
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5283|5|1807
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|4390|5|1396
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|946|5|323
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|5|LENGYEL|5|Kis. vál. érvényes, eredményes|4027|5|1364
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|13473|5|4395
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|2336|5|889
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|675|5|262
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|465|5|160
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1275|5|457
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|1112|5|379
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|6797|5|2229
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|5379|5|1629
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2156|5|718
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|5|LENGYEL|5|Kis. vál. érvényes, eredményes|4315|5|1535
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|14746|5|4987
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|4232|5|1298
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|851|5|301
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|9|RUSZIN|5|Kis. vál. érvényes, eredményes|529|5|170
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|534|5|177
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1177|5|446
+01|BUDAPEST|015|BUDAPEST     XV. ker.|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|1031|5|392
+01|BUDAPEST|015|BUDAPEST     XV. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3084|5|1252
+01|BUDAPEST|015|BUDAPEST     XV. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|1783|5|616
+01|BUDAPEST|015|BUDAPEST     XV. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1025|5|371
+01|BUDAPEST|015|BUDAPEST     XV. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|10320|5|3671
+01|BUDAPEST|015|BUDAPEST     XV. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|884|5|268
+01|BUDAPEST|015|BUDAPEST     XV. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|350|5|168
+01|BUDAPEST|015|BUDAPEST     XV. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|357|5|138
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2604|5|1125
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1805|5|625
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|5|LENGYEL|5|Kis. vál. érvényes, eredményes|2397|5|799
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|14857|5|6238
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1236|5|416
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|568|5|257
+01|BUDAPEST|017|BUDAPEST     XVII. ker.|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|694|5|284
+01|BUDAPEST|017|BUDAPEST     XVII. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1890|5|879
+01|BUDAPEST|017|BUDAPEST     XVII. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|12220|5|4961
+01|BUDAPEST|017|BUDAPEST     XVII. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|629|5|280
+01|BUDAPEST|017|BUDAPEST     XVII. ker.|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2150|5|818
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|396|5|136
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2941|5|1045
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|3163|5|1094
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1198|5|409
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|5|LENGYEL|5|Kis. vál. érvényes, eredményes|1887|5|665
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|13888|5|5044
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1026|5|303
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|9|RUSZIN|5|Kis. vál. érvényes, eredményes|359|5|114
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|254|5|120
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|12|SZLOVÉN|5|Kis. vál. érvényes, eredményes|648|5|217
+01|BUDAPEST|019|BUDAPEST     XIX. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2477|5|1086
+01|BUDAPEST|019|BUDAPEST     XIX. ker.|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|2600|5|901
+01|BUDAPEST|019|BUDAPEST     XIX. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1421|5|497
+01|BUDAPEST|019|BUDAPEST     XIX. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|7871|5|3344
+01|BUDAPEST|019|BUDAPEST     XIX. ker.|10|SZERB|5|Kis. vál. érvényes, eredményes|614|5|272
+01|BUDAPEST|020|BUDAPEST     XX. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2159|5|1160
+01|BUDAPEST|020|BUDAPEST     XX. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|14690|5|6204
+01|BUDAPEST|020|BUDAPEST     XX. ker.|8|ROMÁN|5|Kis. vál. érvényes, eredményes|686|5|349
+01|BUDAPEST|021|BUDAPEST     XXI. ker.|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|1778|5|912
+01|BUDAPEST|021|BUDAPEST     XXI. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1841|5|886
+01|BUDAPEST|021|BUDAPEST     XXI. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|16107|5|6597
+01|BUDAPEST|021|BUDAPEST     XXI. ker.|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1400|5|492
+01|BUDAPEST|022|BUDAPEST     XXII. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3137|5|1317
+01|BUDAPEST|022|BUDAPEST     XXII. ker.|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1262|5|512
+01|BUDAPEST|022|BUDAPEST     XXII. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|16440|5|6586
+01|BUDAPEST|023|BUDAPEST     XXIII. ker.|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1109|5|491
+01|BUDAPEST|023|BUDAPEST     XXIII. ker.|6|NÉMET|5|Kis. vál. érvényes, eredményes|8242|5|4367
+02|BARANYA|001|ABALIGET|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|545|3|264
+02|BARANYA|002|ADORJÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|89|3|56
+02|BARANYA|011|BABARC|2|CIGÁNY|2|Érvénytelen választás|21|0|7
+02|BARANYA|011|BABARC|6|NÉMET|5|Kis. vál. érvényes, eredményes|523|3|215
+02|BARANYA|012|BABARCSZÕLÕS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|105|3|52
+02|BARANYA|020|BÁNFA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|116|3|108
+02|BARANYA|021|BÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|510|3|246
+02|BARANYA|016|BARANYAHIDVÉG|2|CIGÁNY|2|Érvénytelen választás|35|0|24
+02|BARANYA|023|BEREMEND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|327|5|127
+02|BARANYA|023|BEREMEND|6|NÉMET|5|Kis. vál. érvényes, eredményes|2159|5|748
+02|BARANYA|026|BEZEDEK|6|NÉMET|5|Kis. vál. érvényes, eredményes|298|3|131
+02|BARANYA|028|BIKAL|6|NÉMET|5|Kis. vál. érvényes, eredményes|882|3|399
+02|BARANYA|034|BOGÁDMINDSZENT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|350|3|172
+02|BARANYA|035|BOGDÁSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|165|3|165
+02|BARANYA|036|BOLDOGASSZONYFA|6|NÉMET|5|Kis. vál. érvényes, eredményes|410|3|410
+02|BARANYA|040|BÓLY|6|NÉMET|5|Kis. vál. érvényes, eredményes|4138|5|1110
+02|BARANYA|037|BORJÁD|2|CIGÁNY|2|Érvénytelen választás|46|0|17
+02|BARANYA|037|BORJÁD|6|NÉMET|5|Kis. vál. érvényes, eredményes|387|3|151
+02|BARANYA|051|DENCSHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|447|3|197
+02|BARANYA|052|DINNYEBERKI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|92|3|50
+02|BARANYA|054|DRÁVACSEHI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|156|3|98
+02|BARANYA|058|DRÁVAKERESZTÚR|4|HORVÁT|5|Kis. vál. érvényes, eredményes|240|3|101
+02|BARANYA|059|DRÁVAPALKONYA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|142|3|59
+02|BARANYA|061|DRÁVASZABOLCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|286|3|196
+02|BARANYA|064|DUNASZEKCSÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|393|5|216
+02|BARANYA|065|EGERÁG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|297|3|145
+02|BARANYA|072|ERZSÉBET|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|156|3|156
+02|BARANYA|073|FAZEKASBODA|6|NÉMET|5|Kis. vál. érvényes, eredményes|369|3|147
+02|BARANYA|074|FEKED|6|NÉMET|5|Kis. vál. érvényes, eredményes|467|3|167
+02|BARANYA|076|FELSÕSZENTMÁRTON|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1533|3|585
+02|BARANYA|078|GERDE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|490|3|192
+02|BARANYA|080|GERÉNYES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|135|3|68
+02|BARANYA|079|GERESDLAK|6|NÉMET|5|Kis. vál. érvényes, eredményes|895|3|415
+02|BARANYA|081|GILVÁNFA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|421|3|165
+02|BARANYA|082|GORDISA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|154|3|117
+02|BARANYA|086|GYÓD|6|NÉMET|5|Kis. vál. érvényes, eredményes|507|3|185
+02|BARANYA|088|GYÖNGYÖSMELLÉK|2|CIGÁNY|2|Érvénytelen választás|86|0|44
+02|BARANYA|090|HÁSSÁGY|6|NÉMET|5|Kis. vál. érvényes, eredményes|342|3|156
+02|BARANYA|092|HEGYSZENTMÁRTON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|170|3|85
+02|BARANYA|094|HETVEHELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|140|3|66
+02|BARANYA|094|HETVEHELY|6|NÉMET|5|Kis. vál. érvényes, eredményes|403|3|168
+02|BARANYA|095|HIDAS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|493|5|883
+02|BARANYA|096|HIMESHÁZA|6|NÉMET|5|Kis. vál. érvényes, eredményes|1415|3|604
+02|BARANYA|101|HOSSZÚHETÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1011|5|379
+02|BARANYA|106|IVÁNBATTYÁN|6|NÉMET|5|Kis. vál. érvényes, eredményes|191|3|95
+02|BARANYA|112|KÁSÁD|4|HORVÁT|5|Kis. vál. érvényes, eredményes|492|3|213
+02|BARANYA|113|KÁTOLY|4|HORVÁT|5|Kis. vál. érvényes, eredményes|463|3|210
+02|BARANYA|120|KISASSZONYFA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|300|3|123
+02|BARANYA|122|KISBUDMÉR|2|CIGÁNY|2|Érvénytelen választás|79|0|48
+02|BARANYA|128|KISJAKABFALVA|6|NÉMET|5|Kis. vál. érvényes, eredményes|248|3|97
+02|BARANYA|129|KISKASSA|6|NÉMET|5|Kis. vál. érvényes, eredményes|195|3|121
+02|BARANYA|132|KISSZENTMÁRTON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|165|3|120
+02|BARANYA|133|KISTAMÁSI|2|CIGÁNY|2|Érvénytelen választás|105|0|44
+02|BARANYA|136|KISVASZAR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|173|3|97
+02|BARANYA|137|KOMLÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2174|5|1202
+02|BARANYA|137|KOMLÓ|4|HORVÁT|5|Kis. vál. érvényes, eredményes|770|5|464
+02|BARANYA|137|KOMLÓ|6|NÉMET|5|Kis. vál. érvényes, eredményes|5639|5|2903
+02|BARANYA|140|KOZÁRMISLENY|4|HORVÁT|5|Kis. vál. érvényes, eredményes|619|5|201
+02|BARANYA|140|KOZÁRMISLENY|6|NÉMET|5|Kis. vál. érvényes, eredményes|2048|5|578
+02|BARANYA|143|KÖKÉNY|4|HORVÁT|5|Kis. vál. érvényes, eredményes|613|3|237
+02|BARANYA|144|KÖLKED|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|625|3|292
+02|BARANYA|145|KÕVÁGÓSZÕLÕS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|871|3|437
+02|BARANYA|146|KÕVÁGÓTÕTTÕS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|326|3|152
+02|BARANYA|148|LÁNYCSÓK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|354|5|114
+02|BARANYA|148|LÁNYCSÓK|6|NÉMET|5|Kis. vál. érvényes, eredményes|1712|5|571
+02|BARANYA|149|LIGET|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|138|3|71
+02|BARANYA|150|LIPPÓ|6|NÉMET|5|Kis. vál. érvényes, eredményes|605|3|274
+02|BARANYA|151|LIPTÓD|6|NÉMET|5|Kis. vál. érvényes, eredményes|366|3|152
+02|BARANYA|154|LÚZSOK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|189|3|109
+02|BARANYA|158|MAGYARLUKAFA|2|CIGÁNY|2|Érvénytelen választás|63|0|23
+02|BARANYA|159|MAGYARMECSKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|241|3|147
+02|BARANYA|163|MAJS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|64|3|41
+02|BARANYA|170|MÁNFA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|849|3|386
+02|BARANYA|171|MÁRFA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|165|3|95
+02|BARANYA|173|MÁROK|6|NÉMET|5|Kis. vál. érvényes, eredményes|722|3|298
+02|BARANYA|168|MATTY|2|CIGÁNY|2|Érvénytelen választás|67|0|40
+02|BARANYA|178|MERENYE|2|CIGÁNY|2|Érvénytelen választás|38|0|28
+02|BARANYA|181|MOHÁCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1771|5|552
+02|BARANYA|181|MOHÁCS|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2186|5|1027
+02|BARANYA|181|MOHÁCS|6|NÉMET|5|Kis. vál. érvényes, eredményes|5874|5|2689
+02|BARANYA|181|MOHÁCS|10|SZERB|5|Kis. vál. érvényes, eredményes|300|5|152
+02|BARANYA|185|NAGYBUDMÉR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|106|3|64
+02|BARANYA|186|NAGYCSÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|113|3|55
+02|BARANYA|187|NAGYDOBSZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|536|3|536
+02|BARANYA|191|NAGYNYÁRÁD|2|CIGÁNY|2|Érvénytelen választás|72|0|42
+02|BARANYA|191|NAGYNYÁRÁD|6|NÉMET|5|Kis. vál. érvényes, eredményes|851|3|395
+02|BARANYA|192|NAGYPALL|6|NÉMET|5|Kis. vál. érvényes, eredményes|506|3|186
+02|BARANYA|197|NYUGOTSZENTERZSÉBET|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|113|3|58
+02|BARANYA|204|ÓBÁNYA|6|NÉMET|5|Kis. vál. érvényes, eredményes|179|3|75
+02|BARANYA|200|OLASZ|4|HORVÁT|5|Kis. vál. érvényes, eredményes|187|3|102
+02|BARANYA|200|OLASZ|6|NÉMET|5|Kis. vál. érvényes, eredményes|507|3|217
+02|BARANYA|201|OLD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|154|3|154
+02|BARANYA|207|ÓZDFALU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|160|3|88
+02|BARANYA|211|PATAPOKLOSI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|379|3|154
+02|BARANYA|217|PÉCS|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|1244|5|493
+02|BARANYA|217|PÉCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4523|5|1895
+02|BARANYA|217|PÉCS|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|2456|5|941
+02|BARANYA|217|PÉCS|4|HORVÁT|5|Kis. vál. érvényes, eredményes|6558|5|2667
+02|BARANYA|217|PÉCS|5|LENGYEL|5|Kis. vál. érvényes, eredményes|1429|5|536
+02|BARANYA|217|PÉCS|6|NÉMET|5|Kis. vál. érvényes, eredményes|29396|5|11659
+02|BARANYA|217|PÉCS|10|SZERB|5|Kis. vál. érvényes, eredményes|868|5|316
+02|BARANYA|220|PÉCSUDVARD|4|HORVÁT|5|Kis. vál. érvényes, eredményes|457|3|225
+02|BARANYA|221|PÉCSVÁRAD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|80|5|59
+02|BARANYA|221|PÉCSVÁRAD|6|NÉMET|5|Kis. vál. érvényes, eredményes|2655|5|820
+02|BARANYA|216|PETTEND|2|CIGÁNY|2|Érvénytelen választás|58|0|43
+02|BARANYA|222|PISKÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|318|3|145
+02|BARANYA|223|POGÁNY|4|HORVÁT|5|Kis. vál. érvényes, eredményes|270|3|150
+02|BARANYA|223|POGÁNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|331|3|176
+02|BARANYA|225|RÁDFALVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|157|3|73
+02|BARANYA|231|SÁSD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|516|5|216
+02|BARANYA|231|SÁSD|6|NÉMET|5|Kis. vál. érvényes, eredményes|1795|5|713
+02|BARANYA|233|SELLYE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|251|5|114
+02|BARANYA|233|SELLYE|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2488|5|786
+02|BARANYA|234|SIKLÓS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|899|5|348
+02|BARANYA|234|SIKLÓS|4|HORVÁT|5|Kis. vál. érvényes, eredményes|917|5|594
+02|BARANYA|234|SIKLÓS|6|NÉMET|5|Kis. vál. érvényes, eredményes|2035|5|1264
+02|BARANYA|236|SIKLÓSNAGYFALU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|392|3|173
+02|BARANYA|237|SOMBEREK|6|NÉMET|5|Kis. vál. érvényes, eredményes|1065|5|387
+02|BARANYA|238|SOMOGYAPÁTI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|360|3|232
+02|BARANYA|243|SUMONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|373|3|189
+02|BARANYA|245|SZAJK|2|CIGÁNY|2|Érvénytelen választás|72|0|30
+02|BARANYA|245|SZAJK|6|NÉMET|5|Kis. vál. érvényes, eredményes|832|3|324
+02|BARANYA|247|SZALÁNTA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|919|3|394
+02|BARANYA|252|SZÁSZVÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|2672|5|1050
+02|BARANYA|254|SZEDERKÉNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|2397|5|674
+02|BARANYA|262|SZÉKELYSZABAR|6|NÉMET|5|Kis. vál. érvényes, eredményes|653|3|262
+02|BARANYA|256|SZEMELY|6|NÉMET|5|Kis. vál. érvényes, eredményes|413|3|177
+02|BARANYA|261|SZENTLÕRINC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2168|5|925
+02|BARANYA|263|SZIGETVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2541|5|1774
+02|BARANYA|268|SZÕKÉD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|261|3|129
+02|BARANYA|270|SZÛR|6|NÉMET|5|Kis. vál. érvényes, eredményes|373|3|142
+02|BARANYA|274|TÉKES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|155|3|72
+02|BARANYA|277|TORMÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|214|3|106
+02|BARANYA|282|UDVAR|6|NÉMET|5|Kis. vál. érvényes, eredményes|209|3|94
+02|BARANYA|283|ÚJPETRE|6|NÉMET|5|Kis. vál. érvényes, eredményes|1046|3|453
+02|BARANYA|287|VÁSÁROSBÉC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|145|3|76
+02|BARANYA|291|VELÉNY|2|CIGÁNY|2|Érvénytelen választás|76|0|38
+02|BARANYA|294|VÉMÉND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|337|5|107
+02|BARANYA|294|VÉMÉND|6|NÉMET|5|Kis. vál. érvényes, eredményes|2675|5|659
+02|BARANYA|292|VERSEND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|544|3|175
+02|BARANYA|292|VERSEND|4|HORVÁT|5|Kis. vál. érvényes, eredményes|241|3|78
+02|BARANYA|292|VERSEND|6|NÉMET|5|Kis. vál. érvényes, eredményes|195|3|65
+02|BARANYA|295|VILLÁNY|2|CIGÁNY|2|Érvénytelen választás|46|0|24
+02|BARANYA|295|VILLÁNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|3405|5|1007
+02|BARANYA|296|VILLÁNYKÖVESD|6|NÉMET|5|Kis. vál. érvényes, eredményes|374|3|211
+02|BARANYA|297|VOKÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|119|3|58
+02|BARANYA|297|VOKÁNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|678|3|268
+02|BARANYA|299|ZÁDOR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|200|3|112
+03|BÁCS|001|AKASZTÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|149|5|69
+03|BÁCS|007|BÁCSALMÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|893|5|433
+03|BÁCS|007|BÁCSALMÁS|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1083|5|615
+03|BÁCS|007|BÁCSALMÁS|6|NÉMET|5|Kis. vál. érvényes, eredményes|2622|5|1637
+03|BÁCS|008|BÁCSBOKOD|4|HORVÁT|5|Kis. vál. érvényes, eredményes|362|5|137
+03|BÁCS|008|BÁCSBOKOD|6|NÉMET|5|Kis. vál. érvényes, eredményes|2490|5|828
+03|BÁCS|010|BÁCSSZENTGYÖRGY|6|NÉMET|5|Kis. vál. érvényes, eredményes|353|3|137
+03|BÁCS|004|BAJA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1021|5|512
+03|BÁCS|004|BAJA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2915|5|1549
+03|BÁCS|004|BAJA|6|NÉMET|5|Kis. vál. érvényes, eredményes|7281|5|3403
+03|BÁCS|004|BAJA|10|SZERB|5|Kis. vál. érvényes, eredményes|1019|5|594
+03|BÁCS|006|BALOTASZÁLLÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|424|5|260
+03|BÁCS|013|BÁTYA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1538|5|539
+03|BÁCS|019|CSÁTALJA|6|NÉMET|5|Kis. vál. érvényes, eredményes|2304|5|663
+03|BÁCS|020|CSÁVOLY|4|HORVÁT|5|Kis. vál. érvényes, eredményes|743|5|299
+03|BÁCS|020|CSÁVOLY|6|NÉMET|5|Kis. vál. érvényes, eredményes|1130|5|439
+03|BÁCS|021|CSENGÕD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|248|5|108
+03|BÁCS|022|CSIKÉRIA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|617|3|304
+03|BÁCS|027|DUNAFALVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|427|3|427
+03|BÁCS|029|DUNASZENTBENEDEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|391|3|292
+03|BÁCS|031|DUNAVECSE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|861|5|496
+03|BÁCS|032|DUSNOK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|168|5|55
+03|BÁCS|032|DUSNOK|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2563|5|831
+03|BÁCS|035|FAJSZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|271|5|136
+03|BÁCS|042|GARA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1420|5|379
+03|BÁCS|042|GARA|6|NÉMET|5|Kis. vál. érvényes, eredményes|1407|5|408
+03|BÁCS|049|HERCEGSZÁNTÓ|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1163|5|409
+03|BÁCS|049|HERCEGSZÁNTÓ|10|SZERB|5|Kis. vál. érvényes, eredményes|469|5|144
+03|BÁCS|054|JÁNOSHALMA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1763|5|1251
+03|BÁCS|056|KALOCSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2277|5|1482
+03|BÁCS|058|KATYMÁR|4|HORVÁT|5|Kis. vál. érvényes, eredményes|967|5|402
+03|BÁCS|058|KATYMÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|954|5|310
+03|BÁCS|059|KECEL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|659|5|277
+03|BÁCS|059|KECEL|6|NÉMET|5|Kis. vál. érvényes, eredményes|5332|5|1855
+03|BÁCS|060|KECSKEMÉT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|7917|5|3765
+03|BÁCS|060|KECSKEMÉT|6|NÉMET|5|Kis. vál. érvényes, eredményes|9577|5|4413
+03|BÁCS|062|KEREKEGYHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|529|5|523
+03|BÁCS|064|KISKÕRÖS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|569|5|241
+03|BÁCS|064|KISKÕRÖS|6|NÉMET|5|Kis. vál. érvényes, eredményes|1073|5|501
+03|BÁCS|064|KISKÕRÖS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|3977|5|2106
+03|BÁCS|066|KISKUNHALAS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|8419|5|4914
+03|BÁCS|067|KISKUNMAJSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4327|5|2419
+03|BÁCS|071|KUNBAJA|6|NÉMET|5|Kis. vál. érvényes, eredményes|3433|5|1017
+03|BÁCS|076|KUNSZENTMIKLÓS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3043|5|1231
+03|BÁCS|078|LAJOSMIZSE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1752|5|1416
+03|BÁCS|080|MADARAS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|227|5|173
+03|BÁCS|082|MÉLYKÚT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2476|5|850
+03|BÁCS|083|MISKE|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|773|5|375
+03|BÁCS|096|SOLT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1557|5|1158
+03|BÁCS|099|SÜKÖSD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1283|5|600
+03|BÁCS|100|SZABADSZÁLLÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1256|5|563
+03|BÁCS|102|SZALKSZENTMÁRTON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|354|5|247
+03|BÁCS|116|VASKÚT|6|NÉMET|5|Kis. vál. érvényes, eredményes|3056|5|1044
+04|BÉKÉS|001|ALMÁSKAMARÁS|6|NÉMET|5|Kis. vál. érvényes, eredményes|988|3|452
+04|BÉKÉS|002|BATTONYA|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1612|5|630
+04|BÉKÉS|002|BATTONYA|10|SZERB|5|Kis. vál. érvényes, eredményes|1468|5|488
+04|BÉKÉS|003|BÉKÉS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3860|5|2717
+04|BÉKÉS|004|BÉKÉSCSABA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1642|5|779
+04|BÉKÉS|004|BÉKÉSCSABA|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1407|5|701
+04|BÉKÉS|004|BÉKÉSCSABA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|17162|5|7828
+04|BÉKÉS|011|CSABASZABADI|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|541|3|263
+04|BÉKÉS|014|CSORVÁS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2430|5|1189
+04|BÉKÉS|016|DOBOZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1257|5|640
+04|BÉKÉS|020|ELEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1009|5|313
+04|BÉKÉS|020|ELEK|6|NÉMET|5|Kis. vál. érvényes, eredményes|1707|5|534
+04|BÉKÉS|020|ELEK|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1112|5|377
+04|BÉKÉS|021|FÜZESGYARMAT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1789|5|1247
+04|BÉKÉS|022|GÁDOROS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2050|5|895
+04|BÉKÉS|023|GERENDÁS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1634|5|652
+04|BÉKÉS|024|GESZT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|575|3|323
+04|BÉKÉS|025|GYOMAENDRÕD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|699|5|439
+04|BÉKÉS|025|GYOMAENDRÕD|6|NÉMET|5|Kis. vál. érvényes, eredményes|1973|5|1213
+04|BÉKÉS|026|GYULA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|306|5|139
+04|BÉKÉS|026|GYULA|6|NÉMET|5|Kis. vál. érvényes, eredményes|6367|5|2818
+04|BÉKÉS|026|GYULA|8|ROMÁN|5|Kis. vál. érvényes, eredményes|4198|5|1664
+04|BÉKÉS|029|KARDOS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|791|3|346
+04|BÉKÉS|034|KÉTEGYHÁZA|6|NÉMET|5|Kis. vál. érvényes, eredményes|556|5|178
+04|BÉKÉS|034|KÉTEGYHÁZA|8|ROMÁN|5|Kis. vál. érvényes, eredményes|4585|5|1271
+04|BÉKÉS|035|KÉTSOPRONY|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2025|5|542
+04|BÉKÉS|037|KONDOROS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|4054|5|1935
+04|BÉKÉS|039|KÖRÖSNAGYHARSÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|385|3|243
+04|BÉKÉS|044|LÖKÖSHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|268|5|119
+04|BÉKÉS|044|LÖKÖSHÁZA|8|ROMÁN|5|Kis. vál. érvényes, eredményes|815|5|464
+04|BÉKÉS|048|MEDGYESEGYHÁZA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|3048|5|1431
+04|BÉKÉS|053|MÉHKERÉK|8|ROMÁN|5|Kis. vál. érvényes, eredményes|4402|5|969
+04|BÉKÉS|049|MEZÕBERÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|465|5|286
+04|BÉKÉS|049|MEZÕBERÉNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|2330|5|1071
+04|BÉKÉS|049|MEZÕBERÉNY|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2087|5|998
+04|BÉKÉS|050|MEZÕGYÁN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1486|5|488
+04|BÉKÉS|055|NAGYBÁNHEGYES|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2306|5|798
+04|BÉKÉS|059|OROSHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2550|5|1505
+04|BÉKÉS|059|OROSHÁZA|6|NÉMET|5|Kis. vál. érvényes, eredményes|5956|5|3179
+04|BÉKÉS|060|ÖRMÉNYKÚT|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|563|3|259
+04|BÉKÉS|062|PUSZTAOTTLAKA|8|ROMÁN|5|Kis. vál. érvényes, eredményes|445|3|226
+04|BÉKÉS|063|SARKAD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3491|5|1693
+04|BÉKÉS|066|SZARVAS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|671|5|389
+04|BÉKÉS|066|SZARVAS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|9406|5|4029
+04|BÉKÉS|067|SZEGHALOM|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2529|5|2128
+04|BÉKÉS|069|TELEKGERENDÁS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2330|5|697
+04|BÉKÉS|070|TÓTKOMLÓS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|7536|5|2214
+04|BÉKÉS|071|ÚJKÍGYÓS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1093|5|441
+04|BÉKÉS|073|VÉGEGYHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1982|5|544
+04|BÉKÉS|074|VÉSZTÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2892|5|1148
+05|BORSOD|004|ABAÚJSZÁNTÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1461|5|625
+05|BORSOD|006|ABAÚJVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|104|3|92
+05|BORSOD|014|ALSÓSZUHA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|280|3|170
+05|BORSOD|016|ALSÓVADÁSZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1769|5|506
+05|BORSOD|017|ALSÓZSOLCA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5402|5|1721
+05|BORSOD|019|ARLÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1157|5|414
+05|BORSOD|020|ARNÓT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2497|5|699
+05|BORSOD|022|ÁROKTÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|748|5|399
+05|BORSOD|021|ASZALÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|762|5|292
+05|BORSOD|023|BAKTAKÉK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|599|3|307
+05|BORSOD|024|BALAJT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|278|3|258
+05|BORSOD|027|BÁNRÉVE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|960|5|362
+05|BORSOD|030|BERET|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|200|3|99
+05|BORSOD|031|BERZÉK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|613|3|346
+05|BORSOD|036|BOGÁCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|476|5|182
+05|BORSOD|037|BOLDOGKÕÚJFALU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|360|3|360
+05|BORSOD|038|BOLDOGKÕVÁRALJA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|988|3|442
+05|BORSOD|039|BOLDVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1195|5|460
+05|BORSOD|040|BORSODBÓTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|552|3|282
+05|BORSOD|043|BORSODNÁDASD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3233|5|1381
+05|BORSOD|045|BORSODSZIRÁK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|404|3|178
+05|BORSOD|045|BORSODSZIRÁK|5|LENGYEL|2|Érvénytelen választás|89|0|47
+05|BORSOD|050|BÕCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2614|5|773
+05|BORSOD|051|BÜKKARANYOS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|878|5|346
+05|BORSOD|054|BÜKKSZENTKERESZT|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2350|5|758
+05|BORSOD|057|CIGÁND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3601|5|3601
+05|BORSOD|058|CSENYÉTE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|312|3|160
+05|BORSOD|061|CSERNELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|537|3|253
+05|BORSOD|064|CSOBÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|701|3|390
+05|BORSOD|071|DOMAHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|818|3|460
+05|BORSOD|072|DÖVÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|327|3|124
+05|BORSOD|074|EDELÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1428|5|887
+05|BORSOD|074|EDELÉNY|5|LENGYEL|5|Kis. vál. érvényes, eredményes|2800|5|1462
+05|BORSOD|076|EMÕD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|839|5|295
+05|BORSOD|076|EMÕD|5|LENGYEL|5|Kis. vál. érvényes, eredményes|1487|5|652
+05|BORSOD|077|ENCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3137|5|1394
+05|BORSOD|082|FÁJ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|157|3|106
+05|BORSOD|086|FELSÕKELECSÉNY|5|LENGYEL|5|Kis. vál. érvényes, eredményes|320|3|183
+05|BORSOD|088|FELSÕREGMEC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|139|3|63
+05|BORSOD|091|FELSÕZSOLCA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1634|5|887
+05|BORSOD|091|FELSÕZSOLCA|5|LENGYEL|5|Kis. vál. érvényes, eredményes|875|5|340
+05|BORSOD|093|FONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|245|3|117
+05|BORSOD|094|FORRÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3463|5|827
+05|BORSOD|095|FULÓKÉRCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|298|3|146
+05|BORSOD|096|FÜZÉR|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|873|3|357
+05|BORSOD|099|FÜZÉRRADVÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|387|3|189
+05|BORSOD|108|GIRINCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|731|3|731
+05|BORSOD|111|GÖNC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1762|5|682
+05|BORSOD|112|GÖNCRUSZKA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|337|3|239
+05|BORSOD|114|HALMAJ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1415|5|536
+05|BORSOD|116|HANGONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|942|5|352
+05|BORSOD|117|HARSÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|571|5|387
+05|BORSOD|122|HEJÕKERESZTÚR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|641|3|346
+05|BORSOD|124|HEJÕPAPI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|832|3|476
+05|BORSOD|129|HERNÁDKAK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|289|5|289
+05|BORSOD|130|HERNÁDKÉRCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|183|3|126
+05|BORSOD|131|HERNÁDNÉMETI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2228|5|938
+05|BORSOD|132|HERNÁDPETRI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|123|3|70
+05|BORSOD|133|HERNÁDSZENTANDRÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|280|3|165
+05|BORSOD|134|HERNÁDSZURDOK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|178|3|178
+05|BORSOD|135|HERNÁDVÉCSE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|893|3|424
+05|BORSOD|139|HOLLÓHÁZA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|854|3|548
+05|BORSOD|140|HOMROGD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|716|3|348
+05|BORSOD|141|IGRICI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|887|5|381
+05|BORSOD|143|INÁNCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|274|3|161
+05|BORSOD|143|INÁNCS|6|NÉMET|5|Kis. vál. érvényes, eredményes|364|3|197
+05|BORSOD|143|INÁNCS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|257|3|202
+05|BORSOD|147|JÁRDÁNHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1682|5|639
+05|BORSOD|151|KAZINCBARCIKA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4195|5|2353
+05|BORSOD|151|KAZINCBARCIKA|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1203|5|715
+05|BORSOD|155|KÁZSMÁRK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|535|3|289
+05|BORSOD|156|KELEMÉR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|305|3|146
+05|BORSOD|157|KENÉZLÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1058|5|394
+05|BORSOD|159|KESZNYÉTEN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1208|5|673
+05|BORSOD|162|KISCSÉCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|248|3|102
+05|BORSOD|163|KISGYÕR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|867|5|329
+05|BORSOD|164|KISHUTA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|536|3|224
+05|BORSOD|166|KISROZVÁGY|2|CIGÁNY|2|Érvénytelen választás|78|0|34
+05|BORSOD|170|KOMLÓSKA|9|RUSZIN|5|Kis. vál. érvényes, eredményes|242|3|125
+05|BORSOD|173|KOVÁCSVÁGÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|539|3|230
+05|BORSOD|174|KÖRÖM|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|908|3|417
+05|BORSOD|177|KURITYÁN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|679|5|362
+05|BORSOD|179|LÁCACSÉKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|267|3|135
+05|BORSOD|180|LÁDBESENYÕ|5|LENGYEL|5|Kis. vál. érvényes, eredményes|577|3|223
+05|BORSOD|182|LÉH|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|228|3|159
+05|BORSOD|186|MARTONYI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|219|3|109
+05|BORSOD|186|MARTONYI|5|LENGYEL|2|Érvénytelen választás|97|0|45
+05|BORSOD|186|MARTONYI|6|NÉMET|5|Kis. vál. érvényes, eredményes|100|3|54
+05|BORSOD|190|MEGYASZÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2793|5|878
+05|BORSOD|198|MÉRA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1251|5|561
+05|BORSOD|192|MEZÕCSÁT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2130|5|751
+05|BORSOD|194|MEZÕKÖVESD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4205|5|2399
+05|BORSOD|197|MEZÕZOMBOR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1290|5|588
+05|BORSOD|200|MISKOLC|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|3252|5|1652
+05|BORSOD|200|MISKOLC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|6661|5|3218
+05|BORSOD|200|MISKOLC|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|6668|5|2713
+05|BORSOD|200|MISKOLC|5|LENGYEL|5|Kis. vál. érvényes, eredményes|3193|5|2101
+05|BORSOD|200|MISKOLC|6|NÉMET|5|Kis. vál. érvényes, eredményes|9100|5|3905
+05|BORSOD|200|MISKOLC|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|5117|5|2089
+05|BORSOD|203|MONOK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1241|5|624
+05|BORSOD|205|MÚCSONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|596|5|596
+05|BORSOD|205|MÚCSONY|9|RUSZIN|5|Kis. vál. érvényes, eredményes|1881|5|1881
+05|BORSOD|214|NOVAJIDRÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1563|5|546
+05|BORSOD|220|ONGA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3959|5|1394
+05|BORSOD|223|ÓNOD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1674|5|565
+05|BORSOD|224|ÓZD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|15944|5|6337
+05|BORSOD|227|PÁCIN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|965|5|360
+05|BORSOD|226|PARASZNYA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|641|5|270
+05|BORSOD|230|PERE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|247|3|128
+05|BORSOD|232|PERKUPA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|251|3|105
+05|BORSOD|232|PERKUPA|5|LENGYEL|5|Kis. vál. érvényes, eredményes|671|3|281
+05|BORSOD|233|PRÜGY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1522|5|605
+05|BORSOD|235|PUSZTARADVÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|324|3|129
+05|BORSOD|236|PUTNOK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|6025|5|1806
+05|BORSOD|238|RAGÁLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|547|3|236
+05|BORSOD|239|RAKACA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|760|3|389
+05|BORSOD|241|RÁSONYSÁPBERENCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|215|3|120
+05|BORSOD|247|RUDABÁNYA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2061|5|831
+05|BORSOD|252|SAJÓHIDVÉG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|576|3|266
+05|BORSOD|253|SAJÓIVÁNKA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|167|3|103
+05|BORSOD|254|SAJÓKAZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1596|5|522
+05|BORSOD|260|SAJÓNÉMETI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|514|3|244
+05|BORSOD|266|SAJÓSZENTPÉTER|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1991|5|1163
+05|BORSOD|266|SAJÓSZENTPÉTER|5|LENGYEL|5|Kis. vál. érvényes, eredményes|1733|5|1108
+05|BORSOD|269|SAJÓVELEZD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|392|3|197
+05|BORSOD|270|SÁLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1505|5|482
+05|BORSOD|272|SÁROSPATAK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|794|5|524
+05|BORSOD|272|SÁROSPATAK|6|NÉMET|5|Kis. vál. érvényes, eredményes|2720|5|1532
+05|BORSOD|272|SÁROSPATAK|9|RUSZIN|5|Kis. vál. érvényes, eredményes|1161|5|829
+05|BORSOD|273|SÁTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|945|5|377
+05|BORSOD|274|SÁTORALJAÚJHELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1144|5|676
+05|BORSOD|274|SÁTORALJAÚJHELY|6|NÉMET|5|Kis. vál. érvényes, eredményes|2872|5|1271
+05|BORSOD|274|SÁTORALJAÚJHELY|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|3032|5|1505
+05|BORSOD|276|SEMJÉN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|242|3|121
+05|BORSOD|277|SERÉNYFALVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|649|3|370
+05|BORSOD|282|SZALASZEND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|431|3|256
+05|BORSOD|283|SZALONNA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|244|3|124
+05|BORSOD|283|SZALONNA|5|LENGYEL|5|Kis. vál. érvényes, eredményes|225|3|152
+05|BORSOD|287|SZEMERE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|387|3|180
+05|BORSOD|288|SZENDRÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1433|5|444
+05|BORSOD|288|SZENDRÕ|6|NÉMET|5|Kis. vál. érvényes, eredményes|525|5|180
+05|BORSOD|289|SZENDRÕLÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1125|5|395
+05|BORSOD|289|SZENDRÕLÁD|5|LENGYEL|5|Kis. vál. érvényes, eredményes|483|5|177
+05|BORSOD|292|SZERENCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4301|5|2300
+05|BORSOD|293|SZIKSZÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3578|5|1366
+05|BORSOD|294|SZIN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|603|3|304
+05|BORSOD|297|SZOMOLYA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1203|5|466
+05|BORSOD|298|SZÖGLIGET|5|LENGYEL|5|Kis. vál. érvényes, eredményes|561|3|374
+05|BORSOD|304|TAKTAHARKÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4019|5|1190
+05|BORSOD|305|TAKTAKENÉZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|432|3|310
+05|BORSOD|306|TAKTASZADA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2097|5|695
+05|BORSOD|310|TÁLLYA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1105|5|366
+05|BORSOD|307|TARCAL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|941|5|1338
+05|BORSOD|315|TISZACSERMELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|207|3|103
+05|BORSOD|320|TISZALÚC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2095|5|920
+05|BORSOD|324|TISZAÚJVÁROS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5084|5|3445
+05|BORSOD|327|TOLCSVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2298|5|737
+05|BORSOD|343|VÁGÁSHUTA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|170|3|76
+05|BORSOD|339|VAJDÁCSKA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|804|5|353
+05|BORSOD|345|VILMÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1807|5|593
+05|BORSOD|347|VISS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|235|3|161
+05|BORSOD|349|VIZSOLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|500|3|320
+05|BORSOD|351|ZÁDORFALVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|391|3|194
+05|BORSOD|352|ZEMPLÉNAGÁRD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|384|3|251
+06|CSONGRÁD|003|APÁTFALVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1711|5|815
+06|CSONGRÁD|015|DESZK|10|SZERB|5|Kis. vál. érvényes, eredményes|5013|5|1303
+06|CSONGRÁD|024|HÓDMEZÕVÁSÁRHELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5104|5|3610
+06|CSONGRÁD|024|HÓDMEZÕVÁSÁRHELY|6|NÉMET|5|Kis. vál. érvényes, eredményes|4904|5|2991
+06|CSONGRÁD|026|KISTELEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2076|5|1220
+06|CSONGRÁD|031|MAGYARCSANÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|563|5|184
+06|CSONGRÁD|031|MAGYARCSANÁD|8|ROMÁN|5|Kis. vál. érvényes, eredményes|606|5|160
+06|CSONGRÁD|031|MAGYARCSANÁD|10|SZERB|5|Kis. vál. érvényes, eredményes|386|5|108
+06|CSONGRÁD|032|MAKÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|7774|5|3952
+06|CSONGRÁD|044|PITVAROS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2288|5|690
+06|CSONGRÁD|051|SZEGED|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2714|5|1405
+06|CSONGRÁD|051|SZEGED|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|2730|5|1241
+06|CSONGRÁD|051|SZEGED|5|LENGYEL|5|Kis. vál. érvényes, eredményes|3235|5|1452
+06|CSONGRÁD|051|SZEGED|6|NÉMET|5|Kis. vál. érvényes, eredményes|11475|5|5071
+06|CSONGRÁD|051|SZEGED|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1656|5|664
+06|CSONGRÁD|051|SZEGED|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1030|5|496
+06|CSONGRÁD|051|SZEGED|10|SZERB|5|Kis. vál. érvényes, eredményes|3402|5|1848
+06|CSONGRÁD|051|SZEGED|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1620|5|811
+06|CSONGRÁD|051|SZEGED|13|UKRÁN|5|Kis. vál. érvényes, eredményes|726|5|390
+06|CSONGRÁD|053|SZENTES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|7017|5|4295
+06|CSONGRÁD|057|ÚJSZENTIVÁN|10|SZERB|5|Kis. vál. érvényes, eredményes|1177|5|340
+07|FEJÉR|002|ADONY|6|NÉMET|5|Kis. vál. érvényes, eredményes|2671|5|965
+07|FEJÉR|006|BAKONYCSERNYE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|130|5|55
+07|FEJÉR|006|BAKONYCSERNYE|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1245|5|449
+07|FEJÉR|007|BAKONYKÚTI|6|NÉMET|5|Kis. vál. érvényes, eredményes|108|3|57
+07|FEJÉR|008|BALINKA|6|NÉMET|5|Kis. vál. érvényes, eredményes|658|3|350
+07|FEJÉR|010|BARACSKA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|705|5|385
+07|FEJÉR|011|BELOIANNISZ|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|944|3|482
+07|FEJÉR|013|BICSKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3230|5|1729
+07|FEJÉR|021|CSÓR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|295|5|187
+07|FEJÉR|024|DUNAÚJVÁROS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|8016|5|5603
+07|FEJÉR|027|ERCSI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1806|5|712
+07|FEJÉR|028|ETYEK|6|NÉMET|5|Kis. vál. érvényes, eredményes|3645|5|1082
+07|FEJÉR|032|GÁNT|6|NÉMET|5|Kis. vál. érvényes, eredményes|606|3|252
+07|FEJÉR|038|ISZTIMÉR|6|NÉMET|5|Kis. vál. érvényes, eredményes|950|3|419
+07|FEJÉR|042|KÁLOZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|291|5|180
+07|FEJÉR|054|MÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|241|5|68
+07|FEJÉR|054|MÁNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|1667|5|526
+07|FEJÉR|056|MEZÕFALVA|6|NÉMET|5|Kis. vál. érvényes, eredményes|2430|5|2430
+07|FEJÉR|058|MEZÕSZENTGYÖRGY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|633|5|335
+07|FEJÉR|061|MÓR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|499|5|221
+07|FEJÉR|061|MÓR|6|NÉMET|5|Kis. vál. érvényes, eredményes|5921|5|3380
+07|FEJÉR|071|PERKÁTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|900|5|694
+07|FEJÉR|072|POLGÁRDI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|993|5|667
+07|FEJÉR|073|PUSZTASZABOLCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|602|5|397
+07|FEJÉR|074|PUSZTAVÁM|6|NÉMET|5|Kis. vál. érvényes, eredményes|4116|5|1046
+07|FEJÉR|077|SÁRBOGÁRD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1355|5|1177
+07|FEJÉR|080|SÁRKERESZTÚR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|572|5|572
+07|FEJÉR|092|SZÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|1239|5|429
+07|FEJÉR|094|SZÉKESFEHÉRVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2194|5|1125
+07|FEJÉR|094|SZÉKESFEHÉRVÁR|5|LENGYEL|5|Kis. vál. érvényes, eredményes|2436|5|971
+07|FEJÉR|094|SZÉKESFEHÉRVÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|9440|5|4295
+07|FEJÉR|094|SZÉKESFEHÉRVÁR|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1708|5|744
+07|FEJÉR|094|SZÉKESFEHÉRVÁR|10|SZERB|5|Kis. vál. érvényes, eredményes|991|5|573
+07|FEJÉR|098|ÚJBAROK|6|NÉMET|5|Kis. vál. érvényes, eredményes|344|3|172
+07|FEJÉR|104|VÉRTESACSA|6|NÉMET|5|Kis. vál. érvényes, eredményes|1736|5|478
+07|FEJÉR|105|VÉRTESBOGLÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|1261|3|480
+07|FEJÉR|106|ZÁMOLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|97|5|71
+08|GYÕR|004|ÁGFALVA|6|NÉMET|5|Kis. vál. érvényes, eredményes|3011|5|790
+08|GYÕR|011|BEZENYE|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1667|5|692
+08|GYÕR|016|BÕNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|487|5|305
+08|GYÕR|024|CSORNA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3942|5|2460
+08|GYÕR|046|FERTÕHOMOK|4|HORVÁT|5|Kis. vál. érvényes, eredményes|326|3|173
+08|GYÕR|047|FERTÕRÁKOS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|161|5|54
+08|GYÕR|047|FERTÕRÁKOS|6|NÉMET|5|Kis. vál. érvényes, eredményes|1523|5|459
+08|GYÕR|054|GYÖMÖRE|2|CIGÁNY|2|Érvénytelen választás|81|0|34
+08|GYÕR|055|GYÕR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5834|5|3358
+08|GYÕR|055|GYÕR|5|LENGYEL|5|Kis. vál. érvényes, eredményes|3681|5|1800
+08|GYÕR|055|GYÕR|6|NÉMET|5|Kis. vál. érvényes, eredményes|14604|5|7285
+08|GYÕR|058|GYÕRSÁG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|137|5|137
+08|GYÕR|072|IKRÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|385|5|205
+08|GYÕR|073|IVÁN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|327|5|121
+08|GYÕR|074|JÁNOSSOMORJA|6|NÉMET|5|Kis. vál. érvényes, eredményes|5711|5|1994
+08|GYÕR|077|KAPUVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2544|5|1465
+08|GYÕR|078|KIMLE|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1783|5|477
+08|GYÕR|078|KIMLE|6|NÉMET|5|Kis. vál. érvényes, eredményes|2178|5|537
+08|GYÕR|085|KÓPHÁZA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2223|5|716
+08|GYÕR|087|LEVÉL|6|NÉMET|5|Kis. vál. érvényes, eredményes|2084|5|632
+08|GYÕR|091|MAGLÓCA|2|CIGÁNY|2|Érvénytelen választás|44|0|27
+08|GYÕR|094|MÁRIAKÁLNOK|6|NÉMET|5|Kis. vál. érvényes, eredményes|1621|5|484
+08|GYÕR|099|MOSONMAGYARÓVÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|10534|5|5200
+08|GYÕR|099|MOSONMAGYARÓVÁR|12|SZLOVÉN|5|Kis. vál. érvényes, eredményes|1070|5|652
+08|GYÕR|115|PÁZMÁNDFALU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|386|3|243
+08|GYÕR|123|RAJKA|6|NÉMET|5|Kis. vál. érvényes, eredményes|3055|5|857
+08|GYÕR|138|RÉTALAP|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|133|3|133
+08|GYÕR|143|SOPRON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|450|5|234
+08|GYÕR|143|SOPRON|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|1237|5|585
+08|GYÕR|143|SOPRON|6|NÉMET|5|Kis. vál. érvényes, eredményes|17148|5|9282
+08|GYÕR|147|SZAKONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|262|3|114
+08|GYÕR|151|SZIL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|513|5|236
+08|GYÕR|156|TÁRNOKRÉTI|2|CIGÁNY|2|Érvénytelen választás|32|0|19
+08|GYÕR|158|TÉT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|585|5|445
+08|GYÕR|160|UND|4|HORVÁT|5|Kis. vál. érvényes, eredményes|327|3|133
+08|GYÕR|170|VITNYÉD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|266|5|151
+09|HAJDÚ|001|ÁLMOSD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|252|5|168
+09|HAJDÚ|003|BAGAMÉR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1170|5|664
+09|HAJDÚ|005|BALMAZÚJVÁROS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4140|5|3174
+09|HAJDÚ|007|BEDÕ|2|CIGÁNY|2|Érvénytelen választás|87|0|40
+09|HAJDÚ|007|BEDÕ|8|ROMÁN|5|Kis. vál. érvényes, eredményes|356|3|146
+09|HAJDÚ|009|BERETTYÓÚJFALU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3003|5|2326
+09|HAJDÚ|011|BIHARKERESZTES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1827|5|963
+09|HAJDÚ|012|BIHARNAGYBAJOM|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1604|5|546
+09|HAJDÚ|013|BIHARTORDA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|414|3|280
+09|HAJDÚ|015|BOJT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|210|3|150
+09|HAJDÚ|016|CSÖKMÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|597|5|370
+09|HAJDÚ|017|DARVAS|8|ROMÁN|5|Kis. vál. érvényes, eredményes|418|3|255
+09|HAJDÚ|018|DEBRECEN|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|5294|5|2776
+09|HAJDÚ|018|DEBRECEN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|11453|5|5481
+09|HAJDÚ|018|DEBRECEN|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|9473|5|4850
+09|HAJDÚ|030|HAJDÚBÖSZÖRMÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|6524|5|4212
+09|HAJDÚ|032|HAJDÚHADHÁZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5850|5|2735
+09|HAJDÚ|034|HAJDÚSÁMSON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3547|5|1505
+09|HAJDÚ|035|HAJDÚSZOBOSZLÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3489|5|2746
+09|HAJDÚ|036|HAJDÚSZOVÁT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2673|5|868
+09|HAJDÚ|037|HENCIDA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|201|5|139
+09|HAJDÚ|039|HOSSZÚPÁLYI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2753|5|1131
+09|HAJDÚ|043|KOMÁDI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2460|5|1055
+09|HAJDÚ|044|KONYÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|359|5|186
+09|HAJDÚ|045|KÖRÖSSZAKÁL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|132|3|75
+09|HAJDÚ|045|KÖRÖSSZAKÁL|8|ROMÁN|5|Kis. vál. érvényes, eredményes|613|3|278
+09|HAJDÚ|046|KÖRÖSSZEGAPÁTI|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1293|3|547
+09|HAJDÚ|047|LÉTAVÉRTES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2896|5|1207
+09|HAJDÚ|049|MEZÕPETERD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|312|3|199
+09|HAJDÚ|056|NÁDUDVAR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1569|5|779
+09|HAJDÚ|055|NAGYRÁBÉ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|884|5|326
+09|HAJDÚ|059|NYÍRÁBRÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2412|5|1349
+09|HAJDÚ|057|NYÍRACSÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2215|5|1096
+09|HAJDÚ|058|NYÍRADONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|6158|5|2032
+09|HAJDÚ|061|POCSAJ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|334|5|103
+09|HAJDÚ|061|POCSAJ|8|ROMÁN|5|Kis. vál. érvényes, eredményes|801|5|339
+09|HAJDÚ|062|POLGÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4565|5|1524
+09|HAJDÚ|063|PÜSPÖKLADÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2797|5|1590
+09|HAJDÚ|064|SÁP|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|684|3|401
+09|HAJDÚ|066|SÁRRÉTUDVARI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1726|5|756
+09|HAJDÚ|068|SZEREP|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|492|5|276
+09|HAJDÚ|072|TISZACSEGE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1165|5|578
+09|HAJDÚ|077|ÚJSZENTMARGITA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1225|5|473
+09|HAJDÚ|079|VÁMOSPÉRCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2251|5|1201
+09|HAJDÚ|082|ZSÁKA|8|ROMÁN|5|Kis. vál. érvényes, eredményes|1284|5|552
+10|HEVES|002|ADÁCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1260|5|497
+10|HEVES|005|APC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1360|5|877
+10|HEVES|007|ÁTÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1492|5|551
+10|HEVES|008|BALATON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|578|5|419
+10|HEVES|012|BÉLAPÁTFALVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1459|5|607
+10|HEVES|011|BESENYÕTELEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|501|5|319
+10|HEVES|014|BODONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|321|3|175
+10|HEVES|015|BOLDOG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1930|5|753
+10|HEVES|016|BÜKKSZENTERZSÉBET|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|210|3|137
+10|HEVES|017|BÜKKSZENTMÁRTON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|430|3|179
+10|HEVES|023|DORMÁND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|421|3|421
+10|HEVES|025|EGER|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4242|5|2428
+10|HEVES|025|EGER|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|6894|5|3355
+10|HEVES|025|EGER|5|LENGYEL|5|Kis. vál. érvényes, eredményes|3911|5|1819
+10|HEVES|026|EGERBAKTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|808|5|808
+10|HEVES|030|EGERSZALÓK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1486|5|1486
+10|HEVES|032|ERDÕKÖVESD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|305|3|234
+10|HEVES|033|ERDÕTELEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1883|5|850
+10|HEVES|034|ERK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|593|3|344
+10|HEVES|038|FÜZESABONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1571|5|1188
+10|HEVES|039|GYÖNGYÖS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5685|5|3882
+10|HEVES|041|GYÖNGYÖSOROSZI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|709|5|284
+10|HEVES|042|GYÖNGYÖSPATA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|330|5|247
+10|HEVES|045|HALMAJUGRA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1074|3|505
+10|HEVES|046|HATVAN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3826|5|2484
+10|HEVES|048|HEVES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2833|5|1611
+10|HEVES|049|HEVESARANYOS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|335|3|223
+10|HEVES|052|ISTENMEZEJE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|605|5|405
+10|HEVES|053|IVÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|338|3|224
+10|HEVES|055|KÁL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1939|5|768
+10|HEVES|056|KÁPOLNA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|977|5|361
+10|HEVES|054|KARÁCSOND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|865|5|865
+10|HEVES|057|KERECSEND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1334|5|467
+10|HEVES|059|KISKÖRE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1680|5|826
+10|HEVES|060|KISNÁNA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1036|3|446
+10|HEVES|061|KOMPOLT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|881|5|490
+10|HEVES|062|KÖMLÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|866|5|548
+10|HEVES|064|LUDAS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|568|3|265
+10|HEVES|065|MAKLÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|515|5|252
+10|HEVES|068|MÁTRADERECSKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1701|5|692
+10|HEVES|069|MÁTRASZENTIMRE|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|672|3|395
+10|HEVES|074|NAGYFÜGED|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|889|5|424
+10|HEVES|083|PARÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1463|5|758
+10|HEVES|086|PÉLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|513|5|166
+10|HEVES|087|PÉTERVÁSÁRA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1212|5|527
+10|HEVES|088|POROSZLÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2402|5|855
+10|HEVES|089|RECSK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2564|5|779
+10|HEVES|091|SARUD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|932|5|345
+10|HEVES|092|SIROK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1290|5|601
+10|HEVES|093|SZAJLA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|659|3|310
+10|HEVES|097|SZÚCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|298|3|298
+10|HEVES|099|TARNABOD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|397|3|212
+10|HEVES|100|TARNALELESZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|946|5|365
+10|HEVES|102|TARNAÖRS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|868|5|387
+10|HEVES|105|TARNAZSADÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1019|5|1019
+10|HEVES|107|TERPES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|269|3|125
+10|HEVES|108|TISZANÁNA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|703|5|320
+10|HEVES|109|TÓFALU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|244|3|185
+10|HEVES|113|VERPELÉT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2217|5|814
+11|JÁSZ|001|ABÁDSZALÓK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1551|5|861
+11|JÁSZ|002|ALATTYÁN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|790|5|394
+11|JÁSZ|005|CIBAKHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2721|5|1089
+11|JÁSZ|008|CSÉPA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1086|5|724
+11|JÁSZ|011|JÁNOSHIDA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1897|5|717
+11|JÁSZ|013|JÁSZAPÁTI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4343|5|4343
+11|JÁSZ|016|JÁSZBERÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4708|5|2471
+11|JÁSZ|019|JÁSZFELSÕSZENTGYÖRGY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|409|5|271
+11|JÁSZ|020|JÁSZFÉNYSZARU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2198|5|763
+11|JÁSZ|022|JÁSZJÁKÓHALMA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1252|5|668
+11|JÁSZ|023|JÁSZKISÉR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3098|5|1195
+11|JÁSZ|024|JÁSZLADÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2539|5|987
+11|JÁSZ|026|JÁSZTELEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1799|5|601
+11|JÁSZ|027|KARCAG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4798|5|2635
+11|JÁSZ|028|KENDERES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1937|5|748
+11|JÁSZ|031|KISÚJSZÁLLÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3385|5|1631
+11|JÁSZ|034|KUNHEGYES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|705|5|394
+11|JÁSZ|035|KUNMADARAS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2302|5|998
+11|JÁSZ|036|KUNSZENTMÁRTON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3250|5|2235
+11|JÁSZ|040|MEZÕTÚR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2626|5|4610
+11|JÁSZ|041|NAGYIVÁN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1500|3|624
+11|JÁSZ|044|ÖCSÖD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1266|5|510
+11|JÁSZ|052|SZOLNOK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|8057|5|4229
+11|JÁSZ|052|SZOLNOK|5|LENGYEL|5|Kis. vál. érvényes, eredményes|9490|5|4180
+11|JÁSZ|053|TISZABÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2206|5|630
+11|JÁSZ|054|TISZABURA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1391|5|579
+11|JÁSZ|055|TISZADERZS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|836|5|431
+11|JÁSZ|056|TISZAFÖLDVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3154|5|1994
+11|JÁSZ|064|TISZAPÜSPÖKI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1220|5|435
+11|JÁSZ|065|TISZAROFF|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|673|5|274
+11|JÁSZ|067|TISZASÜLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|621|5|378
+11|JÁSZ|074|TÖRÖKSZENTMIKLÓS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2645|5|2190
+11|JÁSZ|075|TÚRKEVE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2048|5|1742
+11|JÁSZ|076|ÚJSZÁSZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2223|5|2112
+11|JÁSZ|078|ZAGYVARÉKAS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1307|5|665
+12|KOMÁROM|006|BAJ|6|NÉMET|5|Kis. vál. érvényes, eredményes|2903|5|889
+12|KOMÁROM|007|BAJNA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|284|5|184
+12|KOMÁROM|008|BAJÓT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1216|5|429
+12|KOMÁROM|023|DOROG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|569|5|187
+12|KOMÁROM|023|DOROG|6|NÉMET|5|Kis. vál. érvényes, eredményes|6008|5|2519
+12|KOMÁROM|023|DOROG|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|628|5|297
+12|KOMÁROM|024|DÖMÖS|5|LENGYEL|5|Kis. vál. érvényes, eredményes|838|3|427
+12|KOMÁROM|026|DUNASZENTMIKLÓS|6|NÉMET|5|Kis. vál. érvényes, eredményes|434|3|163
+12|KOMÁROM|028|ESZTERGOM|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|840|5|408
+12|KOMÁROM|028|ESZTERGOM|5|LENGYEL|5|Kis. vál. érvényes, eredményes|1275|5|674
+12|KOMÁROM|028|ESZTERGOM|6|NÉMET|5|Kis. vál. érvényes, eredményes|5095|5|2796
+12|KOMÁROM|028|ESZTERGOM|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2009|5|1118
+12|KOMÁROM|032|KECSKÉD|6|NÉMET|5|Kis. vál. érvényes, eredményes|2651|5|2651
+12|KOMÁROM|034|KESZTÖLC|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|3212|5|956
+12|KOMÁROM|038|KOMÁROM|13|UKRÁN|5|Kis. vál. érvényes, eredményes|4365|5|3418
+12|KOMÁROM|039|KÖMLÕD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|120|3|120
+12|KOMÁROM|041|LÁBATLAN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3460|5|1372
+12|KOMÁROM|042|LEÁNYVÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|2136|5|2136
+12|KOMÁROM|045|MOGYORÓSBÁNYA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1018|3|452
+12|KOMÁROM|051|OROSZLÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1222|5|763
+12|KOMÁROM|051|OROSZLÁNY|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|5329|5|2314
+12|KOMÁROM|052|PILISCSÉV|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2205|5|686
+12|KOMÁROM|055|SÁRISÁP|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|3172|5|1052
+12|KOMÁROM|057|SÜTTÕ|6|NÉMET|5|Kis. vál. érvényes, eredményes|2879|5|780
+12|KOMÁROM|060|SZOMÓD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|391|5|227
+12|KOMÁROM|059|SZOMOR|6|NÉMET|5|Kis. vál. érvényes, eredményes|1246|3|486
+12|KOMÁROM|061|TARDOS|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2232|5|562
+12|KOMÁROM|066|TÁT|6|NÉMET|5|Kis. vál. érvényes, eredményes|5693|5|1504
+12|KOMÁROM|063|TATA|6|NÉMET|5|Kis. vál. érvényes, eredményes|12638|5|5871
+12|KOMÁROM|064|TATABÁNYA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1976|5|1186
+12|KOMÁROM|064|TATABÁNYA|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|1991|5|885
+12|KOMÁROM|064|TATABÁNYA|5|LENGYEL|5|Kis. vál. érvényes, eredményes|1193|5|613
+12|KOMÁROM|064|TATABÁNYA|6|NÉMET|5|Kis. vál. érvényes, eredményes|8383|5|4040
+12|KOMÁROM|064|TATABÁNYA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|4481|5|2059
+12|KOMÁROM|070|VÁRGESZTES|6|NÉMET|5|Kis. vál. érvényes, eredményes|716|3|257
+12|KOMÁROM|072|VÉRTESSOMLÓ|6|NÉMET|5|Kis. vál. érvényes, eredményes|1896|3|645
+13|NÓGRÁD|001|ALSÓPETÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|303|3|160
+13|NÓGRÁD|003|BALASSAGYARMAT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3543|5|2883
+13|NÓGRÁD|005|BÁRNA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|907|3|407
+13|NÓGRÁD|006|BÁTONYTERENYE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3754|5|2332
+13|NÓGRÁD|009|BERKENYE|6|NÉMET|5|Kis. vál. érvényes, eredményes|302|3|187
+13|NÓGRÁD|012|BORSOSBERÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|353|3|324
+13|NÓGRÁD|013|BUJÁK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1223|5|536
+13|NÓGRÁD|020|CSITÁR|2|CIGÁNY|4|Vál. érvényes, eredménytelen|126|0|126
+13|NÓGRÁD|028|EGYHÁZASGERGE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|628|3|314
+13|NÓGRÁD|029|ENDREFALVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|577|3|280
+13|NÓGRÁD|030|ERDÕKÜRT|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|639|3|228
+13|NÓGRÁD|031|ERDÕTARCSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|77|3|52
+13|NÓGRÁD|036|GALGAGUTA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|665|3|329
+13|NÓGRÁD|039|HÉHALOM|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|270|3|151
+13|NÓGRÁD|043|HUGYAG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|897|3|386
+13|NÓGRÁD|045|IPOLYTARNÓC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|457|3|239
+13|NÓGRÁD|047|JOBBÁGYI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1031|5|496
+13|NÓGRÁD|052|KARANCSSÁG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|428|3|260
+13|NÓGRÁD|053|KAZÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1688|5|541
+13|NÓGRÁD|064|LITKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|671|3|318
+13|NÓGRÁD|065|LUCFALVA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1040|3|442
+13|NÓGRÁD|067|MAGYARGÉC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|785|3|408
+13|NÓGRÁD|070|MÁTRAMINDSZENT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|849|3|359
+13|NÓGRÁD|072|MÁTRASZELE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|497|3|325
+13|NÓGRÁD|073|MÁTRASZÕLÕS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|450|5|450
+13|NÓGRÁD|074|MÁTRATERENYE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1136|5|1136
+13|NÓGRÁD|075|MÁTRAVEREBÉLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1391|5|561
+13|NÓGRÁD|076|MIHÁLYGERGE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|238|3|170
+13|NÓGRÁD|077|MOHORA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|767|3|391
+13|NÓGRÁD|079|NAGYLÓC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1092|5|476
+13|NÓGRÁD|080|NAGYOROSZI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|616|5|408
+13|NÓGRÁD|082|NÉZSA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1081|3|503
+13|NÓGRÁD|086|NÓGRÁDMEGYER|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1086|5|375
+13|NÓGRÁD|096|PÁSZTÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3023|5|3981
+13|NÓGRÁD|097|PILINY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|648|3|283
+13|NÓGRÁD|099|RÉTSÁG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|529|5|270
+13|NÓGRÁD|099|RÉTSÁG|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|950|5|397
+13|NÓGRÁD|100|RIMÓC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|548|5|300
+13|NÓGRÁD|103|SÁGÚJFALU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|421|3|314
+13|NÓGRÁD|102|SALGÓTARJÁN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3559|5|1975
+13|NÓGRÁD|102|SALGÓTARJÁN|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|4281|5|2184
+13|NÓGRÁD|104|SÁMSONHÁZA|2|CIGÁNY|2|Érvénytelen választás|60|0|23
+13|NÓGRÁD|104|SÁMSONHÁZA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|319|3|132
+13|NÓGRÁD|105|SÓSHARTYÁN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|823|3|378
+13|NÓGRÁD|106|SZALMATERCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|137|3|93
+13|NÓGRÁD|109|SZÁTOK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|178|3|77
+13|NÓGRÁD|113|SZÉCSÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3643|5|1446
+13|NÓGRÁD|110|SZENDEHELY|6|NÉMET|5|Kis. vál. érvényes, eredményes|1818|5|737
+13|NÓGRÁD|115|SZILASPOGONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|235|3|152
+13|NÓGRÁD|116|SZIRÁK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|571|3|571
+13|NÓGRÁD|117|SZUHA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|676|3|364
+13|NÓGRÁD|119|SZÜGY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|152|5|65
+13|NÓGRÁD|119|SZÜGY|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1178|5|355
+13|NÓGRÁD|122|TERÉNY|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|312|3|312
+13|NÓGRÁD|121|TERESKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|423|3|240
+13|NÓGRÁD|124|VANYARC|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1290|5|342
+13|NÓGRÁD|125|VARSÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1718|5|577
+13|NÓGRÁD|126|VIZSLÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|621|5|397
+14|PEST|001|ABONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4278|5|2616
+14|PEST|002|ACSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|285|5|112
+14|PEST|002|ACSA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1452|5|401
+14|PEST|003|ALBERTIRSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2079|5|1155
+14|PEST|008|BAG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1547|5|606
+14|PEST|011|BIATORBÁGY|6|NÉMET|5|Kis. vál. érvényes, eredményes|5450|5|1847
+14|PEST|011|BIATORBÁGY|9|RUSZIN|5|Kis. vál. érvényes, eredményes|514|5|191
+14|PEST|012|BUDAJENÕ|6|NÉMET|5|Kis. vál. érvényes, eredményes|1012|3|501
+14|PEST|013|BUDAKALÁSZ|6|NÉMET|5|Kis. vál. érvényes, eredményes|3428|5|1181
+14|PEST|013|BUDAKALÁSZ|10|SZERB|5|Kis. vál. érvényes, eredményes|1612|5|619
+14|PEST|014|BUDAKESZI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|719|5|253
+14|PEST|014|BUDAKESZI|6|NÉMET|5|Kis. vál. érvényes, eredményes|6859|5|2891
+14|PEST|015|BUDAÖRS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|411|5|148
+14|PEST|015|BUDAÖRS|3|GÖRÖG|5|Kis. vál. érvényes, eredményes|989|5|372
+14|PEST|015|BUDAÖRS|6|NÉMET|5|Kis. vál. érvényes, eredményes|8589|5|3652
+14|PEST|015|BUDAÖRS|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|445|5|166
+14|PEST|015|BUDAÖRS|8|ROMÁN|2|Érvénytelen választás|216|0|93
+14|PEST|015|BUDAÖRS|9|RUSZIN|2|Érvénytelen választás|175|0|81
+14|PEST|016|BUGYI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|427|5|182
+14|PEST|017|CEGLÉD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|6757|5|3961
+14|PEST|018|CEGLÉDBERCEL|6|NÉMET|5|Kis. vál. érvényes, eredményes|4465|5|1317
+14|PEST|021|CSOBÁNKA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|654|5|654
+14|PEST|021|CSOBÁNKA|6|NÉMET|5|Kis. vál. érvényes, eredményes|837|5|837
+14|PEST|021|CSOBÁNKA|10|SZERB|5|Kis. vál. érvényes, eredményes|256|5|256
+14|PEST|021|CSOBÁNKA|11|SZLOVÁK|4|Vál. érvényes, eredménytelen|130|0|130
+14|PEST|022|CSOMÁD|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|600|3|278
+14|PEST|025|DABAS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1811|5|1435
+14|PEST|033|DUNAHARASZTI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|568|5|332
+14|PEST|033|DUNAHARASZTI|6|NÉMET|5|Kis. vál. érvényes, eredményes|4591|5|2650
+14|PEST|034|DUNAKESZI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5270|5|2927
+14|PEST|035|DUNAVARSÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|518|5|237
+14|PEST|035|DUNAVARSÁNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|2649|5|876
+14|PEST|038|ÉRD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|711|5|438
+14|PEST|038|ÉRD|6|NÉMET|5|Kis. vál. érvényes, eredményes|5612|5|2652
+14|PEST|038|ÉRD|10|SZERB|5|Kis. vál. érvényes, eredményes|701|5|367
+14|PEST|040|FELSÕPAKONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|548|5|285
+14|PEST|042|GALGAGYÖRK|2|CIGÁNY|2|Érvénytelen választás|95|0|48
+14|PEST|042|GALGAGYÖRK|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|751|3|290
+14|PEST|047|GÖDÖLLÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|6325|5|2831
+14|PEST|047|GÖDÖLLÕ|5|LENGYEL|5|Kis. vál. érvényes, eredményes|3435|5|1450
+14|PEST|048|GYÁL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1831|5|1418
+14|PEST|049|GYÖMRÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2434|5|1338
+14|PEST|050|HALÁSZTELEK|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|3103|5|1123
+14|PEST|051|HERCEGHALOM|6|NÉMET|5|Kis. vál. érvényes, eredményes|866|3|619
+14|PEST|054|IKLAD|6|NÉMET|5|Kis. vál. érvényes, eredményes|3029|5|759
+14|PEST|058|ISASZEG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3186|5|1340
+14|PEST|060|KAKUCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1240|5|559
+14|PEST|064|KEREPES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3015|5|1299
+14|PEST|065|KISKUNLACHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2584|5|1289
+14|PEST|069|KISTARCSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1847|5|1323
+14|PEST|077|LÓRÉV|10|SZERB|5|Kis. vál. érvényes, eredményes|372|3|172
+14|PEST|078|MAGLÓD|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|6326|5|2341
+14|PEST|085|MONOR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2765|5|1563
+14|PEST|086|NAGYBÖRZSÖNY|2|CIGÁNY|2|Érvénytelen választás|124|0|49
+14|PEST|086|NAGYBÖRZSÖNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|877|3|353
+14|PEST|087|NAGYKÁTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2532|5|1828
+14|PEST|089|NAGYKÕRÖS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2010|5|1675
+14|PEST|090|NAGYMAROS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|767|5|367
+14|PEST|091|NAGYTARCSA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|2864|5|782
+14|PEST|095|ÖRKÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2509|5|873
+14|PEST|097|PÁND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|573|5|573
+14|PEST|100|PERBÁL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|134|5|79
+14|PEST|100|PERBÁL|6|NÉMET|5|Kis. vál. érvényes, eredményes|1152|5|413
+14|PEST|103|PÉTERI|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1041|5|381
+14|PEST|104|PILIS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1237|5|856
+14|PEST|105|PILISBOROSJENÕ|6|NÉMET|5|Kis. vál. érvényes, eredményes|3031|5|967
+14|PEST|106|PILISCSABA|6|NÉMET|5|Kis. vál. érvényes, eredményes|2174|5|691
+14|PEST|106|PILISCSABA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1172|5|379
+14|PEST|109|PILISSZENTIVÁN|6|NÉMET|5|Kis. vál. érvényes, eredményes|5225|5|1553
+14|PEST|110|PILISSZENTKERESZT|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|3023|5|902
+14|PEST|111|PILISSZENTLÁSZLÓ|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|734|3|366
+14|PEST|112|PILISVÖRÖSVÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|7915|5|4220
+14|PEST|113|POMÁZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|905|5|369
+14|PEST|113|POMÁZ|4|HORVÁT|2|Érvénytelen választás|237|5|98
+14|PEST|113|POMÁZ|6|NÉMET|5|Kis. vál. érvényes, eredményes|3830|5|1593
+14|PEST|113|POMÁZ|10|SZERB|5|Kis. vál. érvényes, eredményes|1068|5|401
+14|PEST|117|PÜSPÖKHATVAN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|493|5|136
+14|PEST|117|PÜSPÖKHATVAN|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|1624|5|365
+14|PEST|119|RÁCKEVE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|239|5|136
+14|PEST|119|RÁCKEVE|10|SZERB|5|Kis. vál. érvényes, eredményes|1886|5|784
+14|PEST|121|SOLYMÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|10574|5|3022
+14|PEST|125|SZÁZHALOMBATTA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1907|5|1041
+14|PEST|125|SZÁZHALOMBATTA|10|SZERB|5|Kis. vál. érvényes, eredményes|2942|5|1509
+14|PEST|126|SZENTENDRE|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|438|5|175
+14|PEST|126|SZENTENDRE|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2151|5|971
+14|PEST|126|SZENTENDRE|6|NÉMET|5|Kis. vál. érvényes, eredményes|2988|5|1449
+14|PEST|126|SZENTENDRE|10|SZERB|5|Kis. vál. érvényes, eredményes|1567|5|707
+14|PEST|128|SZENTMÁRTONKÁTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|786|5|564
+14|PEST|130|SZIGETCSÉP|6|NÉMET|5|Kis. vál. érvényes, eredményes|947|5|281
+14|PEST|130|SZIGETCSÉP|10|SZERB|5|Kis. vál. érvényes, eredményes|386|5|114
+14|PEST|131|SZIGETHALOM|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1420|5|975
+14|PEST|133|SZIGETSZENTMÁRTON|6|NÉMET|5|Kis. vál. érvényes, eredményes|2001|5|535
+14|PEST|134|SZIGETSZENTMIKLÓS|1|BOLGÁR|5|Kis. vál. érvényes, eredményes|460|5|279
+14|PEST|134|SZIGETSZENTMIKLÓS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1663|5|1182
+14|PEST|134|SZIGETSZENTMIKLÓS|6|NÉMET|5|Kis. vál. érvényes, eredményes|2103|5|1206
+14|PEST|135|SZIGETÚJFALU|6|NÉMET|5|Kis. vál. érvényes, eredményes|3645|5|933
+14|PEST|138|SZÕD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1028|5|1028
+14|PEST|141|TAKSONY|2|CIGÁNY|2|Érvénytelen választás|94|0|48
+14|PEST|141|TAKSONY|6|NÉMET|5|Kis. vál. érvényes, eredményes|3675|5|1179
+14|PEST|144|TÁPIÓBICSKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|915|5|915
+14|PEST|145|TÁPIÓGYÖRGYE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|607|5|373
+14|PEST|148|TÁPIÓSZELE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5839|5|1950
+14|PEST|157|TÖKÖL|4|HORVÁT|5|Kis. vál. érvényes, eredményes|3768|5|967
+14|PEST|157|TÖKÖL|6|NÉMET|5|Kis. vál. érvényes, eredményes|2282|5|609
+14|PEST|158|TÖRÖKBÁLINT|6|NÉMET|5|Kis. vál. érvényes, eredményes|5800|5|2688
+14|PEST|159|TÖRTEL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2265|5|878
+14|PEST|161|ÚJHARTYÁN|6|NÉMET|5|Kis. vál. érvényes, eredményes|2747|5|737
+14|PEST|169|VÁC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|819|5|605
+14|PEST|169|VÁC|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|4388|5|3098
+14|PEST|176|VÁMOSMIKOLA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|780|5|780
+14|PEST|177|VECSÉS|6|NÉMET|5|Kis. vál. érvényes, eredményes|10669|5|3770
+14|PEST|179|VERÕCE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1566|5|1566
+14|PEST|180|VERSEG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2062|5|575
+14|PEST|181|VISEGRÁD|6|NÉMET|5|Kis. vál. érvényes, eredményes|2873|5|727
+14|PEST|183|ZSÁMBÉK|6|NÉMET|5|Kis. vál. érvényes, eredményes|4845|5|1462
+15|SOMOGY|004|BABÓCSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1664|5|665
+15|SOMOGY|020|BARCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2455|5|1288
+15|SOMOGY|020|BARCS|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2220|5|1004
+15|SOMOGY|026|BELEG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|257|3|163
+15|SOMOGY|030|BOLHÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|418|3|227
+15|SOMOGY|031|BOLHÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|324|3|182
+15|SOMOGY|035|BUZSÁK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|301|5|220
+15|SOMOGY|039|CSOKONYAVISONTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1450|5|636
+15|SOMOGY|042|CSÖKÖLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|513|3|267
+15|SOMOGY|044|CSURGÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1800|5|698
+15|SOMOGY|046|DARÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|438|3|292
+15|SOMOGY|048|DRÁVATAMÁSI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|198|3|101
+15|SOMOGY|061|GÖLLE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|201|3|143
+15|SOMOGY|062|GÖRGETEG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|510|3|310
+15|SOMOGY|067|HÁROMFA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|253|3|119
+15|SOMOGY|070|HERESZNYE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|132|3|109
+15|SOMOGY|072|HOLLÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|202|3|95
+15|SOMOGY|076|IHAROS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|231|3|148
+15|SOMOGY|078|INKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|491|5|283
+15|SOMOGY|079|ISTVÁNDI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|517|3|252
+15|SOMOGY|082|KADARKÚT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|919|5|469
+15|SOMOGY|096|KÁLMÁNCSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|425|3|280
+15|SOMOGY|083|KAPOLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|206|3|143
+15|SOMOGY|084|KAPOSFÕ|6|NÉMET|5|Kis. vál. érvényes, eredményes|1109|5|473
+15|SOMOGY|089|KAPOSSZERDAHELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|418|3|221
+15|SOMOGY|091|KAPOSVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4712|5|2544
+15|SOMOGY|091|KAPOSVÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|12508|5|5978
+15|SOMOGY|092|KARÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|939|5|524
+15|SOMOGY|093|KASTÉLYOSDOMBÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|99|3|79
+15|SOMOGY|100|KERCSELIGET|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|189|3|110
+15|SOMOGY|102|KÉTHELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1241|5|509
+15|SOMOGY|104|KISBAJOM|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|207|3|119
+15|SOMOGY|111|KÕKÚT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|369|3|181
+15|SOMOGY|113|KUTAS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|977|5|320
+15|SOMOGY|116|LÁBOD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1437|5|541
+15|SOMOGY|115|LAKÓCSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|417|3|207
+15|SOMOGY|117|LÁTRÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|454|5|194
+15|SOMOGY|123|MARCALI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2164|5|1529
+15|SOMOGY|126|MEZÕCSOKONYA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|508|3|340
+15|SOMOGY|127|MIKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|332|3|171
+15|SOMOGY|130|NAGYATÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3036|5|2090
+15|SOMOGY|131|NAGYBAJOM|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|803|5|452
+15|SOMOGY|134|NAGYCSEPELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|140|3|124
+15|SOMOGY|135|NAGYKORPÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|354|3|227
+15|SOMOGY|141|NIKLA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|520|3|297
+15|SOMOGY|146|ÖREGLAK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|715|5|378
+15|SOMOGY|147|ÖTVÖSKÓNYI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|399|3|225
+15|SOMOGY|166|RINYASZENTKIRÁLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|312|3|150
+15|SOMOGY|172|SEGESD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|571|5|256
+15|SOMOGY|175|SIÓFOK|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|4932|5|3844
+15|SOMOGY|178|SOMODOR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|272|3|201
+15|SOMOGY|180|SOMOGYARACS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|156|3|83
+15|SOMOGY|181|SOMOGYASZALÓ|2|CIGÁNY|2|Érvénytelen választás|55|0|47
+15|SOMOGY|188|SOMOGYGESZTI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|162|3|123
+15|SOMOGY|191|SOMOGYSÁMSON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|170|3|113
+15|SOMOGY|196|SOMOGYSZOB|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1316|5|469
+15|SOMOGY|200|SOMOGYVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1596|5|659
+15|SOMOGY|203|SZABÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|360|3|173
+15|SOMOGY|206|SZENNA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|339|3|218
+15|SOMOGY|211|SZENYÉR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|234|3|110
+15|SOMOGY|217|SZULOK|6|NÉMET|5|Kis. vál. érvényes, eredményes|653|3|254
+15|SOMOGY|219|TAPSONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|387|3|250
+15|SOMOGY|220|TARANY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|832|5|291
+15|SOMOGY|223|TELEKI|2|CIGÁNY|2|Érvénytelen választás|86|0|49
+15|SOMOGY|227|TÓTÚJFALU|4|HORVÁT|5|Kis. vál. érvényes, eredményes|416|3|199
+15|SOMOGY|235|VIZVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|292|3|187
+15|SOMOGY|242|ZSELICKISFALUD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|136|3|484
+16|SZABOLCS|001|AJAK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1825|5|1168
+16|SZABOLCS|002|ANARCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|268|5|204
+16|SZABOLCS|004|ARANYOSAPÁTI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1055|5|353
+16|SZABOLCS|004|ARANYOSAPÁTI|13|UKRÁN|2|Érvénytelen választás|125|0|49
+16|SZABOLCS|005|BAKTALÓRÁNTHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|7036|5|1889
+16|SZABOLCS|017|BOTPALÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|252|3|140
+16|SZABOLCS|018|BÖKÖNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1895|5|887
+16|SZABOLCS|021|CSAHOLC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|486|3|486
+16|SZABOLCS|024|CSEGÖLD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|343|3|343
+16|SZABOLCS|025|CSENGER|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5494|5|1866
+16|SZABOLCS|027|CSENGERÚJFALU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|874|3|425
+16|SZABOLCS|029|DEMECSER|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4701|5|1630
+16|SZABOLCS|030|DOMBRÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1943|5|870
+16|SZABOLCS|031|DÖGE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2184|5|817
+16|SZABOLCS|032|ENCSENCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1006|5|382
+16|SZABOLCS|033|EPERJESKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|672|3|306
+16|SZABOLCS|034|ÉRPATAK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|967|5|552
+16|SZABOLCS|040|GACSÁLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|541|3|320
+16|SZABOLCS|042|GÁVAVENCSELLÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2973|5|955
+16|SZABOLCS|044|GEMZSE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|426|3|240
+16|SZABOLCS|048|GULÁCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|862|3|435
+16|SZABOLCS|053|GYÜRE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1146|5|409
+16|SZABOLCS|057|IBRÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3575|5|1617
+16|SZABOLCS|059|JÁND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|778|3|376
+16|SZABOLCS|065|KÁNTORJÁNOSI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1712|5|570
+16|SZABOLCS|067|KÉK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1552|5|1552
+16|SZABOLCS|068|KÉKCSE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1485|5|571
+16|SZABOLCS|066|KEMECSE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4251|5|1383
+16|SZABOLCS|073|KISNAMÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|206|3|101
+16|SZABOLCS|074|KISPALÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|245|3|149
+16|SZABOLCS|077|KISVÁRDA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5798|5|3943
+16|SZABOLCS|078|KOCSORD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2362|5|690
+16|SZABOLCS|083|KÖMÖRÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|396|3|225
+16|SZABOLCS|091|MÁNDOK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2582|5|1504
+16|SZABOLCS|094|MÁTÉSZALKA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1173|5|578
+16|SZABOLCS|094|MÁTÉSZALKA|6|NÉMET|5|Kis. vál. érvényes, eredményes|4963|5|2801
+16|SZABOLCS|097|MÉHTELEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|713|3|321
+16|SZABOLCS|098|MÉRK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1086|5|268
+16|SZABOLCS|098|MÉRK|6|NÉMET|5|Kis. vál. érvényes, eredményes|1227|5|446
+16|SZABOLCS|096|MEZÕLADÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|572|3|356
+16|SZABOLCS|100|NAGYAR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|611|3|293
+16|SZABOLCS|102|NAGYDOBOS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1303|5|556
+16|SZABOLCS|103|NAGYECSED|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4093|5|1845
+16|SZABOLCS|104|NAGYHALÁSZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2867|5|1800
+16|SZABOLCS|106|NAGYKÁLLÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2917|5|2093
+16|SZABOLCS|109|NAPKOR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1122|5|457
+16|SZABOLCS|112|NYÍRBÁTOR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4496|5|2018
+16|SZABOLCS|113|NYÍRBÉLTEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1194|5|445
+16|SZABOLCS|114|NYÍRBOGÁT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1476|5|926
+16|SZABOLCS|115|NYÍRBOGDÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1943|5|825
+16|SZABOLCS|116|NYÍRCSAHOLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1411|5|517
+16|SZABOLCS|119|NYÍREGYHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5182|5|2845
+16|SZABOLCS|119|NYÍREGYHÁZA|5|LENGYEL|5|Kis. vál. érvényes, eredményes|2545|5|1212
+16|SZABOLCS|119|NYÍREGYHÁZA|6|NÉMET|5|Kis. vál. érvényes, eredményes|5406|5|2278
+16|SZABOLCS|119|NYÍREGYHÁZA|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1806|5|827
+16|SZABOLCS|119|NYÍREGYHÁZA|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|9163|5|4334
+16|SZABOLCS|122|NYÍRIBRONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|716|3|716
+16|SZABOLCS|125|NYÍRKÁTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|757|5|350
+16|SZABOLCS|128|NYÍRLUGOS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2580|5|866
+16|SZABOLCS|129|NYÍRMADA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3132|5|1214
+16|SZABOLCS|131|NYÍRMIHÁLYDI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1378|5|451
+16|SZABOLCS|132|NYÍRPARASZNYA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|180|3|180
+16|SZABOLCS|134|NYÍRPILIS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|500|3|243
+16|SZABOLCS|136|NYÍRTELEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|978|5|978
+16|SZABOLCS|140|OLCSVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|257|3|168
+16|SZABOLCS|143|ÓPÁLYI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2496|5|852
+16|SZABOLCS|144|ÖKÖRITÓFÜLPÖS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1729|5|644
+16|SZABOLCS|150|PASZAB|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|595|5|363
+16|SZABOLCS|151|PÁTROHA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1278|5|655
+16|SZABOLCS|155|PETNEHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1411|5|790
+16|SZABOLCS|156|PIRICSE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|898|5|491
+16|SZABOLCS|157|PORCSALMA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1772|5|799
+16|SZABOLCS|160|RAKAMAZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1357|5|590
+16|SZABOLCS|161|RAMOCSAHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1124|5|343
+16|SZABOLCS|163|RÉTKÖZBERENCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|503|3|280
+16|SZABOLCS|164|ROHOD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|753|5|753
+16|SZABOLCS|176|SZAMOSSZEG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1334|5|493
+16|SZABOLCS|179|SZATMÁRCSEKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1947|5|591
+16|SZABOLCS|181|TARPA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1438|5|719
+16|SZABOLCS|188|TISZABERCEL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|431|5|272
+16|SZABOLCS|189|TISZABEZDÉD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2397|5|719
+16|SZABOLCS|191|TISZADADA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|520|5|313
+16|SZABOLCS|192|TISZADOB|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3472|5|986
+16|SZABOLCS|198|TISZAMOGYORÓS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|528|3|293
+16|SZABOLCS|200|TISZARÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|475|3|216
+16|SZABOLCS|202|TISZASZENTMÁRTON|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1589|5|484
+16|SZABOLCS|204|TISZAVASVÁRI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3671|5|2318
+16|SZABOLCS|206|TISZTABEREK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|859|3|375
+16|SZABOLCS|208|TORNYOSPÁLCA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1516|5|675
+16|SZABOLCS|209|TUNYOGMATOLCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2490|5|821
+16|SZABOLCS|211|TÚRISTVÁNDI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|571|3|331
+16|SZABOLCS|210|TUZSÉR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1977|5|675
+16|SZABOLCS|218|ÚJKENÉZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|255|3|255
+16|SZABOLCS|219|VAJA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2573|5|1272
+16|SZABOLCS|224|VÁSÁROSNAMÉNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4661|5|2118
+16|SZABOLCS|220|VASMEGYER|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|901|5|330
+16|SZABOLCS|226|ZÁHONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1225|5|674
+17|TOLNA|005|BÁTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|775|5|462
+17|TOLNA|007|BÁTASZÉK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|567|5|241
+17|TOLNA|007|BÁTASZÉK|6|NÉMET|5|Kis. vál. érvényes, eredményes|4233|5|1282
+17|TOLNA|009|BIKÁCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|102|3|80
+17|TOLNA|010|BOGYISZLÓ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|727|5|248
+17|TOLNA|011|BONYHÁD|6|NÉMET|5|Kis. vál. érvényes, eredményes|9917|5|4225
+17|TOLNA|014|CIKÓ|6|NÉMET|5|Kis. vál. érvényes, eredményes|599|3|306
+17|TOLNA|018|DECS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2836|5|1028
+17|TOLNA|020|DOMBÓVÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|6907|5|4041
+17|TOLNA|022|DUNAFÖLDVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1150|5|895
+17|TOLNA|027|FÁCÁNKERT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|126|3|97
+17|TOLNA|031|GERJEN|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1493|5|516
+17|TOLNA|033|GYÖNK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|233|5|94
+17|TOLNA|033|GYÖNK|6|NÉMET|5|Kis. vál. érvényes, eredményes|2050|5|629
+17|TOLNA|035|GYÖRKÖNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|1021|3|377
+17|TOLNA|036|GYULAJ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|624|3|302
+17|TOLNA|038|HÕGYÉSZ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|852|5|219
+17|TOLNA|038|HÕGYÉSZ|6|NÉMET|5|Kis. vál. érvényes, eredményes|2710|5|759
+17|TOLNA|042|KAJDACS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|714|5|357
+17|TOLNA|043|KAKASD|6|NÉMET|5|Kis. vál. érvényes, eredményes|2548|5|663
+17|TOLNA|047|KESZÕHIDEGKÚT|6|NÉMET|5|Kis. vál. érvényes, eredményes|343|3|165
+17|TOLNA|049|KISDOROG|6|NÉMET|5|Kis. vál. érvényes, eredményes|642|3|307
+17|TOLNA|054|KOCSOLA|2|CIGÁNY|2|Érvénytelen választás|136|0|44
+17|TOLNA|054|KOCSOLA|6|NÉMET|5|Kis. vál. érvényes, eredményes|902|5|207
+17|TOLNA|056|KÖLESD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|303|5|233
+17|TOLNA|059|LENGYEL|6|NÉMET|5|Kis. vál. érvényes, eredményes|643|3|269
+17|TOLNA|061|MAGYARKESZI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|383|5|200
+17|TOLNA|062|MEDINA|10|SZERB|5|Kis. vál. érvényes, eredményes|669|3|392
+17|TOLNA|064|MÓRÁGY|6|NÉMET|5|Kis. vál. érvényes, eredményes|640|3|315
+17|TOLNA|069|NAGYDOROG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1235|5|685
+17|TOLNA|070|NAGYKÓNYI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|482|5|228
+17|TOLNA|071|NAGYMÁNYOK|6|NÉMET|5|Kis. vál. érvényes, eredményes|3591|5|1166
+17|TOLNA|073|NAGYSZOKOLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|160|3|145
+17|TOLNA|076|NÉMETKÉR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|592|5|178
+17|TOLNA|076|NÉMETKÉR|6|NÉMET|5|Kis. vál. érvényes, eredményes|1714|5|562
+17|TOLNA|077|OZORA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1996|5|578
+17|TOLNA|079|PAKS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1166|5|769
+17|TOLNA|079|PAKS|6|NÉMET|5|Kis. vál. érvényes, eredményes|5967|5|2843
+17|TOLNA|081|PINCEHELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1618|5|648
+17|TOLNA|085|SÁRPILIS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|623|3|295
+17|TOLNA|086|SÁRSZENTLÕRINC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|620|3|323
+17|TOLNA|089|SZAKADÁT|6|NÉMET|5|Kis. vál. érvényes, eredményes|607|3|607
+17|TOLNA|090|SZAKÁLY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|206|5|99
+17|TOLNA|091|SZAKCS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|399|3|199
+17|TOLNA|092|SZÁLKA|6|NÉMET|5|Kis. vál. érvényes, eredményes|413|3|205
+17|TOLNA|093|SZÁRAZD|6|NÉMET|5|Kis. vál. érvényes, eredményes|255|3|111
+17|TOLNA|093|SZÁRAZD|11|SZLOVÁK|2|Érvénytelen választás|60|0|27
+17|TOLNA|094|SZEDRES|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1356|5|589
+17|TOLNA|095|SZEKSZÁRD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2231|5|835
+17|TOLNA|095|SZEKSZÁRD|6|NÉMET|5|Kis. vál. érvényes, eredményes|10673|5|5015
+17|TOLNA|095|SZEKSZÁRD|11|SZLOVÁK|5|Kis. vál. érvényes, eredményes|986|5|493
+17|TOLNA|096|TAMÁSI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1011|5|380
+17|TOLNA|096|TAMÁSI|6|NÉMET|5|Kis. vál. érvényes, eredményes|4254|5|1654
+17|TOLNA|097|TENGELIC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|561|5|382
+17|TOLNA|098|TEVEL|6|NÉMET|5|Kis. vál. érvényes, eredményes|2123|5|737
+17|TOLNA|099|TOLNA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|590|5|351
+17|TOLNA|099|TOLNA|6|NÉMET|5|Kis. vál. érvényes, eredményes|3253|5|1724
+17|TOLNA|101|UDVARI|2|CIGÁNY|2|Érvénytelen választás|76|0|43
+17|TOLNA|101|UDVARI|6|NÉMET|5|Kis. vál. érvényes, eredményes|311|3|152
+17|TOLNA|105|VÁRDOMB|6|NÉMET|5|Kis. vál. érvényes, eredményes|1256|3|554
+17|TOLNA|103|VARSÁD|6|NÉMET|5|Kis. vál. érvényes, eredményes|649|3|276
+17|TOLNA|108|ZOMBA|6|NÉMET|5|Kis. vál. érvényes, eredményes|2260|5|774
+18|VAS|002|ALSÓSZÖLNÖK|6|NÉMET|5|Kis. vál. érvényes, eredményes|387|3|141
+18|VAS|002|ALSÓSZÖLNÖK|12|SZLOVÉN|5|Kis. vál. érvényes, eredményes|194|3|81
+18|VAS|005|APÁTISTVÁNFALVA|12|SZLOVÉN|5|Kis. vál. érvényes, eredményes|652|3|237
+18|VAS|009|BÉRBALTAVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|252|3|128
+18|VAS|018|BÜK|6|NÉMET|5|Kis. vál. érvényes, eredményes|1030|5|836
+18|VAS|027|CSEPREG|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2695|5|2695
+18|VAS|031|CSÖRÖTNEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|510|3|237
+18|VAS|044|FELSÕSZÖLNÖK|12|SZLOVÉN|5|Kis. vál. érvényes, eredményes|782|3|321
+18|VAS|052|GYÕRVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|159|3|105
+18|VAS|071|JÁNOSHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|678|5|347
+18|VAS|074|KÁLD|2|CIGÁNY|2|Érvénytelen választás|50|0|37
+18|VAS|088|KÉTVÖLGY|12|SZLOVÉN|5|Kis. vál. érvényes, eredményes|264|3|105
+18|VAS|095|KÖRMEND|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3805|5|1932
+18|VAS|096|KÕSZEG|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1774|5|1180
+18|VAS|096|KÕSZEG|6|NÉMET|5|Kis. vál. érvényes, eredményes|2531|5|1850
+18|VAS|120|NARDA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|511|3|244
+18|VAS|134|ORFALU|12|SZLOVÉN|2|Érvénytelen választás|124|0|43
+18|VAS|156|RÁBAPATY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|120|5|70
+18|VAS|162|RÖNÖK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|202|3|89
+18|VAS|162|RÖNÖK|6|NÉMET|5|Kis. vál. érvényes, eredményes|260|3|125
+18|VAS|167|SÁRVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2913|5|2379
+18|VAS|177|SZAKONYFALU|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|144|3|62
+18|VAS|177|SZAKONYFALU|12|SZLOVÉN|5|Kis. vál. érvényes, eredményes|387|3|158
+18|VAS|183|SZENTGOTTHÁRD|6|NÉMET|5|Kis. vál. érvényes, eredményes|3327|5|1258
+18|VAS|183|SZENTGOTTHÁRD|12|SZLOVÉN|5|Kis. vál. érvényes, eredményes|3376|5|1212
+18|VAS|184|SZENTPÉTERFA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1279|3|1279
+18|VAS|186|SZOMBATHELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2696|5|1554
+18|VAS|186|SZOMBATHELY|4|HORVÁT|5|Kis. vál. érvényes, eredményes|9961|5|4239
+18|VAS|186|SZOMBATHELY|6|NÉMET|5|Kis. vál. érvényes, eredményes|10933|5|5487
+18|VAS|186|SZOMBATHELY|12|SZLOVÉN|5|Kis. vál. érvényes, eredményes|2185|5|1044
+18|VAS|194|TORONY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|744|5|259
+18|VAS|203|VASSZENTMIHÁLY|6|NÉMET|5|Kis. vál. érvényes, eredményes|382|3|223
+18|VAS|206|VASVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1010|5|706
+18|VAS|212|VÉP|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1506|5|505
+19|VESZPRÉM|003|AJKA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1742|5|1098
+19|VESZPRÉM|003|AJKA|6|NÉMET|5|Kis. vál. érvényes, eredményes|7323|5|3850
+19|VESZPRÉM|012|BAKONYJÁKÓ|6|NÉMET|5|Kis. vál. érvényes, eredményes|560|3|560
+19|VESZPRÉM|013|BAKONYKOPPÁNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|280|3|280
+19|VESZPRÉM|014|BAKONYNÁNA|6|NÉMET|5|Kis. vál. érvényes, eredményes|921|3|921
+19|VESZPRÉM|015|BAKONYOSZLOP|6|NÉMET|5|Kis. vál. érvényes, eredményes|502|3|502
+19|VESZPRÉM|017|BAKONYPÖLÖSKE|2|CIGÁNY|2|Érvénytelen választás|61|0|32
+19|VESZPRÉM|019|BAKONYSZENTIVÁN|6|NÉMET|5|Kis. vál. érvényes, eredményes|225|3|225
+19|VESZPRÉM|022|BAKONYSZÜCS|6|NÉMET|5|Kis. vál. érvényes, eredményes|370|3|370
+19|VESZPRÉM|026|BALATONCSICSÓ|6|NÉMET|5|Kis. vál. érvényes, eredményes|227|3|93
+19|VESZPRÉM|028|BALATONFÕKAJÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|473|5|391
+19|VESZPRÉM|029|BALATONFÜRED|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3483|5|2171
+19|VESZPRÉM|040|BÁND|6|NÉMET|5|Kis. vál. érvényes, eredményes|646|3|252
+19|VESZPRÉM|042|BÉB|6|NÉMET|5|Kis. vál. érvényes, eredményes|352|3|352
+19|VESZPRÉM|041|BERHIDA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|732|5|252
+19|VESZPRÉM|041|BERHIDA|6|NÉMET|5|Kis. vál. érvényes, eredményes|2537|5|805
+19|VESZPRÉM|053|CSÓT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|569|3|569
+19|VESZPRÉM|058|DEVECSER|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1583|5|554
+19|VESZPRÉM|060|DÖBRÖNTE|6|NÉMET|5|Kis. vál. érvényes, eredményes|220|3|107
+19|VESZPRÉM|066|FARKASGYEPÛ|6|NÉMET|5|Kis. vál. érvényes, eredményes|463|3|192
+19|VESZPRÉM|068|FENYÕFÕ|6|NÉMET|5|Kis. vál. érvényes, eredményes|209|3|209
+19|VESZPRÉM|069|GANNA|6|NÉMET|5|Kis. vál. érvényes, eredményes|420|3|185
+19|VESZPRÉM|077|HÁRSKÚT|6|NÉMET|5|Kis. vál. érvényes, eredményes|611|3|227
+19|VESZPRÉM|080|HEREND|6|NÉMET|5|Kis. vál. érvényes, eredményes|4043|5|1025
+19|VESZPRÉM|100|KISLÕD|6|NÉMET|5|Kis. vál. érvényes, eredményes|1942|5|499
+19|VESZPRÉM|102|KISSZÕLÕS|2|CIGÁNY|2|Érvénytelen választás|31|0|20
+19|VESZPRÉM|116|LÓKÚT|6|NÉMET|5|Kis. vál. érvényes, eredményes|532|3|221
+19|VESZPRÉM|115|LOVÁSZPATONA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|591|5|303
+19|VESZPRÉM|118|MAGYARPOLÁNY|6|NÉMET|5|Kis. vál. érvényes, eredményes|1474|3|634
+19|VESZPRÉM|122|MÁRKÓ|6|NÉMET|5|Kis. vál. érvényes, eredményes|1392|3|536
+19|VESZPRÉM|133|NAGYESZTERGÁR|6|NÉMET|5|Kis. vál. érvényes, eredményes|468|3|208
+19|VESZPRÉM|136|NAGYTEVEL|6|NÉMET|5|Kis. vál. érvényes, eredményes|444|3|278
+19|VESZPRÉM|137|NAGYVÁZSONY|2|CIGÁNY|2|Érvénytelen választás|82|0|33
+19|VESZPRÉM|137|NAGYVÁZSONY|6|NÉMET|5|Kis. vál. érvényes, eredményes|927|5|336
+19|VESZPRÉM|141|NEMESSZALÓK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|314|3|172
+19|VESZPRÉM|144|NÉMETBÁNYA|6|NÉMET|5|Kis. vál. érvényes, eredményes|139|3|63
+19|VESZPRÉM|148|NYIRÁD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|649|5|393
+19|VESZPRÉM|158|PÁPA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1359|5|802
+19|VESZPRÉM|158|PÁPA|5|LENGYEL|5|Kis. vál. érvényes, eredményes|587|5|351
+19|VESZPRÉM|158|PÁPA|6|NÉMET|5|Kis. vál. érvényes, eredményes|6889|5|3450
+19|VESZPRÉM|160|PÁPAKOVÁCSI|6|NÉMET|5|Kis. vál. érvényes, eredményes|476|3|206
+19|VESZPRÉM|162|PÁPATESZÉR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|330|3|165
+19|VESZPRÉM|164|PÉNZESGYÕR|6|NÉMET|5|Kis. vál. érvényes, eredményes|433|3|433
+19|VESZPRÉM|165|PÉTFÜRDÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|997|5|707
+19|VESZPRÉM|168|PUSZTAMISKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|182|3|112
+19|VESZPRÉM|175|SIKÁTOR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|109|3|109
+19|VESZPRÉM|181|SÜMEG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2716|5|1325
+19|VESZPRÉM|186|SZENTGÁL|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|458|5|304
+19|VESZPRÉM|189|SZENTKIRÁLYSZABADJA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|803|5|331
+19|VESZPRÉM|195|TAPOLCA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1518|5|916
+19|VESZPRÉM|195|TAPOLCA|6|NÉMET|5|Kis. vál. érvényes, eredményes|2444|5|1212
+19|VESZPRÉM|198|TÓTVÁZSONY|6|NÉMET|5|Kis. vál. érvényes, eredményes|956|3|413
+19|VESZPRÉM|200|UGOD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|572|5|245
+19|VESZPRÉM|203|ÚRKÚT|6|NÉMET|5|Kis. vál. érvényes, eredményes|2086|5|731
+19|VESZPRÉM|207|VÁROSLÕD|2|CIGÁNY|2|Érvénytelen választás|72|0|32
+19|VESZPRÉM|207|VÁROSLÕD|6|NÉMET|5|Kis. vál. érvényes, eredményes|1650|5|446
+19|VESZPRÉM|208|VÁRPALOTA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3929|5|2614
+19|VESZPRÉM|210|VESZPRÉM|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1441|5|753
+19|VESZPRÉM|210|VESZPRÉM|6|NÉMET|5|Kis. vál. érvényes, eredményes|13241|5|6610
+19|VESZPRÉM|210|VESZPRÉM|7|ÖRMÉNY|5|Kis. vál. érvényes, eredményes|1589|5|718
+19|VESZPRÉM|213|VESZPRÉMVARSÁNY|2|CIGÁNY|2|Érvénytelen választás|73|0|73
+19|VESZPRÉM|225|ZIRC|6|NÉMET|5|Kis. vál. érvényes, eredményes|5234|5|5234
+20|ZALA|016|BÁNOKSZENTGYÖRGY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|116|3|116
+20|ZALA|018|BECSEHELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|546|5|288
+20|ZALA|020|BELEZNA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|182|3|84
+20|ZALA|023|BOCFÖLDE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|334|3|234
+20|ZALA|024|BOCSKA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|137|3|73
+20|ZALA|027|BÓKAHÁZA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|148|3|80
+20|ZALA|041|CSÖRNYEFÖLD|2|CIGÁNY|2|Érvénytelen választás|83|0|49
+20|ZALA|050|ESZTERGÁLYHORVÁTI|2|CIGÁNY|2|Érvénytelen választás|58|0|39
+20|ZALA|054|FITYEHÁZ|4|HORVÁT|5|Kis. vál. érvényes, eredményes|342|3|116
+20|ZALA|055|FÜZVÖLGY|6|NÉMET|5|Kis. vál. érvényes, eredményes|210|3|82
+20|ZALA|056|GALAMBOK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|696|5|260
+20|ZALA|057|GARABONC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|574|3|330
+20|ZALA|060|GELSE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|272|3|191
+20|ZALA|070|HAHÓT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|301|3|188
+20|ZALA|073|HOMOKKOMÁROM|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|248|3|109
+20|ZALA|093|KESZTHELY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|3791|5|2750
+20|ZALA|094|KILIMÁN|2|CIGÁNY|2|Érvénytelen választás|16|0|14
+20|ZALA|108|LASZTONYA|2|CIGÁNY|2|Érvénytelen választás|46|0|46
+20|ZALA|111|LENTI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|4135|5|1829
+20|ZALA|112|LETENYE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|454|5|179
+20|ZALA|112|LETENYE|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1777|5|664
+20|ZALA|116|LISZÓ|2|CIGÁNY|2|Érvénytelen választás|53|0|39
+20|ZALA|117|LOVÁSZI|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|339|5|221
+20|ZALA|128|MOLNÁRI|4|HORVÁT|5|Kis. vál. érvényes, eredményes|973|3|351
+20|ZALA|129|MURAKERESZTÚR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|294|5|96
+20|ZALA|129|MURAKERESZTÚR|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2055|5|554
+20|ZALA|131|MURASZEMENYE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|128|3|100
+20|ZALA|134|NAGYKANIZSA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|5347|5|2386
+20|ZALA|134|NAGYKANIZSA|4|HORVÁT|5|Kis. vál. érvényes, eredményes|6208|5|3033
+20|ZALA|139|NAGYRADA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|271|3|171
+20|ZALA|150|NOVA|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|537|3|279
+20|ZALA|161|PAT|2|CIGÁNY|4|Vál. érvényes, eredménytelen|106|0|47
+20|ZALA|169|PÖLÖSKE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|184|3|149
+20|ZALA|175|PUSZTAMAGYARÓD|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|166|3|98
+20|ZALA|181|RIGYÁC|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|146|3|97
+20|ZALA|188|SORMÁS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|563|3|277
+20|ZALA|189|SÖJTÖR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|393|5|274
+20|ZALA|199|SZENTPÉTERÚR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|204|3|122
+20|ZALA|200|SZEPETNEK|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|223|5|102
+20|ZALA|200|SZEPETNEK|6|NÉMET|5|Kis. vál. érvényes, eredményes|1162|5|442
+20|ZALA|209|TÓTSZENTMÁRTON|4|HORVÁT|5|Kis. vál. érvényes, eredményes|1278|3|483
+20|ZALA|210|TÓTSZERDAHELY|4|HORVÁT|5|Kis. vál. érvényes, eredményes|2700|5|2700
+20|ZALA|211|TÜRJE|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|642|5|320
+20|ZALA|212|ÚJUDVAR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|343|3|205
+20|ZALA|224|ZAJK|2|CIGÁNY|2|Érvénytelen választás|42|0|27
+20|ZALA|229|ZALACSÁNY|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|239|3|185
+20|ZALA|231|ZALAEGERSZEG|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|9515|5|4401
+20|ZALA|235|ZALAKAROS|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|725|5|320
+20|ZALA|236|ZALAKOMÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1000|5|1000
+20|ZALA|238|ZALALÖVÕ|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|1668|5|749
+20|ZALA|241|ZALASZABAR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|339|3|189
+20|ZALA|244|ZALASZENTGRÓT|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|2192|5|1126
+20|ZALA|255|ZALAVÁR|2|CIGÁNY|5|Kis. vál. érvényes, eredményes|214|3|157

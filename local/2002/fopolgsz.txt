@@ -1,0 +1,6 @@
+  1|  1|  1022|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |0000000000000|                                                  |
+  2|  1|  1035|SZABAD DEMOKRATÁK SZÖVETSÉGE  |0000000000000|                                                  |
+  3|  1|  1007|CENTRUM                       |0000000000000|                                                  |
+  4|  1|  1002|MAGYAR SZOCIALISTA PÁRT       |0000000000000|                                                  |
+  5|  1|  1014|MUNKÁSPÁRT                    |0000000000000|                                                  |
+  6|  0|     0|Független                     |0000000000000|                                                  |

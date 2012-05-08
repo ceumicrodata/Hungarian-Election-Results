@@ -1,0 +1,6 @@
+  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+  1| 2|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+  3| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+  4| 0|     0|Független                                                                                 |
+  5| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |

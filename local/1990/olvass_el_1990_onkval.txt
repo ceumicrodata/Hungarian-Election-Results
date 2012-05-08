@@ -1,0 +1,40 @@
+
+Ez a könyvtár az 1990. évi önkormányzati és polgármester választások
+végleges eredményeinek adatait tartalmazza, továbbfeldolgozásra alkalmas formában.
+
+Az 1990. évi önkormányzati választásokról nem áll rendelkezésre
+teljeskörû információ.
+
+
+A rendelkezésre álló adatok az alábbiak:
+
+	- polgármesterek jegyzéke
+	- települési önkormányzatok összetétele szervezetenként
+
+A text file-okban a mezõhatároló jel: '|'.
+	
+	
+Polgármesterek adatait tartalmazó állomány neve: telep_polg_90.txt
+                                                 *****************
+Szerkezete:
+   MAZ       CHAR(2)     -- Megye azonosító
+   MNEV      CHAR(25)    -- Megyenév
+   TELEP     CHAR(20)    -- Településnév
+   NEVDR     CHAR(4)     -- Név jelzõ (pl. Dr. Ifj. Özv. stb. )
+   NEV       CHAR(36)    -- Jelölt neve
+   TAMSZ     CHAR(58)    -- Támogató pártok neve
+
+
+
+
+Települési önkormányzatok összetételének adatait tartalmazó állomány: telep_onk_90.txt
+							              ****************
+							    
+Szerkezete:
+    MAZ       CHAR(2)     -- Megye azonosító
+    MNEV      CHAR(25)    -- Megyenév
+    KSHAZ     CHAR(5)     -- Település KSH azonosító	
+    TELEP     CHAR(20)    -- Településnév
+    SZERV     CHAR(30)    -- Szervezet/szervezetcsoport neve
+    KISEBB    CHAR(7)     -- Kisebbség neve	
+    MAND      CHAR(3)     -- A szervezet megszerzett mandátumainak száma

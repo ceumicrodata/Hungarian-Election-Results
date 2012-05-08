@@ -1,0 +1,1371 @@
+01|001|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|001|4|  1| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|001|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|001|4|  3| 1|   716|Várkerületi Lokálpatrióták Szövetsége                                                     |
+01|001|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|001|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|001|4|  5| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|002|4|  1| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|002|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|002|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|002|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|002|4|  3| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|002|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|002|4|  5| 1|   399|MAGYAROK VILÁGSZÖVETSÉGE                                                                  |
+01|002|4|  6| 1|    68|BUDAPEST TÁRSASÁG                                                                         |
+01|002|4|  7| 1|    16|HUMANISTA PÁRT                                                                            |
+01|003|4|  1| 1|   797|ÓBUDAI CÍVIS KLUB EGYESÜLET                                                               |
+01|003|4|  2| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+01|003|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|003|4|  4| 1|   449|ÓBUDÁÉRT-BÉKÁSMEGYERÉRT EGYESÜLET                                                         |
+01|003|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|003|4|  6| 1|    16|HUMANISTA PÁRT                                                                            |
+01|003|4|  7| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|003|4|  8| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|003|4|  9| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|003|4| 10| 1|    68|BUDAPEST TÁRSASÁG                                                                         |
+01|003|4| 11| 1|    85|Kereszténydemokrata Néppárt                                                               |
+01|003|4| 12| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+01|004|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|004|4|  2| 1|    30|Újpestért Egyesület                                                                       |
+01|004|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|004|4|  4| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+01|004|4|  5| 1|   284|Újpesti Szocialista Romák Szervezete                                                      |
+01|004|4|  6| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|004|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|005|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|005|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|005|4|  2| 1|   799|BELVÁROSI LOKÁLPATRIÓTA EGYESÜLET                                                         |
+01|005|4|  3| 1|   400|RENDPÁRTI EGYESÜLET AZ EMBERI JOGOKÉRT                                                    |
+01|005|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|005|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|005|4|  6| 1|   485|Nyugdíjasok Pártja                                                                        |
+01|005|4|  6| 2|   483|BELVÁROS JÖVÕJÉÉRT EGYESÜLET                                                              |
+01|005|4|  7| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|005|4|  7| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|006|4|  1| 1|    16|HUMANISTA PÁRT                                                                            |
+01|006|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|006|4|  3| 1|   373|TERÉZVÁROSÉRT EGYESÜLET                                                                   |
+01|006|4|  4| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|006|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|006|4|  5| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|006|4|  6| 1|    68|BUDAPEST TÁRSASÁG                                                                         |
+01|006|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|006|4|  7| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|007|4|  1| 1|    16|HUMANISTA PÁRT                                                                            |
+01|007|4|  2| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|007|4|  2| 2|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+01|007|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|007|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|007|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|007|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|007|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|008|4|  1| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+01|008|4|  2| 1|   749|EGYÜTT JÓZSEFVÁROSÉRT EGYESÜLET                                                           |
+01|008|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|008|4|  3| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|008|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|008|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|008|4|  6| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|008|4|  7| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|009|4|  1| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+01|009|4|  2| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|009|4|  3| 1|   916|FERENCVÁROSI POLGÁRI SZÖVETSÉG                                                            |
+01|009|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|009|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|009|4|  5| 1|    27|MAGYARORSZÁGI SZOCIÁLDEMOKRATA PÁRT                                                       |
+01|009|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|009|4|  7| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|009|4|  8| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|009|4|  9| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|009|4|  9| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|009|4| 10| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+01|010|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|010|4|  2| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+01|010|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|010|4|  4| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+01|010|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|010|4|  5| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|010|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|011|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|011|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|011|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|011|4|  3| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+01|011|4|  4| 1|   258|ZÖLD DEMOKRATÁK SZÖVETSÉGE                                                                |
+01|011|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|011|4|  6| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|011|4|  6| 2|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+01|011|4|  7| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|011|4|  8| 1|    68|BUDAPEST TÁRSASÁG                                                                         |
+01|012|4|  1| 1|    68|BUDAPEST TÁRSASÁG                                                                         |
+01|012|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|012|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|012|4|  3| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|012|4|  4| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|012|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|012|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|013|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|013|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|013|4|  3| 1|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+01|013|4|  4| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+01|013|4|  5| 1|    68|BUDAPEST TÁRSASÁG                                                                         |
+01|013|4|  6| 1|    16|HUMANISTA PÁRT                                                                            |
+01|013|4|  7| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|013|4|  8| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|013|4|  8| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|013|4|  9| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|014|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|014|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|014|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|014|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|014|4|  4| 1|   213|Zuglói Polgárok Egyesülete                                                                |
+01|014|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|014|4|  6| 1|   202|Zuglói Baráti és Polgári Kör                                                              |
+01|014|4|  7| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|014|4|  7| 2|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+01|014|4|  7| 3|   403|MAGYAR NEMZETI FRONT                                                                      |
+01|014|4|  8| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+01|015|4|  1| 1|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+01|015|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|015|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|015|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|015|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|015|4|  6| 1|   113|Magyar Szocialista Munkáspárt                                                             |
+01|015|4|  7| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|015|4|  7| 2|    19|FÜGGETLEN KISGAZDA-, FÖLDMUNKÁS- ÉS POLGÁRI PÁRT                                          |
+01|015|4|  8| 1|    85|Kereszténydemokrata Néppárt                                                               |
+01|016|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|016|4|  1| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|016|4|  1| 3|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|016|4|  1| 4|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+01|016|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|016|4|  3| 1|   437|Kertvárosi ( XVI. ker. ) Polgármester Klub                                                |
+01|016|4|  4| 1|   516|Függetlenek Egylete                                                                       |
+01|016|4|  5| 1|   401|Pártfüggetlenek Lokálpatrióta Szövetsége                                                  |
+01|016|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|017|4|  1| 1|   601|Független Polgárok Szövetsége                                                             |
+01|017|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|017|4|  3| 1|   149|Aranyhegyi Szövetség                                                                      |
+01|017|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|017|4|  4| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|017|4|  5| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+01|017|4|  6| 1|   691|PANEL ÉRDEKKÉPVISELETI EGYESÜLET                                                          |
+01|017|4|  7| 1|   388|Itthon Rákosmentén Egyesület                                                              |
+01|017|4|  8| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|017|4|  8| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|018|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|018|4|  2| 1|   790|Pestszentlõrinc-Pestszentimre Németszármazású Polgárainak Egyesülete                      |
+01|018|4|  3| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|018|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|018|4|  5| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+01|018|4|  5| 2|   161|EGYÜTT MAGYARORSZÁGÉRT UNIÓ                                                               |
+01|018|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|018|4|  7| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|018|4|  8| 1|    85|Kereszténydemokrata Néppárt                                                               |
+01|018|4|  9| 1|   575|MAGYAR KERESZTÉNYDEMOKRATA SZÖVETSÉG                                                      |
+01|019|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|019|4|  1| 2|    19|FÜGGETLEN KISGAZDA-, FÖLDMUNKÁS- ÉS POLGÁRI PÁRT                                          |
+01|019|4|  1| 3|   263|CIVILEK ÉS FÜGGETLENEK KISPESTÉRT EGYESÜLET                                               |
+01|019|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|019|4|  3| 1|   258|ZÖLD DEMOKRATÁK SZÖVETSÉGE                                                                |
+01|019|4|  3| 2|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+01|019|4|  3| 3|     8|KERESZTÉNYDEMOKRATAPÁRT                                                                   |
+01|019|4|  4| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|019|4|  4| 2|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+01|019|4|  5| 1|    16|HUMANISTA PÁRT                                                                            |
+01|019|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|019|4|  7| 1|   331|ÖSSZEFOGÁS  KISPESTÉRT                                                                    |
+01|019|4|  8| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|019|4|  8| 2|    85|Kereszténydemokrata Néppárt                                                               |
+01|020|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|020|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|020|4|  3| 1|   271|Pesterzsébeti Polgárõrség                                                                 |
+01|020|4|  4| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+01|020|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|020|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|020|4|  7| 1|    85|Kereszténydemokrata Néppárt                                                               |
+01|020|4|  8| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+01|021|4|  1| 1|   229|LÉTÉSZ- Lakásszövetkezetek és Társasházak Érdekképviseleti Szakmai Szövetsége             |
+01|021|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|021|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|021|4|  4| 1|    85|Kereszténydemokrata Néppárt                                                               |
+01|021|4|  5| 1|    68|BUDAPEST TÁRSASÁG                                                                         |
+01|021|4|  6| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+01|021|4|  7| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+01|021|4|  8| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|021|4|  9| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|021|4| 10| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+01|022|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|022|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|022|4|  2| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|022|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|022|4|  4| 1|   325|BUDAFOK-TÉTÉNY BARÁTI KÖRÖK EGYESÜLETE                                                    |
+01|022|4|  5| 1|   510|BUDAFOK-TÉTÉNY ÁLTALÁNOS IPARTESTÜLET                                                     |
+01|022|4|  6| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+01|023|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+01|023|4|  1| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+01|023|4|  2| 1|   189|Soroksári Civil Szervezetek és Személyek Egyesülete                                       |
+01|023|4|  3| 1|   532|XXIII. Kerület Fejlesztéséért- Együtt Soroksárért Egyesület                               |
+01|023|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+01|023|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+01|023|4|  6| 1|    85|Kereszténydemokrata Néppárt                                                               |
+02|137|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+02|137|4|  2| 1|   366|KOMLÓI HONISMERETI ÉS VÁROSSZÉPÍTÕ EGYESÜLET                                              |
+02|137|4|  3| 1|   448|KOMLÓI POLGÁRI KÖR                                                                        |
+02|137|4|  4| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+02|137|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+02|137|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+02|137|4|  7| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+02|137|4|  8| 1|   455|KOMLÓÉRT EGYESÜLET                                                                        |
+02|181|4|  1| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+02|181|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+02|181|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+02|181|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+02|181|4|  4| 1|   846|CIGÁNY KISEBBSÉGI  ÖNKORMÁNYZATOK BARANYA MEGYEI SZÖVETSÉGE                               |
+02|181|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+02|181|4|  6| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+02|181|4|  7| 1|   937|Mohácsi Sokacok Olvasóköre                                                                |
+02|181|4|  8| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+02|181|4|  8| 2|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+02|181|4|  9| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+02|217|4|  1| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+02|217|4|  2| 1|   689|Összefogás Pécsért Egyesület                                                              |
+02|217|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+02|217|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+02|217|4|  5| 1|   454|Polgári Kör Pécs Egyesület                                                                |
+02|217|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+02|217|4|  6| 2|    85|Kereszténydemokrata Néppárt                                                               |
+02|217|4|  7| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+02|234|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+02|234|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+02|234|4|  1| 3|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+02|234|4|  2| 1|   549|Siklósi Vállalkozók Egyesülete                                                            |
+02|234|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+02|234|4|  3| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+02|234|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+02|234|4|  5| 1|   847|Siklósi Roma Klub                                                                         |
+02|234|4|  6| 1|   130|KONZERVATÍV BARÁTI KÖR SIKLÓS EGYESÜLET                                                   |
+02|263|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+02|263|4|  2| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+02|263|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+02|263|4|  4| 1|   206|MAGYAR NYUGDÍJASOK PÁRTJA                                                                 |
+02|263|4|  5| 1|    85|Kereszténydemokrata Néppárt                                                               |
+02|263|4|  5| 2|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+02|263|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+02|263|4|  7| 1|    51|Roma Polgárjogi Mozgalom B.-A.-Z. Megyei Szervezete                                       |
+02|263|4|  8| 1|   811|Szigetvári Polgári Kör                                                                    |
+03|004|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+03|004|4|  2| 1|   641|FÜGGETLEN KISGAZDA,- NEMZETI EGYSÉG PÁRT                                                  |
+03|004|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+03|004|4|  3| 2|    85|Kereszténydemokrata Néppárt                                                               |
+03|004|4|  4| 1|   823|VÁLTOZÁS ÉS MEGÚJULÁS BAJÁÉRT EGYESÜLET                                                   |
+03|004|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+03|004|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+03|056|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+03|056|4|  2| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+03|056|4|  3| 1|   442|KALOCSAI VÁROSVÉDÕ EGYESÜLET                                                              |
+03|056|4|  3| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+03|056|4|  4| 1|   704|ÖSSZEFOGÁS KALOCSÁÉRT EGYESÜLET                                                           |
+03|056|4|  5| 1|    19|FÜGGETLEN KISGAZDA-, FÖLDMUNKÁS- ÉS POLGÁRI PÁRT                                          |
+03|056|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+03|056|4|  7| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+03|060|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+03|060|4|  2| 1|   346|CIVIL DEMOKRATIKUS UNIÓ                                                                   |
+03|060|4|  2| 2|   147|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                              |
+03|060|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+03|060|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+03|060|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+03|060|4|  6| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+03|060|4|  7| 1|   350|KECSKEMÉTI LOKÁLPATRIÓTÁK EGYESÜLETE                                                      |
+03|060|4|  8| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+03|060|4|  9| 1|   464|Kecskeméti Lövész Sport Egyesület                                                         |
+03|064|4|  1| 1|   893|Kiskõrösi Polgárok Civil Szervezete                                                       |
+03|064|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+03|064|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+03|064|4|  3| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+03|064|4|  4| 1|   720|Kiskõrösi Szlovákok Szervezete                                                            |
+03|064|4|  5| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+03|064|4|  6| 1|   521|ÖSSZEFOGÁS KISKÕRÖS FEJLÕDÉSÉÉRT EGYESÜLET                                                |
+03|064|4|  7| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+03|064|4|  7| 2|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+03|064|4|  8| 1|   382|KISKÕRÖS ÉS VIDÉKE IPARTESTÜLET                                                           |
+03|065|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+03|065|4|  2| 1|    19|FÜGGETLEN KISGAZDA-, FÖLDMUNKÁS- ÉS POLGÁRI PÁRT                                          |
+03|065|4|  3| 1|   909|Magyar Vállalkozó Egységpárt                                                              |
+03|065|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+03|065|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+03|065|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+03|065|4|  6| 2|    85|Kereszténydemokrata Néppárt                                                               |
+03|066|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+03|066|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+03|066|4|  2| 1|   686|SZABADELVÛ POLGÁRI KÖR                                                                    |
+03|066|4|  2| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+03|066|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+03|066|4|  3| 2|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+03|066|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+03|066|4|  4| 2|   188|SIKERES HALASÉRT TÁRSASÁG EGYESÜLET                                                       |
+03|066|4|  5| 1|   482|ESÉLY CIGÁNY MÓDSZERTANI KÖZPONT                                                          |
+03|066|4|  6| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+03|067|4|  1| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+03|067|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+03|067|4|  2| 2|   505|KISKUNMAJSA VÁROSÉRT SZÖVETSÉG EGYESÜLET                                                  |
+03|067|4|  2| 3|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+03|067|4|  3| 1|   135|EGYÜTT KISKUNMAJSÁÉRT EGYESÜLET                                                           |
+03|067|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+03|067|4|  4| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+03|067|4|  4| 3|    85|Kereszténydemokrata Néppárt                                                               |
+03|067|4|  5| 1|   880|MAJSAI CIVIL FÓRUM EGYESÜLET                                                              |
+03|078|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+03|078|4|  2| 1|   784|Lajosmizsei Gazdakör                                                                      |
+03|078|4|  3| 1|   627|Együtt Lajosmizse Jövõjéért Egyesület                                                     |
+03|078|4|  4| 1|   758|Bács-Kiskun Megyei Családi Közbiztonsági Szervezet                                        |
+03|078|4|  5| 1|   624|Lajosmizséért Polgári Összefogás Egyesület                                                |
+03|078|4|  6| 1|   506|Lajosmizsei Polgári Körök Egyesülete                                                      |
+03|078|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+03|078|4|  7| 2|    85|Kereszténydemokrata Néppárt                                                               |
+03|078|4|  7| 3|   801|Lajosmizse Városért Egyesület                                                             |
+03|078|4|  7| 4|   179|Nemzeti Fórum Egyesület                                                                   |
+03|078|4|  8| 1|    19|FÜGGETLEN KISGAZDA-, FÖLDMUNKÁS- ÉS POLGÁRI PÁRT                                          |
+03|111|4|  1| 1|   946|Tiszakécskei Gazdakör                                                                     |
+03|111|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+03|111|4|  3| 1|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+03|111|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+03|111|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|003|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|003|4|  1| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+04|003|4|  2| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+04|003|4|  3| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+04|003|4|  4| 1|   753|BÉKÉSI IPARTESTÜLET                                                                       |
+04|003|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+04|003|4|  5| 2|   637|JOBBOLDALI ÖSSZEFOGÁS BÉKÉSÉRT POLGÁRI KÖR                                                |
+04|004|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|004|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+04|004|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+04|004|4|  2| 3|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+04|004|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+04|004|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+04|004|4|  5| 1|   748|Együtt Békéscsabáért Egyesület                                                            |
+04|025|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+04|025|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+04|025|4|  1| 3|   291|Békés Megyei Gazdakörök Szövetsége                                                        |
+04|025|4|  2| 1|   172|GYOMAENDRÕD VÁROS FEJLÕDÉSÉÉRT EGYESÜLET                                                  |
+04|025|4|  3| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+04|025|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|025|4|  5| 1|   313|KÖRÖSÖK VIDÉKÉÉRT EGYESÜLET                                                               |
+04|025|4|  6| 1|   478|MOZGÁSKORLÁTOZOTTAK ÉS HADIROKKANTAK GYOMAENDRÕDI EGYESÜLETE                              |
+04|026|4|  1| 1|   148|Gyula és Környéke Általános Ipartestület                                                  |
+04|026|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|026|4|  3| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+04|026|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+04|026|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+04|026|4|  4| 3|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+04|026|4|  5| 1|   432|HAGYOMÁNYÕRZÕ GAZDA ÉS KERTBARÁTKÖR KÖZHASZNÚ EGYESÜLET                                   |
+04|026|4|  5| 2|   605|GYULAI GAZDAKÖR                                                                           |
+04|026|4|  5| 3|    19|FÜGGETLEN KISGAZDA-, FÖLDMUNKÁS- ÉS POLGÁRI PÁRT                                          |
+04|026|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+04|026|4|  7| 1|   103|GYULAI VÁROSBARÁTOK KÖRE                                                                  |
+04|026|4|  8| 1|   527|ÖSSZEFOGÁS GYULÁÉRT EGYESÜLET                                                             |
+04|049|4|  1| 1|   477|ÖSSZEFOGÁS MEZÕBERÉNYÉRT EGYESÜLET                                                        |
+04|049|4|  2| 1|   167|MEZÕBERÉNYI NÉMET HAGYOMÁNYÁPOLÓ EGYESÜLET                                                |
+04|049|4|  3| 1|   170|MEZÕBERÉNYI VÁROSSZÉPÍTÕ ÉS VÁROSVÉDÕ EGYESÜLET                                           |
+04|049|4|  4| 1|    21|"LUNGO DROM" ORSZÁGOS CIGÁNY ÉRDEKVÉDELMI ÉS POLGÁRI SZÖVETSÉG                            |
+04|049|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|049|4|  6| 1|   296|MEZÕBERÉNYI CIGÁNYOKÉRT EGYESÜLET                                                         |
+04|049|4|  7| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+04|049|4|  8| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+04|049|4|  8| 2|    85|Kereszténydemokrata Néppárt                                                               |
+04|049|4|  9| 1|   570|MEZÕBERÉNYI SZLOVÁKOK SZERVEZETE                                                          |
+04|059|4|  1| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+04|059|4|  2| 1|   769|NAGYCSALÁDOSOK EGYESÜLETE OROSHÁZA                                                        |
+04|059|4|  3| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+04|059|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+04|059|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+04|059|4|  5| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+04|059|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|063|4|  1| 1|   392|Cégvezetõk és Vállalkozók Sarkadi Egyesülete                                              |
+04|063|4|  2| 1|   618|Sarkadi Nyugdíjasok Érdekvédelmi Egyesülete                                               |
+04|063|4|  2| 2|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+04|063|4|  2| 3|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+04|063|4|  2| 4|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+04|063|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|063|4|  4| 1|   670|Sarkadi Ipartestület                                                                      |
+04|066|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+04|066|4|  1| 2|   457|SZARVASI NYUGDÍJAS ÉRDEKVÉDELMI EGYESÜLET                                                 |
+04|066|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+04|066|4|  2| 2|    19|FÜGGETLEN KISGAZDA-, FÖLDMUNKÁS- ÉS POLGÁRI PÁRT                                          |
+04|066|4|  2| 3|   179|Nemzeti Fórum Egyesület                                                                   |
+04|066|4|  3| 1|   126|SZÜLÕFÖLDÜNK SZARVAS EGYESÜLET                                                            |
+04|066|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|066|4|  5| 1|   586|NAGYCSALÁDOSOK SZARVASI EGYESÜLETE                                                        |
+04|066|4|  5| 2|   593|TESSEDIK SÁMUEL KERTBARÁTKÖR                                                              |
+04|066|4|  5| 3|   594|MOZGÁSKORLÁTOZOTTAK SZARVASI EGYESÜLETE                                                   |
+04|066|4|  5| 4|   591|SZARVASI VÁROS- ÉS KÖRNYEZETVÉDÕ EGYESÜLET                                                |
+04|067|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+04|067|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+04|067|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|075|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|075|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|075|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+05|075|4|  3| 1|   474|"TÚL AZ ÓPERENCIÁN" EDELÉNYI ÉRTELMISÉGIEK A JÖVÕ NEMZEDÉKÉÉRT EGYESÜLET                  |
+05|075|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+05|153|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|153|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|153|4|  3| 1|   551|"KAZINCBARCIKA VÁROSÉRT" FÜGGETLEN EGYESÜLET                                              |
+05|153|4|  4| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+05|153|4|  5| 1|   410|TÁRSASÁG KAZINCBARCIKÁÉRT TÁRSADALMI SZERVEZET                                            |
+05|153|4|  6| 1|   324|ÖSSZEFOGÁSSAL BARCIKÁÉRT EGYESÜLET                                                        |
+05|153|4|  7| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+05|196|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+05|196|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|196|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+05|196|4|  2| 3|   179|Nemzeti Fórum Egyesület                                                                   |
+05|196|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|202|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|202|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+05|202|4|  2| 1|   158|Függetlenek Miskolci Egyesülete                                                           |
+05|202|4|  2| 2|   159|Miskolci Orvos Társaság                                                                   |
+05|202|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|202|4|  4| 1|    51|Roma Polgárjogi Mozgalom B.-A.-Z. Megyei Szervezete                                       |
+05|202|4|  5| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+05|202|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+05|202|4|  7| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+05|226|4|  1| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+05|226|4|  2| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+05|226|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+05|226|4|  3| 2|   674|MAGYARORSZÁGI DEMOKRATIKUS CIGÁNYOK HUMÁN SZERVEZETE                                      |
+05|226|4|  4| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+05|226|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|226|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+05|226|4|  7| 1|   369|SZÖVETSÉG ÓZDÉRT EGYESÜLET                                                                |
+05|226|4|  8| 1|   215|FÜGGETLENEK VÁLASZTÁSI EGYÜTTMÛKÖDÉSE                                                     |
+05|226|4|  9| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|226|4|  9| 2|    85|Kereszténydemokrata Néppárt                                                               |
+05|268|4|  1| 1|   809|TESZ Tegyünk Együtt Sajószentpéterért Egyesület                                           |
+05|268|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+05|268|4|  3| 1|   587|Sajószentpéteri Zöldek Szövetsége                                                         |
+05|268|4|  3| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+05|268|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|268|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+05|268|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|268|4|  6| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+05|274|4|  1| 1|   610|SÁROSPATAKI  LOKÁLPATRIÓTÁK EGYESÜLETE                                                    |
+05|274|4|  2| 1|   855|A FÜGGETLEN SÁROSPATAKÉRT EGYESÜLET                                                       |
+05|274|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|274|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|274|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+05|274|4|  4| 3|   179|Nemzeti Fórum Egyesület                                                                   |
+05|276|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|276|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+05|276|4|  2| 1|   669|HEGYALJA HAGYOMÁNYÖRZÕ EGYESÜLET                                                          |
+05|276|4|  3| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+05|276|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|276|4|  5| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+05|276|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+05|276|4|  7| 1|    51|Roma Polgárjogi Mozgalom B.-A.-Z. Megyei Szervezete                                       |
+05|294|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|294|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+05|294|4|  1| 3|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+05|294|4|  1| 4|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+05|294|4|  1| 5|   348|SZERENCSI VÁROSSZÉPÍTÕ ÉS KÖZÖSSÉGI EGYESÜLET                                             |
+05|294|4|  2| 1|   731|BOCSKAI ISTVÁN TÁRSASÁG                                                                   |
+05|294|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|294|4|  4| 1|     8|KERESZTÉNYDEMOKRATAPÁRT                                                                   |
+05|326|4|  1| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+05|326|4|  2| 1|   629|VÁROSÉRT EGYESÜLET                                                                        |
+05|326|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+05|326|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+05|326|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+05|326|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+05|326|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|326|4|  7| 1|   607|EGYÜTT TISZAÚJVÁROSÉRT EGYESÜLET                                                          |
+06|013|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+06|013|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+06|013|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+06|013|4|  4| 1|   508|ÖSSZEFOGÁS CSONGRÁDÉRT EGYESÜLET                                                          |
+06|013|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+06|013|4|  5| 1|   845|JOBB CSONGRÁDÉRT EGYESÜLET                                                                |
+06|024|4|  1| 1|   902|Polgári Szövetség Vásárhelyért                                                            |
+06|024|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+06|024|4|  2| 2|   658|HÓDMEZÕVÁSÁRHELY ÉS VIDÉKE DEMOKRATIKUS SZÖVETSÉG                                         |
+06|024|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+06|024|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+06|024|4|  4| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+06|024|4|  5| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+06|032|4|  1| 1|   507|JOBB MAKÓÉRT EGYESÜLET                                                                    |
+06|032|4|  2| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+06|032|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+06|032|4|  4| 1|   185|POLGÁRI SZÖVETSÉG MAKÓÉRT                                                                 |
+06|032|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+06|032|4|  6| 1|   785|VÁROSÉPÍTÕK TÁRSASÁGA                                                                     |
+06|032|4|  7| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+06|032|4|  7| 2|    41|FÜGGETLEN KÉPVISELÕK SZÖVETSÉGE                                                           |
+06|032|4|  8| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+06|032|4|  9| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+06|032|4| 10| 1|   219|MAKÓI IPARTESTÜLET                                                                        |
+06|032|4| 10| 2|   218|MAROSMENTI VÁLLALKOZÓK SZÖVETSÉGE                                                         |
+06|051|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+06|051|4|  1| 2|   336|EGYÜTT SZEGEDÉRT EGYESÜLET                                                                |
+06|051|4|  2| 1|    27|MAGYARORSZÁGI SZOCIÁLDEMOKRATA PÁRT                                                       |
+06|051|4|  2| 2|   517|Független Civil Fórum                                                                     |
+06|051|4|  3| 1|   259|FÜGGETLEN VÁROSI SZÖVETSÉG- MAGYAR EGYESÜLET                                              |
+06|051|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+06|051|4|  5| 1|   793|Szegedért Egyesület                                                                       |
+06|051|4|  6| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+06|051|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+06|051|4|  7| 2|    85|Kereszténydemokrata Néppárt                                                               |
+06|051|4|  8| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+06|051|4|  9| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+06|051|4|  9| 2|   166|MAGYAR FÜGGETLENSÉGI PÁRT                                                                 |
+06|051|4| 10| 1|    15|FÜGGETLENEK LISTÁJA                                                                       |
+06|053|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+06|053|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+06|053|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+06|053|4|  2| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+06|053|4|  3| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+06|053|4|  4| 1|   418|EGYÜTT SZENTESÉRT EGYESÜLET                                                               |
+06|053|4|  5| 1|   473|SZÖVETSÉG SZENTES FELEMELKEDÉSÉÉRT EGYESÜLET                                              |
+07|013|4|  1| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+07|013|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+07|013|4|  3| 1|   654|ÖSSZEFOGÁS BICSKÉÉRT EGYESÜLET                                                            |
+07|013|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+07|013|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+07|013|4|  5| 2|    85|Kereszténydemokrata Néppárt                                                               |
+07|024|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+07|024|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+07|024|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+07|024|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+07|024|4|  5| 1|   498|Dunaújvárosi Civil Szövetség                                                              |
+07|024|4|  5| 2|   500|Dunaújváros Jövõjéért Egyesület                                                           |
+07|024|4|  5| 3|   499|Lakásüzemeltetõk Érdekvédelmi Szövetsége                                                  |
+07|024|4|  6| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+07|061|4|  1| 1|   468|SZÖVETSÉG MÓR VÁROSÁÉRT EGYESÜLET                                                         |
+07|061|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+07|061|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+07|061|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+07|061|4|  4| 1|   352|MÓR VÁROS JÖVÕJÉÉRT EGYESÜLET                                                             |
+07|078|4|  1| 1|   131|Környezettudatos Autonóm Polgári Országos Civil Szervezõdésû Egyesület                    |
+07|078|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+07|078|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+07|078|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+07|078|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+07|078|4|  4| 3|   179|Nemzeti Fórum Egyesület                                                                   |
+07|094|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+07|094|4|  2| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+07|094|4|  3| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+07|094|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+07|094|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+07|094|4|  4| 3|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+07|094|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+07|094|4|  5| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+07|094|4|  5| 3|   165|FEHÉRVÁRI POLGÁROK EGYESÜLETE                                                             |
+07|094|4|  6| 1|   201|VÁLASZ-Városunk Lakóiért Szövetség                                                        |
+08|027|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+08|027|4|  2| 1|    85|Kereszténydemokrata Néppárt                                                               |
+08|027|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+08|027|4|  4| 1|   440|MEGYEI NYUGDÍJASOK, LIBERÁLISOK VIDÉKÉRT EGYESÜLETE                                       |
+08|027|4|  5| 1|   305|SZÜLÕFÖLDÜNKÉRT EGYESÜLET                                                                 |
+08|027|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+08|059|4|  1| 1|   351|PRO-URBE EGYESÜLET GYÕR                                                                   |
+08|059|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+08|059|4|  3| 1|   258|ZÖLD DEMOKRATÁK SZÖVETSÉGE                                                                |
+08|059|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+08|059|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+08|059|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+08|059|4|  6| 2|    85|Kereszténydemokrata Néppárt                                                               |
+08|081|4|  1| 1|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+08|081|4|  2| 1|   279|KAPUVÁRÉRT EGYESÜLET                                                                      |
+08|081|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+08|081|4|  3| 2|    85|Kereszténydemokrata Néppárt                                                               |
+08|081|4|  3| 3|   283|FIDELITAS                                                                                 |
+08|081|4|  3| 4|   227|Kapuvári Polgári Társaság                                                                 |
+08|081|4|  4| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+08|081|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+08|081|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+08|104|4|  1| 1|   921|CIVIL FÓRUM MOSONMAGYARÓVÁRÉRT EGYESÜLET                                                  |
+08|104|4|  2| 1|   725|ÖSSZEFOGÁS MOSONMAGYARÓVÁRÉRT                                                             |
+08|104|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+08|104|4|  4| 1|    85|Kereszténydemokrata Néppárt                                                               |
+08|104|4|  4| 2|    19|FÜGGETLEN KISGAZDA-, FÖLDMUNKÁS- ÉS POLGÁRI PÁRT                                          |
+08|104|4|  4| 3|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+08|104|4|  5| 1|   567|MOSONMAGYARÓVÁRI LAKÁSTULAJDONOSOK ÉS BÉRLÕK EGYESÜLETE                                   |
+08|104|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+08|104|4|  6| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+08|104|4|  7| 1|   513|MOSONMAGYARÓVÁRI CIVIL SZÖVETSÉG                                                          |
+08|104|4|  8| 1|   668|MOSONMAGYARÓVÁRI VÁLLALKOZÓK EGYESÜLETE                                                   |
+08|104|4|  9| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+08|150|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+08|150|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+08|150|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+08|150|4|  3| 2|    85|Kereszténydemokrata Néppárt                                                               |
+08|150|4|  4| 1|   832|SOPRONI VÉDEGYLET EGYESÜLET                                                               |
+08|150|4|  4| 2|   830|SZÖVETSÉG SOPRONÉRT EGYESÜLET                                                             |
+08|150|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+09|005|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+09|005|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+09|005|4|  3| 1|   446|KÖRNYEZETÜNKÉRT BALMAZÚJVÁROS EGYESÜLET                                                   |
+09|005|4|  4| 1|   445|FÜGGETLENEK BALMAZÚJVÁROSI EGYESÜLETE                                                     |
+09|005|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+09|009|4|  1| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+09|009|4|  1| 2|   147|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                              |
+09|009|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+09|009|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+09|009|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+09|009|4|  5| 1|   647|BERETTYÓÚJFALU JÖVÕJÉÉRT EGYESÜLET                                                        |
+09|018|4|  1| 1|   307|Független Fórum Egyesület                                                                 |
+09|018|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+09|018|4|  3| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+09|018|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+09|018|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+09|018|4|  6| 1|     1|Függetlenek Debrecenért Egyesület                                                         |
+09|018|4|  7| 1|   495|Debreceni Városvédõ és -szépítõ Egyesület                                                 |
+09|018|4|  7| 2|   459|Szövetség a Városért Debreceni Lokálpatrióta Egyesület                                    |
+09|018|4|  8| 1|    85|Kereszténydemokrata Néppárt                                                               |
+09|018|4|  8| 2|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+09|018|4|  9| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+09|030|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+09|030|4|  2| 1|   315|Civilek a Lakóhelyért Egyesület                                                           |
+09|030|4|  3| 1|   756|HAJDÚBÖSZÖRMÉNYI POLGÁRI SZÖVETSÉG EGYESÜLET                                              |
+09|030|4|  3| 2|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+09|030|4|  3| 3|   260|Magyar Gazdakörök és Gazdaszövetkezetek Szövetsége                                        |
+09|030|4|  3| 4|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+09|030|4|  3| 5|    85|Kereszténydemokrata Néppárt                                                               |
+09|030|4|  3| 6|   283|FIDELITAS                                                                                 |
+09|030|4|  3| 7|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+09|030|4|  4| 1|   209|Hajdúböszörmény Fejlõdéséért Egyesület                                                    |
+09|030|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+09|030|4|  5| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+09|030|4|  6| 1|   282|ZÖLD KÖR - FÖLD BARÁTAI MAGYARORSZÁG TAGJA                                                |
+09|032|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+09|032|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+09|032|4|  2| 1|   267|Együttmûködés Hajdúhadházért Egyesület                                                    |
+09|032|4|  3| 1|   292|FÜGGETLEN BALOLDAL  a TELEPÜLÉSEKÉRT EGYESÜLET                                            |
+09|032|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+09|032|4|  5| 1|   268|HAJDÚHADHÁZÉRT KÖZHASZNÚ EGYESÜLET                                                        |
+09|032|4|  6| 1|   666|HAJDÚHADHÁZTÉGLÁSI VÁROSI IPARTESTÜLET                                                    |
+09|032|4|  7| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+09|032|4|  8| 1|   486|HAJDÚHADHÁZI POLGÁRI KÖR KÖZHASZNÚ EGYESÜLET                                              |
+09|032|4|  9| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+09|033|4|  1| 1|   598|Hajdúnánásért Európai Szemlélettel Egyesület                                              |
+09|033|4|  2| 1|   741|Hajdúnánási Ipartestület                                                                  |
+09|033|4|  3| 1|   600|Hajdúnánásért Tevékenykedõk Független Egyesülete                                          |
+09|033|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+09|033|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+09|033|4|  5| 2|    85|Kereszténydemokrata Néppárt                                                               |
+09|033|4|  5| 3|   713|Polgári Kör                                                                               |
+09|034|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+09|034|4|  2| 1|   435|HAJDÚSÁMSON VÁROSÉRT EGYESÜLET                                                            |
+09|034|4|  3| 1|   433|EGÉSZSÉGÉRT ÉS A SPORTÉRT HAJDÚSÁMSONBAN EGYESÜLET                                        |
+09|034|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+09|034|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+09|034|4|  6| 1|   702|Hajdúsámsoni Sporthorgászok Egyesülete                                                    |
+09|034|4|  7| 1|   609|HAJDÚSÁMSON FEJLÕDÉSÉÉRT EGYESÜLET                                                        |
+09|034|4|  8| 1|   436|PONT AZ KULTURÁLIS EGYESÜLET                                                              |
+09|035|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+09|035|4|  2| 1|   224|Összefogás Hajdúszoboszlóért és a Jövõért Egyesület                                       |
+09|035|4|  2| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+09|035|4|  3| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+09|035|4|  3| 2|   147|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                              |
+09|035|4|  4| 1|   878|Független Polgárok Hajdúszoboszlóért Egyesület                                            |
+09|035|4|  4| 2|   879|Hajdúszoboszló Sportjáért Egyesület                                                       |
+09|035|4|  4| 3|   881|TUDOD Várospolitikai Lokálpatrióta Egyesület                                              |
+09|035|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+09|035|4|  5| 2|    85|Kereszténydemokrata Néppárt                                                               |
+09|035|4|  5| 3|   260|Magyar Gazdakörök és Gazdaszövetkezetek Szövetsége                                        |
+09|035|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+09|063|4|  1| 1|   857|FÖLDTULAJDONOSOK ÉS GAZDÁLKODÓK EGYESÜLETE                                                |
+09|063|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+09|063|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+09|063|4|  4| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+09|063|4|  4| 2|   147|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                              |
+09|063|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+09|063|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+09|063|4|  7| 1|    43|MAGYARORSZÁGI CIGÁNYOK DEMOKRATIKUS SZÖVETSÉGE                                            |
+09|063|4|  8| 1|   212|VÁROSVÉDÕ ÉS SZÉPÍTÕ EGYESÜLET                                                            |
+10|025|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+10|025|4|  2| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+10|025|4|  3| 1|   354|EGRI LOKÁLPATRIÓTA EGYLET                                                                 |
+10|025|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+10|025|4|  4| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+10|025|4|  5| 1|   808|Összefogás Egy JOBB Egerért Egyesület                                                     |
+10|025|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+10|025|4|  6| 2|    85|Kereszténydemokrata Néppárt                                                               |
+10|025|4|  6| 3|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+10|025|4|  6| 4|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+10|025|4|  7| 1|   179|Nemzeti Fórum Egyesület                                                                   |
+10|039|4|  1| 1|   463|GYÖNGYÖS ÉS VIDÉKE VÁLLALKOZÓK EGYESÜLETE                                                 |
+10|039|4|  2| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+10|039|4|  3| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+10|039|4|  4| 1|   241|VÁROSSZÉPÍTÕ ÉS VÉDÕ EGYESÜLET                                                            |
+10|039|4|  5| 1|   604|Gyöngyösünkért Lokálpatrióta Egyesület                                                    |
+10|039|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+10|039|4|  7| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+10|039|4|  8| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+10|046|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+10|046|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+10|046|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+10|046|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+10|046|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+10|046|4|  5| 1|    75|HATVAN VÁROSI LOKÁLPATRIÓTÁK EGYESÜLETE                                                   |
+10|046|4|  6| 1|    72|ÖSSZEFOGÁS HATVANÉRT EGYESÜLET                                                            |
+10|048|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+10|048|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+10|048|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+10|048|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+10|048|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+10|048|4|  5| 1|   244|Összefogás Heves Városért Egyesület                                                       |
+11|016|4|  1| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+11|016|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+11|016|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+11|016|4|  4| 1|    85|Kereszténydemokrata Néppárt                                                               |
+11|016|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+11|016|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+11|027|4|  1| 1|   643|KARCAGI IPARTESTÜLET                                                                      |
+11|027|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+11|027|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+11|027|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+11|027|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+11|027|4|  5| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+11|031|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+11|031|4|  2| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+11|031|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+11|031|4|  4| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+11|031|4|  5| 1|   538|KISÚJSZÁLLÁSI NAGYKUN POLGÁRI KÖR                                                         |
+11|040|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+11|040|4|  1| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+11|040|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+11|040|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+11|040|4|  3| 2|   179|Nemzeti Fórum Egyesület                                                                   |
+11|052|4|  1| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+11|052|4|  2| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+11|052|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+11|052|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+11|052|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+11|052|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+11|052|4|  6| 1|   190|Szolnokiak Szolnokért Egyesület                                                           |
+11|052|4|  6| 2|   216|Szolnoki Városvédõk és Városszépítõk Egyesülete                                           |
+11|052|4|  7| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+11|056|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+11|056|4|  1| 2|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+11|056|4|  1| 3|    85|Kereszténydemokrata Néppárt                                                               |
+11|056|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+11|056|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+11|056|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+11|056|4|  5| 1|   287|"TISZAFÖLDVÁRÉRT" VÁROSVÉDÕ POLGÁRI EGYESÜLET                                             |
+11|056|4|  6| 1|   554|Földvári Szövetség                                                                        |
+11|057|4|  1| 1|   944|TISZAFÜREDI VÁROSI POLGÁRÕRSÉG                                                            |
+11|057|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+11|057|4|  3| 1|    88|TÚLÉLÉS 98 EGYESÜLET                                                                      |
+11|057|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+11|057|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+11|057|4|  5| 2|    85|Kereszténydemokrata Néppárt                                                               |
+11|073|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+11|073|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+11|073|4|  1| 3|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+11|073|4|  1| 4|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+11|073|4|  2| 1|   519|TÖRÖKSZENTMIKLÓSÉRT LOKÁLPATRIÓTA EGYESÜLET                                               |
+11|073|4|  3| 1|   537|TÖRÖKSZENTMIKLÓSI HORGÁSZ EGYESÜLET                                                       |
+11|073|4|  4| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+11|073|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+11|073|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+12|023|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+12|023|4|  2| 1|   309|Dorogi Környezetvédelmi Egyesület                                                         |
+12|023|4|  3| 1|   915|Dorogi Értékvédõk Egyesülete                                                              |
+12|023|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+12|023|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+12|023|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+12|023|4|  6| 1|   897|Dorog Város Barátainak Egyesülete                                                         |
+12|023|4|  7| 1|    11|Romavállalkozók Országos Szervezete Egyesület                                             |
+12|028|4|  1| 1|   775|EGYÜTT ESZTERGOMÉRT EGYESÜLET                                                             |
+12|028|4|  1| 2|   770|REGONÁLIS SZAKMAI TÁRSASÁG                                                                |
+12|028|4|  1| 3|   767|HALADÓ ESZTERGOMÉRT EGYESÜLET                                                             |
+12|028|4|  1| 4|   772|NÕI VÁLLALKOZÓK EGYESÜLETE                                                                |
+12|028|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+12|028|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+12|028|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+12|028|4|  4| 1|   705|ESZTERGOMI SZOCIÁLDEMOKRATA EGYESÜLET                                                     |
+12|028|4|  5| 1|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+12|028|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+12|028|4|  6| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+12|028|4|  7| 1|   460|ENÉKE Esztergom és  Környéke Nyugdíjasok Érdekvédelmi, Kulturális Egyesület               |
+12|038|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+12|038|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+12|038|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+12|038|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+12|038|4|  4| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+12|038|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+12|051|4|  1| 1|    28|ROMA DIPLOMÁSOK ORSZÁGOS SZERVEZETE                                                       |
+12|051|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+12|051|4|  2| 2|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+12|051|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+12|051|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+12|051|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+12|051|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+12|064|4|  1| 1|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+12|064|4|  1| 2|   850|POLGÁRI KÖRÖK TATAI SZÖVETSÉGE EGYESÜLET                                                  |
+12|064|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+12|064|4|  2| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+12|064|4|  3| 1|   164|TISZTA KÖZÉLETÉRT EGYESÜLET                                                               |
+12|064|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+12|064|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+12|064|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+12|065|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+12|065|4|  2| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+12|065|4|  3| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+12|065|4|  4| 1|   217|TÁRSASHÁZI TULAJDONOSOK ÉS BÉRLÕK EGYESÜLETE                                              |
+12|065|4|  5| 1|   875|CIVIL ÖSSZEFOGÁS TATABÁNYÁÉRT EGYESÜLET                                                   |
+12|065|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+12|065|4|  7| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+12|065|4|  8| 1|   168|FÜGGETLEN TATABÁNYAI VÉDEGYLET                                                            |
+12|065|4|  9| 1|   138|KISGAZDA SZÖVETSÉG                                                                        |
+13|003|4|  1| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+13|003|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+13|003|4|  2| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+13|003|4|  3| 1|    24|ÖSSZEFOGÁS ESÉLYEGYENLÕSÉGÉRT PÁRT                                                        |
+13|003|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+13|003|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+13|003|4|  4| 3|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+13|003|4|  5| 1|   193|FÜGGETLENEK SZÖVETSÉGE POLGÁRI EGYESÜLET BALASSAGYARMATÉRT                                |
+13|006|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+13|006|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+13|006|4|  3| 1|   409|BÁTONYTERENYE BARÁTAINAK KÖRE                                                             |
+13|006|4|  4| 1|    41|FÜGGETLEN KÉPVISELÕK SZÖVETSÉGE                                                           |
+13|006|4|  5| 1|   571|ZÖLD CENTRUM PÁRT                                                                         |
+13|006|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+13|006|4|  6| 2|    85|Kereszténydemokrata Néppárt                                                               |
+13|006|4|  7| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+13|006|4|  8| 1|    33|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                             |
+13|103|4|  1| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+13|103|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+13|103|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+13|103|4|  4| 1|    13|SZÁZSZORSZEBB SALGÓTARJÁNÉRT LOKÁLPATRIÓTA EGYESÜLET                                      |
+13|103|4|  4| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+13|103|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+13|103|4|  5| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|001|4|  1| 1|    21|"LUNGO DROM" ORSZÁGOS CIGÁNY ÉRDEKVÉDELMI ÉS POLGÁRI SZÖVETSÉG                            |
+14|001|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|001|4|  3| 1|   326|VÁROSUNK FEJLÕDÉSÉÉRT EGYESÜLET                                                           |
+14|001|4|  4| 1|   102|Pest Megyei Térségek Egyesülete                                                           |
+14|001|4|  5| 1|   645|ABONYI TISZTA UDVAR RENDES HÁZ EGYESÜLET                                                  |
+14|001|4|  6| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+14|001|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|001|4|  7| 2|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+14|001|4|  8| 1|   152|ÉLÕLÁNC MAGYARORSZÁGÉRT                                                                   |
+14|003|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|003|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|003|4|  2| 2|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+14|003|4|  3| 1|   677|POLGÁRI KÖR ALBERTIRSÁÉRT                                                                 |
+14|003|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|003|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|003|4|  4| 3|   935|ALBERTIRSAI ÖNKORMÁNYZATI VÁLASZTÁSI ÉS TÁMOGATÁSI SZÖVETSÉG                              |
+14|003|4|  5| 1|   676|ALBERTIRSA POLGÁRAIÉRT EGYESÜLET                                                          |
+14|013|4|  1| 1|   866|Budakalászért Védegylet                                                                   |
+14|013|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|013|4|  3| 1|   447|Budakalászi Baráti Kör                                                                    |
+14|013|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|013|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|013|4|  5| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|014|4|  1| 1|   214|BUDAKESZIÉRT FÜGGETLENEK EGYESÜLETE                                                       |
+14|014|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|014|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|014|4|  3| 1|   173|KESZI KÖR EGYESÜLET                                                                       |
+14|014|4|  3| 2|   776|VÁLLALKOZÓK EGYESÜLETE                                                                    |
+14|014|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|014|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|014|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|015|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|015|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|015|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|015|4|  3| 1|   469|BUDAÖRSI VÁLLALKOZÓK EGYESÜLETE                                                           |
+14|015|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|015|4|  4| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|015|4|  5| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|015|4|  5| 2|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+14|017|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|017|4|  2| 1|   294|SZÖVETSÉG CEGLÉDÉRT POLGÁRI EGYESÜLET                                                     |
+14|017|4|  3| 1|   404|CEGLÉDÉRT FÜGGETLEN EGYESÜLET                                                             |
+14|017|4|  4| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+14|017|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|017|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|017|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|017|4|  7| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|025|4|  1| 1|   333|DABASI LOKÁLPATRIÓTA EGYESÜLET                                                            |
+14|025|4|  2| 1|    85|Kereszténydemokrata Néppárt                                                               |
+14|025|4|  2| 2|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|025|4|  2| 3|   179|Nemzeti Fórum Egyesület                                                                   |
+14|025|4|  3| 1|   721|REGIONÁLIS FEJLÕDÉSÉRT        TÁRSASÁG EGYESÜLET                                          |
+14|025|4|  3| 2|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|025|4|  4| 1|   546|DABAS FEJLÕDÉSÉÉRT INTEGRÁLÓDÓK EGYESÜLETE                                                |
+14|025|4|  4| 2|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|033|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|033|4|  2| 1|   614|FEJLÕDÕ HARASZTIÉRT EGYESÜLET                                                             |
+14|033|4|  2| 2|   706|DUNAHARASZTI VÁROSÉRT EGYESÜLET                                                           |
+14|033|4|  2| 3|   703|DUNAHARASZTI IPARTESTÜLET                                                                 |
+14|033|4|  3| 1|   711|DUNAHARASZTI SVÁBOK EGYESÜLETE                                                            |
+14|033|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|033|4|  5| 1|   794|DUNAHARASZTI POLGÁRI KÖR                                                                  |
+14|033|4|  6| 1|    21|"LUNGO DROM" ORSZÁGOS CIGÁNY ÉRDEKVÉDELMI ÉS POLGÁRI SZÖVETSÉG                            |
+14|033|4|  7| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|033|4|  8| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|033|4|  9| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|033|4|  9| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|034|4|  1| 1|   665|DUNAKESZI  LOKÁLPATRIÓTA ÉRDEKVÉDELMI EGYESÜLET                                           |
+14|034|4|  2| 1|   334|DUNAKESZI-ALAG KÖZHASZNÚ EGYESÜLET                                                        |
+14|034|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|034|4|  3| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|034|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|034|4|  4| 2|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+14|034|4|  5| 1|   502|TISZTA ÉS ÉLHETÕ DUNAKESZIÉRT EGYESÜLET                                                   |
+14|034|4|  6| 1|   718|MAGYAR-LENGYEL PILSUDSKI TÖRTÉNELMI TÁRSASÁG                                              |
+14|034|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|034|4|  7| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|034|4|  8| 1|   836|SACRA CORONA KONZERVATÍV EGYÜTTMÛKÖDÉSI SZÖVETSÉG                                         |
+14|034|4|  9| 1|   356|DUNAKESZI LOKÁLPATRIÓTA KÖR EGYESÜLET                                                     |
+14|038|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|038|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|038|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|038|4|  4| 1|   547|Érdi Ipartestület                                                                         |
+14|038|4|  5| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+14|038|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|038|4|  6| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|038|4|  7| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|038|4|  7| 2|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+14|038|4|  8| 1|    20|CIVIL ÉRDEK EGYESÜLET                                                                     |
+14|041|4|  1| 1|   912|KÖZÖS JÖVÕNK EGYESÜLET                                                                    |
+14|041|4|  2| 1|   895|FÓTI EGYMÁST SEGÍTÕ EGYESÜLET                                                             |
+14|041|4|  3| 1|   955|IFJÚSÁGI SZABADIDÕ ÉS SPORT EGYESÜLET FÓT                                                 |
+14|041|4|  4| 1|   954|CIVIL RÉGIÓ EGYESÜLET - FÜGGETLENEK SZÖVETSÉGE                                            |
+14|041|4|  5| 1|   730|OTTHONUNK FÓT EGYLET                                                                      |
+14|041|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|041|4|  7| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|041|4|  7| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|041|4|  7| 3|   592|CIVIL VOKS EGYESÜLET                                                                      |
+14|041|4|  7| 4|   606|MAGYAR TECHNIKAI ÉS TÖMEGSPORT KLUBOK BUDAKÖRNYÉKI SZÖVETSÉGE                             |
+14|041|4|  8| 1|    85|Kereszténydemokrata Néppárt                                                               |
+14|041|4|  9| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|041|4| 10| 1|   899|CIVIL ÖSSZEFOGÁS A FÓTIAKÉRT                                                              |
+14|046|4|  1| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|046|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|046|4|  3| 1|   210|VÁROSVÉDÕK EGYESÜLETE                                                                     |
+14|046|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|046|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|046|4|  5| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|046|4|  5| 3|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+14|046|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|046|4|  7| 1|   863|GÖDI VÁLLALKOZÓK EGYESÜLETE                                                               |
+14|047|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|047|4|  2| 1|   617|KÖZÉRDEKÛ EGYESÜLET                                                                       |
+14|047|4|  2| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|047|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|047|4|  3| 2|   179|Nemzeti Fórum Egyesület                                                                   |
+14|047|4|  3| 3|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+14|047|4|  3| 4|   564|GÖDÖLLÕI POLGÁRI SZERVEZÕDÉS EGYESÜLET                                                    |
+14|047|4|  4| 1|   533|GÖDÖLLÕI  LOKÁLPATRIÓTA KLUB                                                              |
+14|047|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|047|4|  4| 3|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|047|4|  5| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|047|4|  6| 1|   487|LOKÁLPATRIÓTÁK EGYESÜLETE                                                                 |
+14|047|4|  7| 1|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+14|048|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|048|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|048|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|048|4|  3| 1|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+14|048|4|  4| 1|   901|CIVILEK A KÖRNYEZETÜNKÉRT EGYESÜLET                                                       |
+14|048|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|049|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|049|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|049|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|049|4|  4| 1|   622|GYÖMRÕ 2000 KÖR                                                                           |
+14|049|4|  5| 1|   931|GYÖMRÕI CIVILEK SZÖVETSÉGE                                                                |
+14|049|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|058|4|  1| 1|   693|ÁPRILIS 6. KÖR                                                                            |
+14|058|4|  2| 1|    41|FÜGGETLEN KÉPVISELÕK SZÖVETSÉGE                                                           |
+14|058|4|  2| 2|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+14|058|4|  3| 1|   800|ISASZEGI POLGÁRI KÖR                                                                      |
+14|058|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|078|4|  1| 1|   362|MAGLÓDI KÖZSÉGI SPORTKÖR                                                                  |
+14|078|4|  2| 1|   566|MAGLÓDI BÛNMEGELÕZÉSI POLGÁRÕRSÉG                                                         |
+14|078|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|078|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|085|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|085|4|  2| 1|   818|MONORI GAZDAKÖR                                                                           |
+14|085|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|085|4|  4| 1|    21|"LUNGO DROM" ORSZÁGOS CIGÁNY ÉRDEKVÉDELMI ÉS POLGÁRI SZÖVETSÉG                            |
+14|085|4|  5| 1|    97|KÖRNYEZETVÉDELEM MONORÉRT                                                                 |
+14|085|4|  6| 1|   160|MONORI SPORTEGYESÜLET                                                                     |
+14|085|4|  7| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|087|4|  1| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|087|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|087|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|087|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|087|4|  4| 1|   163|BALOLDALI DEMOKRATÁK EGYESÜLETE                                                           |
+14|087|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|087|4|  6| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+14|087|4|  7| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+14|087|4|  8| 1|   550|TÁPIÓMENTI IPARTESTÜLET                                                                   |
+14|087|4|  9| 1|    41|FÜGGETLEN KÉPVISELÕK SZÖVETSÉGE                                                           |
+14|089|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|089|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|089|4|  2| 2|   283|FIDELITAS                                                                                 |
+14|089|4|  2| 3|    85|Kereszténydemokrata Néppárt                                                               |
+14|089|4|  2| 4|   628|NAGYKÕRÖSI KISGAZDA POLGÁRI EGYESÜLET                                                     |
+14|089|4|  3| 1|    12|MAGYAR SZOCIÁLIS ZÖLD PÁRT                                                                |
+14|089|4|  4| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|089|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|089|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|089|4|  7| 1|   602|Jobb Nagykõrösért                                                                         |
+14|102|4|  1| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|102|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|102|4|  3| 1|   580|FÜGGETLEN POLGÁRI SZÖVETSÉG                                                               |
+14|102|4|  4| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+14|102|4|  5| 1|   361|PÉCELI KÖZÉRDEKÛ EGYESÜLET                                                                |
+14|102|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|102|4|  7| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|102|4|  8| 1|   759|PÉCELÉRT BARÁTI KÖR                                                                       |
+14|102|4|  9| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|102|4| 10| 1|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+14|102|4| 11| 1|    85|Kereszténydemokrata Néppárt                                                               |
+14|104|4|  1| 1|   923|Pilisi Összefogás Egyesület                                                               |
+14|104|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|104|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|104|4|  4| 1|   803|PILISI HÍRKÖZLÉSI EGYESÜLET                                                               |
+14|104|4|  5| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|104|4|  6| 1|   951|PILISI POLGÁRÕR EGYESÜLET                                                                 |
+14|112|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|112|4|  1| 2|   805|Vörösvári Iparosok Vállalkozók és Kereskedõk Egyesülete                                   |
+14|112|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|112|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|112|4|  3| 1|   715|Pilisvörösvár és Környéke Német Kulturális Egyesület                                      |
+14|112|4|  4| 1|   821|Fiatalok Vörösvárért Ifjúsági és Polgári Egyesület                                        |
+14|112|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|112|4|  6| 1|   603|Pilisvörösvár és Környéke Ipartestület                                                    |
+14|113|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|113|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|113|4|  2| 1|   657|NAGYCSALÁDOSOK ORSZÁGOS EGYESÜLETE                                                        |
+14|113|4|  3| 1|    21|"LUNGO DROM" ORSZÁGOS CIGÁNY ÉRDEKVÉDELMI ÉS POLGÁRI SZÖVETSÉG                            |
+14|113|4|  4| 1|   930|Hajrá Pomáz Egyesület                                                                     |
+14|113|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|113|4|  5| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|113|4|  6| 1|   900|Demokratikus és Tiszta Közéletért Egyesület                                               |
+14|113|4|  7| 1|   503|Pomázi Német Nemzetiségi Kulturális Egyesület                                             |
+14|125|4|  1| 1|   781|SZÁZHALOMBATTA VÁROS JÖVÕJÉÉRT KÖZHASZNÚ EGYESÜLET                                        |
+14|125|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|125|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|125|4|  2| 3|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|125|4|  3| 1|   536|FÓKUSZBAN BATTA IFJÚSÁGA KÖZHASZNÚ EGYESÜLET                                              |
+14|125|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|125|4|  5| 1|   245|ÖSSZEFOGÁS SZÁZHALOMBATTÁÉRT KÖZÉRDEKÛ EGYESÜLET                                          |
+14|125|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|125|4|  7| 1|   211|ÉRTÜNK SZÁZHALOMBATTAI KÖZÉLETI EGYESÜLET                                                 |
+14|126|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|126|4|  1| 2|   696|Szentendrei Közéleti és Kulturális Egyesület                                              |
+14|126|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|126|4|  3| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+14|126|4|  3| 2|   497|NEMZETI-KONZERVATíV KÖR                                                                   |
+14|126|4|  4| 1|   728|EGYÜTT SZENTENDRÉÉRT EGYESÜLET                                                            |
+14|126|4|  5| 1|   191|SZENTENDRE-DUNAKANYAR KISGAZDA POLGÁRI EGYESÜLET                                          |
+14|126|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|126|4|  6| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|126|4|  6| 3|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+14|126|4|  6| 4|    85|Kereszténydemokrata Néppárt                                                               |
+14|126|4|  6| 5|   575|MAGYAR KERESZTÉNYDEMOKRATA SZÖVETSÉG                                                      |
+14|126|4|  6| 6|   283|FIDELITAS                                                                                 |
+14|126|4|  6| 7|   659|Szentendrei Petõfi Kultúrális és Hagyományõrzõ Egyesület                                  |
+14|131|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|131|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|131|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|131|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|131|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|131|4|  5| 1|   942|SZIGETHALMI POLGÁRI KÖR                                                                   |
+14|134|4|  1| 1|   155|MAGYAR CSALÁDOK ORSZÁGOS SZÖVETSÉGE                                                       |
+14|134|4|  1| 2|   153|VÁLASZTÓPOLGÁROK SZÖVETSÉGE                                                               |
+14|134|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|134|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|134|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|134|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|134|4|  4| 3|   489|SZIGETSZENTMIKLÓSI POLGÁRI KÖR                                                            |
+14|134|4|  5| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|134|4|  6| 1|   403|MAGYAR NEMZETI FRONT                                                                      |
+14|134|4|  7| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|134|4|  8| 1|   471|SZÖVETSÉG SZIGETSZENTMIKLÓSÉRT EGYESÜLET                                                  |
+14|158|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|158|4|  2| 1|   631|HARMADIK OLDAL MAGYARORSZÁGÉRT EGYESÜLET                                                  |
+14|158|4|  3| 1|   526|SZENT FLÓRIÁN TÖRÖKBÁLINTÉRT EGYESÜLET                                                    |
+14|158|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|158|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|158|4|  5| 1|   616|TÖRÖK BÁLINT KULTURÁLIS ÉS KÖZÉLETI EGYESÜLET                                             |
+14|158|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|158|4|  6| 2|   239|CIVIL FÓRUM EGYESÜLET                                                                     |
+14|165|4|  1| 1|   438|EGYÜTTMÛKÖDÉS ÜLLÕÉRT                                                                     |
+14|165|4|  2| 1|   117|ÜLLÕI ÁLTALÁNOS IPARTESTÜLET                                                              |
+14|165|4|  3| 1|   681|LOKÁLPATRIÓTÁK A FEJLÕDÕ  ÜLLÕÉRT EGYESÜLET                                               |
+14|165|4|  4| 1|   110|ÜLLÕI POLGÁRI KÖR                                                                         |
+14|165|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|165|4|  5| 2|   479|ÖNTEVÉKENY SZÖVETSÉG ÜLLÕÉRT                                                              |
+14|165|4|  6| 1|   183|ÜLLÕI DIÁK-SPORTEGYESÜLET                                                                 |
+14|165|4|  7| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|169|4|  1| 1|    46|MAGYARORSZÁGI ZÖLD PÁRT                                                                   |
+14|169|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|169|4|  3| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+14|169|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|169|4|  5| 1|   252|VÁC VÁROSÉRT VÁLASZTÁSI EGYESÜ                                                            |
+14|169|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|169|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|169|4|  7| 2|    85|Kereszténydemokrata Néppárt                                                               |
+14|177|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|177|4|  1| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|177|4|  2| 1|    41|FÜGGETLEN KÉPVISELÕK SZÖVETSÉGE                                                           |
+14|177|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|177|4|  3| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|177|4|  3| 3|    85|Kereszténydemokrata Néppárt                                                               |
+14|177|4|  4| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|177|4|  5| 1|   698|Vecsési Vállalkozók Szövetsége                                                            |
+14|177|4|  6| 1|   683|Lokálpatrióták Egyesülete                                                                 |
+14|178|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+14|178|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+14|178|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+14|178|4|  3| 2|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+14|178|4|  3| 3|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+14|178|4|  3| 4|    85|Kereszténydemokrata Néppárt                                                               |
+14|178|4|  3| 5|   416|VERESEGYHÁZ JOBB JÖVÕJÉÉRT EGYESÜLET                                                      |
+14|178|4|  4| 1|   621|TEGYÜNK TÖBBET TELEPÜLÉSÜNKÉRT EGYESÜLET                                                  |
+14|178|4|  5| 1|   588|SZOLGÁLATTAL VERESEGYHÁZÉRT EGYESÜLET                                                     |
+14|178|4|  6| 1|   577|VERESEGYHÁZI LOKÁLPATRIÓTÁK KÖRNYEZETVÉDÕ EGYESÜLETE                                      |
+14|178|4|  7| 1|   359|TAVIRÓZSA KÖRNYEZET- ÉS TERMÉSZETVÉDÕ EGYESÜLET                                           |
+15|020|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+15|020|4|  2| 1|   288|DÉL-SOMOGYI CIGÁNY KÉPVISELÕK SZERVEZETE                                                  |
+15|020|4|  3| 1|   887|EGYÜTT A VÁROSÉRT EGYESÜLET                                                               |
+15|020|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+15|020|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+15|091|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+15|091|4|  1| 2|   579|KAPOSVÁRI SOMOGYÉRT EGYESÜLET                                                             |
+15|091|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+15|091|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+15|091|4|  3| 2|    85|Kereszténydemokrata Néppárt                                                               |
+15|091|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+15|123|4|  1| 1|   655|"Marcaliért" Egyesület                                                                    |
+15|123|4|  2| 1|   632|Marcali és Környéke Hagyományõrzõ Ipartestület                                            |
+15|123|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+15|123|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+15|123|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+15|123|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+15|130|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+15|130|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+15|130|4|  3| 1|   249|NAGYATÁDÉRT EGYESÜLET                                                                     |
+15|130|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+15|130|4|  5| 1|   236|SOMOGY MEGYEI ROMÁK EGYESÜLETE                                                            |
+15|175|4|  1| 1|   856|EGYÜTT SIÓFOKÉRT EGYESÜLET                                                                |
+15|175|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+15|175|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+15|175|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+16|077|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+16|077|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+16|077|4|  2| 1|   779|Összefogás Kisvárdáért Egyesület                                                          |
+16|077|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+16|077|4|  3| 2|   132|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                        |
+16|077|4|  4| 1|   575|MAGYAR KERESZTÉNYDEMOKRATA SZÖVETSÉG                                                      |
+16|077|4|  5| 1|    50|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+16|077|4|  6| 1|   682|Függetlenek Kisvárdáért Egyesület                                                         |
+16|077|4|  7| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+16|077|4|  8| 1|   838|Kisvárdán a Fogyasztókért Fogyasztóvédelmi Egyesület                                      |
+16|094|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+16|094|4|  2| 1|   206|MAGYAR NYUGDÍJASOK PÁRTJA                                                                 |
+16|094|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+16|094|4|  4| 1|   719|Mátészalkáért Tenni Akaró Emberek és Szervezetek Egyesülete                               |
+16|094|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+16|094|4|  5| 2|   225|Mátészalkai Vörösmarty Kör                                                                |
+16|094|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+16|094|4|  7| 1|   708|Mátészalkáért Egyesület                                                                   |
+16|094|4|  8| 1|   782|Vállalkozók Érdekvédelmi Egyesülete                                                       |
+16|106|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+16|106|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+16|106|4|  3| 1|   947|VÁLLALKOZÓK ÉRDEKVÉDELMI KLUBJA                                                           |
+16|106|4|  4| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+16|106|4|  5| 1|     5|VÁLLALKOZÓK PÁRTJA                                                                        |
+16|106|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+16|106|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+16|112|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+16|112|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+16|112|4|  3| 1|    85|Kereszténydemokrata Néppárt                                                               |
+16|112|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+16|112|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+16|119|4|  1| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+16|119|4|  2| 1|   101|Függetlenek Egyesülete                                                                    |
+16|119|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+16|119|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+16|119|4|  5| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+16|119|4|  5| 2|    85|Kereszténydemokrata Néppárt                                                               |
+16|119|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+16|204|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+16|204|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+16|204|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+16|204|4|  3| 1|   646|FÜGGETLENEK A VÁROSÉRT EGYESÜLET                                                          |
+16|204|4|  4| 1|   780|SZABADIDÕS PROGRAMSZERVEZÕ EGYESÜLET                                                      |
+16|204|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+16|204|4|  5| 2|   140|ÖSSZEFOGÁS SZABOLCS-SZATMÁR- BEREG MEGYE FELEMELKEDÉSÉÉRT SZÖVETSÉG                       |
+16|204|4|  6| 1|   496|NOE TISZAVASVÁRI NAGYCSALÁDOSOK EGYESÜLETE                                                |
+16|217|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+16|217|4|  2| 1|   150|JOBBIK MAGYARORSZÁGÉRT MOZGALOM - PÁRT                                                    |
+16|217|4|  3| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+16|217|4|  4| 1|   545|ÖSSZEFOGÁS ÚJFEHÉRTÓÉRT MOZGALOM                                                          |
+16|217|4|  5| 1|    19|FÜGGETLEN KISGAZDA-, FÖLDMUNKÁS- ÉS POLGÁRI PÁRT                                          |
+16|217|4|  5| 2|   260|Magyar Gazdakörök és Gazdaszövetkezetek Szövetsége                                        |
+16|217|4|  6| 1|   261|LÉTMINIMUM ALATT ÉLÕK TÁRSASÁGA                                                           |
+16|217|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+16|217|4|  8| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+17|011|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+17|011|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+17|011|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+17|011|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+17|011|4|  3| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+17|011|4|  4| 1|    39|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                  |
+17|011|4|  5| 1|   100|TOLNA MEGYEI FÜGGETLEN ROMA CIVIL EGYESÜLET                                               |
+17|011|4|  6| 1|   667|VÖLGYSÉGI IPARTESTÜLET                                                                    |
+17|020|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+17|020|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+17|020|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+17|020|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+17|020|4|  4| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+17|020|4|  5| 1|   355|Szövetség Dombóvárért                                                                     |
+17|079|4|  1| 1|   272|PAKS VÁROSÉRT MOZGALOM                                                                    |
+17|079|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+17|079|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+17|079|4|  2| 3|    32|KISGAZDA POLGÁRI EGYESÜLET                                                                |
+17|079|4|  3| 1|   270|PAKSI LOKÁLPATRIÓTÁK                                                                      |
+17|079|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+17|079|4|  4| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+17|095|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+17|095|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+17|095|4|  3| 1|   791|SZEKSZÁRDI VÉDEGYLET EGYESÜLET                                                            |
+17|095|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+17|095|4|  5| 1|   328|SZEKSZÁRDI NÉMET NEMZETISÉGI EGYESÜLET                                                    |
+17|095|4|  5| 2|   327|SZEKSZÁRD-ÚJVÁROSI RÓMAI KATOLIKUS TÁRSASKÖR                                              |
+17|095|4|  6| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+17|095|4|  6| 2|    85|Kereszténydemokrata Néppárt                                                               |
+17|099|4|  1| 1|   958|Tolnai Német Nemzetiségi Baráti Kör                                                       |
+17|099|4|  2| 1|   957|CIVIL VOKS EGYESÜLET                                                                      |
+17|099|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+17|099|4|  4| 1|    21|"LUNGO DROM" ORSZÁGOS CIGÁNY ÉRDEKVÉDELMI ÉS POLGÁRI SZÖVETSÉG                            |
+17|099|4|  5| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+17|099|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+17|099|4|  7| 1|   959|Mözsért Civil Egyesület                                                                   |
+17|099|4|  8| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+17|099|4|  8| 2|    85|Kereszténydemokrata Néppárt                                                               |
+18|020|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+18|020|4|  1| 2|   179|Nemzeti Fórum Egyesület                                                                   |
+18|020|4|  2| 1|    85|Kereszténydemokrata Néppárt                                                               |
+18|020|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+18|020|4|  4| 1|   802|EGYÜTT CELLDÖMÖLK VÁROSÉRT EGYESÜLET                                                      |
+18|020|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+18|020|4|  5| 2|   147|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                              |
+18|020|4|  6| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+18|095|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+18|095|4|  2| 1|   933|Európa 2000 Magyar Romák Polgári Érdekvédelmi Szervezete                                  |
+18|095|4|  3| 1|   884|Polgári Összefogás Körmendért                                                             |
+18|095|4|  3| 2|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+18|095|4|  3| 3|    85|Kereszténydemokrata Néppárt                                                               |
+18|095|4|  3| 4|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+18|095|4|  4| 1|   924|Rábaparti Fórum Egyesület                                                                 |
+18|096|4|  1| 1|   539|Kõszegi Kerékpáros Egyesület                                                              |
+18|096|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+18|096|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+18|096|4|  3| 2|    85|Kereszténydemokrata Néppárt                                                               |
+18|096|4|  4| 1|   450|Kõszegi Baráti Kör                                                                        |
+18|096|4|  5| 1|   237|Összefogás Kõszegért Egyesület                                                            |
+18|096|4|  6| 1|   367|Kõszeg és Vidéke Vállalkozók Ipartestülete                                                |
+18|096|4|  7| 1|   826|KÕSZEGI POLGÁRÕRSÉG                                                                       |
+18|096|4|  7| 2|   833|KÕSZEGFALVI GYERMEKEKÉRT EGYESÜLET                                                        |
+18|096|4|  7| 3|   831|KÕSZEGFALVI NEMZETISÉGI KÓRUSÉRT EGYESÜLET                                                |
+18|096|4|  8| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+18|096|4|  9| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+18|167|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+18|167|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+18|167|4|  2| 1|   760|VAS MEGYEI ÖNKORMÁNYZATOKÉRT EGYESÜLET                                                    |
+18|167|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+18|167|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+18|167|4|  5| 1|   528|HÍD A JÖVÕNKÉRT EGYESÜLET                                                                 |
+18|167|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+18|167|4|  6| 2|   147|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                              |
+18|167|4|  7| 1|   311|SÁRVÁRÉRT EGYESÜLET                                                                       |
+18|167|4|  7| 2|   312|SÁRVÁR ÉS VIDÉKE IPARTESTÜLET                                                             |
+18|186|4|  1| 1|   106|Pro Savaria Egyesület                                                                     |
+18|186|4|  2| 1|   376|SZÖVETSÉG SZOMBATHELYÉRT EGYESÜLET                                                        |
+18|186|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+18|186|4|  3| 2|    85|Kereszténydemokrata Néppárt                                                               |
+18|186|4|  4| 1|   104|Együtt Szombathelyért Egyesület                                                           |
+18|186|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+18|186|4|  5| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+18|186|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+19|003|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+19|003|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+19|003|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+19|003|4|  3| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+19|003|4|  4| 1|   699|Városi Polgárokért Egyesület Ajka                                                         |
+19|003|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+19|003|4|  6| 1|   871|PLANÉTA Környezetvédelmi és Városvédõ Egyesület                                           |
+19|026|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+19|026|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+19|026|4|  1| 3|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+19|026|4|  2| 1|   862|FIATAL VÁLLALKOZÓK EGYESÜLETE BALATONFÜRED                                                |
+19|026|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+19|026|4|  3| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+19|026|4|  4| 1|   844|BALATONFÜREDÉRT POLGÁRI EGYESÜLET                                                         |
+19|153|4|  1| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+19|153|4|  1| 2|    85|Kereszténydemokrata Néppárt                                                               |
+19|153|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+19|153|4|  3| 1|     8|KERESZTÉNYDEMOKRATAPÁRT                                                                   |
+19|153|4|  3| 2|    38|POLGÁRI SZÖVETSÉG PÁPÁÉRT EGYESÜLET                                                       |
+19|153|4|  4| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+19|153|4|  5| 1|   480|PÁPA ÉS KÖRNYÉKE FEJLÕDÉSÉÉRT EGYESÜLET                                                   |
+19|153|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+19|188|4|  1| 1|   565|Városért Egyesület                                                                        |
+19|188|4|  2| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+19|188|4|  3| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+19|188|4|  3| 2|    85|Kereszténydemokrata Néppárt                                                               |
+19|188|4|  4| 1|   905|TAPOLCA ÉS KÖRNYÉKE VÁLLALKOZÓINAK EGYESÜLETE                                             |
+19|188|4|  5| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+19|188|4|  5| 2|   147|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                              |
+19|188|4|  6| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+19|188|4|  7| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+19|201|4|  1| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+19|201|4|  2| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+19|201|4|  3| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+19|201|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+19|201|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+19|201|4|  5| 1|   714|Várpalotai Városszépítõ és Védõ Egyesület                                                 |
+19|203|4|  1| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+19|203|4|  2| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+19|203|4|  3| 1|    46|MAGYARORSZÁGI ZÖLD PÁRT                                                                   |
+19|203|4|  4| 1|   226|SZÖVETSÉG VESZPRÉMÉRT                                                                     |
+19|203|4|  5| 1|   157|LOKÁLPATRIOTÁK A VÁROSÉRT                                                                 |
+19|203|4|  6| 1|   695|VÉDEGYLET VESZPRÉMÉRT EGYESÜLET                                                           |
+19|203|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+19|203|4|  7| 2|    85|Kereszténydemokrata Néppárt                                                               |
+19|203|4|  8| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+20|093|4|  1| 1|   406|KESZTHELYI IPARTESTÜLET                                                                   |
+20|093|4|  2| 1|   207|KESZTHELY VÁROSÉRT EGYESÜLET                                                              |
+20|093|4|  3| 1|   525|Szövetség Keszthelyért Egyesület                                                          |
+20|093|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+20|093|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+20|093|4|  5| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+20|093|4|  6| 1|   911|HELIKONI PATRIÓTÁK EGYESÜLET                                                              |
+20|093|4|  7| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+20|093|4|  7| 2|    85|Kereszténydemokrata Néppárt                                                               |
+20|134|4|  1| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+20|134|4|  2| 1|    27|MAGYARORSZÁGI SZOCIÁLDEMOKRATA PÁRT                                                       |
+20|134|4|  3| 1|   154|Nagykanizsai Városvédõ Egyesület                                                          |
+20|134|4|  4| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+20|134|4|  4| 2|    85|Kereszténydemokrata Néppárt                                                               |
+20|134|4|  5| 1|   139|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                             |
+20|134|4|  6| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+20|134|4|  7| 1|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+20|134|4|  8| 1|   680|Dunántúli Roma Vezetõk Szövetsége                                                         |
+20|231|4|  1| 1|   927|Roma Összefogás Szövetsége                                                                |
+20|231|4|  1| 2|    31|FIATAL ROMÁK ORSZÁGOS SZÖVETSÉGE                                                          |
+20|231|4|  2| 1|    86|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG                                                         |
+20|231|4|  2| 2|    85|Kereszténydemokrata Néppárt                                                               |
+20|231|4|  2| 3|   179|Nemzeti Fórum Egyesület                                                                   |
+20|231|4|  3| 1|   694|Együtt Zalaegerszegért Egyesület                                                          |
+20|231|4|  4| 1|    14|MAGYAR DEMOKRATA FÓRUM                                                                    |
+20|231|4|  5| 1|     7|MAGYAR SZOCIALISTA PÁRT                                                                   |
+20|231|4|  5| 2|    10|SZDSZ- A MAGYAR LIBERÁLIS PÁRT                                                            |
+20|231|4|  6| 1|   849|Szövetség Zalaegerszegért Egyesület                                                       |

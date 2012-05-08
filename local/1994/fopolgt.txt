@@ -1,0 +1,6 @@
+01|00013002|DR. BARÁTH ETELE                        |00155365|3|nem nyert                     |000012|MAGYAR SZOCIALISTA PÁRT
+02|00033846|DR. DEMSZKY GÁBOR                       |00215374|1|nyert                         |000017|SZABAD DEMOKRATÁK SZÖVETSÉGE
+03|00021666|    KOLLÁT PÁL                          |00012767|3|nem nyert                     |000015|MUNKÁSPÁRT
+04|00016687|DR. LATORCAI JÁNOS                      |00168731|3|nem nyert                     |010039|MDF-FIDESZ-KDNP
+05|00027416|DR. MAGYAR GYÖRGY                       |00007706|3|nem nyert                     |010028|KP-LPSZVP
+06|00012096|DR. SZABÓ JÁNOS                         |00033651|3|nem nyert                     |010021|FKGP-MIÉP

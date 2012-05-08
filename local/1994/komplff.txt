@@ -1,0 +1,162 @@
+01|BUDAPEST  |001|BUDAPEST          01|1|eredményes
+01|BUDAPEST  |002|BUDAPEST          02|1|eredményes
+01|BUDAPEST  |003|BUDAPEST          03|1|eredményes
+01|BUDAPEST  |004|BUDAPEST          04|1|eredményes
+01|BUDAPEST  |005|BUDAPEST          05|1|eredményes
+01|BUDAPEST  |006|BUDAPEST          06|1|eredményes
+01|BUDAPEST  |007|BUDAPEST          07|1|eredményes
+01|BUDAPEST  |008|BUDAPEST          08|1|eredményes
+01|BUDAPEST  |009|BUDAPEST          09|1|eredményes
+01|BUDAPEST  |010|BUDAPEST          10|1|eredményes
+01|BUDAPEST  |011|BUDAPEST          11|1|eredményes
+01|BUDAPEST  |012|BUDAPEST          12|1|eredményes
+01|BUDAPEST  |013|BUDAPEST          13|1|eredményes
+01|BUDAPEST  |014|BUDAPEST          14|1|eredményes
+01|BUDAPEST  |015|BUDAPEST          15|1|eredményes
+01|BUDAPEST  |016|BUDAPEST          16|1|eredményes
+01|BUDAPEST  |017|BUDAPEST          17|1|eredményes
+01|BUDAPEST  |018|BUDAPEST          18|1|eredményes
+01|BUDAPEST  |019|BUDAPEST          19|1|eredményes
+01|BUDAPEST  |020|BUDAPEST          20|1|eredményes
+01|BUDAPEST  |021|BUDAPEST          21|1|eredményes
+01|BUDAPEST  |022|BUDAPEST          22|1|eredményes
+01|BUDAPEST  |023|BUDAPEST          23|1|eredményes
+02|BARANYA   |138|KOMLÓ               |1|eredményes
+02|BARANYA   |182|MOHÁCS              |1|eredményes
+02|BARANYA   |218|PÉCS                |1|eredményes
+02|BARANYA   |235|SIKLÓS              |1|eredményes
+02|BARANYA   |264|SZIGETVÁR           |1|eredményes
+03|BÁCS-KISK.|004|BAJA                |1|eredményes
+03|BÁCS-KISK.|053|JÁNOSHALMA          |1|eredményes
+03|BÁCS-KISK.|055|KALOCSA             |1|eredményes
+03|BÁCS-KISK.|059|KECSKEMÉT           |1|eredményes
+03|BÁCS-KISK.|063|KISKÕRÖS            |1|eredményes
+03|BÁCS-KISK.|064|KISKUNFÉLEGYHÁZA    |1|eredményes
+03|BÁCS-KISK.|065|KISKUNHALAS         |1|eredményes
+03|BÁCS-KISK.|066|KISKUNMAJSA         |1|eredményes
+03|BÁCS-KISK.|077|LAJOSMIZSE          |1|eredményes
+03|BÁCS-KISK.|110|TISZAKÉCSKE         |1|eredményes
+04|BÉKÉS     |003|BÉKÉS               |1|eredményes
+04|BÉKÉS     |004|BÉKÉSCSABA          |1|eredményes
+04|BÉKÉS     |025|GYOMAENDRÕD         |1|eredményes
+04|BÉKÉS     |026|GYULA               |1|eredményes
+04|BÉKÉS     |049|MEZÕBERÉNY          |1|eredményes
+04|BÉKÉS     |059|OROSHÁZA            |1|eredményes
+04|BÉKÉS     |063|SARKAD              |1|eredményes
+04|BÉKÉS     |066|SZARVAS             |1|eredményes
+04|BÉKÉS     |067|SZEGHALOM           |1|eredményes
+05|BORSOD-A-Z|072|EDELÉNY             |1|eredményes
+05|BORSOD-A-Z|151|KAZINCBARCIKA       |1|eredményes
+05|BORSOD-A-Z|195|MEZÕKÖVESD          |1|eredményes
+05|BORSOD-A-Z|201|MISKOLC             |1|eredményes
+05|BORSOD-A-Z|225|ÓZD                 |1|eredményes
+05|BORSOD-A-Z|266|SAJÓSZENTPÉTER      |1|eredményes
+05|BORSOD-A-Z|272|SÁROSPATAK          |1|eredményes
+05|BORSOD-A-Z|274|SÁTORALJAÚJHELY     |1|eredményes
+05|BORSOD-A-Z|292|SZERENCS            |1|eredményes
+05|BORSOD-A-Z|324|TISZAÚJVÁROS        |1|eredményes
+06|CSONGRÁD  |012|CSONGRÁD            |1|eredményes
+06|CSONGRÁD  |023|HÓDMEZÕVÁSÁRHELY    |1|eredményes
+06|CSONGRÁD  |031|MAKÓ                |1|eredményes
+06|CSONGRÁD  |050|SZEGED              |1|eredményes
+06|CSONGRÁD  |052|SZENTES             |1|eredményes
+07|FEJÉR     |013|BICSKE              |1|eredményes
+07|FEJÉR     |024|DUNAÚJVÁROS         |1|eredményes
+07|FEJÉR     |060|MÓR                 |1|eredményes
+07|FEJÉR     |077|SÁRBOGÁRD           |1|eredményes
+07|FEJÉR     |094|SZÉKESFEHÉRVÁR      |1|eredményes
+08|GYÕR-M-S  |024|CSORNA              |1|eredményes
+08|GYÕR-M-S  |055|GYÕR                |1|eredményes
+08|GYÕR-M-S  |077|KAPUVÁR             |1|eredményes
+08|GYÕR-M-S  |099|MOSONMAGYARÓVÁR     |1|eredményes
+08|GYÕR-M-S  |143|SOPRON              |1|eredményes
+09|HAJDÚ-B   |005|BALMAZÚJVÁROS       |1|eredményes
+09|HAJDÚ-B   |009|BERETTYÓÚJFALU      |1|eredményes
+09|HAJDÚ-B   |018|DEBRECEN            |1|eredményes
+09|HAJDÚ-B   |030|HAJDÚBÖSZÖRMÉNY     |1|eredményes
+09|HAJDÚ-B   |032|HAJDÚHADHÁZ         |1|eredményes
+09|HAJDÚ-B   |033|HAJDÚNÁNÁS          |1|eredményes
+09|HAJDÚ-B   |035|HAJDÚSZOBOSZLÓ      |1|eredményes
+09|HAJDÚ-B   |063|PÜSPÖKLADÁNY        |1|eredményes
+10|HEVES     |025|EGER                |1|eredményes
+10|HEVES     |039|GYÖNGYÖS            |1|eredményes
+10|HEVES     |046|HATVAN              |1|eredményes
+10|HEVES     |048|HEVES               |1|eredményes
+11|JÁSZ-NK-SZ|015|JÁSZBERÉNY          |1|eredményes
+11|JÁSZ-NK-SZ|026|KARCAG              |1|eredményes
+11|JÁSZ-NK-SZ|030|KISÚJSZÁLLÁS        |1|eredményes
+11|JÁSZ-NK-SZ|035|KUNSZENTMÁRTON      |1|eredményes
+11|JÁSZ-NK-SZ|039|MEZÕTÚR             |1|eredményes
+11|JÁSZ-NK-SZ|052|SZOLNOK             |1|eredményes
+11|JÁSZ-NK-SZ|056|TISZAFÖLDVÁR        |1|eredményes
+11|JÁSZ-NK-SZ|057|TISZAFÜRED          |1|eredményes
+11|JÁSZ-NK-SZ|074|TÖRÖKSZENTMIKLÓS    |1|eredményes
+11|JÁSZ-NK-SZ|075|TÚRKEVE             |1|eredményes
+12|KOMÁROM-E |022|DOROG               |1|eredményes
+12|KOMÁROM-E |027|ESZTERGOM           |1|eredményes
+12|KOMÁROM-E |037|KOMÁROM             |1|eredményes
+12|KOMÁROM-E |050|OROSZLÁNY           |1|eredményes
+12|KOMÁROM-E |062|TATA                |1|eredményes
+12|KOMÁROM-E |063|TATABÁNYA           |1|eredményes
+13|NÓGRÁD    |003|BALASSAGYARMAT      |1|eredményes
+13|NÓGRÁD    |006|BÁTONYTERENYE       |1|eredményes
+13|NÓGRÁD    |096|PÁSZTÓ              |1|eredményes
+13|NÓGRÁD    |103|SALGÓTARJÁN         |1|eredményes
+14|PEST      |001|ABONY               |1|eredményes
+14|PEST      |003|ALBERTIRSA          |1|eredményes
+14|PEST      |014|BUDAKESZI           |1|eredményes
+14|PEST      |015|BUDAÖRS             |1|eredményes
+14|PEST      |017|CEGLÉD              |1|eredményes
+14|PEST      |025|DABAS               |1|eredményes
+14|PEST      |033|DUNAHARASZTI        |1|eredményes
+14|PEST      |034|DUNAKESZI           |1|eredményes
+14|PEST      |038|ÉRD                 |1|eredményes
+14|PEST      |041|FÓT                 |1|eredményes
+14|PEST      |046|GÖD                 |1|eredményes
+14|PEST      |047|GÖDÖLLÕ             |1|eredményes
+14|PEST      |048|GYÁL                |1|eredményes
+14|PEST      |049|GYÖMRÕ              |1|eredményes
+14|PEST      |085|MONOR               |1|eredményes
+14|PEST      |087|NAGYKÁTA            |1|eredményes
+14|PEST      |089|NAGYKÕRÖS           |1|eredményes
+14|PEST      |102|PÉCEL               |1|eredményes
+14|PEST      |112|PILISVÖRÖSVÁR       |1|eredményes
+14|PEST      |113|POMÁZ               |1|eredményes
+14|PEST      |125|SZÁZHALOMBATTA      |1|eredményes
+14|PEST      |126|SZENTENDRE          |1|eredményes
+14|PEST      |131|SZIGETHALOM         |1|eredményes
+14|PEST      |134|SZIGETSZENTMIKLÓS   |1|eredményes
+14|PEST      |169|VÁC                 |1|eredményes
+14|PEST      |177|VECSÉS              |1|eredményes
+15|SOMOGY    |019|BARCS               |1|eredményes
+15|SOMOGY    |091|KAPOSVÁR            |1|eredményes
+15|SOMOGY    |122|MARCALI             |1|eredményes
+15|SOMOGY    |129|NAGYATÁD            |1|eredményes
+15|SOMOGY    |174|SIÓFOK              |1|eredményes
+16|SZABOLCS  |077|KISVÁRDA            |1|eredményes
+16|SZABOLCS  |094|MÁTÉSZALKA          |1|eredményes
+16|SZABOLCS  |106|NAGYKÁLLÓ           |1|eredményes
+16|SZABOLCS  |112|NYÍRBÁTOR           |1|eredményes
+16|SZABOLCS  |119|NYÍREGYHÁZA         |1|eredményes
+16|SZABOLCS  |204|TISZAVASVÁRI        |1|eredményes
+16|SZABOLCS  |217|ÚJFEHÉRTÓ           |1|eredményes
+17|TOLNA     |011|BONYHÁD             |1|eredményes
+17|TOLNA     |020|DOMBÓVÁR            |1|eredményes
+17|TOLNA     |079|PAKS                |1|eredményes
+17|TOLNA     |095|SZEKSZÁRD           |1|eredményes
+17|TOLNA     |096|TAMÁSI              |1|eredményes
+17|TOLNA     |099|TOLNA               |1|eredményes
+18|VAS       |020|CELLDÖMÖLK          |1|eredményes
+18|VAS       |095|KÖRMEND             |1|eredményes
+18|VAS       |096|KÕSZEG              |1|eredményes
+18|VAS       |167|SÁRVÁR              |1|eredményes
+18|VAS       |186|SZOMBATHELY         |1|eredményes
+19|VESZPRÉM  |003|AJKA                |1|eredményes
+19|VESZPRÉM  |029|BALATONFÜRED        |1|eredményes
+19|VESZPRÉM  |158|PÁPA                |1|eredményes
+19|VESZPRÉM  |194|TAPOLCA             |1|eredményes
+19|VESZPRÉM  |206|VÁRPALOTA           |1|eredményes
+19|VESZPRÉM  |208|VESZPRÉM            |1|eredményes
+20|ZALA      |093|KESZTHELY           |1|eredményes
+20|ZALA      |134|NAGYKANIZSA         |1|eredményes
+20|ZALA      |231|ZALAEGERSZEG        |1|eredményes

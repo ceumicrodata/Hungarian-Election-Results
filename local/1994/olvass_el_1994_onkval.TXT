@@ -1,0 +1,540 @@
+  Az 1994. évi önkormányzati és polgármester választások eredményei
+             
+
+Ez a könvtár az 1994. december 11-én megtartott önkormányzati és polgármester választások
+végleges eredményeinek adatait tartalmazza, továbbfeldolgozásra alkalmas formában.
+A könyvtár tartalma a választókerületek (fõváros/megye, település, egyéni választókerület) eredmény 
+jegyzõkönyveinek alapján készült, a jogorvoslatok lezárását és a megismételt választások 
+eredményeinek feldolgozását követõen.
+
+A könyvtárban megtalálhatók
+
+* a települési polgármester választások eredményei,
+* a 10 ezer és annál kisebb települések "kislistás" rendszerû képviselõ testületi 
+  választásainak eredményei,
+* a 10 ezernél nagyobb lakosságszámú települések képviselõ testületi választásának eredményei:
+	- az egyéni választókerületek eredményei,
+	- a kompenzációs listákon megszerzett mandátumok,
+* a fõpolgármester választás eredménye,
+* a fõvárosi, megyei közgyûlések választásának eredményei:
+* a fõvárosi közgyûlés választásának eredménye,
+* a megyei 10 ezer fõ feletti települések választókerületeinek és 
+* a megyei 10 ezer és az alatti települések választókerületeinek eredményei,
+* a kisebbségek saját települési önkormányzatainak választási eredményei.
+
+Az adatállományok (TXT fájlok) a jegyzõkönyvek technikai szerkezetét követik, azaz 
+"fej - tételsor" bontásúak. A kisebbségi önkormányzat választás esetén "település 
+fej - településen belül kisebbségi alfej - a kisebbséghez tartozó tételsorok" 
+bontásban találhatók meg az adatok.
+
+
+Általános információk
+
+A text file-ok változó sor és mezõ hosszúságúak. A mezõhatároló: '|'
+
+Ha egy mezõ üres, akkor két elválasztójel található egymás mellett.
+
+A file-ok win1250-es kódkészlettel készültek.
+
+Egyes adatoknál mind kód, mind szöveges leírás szerepel. 
+Ezek a kódok és a leírásuk a kodok.txt állományban is megtalálhatóak.
+A fájlok mezõinek leírásában zárójelben adjuk meg a hozzájuk tartozó kódcsoportokat.
+
+A kódok értelmezése a KODOK.TXT ben található. Az adatállományok leírásában a kód 
+értékeket tartalmazó mezõknél a kódcsoport megnevezése zárójelben található.
+
+
+Az adatállományok leírása:
+
+------------------------------------------------------------------
+Kódok
+------------------------------------------------------------------
+KODOK.TXT
+- Kódcsoport száma
+- Kód
+- Megnevezés
+- Magyarázat
+
+------------------------------------------------------------------
+Kisebbségi önkormányzatok választása
+------------------------------------------------------------------
+
+"Fej" adatok
+
+KISERE.TXT
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Jegyzõkönyv 'A' mezõ
+  Elõzõ nap 16 óráig a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'B' mezõ
+  A szavazás napján a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'C' mezõ
+  A szavazás napján a névjegyzékbõl törölt választópolgárok száma
+- Jegyzõkönyv 'D' mezõ
+  Vál.polgárok száma a névjegyzékben a választás befejezésekor
+- Jegyzõkönyv 'F' mezõ
+  Szavazóként megjelentek száma
+- Jegyzõkönyv 'G' mezõ
+  Urnában lévõ szavazólapok száma
+- Jegyzõkönyv 'H' mezõ
+  Urnából hiányzó szavazólapok
+- Jegyzõkönyv 'I' mezõ
+  Érvénytelen szavazólapok száma
+- Jegyzõkönyv 'J' mezõ
+  Érvényes szavazólapok száma
+- Jegyzõkönyv 'K' mezõ
+  Érvényes szavazatok száma összesen
+
+Egyedi kulcs:
+   Megye azonosító+Település azonosító
+
+"Alfej" adatok
+
+KISERET.TXT
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Kisebbségkód
+- Kisebbség neve
+- Kisebbségi választás eredményessége jelzõ (kódcsoport: 11)
+- Kisebbségi választás eredményessége
+- Jegyzõkönyv "L" mezõ
+  A kisebbség jelöltjeire leadott érvényes szavazatok száma
+- Megszerzett mandátumok száma
+- Szavazólapok száma adott kisebbségre
+
+Egyedi kulcs:
+   Megye azonosító+Település azonosító+Kisebbségkód
+
+"Tétel" adatok
+
+KISERETJ.TXT
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Kisebbségkód
+- Kisebbség neve
+- Jelölt azonosító
+- Jelölt sorszáma
+- "dr" jelzõ + Jelölt neve
+- Támogató szervezet kódja
+- Támogató szervezet neve
+- Mandátumot nyert jelzõ (kódcsoport: 29)
+- Mandátumot nyert
+- Kapott érvényes szavazat
+
+Egyedi kulcs:
+   Megye azonosító+Település azonosító+Kisebbségkód
+   +Jelölt sorszáma
+
+
+------------------------------------------------------------------
+Egyéni választókerületi választás
+------------------------------------------------------------------
+
+"Fej" adatok
+
+EJELERE.TXT
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- TEVK azonosító
+- Választás eredményessége jelzõ (kódcsoport: 13)
+- Választás eredményessége
+- Jegyzõkönyv 'A' mezõ
+  Elõzõ nap 16 óráig a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'B' mezõ
+  A szavazás napján a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'C' mezõ
+  A szavazás napján a névjegyzékbõl törölt választópolgárok száma
+- Jegyzõkönyv 'D' mezõ
+  Vál.polgárok száma a névjegyzékben a választás befejezésekor
+- Jegyzõkönyv 'F' mezõ
+  Szavazóként megjelentek száma
+- Jegyzõkönyv 'G' mezõ
+  Urnában lévõ szavazólapok száma
+- Jegyzõkönyv 'H' mezõ
+  Urnából hiányzó szavazólapok
+- Jegyzõkönyv 'I' mezõ
+  Érvénytelen szavazatok száma
+- Jegyzõkönyv 'J' mezõ
+  Érvényes szavazatok száma
+
+Egyedi kulcs:
+   Megye azonosító+Település azonosító+TEVK azonosító
+
+"Tétel" adatok
+
+EJELERET.TXT
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- TEVK azonosító
+- Jelölt sorszáma
+- Jelölt azonosító
+- "dr" jelzõ + Jelölt neve
+- Kapott érvényes szavazat
+- Mandátumot nyert jelzõ (kódcsoport: 29)
+- Mandátumot nyert
+- Támogató szervezet kódja
+- Támogató szervezet neve
+- Támogató kisebbség kódja
+- Támogató kisebbség
+
+Egyedi kulcs:
+   Megye azonosító+Település azonosító+TEVK azonosító
+   +Jelölt sorszáma
+
+
+------------------------------------------------------------------
+Megyei közgyûlés választása
+------------------------------------------------------------------
+
+"Fej" adatok
+
+TLISERE.TXT
+- Megye azonosító
+- Megye rövid neve
+- Lista típuskódja (kódcsoport: 25)
+- Lista típusa
+- Választás eredményessége jelzõ (kódcsoport: 13)
+- Választás eredményessége
+- Jegyzõkönyv 'A' mezõ
+  Elõzõ nap 16 óráig a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'B' mezõ
+  A szavazás napján a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'C' mezõ
+  A szavazás napján a névjegyzékbõl törölt választópolgárok száma
+- Jegyzõkönyv 'D' mezõ
+  Vál.polgárok száma a névjegyzékben a választás befejezésekor
+- Jegyzõkönyv 'F' mezõ
+  Szavazóként megjelentek száma
+- Jegyzõkönyv 'G' mezõ
+  Urnában lévõ szavazólapok száma
+- Jegyzõkönyv 'H' mezõ
+  Urnából hiányzó szavazólapok
+- Jegyzõkönyv 'I' mezõ
+  Érvénytelen szavazatok száma
+- Jegyzõkönyv 'J' mezõ
+  Érvényes szavazatok száma
+- Összes érvényes szavazat
+
+
+Egyedi kulcs:
+   Megye azonosító+Lista típuskódja
+
+"Alfej" adatok
+
+TLISERET.TXT
+- Megye azonosító
+- Megye rövid neve
+- Lista típuskódja (kódcsoport: 25)
+- Lista típusa
+- Lista sorszáma a szavazólapon
+- Listakód
+- Lista neve (listát indító szervezet/ek/)
+- Kapott érvényes szavazat
+- Megszerzett mandátumok száma
+
+Egyedi kulcs:
+   Megye azonosító+Listakód
+
+"Tétel" adatok
+
+TLISERETJ.TXT
+- Megye azonosító
+- Megye rövid neve
+- Lista típuskódja (kódcsoport: 25)
+- Lista típusa
+- Listakód
+- Lista neve (listát indító szervezet/ek/)
+- Jelölt sorszáma
+- "dr" jelzõ + Jelölt neve
+- Mandátumot kapott jelzõ (kódcsoport: 29)
+- Mandátumot kapott
+
+Egyedi kulcs:
+   Megye azonosító+Listakód+Jelölt sorszáma
+
+
+------------------------------------------------------------------
+Polgármester választás
+------------------------------------------------------------------
+
+"Fej" adatok
+
+POLGMFEJ.TXT
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Választás eredményessége jelzõ (kódcsoport: 13)
+- Választás eredményessége
+- Jegyzõkönyv 'A' mezõ
+  Elõzõ nap 16 óráig a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'B' mezõ
+  A szavazás napján a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'C' mezõ
+  A szavazás napján a névjegyzékbõl törölt választópolgárok száma
+- Jegyzõkönyv 'D' mezõ
+  Vál.polgárok száma a névjegyzékben a választás befejezésekor
+- Jegyzõkönyv 'F' mezõ
+  Szavazóként megjelentek száma
+- Jegyzõkönyv 'G' mezõ
+  Urnában lévõ szavazólapok száma
+- Jegyzõkönyv 'H' mezõ
+  Urnából hiányzó szavazólapok
+- Jegyzõkönyv 'I' mezõ
+  Érvénytelen szavazatok száma
+- Jegyzõkönyv 'J' mezõ
+  Érvényes szavazatok száma
+
+Egyedi kulcs:
+   Megye azonosító+Település azonosító
+
+"Tétel" adatok
+
+POLGMJEL.TXT
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Jelölt sorszáma
+- Jelölt azonosító
+- "dr" jelzõ + Jelölt neve
+- Kapott érvényes szavazat
+- Mandátumot nyert jelzõ (kódcsoport: 29)
+- Mandátumot nyert
+- Támogató szervezet kódja
+- Támogató szervezet neve
+- Támogató kisebbség kódja
+- Támogató kisebbség
+
+Egyedi kulcs:
+   Megye azonosító+Település azonosító +Jelölt azonosító
+
+
+------------------------------------------------------------------
+Kislistás választás
+------------------------------------------------------------------
+
+"Fej" adatok
+
+KISLFEJ.TXT
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Választás eredményessége jelzõ (kódcsoport: 13)
+- Választás eredményessége
+- Jegyzõkönyv 'A' mezõ
+  Elõzõ nap 16 óráig a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'B' mezõ
+  A szavazás napján a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'C' mezõ
+  A szavazás napján a névjegyzékbõl törölt választópolgárok száma
+- Jegyzõkönyv 'D' mezõ
+  Vál.polgárok száma a névjegyzékben a választás befejezésekor
+- Jegyzõkönyv 'F' mezõ
+  Szavazóként megjelentek száma
+- Jegyzõkönyv 'G' mezõ
+  Urnában lévõ szavazólapok száma
+- Jegyzõkönyv 'H' mezõ
+  Urnából hiányzó szavazólapok
+- Jegyzõkönyv 'I' mezõ
+  Érvénytelen szavazólapok száma
+- Jegyzõkönyv 'J' mezõ
+  Érvényes szavazólapok száma
+- Jegyzõkönyv 'K' mezõ
+  Érvényes szavazatok száma összesen
+
+
+Egyedi kulcs:
+   Megye azonosító+Település azonosító
+
+"Tétel" adatok
+
+KISLJEL.TXT
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Jelölt sorszáma
+- Jelölt azonosító
+- "dr" jelzõ + Jelölt neve
+- Kapott érvényes szavazat
+- Mandátumot nyert jelzõ (kódcsoport: 29)
+- Mandátumot nyert
+- Támogató szervezet kódja
+- Támogató szervezet neve
+- Támogató kisebbség kódja
+- Támogató kisebbség
+
+Egyedi kulcs:
+   Megye azonosító+Település azonosító+Jelölt azonosító
+
+
+---------------------------------------------------------------------
+Fõpolgármester választás
+---------------------------------------------------------------------
+"Fej" adatok
+
+FOPOLGF.TXT
+
+- A választás eredményessége jelzõ (kódcsoport: 13)
+- A választás eredményessége
+- Jegyzõkönyv 'A' mezõ
+  Elõzõ nap 16 óráig a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'B' mezõ
+  A szavazás napján a névjegyzékbe felvett választópolgárok száma
+- Jegyzõkönyv 'C' mezõ
+  A szavazás napján a névjegyzékbõl törölt választópolgárok száma
+- Jegyzõkönyv 'D' mezõ
+  Vál.polgárok száma a névjegyzékben a választás befejezésekor
+- Jegyzõkönyv 'F' mezõ
+  Szavazóként megjelentek száma
+- Jegyzõkönyv 'G' mezõ
+  Urnában lévõ szavazólapok száma
+- Jegyzõkönyv 'H' mezõ
+  Urnából hiányzó szavazólapok
+- Jegyzõkönyv 'I' mezõ
+  Érvénytelen szavazatok száma
+- Jegyzõkönyv 'J' mezõ
+  Érvényes szavazatok száma
+
+
+"Tétel" adatok
+
+FOPOLGT.TXT
+
+- Jelölt sorszáma a szavazólapon
+- Jelölt azonosító
+- "dr" jelzõ + Jelölt neve
+- Kapott szavazatok száma
+- Mandátumot nyert jelzõ (kódcsoport: 29)
+- Mandátumot nyert
+- Támogató szervezet kódja
+- Támogató szervezet röviditése
+
+Egyedi kulcs: Jelölt azonosító
+
+---------------------------------------------------------------------
+Szervezetek
+---------------------------------------------------------------------
+SZERVEZET.TXT
+
+- Szervezet kódja
+- Szervezet típus kódja (kódcsoport: 57)
+- Szervezet típusa
+- Szervezet hivatalos neve_1
+- Szervezet hivatalos neve_2
+- Szervezet hivatalos neve_3
+- Szervezet 'táblázatos' neve
+- Szervezet 'rövid' neve
+- 'Anya' szervezet kódja
+- Kisebbség kódja
+- Kisebbség megnevezése
+
+
+Egyedi kulcs: Szervezet kódja
+
+---------------------------------------------------------------------
+Normál és kisebbségi kompenzációslistán kiosztott mandátumok
+---------------------------------------------------------------------
+
+KOMPLFF.TXT
+
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Választás eredményesség jelzõ (kódcsoport: 13)
+- Választás eredményessége
+
+
+Egyedi kulcs: megye azonosító + település azonosító
+
+
+---------------------------------------------------------------------
+Kisebbségi kompenzációslistás választás
+---------------------------------------------------------------------
+"Fej" adatok
+
+KISKOMPF.TXT
+
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Lista azonosító
+- Lista neve
+- Kapott szavazatok száma
+- Megszerzett mandátumok száma
+- Kisebbség kódja
+- Kisebbség megnevezése
+
+Egyedi kulcs: megye azonosító + település azonosító + lista azonosító
+
+"Tétel" adatok
+
+KISKOMPJ.TXT
+
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Lista azonosító
+- Lista neve
+- Jelölt sorszáma a listán
+- Jelölt azonosító
+- "dr" jelzõ + Jelölt neve
+- Mandátumot nyert jelzõ (kódcsoport: 29)
+- Mandátumot nyert
+
+Egyedi kulcs: megye azonosító + település azonosító + lista azonosító +
+	      jelölt sorszáma a listán
+
+
+
+---------------------------------------------------------------------
+Normál kompenzációslistás választás
+---------------------------------------------------------------------
+"Fej" adatok
+
+KOMPLF.TXT
+
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Lista azonosító
+- Lista neve
+- Kapott szavazatok száma
+- Megszerzett mandátumok száma
+
+Egyedi kulcs: megye azonosító + település azonosító + lista azonosító
+
+"Tétel" adatok
+
+KOMPLISJ.TXT
+
+- Megye azonosító
+- Megye rövid neve
+- Település azonosító
+- Településnév
+- Lista azonosító
+- Lista neve
+- Jelölt sorszáma a listán
+- Jelölt azonosító
+- "dr" jelzõ + Jelölt neve
+- Mandátumot nyert jelzõ (kódcsoport: 29)
+- Mandátumot nyert
+
+
+Egyedi kulcs: megye azonosító + település azonosító + lista azonosító + jelölt sorszáma a listán

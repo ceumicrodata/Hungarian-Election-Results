@@ -1,0 +1,39 @@
+01|BUDAPEST  |3|Fõvárosi közgyûlési lista     |7|Választás eredményes          | 66| 66|  0|  29564|1431501|   1068|     16|1432553|    665| 754674| 752619|  -2055|  13517| 739102|      0|
+02|BARANYA   |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 29| 29|  0|   3324| 141643|     27|      2| 141668|     20|  89274|  89136|   -138|   6019|  83117|      0|
+02|BARANYA   |2|Megyei lista 10e feletti      |7|Választás eredményes          | 11| 11|  0|    993|  56283|     12|      0|  56295|     11|  25797|  25776|    -21|    927|  24849|      0|
+03|BÁCS      |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 27| 27|  0|   4057| 207341|     48|      1| 207388|      8| 108643| 108545|    -98|   7097| 101448|      0|
+03|BÁCS      |2|Megyei lista 10e feletti      |7|Választás eredményes          | 19| 19|  0|   2433| 143417|     50|      1| 143466|      6|  63441|  63383|    -58|   2557|  60826|      0|
+04|BÉKÉS     |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 22| 22|  0|   2816| 143084|     30|      0| 143114|     21|  76768|  76710|    -58|   6310|  70400|      0|
+04|BÉKÉS     |2|Megyei lista 10e feletti      |7|Választás eredményes          | 18| 18|  0|   2048| 123115|     29|      1| 123143|     12|  54897|  54859|    -38|   3648|  51211|      0|
+05|BORSOD    |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 40| 40|  0|   6735| 296822|     79|      8| 296893|    307| 180447| 180313|   -134|  11914| 168399|      0|
+05|BORSOD    |2|Megyei lista 10e feletti      |7|Választás eredményes          | 19| 19|  0|   2472| 139554|     45|      1| 139598|     84|  64633|  64579|    -54|   2756|  61823|      0|
+06|CSONGRÁD  |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 25| 25|  0|   2156| 112293|     24|      0| 112317|     18|  57367|  57331|    -36|   3408|  53923|      0|
+06|CSONGRÁD  |2|Megyei lista 10e feletti      |7|Választás eredményes          | 15| 15|  0|   1100|  61042|      9|      0|  61051|     37|  28731|  28696|    -35|   1187|  27509|      0|
+07|FEJÉR     |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 34| 34|  0|   3496| 181632|     62|      0| 181694|     21|  93444|  93374|    -70|   5955|  87419|      0|
+07|FEJÉR     |2|Megyei lista 10e feletti      |7|Választás eredményes          |  6|  6|  0|    538|  30912|     11|      0|  30923|      1|  14153|  14135|    -18|    670|  13465|      0|
+08|GYÕR      |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 32| 32|  0|   3498| 161478|     19|      1| 161496|     19|  91982|  91945|    -37|   4471|  87474|      0|
+08|GYÕR      |2|Megyei lista 10e feletti      |7|Választás eredményes          |  9|  9|  0|    826|  42028|      6|      0|  42034|      5|  21373|  21346|    -27|    682|  20664|      0|
+09|HAJDÚ     |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 24| 24|  0|   2889| 152240|     45|      0| 152285|     90|  80431|  80352|    -79|   8114|  72238|      0|
+09|HAJDÚ     |2|Megyei lista 10e feletti      |7|Választás eredményes          | 16| 16|  0|   1853| 114797|     21|      1| 114817|     71|  50177|  50102|    -75|   3777|  46325|      0|
+10|HEVES     |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 30| 30|  0|   3342| 160970|     44|      3| 161011|     29|  89894|  89819|    -75|   6246|  83573|      0|
+10|HEVES     |2|Megyei lista 10e feletti      |7|Választás eredményes          | 10| 10|  0|    908|  55505|     17|      1|  55521|      1|  23634|  23600|    -34|    880|  22720|      0|
+11|SZOLNOK   |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 22| 22|  0|   3137| 158171|     18|      1| 158188|     42|  84922|  84876|    -46|   6451|  78425|      0|
+11|SZOLNOK   |2|Megyei lista 10e feletti      |7|Választás eredményes          | 18| 18|  0|   1851| 112150|     17|      0| 112167|     32|  49175|  49066|   -109|   2785|  46281|      0|
+12|KOMÁROM   |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 22| 22|  0|   2112| 109329|     25|      2| 109352|     13|  55943|  55895|    -48|   3087|  52808|      0|
+12|KOMÁROM   |2|Megyei lista 10e feletti      |7|Választás eredményes          | 18| 18|  0|   1546|  85239|     51|      0|  85290|     31|  41181|  41114|    -67|   2445|  38669|      0|
+13|NÓGRÁD    |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 30| 30|  0|   2327| 104984|     28|      3| 105009|     80|  62672|  62636|    -36|   4448|  58188|      0|
+13|NÓGRÁD    |2|Megyei lista 10e feletti      |7|Választás eredményes          | 10| 10|  0|    640|  34062|      7|      1|  34068|     21|  16653|  16648|     -5|    627|  16021|      0|
+14|PEST      |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 38| 38|  0|   7619| 393055|    175|     10| 393220|    121| 201098| 200852|   -246|  10355| 190497|      0|
+14|PEST      |2|Megyei lista 10e feletti      |7|Választás eredményes          | 42| 42|  0|   8391| 469664|    375|     29| 470010|    162| 220382| 220148|   -234|  10354| 209794|      0|
+15|SOMOGY    |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 31| 31|  0|   3710| 164294|    247|      0| 164541|    165|  97199|  97166|    -33|   4409|  92757|      0|
+15|SOMOGY    |2|Megyei lista 10e feletti      |7|Választás eredményes          |  9|  9|  0|    943|  49440|     29|      2|  49467|      9|  24431|  24402|    -29|    825|  23577|      0|
+16|SZABOLCS  |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 39| 39|  0|   6442| 288413|     80|     10| 288483|     93| 176927| 176693|   -234|  15634| 161059|      0|
+16|SZABOLCS  |2|Megyei lista 10e feletti      |7|Választás eredményes          |  9|  9|  0|   1262|  67976|     13|      2|  67987|     23|  33221|  33162|    -59|   1591|  31571|      0|
+17|TOLNA     |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 26| 26|  0|   2367| 116030|     30|      0| 116060|      4|  64944|  64882|    -62|   5699|  59183|      0|
+17|TOLNA     |2|Megyei lista 10e feletti      |7|Választás eredményes          | 15| 15|  0|    977|  55017|     18|      0|  55035|      1|  26037|  26010|    -27|   1579|  24431|      0|
+18|VAS       |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 29| 29|  0|   2448| 107811|     23|      0| 107834|     14|  64550|  64515|    -35|   3291|  61224|      0|
+18|VAS       |2|Megyei lista 10e feletti      |7|Választás eredményes          | 11| 11|  0|    831|  41503|     14|      1|  41516|      1|  21429|  21413|    -16|    635|  20778|      0|
+19|VESZPRÉM  |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 24| 24|  0|   3372| 153374|     82|      4| 153452|    106|  88532|  88474|    -58|   4168|  84306|      0|
+19|VESZPRÉM  |2|Megyei lista 10e feletti      |7|Választás eredményes          | 16| 16|  0|   1791|  95777|     36|      4|  95809|     54|  46293|  46244|    -49|   1460|  44784|      0|
+20|ZALA      |1|Megyei lista 10e és alatti    |7|Választás eredményes          | 35| 35|  0|   2801| 130720|     32|      0| 130752|     15|  75859|  75792|    -67|   5758|  70034|      0|
+20|ZALA      |2|Megyei lista 10e feletti      |7|Választás eredményes          |  5|  5|  0|    295|  17450|      3|      0|  17453|      3|   7615|   7600|    -15|    206|   7394|      0|

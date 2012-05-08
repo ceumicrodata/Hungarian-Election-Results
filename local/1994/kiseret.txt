@@ -1,0 +1,658 @@
+01|BUDAPEST  |002|BUDAPEST          02|000004|HORVÁT                        |1|eredményes               |00004078|000005|00001738
+01|BUDAPEST  |002|BUDAPEST          02|000006|NÉMET                         |1|eredményes               |00022653|000005|00008124
+01|BUDAPEST  |002|BUDAPEST          02|000007|ÖRMÉNY                        |1|eredményes               |00006881|000005|00002375
+01|BUDAPEST  |003|BUDAPEST          03|000002|CIGÁNY                        |1|eredményes               |00005827|000005|00002760
+01|BUDAPEST  |003|BUDAPEST          03|000006|NÉMET                         |1|eredményes               |00034273|000005|00014734
+01|BUDAPEST  |004|BUDAPEST          04|000002|CIGÁNY                        |1|eredményes               |00004579|000005|00002102
+01|BUDAPEST  |004|BUDAPEST          04|000004|HORVÁT                        |1|eredményes               |00002818|000005|00001351
+01|BUDAPEST  |004|BUDAPEST          04|000006|NÉMET                         |1|eredményes               |00016130|000005|00006527
+01|BUDAPEST  |005|BUDAPEST          05|000002|CIGÁNY                        |1|eredményes               |00003283|000005|00001561
+01|BUDAPEST  |005|BUDAPEST          05|000007|ÖRMÉNY                        |1|eredményes               |00004819|000005|00002141
+01|BUDAPEST  |006|BUDAPEST          06|000002|CIGÁNY                        |1|eredményes               |00003349|000005|00001499
+01|BUDAPEST  |006|BUDAPEST          06|000006|NÉMET                         |1|eredményes               |00009054|000005|00003534
+01|BUDAPEST  |006|BUDAPEST          06|000007|ÖRMÉNY                        |1|eredményes               |00001454|000005|00000579
+01|BUDAPEST  |007|BUDAPEST          07|000002|CIGÁNY                        |1|eredményes               |00004226|000005|00002178
+01|BUDAPEST  |007|BUDAPEST          07|000004|HORVÁT                        |1|eredményes               |00007893|000005|00003511
+01|BUDAPEST  |008|BUDAPEST          08|000002|CIGÁNY                        |1|eredményes               |00024067|000005|00008432
+01|BUDAPEST  |009|BUDAPEST          09|000002|CIGÁNY                        |1|eredményes               |00018699|000005|00007057
+01|BUDAPEST  |010|BUDAPEST          10|000002|CIGÁNY                        |1|eredményes               |00004570|000005|00002612
+01|BUDAPEST  |010|BUDAPEST          10|000004|HORVÁT                        |1|eredményes               |00006018|000005|00002718
+01|BUDAPEST  |011|BUDAPEST          11|000006|NÉMET                         |1|eredményes               |00037516|000005|00016689
+01|BUDAPEST  |011|BUDAPEST          11|000007|ÖRMÉNY                        |1|eredményes               |00008572|000005|00003306
+01|BUDAPEST  |012|BUDAPEST          12|000004|HORVÁT                        |1|eredményes               |00002089|000005|00000756
+01|BUDAPEST  |012|BUDAPEST          12|000006|NÉMET                         |1|eredményes               |00019964|000005|00006608
+01|BUDAPEST  |012|BUDAPEST          12|000007|ÖRMÉNY                        |1|eredményes               |00004370|000005|00001458
+01|BUDAPEST  |012|BUDAPEST          12|000011|SZLOVÁK                       |1|eredményes               |00003442|000005|00001290
+01|BUDAPEST  |013|BUDAPEST          13|000002|CIGÁNY                        |1|eredményes               |00009353|000005|00004098
+01|BUDAPEST  |013|BUDAPEST          13|000006|NÉMET                         |1|eredményes               |00018535|000005|00006867
+01|BUDAPEST  |014|BUDAPEST          14|000002|CIGÁNY                        |1|eredményes               |00007197|000005|00002869
+01|BUDAPEST  |014|BUDAPEST          14|000004|HORVÁT                        |1|eredményes               |00011297|000005|00004795
+01|BUDAPEST  |014|BUDAPEST          14|000007|ÖRMÉNY                        |1|eredményes               |00003344|000005|00001234
+01|BUDAPEST  |015|BUDAPEST          15|000002|CIGÁNY                        |1|eredményes               |00003951|000005|00002103
+01|BUDAPEST  |015|BUDAPEST          15|000004|HORVÁT                        |1|eredményes               |00002769|000005|00001247
+01|BUDAPEST  |015|BUDAPEST          15|000006|NÉMET                         |1|eredményes               |00012888|000005|00005501
+01|BUDAPEST  |017|BUDAPEST          17|000002|CIGÁNY                        |1|eredményes               |00007581|000005|00005057
+01|BUDAPEST  |019|BUDAPEST          19|000002|CIGÁNY                        |1|eredményes               |00009383|000005|00005107
+01|BUDAPEST  |020|BUDAPEST          20|000002|CIGÁNY                        |1|eredményes               |00010701|000005|00003913
+01|BUDAPEST  |021|BUDAPEST          21|000002|CIGÁNY                        |1|eredményes               |00003559|000005|00001686
+01|BUDAPEST  |021|BUDAPEST          21|000006|NÉMET                         |1|eredményes               |00014120|000005|00006086
+01|BUDAPEST  |022|BUDAPEST          22|000002|CIGÁNY                        |1|eredményes               |00001462|000005|00000765
+01|BUDAPEST  |022|BUDAPEST          22|000004|HORVÁT                        |1|eredményes               |00001282|000005|00000506
+01|BUDAPEST  |022|BUDAPEST          22|000006|NÉMET                         |1|eredményes               |00011183|000005|00005098
+01|BUDAPEST  |023|BUDAPEST          23|000002|CIGÁNY                        |1|eredményes               |00000470|000005|00000194
+01|BUDAPEST  |023|BUDAPEST          23|000006|NÉMET                         |1|eredményes               |00008490|000005|00003762
+02|BARANYA   |011|BABARC              |000006|NÉMET                         |1|eredményes               |00001024|000003|00000410
+02|BARANYA   |034|BOGÁDMINDSZENT      |000002|CIGÁNY                        |1|eredményes               |00000384|000003|00000194
+02|BARANYA   |040|BÓLY                |000006|NÉMET                         |1|eredményes               |00003077|000005|00001099
+02|BARANYA   |058|DRÁVAKERESZTÚR      |000004|HORVÁT                        |1|eredményes               |00000188|000003|00000087
+02|BARANYA   |075|FEKED               |000006|NÉMET                         |1|eredményes               |00000328|000003|00000152
+02|BARANYA   |077|FELSÕSZENTMÁRTON    |000004|HORVÁT                        |1|eredményes               |00000721|000003|00000525
+02|BARANYA   |080|GERESDLAK           |000006|NÉMET                         |1|eredményes               |00000878|000003|00000448
+02|BARANYA   |091|HÁSSÁGY             |000006|NÉMET                         |1|eredményes               |00000381|000003|00000193
+02|BARANYA   |129|KISJAKABFALVA       |000006|NÉMET                         |1|eredményes               |00000245|000003|00000104
+02|BARANYA   |138|KOMLÓ               |000002|CIGÁNY                        |1|eredményes               |00001112|000005|00000553
+02|BARANYA   |138|KOMLÓ               |000006|NÉMET                         |1|eredményes               |00006461|000005|00003220
+02|BARANYA   |144|KÖKÉNY              |000004|HORVÁT                        |1|eredményes               |00000650|000003|00000242
+02|BARANYA   |145|KÖLKED              |000002|CIGÁNY                        |1|eredményes               |00000402|000003|00000198
+02|BARANYA   |146|KÕVÁGÓSZÕLÕS        |000002|CIGÁNY                        |1|eredményes               |00000447|000003|00000287
+02|BARANYA   |149|LÁNYCSÓK            |000006|NÉMET                         |1|eredményes               |00000000|000005|00000000
+02|BARANYA   |151|LIPPÓ               |000006|NÉMET                         |1|eredményes               |00000617|000003|00000245
+02|BARANYA   |152|LIPTÓD              |000006|NÉMET                         |1|eredményes               |00000574|000003|00000206
+02|BARANYA   |155|LÚZSOK              |000002|CIGÁNY                        |1|eredményes               |00000150|000003|00000072
+02|BARANYA   |160|MAGYARMECSKE        |000002|CIGÁNY                        |1|eredményes               |00000128|000003|00000069
+02|BARANYA   |182|MOHÁCS              |000002|CIGÁNY                        |1|eredményes               |00001115|000005|00000441
+02|BARANYA   |182|MOHÁCS              |000004|HORVÁT                        |1|eredményes               |00002173|000005|00000976
+02|BARANYA   |182|MOHÁCS              |000006|NÉMET                         |1|eredményes               |00006303|000005|00002807
+02|BARANYA   |188|NAGYDOBSZA          |000002|CIGÁNY                        |1|eredményes               |00000420|000003|00000201
+02|BARANYA   |193|NAGYPALL            |000006|NÉMET                         |1|eredményes               |00000483|000003|00000183
+02|BARANYA   |201|OLASZ               |000004|HORVÁT                        |1|eredményes               |00000463|000003|00000228
+02|BARANYA   |212|PATAPOKLOSI         |000002|CIGÁNY                        |1|eredményes               |00000297|000003|00000126
+02|BARANYA   |218|PÉCS                |000002|CIGÁNY                        |1|eredményes               |00003433|000005|00001402
+02|BARANYA   |218|PÉCS                |000004|HORVÁT                        |1|eredményes               |00006544|000005|00002882
+02|BARANYA   |218|PÉCS                |000006|NÉMET                         |1|eredményes               |00026565|000005|00010686
+02|BARANYA   |218|PÉCS                |000010|SZERB                         |1|eredményes               |00001079|000005|00000482
+02|BARANYA   |223|PISKÓ               |000002|CIGÁNY                        |1|eredményes               |00000252|000003|00000117
+02|BARANYA   |232|SÁSD                |000002|CIGÁNY                        |1|eredményes               |00000250|000005|00000134
+02|BARANYA   |232|SÁSD                |000006|NÉMET                         |1|eredményes               |00001179|000005|00000589
+02|BARANYA   |234|SELLYE              |000004|HORVÁT                        |1|eredményes               |00001880|000005|00000818
+02|BARANYA   |235|SIKLÓS              |000004|HORVÁT                        |1|eredményes               |00003321|000005|00002318
+02|BARANYA   |237|SIKLÓSNAGYFALU      |000002|CIGÁNY                        |1|eredményes               |00000313|000003|00000125
+02|BARANYA   |246|SZAJK               |000006|NÉMET                         |1|eredményes               |00000480|000003|00000239
+02|BARANYA   |248|SZALÁNTA            |000004|HORVÁT                        |1|eredményes               |00000807|000003|00000387
+02|BARANYA   |253|SZÁSZVÁR            |000006|NÉMET                         |1|eredményes               |00001843|000005|00000762
+02|BARANYA   |269|SZÕKÉD              |000002|CIGÁNY                        |1|eredményes               |00000096|000003|00000067
+02|BARANYA   |271|SZÛR                |000006|NÉMET                         |1|eredményes               |00000326|000003|00000134
+02|BARANYA   |284|ÚJPETRE             |000006|NÉMET                         |1|eredményes               |00000879|000003|00000365
+02|BARANYA   |292|VELÉNY              |000002|CIGÁNY                        |1|eredményes               |00000152|000003|00000065
+02|BARANYA   |293|VERSEND             |000002|CIGÁNY                        |1|eredményes               |00000264|000003|00000129
+02|BARANYA   |293|VERSEND             |000004|HORVÁT                        |1|eredményes               |00000194|000003|00000094
+02|BARANYA   |293|VERSEND             |000006|NÉMET                         |1|eredményes               |00000158|000003|00000065
+02|BARANYA   |296|VILLÁNY             |000006|NÉMET                         |1|eredményes               |00004034|000005|00001101
+03|BÁCS-KISK.|004|BAJA                |000002|CIGÁNY                        |1|eredményes               |00000835|000005|00000426
+03|BÁCS-KISK.|004|BAJA                |000004|HORVÁT                        |1|eredményes               |00003957|000005|00001905
+03|BÁCS-KISK.|004|BAJA                |000006|NÉMET                         |1|eredményes               |00007152|000005|00002569
+03|BÁCS-KISK.|004|BAJA                |000010|SZERB                         |1|eredményes               |00000679|000005|00000323
+03|BÁCS-KISK.|007|BÁCSALMÁS           |000004|HORVÁT                        |1|eredményes               |00001153|000005|00000452
+03|BÁCS-KISK.|007|BÁCSALMÁS           |000006|NÉMET                         |1|eredményes               |00003390|000005|00001361
+03|BÁCS-KISK.|008|BÁCSBOKOD           |000004|HORVÁT                        |1|eredményes               |00000709|000005|00000260
+03|BÁCS-KISK.|008|BÁCSBOKOD           |000006|NÉMET                         |1|eredményes               |00001895|000005|00000626
+03|BÁCS-KISK.|010|BÁCSSZENTGYÖRGY     |000004|HORVÁT                        |0|eredménytelen            |00000049|000000|00000031
+03|BÁCS-KISK.|010|BÁCSSZENTGYÖRGY     |000006|NÉMET                         |1|eredményes               |00000110|000003|00000050
+03|BÁCS-KISK.|022|CSIKÉRIA            |000004|HORVÁT                        |1|eredményes               |00000947|000003|00000420
+03|BÁCS-KISK.|031|DUSNOK              |000002|CIGÁNY                        |1|eredményes               |00000212|000005|00000073
+03|BÁCS-KISK.|031|DUSNOK              |000004|HORVÁT                        |1|eredményes               |00002542|000005|00000947
+03|BÁCS-KISK.|041|GARA                |000004|HORVÁT                        |1|eredményes               |00001301|000005|00000342
+03|BÁCS-KISK.|041|GARA                |000006|NÉMET                         |1|eredményes               |00001446|000005|00000363
+03|BÁCS-KISK.|048|HERCEGSZÁNTÓ        |000004|HORVÁT                        |1|eredményes               |00001289|000005|00000504
+03|BÁCS-KISK.|048|HERCEGSZÁNTÓ        |000010|SZERB                         |1|eredményes               |00000649|000005|00000190
+03|BÁCS-KISK.|055|KALOCSA             |000002|CIGÁNY                        |1|eredményes               |00001566|000005|00000650
+03|BÁCS-KISK.|057|KATYMÁR             |000006|NÉMET                         |1|eredményes               |00001898|000005|00000784
+03|BÁCS-KISK.|058|KECEL               |000002|CIGÁNY                        |1|eredményes               |00002065|000005|00000836
+03|BÁCS-KISK.|059|KECSKEMÉT           |000002|CIGÁNY                        |1|eredményes               |00018788|000005|00010126
+03|BÁCS-KISK.|063|KISKÕRÖS            |000002|CIGÁNY                        |1|eredményes               |00002195|000005|00001462
+03|BÁCS-KISK.|064|KISKUNFÉLEGYHÁZA    |000002|CIGÁNY                        |1|eredményes               |00003737|000005|00002665
+03|BÁCS-KISK.|065|KISKUNHALAS         |000002|CIGÁNY                        |1|eredményes               |00005416|000005|00003796
+03|BÁCS-KISK.|066|KISKUNMAJSA         |000002|CIGÁNY                        |1|eredményes               |00003232|000005|00001671
+03|BÁCS-KISK.|070|KUNBAJA             |000006|NÉMET                         |1|eredményes               |00003401|000005|00000906
+03|BÁCS-KISK.|077|LAJOSMIZSE          |000002|CIGÁNY                        |1|eredményes               |00002776|000005|00001708
+03|BÁCS-KISK.|081|MÉLYKÚT             |000002|CIGÁNY                        |1|eredményes               |00001627|000005|00000713
+03|BÁCS-KISK.|097|SOLTVADKERT         |000002|CIGÁNY                        |1|eredményes               |00000870|000005|00000593
+03|BÁCS-KISK.|098|SÜKÖSD              |000002|CIGÁNY                        |1|eredményes               |00001477|000005|00000608
+03|BÁCS-KISK.|099|SZABADSZÁLLÁS       |000002|CIGÁNY                        |1|eredményes               |00000939|000005|00000513
+03|BÁCS-KISK.|115|VASKÚT              |000006|NÉMET                         |1|eredményes               |00002861|000005|00000986
+04|BÉKÉS     |001|ALMÁSKAMARÁS        |000006|NÉMET                         |1|eredményes               |00000851|000003|00000370
+04|BÉKÉS     |002|BATTONYA            |000002|CIGÁNY                        |1|eredményes               |00000640|000005|00000232
+04|BÉKÉS     |002|BATTONYA            |000008|ROMÁN                         |1|eredményes               |00000737|000005|00000243
+04|BÉKÉS     |002|BATTONYA            |000010|SZERB                         |1|eredményes               |00001821|000005|00000580
+04|BÉKÉS     |003|BÉKÉS               |000002|CIGÁNY                        |1|eredményes               |00003957|000005|00002343
+04|BÉKÉS     |004|BÉKÉSCSABA          |000002|CIGÁNY                        |1|eredményes               |00000772|000005|00000348
+04|BÉKÉS     |004|BÉKÉSCSABA          |000008|ROMÁN                         |1|eredményes               |00001769|000005|00000726
+04|BÉKÉS     |004|BÉKÉSCSABA          |000011|SZLOVÁK                       |1|eredményes               |00018177|000005|00007265
+04|BÉKÉS     |011|CSABASZABADI        |000011|SZLOVÁK                       |1|eredményes               |00000484|000003|00000204
+04|BÉKÉS     |016|DOBOZ               |000002|CIGÁNY                        |1|eredményes               |00001672|000005|00000786
+04|BÉKÉS     |020|ELEK                |000002|CIGÁNY                        |1|eredményes               |00000510|000005|00000213
+04|BÉKÉS     |020|ELEK                |000006|NÉMET                         |1|eredményes               |00001505|000005|00000450
+04|BÉKÉS     |020|ELEK                |000008|ROMÁN                         |1|eredményes               |00001234|000005|00000404
+04|BÉKÉS     |021|FÜZESGYARMAT        |000002|CIGÁNY                        |1|eredményes               |00003643|000005|00001139
+04|BÉKÉS     |022|GÁDOROS             |000002|CIGÁNY                        |1|eredményes               |00001038|000005|00000723
+04|BÉKÉS     |025|GYOMAENDRÕD         |000002|CIGÁNY                        |1|eredményes               |00003500|000005|00002477
+04|BÉKÉS     |026|GYULA               |000006|NÉMET                         |1|eredményes               |00008213|000005|00003511
+04|BÉKÉS     |026|GYULA               |000008|ROMÁN                         |1|eredményes               |00003984|000005|00001593
+04|BÉKÉS     |034|KÉTEGYHÁZA          |000002|CIGÁNY                        |0|eredménytelen            |00000097|000000|00000046
+04|BÉKÉS     |034|KÉTEGYHÁZA          |000008|ROMÁN                         |1|eredményes               |00004466|000005|00001249
+04|BÉKÉS     |041|KÖRÖSÚJFALU         |000002|CIGÁNY                        |1|eredményes               |00000138|000003|00000129
+04|BÉKÉS     |044|LÖKÖSHÁZA           |000002|CIGÁNY                        |1|eredményes               |00000612|000005|00000407
+04|BÉKÉS     |049|MEZÕBERÉNY          |000002|CIGÁNY                        |1|eredményes               |00000714|000005|00000290
+04|BÉKÉS     |049|MEZÕBERÉNY          |000006|NÉMET                         |1|eredményes               |00002497|000005|00001000
+04|BÉKÉS     |049|MEZÕBERÉNY          |000011|SZLOVÁK                       |1|eredményes               |00002657|000005|00001117
+04|BÉKÉS     |050|MEZÕGYÁN            |000002|CIGÁNY                        |1|eredményes               |00001233|000005|00000434
+04|BÉKÉS     |053|MÉHKERÉK            |000008|ROMÁN                         |1|eredményes               |00005053|000005|00001159
+04|BÉKÉS     |059|OROSHÁZA            |000002|CIGÁNY                        |1|eredményes               |00005395|000005|00003009
+04|BÉKÉS     |061|PUSZTAFÖLDVÁR       |000002|CIGÁNY                        |1|eredményes               |00000500|000005|00000283
+04|BÉKÉS     |062|PUSZTAOTTLAKA       |000008|ROMÁN                         |1|eredményes               |00000392|000003|00000175
+04|BÉKÉS     |062|PUSZTAOTTLAKA       |000011|SZLOVÁK                       |0|eredménytelen            |00000095|000000|00000046
+04|BÉKÉS     |063|SARKAD              |000002|CIGÁNY                        |1|eredményes               |00002630|000005|00001754
+04|BÉKÉS     |066|SZARVAS             |000002|CIGÁNY                        |1|eredményes               |00000319|000005|00000227
+04|BÉKÉS     |066|SZARVAS             |000011|SZLOVÁK                       |1|eredményes               |00009792|000005|00004292
+04|BÉKÉS     |067|SZEGHALOM           |000002|CIGÁNY                        |1|eredményes               |00002908|000005|00001522
+04|BÉKÉS     |069|TELEKGERENDÁS       |000011|SZLOVÁK                       |1|eredményes               |00001652|000005|00000489
+04|BÉKÉS     |070|TÓTKOMLÓS           |000011|SZLOVÁK                       |1|eredményes               |00008774|000005|00002352
+04|BÉKÉS     |073|VÉGEGYHÁZA          |000002|CIGÁNY                        |1|eredményes               |00001281|000005|00000426
+04|BÉKÉS     |074|VÉSZTÕ              |000002|CIGÁNY                        |1|eredményes               |00003196|000005|00001073
+05|BORSOD-A-Z|004|ABAÚJSZÁNTÓ         |000002|CIGÁNY                        |1|eredményes               |00001762|000005|00000684
+05|BORSOD-A-Z|017|ALSÓZSOLCA          |000002|CIGÁNY                        |1|eredményes               |00004932|000005|00001469
+05|BORSOD-A-Z|019|ARLÓ                |000002|CIGÁNY                        |1|eredményes               |00002479|000005|00000918
+05|BORSOD-A-Z|020|ARNÓT               |000002|CIGÁNY                        |1|eredményes               |00001623|000005|00000555
+05|BORSOD-A-Z|021|ASZALÓ              |000002|CIGÁNY                        |1|eredményes               |00000687|000005|00000310
+05|BORSOD-A-Z|023|BAKTAKÉK            |000002|CIGÁNY                        |1|eredményes               |00000343|000003|00000205
+05|BORSOD-A-Z|026|BÁNRÉVE             |000002|CIGÁNY                        |1|eredményes               |00000484|000005|00000273
+05|BORSOD-A-Z|030|BERZÉK              |000002|CIGÁNY                        |1|eredményes               |00000562|000003|00000259
+05|BORSOD-A-Z|037|BOLDOGKÕVÁRALJA     |000002|CIGÁNY                        |1|eredményes               |00001228|000003|00000469
+05|BORSOD-A-Z|038|BOLDVA              |000002|CIGÁNY                        |1|eredményes               |00001191|000005|00000454
+05|BORSOD-A-Z|039|BORSODBÓTA          |000002|CIGÁNY                        |1|eredményes               |00000372|000003|00000219
+05|BORSOD-A-Z|049|BÕCS                |000002|CIGÁNY                        |1|eredményes               |00001808|000005|00000605
+05|BORSOD-A-Z|050|BÜKKARANYOS         |000002|CIGÁNY                        |1|eredményes               |00000398|000003|00000214
+05|BORSOD-A-Z|053|BÜKKSZENTKERESZT    |000011|SZLOVÁK                       |1|eredményes               |00001624|000005|00000494
+05|BORSOD-A-Z|062|CSOBÁD              |000002|CIGÁNY                        |1|eredményes               |00000457|000003|00000285
+05|BORSOD-A-Z|069|DOMAHÁZA            |000002|CIGÁNY                        |1|eredményes               |00000638|000003|00000322
+05|BORSOD-A-Z|072|EDELÉNY             |000002|CIGÁNY                        |1|eredményes               |00003941|000005|00001969
+05|BORSOD-A-Z|075|EMÕD                |000002|CIGÁNY                        |1|eredményes               |00000429|000005|00000150
+05|BORSOD-A-Z|075|EMÕD                |000005|LENGYEL                       |1|eredményes               |00003220|000005|00001012
+05|BORSOD-A-Z|076|ENCS                |000002|CIGÁNY                        |1|eredményes               |00002951|000005|00001215
+05|BORSOD-A-Z|087|FELSÕREGMEC         |000002|CIGÁNY                        |1|eredményes               |00000185|000003|00000083
+05|BORSOD-A-Z|090|FELSÕZSOLCA         |000002|CIGÁNY                        |1|eredményes               |00003689|000005|00001308
+05|BORSOD-A-Z|093|FORRÓ               |000002|CIGÁNY                        |1|eredményes               |00002591|000005|00000664
+05|BORSOD-A-Z|094|FULÓKÉRCS           |000002|CIGÁNY                        |1|eredményes               |00000263|000003|00000116
+05|BORSOD-A-Z|095|FÜZÉR               |000011|SZLOVÁK                       |1|eredményes               |00000535|000003|00000249
+05|BORSOD-A-Z|107|GIRINCS             |000002|CIGÁNY                        |1|eredményes               |00000609|000003|00000293
+05|BORSOD-A-Z|110|GÖNC                |000002|CIGÁNY                        |1|eredményes               |00001179|000005|00000651
+05|BORSOD-A-Z|113|HALMAJ              |000002|CIGÁNY                        |1|eredményes               |00001181|000005|00000460
+05|BORSOD-A-Z|115|HANGONY             |000002|CIGÁNY                        |1|eredményes               |00001336|000005|00000495
+05|BORSOD-A-Z|121|HEJÕKERESZTÚR       |000002|CIGÁNY                        |1|eredményes               |00000445|000003|00000242
+05|BORSOD-A-Z|123|HEJÕPAPI            |000002|CIGÁNY                        |1|eredményes               |00000613|000003|00000292
+05|BORSOD-A-Z|129|HERNÁDKÉRCS         |000002|CIGÁNY                        |1|eredményes               |00000112|000003|00000088
+05|BORSOD-A-Z|130|HERNÁDNÉMETI        |000002|CIGÁNY                        |1|eredményes               |00002635|000005|00000950
+05|BORSOD-A-Z|131|HERNÁDPETRI         |000002|CIGÁNY                        |1|eredményes               |00000175|000003|00000098
+05|BORSOD-A-Z|132|HERNÁDSZENTANDRÁS   |000002|CIGÁNY                        |1|eredményes               |00000167|000003|00000098
+05|BORSOD-A-Z|133|HERNÁDSZURDOK       |000002|CIGÁNY                        |1|eredményes               |00000115|000003|00000057
+05|BORSOD-A-Z|134|HERNÁDVÉCSE         |000002|CIGÁNY                        |1|eredményes               |00000734|000003|00000357
+05|BORSOD-A-Z|136|HIDASNÉMETI         |000002|CIGÁNY                        |1|eredményes               |00000557|000003|00000390
+05|BORSOD-A-Z|139|HOMROGD             |000002|CIGÁNY                        |1|eredményes               |00000737|000003|00000452
+05|BORSOD-A-Z|149|KARCSA              |000002|CIGÁNY                        |1|eredményes               |00001457|000005|00000589
+05|BORSOD-A-Z|151|KAZINCBARCIKA       |000002|CIGÁNY                        |1|eredményes               |00006789|000005|00004114
+05|BORSOD-A-Z|155|KÁZSMÁRK            |000002|CIGÁNY                        |1|eredményes               |00000473|000003|00000287
+05|BORSOD-A-Z|156|KELEMÉR             |000002|CIGÁNY                        |1|eredményes               |00000331|000003|00000144
+05|BORSOD-A-Z|157|KENÉZLÕ             |000002|CIGÁNY                        |1|eredményes               |00001032|000005|00000427
+05|BORSOD-A-Z|159|KESZNYÉTEN          |000002|CIGÁNY                        |1|eredményes               |00001317|000005|00000480
+05|BORSOD-A-Z|162|KISCSÉCS            |000002|CIGÁNY                        |1|eredményes               |00000152|000003|00000060
+05|BORSOD-A-Z|173|KOVÁCSVÁGÁS         |000002|CIGÁNY                        |1|eredményes               |00000286|000003|00000158
+05|BORSOD-A-Z|174|KÖRÖM               |000002|CIGÁNY                        |1|eredményes               |00000398|000003|00000243
+05|BORSOD-A-Z|177|KURITYÁN            |000002|CIGÁNY                        |1|eredményes               |00000739|000005|00000387
+05|BORSOD-A-Z|178|LAK                 |000002|CIGÁNY                        |1|eredményes               |00000727|000003|00000309
+05|BORSOD-A-Z|185|MAKKOSHOTYKA        |000002|CIGÁNY                        |1|eredményes               |00000670|000003|00000352
+05|BORSOD-A-Z|186|MARTONYI            |000002|CIGÁNY                        |1|eredményes               |00000116|000003|00000077
+05|BORSOD-A-Z|190|MEGYASZÓ            |000002|CIGÁNY                        |1|eredményes               |00002951|000005|00000840
+05|BORSOD-A-Z|192|MEZÕCSÁT            |000002|CIGÁNY                        |1|eredményes               |00002081|000005|00000811
+05|BORSOD-A-Z|195|MEZÕKÖVESD          |000002|CIGÁNY                        |1|eredményes               |00004192|000005|00002204
+05|BORSOD-A-Z|201|MISKOLC             |000002|CIGÁNY                        |1|eredményes               |00005520|000005|00002376
+05|BORSOD-A-Z|201|MISKOLC             |000003|GÖRÖG                         |1|eredményes               |00010635|000005|00004871
+05|BORSOD-A-Z|201|MISKOLC             |000011|SZLOVÁK                       |1|eredményes               |00011774|000005|00004747
+05|BORSOD-A-Z|206|MÚCSONY             |000002|CIGÁNY                        |1|eredményes               |00000487|000005|00000259
+05|BORSOD-A-Z|206|MÚCSONY             |000009|RUSZIN                        |1|eredményes               |00001323|000005|00000519
+05|BORSOD-A-Z|220|OLASZLISZKA         |000002|CIGÁNY                        |1|eredményes               |00000809|000005|00000357
+05|BORSOD-A-Z|221|ONGA                |000002|CIGÁNY                        |1|eredményes               |00003250|000005|00001063
+05|BORSOD-A-Z|224|ÓNOD                |000002|CIGÁNY                        |1|eredményes               |00001002|000005|00000387
+05|BORSOD-A-Z|225|ÓZD                 |000002|CIGÁNY                        |1|eredményes               |00012399|000005|00004985
+05|BORSOD-A-Z|227|PARASZNYA           |000002|CIGÁNY                        |1|eredményes               |00000556|000003|00000413
+05|BORSOD-A-Z|228|PÁCIN               |000002|CIGÁNY                        |1|eredményes               |00000742|000005|00000260
+05|BORSOD-A-Z|234|PRÜGY               |000002|CIGÁNY                        |1|eredményes               |00001314|000005|00000488
+05|BORSOD-A-Z|236|PUSZTARADVÁNY       |000002|CIGÁNY                        |1|eredményes               |00000302|000003|00000118
+05|BORSOD-A-Z|237|PUTNOK              |000002|CIGÁNY                        |1|eredményes               |00003230|000005|00001134
+05|BORSOD-A-Z|239|RAGÁLY              |000002|CIGÁNY                        |1|eredményes               |00000642|000003|00000295
+05|BORSOD-A-Z|240|RAKACA              |000002|CIGÁNY                        |1|eredményes               |00000488|000003|00000285
+05|BORSOD-A-Z|242|RÁSONYSÁPBERENCS    |000002|CIGÁNY                        |1|eredményes               |00000156|000003|00000113
+05|BORSOD-A-Z|252|SAJÓHIDVÉG          |000002|CIGÁNY                        |1|eredményes               |00000677|000003|00000301
+05|BORSOD-A-Z|257|SAJÓLÁD             |000002|CIGÁNY                        |1|eredményes               |00001340|000005|00000413
+05|BORSOD-A-Z|263|SAJÓPETRI           |000002|CIGÁNY                        |1|eredményes               |00000832|000005|00000346
+05|BORSOD-A-Z|266|SAJÓSZENTPÉTER      |000002|CIGÁNY                        |1|eredményes               |00003475|000005|00002154
+05|BORSOD-A-Z|270|SÁLY                |000002|CIGÁNY                        |1|eredményes               |00001267|000005|00000432
+05|BORSOD-A-Z|272|SÁROSPATAK          |000002|CIGÁNY                        |1|eredményes               |00004088|000005|00002087
+05|BORSOD-A-Z|273|SÁTA                |000002|CIGÁNY                        |1|eredményes               |00000928|000005|00000410
+05|BORSOD-A-Z|274|SÁTORALJAÚJHELY     |000002|CIGÁNY                        |1|eredményes               |00001645|000005|00000765
+05|BORSOD-A-Z|274|SÁTORALJAÚJHELY     |000006|NÉMET                         |1|eredményes               |00002782|000005|00001300
+05|BORSOD-A-Z|274|SÁTORALJAÚJHELY     |000011|SZLOVÁK                       |1|eredményes               |00002181|000005|00001009
+05|BORSOD-A-Z|277|SERÉNYFALVA         |000002|CIGÁNY                        |1|eredményes               |00000287|000003|00000199
+05|BORSOD-A-Z|282|SZALASZEND          |000002|CIGÁNY                        |1|eredményes               |00000276|000003|00000171
+05|BORSOD-A-Z|287|SZEMERE             |000002|CIGÁNY                        |1|eredményes               |00000334|000003|00000135
+05|BORSOD-A-Z|289|SZENDRÕLÁD          |000002|CIGÁNY                        |1|eredményes               |00001370|000005|00000531
+05|BORSOD-A-Z|290|SZENTISTVÁN         |000002|CIGÁNY                        |1|eredményes               |00001379|000005|00000649
+05|BORSOD-A-Z|292|SZERENCS            |000002|CIGÁNY                        |1|eredményes               |00001917|000005|00001430
+05|BORSOD-A-Z|297|SZOMOLYA            |000002|CIGÁNY                        |1|eredményes               |00001188|000005|00000445
+05|BORSOD-A-Z|304|TAKTAHARKÁNY        |000002|CIGÁNY                        |1|eredményes               |00002771|000005|00000987
+05|BORSOD-A-Z|305|TAKTAKENÉZ          |000002|CIGÁNY                        |1|eredményes               |00000487|000003|00000295
+05|BORSOD-A-Z|306|TAKTASZADA          |000002|CIGÁNY                        |1|eredményes               |00001280|000005|00000462
+05|BORSOD-A-Z|310|TÁLLYA              |000002|CIGÁNY                        |1|eredményes               |00001609|000005|00000673
+05|BORSOD-A-Z|315|TISZACSERMELY       |000002|CIGÁNY                        |1|eredményes               |00000280|000003|00000125
+05|BORSOD-A-Z|320|TISZALÚC            |000002|CIGÁNY                        |1|eredményes               |00002673|000005|00000936
+05|BORSOD-A-Z|345|VILMÁNY             |000002|CIGÁNY                        |1|eredményes               |00000803|000003|00000347
+05|BORSOD-A-Z|351|ZÁDORFALVA          |000002|CIGÁNY                        |1|eredményes               |00000270|000003|00000140
+06|CSONGRÁD  |002|APÁTFALVA           |000002|CIGÁNY                        |1|eredményes               |00002101|000005|00000787
+06|CSONGRÁD  |012|CSONGRÁD            |000002|CIGÁNY                        |1|eredményes               |00005315|000005|00002475
+06|CSONGRÁD  |014|DESZK               |000010|SZERB                         |1|eredményes               |00002856|000005|00000933
+06|CSONGRÁD  |023|HÓDMEZÕVÁSÁRHELY    |000002|CIGÁNY                        |1|eredményes               |00013972|000005|00007725
+06|CSONGRÁD  |030|MAGYARCSANÁD        |000002|CIGÁNY                        |1|eredményes               |00000279|000005|00000090
+06|CSONGRÁD  |030|MAGYARCSANÁD        |000008|ROMÁN                         |1|eredményes               |00000378|000005|00000102
+06|CSONGRÁD  |030|MAGYARCSANÁD        |000010|SZERB                         |1|eredményes               |00000294|000005|00000081
+06|CSONGRÁD  |031|MAKÓ                |000002|CIGÁNY                        |1|eredményes               |00006590|000005|00003620
+06|CSONGRÁD  |050|SZEGED              |000002|CIGÁNY                        |0|eredménytelen            |00000000|000000|00000000
+06|CSONGRÁD  |050|SZEGED              |000010|SZERB                         |1|eredményes               |00005970|000005|00003329
+06|CSONGRÁD  |050|SZEGED              |000011|SZLOVÁK                       |1|eredményes               |00006460|000005|00003418
+06|CSONGRÁD  |052|SZENTES             |000002|CIGÁNY                        |1|eredményes               |00005753|000005|00003165
+06|CSONGRÁD  |056|ÚJSZENTIVÁN         |000010|SZERB                         |1|eredményes               |00000930|000005|00000341
+07|FEJÉR     |006|BAKONYCSERNYE       |000011|SZLOVÁK                       |1|eredményes               |00001850|000005|00000871
+07|FEJÉR     |013|BICSKE              |000002|CIGÁNY                        |1|eredményes               |00002724|000005|00001737
+07|FEJÉR     |027|ERCSI               |000002|CIGÁNY                        |1|eredményes               |00001481|000005|00000689
+07|FEJÉR     |028|ETYEK               |000006|NÉMET                         |1|eredményes               |00003928|000005|00001122
+07|FEJÉR     |042|KÁLOZ               |000002|CIGÁNY                        |1|eredményes               |00000191|000005|00000082
+07|FEJÉR     |053|MÁNY                |000006|NÉMET                         |1|eredményes               |00002355|000005|00000691
+07|FEJÉR     |060|MÓR                 |000006|NÉMET                         |1|eredményes               |00009776|000005|00004484
+07|FEJÉR     |082|SÁROSD              |000002|CIGÁNY                        |1|eredményes               |00001158|000005|00000571
+07|FEJÉR     |104|VÉRTESACSA          |000006|NÉMET                         |1|eredményes               |00002483|000005|00000655
+07|FEJÉR     |105|VÉRTESBOGLÁR        |000006|NÉMET                         |1|eredményes               |00001019|000003|00000441
+08|GYÕR-M-S  |004|ÁGFALVA             |000006|NÉMET                         |1|eredményes               |00002190|000005|00000575
+08|GYÕR-M-S  |011|BEZENYE             |000004|HORVÁT                        |1|eredményes               |00000555|000005|00000229
+08|GYÕR-M-S  |047|FERTÕRÁKOS          |000006|NÉMET                         |1|eredményes               |00002783|000005|00000967
+08|GYÕR-M-S  |055|GYÕR                |000002|CIGÁNY                        |1|eredményes               |00022677|000005|00014040
+08|GYÕR-M-S  |072|IKRÉNY              |000002|CIGÁNY                        |1|eredményes               |00000182|000005|00000108
+08|GYÕR-M-S  |077|KAPUVÁR             |000002|CIGÁNY                        |1|eredményes               |00003565|000005|00001604
+08|GYÕR-M-S  |078|KIMLE               |000004|HORVÁT                        |1|eredményes               |00004412|000005|00001240
+08|GYÕR-M-S  |085|KÓPHÁZA             |000004|HORVÁT                        |1|eredményes               |00003404|000005|00000802
+08|GYÕR-M-S  |115|PÁZMÁNDFALU         |000002|CIGÁNY                        |1|eredményes               |00000460|000003|00000215
+08|GYÕR-M-S  |123|RAJKA               |000006|NÉMET                         |1|eredményes               |00002348|000005|00000726
+08|GYÕR-M-S  |143|SOPRON              |000006|NÉMET                         |1|eredményes               |00023124|000005|00011662
+08|GYÕR-M-S  |151|SZIL                |000002|CIGÁNY                        |1|eredményes               |00000485|000005|00000207
+09|HAJDÚ-B   |003|BAGAMÉR             |000002|CIGÁNY                        |1|eredményes               |00000767|000005|00000386
+09|HAJDÚ-B   |005|BALMAZÚJVÁROS       |000002|CIGÁNY                        |1|eredményes               |00003647|000005|00001964
+09|HAJDÚ-B   |007|BEDÕ                |000008|ROMÁN                         |1|eredményes               |00000516|000003|00000201
+09|HAJDÚ-B   |012|BIHARNAGYBAJOM      |000002|CIGÁNY                        |1|eredményes               |00001092|000005|00000470
+09|HAJDÚ-B   |015|BOJT                |000002|CIGÁNY                        |1|eredményes               |00000374|000003|00000183
+09|HAJDÚ-B   |018|DEBRECEN            |000002|CIGÁNY                        |1|eredményes               |00032256|000005|00014118
+09|HAJDÚ-B   |021|EGYEK               |000002|CIGÁNY                        |1|eredményes               |00001745|000005|00001043
+09|HAJDÚ-B   |030|HAJDÚBÖSZÖRMÉNY     |000002|CIGÁNY                        |1|eredményes               |00004930|000005|00003167
+09|HAJDÚ-B   |032|HAJDÚHADHÁZ         |000002|CIGÁNY                        |1|eredményes               |00002549|000005|00001403
+09|HAJDÚ-B   |034|HAJDÚSÁMSON         |000002|CIGÁNY                        |1|eredményes               |00002898|000005|00001208
+09|HAJDÚ-B   |035|HAJDÚSZOBOSZLÓ      |000002|CIGÁNY                        |1|eredményes               |00005286|000005|00001801
+09|HAJDÚ-B   |036|HAJDÚSZOVÁT         |000002|CIGÁNY                        |1|eredményes               |00001314|000005|00000474
+09|HAJDÚ-B   |039|HOSSZÚPÁLYI         |000002|CIGÁNY                        |1|eredményes               |00002357|000005|00000843
+09|HAJDÚ-B   |043|KOMÁDI              |000002|CIGÁNY                        |1|eredményes               |00001551|000005|00000653
+09|HAJDÚ-B   |044|KONYÁR              |000002|CIGÁNY                        |1|eredményes               |00000399|000005|00000262
+09|HAJDÚ-B   |045|KÖRÖSSZAKÁL         |000002|CIGÁNY                        |1|eredményes               |00000200|000003|00000100
+09|HAJDÚ-B   |045|KÖRÖSSZAKÁL         |000008|ROMÁN                         |1|eredményes               |00000409|000003|00000218
+09|HAJDÚ-B   |046|KÖRÖSSZEGAPÁTI      |000008|ROMÁN                         |1|eredményes               |00000906|000003|00000395
+09|HAJDÚ-B   |047|LÉTAVÉRTES          |000002|CIGÁNY                        |1|eredményes               |00001285|000005|00000554
+09|HAJDÚ-B   |056|NÁDUDVAR            |000002|CIGÁNY                        |1|eredményes               |00001137|000005|00000688
+09|HAJDÚ-B   |057|NYÍRACSÁD           |000002|CIGÁNY                        |1|eredményes               |00001890|000005|00000757
+09|HAJDÚ-B   |058|NYÍRADONY           |000002|CIGÁNY                        |1|eredményes               |00004374|000005|00001598
+09|HAJDÚ-B   |061|POCSAJ              |000002|CIGÁNY                        |1|eredményes               |00001163|000005|00000540
+09|HAJDÚ-B   |063|PÜSPÖKLADÁNY        |000002|CIGÁNY                        |1|eredményes               |00003555|000005|00001598
+09|HAJDÚ-B   |064|SÁP                 |000002|CIGÁNY                        |1|eredményes               |00000547|000003|00000318
+09|HAJDÚ-B   |065|SÁRÁND              |000002|CIGÁNY                        |1|eredményes               |00000414|000005|00000261
+09|HAJDÚ-B   |066|SÁRRÉTUDVARI        |000002|CIGÁNY                        |1|eredményes               |00001950|000005|00000733
+09|HAJDÚ-B   |068|SZEREP              |000002|CIGÁNY                        |1|eredményes               |00000701|000005|00000275
+09|HAJDÚ-B   |069|TETÉTLEN            |000002|CIGÁNY                        |1|eredményes               |00000837|000005|00000402
+09|HAJDÚ-B   |072|TISZACSEGE          |000002|CIGÁNY                        |1|eredményes               |00001968|000005|00000893
+09|HAJDÚ-B   |076|ÚJLÉTA              |000002|CIGÁNY                        |1|eredményes               |00000213|000003|00000195
+09|HAJDÚ-B   |077|ÚJSZENTMARGITA      |000002|CIGÁNY                        |1|eredményes               |00001309|000005|00000554
+09|HAJDÚ-B   |082|ZSÁKA               |000002|CIGÁNY                        |1|eredményes               |00000279|000005|00000144
+10|HEVES     |002|ADÁCS               |000002|CIGÁNY                        |1|eredményes               |00000470|000005|00000204
+10|HEVES     |007|ÁTÁNY               |000002|CIGÁNY                        |1|eredményes               |00000887|000005|00000450
+10|HEVES     |011|BESENYÕTELEK        |000002|CIGÁNY                        |1|eredményes               |00000841|000005|00000407
+10|HEVES     |016|BÜKKSZENTERZSÉBET   |000002|CIGÁNY                        |1|eredményes               |00000487|000003|00000289
+10|HEVES     |017|BÜKKSZENTMÁRTON     |000002|CIGÁNY                        |1|eredményes               |00000145|000003|00000099
+10|HEVES     |019|CSÁNY               |000002|CIGÁNY                        |1|eredményes               |00000899|000005|00000447
+10|HEVES     |023|DORMÁND             |000002|CIGÁNY                        |1|eredményes               |00000314|000003|00000179
+10|HEVES     |024|ECSÉD               |000002|CIGÁNY                        |1|eredményes               |00001511|000005|00000746
+10|HEVES     |030|EGERSZALÓK          |000002|CIGÁNY                        |1|eredményes               |00001105|000005|00000467
+10|HEVES     |033|ERDÕTELEK           |000002|CIGÁNY                        |1|eredményes               |00001534|000005|00000566
+10|HEVES     |034|ERK                 |000002|CIGÁNY                        |1|eredményes               |00000277|000003|00000174
+10|HEVES     |042|GYÖNGYÖSPATA        |000002|CIGÁNY                        |1|eredményes               |00000336|000005|00000190
+10|HEVES     |045|HALMAJUGRA          |000002|CIGÁNY                        |1|eredményes               |00000957|000003|00000406
+10|HEVES     |046|HATVAN              |000002|CIGÁNY                        |1|eredményes               |00003491|000005|00002394
+10|HEVES     |048|HEVES               |000002|CIGÁNY                        |1|eredményes               |00001952|000005|00001288
+10|HEVES     |049|HEVESARANYOS        |000002|CIGÁNY                        |1|eredményes               |00000291|000003|00000171
+10|HEVES     |053|IVÁD                |000002|CIGÁNY                        |1|eredményes               |00000265|000003|00000194
+10|HEVES     |054|KARÁCSOND           |000002|CIGÁNY                        |1|eredményes               |00002390|000005|00000691
+10|HEVES     |055|KÁL                 |000002|CIGÁNY                        |1|eredményes               |00002652|000005|00000913
+10|HEVES     |056|KÁPOLNA             |000002|CIGÁNY                        |1|eredményes               |00001473|000005|00000417
+10|HEVES     |057|KERECSEND           |000002|CIGÁNY                        |1|eredményes               |00001673|000005|00000469
+10|HEVES     |060|KISNÁNA             |000002|CIGÁNY                        |0|eredménytelen            |00000099|000000|00000046
+10|HEVES     |060|KISNÁNA             |000011|SZLOVÁK                       |1|eredményes               |00000606|000003|00000237
+10|HEVES     |061|KOMPOLT             |000002|CIGÁNY                        |1|eredményes               |00001342|000005|00000585
+10|HEVES     |062|KÖMLÕ               |000002|CIGÁNY                        |1|eredményes               |00001631|000005|00000532
+10|HEVES     |074|NAGYFÜGED           |000002|CIGÁNY                        |1|eredményes               |00000649|000005|00000397
+10|HEVES     |083|PARÁD               |000002|CIGÁNY                        |1|eredményes               |00000896|000005|00000509
+10|HEVES     |086|PÉLY                |000002|CIGÁNY                        |1|eredményes               |00000841|000005|00000261
+10|HEVES     |087|PÉTERVÁSÁRA         |000002|CIGÁNY                        |1|eredményes               |00001094|000005|00000459
+10|HEVES     |088|POROSZLÓ            |000002|CIGÁNY                        |1|eredményes               |00001514|000005|00000613
+10|HEVES     |089|RECSK               |000002|CIGÁNY                        |1|eredményes               |00002251|000005|00000687
+10|HEVES     |091|SARUD               |000002|CIGÁNY                        |1|eredményes               |00000601|000005|00000236
+10|HEVES     |092|SIROK               |000002|CIGÁNY                        |1|eredményes               |00001825|000005|00000762
+10|HEVES     |093|SZAJLA              |000002|CIGÁNY                        |1|eredményes               |00000450|000003|00000246
+10|HEVES     |094|SZENTDOMONKOS       |000002|CIGÁNY                        |1|eredményes               |00000240|000003|00000123
+10|HEVES     |100|TARNALELESZ         |000002|CIGÁNY                        |1|eredményes               |00001006|000005|00000378
+10|HEVES     |102|TARNAÖRS            |000002|CIGÁNY                        |1|eredményes               |00000307|000005|00000154
+10|HEVES     |105|TARNAZSADÁNY        |000002|CIGÁNY                        |1|eredményes               |00001128|000005|00000391
+10|HEVES     |107|TERPES              |000002|CIGÁNY                        |1|eredményes               |00000120|000003|00000062
+10|HEVES     |108|TISZANÁNA           |000002|CIGÁNY                        |1|eredményes               |00001103|000005|00000407
+10|HEVES     |112|VÁRASZÓ             |000002|CIGÁNY                        |1|eredményes               |00000312|000003|00000199
+10|HEVES     |113|VERPELÉT            |000002|CIGÁNY                        |1|eredményes               |00003628|000005|00001023
+11|JÁSZ-NK-SZ|005|CIBAKHÁZA           |000002|CIGÁNY                        |1|eredményes               |00001203|000005|00000825
+11|JÁSZ-NK-SZ|010|JÁNOSHIDA           |000002|CIGÁNY                        |1|eredményes               |00001607|000005|00000594
+11|JÁSZ-NK-SZ|015|JÁSZBERÉNY          |000002|CIGÁNY                        |1|eredményes               |00004533|000005|00002938
+11|JÁSZ-NK-SZ|019|JÁSZFÉNYSZARU       |000002|CIGÁNY                        |1|eredményes               |00002079|000005|00000730
+11|JÁSZ-NK-SZ|022|JÁSZKISÉR           |000002|CIGÁNY                        |1|eredményes               |00002230|000005|00000890
+11|JÁSZ-NK-SZ|023|JÁSZLADÁNY          |000002|CIGÁNY                        |1|eredményes               |00001975|000005|00000856
+11|JÁSZ-NK-SZ|025|JÁSZTELEK           |000002|CIGÁNY                        |1|eredményes               |00001318|000005|00000355
+11|JÁSZ-NK-SZ|026|KARCAG              |000002|CIGÁNY                        |1|eredményes               |00005304|000005|00002586
+11|JÁSZ-NK-SZ|027|KENDERES            |000002|CIGÁNY                        |1|eredményes               |00001831|000005|00000958
+11|JÁSZ-NK-SZ|030|KISÚJSZÁLLÁS        |000002|CIGÁNY                        |1|eredményes               |00003489|000005|00001658
+11|JÁSZ-NK-SZ|033|KUNHEGYES           |000002|CIGÁNY                        |1|eredményes               |00001630|000005|00000969
+11|JÁSZ-NK-SZ|034|KUNMADARAS          |000002|CIGÁNY                        |1|eredményes               |00002974|000005|00001016
+11|JÁSZ-NK-SZ|035|KUNSZENTMÁRTON      |000002|CIGÁNY                        |1|eredményes               |00003714|000005|00001988
+11|JÁSZ-NK-SZ|039|MEZÕTÚR             |000002|CIGÁNY                        |1|eredményes               |00003512|000005|00002198
+11|JÁSZ-NK-SZ|040|NAGYIVÁN            |000002|CIGÁNY                        |1|eredményes               |00001313|000005|00000433
+11|JÁSZ-NK-SZ|044|ÖCSÖD               |000002|CIGÁNY                        |1|eredményes               |00000771|000005|00000429
+11|JÁSZ-NK-SZ|052|SZOLNOK             |000002|CIGÁNY                        |1|eredményes               |00024291|000005|00008548
+11|JÁSZ-NK-SZ|053|TISZABÕ             |000002|CIGÁNY                        |1|eredményes               |00001712|000005|00000558
+11|JÁSZ-NK-SZ|054|TISZABURA           |000002|CIGÁNY                        |1|eredményes               |00001467|000005|00000580
+11|JÁSZ-NK-SZ|055|TISZADERZS          |000002|CIGÁNY                        |1|eredményes               |00000709|000005|00000322
+11|JÁSZ-NK-SZ|056|TISZAFÖLDVÁR        |000002|CIGÁNY                        |1|eredményes               |00003554|000005|00002022
+11|JÁSZ-NK-SZ|059|TISZAIGAR           |000002|CIGÁNY                        |1|eredményes               |00000651|000003|00000308
+11|JÁSZ-NK-SZ|064|TISZAPÜSPÖKI        |000002|CIGÁNY                        |1|eredményes               |00000940|000005|00000379
+11|JÁSZ-NK-SZ|065|TISZAROFF           |000002|CIGÁNY                        |1|eredményes               |00000999|000005|00000328
+11|JÁSZ-NK-SZ|068|TISZASZENTIMRE      |000002|CIGÁNY                        |1|eredményes               |00000839|000005|00000585
+11|JÁSZ-NK-SZ|074|TÖRÖKSZENTMIKLÓS    |000002|CIGÁNY                        |1|eredményes               |00004482|000005|00002357
+11|JÁSZ-NK-SZ|075|TÚRKEVE             |000002|CIGÁNY                        |1|eredményes               |00001896|000005|00001321
+11|JÁSZ-NK-SZ|076|ÚJSZÁSZ             |000002|CIGÁNY                        |1|eredményes               |00001296|000005|00000557
+11|JÁSZ-NK-SZ|078|ZAGYVARÉKAS         |000002|CIGÁNY                        |1|eredményes               |00001136|000005|00000486
+12|KOMÁROM-E |005|BAJ                 |000006|NÉMET                         |1|eredményes               |00003697|000005|00000905
+12|KOMÁROM-E |027|ESZTERGOM           |000006|NÉMET                         |1|eredményes               |00004241|000005|00002671
+12|KOMÁROM-E |027|ESZTERGOM           |000011|SZLOVÁK                       |1|eredményes               |00002214|000005|00001178
+12|KOMÁROM-E |040|LÁBATLAN            |000002|CIGÁNY                        |1|eredményes               |00001885|000005|00001083
+12|KOMÁROM-E |041|LEÁNYVÁR            |000006|NÉMET                         |1|eredményes               |00002026|000005|00000708
+12|KOMÁROM-E |044|MOGYORÓSBÁNYA       |000011|SZLOVÁK                       |1|eredményes               |00000810|000003|00000427
+12|KOMÁROM-E |051|PILISCSÉV           |000011|SZLOVÁK                       |1|eredményes               |00002765|000005|00000808
+12|KOMÁROM-E |062|TATA                |000002|CIGÁNY                        |1|eredményes               |00001050|000005|00000482
+12|KOMÁROM-E |062|TATA                |000006|NÉMET                         |1|eredményes               |00006744|000005|00002476
+12|KOMÁROM-E |063|TATABÁNYA           |000002|CIGÁNY                        |1|eredményes               |00001425|000005|00000654
+12|KOMÁROM-E |063|TATABÁNYA           |000006|NÉMET                         |1|eredményes               |00011191|000005|00004891
+12|KOMÁROM-E |063|TATABÁNYA           |000011|SZLOVÁK                       |1|eredményes               |00006788|000005|00003006
+12|KOMÁROM-E |071|VÉRTESSOMLÓ         |000006|NÉMET                         |1|eredményes               |00003321|000005|00000694
+13|NÓGRÁD    |003|BALASSAGYARMAT      |000002|CIGÁNY                        |1|eredményes               |00004287|000005|00002286
+13|NÓGRÁD    |005|BÁRNA               |000002|CIGÁNY                        |1|eredményes               |00000474|000003|00000280
+13|NÓGRÁD    |006|BÁTONYTERENYE       |000002|CIGÁNY                        |1|eredményes               |00004520|000005|00001837
+13|NÓGRÁD    |013|BUJÁK               |000002|CIGÁNY                        |1|eredményes               |00001418|000005|00000585
+13|NÓGRÁD    |029|ENDREFALVA          |000002|CIGÁNY                        |1|eredményes               |00000711|000003|00000331
+13|NÓGRÁD    |030|ERDÕKÜRT            |000011|SZLOVÁK                       |1|eredményes               |00000848|000003|00000309
+13|NÓGRÁD    |032|ETES                |000002|CIGÁNY                        |1|eredményes               |00000479|000005|00000226
+13|NÓGRÁD    |036|GALGAGUTA           |000011|SZLOVÁK                       |1|eredményes               |00000717|000003|00000268
+13|NÓGRÁD    |043|HUGYAG              |000002|CIGÁNY                        |1|eredményes               |00000561|000003|00000254
+13|NÓGRÁD    |053|KAZÁR               |000002|CIGÁNY                        |1|eredményes               |00001680|000005|00000534
+13|NÓGRÁD    |054|KÁLLÓ               |000002|CIGÁNY                        |1|eredményes               |00000686|000005|00000308
+13|NÓGRÁD    |064|LITKE               |000002|CIGÁNY                        |1|eredményes               |00000535|000003|00000307
+13|NÓGRÁD    |065|LUCFALVA            |000011|SZLOVÁK                       |1|eredményes               |00000685|000003|00000343
+13|NÓGRÁD    |067|MAGYARGÉC           |000002|CIGÁNY                        |1|eredményes               |00000404|000003|00000196
+13|NÓGRÁD    |070|MÁTRAMINDSZENT      |000002|CIGÁNY                        |1|eredményes               |00000662|000003|00000325
+13|NÓGRÁD    |078|NAGYBÁRKÁNY         |000002|CIGÁNY                        |1|eredményes               |00000738|000003|00000295
+13|NÓGRÁD    |082|NÉZSA               |000011|SZLOVÁK                       |1|eredményes               |00001543|000003|00000594
+13|NÓGRÁD    |086|NÓGRÁDMEGYER        |000002|CIGÁNY                        |1|eredményes               |00001989|000005|00000631
+13|NÓGRÁD    |089|NÓGRÁDSZAKÁL        |000002|CIGÁNY                        |1|eredményes               |00000132|000003|00000075
+13|NÓGRÁD    |096|PÁSZTÓ              |000002|CIGÁNY                        |1|eredményes               |00002020|000005|00001481
+13|NÓGRÁD    |099|RÉTSÁG              |000011|SZLOVÁK                       |1|eredményes               |00001377|000005|00000801
+13|NÓGRÁD    |101|RIMÓC               |000002|CIGÁNY                        |1|eredményes               |00000731|000005|00000338
+13|NÓGRÁD    |103|SALGÓTARJÁN         |000002|CIGÁNY                        |1|eredményes               |00007757|000005|00002576
+13|NÓGRÁD    |106|SÓSHARTYÁN          |000002|CIGÁNY                        |1|eredményes               |00000807|000003|00000321
+13|NÓGRÁD    |114|SZÉCSÉNY            |000002|CIGÁNY                        |1|eredményes               |00001252|000005|00000815
+13|NÓGRÁD    |118|SZUHA               |000011|SZLOVÁK                       |1|eredményes               |00000716|000003|00000347
+13|NÓGRÁD    |120|SZÜGY               |000002|CIGÁNY                        |1|eredményes               |00000496|000005|00000213
+13|NÓGRÁD    |123|TERÉNY              |000011|SZLOVÁK                       |1|eredményes               |00000351|000003|00000188
+13|NÓGRÁD    |124|VANYARC             |000011|SZLOVÁK                       |1|eredményes               |00001023|000005|00000335
+13|NÓGRÁD    |126|VIZSLÁS             |000002|CIGÁNY                        |1|eredményes               |00000397|000005|00000246
+13|NÓGRÁD    |127|ZABAR               |000002|CIGÁNY                        |1|eredményes               |00000353|000003|00000200
+14|PEST      |001|ABONY               |000002|CIGÁNY                        |1|eredményes               |00002304|000005|00001681
+14|PEST      |002|ACSA                |000002|CIGÁNY                        |1|eredményes               |00001035|000005|00000349
+14|PEST      |003|ALBERTIRSA          |000002|CIGÁNY                        |1|eredményes               |00001348|000005|00000952
+14|PEST      |008|BAG                 |000002|CIGÁNY                        |1|eredményes               |00000911|000005|00000366
+14|PEST      |013|BUDAKALÁSZ          |000010|SZERB                         |1|eredményes               |00003258|000005|00001268
+14|PEST      |014|BUDAKESZI           |000006|NÉMET                         |1|eredményes               |00006772|000005|00002787
+14|PEST      |015|BUDAÖRS             |000002|CIGÁNY                        |1|eredményes               |00000359|000005|00000138
+14|PEST      |015|BUDAÖRS             |000006|NÉMET                         |1|eredményes               |00007313|000005|00003305
+14|PEST      |017|CEGLÉD              |000002|CIGÁNY                        |1|eredményes               |00004142|000005|00002841
+14|PEST      |021|CSOBÁNKA            |000010|SZERB                         |1|eredményes               |00001187|000005|00000472
+14|PEST      |025|DABAS               |000011|SZLOVÁK                       |1|eredményes               |00007127|000005|00004000
+14|PEST      |032|DUNABOGDÁNY         |000006|NÉMET                         |0|eredménytelen            |00000000|000000|00000000
+14|PEST      |033|DUNAHARASZTI        |000002|CIGÁNY                        |1|eredményes               |00000349|000005|00000269
+14|PEST      |033|DUNAHARASZTI        |000006|NÉMET                         |1|eredményes               |00004192|000005|00002545
+14|PEST      |038|ÉRD                 |000002|CIGÁNY                        |1|eredményes               |00001013|000005|00000477
+14|PEST      |038|ÉRD                 |000006|NÉMET                         |1|eredményes               |00004745|000005|00002148
+14|PEST      |038|ÉRD                 |000010|SZERB                         |1|eredményes               |00000877|000005|00000466
+14|PEST      |042|GALGAGYÖRK          |000011|SZLOVÁK                       |1|eredményes               |00000627|000003|00000321
+14|PEST      |047|GÖDÖLLÕ             |000002|CIGÁNY                        |1|eredményes               |00007259|000005|00002972
+14|PEST      |050|HALÁSZTELEK         |000001|BOLGÁR                        |1|eredményes               |00002882|000005|00001259
+14|PEST      |054|IKLAD               |000006|NÉMET                         |1|eredményes               |00003962|000005|00000904
+14|PEST      |058|ISASZEG             |000002|CIGÁNY                        |1|eredményes               |00002675|000005|00001570
+14|PEST      |060|KAKUCS              |000002|CIGÁNY                        |1|eredményes               |00000742|000005|00000365
+14|PEST      |064|KEREPES             |000002|CIGÁNY                        |1|eredményes               |00001833|000005|00000987
+14|PEST      |065|KISTARCSA           |000002|CIGÁNY                        |1|eredményes               |00001578|000005|00000939
+14|PEST      |066|KISKUNLACHÁZA       |000002|CIGÁNY                        |1|eredményes               |00002348|000005|00001624
+14|PEST      |077|LÓRÉV               |000010|SZERB                         |1|eredményes               |00000397|000003|00000153
+14|PEST      |085|MONOR               |000002|CIGÁNY                        |1|eredményes               |00003098|000005|00001389
+14|PEST      |086|NAGYBÖRZSÖNY        |000002|CIGÁNY                        |1|eredményes               |00000206|000003|00000108
+14|PEST      |087|NAGYKÁTA            |000002|CIGÁNY                        |1|eredményes               |00001815|000005|00001445
+14|PEST      |095|ÖRKÉNY              |000002|CIGÁNY                        |1|eredményes               |00000729|000005|00000281
+14|PEST      |097|PÁND                |000002|CIGÁNY                        |1|eredményes               |00001042|000005|00000294
+14|PEST      |100|PERBÁL              |000006|NÉMET                         |1|eredményes               |00002092|000005|00000600
+14|PEST      |104|PILIS               |000002|CIGÁNY                        |1|eredményes               |00001874|000005|00001163
+14|PEST      |108|PILISSZÁNTÓ         |000011|SZLOVÁK                       |1|eredményes               |00001868|000005|00000624
+14|PEST      |109|PILISSZENTIVÁN      |000006|NÉMET                         |1|eredményes               |00003423|000005|00001082
+14|PEST      |110|PILISSZENTKERESZT   |000011|SZLOVÁK                       |1|eredményes               |00002261|000005|00000793
+14|PEST      |112|PILISVÖRÖSVÁR       |000002|CIGÁNY                        |0|eredménytelen            |00000194|000000|00000086
+14|PEST      |112|PILISVÖRÖSVÁR       |000006|NÉMET                         |1|eredményes               |00007468|000005|00003209
+14|PEST      |113|POMÁZ               |000002|CIGÁNY                        |1|eredményes               |00000637|000005|00000215
+14|PEST      |113|POMÁZ               |000006|NÉMET                         |1|eredményes               |00003225|000005|00001432
+14|PEST      |113|POMÁZ               |000010|SZERB                         |1|eredményes               |00001197|000005|00000475
+14|PEST      |119|RÁCKEVE             |000010|SZERB                         |1|eredményes               |00002552|000005|00001297
+14|PEST      |121|SOLYMÁR             |000006|NÉMET                         |1|eredményes               |00005944|000005|00002003
+14|PEST      |125|SZÁZHALOMBATTA      |000010|SZERB                         |1|eredményes               |00005971|000005|00002816
+14|PEST      |126|SZENTENDRE          |000010|SZERB                         |1|eredményes               |00005010|000005|00002660
+14|PEST      |130|SZIGETCSÉP          |000010|SZERB                         |1|eredményes               |00001976|000005|00000797
+14|PEST      |131|SZIGETHALOM         |000007|ÖRMÉNY                        |1|eredményes               |00001723|000005|00001242
+14|PEST      |135|SZIGETÚJFALU        |000006|NÉMET                         |1|eredményes               |00003267|000005|00000807
+14|PEST      |138|SZÕD                |000002|CIGÁNY                        |1|eredményes               |00001066|000005|00000432
+14|PEST      |141|TAKSONY             |000006|NÉMET                         |1|eredményes               |00005206|000005|00001607
+14|PEST      |142|TATÁRSZENTGYÖRGY    |000002|CIGÁNY                        |1|eredményes               |00001017|000005|00000461
+14|PEST      |143|TÁBORFALVA          |000002|CIGÁNY                        |0|eredménytelen            |00000000|000000|00000000
+14|PEST      |148|TÁPIÓSZELE          |000002|CIGÁNY                        |1|eredményes               |00007019|000005|00001860
+14|PEST      |155|TÓALMÁS             |000002|CIGÁNY                        |0|eredménytelen            |00000000|000000|00000000
+14|PEST      |157|TÖKÖL               |000004|HORVÁT                        |1|eredményes               |00003521|000005|00001103
+14|PEST      |157|TÖKÖL               |000006|NÉMET                         |1|eredményes               |00001553|000005|00000499
+14|PEST      |158|TÖRÖKBÁLINT         |000006|NÉMET                         |1|eredményes               |00006205|000005|00002386
+14|PEST      |159|TÖRTEL              |000002|CIGÁNY                        |1|eredményes               |00002292|000005|00000887
+14|PEST      |167|VALKÓ               |000002|CIGÁNY                        |1|eredményes               |00002146|000005|00000734
+14|PEST      |177|VECSÉS              |000006|NÉMET                         |1|eredményes               |00008919|000005|00003376
+14|PEST      |179|VERÕCE              |000002|CIGÁNY                        |1|eredményes               |00001421|000005|00000737
+14|PEST      |180|VERSEG              |000002|CIGÁNY                        |1|eredményes               |00000667|000005|00000248
+14|PEST      |181|VISEGRÁD            |000006|NÉMET                         |1|eredményes               |00002795|000005|00000743
+14|PEST      |183|ZSÁMBÉK             |000006|NÉMET                         |1|eredményes               |00003196|000005|00001008
+15|SOMOGY    |003|BABÓCSA             |000002|CIGÁNY                        |1|eredményes               |00000921|000005|00000311
+15|SOMOGY    |019|BARCS               |000002|CIGÁNY                        |1|eredményes               |00006127|000005|00002903
+15|SOMOGY    |045|DARÁNY              |000002|CIGÁNY                        |1|eredményes               |00000373|000003|00000264
+15|SOMOGY    |053|FONÓ                |000002|CIGÁNY                        |1|eredményes               |00000086|000003|00000070
+15|SOMOGY    |079|ISTVÁNDI            |000002|CIGÁNY                        |1|eredményes               |00000529|000003|00000226
+15|SOMOGY    |091|KAPOSVÁR            |000002|CIGÁNY                        |1|eredményes               |00012765|000005|00007494
+15|SOMOGY    |103|KISBAJOM            |000002|CIGÁNY                        |1|eredményes               |00000205|000003|00000117
+15|SOMOGY    |112|KUTAS               |000002|CIGÁNY                        |1|eredményes               |00000502|000005|00000250
+15|SOMOGY    |114|LAKÓCSA             |000004|HORVÁT                        |1|eredményes               |00000401|000003|00000238
+15|SOMOGY    |117|LENGYELTÓTI         |000002|CIGÁNY                        |1|eredményes               |00001636|000005|00000766
+15|SOMOGY    |122|MARCALI             |000002|CIGÁNY                        |1|eredményes               |00003056|000005|00001503
+15|SOMOGY    |130|ÖTVÖSKÓNYI          |000002|CIGÁNY                        |1|eredményes               |00000892|000003|00000404
+15|SOMOGY    |141|NIKLA               |000002|CIGÁNY                        |1|eredményes               |00000578|000003|00000321
+15|SOMOGY    |159|POTONY              |000004|HORVÁT                        |1|eredményes               |00000215|000003|00000116
+15|SOMOGY    |190|SOMOGYSÁMSON        |000002|CIGÁNY                        |0|eredménytelen            |00000082|000000|00000044
+15|SOMOGY    |205|SZENNA              |000002|CIGÁNY                        |1|eredményes               |00000439|000003|00000256
+15|SOMOGY    |208|SZENTBORBÁS         |000004|HORVÁT                        |1|eredményes               |00000106|000003|00000062
+15|SOMOGY    |210|SZENYÉR             |000002|CIGÁNY                        |1|eredményes               |00000313|000003|00000145
+15|SOMOGY    |219|TARANY              |000002|CIGÁNY                        |1|eredményes               |00000663|000003|00000344
+15|SOMOGY    |226|TÓTÚJFALU           |000004|HORVÁT                        |1|eredményes               |00000182|000003|00000104
+16|SZABOLCS  |004|ARANYOSAPÁTI        |000002|CIGÁNY                        |1|eredményes               |00001044|000005|00000373
+16|SZABOLCS  |005|BAKTALÓRÁNTHÁZA     |000002|CIGÁNY                        |1|eredményes               |00004432|000005|00001447
+16|SZABOLCS  |011|BEREGDARÓC          |000002|CIGÁNY                        |1|eredményes               |00000441|000003|00000211
+16|SZABOLCS  |021|CSAHOLC             |000002|CIGÁNY                        |1|eredményes               |00000238|000003|00000114
+16|SZABOLCS  |025|CSENGER             |000002|CIGÁNY                        |1|eredményes               |00001439|000005|00000514
+16|SZABOLCS  |029|DEMECSER            |000002|CIGÁNY                        |1|eredményes               |00003601|000005|00001350
+16|SZABOLCS  |030|DOMBRÁD             |000002|CIGÁNY                        |1|eredményes               |00001437|000005|00000577
+16|SZABOLCS  |031|DÖGE                |000002|CIGÁNY                        |1|eredményes               |00001223|000005|00000468
+16|SZABOLCS  |033|EPERJESKE           |000002|CIGÁNY                        |1|eredményes               |00000231|000003|00000140
+16|SZABOLCS  |042|GÁVAVENCSELLÕ       |000002|CIGÁNY                        |1|eredményes               |00002139|000005|00000924
+16|SZABOLCS  |043|GELÉNES             |000002|CIGÁNY                        |0|eredménytelen            |00000041|000000|00000022
+16|SZABOLCS  |053|GYÜRE               |000002|CIGÁNY                        |1|eredményes               |00000500|000005|00000208
+16|SZABOLCS  |057|IBRÁNY              |000002|CIGÁNY                        |1|eredményes               |00004159|000005|00001622
+16|SZABOLCS  |059|JÁND                |000002|CIGÁNY                        |1|eredményes               |00000539|000003|00000264
+16|SZABOLCS  |065|KÁNTORJÁNOSI        |000002|CIGÁNY                        |1|eredményes               |00000765|000005|00000292
+16|SZABOLCS  |066|KEMECSE             |000002|CIGÁNY                        |1|eredményes               |00001780|000005|00000862
+16|SZABOLCS  |068|KÉKCSE              |000002|CIGÁNY                        |1|eredményes               |00001382|000005|00000514
+16|SZABOLCS  |077|KISVÁRDA            |000002|CIGÁNY                        |1|eredményes               |00004294|000005|00002648
+16|SZABOLCS  |078|KOCSORD             |000002|CIGÁNY                        |1|eredményes               |00001394|000005|00000467
+16|SZABOLCS  |091|MÁNDOK              |000002|CIGÁNY                        |1|eredményes               |00001329|000005|00000695
+16|SZABOLCS  |094|MÁTÉSZALKA          |000002|CIGÁNY                        |1|eredményes               |00001185|000005|00000624
+16|SZABOLCS  |094|MÁTÉSZALKA          |000006|NÉMET                         |1|eredményes               |00004211|000005|00001952
+16|SZABOLCS  |096|MEZÕLADÁNY          |000002|CIGÁNY                        |1|eredményes               |00000456|000003|00000301
+16|SZABOLCS  |103|NAGYECSED           |000002|CIGÁNY                        |1|eredményes               |00002845|000005|00001272
+16|SZABOLCS  |106|NAGYKÁLLÓ           |000002|CIGÁNY                        |1|eredményes               |00001857|000005|00001354
+16|SZABOLCS  |109|NAPKOR              |000002|CIGÁNY                        |1|eredményes               |00000888|000005|00000403
+16|SZABOLCS  |112|NYÍRBÁTOR           |000002|CIGÁNY                        |1|eredményes               |00004296|000005|00001941
+16|SZABOLCS  |113|NYÍRBÉLTEK          |000002|CIGÁNY                        |1|eredményes               |00001357|000005|00000535
+16|SZABOLCS  |116|NYÍRCSAHOLY         |000002|CIGÁNY                        |1|eredményes               |00000555|000005|00000296
+16|SZABOLCS  |119|NYÍREGYHÁZA         |000002|CIGÁNY                        |1|eredményes               |00006528|000005|00003518
+16|SZABOLCS  |119|NYÍREGYHÁZA         |000011|SZLOVÁK                       |1|eredményes               |00012601|000005|00005411
+16|SZABOLCS  |128|NYÍRLUGOS           |000002|CIGÁNY                        |1|eredményes               |00003193|000005|00001275
+16|SZABOLCS  |129|NYÍRMADA            |000002|CIGÁNY                        |1|eredményes               |00003209|000005|00001090
+16|SZABOLCS  |140|OLCSVA              |000002|CIGÁNY                        |1|eredményes               |00000461|000003|00000270
+16|SZABOLCS  |144|ÖKÖRITÓFÜLPÖS       |000002|CIGÁNY                        |1|eredményes               |00001334|000005|00000417
+16|SZABOLCS  |160|RAKAMAZ             |000002|CIGÁNY                        |1|eredményes               |00000645|000005|00000275
+16|SZABOLCS  |161|RAMOCSAHÁZA         |000002|CIGÁNY                        |1|eredményes               |00000604|000005|00000227
+16|SZABOLCS  |163|RÉTKÖZBERENCS       |000002|CIGÁNY                        |1|eredményes               |00000270|000003|00000149
+16|SZABOLCS  |179|SZATMÁRCSEKE        |000002|CIGÁNY                        |1|eredményes               |00001319|000005|00000478
+16|SZABOLCS  |181|TARPA               |000002|CIGÁNY                        |1|eredményes               |00000954|000005|00000423
+16|SZABOLCS  |191|TISZADADA           |000002|CIGÁNY                        |1|eredményes               |00000419|000003|00000143
+16|SZABOLCS  |192|TISZADOB            |000002|CIGÁNY                        |1|eredményes               |00002407|000005|00000696
+16|SZABOLCS  |194|TISZAKANYÁR         |000002|CIGÁNY                        |1|eredményes               |00000633|000005|00000226
+16|SZABOLCS  |198|TISZAMOGYORÓS       |000002|CIGÁNY                        |1|eredményes               |00000586|000003|00000288
+16|SZABOLCS  |202|TISZASZENTMÁRTON    |000002|CIGÁNY                        |1|eredményes               |00000726|000005|00000213
+16|SZABOLCS  |206|TISZTABEREK         |000002|CIGÁNY                        |2|megsemmisített eredmény  |00000728|000000|00000308
+16|SZABOLCS  |208|TORNYOSPÁLCA        |000002|CIGÁNY                        |1|eredményes               |00000950|000005|00000587
+16|SZABOLCS  |209|TUNYOGMATOLCS       |000002|CIGÁNY                        |1|eredményes               |00002052|000005|00000745
+16|SZABOLCS  |211|TÚRISTVÁNDI         |000002|CIGÁNY                        |1|eredményes               |00000612|000003|00000285
+16|SZABOLCS  |218|ÚJKENÉZ             |000002|CIGÁNY                        |1|eredményes               |00000412|000003|00000263
+16|SZABOLCS  |220|VASMEGYER           |000002|CIGÁNY                        |1|eredményes               |00000636|000005|00000286
+16|SZABOLCS  |224|VÁSÁROSNAMÉNY       |000002|CIGÁNY                        |1|eredményes               |00003510|000005|00001405
+17|TOLNA     |007|BÁTASZÉK            |000002|CIGÁNY                        |1|eredményes               |00000623|000005|00000246
+17|TOLNA     |007|BÁTASZÉK            |000006|NÉMET                         |1|eredményes               |00003186|000005|00001153
+17|TOLNA     |011|BONYHÁD             |000006|NÉMET                         |1|eredményes               |00010992|000005|00004099
+17|TOLNA     |015|CSIBRÁK             |000002|CIGÁNY                        |1|eredményes               |00000109|000003|00000077
+17|TOLNA     |018|DECS                |000002|CIGÁNY                        |1|eredményes               |00001329|000005|00000718
+17|TOLNA     |020|DOMBÓVÁR            |000002|CIGÁNY                        |1|eredményes               |00003528|000005|00002331
+17|TOLNA     |033|GYÖNK               |000002|CIGÁNY                        |1|eredményes               |00000332|000005|00000086
+17|TOLNA     |033|GYÖNK               |000006|NÉMET                         |1|eredményes               |00002152|000005|00000579
+17|TOLNA     |035|GYÖRKÖNY            |000006|NÉMET                         |1|eredményes               |00001187|000003|00000455
+17|TOLNA     |036|GYULAJ              |000002|CIGÁNY                        |1|eredményes               |00000951|000003|00000420
+17|TOLNA     |038|HÕGYÉSZ             |000006|NÉMET                         |1|eredményes               |00003156|000005|00001098
+17|TOLNA     |055|KOPPÁNYSZÁNTÓ       |000002|CIGÁNY                        |1|eredményes               |00000174|000003|00000129
+17|TOLNA     |062|MEDINA              |000010|SZERB                         |1|eredményes               |00000616|000003|00000322
+17|TOLNA     |069|NAGYDOROG           |000002|CIGÁNY                        |1|eredményes               |00000595|000005|00000289
+17|TOLNA     |070|NAGYKÓNYI           |000002|CIGÁNY                        |1|eredményes               |00000883|000005|00000275
+17|TOLNA     |076|NÉMETKÉR            |000006|NÉMET                         |1|eredményes               |00002437|000005|00000672
+17|TOLNA     |077|OZORA               |000002|CIGÁNY                        |1|eredményes               |00001290|000005|00000510
+17|TOLNA     |079|PAKS                |000002|CIGÁNY                        |1|eredményes               |00003915|000005|00002678
+17|TOLNA     |081|PINCEHELY           |000002|CIGÁNY                        |1|eredményes               |00001772|000005|00000654
+17|TOLNA     |089|SZAKADÁT            |000006|NÉMET                         |1|eredményes               |00000477|000003|00000195
+17|TOLNA     |092|SZÁLKA              |000006|NÉMET                         |1|eredményes               |00000553|000003|00000280
+17|TOLNA     |093|SZÁRAZD             |000006|NÉMET                         |1|eredményes               |00000315|000003|00000158
+17|TOLNA     |094|SZEDRES             |000002|CIGÁNY                        |1|eredményes               |00000968|000005|00000303
+17|TOLNA     |095|SZEKSZÁRD           |000002|CIGÁNY                        |1|eredményes               |00001117|000005|00000365
+17|TOLNA     |095|SZEKSZÁRD           |000006|NÉMET                         |1|eredményes               |00012809|000005|00004817
+17|TOLNA     |096|TAMÁSI              |000002|CIGÁNY                        |1|eredményes               |00002334|000005|00001551
+17|TOLNA     |098|TEVEL               |000006|NÉMET                         |1|eredményes               |00001918|000005|00000550
+17|TOLNA     |099|TOLNA               |000002|CIGÁNY                        |1|eredményes               |00000410|000005|00000233
+17|TOLNA     |099|TOLNA               |000006|NÉMET                         |1|eredményes               |00005418|000005|00002242
+17|TOLNA     |103|VARSÁD              |000006|NÉMET                         |1|eredményes               |00000453|000003|00000255
+18|VAS       |002|ALSÓSZÖLNÖK         |000006|NÉMET                         |1|eredményes               |00000236|000003|00000106
+18|VAS       |002|ALSÓSZÖLNÖK         |000012|SZLOVÉN                       |1|eredményes               |00000106|000003|00000057
+18|VAS       |005|APÁTISTVÁNFALVA     |000012|SZLOVÉN                       |1|eredményes               |00000629|000003|00000236
+18|VAS       |020|CELLDÖMÖLK          |000002|CIGÁNY                        |1|eredményes               |00002748|000005|00001825
+18|VAS       |041|FELSÕCSATÁR         |000004|HORVÁT                        |1|eredményes               |00000685|000003|00000239
+18|VAS       |071|JÁNOSHÁZA           |000002|CIGÁNY                        |1|eredményes               |00001302|000005|00000539
+18|VAS       |096|KÕSZEG              |000004|HORVÁT                        |1|eredményes               |00001366|000005|00000590
+18|VAS       |096|KÕSZEG              |000006|NÉMET                         |1|eredményes               |00003314|000005|00001215
+18|VAS       |120|NARDA               |000004|HORVÁT                        |1|eredményes               |00000761|000003|00000306
+18|VAS       |134|ORFALU              |000012|SZLOVÉN                       |0|eredménytelen            |00000141|000000|00000047
+18|VAS       |149|PORNÓAPÁTI          |000006|NÉMET                         |1|eredményes               |00000443|000003|00000177
+18|VAS       |162|RÖNÖK               |000002|CIGÁNY                        |1|eredményes               |00000087|000003|00000034
+18|VAS       |162|RÖNÖK               |000006|NÉMET                         |1|eredményes               |00000452|000003|00000170
+18|VAS       |183|SZENTGOTTHÁRD       |000006|NÉMET                         |1|eredményes               |00002450|000005|00000783
+18|VAS       |183|SZENTGOTTHÁRD       |000012|SZLOVÉN                       |1|eredményes               |00004784|000005|00001492
+18|VAS       |184|SZENTPÉTERFA        |000004|HORVÁT                        |1|eredményes               |00001480|000003|00000588
+18|VAS       |186|SZOMBATHELY         |000002|CIGÁNY                        |1|eredményes               |00002112|000005|00001027
+18|VAS       |186|SZOMBATHELY         |000004|HORVÁT                        |1|eredményes               |00008999|000005|00004715
+18|VAS       |186|SZOMBATHELY         |000006|NÉMET                         |1|eredményes               |00012705|000005|00005950
+18|VAS       |201|VASKERESZTES        |000006|NÉMET                         |1|eredményes               |00000495|000003|00000204
+19|VESZPRÉM  |003|AJKA                |000006|NÉMET                         |1|eredményes               |00008936|000005|00005874
+19|VESZPRÉM  |041|BERHIDA             |000002|CIGÁNY                        |1|eredményes               |00003040|000005|00001214
+19|VESZPRÉM  |053|CSÓT                |000002|CIGÁNY                        |1|eredményes               |00000852|000003|00000458
+19|VESZPRÉM  |077|HÁRSKÚT             |000006|NÉMET                         |1|eredményes               |00000465|000003|00000251
+19|VESZPRÉM  |102|KISSZÕLÕS           |000002|CIGÁNY                        |0|eredménytelen            |00000049|000000|00000021
+19|VESZPRÉM  |136|NAGYTEVEL           |000006|NÉMET                         |1|eredményes               |00000326|000003|00000208
+19|VESZPRÉM  |137|NAGYVÁZSONY         |000002|CIGÁNY                        |1|eredményes               |00000732|000005|00000369
+19|VESZPRÉM  |158|PÁPA                |000002|CIGÁNY                        |1|eredményes               |00001995|000005|00001138
+19|VESZPRÉM  |158|PÁPA                |000006|NÉMET                         |1|eredményes               |00007428|000005|00004386
+19|VESZPRÉM  |162|PÁPATESZÉR          |000002|CIGÁNY                        |1|eredményes               |00000610|000005|00000253
+19|VESZPRÉM  |180|SÜMEG               |000002|CIGÁNY                        |1|eredményes               |00001737|000005|00001033
+19|VESZPRÉM  |194|TAPOLCA             |000002|CIGÁNY                        |1|eredményes               |00004262|000005|00002715
+19|VESZPRÉM  |205|VÁROSLÕD            |000002|CIGÁNY                        |0|eredménytelen            |00000089|000000|00000046
+19|VESZPRÉM  |205|VÁROSLÕD            |000006|NÉMET                         |1|eredményes               |00001544|000005|00000600
+19|VESZPRÉM  |206|VÁRPALOTA           |000002|CIGÁNY                        |1|eredményes               |00005881|000005|00003732
+19|VESZPRÉM  |208|VESZPRÉM            |000002|CIGÁNY                        |1|eredményes               |00001222|000005|00000547
+19|VESZPRÉM  |208|VESZPRÉM            |000006|NÉMET                         |1|eredményes               |00009411|000005|00004275
+19|VESZPRÉM  |208|VESZPRÉM            |000007|ÖRMÉNY                        |1|eredményes               |00000889|000005|00000388
+20|ZALA      |010|BAK                 |000002|CIGÁNY                        |1|eredményes               |00000249|000005|00000143
+20|ZALA      |054|FITYEHÁZ            |000004|HORVÁT                        |1|eredményes               |00000859|000003|00000299
+20|ZALA      |111|LENTI               |000002|CIGÁNY                        |1|eredményes               |00005216|000005|00002123
+20|ZALA      |112|LETENYE             |000002|CIGÁNY                        |1|eredményes               |00001329|000005|00000601
+20|ZALA      |116|LISZÓ               |000002|CIGÁNY                        |0|eredménytelen            |00000047|000000|00000030
+20|ZALA      |129|MURAKERESZTÚR       |000004|HORVÁT                        |1|eredményes               |00001596|000005|00000604
+20|ZALA      |134|NAGYKANIZSA         |000002|CIGÁNY                        |1|eredményes               |00006721|000005|00004450
+20|ZALA      |186|SEMJÉNHÁZA          |000004|HORVÁT                        |1|eredményes               |00000620|000003|00000345
+20|ZALA      |200|SZEPETNEK           |000002|CIGÁNY                        |1|eredményes               |00000278|000005|00000078
+20|ZALA      |200|SZEPETNEK           |000006|NÉMET                         |1|eredményes               |00000966|000005|00000301
+20|ZALA      |212|ÚJUDVAR             |000002|CIGÁNY                        |1|eredményes               |00000303|000003|00000156
+20|ZALA      |231|ZALAEGERSZEG        |000002|CIGÁNY                        |1|eredményes               |00009730|000005|00004755

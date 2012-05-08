@@ -1,0 +1,163 @@
+01|BUDAPEST|001|BUDAPEST     I. ker.|7|Választás eredményes|9|0
+01|BUDAPEST|002|BUDAPEST     II. ker.|7|Választás eredményes|12|0
+01|BUDAPEST|003|BUDAPEST     III. ker.|7|Választás eredményes|15|0
+01|BUDAPEST|004|BUDAPEST     IV. ker.|7|Választás eredményes|13|0
+01|BUDAPEST|005|BUDAPEST     V. ker.|7|Választás eredményes|9|0
+01|BUDAPEST|006|BUDAPEST     VI. ker.|7|Választás eredményes|10|0
+01|BUDAPEST|007|BUDAPEST     VII. ker.|7|Választás eredményes|11|0
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|7|Választás eredményes|11|1
+01|BUDAPEST|009|BUDAPEST     IX. ker.|7|Választás eredményes|11|1
+01|BUDAPEST|010|BUDAPEST     X. ker.|7|Választás eredményes|11|0
+01|BUDAPEST|011|BUDAPEST     XI. ker.|7|Választás eredményes|16|0
+01|BUDAPEST|012|BUDAPEST     XII. ker.|7|Választás eredményes|11|0
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|7|Választás eredményes|14|0
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|7|Választás eredményes|14|0
+01|BUDAPEST|015|BUDAPEST     XV. ker.|7|Választás eredményes|12|1
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|7|Választás eredményes|11|0
+01|BUDAPEST|017|BUDAPEST     XVII. ker.|7|Választás eredményes|11|0
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|7|Választás eredményes|12|0
+01|BUDAPEST|019|BUDAPEST     XIX. ker.|7|Választás eredményes|11|0
+01|BUDAPEST|020|BUDAPEST     XX. ker.|7|Választás eredményes|11|0
+01|BUDAPEST|021|BUDAPEST     XXI. ker.|7|Választás eredményes|11|1
+01|BUDAPEST|022|BUDAPEST     XXII. ker.|7|Választás eredményes|10|0
+01|BUDAPEST|023|BUDAPEST     XXIII. ker.|7|Választás eredményes|7|0
+02|BARANYA|137|KOMLÓ|7|Választás eredményes|9|2
+02|BARANYA|181|MOHÁCS|7|Választás eredményes|7|2
+02|BARANYA|217|PÉCS|7|Választás eredményes|17|2
+02|BARANYA|234|SIKLÓS|7|Választás eredményes|7|3
+02|BARANYA|263|SZIGETVÁR|7|Választás eredményes|7|0
+03|BÁCS|004|BAJA|7|Választás eredményes|9|1
+03|BÁCS|054|JÁNOSHALMA|7|Választás eredményes|7|0
+03|BÁCS|056|KALOCSA|7|Választás eredményes|7|1
+03|BÁCS|060|KECSKEMÉT|7|Választás eredményes|13|0
+03|BÁCS|064|KISKÕRÖS|7|Választás eredményes|7|1
+03|BÁCS|065|KISKUNFÉLEGYHÁZA|7|Választás eredményes|9|0
+03|BÁCS|066|KISKUNHALAS|7|Választás eredményes|9|1
+03|BÁCS|067|KISKUNMAJSA|7|Választás eredményes|7|1
+03|BÁCS|078|LAJOSMIZSE|7|Választás eredményes|7|0
+03|BÁCS|111|TISZAKÉCSKE|7|Választás eredményes|7|0
+04|BÉKÉS|003|BÉKÉS|7|Választás eredményes|7|1
+04|BÉKÉS|004|BÉKÉSCSABA|7|Választás eredményes|11|1
+04|BÉKÉS|025|GYOMAENDRÕD|7|Választás eredményes|7|2
+04|BÉKÉS|026|GYULA|7|Választás eredményes|9|1
+04|BÉKÉS|049|MEZÕBERÉNY|7|Választás eredményes|7|2
+04|BÉKÉS|059|OROSHÁZA|7|Választás eredményes|9|0
+04|BÉKÉS|063|SARKAD|7|Választás eredményes|7|0
+04|BÉKÉS|066|SZARVAS|7|Választás eredményes|7|1
+04|BÉKÉS|067|SZEGHALOM|7|Választás eredményes|7|0
+05|BORSOD|074|EDELÉNY|7|Választás eredményes|7|0
+05|BORSOD|151|KAZINCBARCIKA|7|Választás eredményes|9|0
+05|BORSOD|194|MEZÕKÖVESD|7|Választás eredményes|7|1
+05|BORSOD|200|MISKOLC|7|Választás eredményes|18|1
+05|BORSOD|224|ÓZD|7|Választás eredményes|9|1
+05|BORSOD|266|SAJÓSZENTPÉTER|7|Választás eredményes|7|1
+05|BORSOD|272|SÁROSPATAK|7|Választás eredményes|7|1
+05|BORSOD|274|SÁTORALJAÚJHELY|7|Választás eredményes|7|2
+05|BORSOD|292|SZERENCS|7|Választás eredményes|7|0
+05|BORSOD|324|TISZAÚJVÁROS|7|Választás eredményes|7|0
+06|CSONGRÁD|013|CSONGRÁD|7|Választás eredményes|7|0
+06|CSONGRÁD|024|HÓDMEZÕVÁSÁRHELY|7|Választás eredményes|9|1
+06|CSONGRÁD|032|MAKÓ|7|Választás eredményes|9|0
+06|CSONGRÁD|051|SZEGED|7|Választás eredményes|17|0
+06|CSONGRÁD|053|SZENTES|7|Választás eredményes|9|0
+07|FEJÉR|013|BICSKE|7|Választás eredményes|7|0
+07|FEJÉR|024|DUNAÚJVÁROS|7|Választás eredményes|10|0
+07|FEJÉR|061|MÓR|7|Választás eredményes|7|1
+07|FEJÉR|077|SÁRBOGÁRD|7|Választás eredményes|7|0
+07|FEJÉR|094|SZÉKESFEHÉRVÁR|7|Választás eredményes|13|0
+08|GYÕR|024|CSORNA|7|Választás eredményes|7|0
+08|GYÕR|055|GYÕR|7|Választás eredményes|14|0
+08|GYÕR|077|KAPUVÁR|7|Választás eredményes|7|0
+08|GYÕR|099|MOSONMAGYARÓVÁR|7|Választás eredményes|9|0
+08|GYÕR|143|SOPRON|7|Választás eredményes|10|0
+09|HAJDÚ|005|BALMAZÚJVÁROS|7|Választás eredményes|7|1
+09|HAJDÚ|009|BERETTYÓÚJFALU|7|Választás eredményes|7|0
+09|HAJDÚ|018|DEBRECEN|7|Választás eredményes|20|0
+09|HAJDÚ|030|HAJDÚBÖSZÖRMÉNY|7|Választás eredményes|9|0
+09|HAJDÚ|032|HAJDÚHADHÁZ|7|Választás eredményes|7|0
+09|HAJDÚ|033|HAJDÚNÁNÁS|7|Választás eredményes|7|0
+09|HAJDÚ|035|HAJDÚSZOBOSZLÓ|7|Választás eredményes|7|0
+09|HAJDÚ|063|PÜSPÖKLADÁNY|7|Választás eredményes|7|1
+10|HEVES|025|EGER|7|Választás eredményes|10|0
+10|HEVES|039|GYÖNGYÖS|7|Választás eredményes|9|0
+10|HEVES|046|HATVAN|7|Választás eredményes|7|0
+10|HEVES|048|HEVES|7|Választás eredményes|7|1
+11|JÁSZ|016|JÁSZBERÉNY|7|Választás eredményes|9|0
+11|JÁSZ|027|KARCAG|7|Választás eredményes|7|1
+11|JÁSZ|031|KISÚJSZÁLLÁS|7|Választás eredményes|7|0
+11|JÁSZ|036|KUNSZENTMÁRTON|7|Választás eredményes|7|1
+11|JÁSZ|040|MEZÕTÚR|7|Választás eredményes|7|0
+11|JÁSZ|052|SZOLNOK|7|Választás eredményes|11|0
+11|JÁSZ|056|TISZAFÖLDVÁR|7|Választás eredményes|7|0
+11|JÁSZ|057|TISZAFÜRED|7|Választás eredményes|7|0
+11|JÁSZ|074|TÖRÖKSZENTMIKLÓS|7|Választás eredményes|7|0
+11|JÁSZ|075|TÚRKEVE|7|Választás eredményes|7|0
+12|KOMÁROM|023|DOROG|7|Választás eredményes|7|1
+12|KOMÁROM|028|ESZTERGOM|7|Választás eredményes|9|0
+12|KOMÁROM|038|KOMÁROM|7|Választás eredményes|7|0
+12|KOMÁROM|051|OROSZLÁNY|7|Választás eredményes|7|0
+12|KOMÁROM|063|TATA|7|Választás eredményes|7|0
+12|KOMÁROM|064|TATABÁNYA|7|Választás eredményes|11|1
+13|NÓGRÁD|003|BALASSAGYARMAT|7|Választás eredményes|7|0
+13|NÓGRÁD|006|BÁTONYTERENYE|7|Választás eredményes|7|1
+13|NÓGRÁD|096|PÁSZTÓ|7|Választás eredményes|7|0
+13|NÓGRÁD|102|SALGÓTARJÁN|7|Választás eredményes|9|0
+14|PEST|001|ABONY|7|Választás eredményes|7|1
+14|PEST|003|ALBERTIRSA|7|Választás eredményes|7|0
+14|PEST|014|BUDAKESZI|7|Választás eredményes|7|1
+14|PEST|015|BUDAÖRS|7|Választás eredményes|7|1
+14|PEST|017|CEGLÉD|7|Választás eredményes|9|0
+14|PEST|025|DABAS|7|Választás eredményes|7|2
+14|PEST|033|DUNAHARASZTI|7|Választás eredményes|7|2
+14|PEST|034|DUNAKESZI|7|Választás eredményes|9|0
+14|PEST|038|ÉRD|7|Választás eredményes|10|0
+14|PEST|041|FÓT|7|Választás eredményes|7|0
+14|PEST|046|GÖD|7|Választás eredményes|7|0
+14|PEST|047|GÖDÖLLÕ|7|Választás eredményes|9|1
+14|PEST|048|GYÁL|7|Választás eredményes|7|0
+14|PEST|049|GYÖMRÕ|7|Választás eredményes|7|0
+14|PEST|085|MONOR|7|Választás eredményes|7|0
+14|PEST|087|NAGYKÁTA|7|Választás eredményes|7|1
+14|PEST|089|NAGYKÕRÖS|7|Választás eredményes|9|0
+14|PEST|102|PÉCEL|7|Választás eredményes|7|1
+14|PEST|112|PILISVÖRÖSVÁR|7|Választás eredményes|7|0
+14|PEST|113|POMÁZ|7|Választás eredményes|7|5
+14|PEST|125|SZÁZHALOMBATTA|7|Választás eredményes|7|0
+14|PEST|126|SZENTENDRE|7|Választás eredményes|7|0
+14|PEST|131|SZIGETHALOM|7|Választás eredményes|7|0
+14|PEST|134|SZIGETSZENTMIKLÓS|7|Választás eredményes|7|0
+14|PEST|158|TÖRÖKBÁLINT|7|Választás eredményes|7|0
+14|PEST|169|VÁC|7|Választás eredményes|9|0
+14|PEST|177|VECSÉS|7|Választás eredményes|7|1
+15|SOMOGY|020|BARCS|7|Választás eredményes|7|1
+15|SOMOGY|091|KAPOSVÁR|7|Választás eredményes|11|0
+15|SOMOGY|123|MARCALI|7|Választás eredményes|7|0
+15|SOMOGY|130|NAGYATÁD|7|Választás eredményes|7|0
+15|SOMOGY|175|SIÓFOK|7|Választás eredményes|7|0
+16|SZABOLCS|077|KISVÁRDA|7|Választás eredményes|7|1
+16|SZABOLCS|094|MÁTÉSZALKA|7|Választás eredményes|7|2
+16|SZABOLCS|106|NAGYKÁLLÓ|7|Választás eredményes|7|0
+16|SZABOLCS|112|NYÍRBÁTOR|7|Választás eredményes|7|1
+16|SZABOLCS|119|NYÍREGYHÁZA|7|Választás eredményes|14|0
+16|SZABOLCS|204|TISZAVASVÁRI|7|Választás eredményes|7|0
+16|SZABOLCS|217|ÚJFEHÉRTÓ|7|Választás eredményes|7|0
+17|TOLNA|011|BONYHÁD|7|Választás eredményes|7|1
+17|TOLNA|020|DOMBÓVÁR|7|Választás eredményes|7|0
+17|TOLNA|079|PAKS|7|Választás eredményes|7|0
+17|TOLNA|095|SZEKSZÁRD|7|Választás eredményes|9|0
+17|TOLNA|096|TAMÁSI|7|Választás eredményes|7|0
+17|TOLNA|099|TOLNA|7|Választás eredményes|7|1
+18|VAS|020|CELLDÖMÖLK|7|Választás eredményes|7|0
+18|VAS|095|KÖRMEND|7|Választás eredményes|7|1
+18|VAS|096|KÕSZEG|7|Választás eredményes|7|1
+18|VAS|167|SÁRVÁR|7|Választás eredményes|7|0
+18|VAS|186|SZOMBATHELY|7|Választás eredményes|11|0
+19|VESZPRÉM|003|AJKA|7|Választás eredményes|9|0
+19|VESZPRÉM|029|BALATONFÜRED|7|Választás eredményes|7|0
+19|VESZPRÉM|158|PÁPA|7|Választás eredményes|9|0
+19|VESZPRÉM|195|TAPOLCA|7|Választás eredményes|7|0
+19|VESZPRÉM|208|VÁRPALOTA|7|Választás eredményes|7|0
+19|VESZPRÉM|210|VESZPRÉM|7|Választás eredményes|11|1
+20|ZALA|093|KESZTHELY|7|Választás eredményes|7|0
+20|ZALA|134|NAGYKANIZSA|7|Választás eredményes|10|1
+20|ZALA|231|ZALAEGERSZEG|7|Választás eredményes|11|0

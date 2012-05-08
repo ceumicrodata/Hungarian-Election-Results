@@ -1,0 +1,96 @@
+01|3|  1| 1|    38|LEHET MÁS A POLITIKA                                                                      |
+01|3|  2| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+01|3|  2| 2|   189|Kereszténydemokrata Néppárt                                                               |
+01|3|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+01|3|  4| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+02|2|  1| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+02|2|  1| 2|   189|Kereszténydemokrata Néppárt                                                               |
+02|2|  2| 1|    38|LEHET MÁS A POLITIKA                                                                      |
+02|2|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+02|2|  4| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+02|2|  5| 1|   464|Baranyai Emberekért Szövetség                                                             |
+03|2|  1| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+03|2|  2| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+03|2|  2| 2|   189|Kereszténydemokrata Néppárt                                                               |
+03|2|  3| 1|    38|LEHET MÁS A POLITIKA                                                                      |
+03|2|  4| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|2|  1| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+04|2|  1| 2|   189|Kereszténydemokrata Néppárt                                                               |
+04|2|  2| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+04|2|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+05|2|  1| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+05|2|  1| 2|   189|Kereszténydemokrata Néppárt                                                               |
+05|2|  2| 1|    38|LEHET MÁS A POLITIKA                                                                      |
+05|2|  3| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+05|2|  4| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+06|2|  1| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+06|2|  2| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+06|2|  2| 2|   189|Kereszténydemokrata Néppárt                                                               |
+06|2|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+06|2|  4| 1|   612|Polgári Szövetség Makóért                                                                 |
+06|2|  5| 1|   479|Városépítõk Társasága Egyesület                                                           |
+07|2|  1| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+07|2|  2| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+07|2|  3| 1|   586|FEJÉR MEGYEI TELEPÜLÉSEKÉRT EGYESÜLET                                                     |
+07|2|  4| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+07|2|  4| 2|   189|Kereszténydemokrata Néppárt                                                               |
+08|2|  1| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+08|2|  2| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+08|2|  2| 2|   189|Kereszténydemokrata Néppárt                                                               |
+08|2|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+09|2|  1| 1|    38|LEHET MÁS A POLITIKA                                                                      |
+09|2|  2| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+09|2|  2| 2|   189|Kereszténydemokrata Néppárt                                                               |
+09|2|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+09|2|  4| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+10|2|  1| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+10|2|  1| 2|   189|Kereszténydemokrata Néppárt                                                               |
+10|2|  2| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+10|2|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+11|2|  1| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+11|2|  2| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+11|2|  3| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+11|2|  3| 2|   189|Kereszténydemokrata Néppárt                                                               |
+12|2|  1| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+12|2|  2| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+12|2|  3| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+12|2|  3| 2|   189|Kereszténydemokrata Néppárt                                                               |
+13|2|  1| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+13|2|  2| 1|    37|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                              |
+13|2|  3| 1|   661|CIVILEK A MEGYÉÉRT EGYESÜLET                                                              |
+13|2|  4| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+13|2|  5| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+13|2|  5| 2|   189|Kereszténydemokrata Néppárt                                                               |
+14|2|  1| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+14|2|  1| 2|   189|Kereszténydemokrata Néppárt                                                               |
+14|2|  2| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+14|2|  3| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+15|2|  1| 1|   653|SOMOGY POLGÁRAIÉRT EGYESÜLET                                                              |
+15|2|  2| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+15|2|  2| 2|   189|Kereszténydemokrata Néppárt                                                               |
+15|2|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+15|2|  4| 1|    10|SOMOGYÉRT EGYESÜLET                                                                       |
+15|2|  5| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+16|2|  1| 1|   105|ÖSSZEFOGÁS SZABOLCS-SZATMÁR- BEREG MEGYE FELEMELKEDÉSÉÉRT SZÖVETSÉG                       |
+16|2|  2| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+16|2|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+16|2|  4| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+16|2|  4| 2|   189|Kereszténydemokrata Néppárt                                                               |
+17|2|  1| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+17|2|  2| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+17|2|  2| 2|   189|Kereszténydemokrata Néppárt                                                               |
+17|2|  3| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+18|2|  1| 1|   559|SZOLIDARITÁS A VIDÉKKEL MOZGALOM                                                          |
+18|2|  2| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+18|2|  2| 2|   189|Kereszténydemokrata Néppárt                                                               |
+18|2|  3| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+18|2|  4| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+19|2|  1| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+19|2|  1| 2|   189|Kereszténydemokrata Néppárt                                                               |
+19|2|  2| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+19|2|  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+20|2|  1| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+20|2|  2| 1|   621|Zala-menti Polgármesterek és Polgárok Egyesülete                                          |
+20|2|  3| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+20|2|  4| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+20|2|  4| 2|   189|Kereszténydemokrata Néppárt                                                               |

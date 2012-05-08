@@ -1,0 +1,276 @@
+01|BUDAPEST  |003|BUDAPEST          03|00100302|FÜGGETLEN CIGÁNY              |01|00024840|    FÁTYOL MIHÁLY                       |3|nem nyert
+01|BUDAPEST  |008|BUDAPEST          08|00100802|FÜGGETLEN CIGÁNY              |01|00054351|    CSORBA ZOLTÁN                       |2|kedvezményes mandátumot nyert
+01|BUDAPEST  |008|BUDAPEST          08|00100802|FÜGGETLEN CIGÁNY              |02|00056057|    OLÁH GÁBOR                          |3|nem nyert
+01|BUDAPEST  |008|BUDAPEST          08|00100802|FÜGGETLEN CIGÁNY              |03|00037935|    SZABÓ LÁSZLÓ                        |3|nem nyert
+01|BUDAPEST  |009|BUDAPEST          09|00100902|FÜGGETLEN CIGÁNY              |01|00047102|    KOVÁCS ÁRPÁD                        |3|nem nyert
+01|BUDAPEST  |009|BUDAPEST          09|00100902|FÜGGETLEN CIGÁNY              |02|00059510|    KOVÁCS JÓZSEF                       |3|nem nyert
+01|BUDAPEST  |009|BUDAPEST          09|00100902|FÜGGETLEN CIGÁNY              |03|00074306|    KOVÁCS ÁRPÁDNÉ                      |3|nem nyert
+01|BUDAPEST  |010|BUDAPEST          10|00101002|FÜGGETLEN CIGÁNY              |01|00069541|ÖZV SÁNDORNÉ FARKAS KATALIN             |3|nem nyert
+01|BUDAPEST  |010|BUDAPEST          10|00101002|FÜGGETLEN CIGÁNY              |02|00007991|    DANYI SÁNDOR                        |3|nem nyert
+01|BUDAPEST  |015|BUDAPEST          15|00101502|FÜGGETLEN CIGÁNY              |01|00050206|    BALOGH GYULA                        |3|nem nyert
+01|BUDAPEST  |015|BUDAPEST          15|00101502|FÜGGETLEN CIGÁNY              |02|00023465|    PÁVA JÁNOS                          |3|nem nyert
+01|BUDAPEST  |015|BUDAPEST          15|00101502|FÜGGETLEN CIGÁNY              |03|00058349|    RAFFAEL JÓZSEF                      |3|nem nyert
+01|BUDAPEST  |016|BUDAPEST          16|00101602|FÜGGETLEN CIGÁNY              |01|00039574|    KARSAI ANDRÁS                       |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102102|FÜGGETLEN CIGÁNY              |01|00065196|    KÖLLÕ FERENCNÉ                      |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102102|FÜGGETLEN CIGÁNY              |02|00040094|    KOVÁCS FERENC                       |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102102|FÜGGETLEN CIGÁNY              |03|00066666|    FEHÉR TIBORNÉ                       |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102106|FÜGGETLEN NÉMET               |01|00071253|    LÁSZLÓNÉ BALÁZSOVITS MAGDOLNA       |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102106|FÜGGETLEN NÉMET               |02|00066706|    KATONA ISTVÁNNÉ                     |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102106|FÜGGETLEN NÉMET               |03|00059992|    KALTENECKER GÁBOR                   |2|kedvezményes mandátumot nyert
+01|BUDAPEST  |022|BUDAPEST          22|00102202|FÜGGETLEN CIGÁNY              |01|00052104|    DARÓCZI KÁROLY                      |3|nem nyert
+01|BUDAPEST  |023|BUDAPEST          23|00102327|FÜGGETLEN NÉMET               |01|00004122|    FRÖMMEL GYULA                       |3|nem nyert
+01|BUDAPEST  |023|BUDAPEST          23|00102327|FÜGGETLEN NÉMET               |02|00065938|    SÁGHINÉ DR. HARTAI VERONIKA         |3|nem nyert
+01|BUDAPEST  |023|BUDAPEST          23|00102327|FÜGGETLEN NÉMET               |03|00050096|    JELENIK ISTVÁN                      |2|kedvezményes mandátumot nyert
+02|BARANYA   |138|KOMLÓ               |00213802|FÜGGETLEN CIGÁNY              |01|00033136|    KOMLÓSI MIHÁLY                      |3|nem nyert
+02|BARANYA   |138|KOMLÓ               |00213802|FÜGGETLEN CIGÁNY              |02|00057024|    KUN GÉZA                            |3|nem nyert
+02|BARANYA   |138|KOMLÓ               |00213802|FÜGGETLEN CIGÁNY              |03|00050857|    ORSÓS ISTVÁN                        |3|nem nyert
+02|BARANYA   |138|KOMLÓ               |00213802|FÜGGETLEN CIGÁNY              |04|00067703|    ORSÓSNÉ MÁN ANNA                    |3|nem nyert
+02|BARANYA   |138|KOMLÓ               |00213806|FÜGGETLEN NÉMET               |01|00011752|    GUTH FERENC                         |2|kedvezményes mandátumot nyert
+02|BARANYA   |182|MOHÁCS              |00218202|FÜGGETLEN CIGÁNY              |01|00076135|    KRIZBAI ÉVA                         |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218202|FÜGGETLEN CIGÁNY              |02|00073892|    MIHÁLOVICS IBOLYA                   |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218202|FÜGGETLEN CIGÁNY              |03|00074713|    MIHÁLOVICS JÓZSEFNÉ                 |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218202|FÜGGETLEN CIGÁNY              |04|00029325|    KOVÁCS JÓZSEF                       |2|kedvezményes mandátumot nyert
+02|BARANYA   |182|MOHÁCS              |00218202|FÜGGETLEN CIGÁNY              |05|00076343|    HEGEDÛS CSILLA                      |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218202|FÜGGETLEN CIGÁNY              |06|00043341|    PETROVICS IMRE                      |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218204|FÜGGETLEN HORVÁT              |01|00034381|    LOVÁK ANTAL PÁL                     |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218206|FÜGGETLEN NÉMET               |01|00029233|    RUZSEK KÁROLY                       |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218206|FÜGGETLEN NÉMET               |02|00012743|    KOLBACH FERENC                      |1|nyert
+02|BARANYA   |182|MOHÁCS              |00218206|FÜGGETLEN NÉMET               |03|00025658|    APPL GÁSPÁR                         |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218206|FÜGGETLEN NÉMET               |04|00067996|    JÖRG JUDIT                          |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218206|FÜGGETLEN NÉMET               |05|00027914|    WIRTH GYÖRGY                        |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218206|FÜGGETLEN NÉMET               |06|00045690|    MOSZTBACHER JÓZSEF                  |3|nem nyert
+02|BARANYA   |182|MOHÁCS              |00218206|FÜGGETLEN NÉMET               |07|00035968|    MAUSZ MIHÁLY                        |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221802|FÜGGETLEN CIGÁNY              |01|00043500|    KARDOS JÓZSEF                       |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221802|FÜGGETLEN CIGÁNY              |02|00041213|    ORSÓS FERENC                        |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221802|FÜGGETLEN CIGÁNY              |03|00014812|    ORSÓS PÉTER                         |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |01|00024688|    ALBRECHT ISTVÁN                     |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |02|00046521|    BAUMGARTNER JÓZSEF                  |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |03|00006325|    BRANDT FERENC                       |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |04|00061734|    FISCHER FRIGYESNÉ                   |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |05|00059715|    FORR BÁLINT                         |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |06|00068556|    GRÁF VILMOSNÉ                       |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |07|00041015|    HEIL HELMUT FRIGYES                 |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |08|00016289|    HERR JÁNOS                          |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |09|00060556|    KADLICSKÓ PÁLNÉ                     |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |10|00000504|    KALTENBACH ÁDÁM                     |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |11|00063569|    KEMLER JÁNOSNÉ                      |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |12|00020317|    KERNER LÕRINC                       |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |13|00066753|    MATKOVITS KRETZ ELEONÓRA            |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |14|00018813|    MISCHINGER ISTVÁN                   |2|kedvezményes mandátumot nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |15|00045965|    MOLNÁR KÁROLY                       |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |16|00012089|    MÜLLER GYÖRGY                       |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |17|00053887|    PENCZEL ZSOLT                       |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |18|00032932|    REIL JÓZSEF                         |3|nem nyert
+02|BARANYA   |218|PÉCS                |00221806|FÜGGETLEN NÉMET               |19|00006407|    SZÉCSEI JÁNOS BÉLA                  |3|nem nyert
+02|BARANYA   |235|SIKLÓS              |00223504|FÜGGETLEN HORVÁT              |01|00048142|    BOSNYÁK MÁRK                        |3|nem nyert
+02|BARANYA   |235|SIKLÓS              |00223504|FÜGGETLEN HORVÁT              |02|00028874|    PÁVICS JÁNOS                        |3|nem nyert
+02|BARANYA   |235|SIKLÓS              |00223504|FÜGGETLEN HORVÁT              |03|00051022|    SZABÓ GÁBOR                         |2|kedvezményes mandátumot nyert
+02|BARANYA   |235|SIKLÓS              |00223506|FÜGGETLEN NÉMET               |01|00001996|    WIRT JÁNOS                          |3|nem nyert
+02|BARANYA   |264|SZIGETVÁR           |00226402|FÜGGETLEN CIGÁNY              |01|00056601|    GÁL JÓZSEF                          |3|nem nyert
+03|BÁCS-KISK.|053|JÁNOSHALMA          |00305302|FÜGGETLEN CIGÁNY              |01|00053580|    KOLOMPÁR LÁSZLÓ                     |2|kedvezményes mandátumot nyert
+03|BÁCS-KISK.|063|KISKÕRÖS            |00306311|FÜGGETLEN SZLOVÁK             |01|00070420|    GYÖRK ERNÕNÉ                        |2|kedvezményes mandátumot nyert
+03|BÁCS-KISK.|065|KISKUNHALAS         |00306502|FÜGGETLEN CIGÁNY              |01|00055453|    STRAUSZ JÁNOS                       |3|nem nyert
+03|BÁCS-KISK.|065|KISKUNHALAS         |00306502|FÜGGETLEN CIGÁNY              |02|00051450|    KOLLÁR KÁROLY                       |3|nem nyert
+03|BÁCS-KISK.|065|KISKUNHALAS         |00306502|FÜGGETLEN CIGÁNY              |03|00035263|    ROSTÁS LÁSZLÓ                       |2|kedvezményes mandátumot nyert
+03|BÁCS-KISK.|065|KISKUNHALAS         |00306502|FÜGGETLEN CIGÁNY              |04|00053901|    MADARÁSZ FERENC                     |3|nem nyert
+03|BÁCS-KISK.|110|TISZAKÉCSKE         |00311002|FÜGGETLEN CIGÁNY              |01|00076812|    KERTÉSZ SZILÁRDNÉ                   |3|nem nyert
+03|BÁCS-KISK.|110|TISZAKÉCSKE         |00311002|FÜGGETLEN CIGÁNY              |02|00023229|    BOROS GÁBOR                         |3|nem nyert
+03|BÁCS-KISK.|110|TISZAKÉCSKE         |00311002|FÜGGETLEN CIGÁNY              |03|00071133|    KEMÉNY SÁNDORNÉ                     |3|nem nyert
+04|BÉKÉS     |003|BÉKÉS               |00400302|FÜGGETLEN CIGÁNY              |01|00001388|    RÁCZ REZSÕ                          |3|nem nyert
+04|BÉKÉS     |003|BÉKÉS               |00400302|FÜGGETLEN CIGÁNY              |02|00051761|    BODOCZKI MIHÁLY                     |3|nem nyert
+04|BÉKÉS     |003|BÉKÉS               |00400302|FÜGGETLEN CIGÁNY              |03|00026225|    RESZELÕ KÁROLY                      |2|kedvezményes mandátumot nyert
+04|BÉKÉS     |003|BÉKÉS               |00400302|FÜGGETLEN CIGÁNY              |04|00043684|    RÓMAI ANTAL LAJOS                   |3|nem nyert
+04|BÉKÉS     |004|BÉKÉSCSABA          |00400411|FÜGGETLEN SZLOVÁK             |01|00071958|    HIRKÁNÉ DR.CSICSELY ILONA           |3|nem nyert
+04|BÉKÉS     |004|BÉKÉSCSABA          |00400411|FÜGGETLEN SZLOVÁK             |02|00009043|    KUTYEJ PÁL                          |2|kedvezményes mandátumot nyert
+04|BÉKÉS     |004|BÉKÉSCSABA          |00400411|FÜGGETLEN SZLOVÁK             |03|00043633|    VOZÁR MÁRTON                        |3|nem nyert
+04|BÉKÉS     |004|BÉKÉSCSABA          |00400411|FÜGGETLEN SZLOVÁK             |04|00045530|    BACZÓVSZKI PÁL                      |3|nem nyert
+04|BÉKÉS     |004|BÉKÉSCSABA          |00400411|FÜGGETLEN SZLOVÁK             |05|00005896|    KOVÁCS JÁNOS                        |3|nem nyert
+04|BÉKÉS     |025|GYOMAENDRÕD         |00402506|FÜGGETLEN NÉMET               |01|00022379|DR  WEIGERT JÓZSEF                      |3|nem nyert
+04|BÉKÉS     |026|GYULA               |00402602|FÜGGETLEN CIGÁNY              |01|00023094|    BOROS KÁROLY                        |3|nem nyert
+04|BÉKÉS     |026|GYULA               |00402608|FÜGGETLEN ROMÁN               |01|00021359|    OROJÁN ISTVÁN                       |2|kedvezményes mandátumot nyert
+04|BÉKÉS     |026|GYULA               |00402608|FÜGGETLEN ROMÁN               |02|00007390|    MÁRK GYÖRGY                         |3|nem nyert
+04|BÉKÉS     |049|MEZÕBERÉNY          |00404902|FÜGGETLEN CIGÁNY              |01|00042766|    MEZEI KÁLMÁN                        |2|kedvezményes mandátumot nyert
+04|BÉKÉS     |049|MEZÕBERÉNY          |00404902|FÜGGETLEN CIGÁNY              |02|00074369|    RÁCZNÉ LAKATOS ERZSÉBET             |3|nem nyert
+04|BÉKÉS     |049|MEZÕBERÉNY          |00404902|FÜGGETLEN CIGÁNY              |03|00053974|    HORVÁTH JÁNOS                       |3|nem nyert
+04|BÉKÉS     |049|MEZÕBERÉNY          |00404906|FÜGGETLEN NÉMET               |01|00023588|    WOLFF ÖDÖN ISTVÁN                   |3|nem nyert
+04|BÉKÉS     |049|MEZÕBERÉNY          |00404906|FÜGGETLEN NÉMET               |02|00002373|    SCHÖN MIHÁLY                        |2|kedvezményes mandátumot nyert
+04|BÉKÉS     |049|MEZÕBERÉNY          |00404911|FÜGGETLEN SZLOVÁK             |01|00061170|    ROZGONYI LÁSZLÓNÉ                   |3|nem nyert
+04|BÉKÉS     |049|MEZÕBERÉNY          |00404911|FÜGGETLEN SZLOVÁK             |02|00073688|    BORGULA GYÖRGYNÉ                    |2|kedvezményes mandátumot nyert
+04|BÉKÉS     |049|MEZÕBERÉNY          |00404911|FÜGGETLEN SZLOVÁK             |03|00073618|    PLESOVSZKI ZSUZSANNA                |3|nem nyert
+04|BÉKÉS     |063|SARKAD              |00406302|FÜGGETLEN CIGÁNY              |01|00065806|    OLÁH KÁROLYNÉ                       |2|kedvezményes mandátumot nyert
+04|BÉKÉS     |063|SARKAD              |00406302|FÜGGETLEN CIGÁNY              |02|00004356|    HORVÁTH ZOLTÁN                      |3|nem nyert
+04|BÉKÉS     |066|SZARVAS             |00406611|FÜGGETLEN SZLOVÁK             |01|00023357|    KEPENYES ANDRÁS                     |3|nem nyert
+04|BÉKÉS     |067|SZEGHALOM           |00406702|FÜGGETLEN CIGÁNY              |01|00066784|    DEMETER FERENCNÉ                    |3|nem nyert
+04|BÉKÉS     |067|SZEGHALOM           |00406702|FÜGGETLEN CIGÁNY              |02|00045045|    GYÖNGYÖSI ISTVÁN                    |2|kedvezményes mandátumot nyert
+04|BÉKÉS     |067|SZEGHALOM           |00406702|FÜGGETLEN CIGÁNY              |03|00031382|    KOVÁCS GYULA                        |3|nem nyert
+04|BÉKÉS     |067|SZEGHALOM           |00406702|FÜGGETLEN CIGÁNY              |04|00039975|    GYÖNGYÖSI SÁNDOR                    |3|nem nyert
+04|BÉKÉS     |067|SZEGHALOM           |00406702|FÜGGETLEN CIGÁNY              |05|00020219|    KONDOROSI RUDOLF                    |3|nem nyert
+04|BÉKÉS     |067|SZEGHALOM           |00406702|FÜGGETLEN CIGÁNY              |06|00057304|    TALPA JÓZSEF                        |3|nem nyert
+05|BORSOD-A-Z|151|KAZINCBARCIKA       |00515102|FÜGGETLEN CIGÁNY              |01|00030684|    FARKAS GYULA                        |3|nem nyert
+05|BORSOD-A-Z|195|MEZÕKÖVESD          |00519502|FÜGGETLEN CIGÁNY              |01|00049598|    FARKAS FÉLIX                        |2|kedvezményes mandátumot nyert
+05|BORSOD-A-Z|195|MEZÕKÖVESD          |00519502|FÜGGETLEN CIGÁNY              |02|00067201|    MOLNÁRNÉ FEHÉR GIZELLA              |3|nem nyert
+05|BORSOD-A-Z|195|MEZÕKÖVESD          |00519502|FÜGGETLEN CIGÁNY              |03|00069912|    OLÁH ANDRÁSNÉ                       |3|nem nyert
+05|BORSOD-A-Z|201|MISKOLC             |00520102|FÜGGETLEN CIGÁNY              |01|00036118|    CSÓKA EMIL                          |3|nem nyert
+05|BORSOD-A-Z|201|MISKOLC             |00520102|FÜGGETLEN CIGÁNY              |02|00021442|    BURAI ALADÁR                        |2|kedvezményes mandátumot nyert
+05|BORSOD-A-Z|201|MISKOLC             |00520102|FÜGGETLEN CIGÁNY              |03|00056739|    KÓTAI ZSOLT                         |3|nem nyert
+05|BORSOD-A-Z|225|ÓZD                 |00522502|FÜGGETLEN CIGÁNY              |01|00024794|    REGÕCZI JÁNOS JÓZSEF                |3|nem nyert
+05|BORSOD-A-Z|225|ÓZD                 |00522502|FÜGGETLEN CIGÁNY              |02|00016438|    BERKI ERNÕ                          |3|nem nyert
+05|BORSOD-A-Z|225|ÓZD                 |00522502|FÜGGETLEN CIGÁNY              |03|00058988|    BALOG PÁL                           |3|nem nyert
+05|BORSOD-A-Z|225|ÓZD                 |00522502|FÜGGETLEN CIGÁNY              |04|00036683|    PÁKÓ FERENC                         |3|nem nyert
+05|BORSOD-A-Z|225|ÓZD                 |00522502|FÜGGETLEN CIGÁNY              |05|00055691|    KÓTAI KÁROLY                        |2|kedvezményes mandátumot nyert
+05|BORSOD-A-Z|225|ÓZD                 |00522502|FÜGGETLEN CIGÁNY              |06|00057627|    MOLNÁR GYÖRGY                       |3|nem nyert
+05|BORSOD-A-Z|225|ÓZD                 |00522502|FÜGGETLEN CIGÁNY              |07|00037802|    BERKI ISTVÁN                        |3|nem nyert
+05|BORSOD-A-Z|225|ÓZD                 |00522502|FÜGGETLEN CIGÁNY              |08|00025875|    GYÕRI ANDRÁS                        |3|nem nyert
+05|BORSOD-A-Z|225|ÓZD                 |00522502|FÜGGETLEN CIGÁNY              |09|00032315|    CZINKA BÉLA                         |3|nem nyert
+05|BORSOD-A-Z|272|SÁROSPATAK          |00527202|FÜGGETLEN CIGÁNY              |01|00034179|    LAKATOS LÁSZLÓ                      |3|nem nyert
+05|BORSOD-A-Z|272|SÁROSPATAK          |00527202|FÜGGETLEN CIGÁNY              |02|00055562|    BUDAI GYULA KÁROLY                  |2|kedvezményes mandátumot nyert
+05|BORSOD-A-Z|272|SÁROSPATAK          |00527202|FÜGGETLEN CIGÁNY              |03|00020762|    GOMBOS GYULA                        |3|nem nyert
+05|BORSOD-A-Z|272|SÁROSPATAK          |00527202|FÜGGETLEN CIGÁNY              |04|00053997|IFJ LAKATOS VIKTOR                      |3|nem nyert
+05|BORSOD-A-Z|272|SÁROSPATAK          |00527202|FÜGGETLEN CIGÁNY              |05|00052824|IFJ BABA JÓZSEF                         |3|nem nyert
+05|BORSOD-A-Z|274|SÁTORALJAÚJHELY     |00527402|FÜGGETLEN CIGÁNY              |01|00005087|    POCHLOT SÁNDOR                      |3|nem nyert
+05|BORSOD-A-Z|274|SÁTORALJAÚJHELY     |00527402|FÜGGETLEN CIGÁNY              |02|00054182|    MÁRTON MIHÁLY                       |2|kedvezményes mandátumot nyert
+05|BORSOD-A-Z|274|SÁTORALJAÚJHELY     |00527402|FÜGGETLEN CIGÁNY              |03|00005500|    TÁNCZOS ISTVÁN                      |3|nem nyert
+05|BORSOD-A-Z|274|SÁTORALJAÚJHELY     |00527411|FÜGGETLEN SZLOVÁK             |01|00053196|    URBÁN LÁSZLÓ                        |2|kedvezményes mandátumot nyert
+05|BORSOD-A-Z|292|SZERENCS            |00529202|FÜGGETLEN CIGÁNY              |01|00047034|    BALOGH ENDRE                        |3|nem nyert
+05|BORSOD-A-Z|292|SZERENCS            |00529202|FÜGGETLEN CIGÁNY              |02|00046792|    BOTOS LÁSZLÓ                        |3|nem nyert
+05|BORSOD-A-Z|292|SZERENCS            |00529202|FÜGGETLEN CIGÁNY              |03|00058504|IFJ BURI JÓZSEF                         |3|nem nyert
+05|BORSOD-A-Z|292|SZERENCS            |00529202|FÜGGETLEN CIGÁNY              |04|00027683|    MAROSVÖLGYI JÁNOS                   |3|nem nyert
+06|CSONGRÁD  |012|CSONGRÁD            |00601202|FÜGGETLEN CIGÁNY              |01|00005562|    RÁCZ BÉLA ISTVÁN                    |3|nem nyert
+06|CSONGRÁD  |012|CSONGRÁD            |00601202|FÜGGETLEN CIGÁNY              |02|00055056|    DEMETER ÁGOSTON LÁSZLÓ              |3|nem nyert
+06|CSONGRÁD  |023|HÓDMEZÕVÁSÁRHELY    |00602302|FÜGGETLEN CIGÁNY              |01|00044476|    BÁNFI ANTAL                         |3|nem nyert
+06|CSONGRÁD  |023|HÓDMEZÕVÁSÁRHELY    |00602302|FÜGGETLEN CIGÁNY              |02|00028528|    BÁNFI PÉTER                         |3|nem nyert
+06|CSONGRÁD  |023|HÓDMEZÕVÁSÁRHELY    |00602302|FÜGGETLEN CIGÁNY              |03|00055486|    KOVÁCS ISTVÁN                       |3|nem nyert
+06|CSONGRÁD  |023|HÓDMEZÕVÁSÁRHELY    |00602302|FÜGGETLEN CIGÁNY              |04|00070790|    HÉJJA GÁBORNÉ                       |2|kedvezményes mandátumot nyert
+06|CSONGRÁD  |023|HÓDMEZÕVÁSÁRHELY    |00602302|FÜGGETLEN CIGÁNY              |05|00015146|    IRHÁS JÓZSEF                        |3|nem nyert
+06|CSONGRÁD  |050|SZEGED              |00605002|FÜGGETLEN CIGÁNY              |01|00031402|    MÚRKA KÁLMÁN                        |3|nem nyert
+06|CSONGRÁD  |050|SZEGED              |00605002|FÜGGETLEN CIGÁNY              |02|00050304|    HAMZA JÁNOS                         |3|nem nyert
+06|CSONGRÁD  |050|SZEGED              |00605002|FÜGGETLEN CIGÁNY              |03|00071389|    KERTÉSZ ROZÁLIA                     |3|nem nyert
+06|CSONGRÁD  |050|SZEGED              |00605002|FÜGGETLEN CIGÁNY              |04|00064105|DR. SZIRTESI ZOLTÁNNÉ                   |3|nem nyert
+06|CSONGRÁD  |050|SZEGED              |00605002|FÜGGETLEN CIGÁNY              |05|00027263|    CZUTOR IMRE                         |3|nem nyert
+06|CSONGRÁD  |052|SZENTES             |00605202|FÜGGETLEN CIGÁNY              |01|00058980|    LÉVAI CSABA                         |3|nem nyert
+06|CSONGRÁD  |052|SZENTES             |00605202|FÜGGETLEN CIGÁNY              |02|00076722|    BELLA SÁNDORNÉ                      |3|nem nyert
+07|FEJÉR     |060|MÓR                 |00706006|FÜGGETLEN NÉMET               |01|00012670|    SCHMIDT FERENC                      |2|kedvezményes mandátumot nyert
+07|FEJÉR     |060|MÓR                 |00706006|FÜGGETLEN NÉMET               |02|00039314|    KAMARÁS JÓZSEF                      |3|nem nyert
+07|FEJÉR     |060|MÓR                 |00706006|FÜGGETLEN NÉMET               |03|00004985|    STOFFER KÁLMÁN                      |3|nem nyert
+07|FEJÉR     |060|MÓR                 |00706006|FÜGGETLEN NÉMET               |04|00034944|    ERDEI FERENC                        |3|nem nyert
+08|GYÕR-M-S  |055|GYÕR                |00805502|FÜGGETLEN CIGÁNY              |01|00038215|    PÁDÁR LÁSZLÓ                        |3|nem nyert
+09|HAJDÚ-B   |005|BALMAZÚJVÁROS       |00900502|FÜGGETLEN CIGÁNY              |01|00049631|    HORVÁTH LÁSZLÓ                      |3|nem nyert
+09|HAJDÚ-B   |005|BALMAZÚJVÁROS       |00900502|FÜGGETLEN CIGÁNY              |02|00059247|    SZÁVA GYULA                         |2|kedvezményes mandátumot nyert
+09|HAJDÚ-B   |005|BALMAZÚJVÁROS       |00900502|FÜGGETLEN CIGÁNY              |03|00057990|    NAGY GYULA                          |3|nem nyert
+09|HAJDÚ-B   |018|DEBRECEN            |00901802|FÜGGETLEN CIGÁNY              |01|00059264|IFJ.BUDAI LÁSZLÓ                        |3|nem nyert
+09|HAJDÚ-B   |018|DEBRECEN            |00901802|FÜGGETLEN CIGÁNY              |02|00028297|    KEGYES SÁNDOR                       |3|nem nyert
+09|HAJDÚ-B   |018|DEBRECEN            |00901802|FÜGGETLEN CIGÁNY              |03|00038477|    BALOGH JÁNOS                        |3|nem nyert
+09|HAJDÚ-B   |018|DEBRECEN            |00901802|FÜGGETLEN CIGÁNY              |04|00023261|    BUDAI LÁSZLÓ                        |3|nem nyert
+09|HAJDÚ-B   |018|DEBRECEN            |00901802|FÜGGETLEN CIGÁNY              |05|00055356|    GYÖNGYÖSI CSABA                     |3|nem nyert
+09|HAJDÚ-B   |018|DEBRECEN            |00901802|FÜGGETLEN CIGÁNY              |06|00026995|    VIRÁG SÁNDOR                        |3|nem nyert
+09|HAJDÚ-B   |018|DEBRECEN            |00901802|FÜGGETLEN CIGÁNY              |07|00040726|    BUDAI MIKLÓS                        |3|nem nyert
+09|HAJDÚ-B   |030|HAJDÚBÖSZÖRMÉNY     |00903002|FÜGGETLEN CIGÁNY              |01|00029894|    NAGY JÓZSEF                         |7|Máshol nyert mandátumot
+09|HAJDÚ-B   |032|HAJDÚHADHÁZ         |00903202|FÜGGETLEN CIGÁNY              |01|00046649|    VADÁSZ LÁSZLÓ                       |3|nem nyert
+09|HAJDÚ-B   |032|HAJDÚHADHÁZ         |00903202|FÜGGETLEN CIGÁNY              |02|00040526|    ROSTÁS ZSIGMOND                     |2|kedvezményes mandátumot nyert
+09|HAJDÚ-B   |032|HAJDÚHADHÁZ         |00903202|FÜGGETLEN CIGÁNY              |03|00059274|    TUGYI JÁNOS                         |3|nem nyert
+09|HAJDÚ-B   |032|HAJDÚHADHÁZ         |00903202|FÜGGETLEN CIGÁNY              |04|00053738|    BERNÁTH ISTVÁN                      |3|nem nyert
+09|HAJDÚ-B   |032|HAJDÚHADHÁZ         |00903202|FÜGGETLEN CIGÁNY              |05|00046947|    VARGA GÉZA                          |3|nem nyert
+09|HAJDÚ-B   |032|HAJDÚHADHÁZ         |00903202|FÜGGETLEN CIGÁNY              |06|00049679|    LAKATOS DEZSÕ                       |3|nem nyert
+10|HEVES     |025|EGER                |01002502|FÜGGETLEN CIGÁNY              |01|00030736|    CSÍK BÉLA                           |3|nem nyert
+10|HEVES     |025|EGER                |01002502|FÜGGETLEN CIGÁNY              |02|00001473|    BÁDER JÓZSEF                        |3|nem nyert
+10|HEVES     |025|EGER                |01002502|FÜGGETLEN CIGÁNY              |03|00018187|    KOVÁCS MIHÁLY                       |3|nem nyert
+10|HEVES     |025|EGER                |01002502|FÜGGETLEN CIGÁNY              |04|00024015|    LAKATOS LAJOS                       |3|nem nyert
+10|HEVES     |025|EGER                |01002502|FÜGGETLEN CIGÁNY              |05|00013991|    OLÁH SÁNDOR                         |3|nem nyert
+10|HEVES     |025|EGER                |01002502|FÜGGETLEN CIGÁNY              |06|00046918|    LAKATOS OSZKÁR                      |2|kedvezményes mandátumot nyert
+10|HEVES     |039|GYÖNGYÖS            |01003902|FÜGGETLEN CIGÁNY              |01|00068727|    NAGY ANDRÁSNÉ                       |3|nem nyert
+10|HEVES     |039|GYÖNGYÖS            |01003902|FÜGGETLEN CIGÁNY              |02|00027619|    KONKOLY FERENC                      |3|nem nyert
+10|HEVES     |046|HATVAN              |01004602|FÜGGETLEN CIGÁNY              |01|00028717|    CSOLLÁK TIBOR                       |3|nem nyert
+10|HEVES     |048|HEVES               |01004802|FÜGGETLEN CIGÁNY              |01|00015040|    LÓLÉ MIHÁLY                         |3|nem nyert
+11|JÁSZ-NK-SZ|026|KARCAG              |01102602|FÜGGETLEN CIGÁNY              |01|00026570|    LÁZÓK ÁDÁM                          |3|nem nyert
+11|JÁSZ-NK-SZ|052|SZOLNOK             |01105202|FÜGGETLEN CIGÁNY              |01|00074859|    KÁLLAI KATALIN                      |3|nem nyert
+11|JÁSZ-NK-SZ|052|SZOLNOK             |01105202|FÜGGETLEN CIGÁNY              |02|00047901|DR. PÁLFI MIKLÓS                        |3|nem nyert
+11|JÁSZ-NK-SZ|052|SZOLNOK             |01105202|FÜGGETLEN CIGÁNY              |03|00068680|    BERECZKI JÓZSEFNÉ                   |3|nem nyert
+12|KOMÁROM-E |027|ESZTERGOM           |01202702|FÜGGETLEN CIGÁNY              |01|00042205|    SÁRKÖZI SÁNDOR                      |3|nem nyert
+12|KOMÁROM-E |027|ESZTERGOM           |01202711|FÜGGETLEN SZLOVÁK             |01|00028433|    MINCZÉR KÁLMÁN                      |7|Máshol nyert mandátumot
+12|KOMÁROM-E |063|TATABÁNYA           |01206302|FÜGGETLEN CIGÁNY              |01|00025378|    JÁRÓKA ISTVÁN                       |3|nem nyert
+12|KOMÁROM-E |063|TATABÁNYA           |01206302|FÜGGETLEN CIGÁNY              |02|00006091|    VIRÁG ALBERT                        |3|nem nyert
+12|KOMÁROM-E |063|TATABÁNYA           |01206306|FÜGGETLEN NÉMET               |99|00015470|    MERCZ GÁSPÁR                        |3|nem nyert
+13|NÓGRÁD    |006|BÁTONYTERENYE       |01300602|FÜGGETLEN CIGÁNY              |01|00074921|    RADICS GYULÁNÉ                      |3|nem nyert
+13|NÓGRÁD    |006|BÁTONYTERENYE       |01300602|FÜGGETLEN CIGÁNY              |02|00073966|    MEZEI ANGÉLA                        |3|nem nyert
+13|NÓGRÁD    |006|BÁTONYTERENYE       |01300602|FÜGGETLEN CIGÁNY              |03|00049756|    BANGÓ TAMÁS                         |3|nem nyert
+13|NÓGRÁD    |006|BÁTONYTERENYE       |01300602|FÜGGETLEN CIGÁNY              |04|00028646|    CSIKÓS JÁNOS                        |2|kedvezményes mandátumot nyert
+13|NÓGRÁD    |006|BÁTONYTERENYE       |01300602|FÜGGETLEN CIGÁNY              |05|00075439|    DARÓCZI SÁNDORNÉ                    |3|nem nyert
+13|NÓGRÁD    |006|BÁTONYTERENYE       |01300602|FÜGGETLEN CIGÁNY              |06|00043368|    CSIKÓS JÓZSEF                       |3|nem nyert
+13|NÓGRÁD    |096|PÁSZTÓ              |01309602|FÜGGETLEN CIGÁNY              |01|00002305|    VÁRHELYI ANDRÁS LAJOS               |2|kedvezményes mandátumot nyert
+13|NÓGRÁD    |103|SALGÓTARJÁN         |01310302|FÜGGETLEN CIGÁNY              |01|00058597|    VIDÁK LAJOS                         |3|nem nyert
+13|NÓGRÁD    |103|SALGÓTARJÁN         |01310302|FÜGGETLEN CIGÁNY              |02|00039914|    HRANEK FERENC                       |3|nem nyert
+13|NÓGRÁD    |103|SALGÓTARJÁN         |01310302|FÜGGETLEN CIGÁNY              |03|00051688|    RÁCZ CSABA                          |3|nem nyert
+13|NÓGRÁD    |103|SALGÓTARJÁN         |01310302|FÜGGETLEN CIGÁNY              |04|00077196|    CSÉPE RENÁTA                        |3|nem nyert
+13|NÓGRÁD    |103|SALGÓTARJÁN         |01310302|FÜGGETLEN CIGÁNY              |05|00072862|    RÁCZ GÉZÁNÉ                         |3|nem nyert
+14|PEST      |001|ABONY               |01400102|FÜGGETLEN CIGÁNY              |01|00033838|    RAFFAI LÁSZLÓ                       |2|kedvezményes mandátumot nyert
+14|PEST      |014|BUDAKESZI           |01401406|FÜGGETLEN NÉMET               |01|00033165|    MERKL ALADÁR                        |2|kedvezményes mandátumot nyert
+14|PEST      |014|BUDAKESZI           |01401406|FÜGGETLEN NÉMET               |02|00060309|    VARGA JÓZSEFNÉ                      |3|nem nyert
+14|PEST      |015|BUDAÖRS             |01401506|FÜGGETLEN NÉMET               |01|00022320|    KÁHN JÁNOS                          |3|nem nyert
+14|PEST      |025|DABAS               |01402511|FÜGGETLEN SZLOVÁK             |01|00059602|    GARAJSZKI LÁSZLÓ                    |2|kedvezményes mandátumot nyert
+14|PEST      |033|DUNAHARASZTI        |01403306|FÜGGETLEN NÉMET               |01|00059110|    ZWICK ANDRÁS                        |3|nem nyert
+14|PEST      |033|DUNAHARASZTI        |01403306|FÜGGETLEN NÉMET               |02|00068826|    VERSÁNSZKI ANNA                     |3|nem nyert
+14|PEST      |033|DUNAHARASZTI        |01403306|FÜGGETLEN NÉMET               |03|00038465|    KALTENECKER FERENC                  |2|kedvezményes mandátumot nyert
+14|PEST      |034|DUNAKESZI           |01403402|FÜGGETLEN CIGÁNY              |01|00013916|    BORSOS JÓZSEF                       |3|nem nyert
+14|PEST      |034|DUNAKESZI           |01403402|FÜGGETLEN CIGÁNY              |02|00052943|    BORSOS JÁNOS                        |3|nem nyert
+14|PEST      |087|NAGYKÁTA            |01408702|FÜGGETLEN CIGÁNY              |01|00040378|    CSIKÓS GÁBOR                        |3|nem nyert
+14|PEST      |087|NAGYKÁTA            |01408702|FÜGGETLEN CIGÁNY              |02|00030679|    RAFAEL PÁL                          |3|nem nyert
+14|PEST      |087|NAGYKÁTA            |01408702|FÜGGETLEN CIGÁNY              |03|00054271|    CSIKÓS SÁNDOR                       |2|kedvezményes mandátumot nyert
+14|PEST      |087|NAGYKÁTA            |01408702|FÜGGETLEN CIGÁNY              |04|00054230|    JAKAB PÉTER                         |3|nem nyert
+14|PEST      |102|PÉCEL               |01410202|FÜGGETLEN CIGÁNY              |01|00051471|    BOGDÁN TIBOR                        |3|nem nyert
+14|PEST      |102|PÉCEL               |01410202|FÜGGETLEN CIGÁNY              |02|00018448|    SÁRKÖZI FRIGYES                     |3|nem nyert
+14|PEST      |112|PILISVÖRÖSVÁR       |01411206|FÜGGETLEN NÉMET               |01|00029092|    ELSAND GYÖRGY                       |3|nem nyert
+14|PEST      |112|PILISVÖRÖSVÁR       |01411206|FÜGGETLEN NÉMET               |02|00009549|    SÖRÖS JÁNOS                         |2|kedvezményes mandátumot nyert
+14|PEST      |113|POMÁZ               |01411302|FÜGGETLEN CIGÁNY              |01|00031064|    KASSAI JÁNOS VILMOS                 |2|kedvezményes mandátumot nyert
+14|PEST      |113|POMÁZ               |01411306|FÜGGETLEN NÉMET               |01|00012071|    ÉCSY LÁSZLÓ PÁL                     |3|nem nyert
+14|PEST      |113|POMÁZ               |01411310|FÜGGETLEN SZERB               |01|00019759|    CSOBÁN SZVETOZÁR                    |3|nem nyert
+14|PEST      |113|POMÁZ               |01411310|FÜGGETLEN SZERB               |02|00029490|    GOLUB ATHANÁSZ                      |3|nem nyert
+14|PEST      |113|POMÁZ               |01411310|FÜGGETLEN SZERB               |03|00045159|    NYÁRI IVÁN DOBRIVOJ                 |2|kedvezményes mandátumot nyert
+14|PEST      |126|SZENTENDRE          |01412604|FÜGGETLEN HORVÁT              |01|00013211|    L. KECSKÉS ANDRÁS                   |3|nem nyert
+14|PEST      |126|SZENTENDRE          |01412606|FÜGGETLEN NÉMET               |01|00017416|    GAVRILOVITS SÁNDOR                  |2|kedvezményes mandátumot nyert
+14|PEST      |126|SZENTENDRE          |01412606|FÜGGETLEN NÉMET               |02|00055465|    ZAUER GÁBOR                         |3|nem nyert
+14|PEST      |126|SZENTENDRE          |01412611|FÜGGETLEN SZLOVÁK             |01|00026029|    DOMBAI GÉZA                         |3|nem nyert
+14|PEST      |169|VÁC                 |01416902|FÜGGETLEN CIGÁNY              |01|00046507|    HORVÁTH ANDRÁS                      |3|nem nyert
+14|PEST      |177|VECSÉS              |01417706|FÜGGETLEN NÉMET               |01|00023845|    MÁR JÁNOS                           |3|nem nyert
+14|PEST      |177|VECSÉS              |01417706|FÜGGETLEN NÉMET               |02|00048648|    PALOTAI PÁL                         |3|nem nyert
+15|SOMOGY    |019|BARCS               |01501902|FÜGGETLEN CIGÁNY              |01|00051390|    SZEGEDI TIBOR                       |3|nem nyert
+15|SOMOGY    |019|BARCS               |01501902|FÜGGETLEN CIGÁNY              |02|00052401|    BALOGH IMRE                         |3|nem nyert
+15|SOMOGY    |091|KAPOSVÁR            |01509102|FÜGGETLEN CIGÁNY              |01|00025729|    KOMPÁK GYÖRGY                       |3|nem nyert
+15|SOMOGY    |091|KAPOSVÁR            |01509102|FÜGGETLEN CIGÁNY              |02|00075874|    BOTI TIBORNÉ                        |3|nem nyert
+15|SOMOGY    |091|KAPOSVÁR            |01509102|FÜGGETLEN CIGÁNY              |03|00028915|    SÁNTA JÓZSEF                        |3|nem nyert
+15|SOMOGY    |091|KAPOSVÁR            |01509102|FÜGGETLEN CIGÁNY              |04|00019460|    CSONKA JÁNOS                        |3|nem nyert
+15|SOMOGY    |091|KAPOSVÁR            |01509102|FÜGGETLEN CIGÁNY              |05|00069871|    GUZMICS BÉLÁNÉ                      |3|nem nyert
+15|SOMOGY    |122|MARCALI             |01512202|FÜGGETLEN CIGÁNY              |01|00052353|    ROSTÁS ÁRPÁD                        |3|nem nyert
+15|SOMOGY    |129|NAGYATÁD            |01512902|FÜGGETLEN CIGÁNY              |01|00067899|    IGNÁCZ IMRÉNÉ                       |3|nem nyert
+16|SZABOLCS  |077|KISVÁRDA            |01607702|FÜGGETLEN CIGÁNY              |01|00030301|    DANCS ISTVÁN                        |3|nem nyert
+16|SZABOLCS  |077|KISVÁRDA            |01607702|FÜGGETLEN CIGÁNY              |02|00045453|    DANCS KÁROLY                        |3|nem nyert
+16|SZABOLCS  |106|NAGYKÁLLÓ           |01610602|FÜGGETLEN CIGÁNY              |01|00027650|    DÉR JÓZSEF FERENC                   |3|nem nyert
+16|SZABOLCS  |112|NYÍRBÁTOR           |01611202|FÜGGETLEN CIGÁNY              |01|00000340|    BUGA RUDOLF                         |3|nem nyert
+16|SZABOLCS  |112|NYÍRBÁTOR           |01611202|FÜGGETLEN CIGÁNY              |02|00045302|    VÁRADI GÁBOR                        |2|kedvezményes mandátumot nyert
+16|SZABOLCS  |119|NYÍREGYHÁZA         |01611902|FÜGGETLEN CIGÁNY              |01|00058559|    DANDÓCZI GYÖRGY                     |3|nem nyert
+16|SZABOLCS  |119|NYÍREGYHÁZA         |01611902|FÜGGETLEN CIGÁNY              |02|00002644|    FARKAS KÁLMÁN                       |3|nem nyert
+16|SZABOLCS  |119|NYÍREGYHÁZA         |01611902|FÜGGETLEN CIGÁNY              |03|00004577|    FARKAS TIBOR                        |3|nem nyert
+16|SZABOLCS  |119|NYÍREGYHÁZA         |01611902|FÜGGETLEN CIGÁNY              |04|00048360|    JÓNÁS BÉLA                          |3|nem nyert
+16|SZABOLCS  |119|NYÍREGYHÁZA         |01611902|FÜGGETLEN CIGÁNY              |05|00075648|    PONGÓ KÁROLYNÉ                      |2|kedvezményes mandátumot nyert
+16|SZABOLCS  |119|NYÍREGYHÁZA         |01611911|FÜGGETLEN SZLOVÁK             |01|00004895|    GARAI MIHÁLY                        |3|nem nyert
+17|TOLNA     |011|BONYHÁD             |01701102|FÜGGETLEN CIGÁNY              |01|00045623|    BOGDÁN SÁNDOR                       |3|nem nyert
+17|TOLNA     |011|BONYHÁD             |01701106|FÜGGETLEN NÉMET               |01|00003360|    TILL JÁNOS                          |3|nem nyert
+17|TOLNA     |011|BONYHÁD             |01701106|FÜGGETLEN NÉMET               |02|00008057|    RITTINGER  ANTAL                    |3|nem nyert
+17|TOLNA     |011|BONYHÁD             |01701106|FÜGGETLEN NÉMET               |03|00000116|    HOFMEISTER LAJOS                    |3|nem nyert
+17|TOLNA     |011|BONYHÁD             |01701106|FÜGGETLEN NÉMET               |04|00070361|DR. ACSÁDI MARIANNA                     |3|nem nyert
+17|TOLNA     |011|BONYHÁD             |01701106|FÜGGETLEN NÉMET               |05|00002837|    FRAJDA MIHÁLY                       |3|nem nyert
+17|TOLNA     |011|BONYHÁD             |01701106|FÜGGETLEN NÉMET               |06|00072113|    VASZARINÉ HORVÁTH KLÁRA             |3|nem nyert
+17|TOLNA     |011|BONYHÁD             |01701106|FÜGGETLEN NÉMET               |07|00043617|    FETZER GÁBOR                        |3|nem nyert
+17|TOLNA     |011|BONYHÁD             |01701106|FÜGGETLEN NÉMET               |08|00020008|    JENEI JÓZSEF                        |1|nyert
+17|TOLNA     |096|TAMÁSI              |01709602|FÜGGETLEN CIGÁNY              |01|00057190|    KALÁNYOS ISTVÁN                     |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709902|FÜGGETLEN CIGÁNY              |01|00073006|    FERGENCS LÁSZLÓNÉ                   |2|kedvezményes mandátumot nyert
+17|TOLNA     |099|TOLNA               |01709902|FÜGGETLEN CIGÁNY              |02|00075319|    KARASZI ANDRÁSNÉ                    |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709902|FÜGGETLEN CIGÁNY              |03|00018326|    BOROS JÓZSEF                        |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709902|FÜGGETLEN CIGÁNY              |04|00073182|    CSICSÓ ILONA                        |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709902|FÜGGETLEN CIGÁNY              |05|00044879|IFJ BOROS SZILVESZTER                   |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709906|FÜGGETLEN NÉMET               |01|00061234|DR. GÖRGÉNYI EDÉNÉ                      |2|kedvezményes mandátumot nyert
+17|TOLNA     |099|TOLNA               |01709906|FÜGGETLEN NÉMET               |02|00003059|    KÁRPÁTI ANDRÁS                      |3|nem nyert
+18|VAS       |095|KÖRMEND             |01809502|FÜGGETLEN CIGÁNY              |01|00028785|    HORVÁTH LÁSZLÓ                      |3|nem nyert
+18|VAS       |186|SZOMBATHELY         |01818606|FÜGGETLEN NÉMET               |01|00002313|DR. ZIELBAUER GYÖRGY                    |3|nem nyert
+19|VESZPRÉM  |208|VESZPRÉM            |01920802|FÜGGETLEN CIGÁNY              |01|00073850|    SOMOGYI TÜNDE ANNA                  |3|nem nyert
+19|VESZPRÉM  |208|VESZPRÉM            |01920806|FÜGGETLEN NÉMET               |01|00004226|    VENCZEL LÕRINC                      |3|nem nyert
+19|VESZPRÉM  |208|VESZPRÉM            |01920807|FÜGGETLEN ÖRMÉNY              |01|00055762|    AKOPJAN NIKOGOSZ                    |3|nem nyert

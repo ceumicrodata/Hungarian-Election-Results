@@ -1,0 +1,33 @@
+01|3|  1|  1|   |Jávor Benedek                                                                             |
+01|3|  1|  2|Dr.|Kaltenbach Jenõ Ádám                                                                      |
+01|3|  1|  3|   |Somfai Ágnes                                                                              |
+01|3|  2|  2|   |Pokorni Zoltán                                                                            |
+01|3|  2|  3|Dr.|Pesti Imre                                                                                |
+01|3|  2|  4|   |Rogán Antal                                                                               |
+01|3|  2|  5|Dr.|György István                                                                             |
+01|3|  2|  6|   |Németh Szilárd                                                                            |
+01|3|  2|  7|   |Csomós Miklós                                                                             |
+01|3|  2|  8|Dr.|Bagdy Gábor József                                                                        |
+01|3|  2|  9|   |Nagy István                                                                               |
+01|3|  2| 10|   |Szentkirályi Alexandra Éva                                                                |
+01|3|  2| 11|   |Ughy Attila                                                                               |
+01|3|  2| 12|   |Németh Zoltán                                                                             |
+01|3|  2| 13|   |Wintermantel Zsolt                                                                        |
+01|3|  2| 14|   |Zsolnai József                                                                            |
+01|3|  2| 15|Dr.|Szentes Tamás                                                                             |
+01|3|  2| 16|   |Szatmáryné Jähl Angéla                                                                    |
+01|3|  2| 17|   |Raduly József                                                                             |
+01|3|  2| 18|   |Orbán Gyöngyi                                                                             |
+01|3|  3|  1|Dr.|Staudt Gábor                                                                              |
+01|3|  3|  2|   |Czeglédi János                                                                            |
+01|3|  3|  3|   |Szabó György                                                                              |
+01|3|  4|  1|   |Horváth Csaba                                                                             |
+01|3|  4|  2|Dr.|Steiner Pál                                                                               |
+01|3|  4|  3|   |Tüttõ Kata Zsuzsanna                                                                      |
+01|3|  4|  4|   |Gajda Péter                                                                               |
+01|3|  4|  5|   |Szabados Ákos                                                                             |
+01|3|  4|  6|   |Molnár Gyula                                                                              |
+01|3|  4|  7|   |Andó Sándor                                                                               |
+01|3|  4|  8|Dr.|Havas Szófia                                                                              |
+01|3|  4|  9|   |Bánsághi Tamás                                                                            |
+01|3|  4| 10|Dr.|Trippon Norbert                                                                           |

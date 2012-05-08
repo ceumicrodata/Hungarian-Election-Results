@@ -1,0 +1,901 @@
+01|3|  1|  1|    |GY. NÉMETH ERZSÉBET                     |
+01|3|  1|  2|    |BAKONYI TIBOR                           |
+01|3|  1|  3|DR. |AJKAY ZOLTÁN ISTVÁN                     |
+01|3|  1|  4|    |VAJDA PÁL                               |
+01|3|  1|  5|DR. |SCHIFFER JÁNOS GYÖRGY                   |
+01|3|  1|  6|DR. |PÁLINSZKI ANTAL                         |
+01|3|  1|  7|    |MOSKOVITS PÉTER TAMÁS                   |
+01|3|  1|  8|    |SOMLYÓDY CSABA                          |
+01|3|  1|  9|    |BÁNSÁGI GYÖRGY                          |
+01|3|  1| 10|    |DEVOSA GÁBOR                            |
+01|3|  1| 11|    |BENGA-OLÁH TIBOR                        |
+01|3|  1| 12|    |DANIELISZ BÉLA                          |
+01|3|  1| 13|    |MITUS ZSUZSANNA                         |
+01|3|  1| 14|    |RUSZNÁK IMRE                            |
+01|3|  1| 15|    |BIHARY GÁBOR                            |
+01|3|  1| 16|    |TÜTTÕ KATA                              |
+01|3|  1| 17|    |EGERFAI JÓZSEF                          |
+01|3|  1| 18|    |HORVÁTH GYULA                           |
+01|3|  1| 19|    |GROSSER JÁNOS                           |
+01|3|  1| 20|DR. |HAVAS SZÓFIA                            |
+01|3|  1| 21|DR. |LIPPÉNYI TIVADAR LAJOS                  |
+01|3|  1| 22|    |GÁBOR JÓZSEF GYÖRGY                     |
+01|3|  1| 23|    |VÖRÖSNÉ DR. BÁNK JUDIT                  |
+01|3|  1| 24|    |KINISCH ANDREA                          |
+01|3|  4|  1|DR. |DEMSZKY GÁBOR                           |
+01|3|  4|  2|DR. |BÖHM ANDRÁS HENRIK                      |
+01|3|  4|  3|    |ATKÁRI JÁNOS                            |
+01|3|  4|  4|    |RAJK LÁSZLÓ                             |
+01|3|  4|  5|    |MOLNÁR ISTVÁN                           |
+01|3|  4|  6|    |MADARÁSZ ALADÁR                         |
+01|3|  4|  7|DR. |SZOLNOKI ANDREA                         |
+01|3|  4|  8|    |TÓTHFALUSI GYÖRGY                       |
+01|3|  4|  9|    |IKVAI-SZABÓ IMRE                        |
+01|3|  4| 10|    |LAKOS IMRE                              |
+01|3|  4| 11|    |GEBERLE ERZSÉBET ÁGNES                  |
+01|3|  4| 12|    |HUBERT BÉLA                             |
+01|3|  4| 13|    |KÖRMENDY FERENC                         |
+01|3|  4| 14|    |HARDI RÓBERT                            |
+01|3|  4| 15|    |VARGA ZOLTÁN KRISTÓF                    |
+01|3|  4| 16|DR. |KISSNÉ SPIRA VERONIKA                   |
+01|3|  5|  1|    |KATONA KÁLMÁN                           |
+01|3|  5|  2|    |DEUTSCH TAMÁS                           |
+01|3|  5|  3|    |SZÕKE LÁSZLÓ                            |
+01|3|  5|  4|    |DEÁK ANDRÁS                             |
+01|3|  5|  5|    |WINTERMANTEL ZSOLT                      |
+01|3|  5|  6|    |TIRTS TAMÁS ATTILA                      |
+01|3|  5|  7|DR. |MITNYAN GYÖRGY                          |
+01|3|  5|  8|    |HOCK ZOLTÁN                             |
+01|3|  5|  9|    |UGHY ATTILA                             |
+01|3|  5| 10|DR. |JUHOS KATALIN                           |
+01|3|  5| 11|    |SASVÁRI SZILÁRD                         |
+01|3|  5| 12|DR. |ENDRÉDY ISTVÁN                          |
+01|3|  5| 13|    |SZÉKELYNÉ GYÖKÖSSY DÓRA                 |
+01|3|  5| 14|DR. |KUPPER ANDRÁS                           |
+01|3|  5| 15|    |HEGEDÛS ZOLTÁN                          |
+01|3|  5| 16|    |BENCZE B. GYÖRGY                        |
+01|3|  5| 17|    |KOLTAI ILDIKÓ                           |
+01|3|  5| 18|    |LÉVAI ZOLTÁN                            |
+01|3|  5| 19|    |BENYHE ISTVÁN                           |
+01|3|  5| 20|    |SZÁLKA MIKLÓS GYÖRGY                    |
+01|3|  5| 21|DR. |JUHAROS RÓBERT                          |
+01|3|  6|  1|    |CSURKA ISTVÁN                           |
+01|3|  6|  2|    |ZSINKA LÁSZLÓ                           |
+01|3|  6|  3|    |BALCZÓ ZOLTÁN                           |
+01|3|  6|  4|DR. |FENYVESSY ZOLTÁN                        |
+01|3|  6|  5|    |MARSI PÉTER PÁL                         |
+02|1|  5|  1|DR. |HABJÁNECZ TIBOR                         |
+02|1|  5|  2|    |GYÕRI JÓZSEF                            |
+02|1|  6|  1|DR. |HARGITAI JÁNOS                          |
+02|1|  6|  2|    |KÉKKÕI ZOLTÁN                           |
+02|1|  6|  3|    |BÉDY ISTVÁN                             |
+02|1|  6|  4|    |HOFFMANN MÁTYÁSNÉ                       |
+02|1|  6|  5|    |PÁVKOVICS GÁBOR                         |
+02|1|  6|  6|    |BÁLINT BÁNK                             |
+02|1|  6|  7|    |KOSZORUS LÁSZLÓ                         |
+02|1|  6|  8|DR. |MIKES ÉVA                               |
+02|1|  8|  1|DR. |KÉKES FERENC                            |
+02|1|  8|  2|    |KOCSI LÁSZLÓ                            |
+02|1|  8|  3|    |CZIGLER JÁNOS                           |
+02|1|  8|  4|    |NYÚLNÉ ZÁTONYI ZITA                     |
+02|1|  8|  5|    |KOLTAI PÉTER                            |
+02|1|  8|  6|    |BIMBÓ ISTVÁN                            |
+02|1|  8|  7|DR. |GULYÁS EMIL                             |
+02|1|  8|  8|DR. |CSÖRNYEI LÁSZLÓ                         |
+02|1|  8|  9|    |DELI FERENC                             |
+02|1|  8| 10|    |HOHMANN ISTVÁN                          |
+02|1|  8| 11|    |VÁRNAI MÁRTON                           |
+02|1|  8| 12|    |SOHONYAI ISTVÁN                         |
+02|1|  8| 13|    |FÁBOS PÁL                               |
+02|1|  8| 14|    |GYURGYOVICS IBOLYA                      |
+02|1|  8| 15|    |GONDA TIBOR                             |
+02|1| 12|  1|DR. |WEKLER FERENC                           |
+02|1| 12|  2|    |NÁDOR RUDOLFNÉ                          |
+02|1| 14|  1|    |WEISZ PÉTER                             |
+02|1| 14|  2|    |BOKOR BÉLA                              |
+02|2|  2|  1|    |SZEKÓ JÓZSEF                            |
+02|2|  2|  2|    |BÁNKI ERIK                              |
+02|2|  2|  3|DR. |TROMBITÁS ZOLTÁN KÁROLY                 |
+02|2|  4|  1|    |PÁVA ZOLTÁN                             |
+02|2|  4|  2|    |GRÁF JÓZSEF                             |
+02|2|  4|  3|    |TASNÁDI PÉTER                           |
+02|2|  4|  4|DR. |NYUL ISTVÁN                             |
+02|2|  4|  5|    |PAIZS JÓZSEF                            |
+02|2|  4|  6|    |VARGA PÉTER                             |
+02|2|  4|  7|    |AMIGYA ANTAL                            |
+02|2|  4|  8|    |NÉMETH MÁRIA                            |
+03|1|  4|  1|    |NAGY FERENC                             |
+03|1|  4|  2|    |KISJUHÁSZ JÓZSEF                        |
+03|1|  4|  3|    |POLYÁK IMRE                             |
+03|1|  4|  4|    |FERCSÁK RÓBERT                          |
+03|1|  4|  5|    |BALOGH JÓZSEF                           |
+03|1|  4|  6|    |BÁNFI ATTILA                            |
+03|1|  4|  7|    |MOLNÁR JUDIT                            |
+03|1|  4|  8|DR. |BAGÓ ZOLTÁN                             |
+03|1|  4|  9|    |BAGI BÉLA                               |
+03|1|  4| 10|    |ERDÉLYI JÓZSEF                          |
+03|1|  4| 11|    |IVANICS ISTVÁN                          |
+03|1|  5|  1|    |LEZSÁK SÁNDOR                           |
+03|1|  5|  2|    |KARSAI PÉTER                            |
+03|1|  6|  1|DR. |BALOGH LÁSZLÓ                           |
+03|1|  6|  2|    |SCHINDLER JÁNOS                         |
+03|1|  6|  3|    |ALFÖLDI ALBERT                          |
+03|1|  6|  4|DR. |TABAJDI CSABA                           |
+03|1|  6|  5|    |FLISZÁR KÁROLY                          |
+03|1|  6|  6|    |MAMUZSITS SÁNDOR                        |
+03|1|  6|  7|    |ALTER RÓBERT                            |
+03|1|  6|  8|    |ANDRÁS ISTVÁN                           |
+03|1|  6|  9|    |LENGYELNÉ LÁSZLÓ VERONIKA               |
+03|1|  6| 10|    |PAPP JÓZSEF                             |
+03|1|  6| 11|    |ARANYI JÁNOS                            |
+03|1|  6| 12|DR. |MATOS LÁSZLÓ                            |
+03|1|  6| 13|    |BÍRÓ KÁROLY                             |
+03|1|  6| 14|    |CSALA IMRE                              |
+03|2|  1|  1|    |SZÉLL PÉTER                             |
+03|2|  1|  2|DR. |GARAI ISTVÁN LEVENTE                    |
+03|2|  1|  3|    |SZABÓ KÁROLY                            |
+03|2|  1|  4|DR. |MOLNÁR GÁBOR                            |
+03|2|  1|  5|    |MÁRFAI PÉTER                            |
+03|2|  1|  6|    |BELLA LÁSZLÓ                            |
+03|2|  1|  7|    |CSERNUS FERENC                          |
+03|2|  1|  8|    |VÁRADI KRISZTIÁN                        |
+03|2|  1|  9|DR. |KRISTÓF ISTVÁN                          |
+03|2|  2|  1|    |TÖRÖK GUSZTÁV ANDOR                     |
+03|2|  2|  2|    |FICSÓR JÓZSEF                           |
+03|2|  7|  1|    |ENDRE SÁNDOR                            |
+03|2|  7|  2|    |FARKAS GERGELY                          |
+03|2|  7|  3|    |LEVICZKY CIRILL                         |
+03|2|  7|  4|    |RAUSCH SÁNDOR                           |
+03|2|  7|  5|    |KOVÁCS ERNÕ                             |
+03|2|  7|  6|    |APRÓ FERENC                             |
+03|2|  7|  7|    |JANKOVSZKI ZOLTÁN                       |
+03|2|  9|  1|    |FONT SÁNDOR                             |
+04|1|  1|  1|    |PÁPAI ZOLTÁN                            |
+04|1|  8|  1|    |MATUSKA SÁNDOR                          |
+04|1|  8|  2|    |SINKA JÓZSEF                            |
+04|1|  8|  3|    |KRESZTA TRAJÁN                          |
+04|1|  8|  4|    |SZATMÁRI JÁNOS                          |
+04|1|  8|  5|    |SZILÁGYI MENYHÉRT                       |
+04|1|  8|  6|    |NAGY MIHÁLY                             |
+04|1|  8|  7|    |KASZAI JÁNOS                            |
+04|1|  8|  8|    |TÓTH SÁNDOR LAJOS                       |
+04|1|  8|  9|DR. |KARSAI JÓZSEF                           |
+04|1|  8| 10|    |GULYÁS GYÖRGY                           |
+04|1|  8| 11|    |GYIVICSÁNNÉ DR. SZENCZI IRÉN RÓZA       |
+04|1| 14|  1|    |DOMOKOS LÁSZLÓ                          |
+04|1| 14|  2|    |BALOGH JÓZSEF                           |
+04|1| 14|  3|    |DANKÓ BÉLA                              |
+04|1| 14|  4|    |TOLNAI PÉTER                            |
+04|1| 14|  5|DR. |KULCSÁR LÁSZLÓ                          |
+04|1| 14|  6|    |BERE KÁROLY                             |
+04|1| 14|  7|    |SZÛCS ISTVÁN                            |
+04|1| 14|  8|    |HAMZA ZOLTÁN GÁBOR                      |
+04|1| 15|  1|    |NAGY BÉLA                               |
+04|1| 15|  2|DR. |PELCSINSZKI BOLESZLÁV                   |
+04|2|  1|  1|    |VELKEY GÁBOR                            |
+04|2|  4|  1|    |GAJDA MIHÁLY                            |
+04|2|  4|  2|    |VOLENCSIK ZSOLT                         |
+04|2|  4|  3|DR. |SZELEZSÁN RÓBERT                        |
+04|2|  4|  4|    |GIRICZ KATALIN                          |
+04|2|  4|  5|    |CSÁSZÁRNÉ GYURICZA ÉVA                  |
+04|2|  4|  7|    |DEZSÕ ZOLTÁN                            |
+04|2|  6|  1|DR. |ERDMANN GYULA                           |
+04|2|  7|  1|DR. |KOVÁCS JÓZSEF                           |
+04|2| 12|  1|    |VARGA ZOLTÁN                            |
+04|2| 12|  2|DR. |CSABA ISTVÁN                            |
+04|2| 12|  3|DR. |GOSZTOLYA FERENC                        |
+04|2| 12|  4|DR. |KOVÁCS BÉLA                             |
+04|2| 12|  5|    |MACSÁRI JÓZSEF                          |
+04|2| 12|  6|    |GULYÁS JÓZSEF IMRE                      |
+04|2| 12|  7|    |SZÛCS SZABOLCS GÁBOR                    |
+04|2| 12|  8|    |BALATON ZOLTÁN                          |
+04|2| 12|  9|    |KOZÁK IMRÉNÉ                            |
+05|1|  3|  1|    |SZABÓ GYÖRGY                            |
+05|1|  3|  2|    |LUKÁCS ANDRÁS                           |
+05|1|  3|  3|    |VÉCSI ISTVÁN                            |
+05|1|  3|  4|    |ÖRDÖG JAKAB                             |
+05|1|  3|  5|    |GALUSKA LÁSZLÓ                          |
+05|1|  3|  6|    |MATUSZ TAMÁS                            |
+05|1|  3|  7|    |ULRICH ATTILÁNÉ                         |
+05|1|  3|  8|    |HEGEDÛS DEZSÕ FERENC                    |
+05|1|  3|  9|    |SZVOBODA LÁSZLÓ                         |
+05|1|  3| 10|    |SUSKÓ VIKTOR                            |
+05|1|  3| 11|    |FÁBIÁN OTTÓNÉ                           |
+05|1|  3| 12|    |NYITRAI TIBOR                           |
+05|1|  3| 13|    |BALOGH ATTILA                           |
+05|1|  3| 14|    |MIHÁLYI HELGA                           |
+05|1|  3| 15|    |HALÁSZ KÁROLY                           |
+05|1|  3| 16|    |KOSZTRUB TIBOR                          |
+05|1|  3| 17|    |GEREGÚR JÓZSEF                          |
+05|1|  3| 18|    |JUHÁSZ ISTVÁN                           |
+05|1|  3| 19|    |KELEMEN LÁSZLÓ                          |
+05|1|  3| 20|    |SÓHAJDA ISTVÁN                          |
+05|1|  3| 21|    |KOCSIK JÓZSEF                           |
+05|1|  3| 22|    |MOLNÁR ISTVÁN                           |
+05|1|  3| 23|    |TAKÁCS LÁSZLÓNÉ                         |
+05|1|  3| 24|    |TARJÁNYI SÁNDOR                         |
+05|1|  4|  1|DR. |ÓDOR FERENC                             |
+05|1|  4|  2|    |MOLNÁR OSZKÁR                           |
+05|1|  4|  3|    |KONCZ FERENC                            |
+05|1|  4|  4|DR. |SÓJA SZABOLCS                           |
+05|1|  4|  5|    |TÖRÖK DEZSÕ                             |
+05|1|  4|  6|    |GERGELY ZSOLT                           |
+05|1|  4|  7|DR. |SZABÓ CSABA                             |
+05|1|  4|  8|DR. |KRIZA ÁKOS                              |
+05|1|  4|  9|    |LABÓCZKI JÁNOS                          |
+05|1|  4| 10|    |MILÁNKOVICH ERNÕ                        |
+05|1|  4| 11|    |SZELES ANDRÁS                           |
+05|1|  4| 12|    |HAJDU IMRE                              |
+05|1|  4| 13|    |PANYIK JÓZSEF                           |
+05|1|  4| 14|    |PANYI KRISZTINA                         |
+05|1|  4| 15|    |RITÓ LÁSZLÓNÉ                           |
+05|1|  4| 16|    |MARTON PÉTER                            |
+05|2|  2|  1|    |TÁLLAI ANDRÁS                           |
+05|2|  2|  2|DR. |HÖRCSIK RICHÁRD                         |
+05|2|  2|  3|DR. |FÓNAGY JÁNOS                            |
+05|2|  2|  4|    |BUDAI ERZSÉBET                          |
+05|2|  2|  5|    |SZABÓ GYULA                             |
+05|2|  2|  6|DR. |CSIBA GÁBOR                             |
+05|2|  2|  7|    |SZAMOSVÖLGYI PÉTER                      |
+05|2| 10|  1|    |GYÁRFÁS ILDIKÓ                          |
+05|2| 10|  2|    |KORMOS DÉNES                            |
+05|2| 10|  3|    |BENEDEK MIHÁLY                          |
+05|2| 10|  4|    |GÚR NÁNDOR                              |
+05|2| 10|  5|    |KOSCSÓ LAJOS                            |
+05|2| 10|  6|    |HUTKAINÉ NOVÁK MÁRTA                    |
+05|2| 10|  7|    |ROHONKA SÁNDOR                          |
+05|2| 10|  8|    |PRATÁK ZOLTÁNNÉ                         |
+05|2| 10|  9|DR. |HALMAI GYULA                            |
+05|2| 10| 10|    |VARGA LÁSZLÓ                            |
+05|2| 10| 11|DR. |KORMOS IMRE                             |
+05|2| 10| 12|    |TÓTH ZOLTÁN                             |
+06|1|  2|  1|    |SIMICZ JÓZSEF                           |
+06|1|  2|  2|DR. |BOTKA LÁSZLÓ                            |
+06|1|  2|  3|DR. |FRANK JÓZSEF                            |
+06|1|  2|  4|    |OTT JÓZSEF                              |
+06|1|  2|  5|DR. |DEMETER ATTILA                          |
+06|1|  2|  6|    |GAZDAG JÁNOS                            |
+06|1|  2|  7|    |FEKETE GÁBOR                            |
+06|1|  2|  8|    |BALOGH FERENC                           |
+06|1|  2|  9|    |SZÛCS TIBOR                             |
+06|1|  2| 10|    |SZANISZLÓ JÓZSEF                        |
+06|1|  2| 11|    |VÁRI MIKLÓS                             |
+06|1|  8|  1|    |PETRÓ FERENC                            |
+06|1|  9|  1|    |HORVÁTH LAJOS                           |
+06|1|  9|  2|    |LÕRINCZ TIBOR                           |
+06|1| 11|  1|    |NAGY SÁNDOR                             |
+06|1| 11|  2|    |NÓGRÁDI ZOLTÁN                          |
+06|1| 11|  3|DR. |GONDA JÁNOS                             |
+06|1| 11|  4|    |GYÖMBÉR LÁSZLÓ                          |
+06|1| 11|  5|DR. |KOVÁCS KÁLMÁN                           |
+06|1| 11|  6|    |PÓDA JENÕ                               |
+06|1| 11|  7|    |BODÓ IMRE                               |
+06|1| 11|  8|DR. |BALÁSPIRI CSABA                         |
+06|1| 11|  9|    |FARKAS JÁNOSNÉ                          |
+06|1| 11| 10|    |MIKULÁN LÁSZLÓ                          |
+06|1| 12|  1|DR. |PIRI JÓZSEF ANTAL                       |
+06|2|  4|  1|DR. |BUZÁS PÉTER                             |
+06|2|  4|  2|    |SZIRBIK IMRE                            |
+06|2|  4|  3|    |SZÛCS LAJOS                             |
+06|2|  4|  4|    |MOLNÁR JÓZSEF                           |
+06|2|  4|  5|    |BACSA PÁL                               |
+06|2|  4|  6|    |FÁBIÁN GYÖRGY                           |
+06|2|  4|  7|    |VARGA ÁRPÁD                             |
+06|2|  4|  8|    |MÓRA JÓZSEF                             |
+06|2|  9|  1|    |MURÁNYI LÁSZLÓ                          |
+06|2| 10|  1|    |FARKAS SÁNDOR                           |
+06|2| 10|  2|DR. |BARTHA LÁSZLÓ                           |
+06|2| 10|  3|DR. |MARTONOSI GYÖRGY SÁNDOR                 |
+06|2| 10|  4|    |VINCZE LÁSZLÓ                           |
+06|2| 10|  5|    |ÁDÓK JÁNOS                              |
+06|2| 12|  1|    |MAROSVÁRI ATTILA                        |
+07|1|  1|  1|    |HORVÁTH ÁGOSTON                         |
+07|1|  1|  2|    |SCHRICK ISTVÁN                          |
+07|1|  2|  1|    |KOSSA LAJOS                             |
+07|1|  2|  2|    |MACHER PÁL                              |
+07|1|  2|  3|    |BORSÓ PÁL                               |
+07|1|  3|  1|    |FERTÕ LÁSZLÓ                            |
+07|1|  3|  2|    |PAÁL HUBA                               |
+07|1|  3|  3|    |BORBÉLY ISTVÁN                          |
+07|1|  3|  4|    |SZABÓ ISTVÁN                            |
+07|1|  3|  5|    |GIESZ JÁNOS                             |
+07|1|  3|  6|DR. |GÄRTNER JÓZSEF                          |
+07|1|  3|  7|    |TÓTH ERIKA                              |
+07|1|  3|  8|    |CSOMBÓK PÁL                             |
+07|1|  3|  9|    |RÓTH PÉTER                              |
+07|1|  3| 10|    |HEITER TAMÁS                            |
+07|1|  3| 11|DR. |OROSHÁZI GYÖRGY                         |
+07|1|  3| 12|    |ANTAL LAJOS                             |
+07|1|  3| 13|    |JUHÁSZ ZOLTÁN                           |
+07|1|  3| 14|    |ÁDÁM ANDRÁS                             |
+07|1|  7|  1|    |SZABÓ GÁBOR                             |
+07|1|  7|  2|    |ECSÕDI LÁSZLÓ                           |
+07|1|  7|  3|    |BOGNÁR MIKLÓS                           |
+07|1|  7|  4|    |NAGY JÓZSEF ÖDÖN                        |
+07|1|  7|  5|    |SZABÓ TAMÁS                             |
+07|1|  7|  6|    |TÓTH ÁRPÁDNÉ                            |
+07|1|  7|  7|DR. |BERZEVICZY GÁBOR                        |
+07|1|  7|  8|    |KAPÁS ZSOLT                             |
+07|1|  7|  9|    |ROCKENBAUER LAJOS                       |
+07|1|  7| 10|    |SZABADOS TAMÁS                          |
+07|1|  7| 11|    |ORGOVÁNY ISTVÁN                         |
+07|1|  7| 12|DR. |SIRÁLY PÉTER                            |
+07|1|  7| 13|    |MAKÓ JÓZSEF                             |
+07|1|  7| 14|    |BESZTERCEI ZSOLT                        |
+07|1|  7| 15|    |LÁNG MÁRTA                              |
+07|2|  1|  1|    |SCHMIDT FERENC                          |
+07|2|  1|  2|    |NAGY SÁNDOR                             |
+07|2|  1|  3|    |LENGYEL ZOLTÁN                          |
+07|2|  5|  1|    |DR. SZABADKAI JÓZSEF                    |
+07|2|  5|  2|    |IVÁN JÁNOS                              |
+07|2|  5|  3|    |PENZNÉ LAJTA KATALIN                    |
+08|1|  1|  1|DR. |MEDGYASSZAY LÁSZLÓ                      |
+08|1|  1|  2|    |MECSÉRI LAJOS                           |
+08|1|  1|  3|    |LINTER TIBOR                            |
+08|1|  1|  4|    |BABOS ATTILA                            |
+08|1|  1|  5|    |MONDOVICS LÁSZLÓ                        |
+08|1|  2|  1|    |BOTOS GÁBOR                             |
+08|1|  2|  2|    |CSAPLÁR ZOLTÁN                          |
+08|1|  4|  1|    |IVANICS FERENC                          |
+08|1|  4|  2|DR. |SZAKÁCS IMRE                            |
+08|1|  4|  3|    |FIRTL MÁTYÁS                            |
+08|1|  4|  4|    |LUKÁCSI ISTVÁN                          |
+08|1|  4|  5|    |MAGYAR ATTILA                           |
+08|1|  4|  6|    |SZALAINÉ KAPUI MÁRIA                    |
+08|1|  4|  7|    |BÖÕSY IMRE LÕRINC                       |
+08|1|  4|  8|    |BARANYAI TAMÁS                          |
+08|1|  4|  9|    |KÓCZÁN ZOLTÁN                           |
+08|1|  4| 10|    |SZÉLES SÁNDOR                           |
+08|1|  4| 11|    |MÉRI ATTILA                             |
+08|1|  4| 12|    |KOVÁCS FERENC                           |
+08|1|  4| 13|    |MOLNÁR RITA NOÉMI                       |
+08|1|  8|  1|    |HORDÓS ISTVÁN                           |
+08|1|  8|  2|    |SZÉPLAKI TAMÁS                          |
+08|1|  8|  3|    |APRÓ ANTAL                              |
+08|1|  8|  4|    |KRÁNITZ LÁSZLÓ                          |
+08|1|  8|  5|    |ALLER IMRE                              |
+08|1|  8|  6|    |NÉMETHNÉ JANKOVICS GYÖRGYI              |
+08|1|  8|  7|    |KALMÁR ISTVÁN                           |
+08|1|  8|  8|    |NÉMETH LÁSZLÓNÉ                         |
+08|1|  8|  9|    |DOBRÁDI JÓZSEF                          |
+08|1|  8| 10|    |RÉTI CSABA                              |
+08|1|  8| 11|    |TAMÁS LÕRINCNÉ                          |
+08|1|  8| 12|    |GÁLNÉ SULYOK ANETTA MÓNIKA              |
+08|2|  2|  1|    |SZABÓ MIKLÓS                            |
+08|2|  6|  1|DR. |HORVÁTH FERENC                          |
+08|2|  6|  2|    |VUCSICS PÉTER                           |
+08|2|  6|  3|DR. |KOROGNAI LÁSZLÓ                         |
+08|2|  6|  4|    |PAPP JÓZSEF                             |
+08|2|  6|  5|DR. |FÜLÖP JÓZSEF                            |
+08|2|  8|  1|DR. |PAP JÁNOS                               |
+08|2|  8|  2|DR. |GULYÁS ZOLTÁN                           |
+08|2|  8|  3|    |ERDÕS SÁNDOR                            |
+09|1|  3|  1|DR. |JUHÁSZNÉ LÉVAI KATALIN                  |
+09|1|  3|  2|    |TÓTH JÓZSEF                             |
+09|1|  3|  3|    |VASS MIHÁLY                             |
+09|1|  3|  4|    |KORCSMÁROS SÁNDOR                       |
+09|1|  3|  5|    |CSOBÁN JÓZSEF                           |
+09|1|  3|  6|    |SUTÁK MIKLÓS                            |
+09|1|  3|  7|    |NAGY JÓZSEFNÉ                           |
+09|1|  3|  8|    |MAGYAR GYÖRGY                           |
+09|1|  3|  9|DR. |KATONA GYULA                            |
+09|1|  3| 10|    |PETRUCZ JÁNOSNÉ                         |
+09|1|  3| 11|    |KIS GYÖRGY                              |
+09|1|  3| 12|    |VEZENDI IMRE                            |
+09|1|  3| 13|    |CSIGE TAMÁS                             |
+09|1|  3| 14|    |DERZSI MIKLÓS                           |
+09|1| 14|  1|    |RÁCZ RÓBERT                             |
+09|1| 14|  2|    |BODÓ SÁNDOR                             |
+09|1| 14|  3|    |TASÓ LÁSZLÓ                             |
+09|1| 14|  4|    |BULCSÚ LÁSZLÓ                           |
+09|1| 14|  5|    |MAKAY ZSOLT                             |
+09|1| 14|  6|    |RÁSÓ TIBOR                              |
+09|1| 14|  7|    |TÓTH MIHÁLY                             |
+09|1| 14|  8|    |MÉNES ANDREA                            |
+09|1| 14|  9|    |LÉVAI TIBOR                             |
+09|1| 20|  1|    |FÜLÖP MIHÁLY ISTVÁN                     |
+09|2|  2|  1|    |GÁL ISTVÁN                              |
+09|2|  2|  2|    |GADUS ISTVÁN                            |
+09|2|  7|  1|    |TÖRÖK ISTVÁN                            |
+09|2| 13|  1|    |BÉRES LÁSZLÓ                            |
+09|2| 14|  1|    |ÖRVENDI LÁSZLÓ                          |
+09|2| 14|  2|    |VIRÁG LÁSZLÓ                            |
+09|2| 14|  3|    |KOVÁCS ZOLTÁN                           |
+09|2| 14|  4|    |FILEP MIKLÓS                            |
+09|2| 14|  5|DR. |NYAKAS MIKLÓS                           |
+09|2| 16|  1|DR. |MOLNÁR LÁSZLÓ                           |
+09|2| 16|  2|    |CSIHA ANDRÁS                            |
+09|2| 16|  3|    |GYULA FERENCNÉ                          |
+09|2| 16|  4|    |KÕRÖSINÉ BÓDI JUDIT                     |
+09|2| 16|  5|    |CSIGE JÓZSEF                            |
+09|2| 16|  6|DR. |BAZSA GYÖRGY                            |
+09|2| 16|  7|DR. |SZEGEDI ISTVÁN                          |
+10|1|  3|  1|DR. |JAKAB ISTVÁN                            |
+10|1|  3|  2|    |LAKATOS ISTVÁN                          |
+10|1|  4|  1|    |SEBESTYÉN JÁNOS                         |
+10|1|  4|  2|    |BUJDOSÓ SÁNDORNÉ                        |
+10|1|  6|  1|    |ZAY ANDREA                              |
+10|1|  6|  2|    |SZINYEI ANDRÁS                          |
+10|1|  6|  3|DR. |TATÁR LÁSZLÓ                            |
+10|1|  6|  4|    |FALUDI SÁNDOR                           |
+10|1|  6|  5|DR. |NAGY TAMÁS JÁNOS                        |
+10|1|  6|  6|    |HERMAN ISTVÁN ERVIN                     |
+10|1|  6|  7|    |BALÁZS JÓZSEF                           |
+10|1|  6|  8|    |AMBRUS ZOLTÁN                           |
+10|1|  6|  9|    |TUZA GÁBOR                              |
+10|1|  7|  1|    |SÓS TAMÁS                               |
+10|1|  7|  2|    |TÓBI JÁNOS                              |
+10|1|  7|  3|    |SÁROSI KÁROLY                           |
+10|1|  7|  4|    |LUKÁCS LÁSZLÓ                           |
+10|1|  7|  5|    |HANGRÁD LAJOS                           |
+10|1|  7|  6|    |BERTA ISTVÁN                            |
+10|1|  7|  7|    |HUDÁK TAMÁS                             |
+10|1|  7|  8|    |FÖLDI GYULA                             |
+10|1|  7|  9|    |BEER FERENCNÉ                           |
+10|1|  7| 10|    |FARKAS ANTAL                            |
+10|1|  7| 11|    |FEKETE LÁSZLÓ                           |
+10|1|  7| 12|    |KIS HELGA                               |
+10|1|  7| 13|DR. |LÉNÁRT ANDRÁS                           |
+10|1|  7| 14|    |BUDA SÁNDORNÉ                           |
+10|1|  7| 15|    |KOHÁRI ISTVÁN                           |
+10|1|  7| 16|    |OLÁH FERENC                             |
+10|1|  7| 17|    |BORNEMISSZA JÁNOS                       |
+10|2|  6|  1|DR. |FODOR GÁBOR                             |
+10|2|  9|  1|    |MERCZEL JÓZSEF                          |
+10|2|  9|  2|    |KONTRA GYULA                            |
+10|2|  9|  3|    |BARABÁSNÉ CZÖVEK ÁGNES                  |
+10|2|  9|  4|    |LÕRINCZ FERENC                          |
+10|2|  9|  5|    |SZABÓ GYULA                             |
+10|2|  9|  6|    |CSUVIKOVSZKY LAJOS                      |
+10|2| 10|  1|    |CSÁKI ZSIGMOND                          |
+10|2| 10|  2|DR. |MÁNYA KRISTÓF LAJOS                     |
+10|2| 10|  3|    |KERESZTES GYÖRGY                        |
+11|1|  1|  1|DR. |CZUCZI MIHÁLY                           |
+11|1|  1|  2|DR. |SZERENCSÉS ISTVÁN                       |
+11|1|  2|  1|    |HERBÁLY IMRE                            |
+11|1|  2|  2|    |LÓCZI MIKLÓS                            |
+11|1|  2|  3|    |KOVÁCS JÁNOSNÉ                          |
+11|1|  2|  4|    |ZACHAR FERENC                           |
+11|1|  2|  5|    |SZABÓ ZSIGMOND                          |
+11|1|  2|  6|DR. |EDELÉNYI BÉLÁNÉ                         |
+11|1|  2|  7|    |MOLNÁR PÉTER                            |
+11|1|  2|  8|DR. |JERNEI ZOLTÁN                           |
+11|1|  2|  9|    |BENCSIK PÁL                             |
+11|1|  2| 10|    |KATONA JÓZSEF                           |
+11|1|  2| 11|    |RÉDAI JÁNOS                             |
+11|1|  2| 12|DR. |TÓTH JÁNOS                              |
+11|1|  7|  1|    |ESZES BÉLA                              |
+11|1|  7|  2|    |BORDÁS IMRE                             |
+11|1|  9|  1|    |FEJÉR ANDOR                             |
+11|1|  9|  2|    |BOLDOG ISTVÁN                           |
+11|1|  9|  3|    |FAZEKAS JÁNOS                           |
+11|1|  9|  4|DR. |WIRTH ISTVÁN                            |
+11|1|  9|  5|    |SEBESTYÉN FERENC                        |
+11|1|  9|  6|    |VADAS SÁNDOR                            |
+11|2|  2|  1|DR. |MAGYAR LEVENTE                          |
+11|2|  2|  2|    |NAGY-BANA ZOLTÁN                        |
+11|2|  4|  1|    |TOKÁR ISTVÁN                            |
+11|2|  4|  2|    |ELEK SÁNDOR                             |
+11|2|  4|  3|    |BALOGH BÉLA                             |
+11|2|  4|  4|    |RENTE FERENC                            |
+11|2|  4|  5|    |BUZÁS SÁNDOR                            |
+11|2|  4|  6|    |TOKAJINÉ DEMECS KATALIN                 |
+11|2|  4|  7|DR. |MOLNÁR SÁNDOR                           |
+11|2|  4|  8|    |KÁNTORNÉ BIRÓ EMÍLIA                    |
+11|2|  4|  9|    |GULYÁS ADRIENN                          |
+11|2|  4| 10|    |MUZSAI JÁNOS                            |
+11|2| 11|  1|    |VARGA MIHÁLY                            |
+11|2| 11|  2|    |BÚSI LAJOS                              |
+11|2| 11|  3|DR. |FAZEKAS SÁNDOR                          |
+11|2| 11|  4|    |SZÁDVÁRI GÁBOR                          |
+11|2| 11|  5|    |PETRONYÁK LÁSZLÓ                        |
+11|2| 11|  6|DR. |CSELLÁR ZSUZSANNA                       |
+12|1|  4|  1|    |MASZLAVÉR ISTVÁN                        |
+12|1|  4|  2|    |HORVÁTH MIKLÓS ENDRE                    |
+12|1|  4|  3|    |MISKOLCZI JÓZSEF                        |
+12|1|  7|  1|    |AGÓCS ISTVÁN                            |
+12|1|  7|  2|    |HARACSKA FERENC                         |
+12|1|  7|  3|    |WITTMANN FERENC                         |
+12|1|  7|  4|    |GYÕRI ISTVÁN                            |
+12|1|  7|  5|DR. |BOZORI ENDRE                            |
+12|1|  7|  6|    |ZSIROS LÁSZLÓ                           |
+12|1|  7|  7|    |HORVÁTH ISTVÁN                          |
+12|1|  7|  8|    |LUKÁCS ZOLTÁN                           |
+12|1|  7|  9|    |REMÉNYI IMRE                            |
+12|1|  7| 10|    |SVÉTECZ LÁSZLÓ                          |
+12|1|  8|  1|    |BÉRCES JÓZSEF                           |
+12|1| 10|  1|    |CSÁNYI JÓZSEFNÉ                         |
+12|1| 11|  1|    |FUTÓ LAJOS                              |
+12|1| 12|  1|    |RUCHTI RÓBERT                           |
+12|1| 12|  2|    |POPOVICS GYÖRGY                         |
+12|1| 12|  3|DR. |SZALAY ZOLTÁN                           |
+12|1| 12|  4|    |TÓTH GYÕZÕ                              |
+12|1| 12|  5|    |DR. UDVARDI ERZSÉBET                    |
+12|1| 12|  6|DR. |MOLNÁR ATTILA                           |
+12|2|  4|  1|    |LÁZÁR MÓZES                             |
+12|2|  4|  2|    |MEGGYES TAMÁS                           |
+12|2|  4|  3|    |HETÉNYI TAMÁS                           |
+12|2|  4|  4|DR. |SUNYOVSZKI KÁROLY                       |
+12|2|  4|  5|DR. |KÜRTÖSI TIBOR                           |
+12|2|  4|  6|DR. |HORVÁTH ISTVÁN                          |
+12|2|  6|  1|    |KERTI KATALIN                           |
+12|2|  6|  2|DR. |VARGA GYÕZÕ                             |
+12|2|  8|  1|    |LÁPOSI ELZA                             |
+12|2|  8|  2|    |KEREKES TIBOR                           |
+12|2|  8|  3|    |GERÉBI ÁKOS                             |
+12|2|  8|  4|    |SZÉKELY ANTAL                           |
+12|2|  8|  5|    |BARANYAI LÕRINC                         |
+12|2|  8|  6|    |SZEGEDI TIBOR                           |
+12|2|  8|  7|    |PAPP GABRIELLA                          |
+12|2|  8|  8|    |KOPPÁNY CSABA                           |
+12|2|  8|  9|    |WINKFEIN CSABA                          |
+12|2|  9|  1|DR. |DOBROSZLÁV LAJOS                        |
+13|1|  3|  1|    |BALLA MIHÁLY TIBOR                      |
+13|1|  3|  2|    |VARGA BÉLA CSABA                        |
+13|1|  3|  3|    |KOVÁCS GÁBOR                            |
+13|1|  3|  4|    |LANGÁR TAMÁS                            |
+13|1|  3|  5|    |BARNA JÁNOS BÉLA                        |
+13|1|  3|  6|    |SZABÓ CSABA                             |
+13|1|  3|  7|    |KOLOSI TIBOR                            |
+13|1|  3|  8|    |BECSÓ KÁROLY                            |
+13|1|  3|  9|    |BÖGÖS TAMÁS                             |
+13|1|  3| 10|DR. |PILMAYER NÁNDOR                         |
+13|1|  3| 11|    |NAGY TAMÁS                              |
+13|1|  3| 12|    |PINDROCH SZILÁRD                        |
+13|1|  3| 13|    |PETRÁK KÁROLY                           |
+13|1| 13|  1|    |DÓRA OTTÓ                               |
+13|1| 13|  2|DR. |SZANDAI LÁSZLÓ                          |
+13|1| 13|  3|DR. |ROZGONYI JÓZSEF                         |
+13|1| 13|  4|    |BARANYI BÉLA                            |
+13|1| 13|  5|    |MOLNÁR KATALIN                          |
+13|1| 13|  6|    |BORENSZKI ERVIN                         |
+13|1| 13|  7|    |BALÁZS PÁL                              |
+13|1| 13|  8|    |ZSÉDELY LAJOS                           |
+13|1| 13|  9|    |SINKA SÁNDOR                            |
+13|1| 13| 10|    |SZILÁGYI ALBERT                         |
+13|1| 13| 11|    |TÓTH LÁSZLÓ                             |
+13|1| 13| 12|    |SZABÓ PÉTER                             |
+13|1| 13| 13|    |BAKOS ERIKA                             |
+13|1| 13| 14|    |MAJCHER TAMÁS                           |
+13|1| 13| 15|    |KOCZOGH FERENC                          |
+13|1| 13| 16|DR. |EGYED FERDINÁND                         |
+13|1| 13| 17|    |NAGY ATTILA                             |
+13|2|  3|  1|    |BECSÓ ZSOLT                             |
+13|2|  3|  2|DR. |BALGA JÓZSEF                            |
+13|2|  3|  3|    |KRISTON PÉTER                           |
+13|2|  7|  1|    |SISÁK IMRE JÁNOS                        |
+13|2|  8|  1|    |DEMUS IVÁN                              |
+13|2|  8|  2|DR. |BALÁZS OTTÓ                             |
+13|2|  8|  3|    |REVICZKI LÁSZLÓ                         |
+13|2|  8|  4|    |KOVÁCS GÁBOR                            |
+13|2|  8|  5|    |HUSZÁR MÁTÉ LÁSZLÓ                      |
+13|2|  8|  6|    |KASZAB GÉZÁNÉ                           |
+14|1|  2|  1|DR. |FODOR ISTVÁN                            |
+14|1|  2|  2|DR. |SAMU JÁNOS                              |
+14|1|  2|  3|    |KOVÁCS ISTVÁN                           |
+14|1|  2|  4|    |BUKOVSZKY ISTVÁN                        |
+14|1|  2|  5|    |PÁLINKÁS SZILVIA                        |
+14|1|  2|  6|    |KOVÁCS BARNABÁS                         |
+14|1|  2|  7|    |GERSEI FERENC                           |
+14|1|  2|  8|DR. |LAKOS LÁSZLÓ                            |
+14|1|  2|  9|DR. |ALT GYULA                               |
+14|1|  2| 10|    |SZABÓ ATTILA                            |
+14|1|  2| 11|    |LÁSZLÓ FERENC                           |
+14|1|  2| 12|DR. |SZÁSZIK KÁROLY                          |
+14|1|  2| 13|    |HANGA FERENC                            |
+14|1|  2| 14|    |ZSADÁNYI LÁSZLÓNÉ                       |
+14|1|  2| 15|    |KOVÁCS ISTVÁN                           |
+14|1|  2| 16|    |MÁTYÁS IRÉN                             |
+14|1|  2| 17|    |CZERÓCZKI PÁL                           |
+14|1|  2| 18|    |VAIZER ZSIGMOND                         |
+14|1|  4|  1|DR. |SCHMIDT GÉZA                            |
+14|1|  4|  2|    |GÓDOR ANDRÁS                            |
+14|1|  5|  1|    |VENCZEL ÉVA                             |
+14|1|  5|  2|    |FÁKI LÁSZLÓ                             |
+14|1|  6|  1|    |WENTZEL FERENC                          |
+14|1|  6|  2|    |SZERENKA TIBOR                          |
+14|1|  6|  3|    |HADNAGY ZSOLT                           |
+14|1|  6|  4|    |DOMBAI JÓZSEF                           |
+14|1|  6|  5|    |BODNÁR ANDRÁS                           |
+14|1|  6|  6|    |SZILÁGYINÉ DR. SZEMKEÕ JUDIT            |
+14|1|  6|  7|DR. |BARTA TIMEA                             |
+14|1|  6|  8|    |MUCSÁNYI TAMÁS                          |
+14|1|  6|  9|    |MANGER HENRIK                           |
+14|1|  6| 10|    |KURÁN JÓZSEF                            |
+14|1|  6| 11|    |KEREPESI NÁNDOR                         |
+14|1|  6| 12|    |KUN SZILÁRD                             |
+14|1|  6| 13|    |TÓTH JÁNOS                              |
+14|1|  6| 14|    |VIZVÁRI CSILLA                          |
+14|1| 11|  1|DR. |GÉMESI GYÖRGY                           |
+14|1| 11|  2|    |VELLA NÁNDOR                            |
+14|2|  1|  1|    |GULYÁS JÓZSEF                           |
+14|2|  1|  2|    |BODROGI GYÖRGYNÉ                        |
+14|2|  1|  3|    |GRÓSZNÉ KRUPP ERZSÉBET                  |
+14|2|  1|  4|DR. |KISS RÓBERT                             |
+14|2|  4|  1|    |CSURKA ENDRE ISTVÁN                     |
+14|2|  4|  2|DR. |KOÓS FERENC                             |
+14|2|  5|  1|    |SZABÓ IMRE                              |
+14|2|  5|  2|    |FÁBRY BÉLA                              |
+14|2|  5|  3|    |FEHÉR ISTVÁN                            |
+14|2|  5|  4|    |KÖRÖSFÕI LÁSZLÓ                         |
+14|2|  5|  5|    |PÓCZIK ANITA                            |
+14|2|  5|  6|DR. |MEZEI TIBOR                             |
+14|2|  5|  7|    |LAJTAI ISTVÁN                           |
+14|2|  5|  8|DR. |SZABÓNÉ MÜLLER TIMEA                    |
+14|2|  5|  9|    |VÉGH TIBOR                              |
+14|2|  5| 10|    |TURI GYÖRGY                             |
+14|2|  5| 11|    |BUNCSÁK GÁBOR                           |
+14|2|  5| 12|    |GÁLDI GYÖRGY                            |
+14|2|  5| 13|    |SÜVEGES BORBÁLA                         |
+14|2|  5| 14|    |TIMÁR ISTVÁNNÉ                          |
+14|2|  5| 15|    |FRITZNÉ TÓTH ANIKÓ                      |
+14|2|  5| 16|    |VARGA JENÕ                              |
+14|2|  5| 17|    |RADICS IMRE                             |
+14|2|  5| 18|    |BENKOVITS GYÖRGY                        |
+14|2|  5| 19|    |HORVÁTH ISTVÁN                          |
+14|2|  5| 20|DR. |GÖTZINGER ISTVÁN PÉTER                  |
+14|2|  7|  1|DR. |MIKOLA ISTVÁN                           |
+14|2|  7|  2|DR. |CSÁKY ANDRÁS                            |
+14|2|  7|  3|    |MANNINGER GÁBOR                         |
+14|2| 10|  1|    |T.MÉSZÁROS ANDRÁS                       |
+14|2| 10|  2|    |VICSI LÁSZLÓ                            |
+14|2| 10|  3|    |PÁPAI MIHÁLY                            |
+14|2| 10|  4|    |TAKÁTS LÁSZLÓ                           |
+14|2| 10|  5|    |DR. ALVINCZ JÓZSEF                      |
+14|2| 10|  6|    |GAZDIKNÉ KASA CSILLA                    |
+14|2| 10|  7|    |SINKOVICZ LÁSZLÓ                        |
+14|2| 10|  8|    |KISS PÉTER                              |
+14|2| 10|  9|    |HOFFMAN PÁL                             |
+14|2| 10| 10|DR. |GÓR-NAGY ISTVÁN                         |
+14|2| 10| 11|    |SZABÓ JÓZSEF                            |
+14|2| 10| 12|    |KÕRÖSI CSABA                            |
+14|2| 10| 13|    |DÁVID LÁSZLÓ                            |
+15|1|  1|  1|DR. |GYENESEI ISTVÁN                         |
+15|1|  1|  2|    |BIHARINÉ ASBÓTH EMÕKE                   |
+15|1|  1|  3|    |FARKAS ISTVÁN                           |
+15|1|  1|  4|    |PAPSZT LAJOS                            |
+15|1|  1|  5|    |FARKAS LÁSZLÓ                           |
+15|1|  1|  6|    |NÉMETH LAJOS                            |
+15|1|  1|  7|    |GAZDA JÁNOS                             |
+15|1|  1|  8|DR. |KOVÁCS MIKLÓS                           |
+15|1|  1|  9|DR. |SPIEGL JÓZSEF                           |
+15|1|  1| 10|DR. |MOHR TAMÁS                              |
+15|1|  2|  1|    |JUHÁSZ TIBOR                            |
+15|1|  2|  2|DR. |SZABÓ JÓZSEF ANDOR                      |
+15|1|  2|  3|    |MÓRING JÓZSEF ATTILA                    |
+15|1|  2|  4|    |DAMÁSDI MIKLÓS                          |
+15|1|  2|  5|    |CSORBA OTTÓ LÁSZLÓ                      |
+15|1|  2|  6|DR. |BÁLIZS ERNÕ                             |
+15|1|  2|  7|    |KOCSIS GYULA DÉNES                      |
+15|1|  2|  8|    |ÁGOSTON GÁBOR                           |
+15|1|  2|  9|    |TENGERDI GYÕZÕ                          |
+15|1|  2| 10|    |NAGY LAJOS                              |
+15|1|  7|  1|    |SÁRDI ÁRPÁD                             |
+15|1|  7|  2|DR. |KOLBER ISTVÁN                           |
+15|1|  7|  3|    |LÕRINCZNÉ KISS ILONA                    |
+15|1|  7|  4|    |LASSU ISTVÁN                            |
+15|1|  7|  5|    |HORVÁTH ISTVÁN                          |
+15|1|  7|  6|    |FRANCZ REZSÕ                            |
+15|1|  7|  7|    |LACZÓ JÁNOS                             |
+15|1|  7|  8|DR. |KLUJBER LÁSZLÓ                          |
+15|1|  7|  9|    |SOVÁK LAJOS                             |
+15|1|  7| 10|    |HORVÁTHNÉ VASS MÁRIA                    |
+15|1|  7| 11|DR. |BAKSAI FERENC                           |
+15|2|  1|  1|DR. |SÜTÕ LÁSZLÓ                             |
+15|2|  1|  2|    |FEIGLI FERENC                           |
+15|2|  1|  3|    |RÁKÓCZY ATTILA                          |
+15|2|  1|  4|    |KELEMEN PÉTER                           |
+15|2|  4|  1|DR. |BALÁZS ÁRPÁD                            |
+15|2|  4|  2|    |KARVALICS OTTÓ                          |
+15|2|  4|  3|    |MAJER ISTVÁN                            |
+15|2|  5|  1|    |ORMAI ISTVÁN                            |
+15|2|  5|  2|    |MOLNÁR ÁRPÁD                            |
+16|1|  2|  1|DR. |HELMECZY LÁSZLÓ                         |
+16|1|  2|  2|    |BARDI BÉLA                              |
+16|1|  2|  3|    |BOKOR LÁSZLÓ                            |
+16|1|  2|  4|    |BALOGH JÓZSEF                           |
+16|1|  2|  5|    |LAPOS ISTVÁN                            |
+16|1|  2|  6|    |KOVÁCS LAJOS                            |
+16|1|  2|  7|    |TULLNERNÉ BELINSZKY MARGIT              |
+16|1|  2|  8|    |SZLOVENSZKI LÁSZLÓ                      |
+16|1|  2|  9|    |DANKÓ JÓZSEF                            |
+16|1|  2| 10|    |KOVÁCS GÁBOR                            |
+16|1|  8|  1|    |GAZDA LÁSZLÓ                            |
+16|1|  8|  2|DR. |KISS GÁBOR                              |
+16|1|  8|  3|    |SZABADOS JÓZSEF                         |
+16|1|  8|  4|    |MARJÁNNÉ RINYU ILONA                    |
+16|1|  8|  5|DR. |NEMES ISTVÁN                            |
+16|1|  8|  6|    |LEHOCZKY PÉTER                          |
+16|1|  8|  7|    |BELUS TAMÁS                             |
+16|1|  8|  8|    |HALMI JÓZSEF                            |
+16|1|  8|  9|    |SZABÓ BARNABÁS                          |
+16|1|  8| 10|DR. |SZÉP BÉLA                               |
+16|1|  8| 11|    |SZIN ZOLTÁN                             |
+16|1|  8| 12|DR. |VERÉB JÓZSEF                            |
+16|1|  8| 13|    |VASTAG JÓZSEF                           |
+16|1|  8| 14|    |BIRTA SÁNDOR                            |
+16|1|  8| 15|DR. |VADÁSZ MÁRIA                            |
+16|1|  8| 16|    |MÓNUSNÉ DICSÕ ZSUZSANNA                 |
+16|1| 10|  1|    |BERENCSI BÉLA                           |
+16|1| 10|  2|    |HÁDA IMRE                               |
+16|1| 19|  1|    |KOZMA PÉTER                             |
+16|1| 19|  2|    |BALOGH GYULA                            |
+16|1| 19|  3|DR. |PAPCSÁK FERENC                          |
+16|1| 19|  4|DR. |KARAKÓ LÁSZLÓ                           |
+16|1| 19|  5|DR. |LENTI ISTVÁN                            |
+16|1| 19|  6|    |SESZTÁK OSZKÁR                          |
+16|1| 19|  7|    |FÁKY LÁSZLÓ                             |
+16|1| 19|  8|DR. |KOVÁCS FERENC                           |
+16|1| 19|  9|DR. |SESZTÁK MIKLÓS                          |
+16|1| 19| 10|DR. |HAJZER LÁSZLÓ                           |
+16|1| 19| 11|DR. |BIRTÓK MIHÁLY                           |
+16|2|  4|  1|DR. |OLÁH ALBERT                             |
+16|2| 11|  1|DR. |SZILÁGYI DÉNES                          |
+16|2| 15|  1|    |TÓTH ANDRÁS                             |
+16|2| 15|  2|    |SZABÓ ISTVÁN                            |
+16|2| 18|  1|DR. |VERES JÁNOS                             |
+16|2| 18|  2|    |SULYOK JÓZSEF                           |
+16|2| 18|  3|    |KÁRPÁTI TIBOR                           |
+16|2| 18|  4|    |NAGY SÁNDOR                             |
+16|2| 18|  5|DR. |PAPIK TAMÁS                             |
+17|1|  3|  1|    |FRANKNÉ DR. KOVÁCS SZILVIA              |
+17|1|  3|  2|    |PRÁVICS JÓZSEF                          |
+17|1|  3|  3|    |KOCSNER ANTAL                           |
+17|1|  3|  4|    |ERÕS ANDRÁS                             |
+17|1|  3|  5|    |BACH JÓZSEF                             |
+17|1|  3|  6|    |DELI SÁNDOR                             |
+17|1|  3|  7|    |JAKSA PÉTER TITUSZ                      |
+17|1|  3|  8|    |VARGA ATTILA                            |
+17|1|  3|  9|    |BITNER GÁBOR                            |
+17|1|  3| 10|    |HAJDICS JÓZSEF                          |
+17|1|  3| 11|    |SZÕDI IMRE                              |
+17|1|  3| 12|    |NÉMETH ISTVÁN                           |
+17|1|  3| 13|    |BALÁZS ATTILA                           |
+17|1|  3| 14|    |MOLNÁR JÓZSEF                           |
+17|1|  5|  1|    |TIMÁR LÁSZLÓ                            |
+17|1|  5|  2|    |KAPITÁNY ZSOLT                          |
+17|1|  5|  3|DR. |PUSKÁS IMRE                             |
+17|1|  5|  4|    |KERÉNYI ZSOLT                           |
+17|1|  5|  5|    |BARKÓCZI JÓZSEF                         |
+17|1|  5|  6|    |HORVÁTH ISTVÁN                          |
+17|1|  5|  7|DR. |SAY ISTVÁN                              |
+17|1|  5|  8|    |KALUZSNYI LÁSZLÓ                        |
+17|1|  5|  9|    |KOLLÁR LÁSZLÓ                           |
+17|1|  5| 10|    |FAJSZI LAJOS                            |
+17|1|  5| 11|    |PÉCSI GÁBOR                             |
+17|1|  9|  1|    |BICZÓ ERNÕ                              |
+17|2|  1|  1|    |KOLTAI TAMÁS                            |
+17|2|  1|  2|    |FEHÉRVÁRI TAMÁS                         |
+17|2|  1|  3|    |SZENTKIRÁLYI ATTILA                     |
+17|2|  1|  4|    |POTÁPI ÁRPÁD                            |
+17|2|  1|  5|    |BARNABÁS ISTVÁN                         |
+17|2|  1|  6|    |STYASZNY LÁSZLÓ                         |
+17|2|  3|  1|DR. |RADOCHAY IMRE                           |
+17|2|  3|  2|    |ANTAL ÁGNES                             |
+17|2|  3|  3|    |POGÁTSA ALAJOS                          |
+17|2|  3|  4|    |NÉBER TIBOR                             |
+17|2|  3|  5|DR. |VÖRÖSS ENDRÉNÉ                          |
+17|2|  3|  6|    |SZABÓ LORÁND                            |
+17|2|  3|  7|    |TAKÁCS LÁSZLÓ                           |
+17|2|  3|  8|    |WISZTHALLER ZOLTÁN                      |
+17|2|  5|  1|    |KOCSIS IMRE ANTAL                       |
+18|1|  1|  1|    |BAUER KÁROLY                            |
+18|1|  1|  2|    |PATYI ELEMÉR                            |
+18|1|  1|  3|    |NÉMETH LÁSZLÓ                           |
+18|1|  1|  4|    |NAGY ISTVÁN                             |
+18|1|  6|  1|    |KOVÁCS FERENC                           |
+18|1|  6|  2|    |MARTON FERENC                           |
+18|1|  6|  3|    |BELEZNAY LÁSZLÓ                         |
+18|1|  6|  4|    |KOVÁCS ENDRE                            |
+18|1|  6|  5|    |KOVÁCS JENÕ                             |
+18|1|  6|  6|    |HORVÁTHNÉ STUKICS ERZSÉBET              |
+18|1|  6|  7|    |PAJOR ANDRÁS                            |
+18|1|  6|  8|    |RACKER BÉLA                             |
+18|1|  6|  9|    |MAJTHÉNYI LÁSZLÓ                        |
+18|1|  6| 10|DR. |VARGA JÓZSEF                            |
+18|1|  6| 11|    |SZÉLES ZSOLT                            |
+18|1|  6| 12|    |SZIJÁRTÓ LÁSZLÓ                         |
+18|1|  6| 13|    |GÖRCZ GYULA CSABA                       |
+18|1|  6| 14|DR. |KOVÁCS ÁRPÁD                            |
+18|1|  6| 15|    |SZLAMA JÓZSEF                           |
+18|1|  7|  1|    |NÉMETH KÁLMÁN                           |
+18|1|  8|  1|    |HORVÁTH GYÖRGY                          |
+18|1|  8|  2|DR. |PUSZTAI GYULA                           |
+18|1|  8|  3|    |SZÜCS GÁBOR                             |
+18|1|  8|  4|    |SZABÓ JÓZSEF                            |
+18|1|  8|  5|    |BOLFÁN LÁSZLÓ                           |
+18|1|  8|  6|    |TÁNCZOS ANDREA                          |
+18|1|  8|  7|    |FOKINÉ RÁCZ ILONA                       |
+18|1|  8|  8|    |GAÁL ANGELIKA                           |
+18|1|  8|  9|    |FÓDI KÁROLY                             |
+18|2|  2|  1|    |FARKAS JÁNOS                            |
+18|2|  2|  2|    |LIMPÁR JÓZSEF                           |
+18|2|  2|  3|DR. |STIPKOVITS FERENC                       |
+18|2|  2|  4|DR. |BALOGH JÓZSEF                           |
+18|2|  2|  5|DR. |KOVÁCS GYULA                            |
+18|2|  3|  1|    |MARKÓ PÉTER                             |
+18|2|  3|  2|    |BÁSTHY TAMÁS                            |
+18|2|  3|  3|DR. |DÉNES TIBOR                             |
+18|2|  3|  4|    |MAKKOS ISTVÁN                           |
+18|2|  3|  5|DR. |NÉMETH ATTILA                           |
+18|2|  3|  6|    |NAGY GÁBOR                              |
+19|1|  2|  1|DR. |KOVÁCS ZOLTÁN                           |
+19|1|  2|  2|    |TALABÉR MÁRTA                           |
+19|1|  2|  3|    |BORS ISTVÁN                             |
+19|1|  2|  4|    |KÖNNYID ISTVÁN                          |
+19|1|  2|  5|DR. |ÁLDOZÓ TAMÁS RÓBERT                     |
+19|1|  2|  6|    |KROPF MIKLÓS                            |
+19|1|  2|  7|    |SZABÓ SÁNDOR                            |
+19|1|  2|  8|    |FARNADI GYULA                           |
+19|1|  2|  9|DR. |SZIJÁRTÓ ISTVÁN GYÖRGY                  |
+19|1|  2| 10|    |PORGA GYULA                             |
+19|1|  6|  1|DR. |ZONGOR GÁBOR                            |
+19|1|  6|  2|    |HORVÁTH LÁSZLÓ                          |
+19|1|  6|  3|    |BEBESI ISTVÁN                           |
+19|1|  6|  4|    |PANDUR FERENC                           |
+19|1|  6|  5|    |FARKAS BÉLA ISTVÁN                      |
+19|1|  6|  6|    |BOROS DÉNES                             |
+19|1|  6|  7|    |SZENTE ISTVÁN                           |
+19|1|  6|  8|DR. |SZUNDY BÉLA SÁNDOR                      |
+19|1|  6|  9|    |IGAZ SÁNDOR                             |
+19|1|  6| 10|    |TÓTH IMRE FERENC                        |
+19|1|  6| 11|    |KENÉZNÉ BEREI GYÖRGYI                   |
+19|1| 11|  1|    |KUTI CSABA                              |
+19|1| 11|  2|    |MÁHL FERENC                             |
+19|1| 11|  3|DR. |HORVÁTH BALÁZS                          |
+19|2|  4|  1|    |PUSZTAI ISTVÁN                          |
+19|2|  4|  2|    |LESZKOVSZKI TIBOR                       |
+19|2|  4|  3|    |KOVÁCS ZOLTÁN JÁNOS                     |
+19|2|  4|  4|    |BAKY GYÖRGY                             |
+19|2|  4|  5|DR. |KARASZI MIHÁLY                          |
+19|2|  4|  6|    |SIBAK ANDRÁS                            |
+19|2|  4|  7|    |GEIPL MIKLÓSNÉ                          |
+19|2|  4|  8|    |TÓTH ISTVÁN                             |
+19|2|  4|  9|DR. |HORVÁTH JÓZSEF                          |
+19|2| 10|  1|DR. |KONTRÁT KÁROLY                          |
+19|2| 10|  2|    |ÁCS JÁNOS                               |
+19|2| 10|  3|DR. |NAGY ZOLTÁN                             |
+19|2| 10|  4|    |PÁLFY SÁNDOR                            |
+19|2| 10|  5|    |GALAMBOS SZILVIA                        |
+19|2| 10|  6|    |MAURER KONRÁD                           |
+19|2| 10|  7|DR. |BAUER NÁNDORNÉ                          |
+20|1|  1|  1|DR. |BOROS IMRE                              |
+20|1|  1|  2|    |KÖCSE TIBOR                             |
+20|1|  1|  3|    |TARGUBA ÁRPÁD                           |
+20|1|  9|  1|    |VARGA LÁSZLÓ                            |
+20|1|  9|  2|    |GÓRA BALÁZS                             |
+20|1|  9|  3|    |PAPP FERENC                             |
+20|1|  9|  4|DR. |SZABÓ BALÁZS                            |
+20|1|  9|  5|    |KOLLÁR GYULA                            |
+20|1|  9|  6|    |ROSTONICS LÁSZLÓ                        |
+20|1|  9|  7|    |TÜTTÕ ISTVÁN                            |
+20|1|  9|  8|    |TORNYOS CSABA                           |
+20|1|  9|  9|    |SZABÓ KATALIN                           |
+20|1|  9| 10|    |SZÕKE GYÖRGY                            |
+20|1|  9| 11|    |VÁRADI ISTVÁNNÉ                         |
+20|1|  9| 12|DR. |HORVÁTH ISTVÁN                          |
+20|1|  9| 13|    |VARGA ERZSÉBET                          |
+20|1|  9| 14|    |SIPOS JÁNOS                             |
+20|1| 15|  1|    |KISS BÓDOG ZOLTÁN                       |
+20|1| 15|  2|DR. |PÁL ATTILA FERENC                       |
+20|1| 15|  3|    |GARAMVÖLGYI GYÖRGY                      |
+20|1| 15|  4|    |SZIRÁKI ISTVÁN                          |
+20|1| 15|  5|    |SZÉPHALMI MIKLÓS                        |
+20|1| 15|  6|    |TÖRÕCSIK PÁL                            |
+20|1| 15|  7|    |KOVÁCS JÁNOS                            |
+20|1| 15|  8|IFJ.|PÁCSONYI IMRE                           |
+20|1| 15|  9|    |SZALÓKI JENÕ                            |
+20|1| 15| 10|    |GAÁL LÁSZLÓ                             |
+20|1| 15| 11|    |NAGY TAMÁS                              |
+20|1| 15| 12|    |VIGH LÁSZLÓ GYÕZÕ                       |
+20|1| 15| 13|    |VAJDA LÁSZLÓ                            |
+20|1| 15| 14|    |PINTÉR LÁSZLÓ                           |
+20|1| 15| 15|DR. |SELMECZI KAMILL GYÖRGY                  |
+20|1| 15| 16|    |CSOMOR JÚLIA                            |
+20|1| 17|  1|    |LÓRÁNTH JÓZSEF                          |
+20|1| 17|  2|    |PÁL ZOLTÁN                              |
+20|2|  1|  1|    |MANNINGER JENÕ VILMOS                   |
+20|2|  1|  2|    |BORSOS JÓZSEF                           |
+20|2|  1|  3|    |HORVÁTH ALAJOS                          |
+20|2|  6|  1|    |KENESEI ZOLTÁN JÁNOS                    |
+20|2|  6|  2|    |MACZUCZA ÉVA MÁRIA                      |

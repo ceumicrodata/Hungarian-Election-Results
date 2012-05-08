@@ -1,0 +1,5 @@
+  1| 1|    36|MAGYAR SZOCIALISTA PÁRT                                                                   |
+  2| 1|    38|LEHET MÁS A POLITIKA                                                                      |
+  3| 1|   169|JOBBIK MAGYARORSZÁGÉRT MOZGALOM                                                           |
+  4| 1|   199|Fidesz - Magyar Polgári Szövetség                                                         |
+  4| 2|   189|Kereszténydemokrata Néppárt                                                               |

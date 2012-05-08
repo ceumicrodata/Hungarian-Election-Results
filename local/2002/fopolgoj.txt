@@ -1,0 +1,6 @@
+  1|    |CSURKA ISTVÁN                           |  24341|  0|
+  2|DR. |DEMSZKY GÁBOR                           | 348534|  1|
+  3|    |DROPPA GYÖRGY                           |   4404|  0|
+  4|    |GY. NÉMETH ERZSÉBET                     |  98289|  0|
+  5|    |KARACS LAJOSNÉ                          |   3121|  0|
+  6|DR. |SCHMITT PÁL                             | 267563|  0|

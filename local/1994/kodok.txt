@@ -1,0 +1,18 @@
+13|0|Választás eredménytelen|
+13|1|Választás eredményes|
+13|2|Megsemmisített eredmény|A választási bizottság vagy bíróság az eredményt megsemmisítette
+13|3|Érvénytelen választás|
+25|A|Megyei lista 10e és alatti|A megyék 10000 és az alatti lakosú településeinek választókerületében állított lista, a megyei közgyûlés megválasztásához
+25|F|Megyei lista 10e feletti|A megyék 10000 feletti lakosú településeinek választókerületében állított lista, a megyei közgyûlés megválasztásához
+25|B|Fõvárosi közgyûlési lista|A fõváros kerületeinek választókerületében állított lista, a fõvárosi közgyûlés megválasztásához
+29|1|Mandátumot nyert|
+29|2|Kedvezményes mandátumot nyert|
+29|3|Nem nyert mandátumot|
+29|4|Nyert, de VB érvénytelenítette|
+29|5|Polgármester, fõpolgármester lett|
+29|6|Nyert, de lemondott mandátumáról|
+29|7|Egyéni VK-ben nyert|Vegyes választási rendszerben a jelölt egyéni választókerületben mandátumhoz jutott, ezért a kompenzációs listán már nem juthat mandátumhoz
+57|1|Párt, pártcsoport|
+57|1|Társadalmi szervezet, szervezetcsoport|
+57|2|Kisebbségi szervezet, szervezetcsoport|
+57|4|Független jelölt|

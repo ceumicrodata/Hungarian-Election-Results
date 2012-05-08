@@ -1,0 +1,497 @@
+01|BUDAPEST|3|Fõvárosi közgyûlési lista|1|642|FKGP|1027|FKGP|16527|0|0|Nem / nincs / stb
+01|BUDAPEST|3|Fõvárosi közgyûlési lista|2|631|SZDSZ|1030|SZDSZ|160552|18|1|Igen / van / stb
+01|BUDAPEST|3|Fõvárosi közgyûlési lista|3|619|MSZP|1004|MSZP|175301|20|1|Igen / van / stb
+01|BUDAPEST|3|Fõvárosi közgyûlési lista|4|687|UNIÓ|1033|UNIÓ|3770|0|0|Nem / nincs / stb
+01|BUDAPEST|3|Fõvárosi közgyûlési lista|5|620|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|16753|0|0|Nem / nincs / stb
+01|BUDAPEST|3|Fõvárosi közgyûlési lista|6|665|MIÉP|1032|MIÉP|58104|6|1|Igen / van / stb
+01|BUDAPEST|3|Fõvárosi közgyûlési lista|7|654|FIDESZ  MDF|1010;1026|Fidesz;MDF|200865|22|1|Igen / van / stb
+01|BUDAPEST|3|Fõvárosi közgyûlési lista|8|676|KDNP|1040|KDNP|5541|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|1|650|CIGÁNY KIS ÖNK.BM.-I SZÖV.|1735|CKÖ.BM.SZÖV.|2254|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|2|622|SIKLÓSI KÖRZ.OKT.INT.SZAKMAI E|1129|SKONISZ|823|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|3|592|NÉMET KÖR|1427|NÉMET KÖR|2343|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|4|521|SZDSZ|1030|SZDSZ|5942|3|1|Igen / van / stb
+02|BARANYA|1|Megyei lista 10e és alatti|5|545|MIÉP-KDNP-K.SZ.|1032;1040;1208|MIÉP;KDNP;KSZ|2947|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|6|514|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|16081|8|1|Igen / van / stb
+02|BARANYA|1|Megyei lista 10e és alatti|7|667|LUNGO DROM|1039|"LUNGO DROM"|899|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|8|674|S.ROMAKLUB SV.CIGÁNYOKÉRT ÉSZ.|1631;1630|S. ROMA KLUB;SV. CIGÁNYOKÉRT|765|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|9|639|BARANYA MEGYEI TESZÖV|1741|MG TERMELÕK SZÖV|1956|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|10|608|ZÖLD ALTERNATÍVA|1251|ZA|1171|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|11|646|ÖSSZEFOGÁS BARANYÁÉRT|1777;1779;1778;1780|DBHTE;MVVE;SVMK;EHE|2404|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|12|573|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|2367|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|13|615|FIDESZ-MDF|1010;1026|Fidesz;MDF|17891|9|1|Igen / van / stb
+02|BARANYA|1|Megyei lista 10e és alatti|14|538|FKGP-POLGÁRI KÖR BAR.|1027;1431|FKGP;POLGÁRI KÖR BAR.|8612|5|1|Igen / van / stb
+02|BARANYA|1|Megyei lista 10e és alatti|15|559|BARANYA MEGYEI FALUGONDNOKOK|1371|FALUGONDNOKOK|1419|0|0|Nem / nincs / stb
+02|BARANYA|1|Megyei lista 10e és alatti|16|566|BARANYÁÉRT EGY-FÜGGEGYBARTEL-N|1389;1388;1390;1391|BARANYÁÉRT EGY;FÜGGEGYBARTEL;NYUGDBMKÉPV;MÛVEGYSZÖV|7943|4|1|Igen / van / stb
+02|BARANYA|2|Megyei lista 10e feletti|1|794|NÉMET KÖR|1427|NÉMET KÖR|816|0|0|Nem / nincs / stb
+02|BARANYA|2|Megyei lista 10e feletti|2|723|SZDSZ|1030|SZDSZ|1745|1|1|Igen / van / stb
+02|BARANYA|2|Megyei lista 10e feletti|3|768|HONISM. ÉS VÁROSSZÉP.EGYESÜLET|1370|HONISM.ÉS V.EGY|1246|1|1|Igen / van / stb
+02|BARANYA|2|Megyei lista 10e feletti|4|852|SROMAKLUB ÉS SV CIGÁNYOKÉRTÉSZ|1631;1630|S. ROMA KLUB;SV. CIGÁNYOKÉRT|243|0|0|Nem / nincs / stb
+02|BARANYA|2|Megyei lista 10e feletti|5|751|MIÉP-KDNP-K.SZ.|1032;1040;1208|MIÉP;KDNP;KSZ|1087|0|1|Igen / van / stb
+02|BARANYA|2|Megyei lista 10e feletti|6|775|LUNGO DROM|1039|"LUNGO DROM"|332|0|0|Nem / nincs / stb
+02|BARANYA|2|Megyei lista 10e feletti|7|817|FIDESZ-MDF|1010;1026|Fidesz;MDF|5559|4|1|Igen / van / stb
+02|BARANYA|2|Megyei lista 10e feletti|8|730|KOMLÓI POLGÁRI KÖR|1105|KPKE|621|0|0|Nem / nincs / stb
+02|BARANYA|2|Megyei lista 10e feletti|9|747|FKGP-POLGÁRI KÖR BAR.|1027;1431|FKGP;POLGÁRI KÖR BAR.|1568|1|1|Igen / van / stb
+02|BARANYA|2|Megyei lista 10e feletti|10|831|BARANYA MEGYEI TESZÖV|1741|MG TERMELÕK SZÖV|228|0|0|Nem / nincs / stb
+02|BARANYA|2|Megyei lista 10e feletti|11|824|ÖSSZEFOGÁS BARANYÁÉRT|1777;1779;1778;1780|DBHTE;MVVE;SVMK;EHE|722|0|0|Nem / nincs / stb
+02|BARANYA|2|Megyei lista 10e feletti|12|782|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|849|0|1|Igen / van / stb
+02|BARANYA|2|Megyei lista 10e feletti|13|800|ZÖLD ALTERNATÍVA|1251|ZA|200|0|0|Nem / nincs / stb
+02|BARANYA|2|Megyei lista 10e feletti|14|848|CIGÁNY KIS ÖNK.BM.-I SZÖV.|1735|CKÖ.BM.SZÖV.|248|0|0|Nem / nincs / stb
+02|BARANYA|2|Megyei lista 10e feletti|15|716|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|5082|4|1|Igen / van / stb
+03|BÁCS|1|Megyei lista 10e és alatti|1|593|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|2267|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|2|515|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|18477|9|1|Igen / van / stb
+03|BÁCS|1|Megyei lista 10e és alatti|3|651|NÉMET KISEBBSÉG|1925|NÉMET KISEBBSÉG|2463|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|4|694|CIVIL SZÖVETSÉG|1319;1942;1941;1793;1939|ÉÉKLSZ;CIVIL SZÖVETSÉG3;CIVIL SZÖVETSÉG2;KKF.NYUG.K.EGY.;CIVIL SZÖVETSÉG1|2113|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|5|668|NYUGD.BKKM ÉRDV|1926|NYUGD.BKKM ÉRDV|3217|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|6|647|POLGÁRI KÖRÖK SZÖVETSÉGE|1924|POLG. KÖRÖK SZÖV|859|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|7|682|NÕEGYLET|1910|NÕEGYLET|1137|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|8|609|FEBÖSZ|1916|FEBÖSZ|2321|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|9|616|GAZDAKÖRÖK ÉS GAZDAJEGYZÕK KKE|1950;1951|GAZDAKÖRÖK SZÖV.;GAZDAJEGYZÕK KKE|2259|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|10|539|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|2644|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|11|675|POLGÁRMESTEREK|1927|POLG.MEST.BKKM|2845|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|12|581|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|1404|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|13|550|SZÖVETSÉG A KISTELEPÜLÉSEKÉRT|1440|SZÖKI|3181|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|14|623|BÚZAVIRÁG KÖRNYEZETVÉDELMI E.|1919|BÚZAVIRÁG KVE.|2016|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|15|567|SZABAD DEMORATÁK SZÖVETSÉGE|1030|SZDSZ|2955|0|0|Nem / nincs / stb
+03|BÁCS|1|Megyei lista 10e és alatti|16|522|FIDESZ-MDF|1010;1026|Fidesz;MDF|23742|12|1|Igen / van / stb
+03|BÁCS|1|Megyei lista 10e és alatti|17|574|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|11132|6|1|Igen / van / stb
+03|BÁCS|1|Megyei lista 10e és alatti|18|630|BKM CIGÁNY ÉRDEKKÉPV. SZERV.|1438|BKMCÉSZ|371|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|1|860|CIVIL SZÖVETSÉG|1319;1942;1941;1793;1939|ÉÉKLSZ;CIVIL SZÖVETSÉG3;CIVIL SZÖVETSÉG2;KKF.NYUG.K.EGY.;CIVIL SZÖVETSÉG1|3809|2|1|Igen / van / stb
+03|BÁCS|2|Megyei lista 10e feletti|2|783|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|1135|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|3|769|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|6135|3|1|Igen / van / stb
+03|BÁCS|2|Megyei lista 10e feletti|4|818|POLGÁRI KÖRÖK SZÖVETSÉGE|1924|POLG. KÖRÖK SZÖV|3432|1|1|Igen / van / stb
+03|BÁCS|2|Megyei lista 10e feletti|5|825|NÉMET KISEBBSÉG|1925|NÉMET KISEBBSÉG|387|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|6|717|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|12553|5|1|Igen / van / stb
+03|BÁCS|2|Megyei lista 10e feletti|7|776|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|1392|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|8|795|GAZDAKÖRÖK SZÖV.-GAZDAJEGYZÕK|1950;1951|GAZDAKÖRÖK SZÖV.;GAZDAJEGYZÕK KKE|1155|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|9|832|NYUGD.BKKM ÉRDV|1926|NYUGD.BKKM ÉRDV|1224|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|10|853|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1833|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|11|752|ELSÕ MAGYAR VIDÉKI NÕEGYLET|1910|NÕEGYLET|398|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|12|849|POLGÁRMESTEREK|1927|POLG.MEST.BKKM|364|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|13|801|BKM CIGÁNY ÉRDEKKÉPV. SZERV.|1438|BKMCÉSZ|650|0|0|Nem / nincs / stb
+03|BÁCS|2|Megyei lista 10e feletti|14|724|FIDESZ-MDF|1010;1026|Fidesz;MDF|14455|6|1|Igen / van / stb
+03|BÁCS|2|Megyei lista 10e feletti|15|748|SZABAD DEMOKRATÁK SZÖVETSÉGE|1030|SZDSZ|4917|2|1|Igen / van / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|1|563|BÉKÉS MEGYEI CIGÁNYLAKOSOK E.|1063|B.M.C.E.|864|0|0|Nem / nincs / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|2|535|MAGYARORSZ.SZOCDEM. PÁRT|1057|MSZDP|1766|0|0|Nem / nincs / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|3|542|FKGP-KDNP|1027;1040|FKGP;KDNP|10395|4|1|Igen / van / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|4|556|BÉKÉS MEGYEI GAZDÁSZ EGYESÜLET|1571|BMGE|1575|0|0|Nem / nincs / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|5|511|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|18151|7|1|Igen / van / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|6|605|KÖSZ|1787|KÖSZ|2987|1|1|Igen / van / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|7|587|SZABAD DEMOKRATÁK SZÖVETSÉGE|1030|SZDSZ|5644|2|1|Igen / van / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|8|599|"ÉLETET AZ ÉVEKNEK" KLUBSZÖV.|1319|ÉÉKLSZ|3113|1|1|Igen / van / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|9|612|KISTELEPÜLÉSEK POLGÁRMESTEREI|1308|KPBME|3241|1|1|Igen / van / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|10|570|FIDESZ - MDF - MKDSZ|1010;1026;1035|Fidesz;MDF;MKDSZ|13115|5|1|Igen / van / stb
+04|BÉKÉS|1|Megyei lista 10e és alatti|11|528|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|2757|1|1|Igen / van / stb
+04|BÉKÉS|2|Megyei lista 10e feletti|1|789|SZABAD DEMOKRATÁK SZÖVETSÉGE|1030|SZDSZ|2796|1|1|Igen / van / stb
+04|BÉKÉS|2|Megyei lista 10e feletti|2|720|ÖSSZEFOGÁS GYULÁÉRT EGYESÜLET|1312;1313|ÖGYE;GYNYÉE|1628|0|0|Nem / nincs / stb
+04|BÉKÉS|2|Megyei lista 10e feletti|3|758|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|2292|1|1|Igen / van / stb
+04|BÉKÉS|2|Megyei lista 10e feletti|4|791|BÉKÉS MEGYEI CIGÁNYLAKOSOK E.|1063|B.M.C.E.|402|0|0|Nem / nincs / stb
+04|BÉKÉS|2|Megyei lista 10e feletti|5|737|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|1665|0|0|Nem / nincs / stb
+04|BÉKÉS|2|Megyei lista 10e feletti|6|713|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|14122|6|1|Igen / van / stb
+04|BÉKÉS|2|Megyei lista 10e feletti|7|772|FIDESZ - MDF - MKDSZ|1010;1026;1035|Fidesz;MDF;MKDSZ|11626|5|1|Igen / van / stb
+04|BÉKÉS|2|Megyei lista 10e feletti|8|814|KISTELEPÜLÉSEK POLGÁRMESTEREI|1308|KPBME|1888|1|1|Igen / van / stb
+04|BÉKÉS|2|Megyei lista 10e feletti|9|744|FKGP-KDNP|1027;1040|FKGP;KDNP|7919|4|1|Igen / van / stb
+05|BORSOD|1|Megyei lista 10e és alatti|1|569|GÖMÖR SZUHA BÓDVA TEL SZÖV|1560;1561;1564|GÖMÖR;SZUHA;BÓDVA|4830|0|0|Nem / nincs / stb
+05|BORSOD|1|Megyei lista 10e és alatti|2|552|MIÉP-KDNP|1032;1040|MIÉP;KDNP|7294|2|1|Igen / van / stb
+05|BORSOD|1|Megyei lista 10e és alatti|3|618|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|1185|0|0|Nem / nincs / stb
+05|BORSOD|1|Megyei lista 10e és alatti|4|576|BORSODI ÕRHEGY SZÖVETSÉG|1663|ÕRHEGY|3396|0|0|Nem / nincs / stb
+05|BORSOD|1|Megyei lista 10e és alatti|5|517|ZEMPLÉNI TELEPÜLÉSZÖVETSÉG|1249|ZTSZ|15534|5|1|Igen / van / stb
+05|BORSOD|1|Megyei lista 10e és alatti|6|601|HEGYKÖZI SZÖVETSÉG|1700|HEGYKÖZI SZÖV.|2841|0|0|Nem / nincs / stb
+05|BORSOD|1|Megyei lista 10e és alatti|7|531|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|43543|13|1|Igen / van / stb
+05|BORSOD|1|Megyei lista 10e és alatti|8|548|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|14529|4|1|Igen / van / stb
+05|BORSOD|1|Megyei lista 10e és alatti|9|583|FÜGGETLEN BORSODI KISGAZDÁK|1291|BORSODI KISGAZDA|5032|0|0|Nem / nincs / stb
+05|BORSOD|1|Megyei lista 10e és alatti|10|625|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|51945|16|1|Igen / van / stb
+05|BORSOD|1|Megyei lista 10e és alatti|11|632|NÉPPÁRT|1047|MDNP|1711|0|0|Nem / nincs / stb
+05|BORSOD|1|Megyei lista 10e és alatti|12|595|SZDSZ|1030|SZDSZ|3672|0|0|Nem / nincs / stb
+05|BORSOD|1|Megyei lista 10e és alatti|13|524|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|6458|0|0|Nem / nincs / stb
+05|BORSOD|1|Megyei lista 10e és alatti|14|649|KERESZTÉNY SZAKSZERVEZETEK|1328|KSZSZ BAZ MEGYE|1770|0|0|Nem / nincs / stb
+05|BORSOD|2|Megyei lista 10e feletti|1|803|EGYÜTT MAGYARORSZÁGÉRT UNIÓ|1033|UNIÓ|535|0|0|Nem / nincs / stb
+05|BORSOD|2|Megyei lista 10e feletti|2|841|SZDSZ|1030|SZDSZ|3712|1|1|Igen / van / stb
+05|BORSOD|2|Megyei lista 10e feletti|3|855|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|1146|0|0|Nem / nincs / stb
+05|BORSOD|2|Megyei lista 10e feletti|4|733|FÜGGETLEN SZÖVETSÉG|1149|FÜGGETLEN SZÖV|1015|0|0|Nem / nincs / stb
+05|BORSOD|2|Megyei lista 10e feletti|5|785|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|2607|1|1|Igen / van / stb
+05|BORSOD|2|Megyei lista 10e feletti|6|761|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|2778|1|1|Igen / van / stb
+05|BORSOD|2|Megyei lista 10e feletti|7|740|ÁHÉSZ|1036|ÁHÉSZ|344|0|0|Nem / nincs / stb
+05|BORSOD|2|Megyei lista 10e feletti|8|810|GÖMÖR SZUHA BÓDVA TEL SZÖV|1560;1561;1564|GÖMÖR;SZUHA;BÓDVA|1649|0|0|Nem / nincs / stb
+05|BORSOD|2|Megyei lista 10e feletti|9|778|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|19010|7|1|Igen / van / stb
+05|BORSOD|2|Megyei lista 10e feletti|10|754|ZEMPLÉNI TELEPÜLÉSSZÖVETSÉG|1249|ZTSZ|5555|2|1|Igen / van / stb
+05|BORSOD|2|Megyei lista 10e feletti|11|719|ÓRESZ-ÉMRU FTSZ-ÓIC-ÓCSZ|1017;1018;1019;1021|ÓRESZ;ÉMRU FTSZ;ÓIC;ÓCSZ|472|0|0|Nem / nincs / stb
+05|BORSOD|2|Megyei lista 10e feletti|12|834|FÜGGETLEN BORSODI KISGAZDÁK|1291|BORSODI KISGAZDA|431|0|0|Nem / nincs / stb
+05|BORSOD|2|Megyei lista 10e feletti|13|862|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|16371|6|1|Igen / van / stb
+05|BORSOD|2|Megyei lista 10e feletti|14|827|BORSODI ÕRHEGY SZÖVETSÉG|1663|ÕRHEGY|651|0|0|Nem / nincs / stb
+05|BORSOD|2|Megyei lista 10e feletti|15|797|MIÉP-KDNP|1032;1040|MIÉP;KDNP|3053|1|1|Igen / van / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|1|611|HOMOKHÁTI ÖNKORMÁNYZATOK EGY.|1598|HOMOKHÁT EGY.|2362|2|1|Igen / van / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|2|510|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|1717|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|3|562|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|5738|4|1|Igen / van / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|4|586|MAGYAR DEMOKRATA FÓRUM|1026|MDF|1149|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|5|579|ÚJSZÖVETSÉG-VÁLLALKOZÓK PÁRTJA|1126;1003|ÚJ SZÖVETSÉG;VP|449|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|6|670|FIATALOK CSM SZÖV|1749|FICSOSZ|1330|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|7|699|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|11563|8|1|Igen / van / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|8|598|MEGYÉNKÉRT|1466|CS. MEGYÉNKÉRT|1153|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|9|628|MIÉP-KDNP|1032;1040|MIÉP;KDNP|1514|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|10|541|MAGOSZ CSM|1468|MAGOSZ CSM|515|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|11|527|MTPF|1429|MTPF|3121|2|1|Igen / van / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|12|656|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|7591|6|1|Igen / van / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|13|687|KÖZSÉGI ÖNK. SZÖV.|1787|KÖSZ|1485|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|14|663|MSZDP-NYUGDÍJASOK PÁRTJA|1057;1329|MSZDP;NYUP|1137|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|15|642|MAGY. NÉPP.-NEMZ. PARASZTPÁRT|1124|MNP-NPP|363|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|16|555|PUSZTASZERI TÁJV|1480|PUSZTASZERI TÁJV|3044|2|1|Igen / van / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|17|604|SZDSZ|1030|SZDSZ|1160|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|18|534|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|781|0|0|Nem / nincs / stb
+06|CSONGRÁD|1|Megyei lista 10e és alatti|19|635|MKDSZ|1035|MKDSZ|1951|1|1|Igen / van / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|1|712|EGYÜTT SZENTESÉRT|1352|EGYÜTTSZENTESÉRT|1340|1|1|Igen / van / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|2|736|POLGÁRI SZÖVETSÉG MAKÓÉRT|1395|PSZM|1936|2|1|Igen / van / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|3|757|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|2230|2|1|Igen / van / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|4|764|ÚJ SZÖVETSÉG-MAGYAR NÉPPÁRT|1126;1124|ÚJ SZÖVETSÉG;MNP-NPP|259|0|0|Nem / nincs / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|5|771|MAGYAR DEMOKRATA FÓRUM|1026|MDF|459|0|0|Nem / nincs / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|6|743|ÖSSZEFOGÁS CSONG|1473|ÖSSZEFOGÁS CSONG|3168|2|1|Igen / van / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|7|844|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|219|0|0|Nem / nincs / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|8|820|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|6326|5|1|Igen / van / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|9|806|MIÉP-KDNP|1032;1040|MIÉP;KDNP|913|0|1|Igen / van / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|10|813|MKDSZ - MDNP|1035;1047|MKDSZ;MDNP|659|0|0|Nem / nincs / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|11|858|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|3049|2|1|Igen / van / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|12|729|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|516|0|0|Nem / nincs / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|13|837|MSZDP-EMU-NYUGDÍJASOK PÁRTJA|1057;1033;1329|MSZDP;UNIÓ;NYUP|159|0|0|Nem / nincs / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|14|788|MEGYÉNKÉRT|1466|CS. MEGYÉNKÉRT|287|0|0|Nem / nincs / stb
+06|CSONGRÁD|2|Megyei lista 10e feletti|15|790|SZDSZ|1030|SZDSZ|1154|1|1|Igen / van / stb
+07|FEJÉR|1|Megyei lista 10e és alatti|1|520|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|2617|0|0|Nem / nincs / stb
+07|FEJÉR|1|Megyei lista 10e és alatti|2|544|SZDSZ|1030|SZDSZ|5209|2|1|Igen / van / stb
+07|FEJÉR|1|Megyei lista 10e és alatti|3|537|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|3485|2|1|Igen / van / stb
+07|FEJÉR|1|Megyei lista 10e és alatti|4|572|POLGÁRMESTEREK F.M.-ÉRT|1632|PM.-EK FM.-ÉRT|7997|4|1|Igen / van / stb
+07|FEJÉR|1|Megyei lista 10e és alatti|5|558|FMCFSZ|1081|FMCFSZ|1182|0|0|Nem / nincs / stb
+07|FEJÉR|1|Megyei lista 10e és alatti|6|589|ÉSZT|1636|ÉSZT !|1492|0|0|Nem / nincs / stb
+07|FEJÉR|1|Megyei lista 10e és alatti|7|513|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|22275|11|1|Igen / van / stb
+07|FEJÉR|1|Megyei lista 10e és alatti|8|565|FIDESZ-FKGP-MDF-MKDSZ|1010;1027;1026;1035|Fidesz;FKGP;MDF;MKDSZ|28473|14|1|Igen / van / stb
+07|FEJÉR|1|Megyei lista 10e és alatti|9|591|MIÉP-KDNP|1032;1040|MIÉP;KDNP|3160|1|1|Igen / van / stb
+07|FEJÉR|2|Megyei lista 10e feletti|1|715|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|5318|3|1|Igen / van / stb
+07|FEJÉR|2|Megyei lista 10e feletti|2|774|FMCFSZ|1081|FMCFSZ|224|0|0|Nem / nincs / stb
+07|FEJÉR|2|Megyei lista 10e feletti|3|750|EGYÜTT MAGYARORSZÁGÉRT UNIÓ|1033|UNIÓ|332|0|0|Nem / nincs / stb
+07|FEJÉR|2|Megyei lista 10e feletti|4|767|MIÉP-KDNP|1032;1040|MIÉP;KDNP|434|0|0|Nem / nincs / stb
+07|FEJÉR|2|Megyei lista 10e feletti|5|739|FIDESZ-FKGP-MDF-MKDSZ|1010;1027;1026;1035|Fidesz;FKGP;MDF;MKDSZ|4322|3|1|Igen / van / stb
+07|FEJÉR|2|Megyei lista 10e feletti|6|722|SZDSZ|1030|SZDSZ|690|0|1|Igen / van / stb
+07|FEJÉR|2|Megyei lista 10e feletti|7|746|POLGÁRMESTEREK F.M.-ÉRT|1632|PM.-EK FM.-ÉRT|635|0|1|Igen / van / stb
+08|GYÕR|1|Megyei lista 10e és alatti|1|547|GYMS CÉSZ|1141|GYMS CÉSZ|467|0|0|Nem / nincs / stb
+08|GYÕR|1|Megyei lista 10e és alatti|2|624|SZDSZ|1030|SZDSZ|3362|2|1|Igen / van / stb
+08|GYÕR|1|Megyei lista 10e és alatti|3|582|GYMSME|1270|GYMSME|5343|2|1|Igen / van / stb
+08|GYÕR|1|Megyei lista 10e és alatti|4|551|MEGYEI NYUGDÍJAS SZÖVETSÉG|1347|MENYUSZÖV|6434|3|1|Igen / van / stb
+08|GYÕR|1|Megyei lista 10e és alatti|5|594|CIVIL FÓRUM|1520|CIVIL FÓRUM|341|0|0|Nem / nincs / stb
+08|GYÕR|1|Megyei lista 10e és alatti|6|523|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|14763|7|1|Igen / van / stb
+08|GYÕR|1|Megyei lista 10e és alatti|7|648|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|2609|0|0|Nem / nincs / stb
+08|GYÕR|1|Megyei lista 10e és alatti|8|530|MDNP-MKDSZ-PÉE GYMS|1047;1035;1222|MDNP;MKDSZ;PÉE GYMS|1758|0|0|Nem / nincs / stb
+08|GYÕR|1|Megyei lista 10e és alatti|9|568|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|26560|12|1|Igen / van / stb
+08|GYÕR|1|Megyei lista 10e és alatti|10|617|MAGYAR DEMOKRATA FÓRUM|1026|MDF|6683|3|1|Igen / van / stb
+08|GYÕR|1|Megyei lista 10e és alatti|11|575|FKGP-KDNP|1027;1040|FKGP;KDNP|6702|3|1|Igen / van / stb
+08|GYÕR|1|Megyei lista 10e és alatti|12|600|KISKE|1144|KISKE|1123|0|0|Nem / nincs / stb
+08|GYÕR|1|Megyei lista 10e és alatti|13|631|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|1096|0|0|Nem / nincs / stb
+08|GYÕR|2|Megyei lista 10e feletti|1|718|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|7193|4|1|Igen / van / stb
+08|GYÕR|2|Megyei lista 10e feletti|2|760|GYMSME|1270|GYMSME|596|0|0|Nem / nincs / stb
+08|GYÕR|2|Megyei lista 10e feletti|3|796|SZDSZ|1030|SZDSZ|1268|1|1|Igen / van / stb
+08|GYÕR|2|Megyei lista 10e feletti|4|749|FKGP-KDNP-MDF|1027;1040;1026|FKGP;KDNP;MDF|1884|1|1|Igen / van / stb
+08|GYÕR|2|Megyei lista 10e feletti|5|777|MLBE|1355|MLBE|318|0|0|Nem / nincs / stb
+08|GYÕR|2|Megyei lista 10e feletti|6|802|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|527|0|0|Nem / nincs / stb
+08|GYÕR|2|Megyei lista 10e feletti|7|753|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|4657|3|1|Igen / van / stb
+08|GYÕR|2|Megyei lista 10e feletti|8|784|KISKE|1144|KISKE|463|0|0|Nem / nincs / stb
+08|GYÕR|2|Megyei lista 10e feletti|9|725|MKDSZ-MDNP|1035;1047|MKDSZ;MDNP|459|0|0|Nem / nincs / stb
+08|GYÕR|2|Megyei lista 10e feletti|10|732|MEGYEI NYUGDÍJAS SZÖVETSÉG|1347|MENYUSZÖV|524|0|0|Nem / nincs / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|1|554|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|18197|8|1|Igen / van / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|2|686|MAGYAR PARASZT SZÖVETSÉG|1654|M.P.SZ|1601|0|0|Nem / nincs / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|3|641|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|1198|0|0|Nem / nincs / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|4|578|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|8373|4|1|Igen / van / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|5|655|FALUSI TURIZMUS HAJDÚ-BIHARBAN|1202|FALUSI TURIZMUS|2265|0|0|Nem / nincs / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|6|662|ROMÁK ORSZÁGOS SZÖVETSÉGE|1311|ROSZ|826|0|0|Nem / nincs / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|7|597|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|1453|0|0|Nem / nincs / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|8|634|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|1209|0|0|Nem / nincs / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|9|519|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|14062|7|1|Igen / van / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|10|526|NYÍRSÉG-ERDÕSPUSZTA-TISZAMENTE|1086;1087;1084|NYÍRSÉG;ERDÕSPUSZTA;TISZAMENTE|2751|1|1|Igen / van / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|11|610|SZDSZ|1030|SZDSZ|2679|1|1|Igen / van / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|12|603|MIÉP-K.SZ.|1032;1208|MIÉP;KSZ|2772|1|1|Igen / van / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|13|561|NYUGDÍJAS SZÖVETSÉG|1092|NYUGDÍJASOK HBM|3010|1|1|Igen / van / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|14|533|BIHARI ÖNKORMÁNYZATI SZÖVETSÉG|1082|BIHARI SZÖVETSÉG|3228|1|1|Igen / van / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|15|627|FALUGAZDÁSZ-FALUGAZDÁSZOK-HAJD|1499;1496;1501;1502|FALUGAZDÁSZ;FALUGAZDÁSZOK;GAZDAKÖR;LADÁNYI GAZDAKÖR|1262|0|0|Nem / nincs / stb
+09|HAJDÚ|1|Megyei lista 10e és alatti|16|585|HAJDÚVÁROSOK SZÖVETSÉGE|1083|HAJDÚVÁROSOK|2068|0|0|Nem / nincs / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|1|756|BIHARI ÖNKORMÁNYZATI SZÖVETSÉG|1082|BIHARI SZÖVETSÉG|2395|1|1|Igen / van / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|2|763|HAJDÚVÁROSOK SZÖVETSÉGE|1083|HAJDÚVÁROSOK|5203|3|1|Igen / van / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|3|711|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|8720|4|1|Igen / van / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|4|799|SZDSZ|1030|SZDSZ|2128|1|1|Igen / van / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|5|787|MIÉP-K.SZ.|1032;1208|MIÉP;KSZ|2059|1|1|Igen / van / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|6|805|HBM IPARTESTÜLETI SZÖVETSÉG|1376|IPARTESTÜLETEK|1471|0|0|Nem / nincs / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|7|770|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|697|0|0|Nem / nincs / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|8|735|NYUGDÍJAS SZÖVETSÉG|1092|NYUGDÍJASOK HBM|877|0|0|Nem / nincs / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|9|812|FALUGAZDÁSZ-FALUGAZDÁSZOK-HAJD|1499;1496;1501;1502|FALUGAZDÁSZ;FALUGAZDÁSZOK;GAZDAKÖR;LADÁNYI GAZDAKÖR|800|0|0|Nem / nincs / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|10|836|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|514|0|0|Nem / nincs / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|11|742|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|3026|1|1|Igen / van / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|12|829|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|1290|0|0|Nem / nincs / stb
+09|HAJDÚ|2|Megyei lista 10e feletti|13|728|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|9735|5|1|Igen / van / stb
+10|HEVES|1|Megyei lista 10e és alatti|1|574|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|2791|0|0|Nem / nincs / stb
+10|HEVES|1|Megyei lista 10e és alatti|2|593|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|2912|0|0|Nem / nincs / stb
+10|HEVES|1|Megyei lista 10e és alatti|3|581|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|20854|9|1|Igen / van / stb
+10|HEVES|1|Megyei lista 10e és alatti|4|550|SZDSZ|1030|SZDSZ|3341|2|1|Igen / van / stb
+10|HEVES|1|Megyei lista 10e és alatti|5|546|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|4490|2|1|Igen / van / stb
+10|HEVES|1|Megyei lista 10e és alatti|6|515|ÖSSZEFOGÁS HEVES MEGYÉÉRT|1127|ÖSSZEFOGÁS HME|5483|2|1|Igen / van / stb
+10|HEVES|1|Megyei lista 10e és alatti|7|522|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|6341|3|1|Igen / van / stb
+10|HEVES|1|Megyei lista 10e és alatti|8|609|LUNGO DROM|1039|"LUNGO DROM"|1567|0|0|Nem / nincs / stb
+10|HEVES|1|Megyei lista 10e és alatti|9|539|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|19012|9|1|Igen / van / stb
+10|HEVES|1|Megyei lista 10e és alatti|10|567|NYUGDÍJASOK VÁLASZTÁSI EGY.|1660|NYUVE|5545|3|1|Igen / van / stb
+10|HEVES|1|Megyei lista 10e és alatti|11|616|MAGYAR DEMOKRATA FÓRUM|1026|MDF|1352|0|0|Nem / nincs / stb
+10|HEVES|2|Megyei lista 10e feletti|1|783|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|739|0|0|Nem / nincs / stb
+10|HEVES|2|Megyei lista 10e feletti|2|776|NYUGDÍJASOK VÁLASZTÁSI EGY.|1660|NYUVE|922|0|1|Igen / van / stb
+10|HEVES|2|Megyei lista 10e feletti|3|801|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1120|0|1|Igen / van / stb
+10|HEVES|2|Megyei lista 10e feletti|4|717|ÖSSZEFOGÁS HEVES MEGYÉÉRT|1127|ÖSSZEFOGÁS HME|1302|1|1|Igen / van / stb
+10|HEVES|2|Megyei lista 10e feletti|5|731|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|6465|4|1|Igen / van / stb
+10|HEVES|2|Megyei lista 10e feletti|6|724|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|1136|1|1|Igen / van / stb
+10|HEVES|2|Megyei lista 10e feletti|7|769|HATVAN BARÁTAINAK EGYESÜLETE|1055|HVBE|232|0|0|Nem / nincs / stb
+10|HEVES|2|Megyei lista 10e feletti|8|795|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|4806|3|1|Igen / van / stb
+10|HEVES|2|Megyei lista 10e feletti|9|752|SZDSZ|1030|SZDSZ|1719|1|1|Igen / van / stb
+10|HEVES|2|Megyei lista 10e feletti|10|748|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|612|0|0|Nem / nincs / stb
+10|HEVES|2|Megyei lista 10e feletti|11|818|MAGYAR DEMOKRATA FÓRUM|1026|MDF|865|0|1|Igen / van / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|1|542|SZDSZ|1030|SZDSZ|3518|1|1|Igen / van / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|2|599|PEDAGÓGUSOK SZAKSZERVEZETE|1323|P.SZ.|2255|0|0|Nem / nincs / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|3|612|GAZDAKÖRÖK SZÖVETSÉGE|1674|GAZDAKÖRÖK  SZÖV|1245|0|0|Nem / nincs / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|4|563|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|3341|1|1|Igen / van / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|5|570|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|8768|4|1|Igen / van / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|6|535|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|17237|7|1|Igen / van / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|7|528|MDF-KDNP|1026;1040|MDF;KDNP|1904|0|0|Nem / nincs / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|8|636|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1575|0|0|Nem / nincs / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|9|587|TELEPÜLÉSEK SZÖVETSÉGE|1588;1591;1594|JÁSZ. ÖNK. SZÖV.;TELEPÜLÉSSZÖV.;TISZAZUGI TELSZ.|5336|2|1|Igen / van / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|10|629|JNKSZ. MEGYEI NYUGDÍJAS EGY.|1707|NYMKÉE|2621|1|1|Igen / van / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|11|605|ORSZÁGOS POLGÁRÕR SZÖVETSÉG|1662|OPSZ|819|0|0|Nem / nincs / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|12|511|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|15307|6|1|Igen / van / stb
+11|JÁSZ|1|Megyei lista 10e és alatti|13|556|LUNGO DROM|1039|"LUNGO DROM"|890|0|0|Nem / nincs / stb
+11|JÁSZ|2|Megyei lista 10e feletti|1|838|OPSZ JÁSZ-NK-SZOLNOK|1662|OPSZ|649|0|0|Nem / nincs / stb
+11|JÁSZ|2|Megyei lista 10e feletti|2|814|KISGAZDA SZÖVETSÉG|1208|KSZ|807|0|0|Nem / nincs / stb
+11|JÁSZ|2|Megyei lista 10e feletti|3|807|JNKSZ. MEGYEI NYUGDÍJAS EGY.|1707|NYMKÉE|1560|0|0|Nem / nincs / stb
+11|JÁSZ|2|Megyei lista 10e feletti|4|772|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|4619|2|1|Igen / van / stb
+11|JÁSZ|2|Megyei lista 10e feletti|5|720|MDF-KDNP|1026;1040|MDF;KDNP|1787|1|1|Igen / van / stb
+11|JÁSZ|2|Megyei lista 10e feletti|6|713|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|10987|5|1|Igen / van / stb
+11|JÁSZ|2|Megyei lista 10e feletti|7|765|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|2126|1|1|Igen / van / stb
+11|JÁSZ|2|Megyei lista 10e feletti|8|789|MEZÕTÚRI FÜGGETLENEK SZERV.|1080|M FÜGGETLENEK SZ|628|0|0|Nem / nincs / stb
+11|JÁSZ|2|Megyei lista 10e feletti|9|758|SZDSZ|1030|SZDSZ|5703|3|1|Igen / van / stb
+11|JÁSZ|2|Megyei lista 10e feletti|10|737|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|11088|6|1|Igen / van / stb
+11|JÁSZ|2|Megyei lista 10e feletti|11|821|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1198|0|0|Nem / nincs / stb
+11|JÁSZ|2|Megyei lista 10e feletti|12|744|IPARTESTÜLET-IPOSZ JNKSZOLNOK|1115;1393|KG. IPARTESTÜLET;IPOSZ JNKSZOLNOK|523|0|0|Nem / nincs / stb
+11|JÁSZ|2|Megyei lista 10e feletti|13|845|TÚRKEVÉN ÉLÕKÉRT|1626|TÚRKEVÉN|799|0|0|Nem / nincs / stb
+11|JÁSZ|2|Megyei lista 10e feletti|14|791|PEDAGÓGUSOK SZAKSZERVEZETE|1323|P.SZ.|948|0|0|Nem / nincs / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|1|606|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|15662|8|1|Igen / van / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|2|590|MAGYAR DEMOKRATA FÓRUM|1026|MDF|1915|0|0|Nem / nincs / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|3|557|POLGÁRMESTEREK|1358;1309|POLGÁRMESTEREK;NF|3958|2|1|Igen / van / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|4|564|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|5405|3|1|Igen / van / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|5|588|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1694|0|0|Nem / nincs / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|6|543|SZDSZ|1030|SZDSZ|2028|1|1|Igen / van / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|7|571|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|1694|0|0|Nem / nincs / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|8|613|ÖNKÉNTES TÛZOLTÓ EGYESÜLET|1758|ÖTE|817|0|0|Nem / nincs / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|9|536|MEGYEI VADÁSZSZÖVETSÉG|1321|KEM VVSZSZ|954|0|0|Nem / nincs / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|10|529|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|14482|8|1|Igen / van / stb
+12|KOMÁROM|1|Megyei lista 10e és alatti|11|512|VAN REMÉNYSÉG KLUB|1013|VRK|301|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|1|721|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|9906|6|1|Igen / van / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|2|780|KÖRNYEZETVÉDELMI EGYESÜLET|1658|KÖRNYEZETVÉDÕK|677|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|3|792|MAGYAR DEMOKRATA FÓRUM|1026|MDF|1372|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|4|714|VAN REMÉNYSÉG KLUB|1013|VRK|193|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|5|738|SZDSZ|1030|SZDSZ|3519|2|1|Igen / van / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|6|846|RUDNAY EGYESÜLET|1157|RUDNAY EGYESÜLET|912|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|7|766|POLGÁRMESTEREK SZÖVETSÉGE|1558|POLG. SZÖV.|2639|2|1|Igen / van / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|8|839|SZÖVETSÉG A TISZTA KÖZÉLETÉRT|1433|VSZTK|569|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|9|850|EGYÜTT ESZTERGOMÉRT EGYESÜLET|1614|3E|1072|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|10|745|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|1711|1|1|Igen / van / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|11|759|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|1109|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|12|815|MAGYARORSZ.SZOCDEM. PÁRT|1057|MSZDP|332|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|13|808|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|10137|7|1|Igen / van / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|14|822|NEMZETISÉGI FÓRUM|1309|NF|293|0|0|Nem / nincs / stb
+12|KOMÁROM|2|Megyei lista 10e feletti|15|773|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1070|0|0|Nem / nincs / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|1|518|FIDESZ-MKDSZ-MDNP|1010;1035;1047|Fidesz;MKDSZ;MDNP|18334|11|1|Igen / van / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|2|584|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|5066|3|1|Igen / van / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|3|549|SZDSZ|1030|SZDSZ|2572|2|1|Igen / van / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|4|525|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|13804|8|1|Igen / van / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|5|553|KÖZSÉGI ÖNKORMÁNYZATOK SZÖV.|1787|KÖSZ|3766|2|1|Igen / van / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|6|560|FALUSZÖVETSÉG-TESZ|1640;1310|FALUSZÖVETSÉG;TESZ|2128|0|0|Nem / nincs / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|7|596|MAGYARORSZ.SZOCDEM. PÁRT|1057|MSZDP|610|0|0|Nem / nincs / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|8|602|KDNP-MDF|1040;1026|KDNP;MDF|3576|2|1|Igen / van / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|9|577|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1185|0|0|Nem / nincs / stb
+13|NÓGRÁD|1|Megyei lista 10e és alatti|10|532|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|4234|2|1|Igen / van / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|1|779|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|443|0|0|Nem / nincs / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|2|734|BÁTONYTERENYE BARÁTAINAK KÖRE|1299|BÁTONY BARÁTI K.|537|0|0|Nem / nincs / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|3|727|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|4574|4|1|Igen / van / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|4|798|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|1140|1|1|Igen / van / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|5|710|FIDESZ-MKDSZ-MDNP|1010;1035;1047|Fidesz;MKDSZ;MDNP|4083|3|1|Igen / van / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|6|804|MAGYARORSZ.SZOCDEM. PÁRT|1057|MSZDP|113|0|0|Nem / nincs / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|7|762|KDNP-MDF|1040;1026|KDNP;MDF|998|1|1|Igen / van / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|8|755|SZDSZ|1030|SZDSZ|1329|1|1|Igen / van / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|9|741|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|698|0|1|Igen / van / stb
+13|NÓGRÁD|2|Megyei lista 10e feletti|10|786|NÓGRÁD M-I CIG. KÉPV. SZÖV.|1696|NMCKKSZSZ|136|0|0|Nem / nincs / stb
+14|PEST|1|Megyei lista 10e és alatti|1|573|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|3613|0|0|Nem / nincs / stb
+14|PEST|1|Megyei lista 10e és alatti|2|639|IPARTESTÜLETEK-AGRÁRSZÖVETSÉG|1831;1016|IPTSZ;AGRÁRSZÖVETSÉG|1444|0|0|Nem / nincs / stb
+14|PEST|1|Megyei lista 10e és alatti|3|580|MIÉP-KDNP-METÉSZ-KSZ|1032;1040;1252;1208|MIÉP;KDNP;METÉSZ;KSZ|9853|2|1|Igen / van / stb
+14|PEST|1|Megyei lista 10e és alatti|4|615|PMFPSZ|1814|PMFPSZ|11464|3|1|Igen / van / stb
+14|PEST|1|Megyei lista 10e és alatti|5|521|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|57686|15|1|Igen / van / stb
+14|PEST|1|Megyei lista 10e és alatti|6|559|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|16406|4|1|Igen / van / stb
+14|PEST|1|Megyei lista 10e és alatti|7|566|PVSZ|1153|PVSZ|2530|0|0|Nem / nincs / stb
+14|PEST|1|Megyei lista 10e és alatti|8|514|PEST MEGYEI SZOC.INT.EGYESÜLET|1549|PEST SZOC.INT.E.|1989|0|0|Nem / nincs / stb
+14|PEST|1|Megyei lista 10e és alatti|9|622|MKDSZ|1035|MKDSZ|4179|0|0|Nem / nincs / stb
+14|PEST|1|Megyei lista 10e és alatti|10|545|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|38563|10|1|Igen / van / stb
+14|PEST|1|Megyei lista 10e és alatti|11|592|SZDSZ|1030|SZDSZ|7131|2|1|Igen / van / stb
+14|PEST|1|Megyei lista 10e és alatti|12|538|"ÉLETET AZ ÉVEKNEK" KLUBSZÖV.|1319|ÉÉKLSZ|8668|2|1|Igen / van / stb
+14|PEST|1|Megyei lista 10e és alatti|13|608|MAGYAR DEMOKRATA FÓRUM|1026|MDF|5890|0|0|Nem / nincs / stb
+14|PEST|2|Megyei lista 10e feletti|1|800|SZDSZ|1030|SZDSZ|13744|4|1|Igen / van / stb
+14|PEST|2|Megyei lista 10e feletti|2|768|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|13270|4|1|Igen / van / stb
+14|PEST|2|Megyei lista 10e feletti|3|824|PMFPSZ|1814|PMFPSZ|7919|2|1|Igen / van / stb
+14|PEST|2|Megyei lista 10e feletti|4|723|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|49017|15|1|Igen / van / stb
+14|PEST|2|Megyei lista 10e feletti|5|775|PVSZ|1153|PVSZ|2085|0|0|Nem / nincs / stb
+14|PEST|2|Megyei lista 10e feletti|6|716|PEST MEGYEI SZOC.INT.EGYESÜLET|1549|PEST SZOC.INT.E.|2041|0|0|Nem / nincs / stb
+14|PEST|2|Megyei lista 10e feletti|7|782|P.,B.,N.,M. NÉMET ÖNK.SZÖV.EGY|1457|P-B-N NÉMET SZÖV|852|0|0|Nem / nincs / stb
+14|PEST|2|Megyei lista 10e feletti|8|794|MIÉP-KDNP-METÉSZ-KSZ|1032;1040;1252;1208|MIÉP;KDNP;METÉSZ;KSZ|12584|4|1|Igen / van / stb
+14|PEST|2|Megyei lista 10e feletti|9|831|IPTSZ-EKE|1831;1015|IPTSZ;EKE|1391|0|0|Nem / nincs / stb
+14|PEST|2|Megyei lista 10e feletti|10|730|ÉI-ÉKT|1046;1024|ÉI;ÉKT|2624|0|0|Nem / nincs / stb
+14|PEST|2|Megyei lista 10e feletti|11|747|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|2968|0|0|Nem / nincs / stb
+14|PEST|2|Megyei lista 10e feletti|12|751|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|41652|13|1|Igen / van / stb
+14|PEST|2|Megyei lista 10e feletti|13|817|MAGYAR DEMOKRATA FÓRUM|1026|MDF|5892|0|0|Nem / nincs / stb
+15|SOMOGY|1|Megyei lista 10e és alatti|1|555|SOMOGY MEGYEI CIGÁNYSZÖVETSÉG|1408|S. M. CIGÁNYSZÖV|2367|0|0|Nem / nincs / stb
+15|SOMOGY|1|Megyei lista 10e és alatti|2|510|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|23046|10|1|Igen / van / stb
+15|SOMOGY|1|Megyei lista 10e és alatti|3|579|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|1646|0|0|Nem / nincs / stb
+15|SOMOGY|1|Megyei lista 10e és alatti|4|541|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|20563|9|1|Igen / van / stb
+15|SOMOGY|1|Megyei lista 10e és alatti|5|534|FKGP|1027|FKGP|8117|3|1|Igen / van / stb
+15|SOMOGY|1|Megyei lista 10e és alatti|6|604|MIÉP-KDNP|1032;1040|MIÉP;KDNP|2464|0|0|Nem / nincs / stb
+15|SOMOGY|1|Megyei lista 10e és alatti|7|527|BALATONI SZÖVETSÉG|1305|BALATONI SZÖV.|2552|0|0|Nem / nincs / stb
+15|SOMOGY|1|Megyei lista 10e és alatti|8|586|SOMOGYÉRT EGYESÜLET|1209|SOMOGYÉRT|21283|9|1|Igen / van / stb
+15|SOMOGY|1|Megyei lista 10e és alatti|9|598|SZDSZ|1030|SZDSZ|1320|0|0|Nem / nincs / stb
+15|SOMOGY|2|Megyei lista 10e feletti|1|771|SZDSZ|1030|SZDSZ|510|0|0|Nem / nincs / stb
+15|SOMOGY|2|Megyei lista 10e feletti|2|712|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|6671|4|1|Igen / van / stb
+15|SOMOGY|2|Megyei lista 10e feletti|3|764|SOMOGYÉRT EGYESÜLET|1209|SOMOGYÉRT|4038|2|1|Igen / van / stb
+15|SOMOGY|2|Megyei lista 10e feletti|4|729|FKGP|1027|FKGP|1086|0|1|Igen / van / stb
+15|SOMOGY|2|Megyei lista 10e feletti|5|788|MIÉP-KDNP|1032;1040|MIÉP;KDNP|891|0|1|Igen / van / stb
+15|SOMOGY|2|Megyei lista 10e feletti|6|736|FIDESZ - MAGYAR POLGÁRI PÁRT|1010|Fidesz|4933|3|1|Igen / van / stb
+15|SOMOGY|2|Megyei lista 10e feletti|7|743|SOMOGY MEGYEI CIGÁNYSZÖVETSÉG|1408|S. M. CIGÁNYSZÖV|232|0|0|Nem / nincs / stb
+15|SOMOGY|2|Megyei lista 10e feletti|8|757|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|285|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|1|614|ZÖLD PÁRT|1472|MSZZP|2304|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|2|692|LUNGO DROM|1039|"LUNGO DROM"|2274|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|3|917|KMET|1883|KMET|2054|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|4|591|MAGYARORSZ.SZOCDEM. PÁRT|1057|MSZDP|4949|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|5|565|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|1691|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|6|544|SZABOLCSI GAZDAKÖRÖK|1563|GAZDAKÖR SZ-SZ-B|2331|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|7|589|SZDSZ|1030|SZDSZ|4463|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|8|900|KISGAZDA SZÖVETSÉG|1208|KSZ|4601|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|9|572|MEGYÉNKÉRT EGYESÜLET|1118|MEGYÉNKÉRT|3143|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|10|659|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|3074|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|11|638|ITT ÉLÜNK|1346|ITT ÉLÜNK|3270|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|12|645|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|22904|9|1|Igen / van / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|13|851|MAGYARORSZÁGI CIG. DEM. SZÖV.|1002|M C D S Z|2232|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|14|537|VACSE|1290|VACSE|2665|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|15|894|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|3715|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|16|708|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|3658|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|17|621|FIDESZ-MDF-MKDSZ|1010;1026;1035|Fidesz;MDF;MKDSZ|46414|19|1|Igen / van / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|18|680|KIE|1850|KIE|2764|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|19|558|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|23037|9|1|Igen / van / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|20|607|SZOCIÁLDEMOKRATA PÁRT|1058|SZDP|1129|0|0|Nem / nincs / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|21|673|FÜGG POLGÁRMESTEREK A MEGYÉÉRT|1119|FPM|6171|2|1|Igen / van / stb
+16|SZABOLCS|1|Megyei lista 10e és alatti|22|520|MEGYEI POLGÁRÕR SZÖVETSÉG|1116|POLGÁRÕRSÉG|2210|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|1|924|KMET|1883|KMET|427|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|2|739|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|8594|3|1|Igen / van / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|3|750|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|650|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|4|715|MEGYEI POLGÁRÕR SZÖVETSÉG|1116|POLGÁRÕRSÉG|154|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|5|823|ITT ÉLÜNK|1346|ITT ÉLÜNK|3815|2|1|Igen / van / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|6|767|MEGYÉNKÉRT EGYESÜLET|1118|MEGYÉNKÉRT|294|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|7|793|SZOCIÁLDEMOKRATA PÁRT|1058|SZDP|289|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|8|781|MAGYARORSZ.SZOCDEM. PÁRT|1057|MSZDP|452|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|9|875|MAGYARORSZÁGI CIG. DEM. SZÖV.|1002|M C D S Z|553|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|10|847|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|464|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|11|809|ZÖLD PÁRT|1472|MSZZP|412|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|12|746|TÁRSADALMI EGYESÜLÉSEK SZÖV.|1310|TESZ|305|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|13|774|SZDSZ|1030|SZDSZ|845|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|14|816|FIDESZ-MDF-MKDSZ|1010;1026;1035|Fidesz;MDF;MKDSZ|7471|3|1|Igen / van / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|15|722|SZABOLCSI GAZDAKÖRÖK|1563|GAZDAKÖR SZ-SZ-B|237|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|16|830|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|2708|1|1|Igen / van / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|17|868|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|676|0|0|Nem / nincs / stb
+16|SZABOLCS|2|Megyei lista 10e feletti|18|882|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|473|0|0|Nem / nincs / stb
+17|TOLNA|1|Megyei lista 10e és alatti|1|600|SZDSZ|1030|SZDSZ|2363|1|1|Igen / van / stb
+17|TOLNA|1|Megyei lista 10e és alatti|2|582|TOLNA MEGYÉÉRT VÁLASZTÁSI SZÖV|1718|TMVSZ|2890|2|1|Igen / van / stb
+17|TOLNA|1|Megyei lista 10e és alatti|3|523|MKDSZ-TOMSZI|1035;1324|MKDSZ;TOMSZI|2137|1|1|Igen / van / stb
+17|TOLNA|1|Megyei lista 10e és alatti|4|551|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|1995|0|0|Nem / nincs / stb
+17|TOLNA|1|Megyei lista 10e és alatti|5|516|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|14605|8|1|Igen / van / stb
+17|TOLNA|1|Megyei lista 10e és alatti|6|530|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|6766|4|1|Igen / van / stb
+17|TOLNA|1|Megyei lista 10e és alatti|7|547|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|1734|0|0|Nem / nincs / stb
+17|TOLNA|1|Megyei lista 10e és alatti|8|575|FIDESZ-MDF|1010;1026|Fidesz;MDF|17225|10|1|Igen / van / stb
+17|TOLNA|1|Megyei lista 10e és alatti|9|568|TOMPÕR|1562|TOMPÕR|713|0|0|Nem / nincs / stb
+17|TOLNA|1|Megyei lista 10e és alatti|10|594|KDNP-MIÉP|1040;1032|KDNP;MIÉP|2068|0|0|Nem / nincs / stb
+17|TOLNA|2|Megyei lista 10e feletti|1|784|TOLNA MEGYÉÉRT VÁLASZTÁSI SZÖV|1718|TMVSZ|1910|1|1|Igen / van / stb
+17|TOLNA|2|Megyei lista 10e feletti|2|760|MKDSZ-TOMSZI|1035;1324|MKDSZ;TOMSZI|605|0|0|Nem / nincs / stb
+17|TOLNA|2|Megyei lista 10e feletti|3|718|SZDSZ|1030|SZDSZ|1415|1|1|Igen / van / stb
+17|TOLNA|2|Megyei lista 10e feletti|4|749|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|774|0|0|Nem / nincs / stb
+17|TOLNA|2|Megyei lista 10e feletti|5|753|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|1507|1|1|Igen / van / stb
+17|TOLNA|2|Megyei lista 10e feletti|6|732|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|1708|1|1|Igen / van / stb
+17|TOLNA|2|Megyei lista 10e feletti|7|796|KDNP-MIÉP|1040;1032|KDNP;MIÉP|902|0|0|Nem / nincs / stb
+17|TOLNA|2|Megyei lista 10e feletti|8|725|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|6578|5|1|Igen / van / stb
+17|TOLNA|2|Megyei lista 10e feletti|9|777|FIDESZ-MDF|1010;1026|Fidesz;MDF|8332|6|1|Igen / van / stb
+18|VAS|1|Megyei lista 10e és alatti|1|603|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|1055|0|0|Nem / nincs / stb
+18|VAS|1|Megyei lista 10e és alatti|2|597|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1590|0|0|Nem / nincs / stb
+18|VAS|1|Megyei lista 10e és alatti|3|554|NEMZETISÉGI FÓRUM|1309|NF|955|0|0|Nem / nincs / stb
+18|VAS|1|Megyei lista 10e és alatti|4|578|MKDSZ|1035|MKDSZ|2672|1|1|Igen / van / stb
+18|VAS|1|Megyei lista 10e és alatti|5|561|FIDESZ-MDF|1010;1026|Fidesz;MDF|21582|12|1|Igen / van / stb
+18|VAS|1|Megyei lista 10e és alatti|6|526|VAS M. SZENT FLÓRIÁN TÛO.SZÖV.|1491|SZT TÜO.SZÖV.|1771|0|0|Nem / nincs / stb
+18|VAS|1|Megyei lista 10e és alatti|7|519|VAS MEGYEI ÖNKORMÁNYZATOKÉRT E|1488|VAS M.ÖNKORM E.|5945|3|1|Igen / van / stb
+18|VAS|1|Megyei lista 10e és alatti|8|585|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|14398|8|1|Igen / van / stb
+18|VAS|1|Megyei lista 10e és alatti|9|533|FKGP-KDNP|1027;1040|FKGP;KDNP|5009|3|1|Igen / van / stb
+18|VAS|1|Megyei lista 10e és alatti|10|540|SZDSZ|1030|SZDSZ|2801|2|1|Igen / van / stb
+18|VAS|2|Megyei lista 10e feletti|1|735|FKGP-KDNP|1027;1040|FKGP;KDNP|2861|2|1|Igen / van / stb
+18|VAS|2|Megyei lista 10e feletti|2|799|TÁRSADALMI EGYESÜLÉSEK SZÖV.|1310|TESZ|176|0|0|Nem / nincs / stb
+18|VAS|2|Megyei lista 10e feletti|3|711|VAS M. SZENT FLÓRIÁN TÛO.SZÖV.|1491|SZT TÜO.SZÖV.|365|0|0|Nem / nincs / stb
+18|VAS|2|Megyei lista 10e feletti|4|756|NEMZETISÉGI FÓRUM|1309|NF|269|0|0|Nem / nincs / stb
+18|VAS|2|Megyei lista 10e feletti|5|812|CELLDÖMÖLKÉRT E.|1811|CELLDÖMÖLKÉRT E.|485|0|0|Nem / nincs / stb
+18|VAS|2|Megyei lista 10e feletti|6|742|SZDSZ|1030|SZDSZ|729|0|0|Nem / nincs / stb
+18|VAS|2|Megyei lista 10e feletti|7|805|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|440|0|0|Nem / nincs / stb
+18|VAS|2|Megyei lista 10e feletti|8|770|MKDSZ|1035|MKDSZ|1661|1|1|Igen / van / stb
+18|VAS|2|Megyei lista 10e feletti|9|763|FIDESZ-MDF|1010;1026|Fidesz;MDF|4225|3|1|Igen / van / stb
+18|VAS|2|Megyei lista 10e feletti|10|787|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|6119|4|1|Igen / van / stb
+18|VAS|2|Megyei lista 10e feletti|11|728|VAS MEGYEI ÖNKORMÁNYZATOKÉRT E|1488|VAS M.ÖNKORM E.|1968|1|1|Igen / van / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|1|517|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|18334|7|1|Igen / van / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|2|601|SZABAD DEMOKRATÁK SZÖVETSÉGE|1030|SZDSZ|4322|2|1|Igen / van / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|3|531|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|3341|1|1|Igen / van / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|4|552|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|9057|3|1|Igen / van / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|5|576|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|2263|0|0|Nem / nincs / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|6|632|KDNP-MKSZ|1040;1097|KDNP;MKSZ|1788|0|0|Nem / nincs / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|7|524|"LUNGO DROM"|1039|"LUNGO DROM"|573|0|0|Nem / nincs / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|8|548|SOMLÓ KÖRNYÉKI FALUSZÖVETSÉG|1164|SOMKÖRSZ|2227|0|0|Nem / nincs / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|9|583|FIDESZ-MDF-MKDSZ-MDNP|1010;1026;1035;1047|Fidesz;MDF;MKDSZ;MDNP|28150|10|1|Igen / van / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|10|569|BALATONI SZÖVETSÉG|1305|BALATONI SZÖV.|4078|1|1|Igen / van / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|11|595|NEMZETISÉGI FÓRUM|1309|NF|1138|0|0|Nem / nincs / stb
+19|VESZPRÉM|1|Megyei lista 10e és alatti|12|618|VM TESZÖV-VM GAZDAKÖRÖK-HEVMES|1653;1651;1649;1648|VM TESZÖV;VM GAZDAKÖRÖK;HEVMESZ;MABMÉH|2731|0|0|Nem / nincs / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|1|778|FIDESZ-MDF-MKDSZ-MDNP|1010;1026;1035;1047|Fidesz;MDF;MKDSZ;MDNP|14719|8|1|Igen / van / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|2|785|SZABAD DEMOKRATÁK SZÖVETSÉGE|1030|SZDSZ|2515|1|1|Igen / van / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|3|810|MAGYARORSZ. CIG.FÜGG.ÉRD.SZÖV.|1250|MCFÉSZ|144|0|0|Nem / nincs / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|4|797|TAPOLCA KÖRZET LABDARÚGÓ SZÖV.|1245|TAPOLCA KLSZ|646|0|0|Nem / nincs / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|5|719|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|9883|5|1|Igen / van / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|6|841|PEDAGÓGUSOK SZAKSZERVEZETE|1323|P.SZ.|730|0|0|Nem / nincs / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|7|754|BALATONI SZÖVETSÉG|1305|BALATONI SZÖV.|1759|1|1|Igen / van / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|8|803|VM TESZÖV-VM GAZDAKÖRÖK-HEVMES|1653;1651;1649;1648|VM TESZÖV;VM GAZDAKÖRÖK;HEVMESZ;MABMÉH|459|0|0|Nem / nincs / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|9|827|MN-MANP-MÉP-MSZDP|1766;1763;1764;1057|MN;MANP;MÉP;MSZDP|86|0|0|Nem / nincs / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|10|733|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1376|0|0|Nem / nincs / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|11|761|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|646|0|0|Nem / nincs / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|12|834|KDNP-MKSZ|1040;1097|KDNP;MKSZ|446|0|0|Nem / nincs / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|13|740|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|1530|1|1|Igen / van / stb
+19|VESZPRÉM|2|Megyei lista 10e feletti|14|726|"LUNGO DROM"|1039|"LUNGO DROM"|100|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|1|697|EZMSZ|1182|EZMSZ|558|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|2|584|SZDSZ|1030|SZDSZ|4171|3|1|Igen / van / stb
+20|ZALA|1|Megyei lista 10e és alatti|3|577|ZALAI "A NOSTRU" EGYESÜLET|1029|ZALAI "A NOSTRU"|828|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|4|619|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|1995|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|5|560|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|7244|5|1|Igen / van / stb
+20|ZALA|1|Megyei lista 10e és alatti|6|626|MURAMENTI HORVÁTOK|1589|MHE|1340|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|7|640|BALATONI SZÖVETSÉG|1305|BALATONI SZÖV.|2393|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|8|633|ZVPE|1597|ZVPE|4070|3|1|Igen / van / stb
+20|ZALA|1|Megyei lista 10e és alatti|9|678|ZALA VPME|1747|ZALA VPME|2861|2|1|Igen / van / stb
+20|ZALA|1|Megyei lista 10e és alatti|10|549|TESZÖV|1401|TESZÖV|890|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|11|596|AGRÁRSZÖVETSÉG - NAP|1016|AGRÁRSZÖVETSÉG|1325|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|12|602|FIDESZ-MDF-MKDSZ|1010;1026;1035|Fidesz;MDF;MKDSZ|14155|9|1|Igen / van / stb
+20|ZALA|1|Megyei lista 10e és alatti|13|654|"KERKA  VÖLGYE"|1719|"KERKA VÖLGYE"|4003|3|1|Igen / van / stb
+20|ZALA|1|Megyei lista 10e és alatti|14|661|DÉL-ZALA PMEST|1722|DÉL-ZALA PMEST|2817|2|1|Igen / van / stb
+20|ZALA|1|Megyei lista 10e és alatti|15|553|KANIZSA TÉRSÉG|1448|KTPME|3234|2|1|Igen / van / stb
+20|ZALA|1|Megyei lista 10e és alatti|16|685|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|1313|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|17|518|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|9659|6|1|Igen / van / stb
+20|ZALA|1|Megyei lista 10e és alatti|18|703|LUNGO DROM|1039|"LUNGO DROM"|429|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|19|532|VÁMFÖEGY|1365|VÁMFÖEGY|389|0|0|Nem / nincs / stb
+20|ZALA|1|Megyei lista 10e és alatti|20|525|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|878|0|0|Nem / nincs / stb
+20|ZALA|2|Megyei lista 10e feletti|1|741|FÜGGETLEN KISGAZDAPÁRT|1027|FKGP|396|0|1|Igen / van / stb
+20|ZALA|2|Megyei lista 10e feletti|2|727|MUNKÁSPÁRT|1001|MUNKÁSPÁRT|116|0|0|Nem / nincs / stb
+20|ZALA|2|Megyei lista 10e feletti|3|762|BALATONI SZÖVETSÉG|1305|BALATONI SZÖV.|704|0|1|Igen / van / stb
+20|ZALA|2|Megyei lista 10e feletti|4|710|MAGYAR SZOCIALISTA PÁRT|1004|MSZP|1699|2|1|Igen / van / stb
+20|ZALA|2|Megyei lista 10e feletti|5|779|FIDESZ-MDF-MKDSZ|1010;1026;1035|Fidesz;MDF;MKDSZ|1870|2|1|Igen / van / stb
+20|ZALA|2|Megyei lista 10e feletti|6|734|VPÉSZ|1412|VPÉSZ|266|0|1|Igen / van / stb
+20|ZALA|2|Megyei lista 10e feletti|7|798|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA|1032|MIÉP|313|0|1|Igen / van / stb
+20|ZALA|2|Megyei lista 10e feletti|8|755|SZDSZ|1030|SZDSZ|133|0|0|Nem / nincs / stb
+20|ZALA|2|Megyei lista 10e feletti|9|804|KERESZTÉNYDEMOKRATA NÉPPÁRT|1040|KDNP|124|0|0|Nem / nincs / stb
+20|ZALA|2|Megyei lista 10e feletti|10|786|KTVK|1570|KTVK|853|1|1|Igen / van / stb
