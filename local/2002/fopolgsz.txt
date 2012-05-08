@@ -1,6 +1,6 @@
-  1|  1|  1022|MAGYAR IGAZS¡G …S …LET P¡RTJA |0000000000000|                                                  |
-  2|  1|  1035|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |0000000000000|                                                  |
+  1|  1|  1022|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |0000000000000|                                                  |
+  2|  1|  1035|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |0000000000000|                                                  |
   3|  1|  1007|CENTRUM                       |0000000000000|                                                  |
-  4|  1|  1002|MAGYAR SZOCIALISTA P¡RT       |0000000000000|                                                  |
-  5|  1|  1014|MUNK¡SP¡RT                    |0000000000000|                                                  |
-  6|  0|     0|F¸ggetlen                     |0000000000000|                                                  |
+  4|  1|  1002|MAGYAR SZOCIALISTA P√ÅRT       |0000000000000|                                                  |
+  5|  1|  1014|MUNK√ÅSP√ÅRT                    |0000000000000|                                                  |
+  6|  0|     0|F√ºggetlen                     |0000000000000|                                                  |

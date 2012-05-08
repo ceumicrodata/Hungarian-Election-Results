@@ -1,455 +1,455 @@
-01|3|  1| 1|    68|BUDAPEST T¡RSAS¡G                                                                         |
-01|3|  2| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-01|3|  3| 1|   132|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                        |
-01|3|  4| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-01|3|  4| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-01|3|  5| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-01|3|  6| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-01|3|  7| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-01|3|  8| 1|    16|HUMANISTA P¡RT                                                                            |
-01|3|  9| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-02|1|  1| 1|   559|BARANYAI EMBEREK…RT SZ÷VETS…G                                                             |
-02|1|  2| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-02|1|  2| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-02|1|  3| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-02|1|  4| 1|   846|CIG¡NY KISEBBS…GI  ÷NKORM¡NYZATOK BARANYA MEGYEI SZ÷VETS…GE                               |
-02|1|  5| 1|   940|÷SSZEFOG¡S BARANYA MEGY……RT EGYES‹LET                                                     |
-02|1|  6| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-02|1|  7| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-02|1|  8| 1|   501|NYUGDÕJASOK BARANYA MEGYEI K…PVISELETE                                                    |
-02|1|  9| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-02|1| 10| 1|   397|BARANYAI N…MET ÷NKORM¡NYZATOK SZ÷VETS…GE                                                  |
-02|1| 11| 1|   147|MAGYAR VID…K …S POLG¡RI P¡RT                                                              |
-02|1| 12| 1|    49|POLG¡RI K÷R BARANY¡…RT EGYES‹LET                                                          |
-02|1| 13| 1|    33|MAGYARORSZ¡GI MUNK¡SP¡RT 2006                                                             |
-02|2|  1| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-02|2|  1| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-02|2|  2| 1|   366|KOML”I HONISMERETI …S V¡ROSSZ…PÕT’ EGYES‹LET                                              |
-02|2|  3| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-02|2|  4| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-02|2|  5| 1|   147|MAGYAR VID…K …S POLG¡RI P¡RT                                                              |
-02|2|  6| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-02|2|  7| 1|   846|CIG¡NY KISEBBS…GI  ÷NKORM¡NYZATOK BARANYA MEGYEI SZ÷VETS…GE                               |
-02|2|  8| 1|    49|POLG¡RI K÷R BARANY¡…RT EGYES‹LET                                                          |
-02|2|  9| 1|    33|MAGYARORSZ¡GI MUNK¡SP¡RT 2006                                                             |
-02|2| 10| 1|   206|MAGYAR NYUGDÕJASOK P¡RTJA                                                                 |
-02|2| 11| 1|   258|Z÷LD DEMOKRAT¡K SZ÷VETS…GE                                                                |
-03|1|  1| 1|   491|F÷LDI-…LET-P¡RTJA                                                                         |
-03|1|  2| 1|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-03|1|  3| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-03|1|  4| 1|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-03|1|  5| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-03|1|  5| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-03|1|  5| 3|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-03|1|  6| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-03|1|  7| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-03|2|  1| 1|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-03|2|  2| 1|   132|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                        |
-03|2|  3| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-03|2|  3| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-03|2|  3| 3|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-03|2|  4| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-03|2|  5| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-03|2|  6| 1|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-03|2|  7| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-04|1|  1| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-04|1|  2| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-04|1|  3| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-04|1|  3| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-04|1|  3| 3|   291|BÈkÈs Megyei Gazdakˆrˆk SzˆvetsÈge                                                        |
-04|1|  4| 1|   206|MAGYAR NYUGDÕJASOK P¡RTJA                                                                 |
-04|1|  5| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-04|1|  6| 1|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-04|1|  6| 2|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-04|1|  7| 1|   132|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                        |
-04|1|  8| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-04|1|  9| 1|   861|÷SSZEFOG¡S B…K…S MEGY……RT EGYES‹LET                                                       |
-04|1| 10| 1|   485|NyugdÌjasok P·rtja                                                                        |
-04|2|  1| 1|   132|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                        |
-04|2|  2| 1|   477|÷SSZEFOG¡S MEZ’BER…NY…RT EGYES‹LET                                                        |
-04|2|  3| 1|   527|÷SSZEFOG¡S GYUL¡…RT EGYES‹LET                                                             |
-04|2|  4| 1|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-04|2|  4| 2|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-04|2|  5| 1|   103|GYULAI V¡ROSBAR¡TOK K÷RE                                                                  |
-04|2|  6| 1|   861|÷SSZEFOG¡S B…K…S MEGY……RT EGYES‹LET                                                       |
-04|2|  7| 1|   553|OROSH¡ZA …S VID…KE IPARTEST‹LET                                                           |
-04|2|  8| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-04|2|  9| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-04|2| 10| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-04|2| 11| 1|   485|NyugdÌjasok P·rtja                                                                        |
-04|2| 12| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-04|2| 12| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-04|2| 12| 3|   291|BÈkÈs Megyei Gazdakˆrˆk SzˆvetsÈge                                                        |
-04|2| 13| 1|   313|K÷R÷S÷K VID…K……RT EGYES‹LET                                                               |
-04|2| 14| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-05|1|  1| 1|   341|ZEMPL…NI TELEP‹L…SSZ÷VETS…G                                                               |
-05|1|  2| 1|   147|MAGYAR VID…K …S POLG¡RI P¡RT                                                              |
-05|1|  3| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-05|1|  4| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-05|1|  5| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-05|1|  6| 1|    51|Roma Polg·rjogi Mozgalom B.-A.-Z. Megyei Szervezete                                       |
-05|1|  7| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-05|1|  7| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-05|1|  8| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-05|1|  9| 1|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-05|1| 10| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-05|2|  1| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-05|2|  2| 1|   341|ZEMPL…NI TELEP‹L…SSZ÷VETS…G                                                               |
-05|2|  3| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-05|2|  3| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-05|2|  4| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-05|2|  5| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-05|2|  6| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-05|2|  7| 1|    51|Roma Polg·rjogi Mozgalom B.-A.-Z. Megyei Szervezete                                       |
-05|2|  8| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-06|1|  1| 1|   389|MAK” …S T…RS…GE POLG¡RMESTEREK F”RUMA EGYES‹LET                                           |
-06|1|  2| 1|   473|SZ÷VETS…G SZENTES FELEMELKED…S……RT EGYES‹LET                                              |
-06|1|  3| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-06|1|  4| 1|   631|HARMADIK OLDAL MAGYARORSZ¡G…RT EGYES‹LET                                                  |
-06|1|  5| 1|   595|HOMOKH¡TI ÷NKORM¡NYZATOK KIST…RS…GI TER‹LETFEJLESZT…SI EGYES‹LETE                         |
-06|1|  6| 1|   612|MEZ’GAZDAS¡GI T¡RSAS¡GOK, SZ÷VETKEZETEK, V¡LLALKOZ”K CS.M-I …RDEKV…DELMI SZ÷VETS…GE       |
-06|1|  7| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-06|1|  7| 2|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-06|1|  8| 1|   867|KISTELEP‹L…SEK FEJL’D…S……RT EGYES‹LET                                                     |
-06|1|  9| 1|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-06|1|  9| 2|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-06|1|  9| 3|   166|MAGYAR F‹GGETLENS…GI P¡RT                                                                 |
-06|1| 10| 1|   672|EGYM¡S…RT Szeged KˆrnyÈki Telep¸lÈsek Egyes¸lete                                          |
-06|1| 11| 1|    27|MAGYARORSZ¡GI SZOCI¡LDEMOKRATA P¡RT                                                       |
-06|1| 12| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-06|1| 12| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-06|1| 12| 3|    32|KISGAZDA POLG¡RI EGYES‹LET                                                                |
-06|1| 12| 4|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-06|1| 12| 5|   260|Magyar Gazdakˆrˆk Ès Gazdaszˆvetkezetek SzˆvetsÈge                                        |
-06|1| 12| 6|     5|V¡LLALKOZ”K P¡RTJA                                                                        |
-06|2|  1| 1|   507|JOBB MAK”…RT EGYES‹LET                                                                    |
-06|2|  2| 1|   785|V¡ROS…PÕT’K T¡RSAS¡GA                                                                     |
-06|2|  3| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-06|2|  4| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-06|2|  4| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-06|2|  4| 3|    32|KISGAZDA POLG¡RI EGYES‹LET                                                                |
-06|2|  4| 4|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-06|2|  4| 5|   260|Magyar Gazdakˆrˆk Ès Gazdaszˆvetkezetek SzˆvetsÈge                                        |
-06|2|  4| 6|     5|V¡LLALKOZ”K P¡RTJA                                                                        |
-06|2|  5| 1|   508|÷SSZEFOG¡S CSONGR¡D…RT EGYES‹LET                                                          |
-06|2|  6| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-06|2|  6| 2|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-06|2|  7| 1|    15|F‹GGETLENEK LIST¡JA                                                                       |
-06|2|  8| 1|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-06|2|  8| 2|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-06|2|  8| 3|   166|MAGYAR F‹GGETLENS…GI P¡RT                                                                 |
-06|2|  9| 1|   473|SZ÷VETS…G SZENTES FELEMELKED…S……RT EGYES‹LET                                              |
-06|2| 10| 1|   132|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                        |
-06|2| 10| 2|    41|F‹GGETLEN K…PVISEL’K SZ÷VETS…GE                                                           |
-06|2| 11| 1|   185|POLG¡RI SZ÷VETS…G MAK”…RT                                                                 |
-06|2| 12| 1|   418|EGY‹TT SZENTES…RT EGYES‹LET                                                               |
-06|2| 13| 1|   845|JOBB CSONGR¡D…RT EGYES‹LET                                                                |
-06|2| 14| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-07|1|  1| 1|   443|POLG¡RMESTEREK FEJ…R MEGY……RT                                                             |
-07|1|  2| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-07|1|  3| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-07|1|  3| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-07|1|  3| 3|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-07|1|  4| 1|    28|ROMA DIPLOM¡SOK ORSZ¡GOS SZERVEZETE                                                       |
-07|1|  5| 1|   300|FEJ…R MEGYEI TELEP‹L…SEK…RT EGYES‹LET                                                     |
-07|1|  6| 1|   352|M”R V¡ROS J÷V’J……RT EGYES‹LET                                                             |
-07|1|  7| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-07|1|  8| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-07|1|  9| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-07|1| 10| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-07|2|  1| 1|   443|POLG¡RMESTEREK FEJ…R MEGY……RT                                                             |
-07|2|  2| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-07|2|  3| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-07|2|  4| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-07|2|  5| 1|   352|M”R V¡ROS J÷V’J……RT EGYES‹LET                                                             |
-07|2|  6| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-07|2|  7| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-07|2|  7| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-07|2|  7| 3|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-08|1|  1| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-08|1|  2| 1|   316|N…MET ÷NKORM¡NYZATOK GY’R-MOSON-SOPRON MEGYEI EGYES‹LETE                                  |
-08|1|  3| 1|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-08|1|  4| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-08|1|  5| 1|   626|GY’R-MOSON-SOPRON MEGY……RT EGYES‹LET                                                      |
-08|1|  6| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-08|1|  6| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-08|1|  7| 1|   440|MEGYEI NYUGDÕJASOK, LIBER¡LISOK VID…K…RT EGYES‹LETE                                       |
-08|1|  8| 1|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-08|2|  1| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-08|2|  1| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-08|2|  2| 1|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-08|2|  2| 2|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-08|2|  2| 3|   147|MAGYAR VID…K …S POLG¡RI P¡RT                                                              |
-08|2|  3| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-08|2|  4| 1|   626|GY’R-MOSON-SOPRON MEGY……RT EGYES‹LET                                                      |
-08|2|  4| 2|   668|MOSONMAGYAR”V¡RI V¡LLALKOZ”K EGYES‹LETE                                                   |
-08|2|  4| 3|   305|SZ‹L’F÷LD‹NK…RT EGYES‹LET                                                                 |
-08|2|  5| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-08|2|  6| 1|   440|MEGYEI NYUGDÕJASOK, LIBER¡LISOK VID…K…RT EGYES‹LETE                                       |
-09|1|  1| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-09|1|  2| 1|   379|Polg·rmesterek Hajd˙-Bihar MegyÈÈrt Egyes¸let                                             |
-09|1|  3| 1|   147|MAGYAR VID…K …S POLG¡RI P¡RT                                                              |
-09|1|  4| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-09|1|  5| 1|   203|NyugdÌjasok …rdekÈrvÈnyesÌtı Egyes¸lete                                                   |
-09|1|  6| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-09|1|  7| 1|   889|Bihari ÷nkorm·nyzatok SzˆvetsÈge Egyes¸lete                                               |
-09|1|  8| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-09|1|  9| 1|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-09|1| 10| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-09|1| 10| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-09|1| 10| 3|   260|Magyar Gazdakˆrˆk Ès Gazdaszˆvetkezetek SzˆvetsÈge                                        |
-09|2|  1| 1|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-09|2|  2| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-09|2|  2| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-09|2|  2| 3|   260|Magyar Gazdakˆrˆk Ès Gazdaszˆvetkezetek SzˆvetsÈge                                        |
-09|2|  3| 1|   558|KISZ÷V Hajd˙-Bihar Megyei IparszˆvetsÈg                                                   |
-09|2|  4| 1|   512|Hajd˙v·rosok Hagyom·nyırzı, …rdekkÈpviseleti Ès Ter¸letfejlesztı SzˆvetsÈge               |
-09|2|  5| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-09|2|  5| 2|   147|MAGYAR VID…K …S POLG¡RI P¡RT                                                              |
-09|2|  6| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-09|2|  7| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-09|2|  8| 1|   209|Hajd˙bˆszˆrmÈny FejlıdÈsÈÈrt Egyes¸let                                                    |
-09|2|  9| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-09|2| 10| 1|   315|Civilek a LakÛhelyÈrt Egyes¸let                                                           |
-10|1|  1| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-10|1|  2| 1|   250|÷sszefog·s Heves MegyÈÈrt Egyes¸let                                                       |
-10|1|  3| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-10|1|  4| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-10|1|  5| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-10|1|  6| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-10|1|  6| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-10|1|  6| 3|     5|V¡LLALKOZ”K P¡RTJA                                                                        |
-10|1|  6| 4|    32|KISGAZDA POLG¡RI EGYES‹LET                                                                |
-10|1|  6| 5|   260|Magyar Gazdakˆrˆk Ès Gazdaszˆvetkezetek SzˆvetsÈge                                        |
-10|1|  7| 1|    33|MAGYARORSZ¡GI MUNK¡SP¡RT 2006                                                             |
-10|1|  8| 1|   917|Nemzeti ÷sszefog·s a Falvak Ès Gazd·k VÈdelmÈÈrt Egyes¸let                                |
-10|1|  9| 1|   394|Heves Megyei NyugdÌjasok V·laszt·si Egyes¸lete                                            |
-10|2|  1| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-10|2|  2| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-10|2|  3| 1|   917|Nemzeti ÷sszefog·s a Falvak Ès Gazd·k VÈdelmÈÈrt Egyes¸let                                |
-10|2|  4| 1|   604|Gyˆngyˆs¸nkÈrt Lok·lpatriÛta Egyes¸let                                                    |
-10|2|  5| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-10|2|  6| 1|   250|÷sszefog·s Heves MegyÈÈrt Egyes¸let                                                       |
-10|2|  7| 1|    75|HATVAN V¡ROSI LOK¡LPATRI”T¡K EGYES‹LETE                                                   |
-10|2|  8| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-10|2|  8| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-10|2|  8| 3|     5|V¡LLALKOZ”K P¡RTJA                                                                        |
-10|2|  8| 4|    32|KISGAZDA POLG¡RI EGYES‹LET                                                                |
-10|2|  8| 5|   260|Magyar Gazdakˆrˆk Ès Gazdaszˆvetkezetek SzˆvetsÈge                                        |
-10|2|  9| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-10|2| 10| 1|    33|MAGYARORSZ¡GI MUNK¡SP¡RT 2006                                                             |
-11|1|  1| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-11|1|  1| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-11|1|  2| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-11|1|  3| 1|   738|IPARTEST‹LETEK …S KISV¡LLAKOZ”K  JNSZ MEGYEI SZ÷VETS…GE                                   |
-11|1|  4| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-11|1|  5| 1|   765|POLG¡R’R EGYES‹LETEK J¡SZ- NAGYKUN-SZOLNOK MEGYEI SZ÷VETS…GE                              |
-11|1|  6| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-11|1|  7| 1|    31|FIATAL ROM¡K ORSZ¡GOS SZ÷VETS…GE                                                          |
-11|1|  8| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-11|1|  9| 1|   886|J¡SZS¡GI ÷NKORM¡NYZATOK SZ÷VETS…GE                                                        |
-11|1| 10| 1|   732|TISZAZUGI TELEP‹L…SEK SZ÷VETS…GE                                                          |
-11|1| 10| 2|   734|TISZA-T” R…GI” IFJUS¡G¡…RT EGYES‹LET                                                      |
-11|2|  1| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-11|2|  2| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-11|2|  3| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-11|2|  4| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-11|2|  4| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-11|2|  5| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-11|2|  6| 1|   765|POLG¡R’R EGYES‹LETEK J¡SZ- NAGYKUN-SZOLNOK MEGYEI SZ÷VETS…GE                              |
-12|1|  1| 1|   737|BAKONYT…RS…GI ÷NKORM¡NYZATOK SZ÷VETS…GE                                                   |
-12|1|  2| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-12|1|  3| 1|     5|V¡LLALKOZ”K P¡RTJA                                                                        |
-12|1|  3| 2|   850|POLG¡RI K÷R÷K TATAI SZ÷VETS…GE EGYES‹LET                                                  |
-12|1|  4| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-12|1|  5| 1|   138|KISGAZDA SZ÷VETS…G                                                                        |
-12|1|  6| 1|    33|MAGYARORSZ¡GI MUNK¡SP¡RT 2006                                                             |
-12|1|  7| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-12|1|  7| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-12|1|  8| 1|   552|ESZTERGOMI KIST…RS…G…RT EGYES‹LET                                                         |
-12|1|  9| 1|   257|POLG¡RMESTEREK A FALUK…RT                                                                 |
-12|1| 10| 1|   222|POLG¡RMESTEREK …S NEMZETIS…GEK EGYES‹LETE                                                 |
-12|1| 11| 1|   125|K…PVISELET V¡LASZT¡SI EGYES‹LET                                                           |
-12|1| 12| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-12|1| 13| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-12|1| 14| 1|   164|TISZTA K÷Z…LET…RT EGYES‹LET                                                               |
-12|2|  1| 1|   138|KISGAZDA SZ÷VETS…G                                                                        |
-12|2|  2| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-12|2|  3| 1|   132|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                        |
-12|2|  4| 1|   705|ESZTERGOMI SZOCI¡LDEMOKRATA EGYES‹LET                                                     |
-12|2|  5| 1|   835|…RDEKV…DELEM A LAKOSS¡G…RT EGYES‹L…S TATAB¡NY¡N                                           |
-12|2|  6| 1|   164|TISZTA K÷Z…LET…RT EGYES‹LET                                                               |
-12|2|  7| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-12|2|  8| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-12|2|  9| 1|     5|V¡LLALKOZ”K P¡RTJA                                                                        |
-12|2|  9| 2|   850|POLG¡RI K÷R÷K TATAI SZ÷VETS…GE EGYES‹LET                                                  |
-12|2| 10| 1|   552|ESZTERGOMI KIST…RS…G…RT EGYES‹LET                                                         |
-12|2| 11| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-12|2| 11| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-12|2| 12| 1|    22|Kom·rom-Esztergom Megyei NyugdÌjas Szervezetek Ès Idısek Egyes¸lete                       |
-12|2| 13| 1|    33|MAGYARORSZ¡GI MUNK¡SP¡RT 2006                                                             |
-13|1|  1| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-13|1|  2| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-13|1|  3| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-13|1|  3| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-13|1|  4| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-13|1|  4| 2|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-13|1|  4| 3|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-13|1|  5| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-13|1|  6| 1|   903|IPOLYMENTE B÷RZS÷NY NATURPARK EGYES‹LET                                                   |
-13|1|  7| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-13|1|  8| 1|    33|MAGYARORSZ¡GI MUNK¡SP¡RT 2006                                                             |
-13|2|  1| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-13|2|  2| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-13|2|  2| 2|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-13|2|  2| 3|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-13|2|  3| 1|    33|MAGYARORSZ¡GI MUNK¡SP¡RT 2006                                                             |
-13|2|  4| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-13|2|  5| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-13|2|  6| 1|    41|F‹GGETLEN K…PVISEL’K SZ÷VETS…GE                                                           |
-13|2|  7| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-13|2|  8| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-13|2|  8| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-14|1|  1| 1|   102|Pest Megyei TÈrsÈgek Egyes¸lete                                                           |
-14|1|  1| 2|   152|…L’L¡NC MAGYARORSZ¡G…RT                                                                   |
-14|1|  2| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-14|1|  3| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-14|1|  4| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-14|1|  4| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-14|1|  5| 1|   816|Magyar ÷nkorm·nyzatok SzˆvetsÈge                                                          |
-14|1|  5| 2|   817|Pest Megyei Kereskedelmi Ès Iparkamara                                                    |
-14|1|  6| 1|   812|SZENTENDRE-DUNAKANYAR KISGAZDA POLG¡RI EGYES‹LET                                          |
-14|1|  7| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-14|1|  8| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-14|2|  1| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-14|2|  2| 1|   816|Magyar ÷nkorm·nyzatok SzˆvetsÈge                                                          |
-14|2|  2| 2|   817|Pest Megyei Kereskedelmi Ès Iparkamara                                                    |
-14|2|  3| 1|   152|…L’L¡NC MAGYARORSZ¡G…RT                                                                   |
-14|2|  4| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-14|2|  5| 1|    41|F‹GGETLEN K…PVISEL’K SZ÷VETS…GE                                                           |
-14|2|  6| 1|   812|SZENTENDRE-DUNAKANYAR KISGAZDA POLG¡RI EGYES‹LET                                          |
-14|2|  7| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-14|2|  8| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-14|2|  8| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-14|2|  9| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-15|1|  1| 1|   286|SOMOGY…RT EGYES‹LET                                                                       |
-15|1|  2| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-15|1|  2| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-15|1|  3| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-15|1|  4| 1|   922|SOMOGY…RT EGY‹TTM€K÷D’ POLG¡RI EGYES‹LET                                                  |
-15|1|  5| 1|   910|EGY‹TT SOMOGY…RT EGYES‹LET                                                                |
-15|1|  6| 1|   755|SOMOGY POLG¡RAI…RT EGYES‹LET                                                              |
-15|1|  7| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-15|1|  7| 2|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-15|2|  1| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-15|2|  2| 1|   286|SOMOGY…RT EGYES‹LET                                                                       |
-15|2|  3| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-15|2|  3| 2|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-15|2|  4| 1|   910|EGY‹TT SOMOGY…RT EGYES‹LET                                                                |
-15|2|  5| 1|   755|SOMOGY POLG¡RAI…RT EGYES‹LET                                                              |
-15|2|  6| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-15|2|  6| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-15|2|  7| 1|   922|SOMOGY…RT EGY‹TTM€K÷D’ POLG¡RI EGYES‹LET                                                  |
-16|1|  1| 1|   129|PEDAG”GUSOK SZAKSZERVEZETE                                                                |
-16|1|  2| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-16|1|  3| 1|   656|"F‹GGETLEN POLG¡RMESTEREK A MEGY……RT" EGYES‹LET                                           |
-16|1|  4| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-16|1|  5| 1|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-16|1|  6| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-16|1|  7| 1|   806|NEMZETI KERESZT…NY POLG¡RI P¡RT                                                           |
-16|1|  8| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-16|1|  8| 2|   260|Magyar Gazdakˆrˆk Ès Gazdaszˆvetkezetek SzˆvetsÈge                                        |
-16|1|  8| 3|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-16|1|  9| 1|   140|÷SSZEFOG¡S SZABOLCS-SZATM¡R- BEREG MEGYE FELEMELKED…S……RT SZ÷VETS…G                       |
-16|1| 10| 1|   635|POLG¡RMESTEREK ÷SSZEFOG¡SA                                                                |
-16|2|  1| 1|   150|JOBBIK MAGYARORSZ¡G…RT MOZGALOM - P¡RT                                                    |
-16|2|  2| 1|     9|SZOCI¡LDEMOKRATA P¡RT                                                                     |
-16|2|  2| 2|   147|MAGYAR VID…K …S POLG¡RI P¡RT                                                              |
-16|2|  3| 1|   129|PEDAG”GUSOK SZAKSZERVEZETE                                                                |
-16|2|  4| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-16|2|  5| 1|   140|÷SSZEFOG¡S SZABOLCS-SZATM¡R- BEREG MEGYE FELEMELKED…S……RT SZ÷VETS…G                       |
-16|2|  6| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-16|2|  7| 1|   656|"F‹GGETLEN POLG¡RMESTEREK A MEGY……RT" EGYES‹LET                                           |
-16|2|  8| 1|   635|POLG¡RMESTEREK ÷SSZEFOG¡SA                                                                |
-16|2|  9| 1|   806|NEMZETI KERESZT…NY POLG¡RI P¡RT                                                           |
-16|2| 10| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-16|2| 10| 2|   260|Magyar Gazdakˆrˆk Ès Gazdaszˆvetkezetek SzˆvetsÈge                                        |
-16|2| 10| 3|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-16|2| 11| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-16|2| 12| 1|   206|MAGYAR NYUGDÕJASOK P¡RTJA                                                                 |
-17|1|  1| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-17|1|  1| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-17|1|  2| 1|    39|MCF ROMA ÷SSZEFOG¡S P¡RT                                                                  |
-17|1|  3| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-17|1|  4| 1|   100|TOLNA MEGYEI F‹GGETLEN ROMA CIVIL EGYES‹LET                                               |
-17|1|  5| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-17|1|  6| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-17|1|  7| 1|   221|TOLNA MEGYEI EMBEREK SZ÷VETS…GE                                                           |
-17|1|  8| 1|   465|TOLNA MEGY……RT V¡LASZT¡SI SZ÷VETS…G                                                       |
-17|2|  1| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-17|2|  1| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-17|2|  2| 1|   465|TOLNA MEGY……RT V¡LASZT¡SI SZ÷VETS…G                                                       |
-17|2|  3| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-17|2|  4| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-17|2|  5| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-17|2|  6| 1|   221|TOLNA MEGYEI EMBEREK SZ÷VETS…GE                                                           |
-17|2|  6| 2|   829|V÷LGYS…GI IPARTEST‹LET                                                                    |
-18|1|  1| 1|   641|F‹GGETLEN KISGAZDA,- NEMZETI EGYS…G P¡RT                                                  |
-18|1|  1| 2|     8|KERESZT…NYDEMOKRATAP¡RT                                                                   |
-18|1|  2| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-18|1|  2| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-18|1|  2| 3|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-18|1|  3| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-18|1|  4| 1|   523|EUR”PAF”RUM-VAS MEGYE EGYES‹LET                                                           |
-18|1|  5| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-18|1|  6| 1|   476|POLG¡RMESTEREK VAS MEGY……RT EGYES‹LET                                                     |
-18|1|  7| 1|   760|VAS MEGYEI ÷NKORM¡NYZATOK…RT EGYES‹LET                                                    |
-18|1|  8| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-18|1|  9| 1|   208|HATVANN…GY V¡RMEGYE IFJ⁄S¡GI MOZGALOM                                                     |
-18|2|  1| 1|   641|F‹GGETLEN KISGAZDA,- NEMZETI EGYS…G P¡RT                                                  |
-18|2|  1| 2|     8|KERESZT…NYDEMOKRATAP¡RT                                                                   |
-18|2|  2| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-18|2|  3| 1|   208|HATVANN…GY V¡RMEGYE IFJ⁄S¡GI MOZGALOM                                                     |
-18|2|  4| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-18|2|  5| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-18|2|  6| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-18|2|  6| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-18|2|  6| 3|   179|Nemzeti FÛrum Egyes¸let                                                                   |
-18|2|  7| 1|   523|EUR”PAF”RUM-VAS MEGYE EGYES‹LET                                                           |
-18|2|  8| 1|   760|VAS MEGYEI ÷NKORM¡NYZATOK…RT EGYES‹LET                                                    |
-19|1|  1| 1|    19|F‹GGETLEN KISGAZDA-, F÷LDMUNK¡S- …S POLG¡RI P¡RT                                          |
-19|1|  2| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-19|1|  2| 2|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-19|1|  3| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-19|1|  4| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-19|1|  5| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-19|1|  5| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-19|1|  6| 1|   147|MAGYAR VID…K …S POLG¡RI P¡RT                                                              |
-19|2|  1| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-19|2|  1| 2|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-19|2|  2| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-19|2|  2| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-19|2|  3| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
-19|2|  4| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-19|2|  5| 1|     8|KERESZT…NYDEMOKRATAP¡RT                                                                   |
-19|2|  5| 2|   206|MAGYAR NYUGDÕJASOK P¡RTJA                                                                 |
-19|2|  5| 3|   147|MAGYAR VID…K …S POLG¡RI P¡RT                                                              |
-20|1|  1| 1|   869|SZ÷VETS…G ZAL¡…RT EGYES‹LET                                                               |
-20|1|  2| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-20|1|  3| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-20|1|  4| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-20|1|  4| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-20|1|  5| 1|   892|÷SSZEFOG¡SSAL D…L-ZAL¡…RT EGYES‹LET                                                       |
-20|1|  6| 1|   920|Keszthely-HÈvÌz Ès Zalaszent- grÛt TÈrsÈg V·rosaiÈrt Ès FalvaiÈrt Egyes¸let               |
-20|1|  7| 1|    31|FIATAL ROM¡K ORSZ¡GOS SZ÷VETS…GE                                                          |
-20|1|  8| 1|   914|ZALA MEGYEI ÷NKORM¡NYZATI EGYES‹LETI …S ALAPÕTV¡NYI SZ÷VETS…G                             |
-20|1|  9| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-20|1| 10| 1|   555|Zala-menti Polg·rmesterek Ès Polg·rok Egyes¸lete                                          |
-20|1| 11| 1|   859|ZALAEGERSZEG …S LENTI T…RS…G……RT EGYES‹LET                                                |
-20|2|  1| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-20|2|  2| 1|   525|SzˆvetsÈg KeszthelyÈrt Egyes¸let                                                          |
-20|2|  3| 1|    86|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G                                                         |
-20|2|  3| 2|    85|KeresztÈnydemokrata NÈpp·rt                                                               |
-20|2|  4| 1|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-20|2|  5| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-20|2|  6| 1|   207|KESZTHELY V¡ROS…RT EGYES‹LET                                                              |
+01|3|  1| 1|    68|BUDAPEST T√ÅRSAS√ÅG                                                                         |
+01|3|  2| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+01|3|  3| 1|   132|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                        |
+01|3|  4| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+01|3|  4| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+01|3|  5| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+01|3|  6| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+01|3|  7| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+01|3|  8| 1|    16|HUMANISTA P√ÅRT                                                                            |
+01|3|  9| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+02|1|  1| 1|   559|BARANYAI EMBEREK√âRT SZ√ñVETS√âG                                                             |
+02|1|  2| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+02|1|  2| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+02|1|  3| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+02|1|  4| 1|   846|CIG√ÅNY KISEBBS√âGI  √ñNKORM√ÅNYZATOK BARANYA MEGYEI SZ√ñVETS√âGE                               |
+02|1|  5| 1|   940|√ñSSZEFOG√ÅS BARANYA MEGY√â√âRT EGYES√úLET                                                     |
+02|1|  6| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+02|1|  7| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+02|1|  8| 1|   501|NYUGD√çJASOK BARANYA MEGYEI K√âPVISELETE                                                    |
+02|1|  9| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+02|1| 10| 1|   397|BARANYAI N√âMET √ñNKORM√ÅNYZATOK SZ√ñVETS√âGE                                                  |
+02|1| 11| 1|   147|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                              |
+02|1| 12| 1|    49|POLG√ÅRI K√ñR BARANY√Å√âRT EGYES√úLET                                                          |
+02|1| 13| 1|    33|MAGYARORSZ√ÅGI MUNK√ÅSP√ÅRT 2006                                                             |
+02|2|  1| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+02|2|  1| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+02|2|  2| 1|   366|KOML√ìI HONISMERETI √âS V√ÅROSSZ√âP√çT≈ê EGYES√úLET                                              |
+02|2|  3| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+02|2|  4| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+02|2|  5| 1|   147|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                              |
+02|2|  6| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+02|2|  7| 1|   846|CIG√ÅNY KISEBBS√âGI  √ñNKORM√ÅNYZATOK BARANYA MEGYEI SZ√ñVETS√âGE                               |
+02|2|  8| 1|    49|POLG√ÅRI K√ñR BARANY√Å√âRT EGYES√úLET                                                          |
+02|2|  9| 1|    33|MAGYARORSZ√ÅGI MUNK√ÅSP√ÅRT 2006                                                             |
+02|2| 10| 1|   206|MAGYAR NYUGD√çJASOK P√ÅRTJA                                                                 |
+02|2| 11| 1|   258|Z√ñLD DEMOKRAT√ÅK SZ√ñVETS√âGE                                                                |
+03|1|  1| 1|   491|F√ñLDI-√âLET-P√ÅRTJA                                                                         |
+03|1|  2| 1|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+03|1|  3| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+03|1|  4| 1|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+03|1|  5| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+03|1|  5| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+03|1|  5| 3|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+03|1|  6| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+03|1|  7| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+03|2|  1| 1|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+03|2|  2| 1|   132|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                        |
+03|2|  3| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+03|2|  3| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+03|2|  3| 3|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+03|2|  4| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+03|2|  5| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+03|2|  6| 1|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+03|2|  7| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+04|1|  1| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+04|1|  2| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+04|1|  3| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+04|1|  3| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+04|1|  3| 3|   291|B√©k√©s Megyei Gazdak√∂r√∂k Sz√∂vets√©ge                                                        |
+04|1|  4| 1|   206|MAGYAR NYUGD√çJASOK P√ÅRTJA                                                                 |
+04|1|  5| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+04|1|  6| 1|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+04|1|  6| 2|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+04|1|  7| 1|   132|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                        |
+04|1|  8| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+04|1|  9| 1|   861|√ñSSZEFOG√ÅS B√âK√âS MEGY√â√âRT EGYES√úLET                                                       |
+04|1| 10| 1|   485|Nyugd√≠jasok P√°rtja                                                                        |
+04|2|  1| 1|   132|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                        |
+04|2|  2| 1|   477|√ñSSZEFOG√ÅS MEZ≈êBER√âNY√âRT EGYES√úLET                                                        |
+04|2|  3| 1|   527|√ñSSZEFOG√ÅS GYUL√Å√âRT EGYES√úLET                                                             |
+04|2|  4| 1|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+04|2|  4| 2|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+04|2|  5| 1|   103|GYULAI V√ÅROSBAR√ÅTOK K√ñRE                                                                  |
+04|2|  6| 1|   861|√ñSSZEFOG√ÅS B√âK√âS MEGY√â√âRT EGYES√úLET                                                       |
+04|2|  7| 1|   553|OROSH√ÅZA √âS VID√âKE IPARTEST√úLET                                                           |
+04|2|  8| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+04|2|  9| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+04|2| 10| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+04|2| 11| 1|   485|Nyugd√≠jasok P√°rtja                                                                        |
+04|2| 12| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+04|2| 12| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+04|2| 12| 3|   291|B√©k√©s Megyei Gazdak√∂r√∂k Sz√∂vets√©ge                                                        |
+04|2| 13| 1|   313|K√ñR√ñS√ñK VID√âK√â√âRT EGYES√úLET                                                               |
+04|2| 14| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+05|1|  1| 1|   341|ZEMPL√âNI TELEP√úL√âSSZ√ñVETS√âG                                                               |
+05|1|  2| 1|   147|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                              |
+05|1|  3| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+05|1|  4| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+05|1|  5| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+05|1|  6| 1|    51|Roma Polg√°rjogi Mozgalom B.-A.-Z. Megyei Szervezete                                       |
+05|1|  7| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+05|1|  7| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+05|1|  8| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+05|1|  9| 1|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+05|1| 10| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+05|2|  1| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+05|2|  2| 1|   341|ZEMPL√âNI TELEP√úL√âSSZ√ñVETS√âG                                                               |
+05|2|  3| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+05|2|  3| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+05|2|  4| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+05|2|  5| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+05|2|  6| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+05|2|  7| 1|    51|Roma Polg√°rjogi Mozgalom B.-A.-Z. Megyei Szervezete                                       |
+05|2|  8| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+06|1|  1| 1|   389|MAK√ì √âS T√âRS√âGE POLG√ÅRMESTEREK F√ìRUMA EGYES√úLET                                           |
+06|1|  2| 1|   473|SZ√ñVETS√âG SZENTES FELEMELKED√âS√â√âRT EGYES√úLET                                              |
+06|1|  3| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+06|1|  4| 1|   631|HARMADIK OLDAL MAGYARORSZ√ÅG√âRT EGYES√úLET                                                  |
+06|1|  5| 1|   595|HOMOKH√ÅTI √ñNKORM√ÅNYZATOK KIST√âRS√âGI TER√úLETFEJLESZT√âSI EGYES√úLETE                         |
+06|1|  6| 1|   612|MEZ≈êGAZDAS√ÅGI T√ÅRSAS√ÅGOK, SZ√ñVETKEZETEK, V√ÅLLALKOZ√ìK CS.M-I √âRDEKV√âDELMI SZ√ñVETS√âGE       |
+06|1|  7| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+06|1|  7| 2|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+06|1|  8| 1|   867|KISTELEP√úL√âSEK FEJL≈êD√âS√â√âRT EGYES√úLET                                                     |
+06|1|  9| 1|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+06|1|  9| 2|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+06|1|  9| 3|   166|MAGYAR F√úGGETLENS√âGI P√ÅRT                                                                 |
+06|1| 10| 1|   672|EGYM√ÅS√âRT Szeged K√∂rny√©ki Telep√ºl√©sek Egyes√ºlete                                          |
+06|1| 11| 1|    27|MAGYARORSZ√ÅGI SZOCI√ÅLDEMOKRATA P√ÅRT                                                       |
+06|1| 12| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+06|1| 12| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+06|1| 12| 3|    32|KISGAZDA POLG√ÅRI EGYES√úLET                                                                |
+06|1| 12| 4|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+06|1| 12| 5|   260|Magyar Gazdak√∂r√∂k √©s Gazdasz√∂vetkezetek Sz√∂vets√©ge                                        |
+06|1| 12| 6|     5|V√ÅLLALKOZ√ìK P√ÅRTJA                                                                        |
+06|2|  1| 1|   507|JOBB MAK√ì√âRT EGYES√úLET                                                                    |
+06|2|  2| 1|   785|V√ÅROS√âP√çT≈êK T√ÅRSAS√ÅGA                                                                     |
+06|2|  3| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+06|2|  4| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+06|2|  4| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+06|2|  4| 3|    32|KISGAZDA POLG√ÅRI EGYES√úLET                                                                |
+06|2|  4| 4|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+06|2|  4| 5|   260|Magyar Gazdak√∂r√∂k √©s Gazdasz√∂vetkezetek Sz√∂vets√©ge                                        |
+06|2|  4| 6|     5|V√ÅLLALKOZ√ìK P√ÅRTJA                                                                        |
+06|2|  5| 1|   508|√ñSSZEFOG√ÅS CSONGR√ÅD√âRT EGYES√úLET                                                          |
+06|2|  6| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+06|2|  6| 2|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+06|2|  7| 1|    15|F√úGGETLENEK LIST√ÅJA                                                                       |
+06|2|  8| 1|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+06|2|  8| 2|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+06|2|  8| 3|   166|MAGYAR F√úGGETLENS√âGI P√ÅRT                                                                 |
+06|2|  9| 1|   473|SZ√ñVETS√âG SZENTES FELEMELKED√âS√â√âRT EGYES√úLET                                              |
+06|2| 10| 1|   132|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                        |
+06|2| 10| 2|    41|F√úGGETLEN K√âPVISEL≈êK SZ√ñVETS√âGE                                                           |
+06|2| 11| 1|   185|POLG√ÅRI SZ√ñVETS√âG MAK√ì√âRT                                                                 |
+06|2| 12| 1|   418|EGY√úTT SZENTES√âRT EGYES√úLET                                                               |
+06|2| 13| 1|   845|JOBB CSONGR√ÅD√âRT EGYES√úLET                                                                |
+06|2| 14| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+07|1|  1| 1|   443|POLG√ÅRMESTEREK FEJ√âR MEGY√â√âRT                                                             |
+07|1|  2| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+07|1|  3| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+07|1|  3| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+07|1|  3| 3|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+07|1|  4| 1|    28|ROMA DIPLOM√ÅSOK ORSZ√ÅGOS SZERVEZETE                                                       |
+07|1|  5| 1|   300|FEJ√âR MEGYEI TELEP√úL√âSEK√âRT EGYES√úLET                                                     |
+07|1|  6| 1|   352|M√ìR V√ÅROS J√ñV≈êJ√â√âRT EGYES√úLET                                                             |
+07|1|  7| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+07|1|  8| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+07|1|  9| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+07|1| 10| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+07|2|  1| 1|   443|POLG√ÅRMESTEREK FEJ√âR MEGY√â√âRT                                                             |
+07|2|  2| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+07|2|  3| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+07|2|  4| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+07|2|  5| 1|   352|M√ìR V√ÅROS J√ñV≈êJ√â√âRT EGYES√úLET                                                             |
+07|2|  6| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+07|2|  7| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+07|2|  7| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+07|2|  7| 3|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+08|1|  1| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+08|1|  2| 1|   316|N√âMET √ñNKORM√ÅNYZATOK GY≈êR-MOSON-SOPRON MEGYEI EGYES√úLETE                                  |
+08|1|  3| 1|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+08|1|  4| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+08|1|  5| 1|   626|GY≈êR-MOSON-SOPRON MEGY√â√âRT EGYES√úLET                                                      |
+08|1|  6| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+08|1|  6| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+08|1|  7| 1|   440|MEGYEI NYUGD√çJASOK, LIBER√ÅLISOK VID√âK√âRT EGYES√úLETE                                       |
+08|1|  8| 1|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+08|2|  1| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+08|2|  1| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+08|2|  2| 1|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+08|2|  2| 2|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+08|2|  2| 3|   147|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                              |
+08|2|  3| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+08|2|  4| 1|   626|GY≈êR-MOSON-SOPRON MEGY√â√âRT EGYES√úLET                                                      |
+08|2|  4| 2|   668|MOSONMAGYAR√ìV√ÅRI V√ÅLLALKOZ√ìK EGYES√úLETE                                                   |
+08|2|  4| 3|   305|SZ√úL≈êF√ñLD√úNK√âRT EGYES√úLET                                                                 |
+08|2|  5| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+08|2|  6| 1|   440|MEGYEI NYUGD√çJASOK, LIBER√ÅLISOK VID√âK√âRT EGYES√úLETE                                       |
+09|1|  1| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+09|1|  2| 1|   379|Polg√°rmesterek Hajd√∫-Bihar Megy√©√©rt Egyes√ºlet                                             |
+09|1|  3| 1|   147|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                              |
+09|1|  4| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+09|1|  5| 1|   203|Nyugd√≠jasok √ârdek√©rv√©nyes√≠t≈ë Egyes√ºlete                                                   |
+09|1|  6| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+09|1|  7| 1|   889|Bihari √ñnkorm√°nyzatok Sz√∂vets√©ge Egyes√ºlete                                               |
+09|1|  8| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+09|1|  9| 1|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+09|1| 10| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+09|1| 10| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+09|1| 10| 3|   260|Magyar Gazdak√∂r√∂k √©s Gazdasz√∂vetkezetek Sz√∂vets√©ge                                        |
+09|2|  1| 1|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+09|2|  2| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+09|2|  2| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+09|2|  2| 3|   260|Magyar Gazdak√∂r√∂k √©s Gazdasz√∂vetkezetek Sz√∂vets√©ge                                        |
+09|2|  3| 1|   558|KISZ√ñV Hajd√∫-Bihar Megyei Iparsz√∂vets√©g                                                   |
+09|2|  4| 1|   512|Hajd√∫v√°rosok Hagyom√°ny≈ërz≈ë, √ârdekk√©pviseleti √©s Ter√ºletfejleszt≈ë Sz√∂vets√©ge               |
+09|2|  5| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+09|2|  5| 2|   147|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                              |
+09|2|  6| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+09|2|  7| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+09|2|  8| 1|   209|Hajd√∫b√∂sz√∂rm√©ny Fejl≈ëd√©s√©√©rt Egyes√ºlet                                                    |
+09|2|  9| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+09|2| 10| 1|   315|Civilek a Lak√≥hely√©rt Egyes√ºlet                                                           |
+10|1|  1| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+10|1|  2| 1|   250|√ñsszefog√°s Heves Megy√©√©rt Egyes√ºlet                                                       |
+10|1|  3| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+10|1|  4| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+10|1|  5| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+10|1|  6| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+10|1|  6| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+10|1|  6| 3|     5|V√ÅLLALKOZ√ìK P√ÅRTJA                                                                        |
+10|1|  6| 4|    32|KISGAZDA POLG√ÅRI EGYES√úLET                                                                |
+10|1|  6| 5|   260|Magyar Gazdak√∂r√∂k √©s Gazdasz√∂vetkezetek Sz√∂vets√©ge                                        |
+10|1|  7| 1|    33|MAGYARORSZ√ÅGI MUNK√ÅSP√ÅRT 2006                                                             |
+10|1|  8| 1|   917|Nemzeti √ñsszefog√°s a Falvak √©s Gazd√°k V√©delm√©√©rt Egyes√ºlet                                |
+10|1|  9| 1|   394|Heves Megyei Nyugd√≠jasok V√°laszt√°si Egyes√ºlete                                            |
+10|2|  1| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+10|2|  2| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+10|2|  3| 1|   917|Nemzeti √ñsszefog√°s a Falvak √©s Gazd√°k V√©delm√©√©rt Egyes√ºlet                                |
+10|2|  4| 1|   604|Gy√∂ngy√∂s√ºnk√©rt Lok√°lpatri√≥ta Egyes√ºlet                                                    |
+10|2|  5| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+10|2|  6| 1|   250|√ñsszefog√°s Heves Megy√©√©rt Egyes√ºlet                                                       |
+10|2|  7| 1|    75|HATVAN V√ÅROSI LOK√ÅLPATRI√ìT√ÅK EGYES√úLETE                                                   |
+10|2|  8| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+10|2|  8| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+10|2|  8| 3|     5|V√ÅLLALKOZ√ìK P√ÅRTJA                                                                        |
+10|2|  8| 4|    32|KISGAZDA POLG√ÅRI EGYES√úLET                                                                |
+10|2|  8| 5|   260|Magyar Gazdak√∂r√∂k √©s Gazdasz√∂vetkezetek Sz√∂vets√©ge                                        |
+10|2|  9| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+10|2| 10| 1|    33|MAGYARORSZ√ÅGI MUNK√ÅSP√ÅRT 2006                                                             |
+11|1|  1| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+11|1|  1| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+11|1|  2| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+11|1|  3| 1|   738|IPARTEST√úLETEK √âS KISV√ÅLLAKOZ√ìK  JNSZ MEGYEI SZ√ñVETS√âGE                                   |
+11|1|  4| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+11|1|  5| 1|   765|POLG√ÅR≈êR EGYES√úLETEK J√ÅSZ- NAGYKUN-SZOLNOK MEGYEI SZ√ñVETS√âGE                              |
+11|1|  6| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+11|1|  7| 1|    31|FIATAL ROM√ÅK ORSZ√ÅGOS SZ√ñVETS√âGE                                                          |
+11|1|  8| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+11|1|  9| 1|   886|J√ÅSZS√ÅGI √ñNKORM√ÅNYZATOK SZ√ñVETS√âGE                                                        |
+11|1| 10| 1|   732|TISZAZUGI TELEP√úL√âSEK SZ√ñVETS√âGE                                                          |
+11|1| 10| 2|   734|TISZA-T√ì R√âGI√ì IFJUS√ÅG√Å√âRT EGYES√úLET                                                      |
+11|2|  1| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+11|2|  2| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+11|2|  3| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+11|2|  4| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+11|2|  4| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+11|2|  5| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+11|2|  6| 1|   765|POLG√ÅR≈êR EGYES√úLETEK J√ÅSZ- NAGYKUN-SZOLNOK MEGYEI SZ√ñVETS√âGE                              |
+12|1|  1| 1|   737|BAKONYT√âRS√âGI √ñNKORM√ÅNYZATOK SZ√ñVETS√âGE                                                   |
+12|1|  2| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+12|1|  3| 1|     5|V√ÅLLALKOZ√ìK P√ÅRTJA                                                                        |
+12|1|  3| 2|   850|POLG√ÅRI K√ñR√ñK TATAI SZ√ñVETS√âGE EGYES√úLET                                                  |
+12|1|  4| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+12|1|  5| 1|   138|KISGAZDA SZ√ñVETS√âG                                                                        |
+12|1|  6| 1|    33|MAGYARORSZ√ÅGI MUNK√ÅSP√ÅRT 2006                                                             |
+12|1|  7| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+12|1|  7| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+12|1|  8| 1|   552|ESZTERGOMI KIST√âRS√âG√âRT EGYES√úLET                                                         |
+12|1|  9| 1|   257|POLG√ÅRMESTEREK A FALUK√âRT                                                                 |
+12|1| 10| 1|   222|POLG√ÅRMESTEREK √âS NEMZETIS√âGEK EGYES√úLETE                                                 |
+12|1| 11| 1|   125|K√âPVISELET V√ÅLASZT√ÅSI EGYES√úLET                                                           |
+12|1| 12| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+12|1| 13| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+12|1| 14| 1|   164|TISZTA K√ñZ√âLET√âRT EGYES√úLET                                                               |
+12|2|  1| 1|   138|KISGAZDA SZ√ñVETS√âG                                                                        |
+12|2|  2| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+12|2|  3| 1|   132|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                        |
+12|2|  4| 1|   705|ESZTERGOMI SZOCI√ÅLDEMOKRATA EGYES√úLET                                                     |
+12|2|  5| 1|   835|√âRDEKV√âDELEM A LAKOSS√ÅG√âRT EGYES√úL√âS TATAB√ÅNY√ÅN                                           |
+12|2|  6| 1|   164|TISZTA K√ñZ√âLET√âRT EGYES√úLET                                                               |
+12|2|  7| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+12|2|  8| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+12|2|  9| 1|     5|V√ÅLLALKOZ√ìK P√ÅRTJA                                                                        |
+12|2|  9| 2|   850|POLG√ÅRI K√ñR√ñK TATAI SZ√ñVETS√âGE EGYES√úLET                                                  |
+12|2| 10| 1|   552|ESZTERGOMI KIST√âRS√âG√âRT EGYES√úLET                                                         |
+12|2| 11| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+12|2| 11| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+12|2| 12| 1|    22|Kom√°rom-Esztergom Megyei Nyugd√≠jas Szervezetek √©s Id≈ësek Egyes√ºlete                       |
+12|2| 13| 1|    33|MAGYARORSZ√ÅGI MUNK√ÅSP√ÅRT 2006                                                             |
+13|1|  1| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+13|1|  2| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+13|1|  3| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+13|1|  3| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+13|1|  4| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+13|1|  4| 2|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+13|1|  4| 3|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+13|1|  5| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+13|1|  6| 1|   903|IPOLYMENTE B√ñRZS√ñNY NATURPARK EGYES√úLET                                                   |
+13|1|  7| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+13|1|  8| 1|    33|MAGYARORSZ√ÅGI MUNK√ÅSP√ÅRT 2006                                                             |
+13|2|  1| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+13|2|  2| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+13|2|  2| 2|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+13|2|  2| 3|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+13|2|  3| 1|    33|MAGYARORSZ√ÅGI MUNK√ÅSP√ÅRT 2006                                                             |
+13|2|  4| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+13|2|  5| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+13|2|  6| 1|    41|F√úGGETLEN K√âPVISEL≈êK SZ√ñVETS√âGE                                                           |
+13|2|  7| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+13|2|  8| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+13|2|  8| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+14|1|  1| 1|   102|Pest Megyei T√©rs√©gek Egyes√ºlete                                                           |
+14|1|  1| 2|   152|√âL≈êL√ÅNC MAGYARORSZ√ÅG√âRT                                                                   |
+14|1|  2| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+14|1|  3| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+14|1|  4| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+14|1|  4| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+14|1|  5| 1|   816|Magyar √ñnkorm√°nyzatok Sz√∂vets√©ge                                                          |
+14|1|  5| 2|   817|Pest Megyei Kereskedelmi √©s Iparkamara                                                    |
+14|1|  6| 1|   812|SZENTENDRE-DUNAKANYAR KISGAZDA POLG√ÅRI EGYES√úLET                                          |
+14|1|  7| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+14|1|  8| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+14|2|  1| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+14|2|  2| 1|   816|Magyar √ñnkorm√°nyzatok Sz√∂vets√©ge                                                          |
+14|2|  2| 2|   817|Pest Megyei Kereskedelmi √©s Iparkamara                                                    |
+14|2|  3| 1|   152|√âL≈êL√ÅNC MAGYARORSZ√ÅG√âRT                                                                   |
+14|2|  4| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+14|2|  5| 1|    41|F√úGGETLEN K√âPVISEL≈êK SZ√ñVETS√âGE                                                           |
+14|2|  6| 1|   812|SZENTENDRE-DUNAKANYAR KISGAZDA POLG√ÅRI EGYES√úLET                                          |
+14|2|  7| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+14|2|  8| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+14|2|  8| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+14|2|  9| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+15|1|  1| 1|   286|SOMOGY√âRT EGYES√úLET                                                                       |
+15|1|  2| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+15|1|  2| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+15|1|  3| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+15|1|  4| 1|   922|SOMOGY√âRT EGY√úTTM≈∞K√ñD≈ê POLG√ÅRI EGYES√úLET                                                  |
+15|1|  5| 1|   910|EGY√úTT SOMOGY√âRT EGYES√úLET                                                                |
+15|1|  6| 1|   755|SOMOGY POLG√ÅRAI√âRT EGYES√úLET                                                              |
+15|1|  7| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+15|1|  7| 2|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+15|2|  1| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+15|2|  2| 1|   286|SOMOGY√âRT EGYES√úLET                                                                       |
+15|2|  3| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+15|2|  3| 2|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+15|2|  4| 1|   910|EGY√úTT SOMOGY√âRT EGYES√úLET                                                                |
+15|2|  5| 1|   755|SOMOGY POLG√ÅRAI√âRT EGYES√úLET                                                              |
+15|2|  6| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+15|2|  6| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+15|2|  7| 1|   922|SOMOGY√âRT EGY√úTTM≈∞K√ñD≈ê POLG√ÅRI EGYES√úLET                                                  |
+16|1|  1| 1|   129|PEDAG√ìGUSOK SZAKSZERVEZETE                                                                |
+16|1|  2| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+16|1|  3| 1|   656|"F√úGGETLEN POLG√ÅRMESTEREK A MEGY√â√âRT" EGYES√úLET                                           |
+16|1|  4| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+16|1|  5| 1|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+16|1|  6| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+16|1|  7| 1|   806|NEMZETI KERESZT√âNY POLG√ÅRI P√ÅRT                                                           |
+16|1|  8| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+16|1|  8| 2|   260|Magyar Gazdak√∂r√∂k √©s Gazdasz√∂vetkezetek Sz√∂vets√©ge                                        |
+16|1|  8| 3|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+16|1|  9| 1|   140|√ñSSZEFOG√ÅS SZABOLCS-SZATM√ÅR- BEREG MEGYE FELEMELKED√âS√â√âRT SZ√ñVETS√âG                       |
+16|1| 10| 1|   635|POLG√ÅRMESTEREK √ñSSZEFOG√ÅSA                                                                |
+16|2|  1| 1|   150|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM - P√ÅRT                                                    |
+16|2|  2| 1|     9|SZOCI√ÅLDEMOKRATA P√ÅRT                                                                     |
+16|2|  2| 2|   147|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                              |
+16|2|  3| 1|   129|PEDAG√ìGUSOK SZAKSZERVEZETE                                                                |
+16|2|  4| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+16|2|  5| 1|   140|√ñSSZEFOG√ÅS SZABOLCS-SZATM√ÅR- BEREG MEGYE FELEMELKED√âS√â√âRT SZ√ñVETS√âG                       |
+16|2|  6| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+16|2|  7| 1|   656|"F√úGGETLEN POLG√ÅRMESTEREK A MEGY√â√âRT" EGYES√úLET                                           |
+16|2|  8| 1|   635|POLG√ÅRMESTEREK √ñSSZEFOG√ÅSA                                                                |
+16|2|  9| 1|   806|NEMZETI KERESZT√âNY POLG√ÅRI P√ÅRT                                                           |
+16|2| 10| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+16|2| 10| 2|   260|Magyar Gazdak√∂r√∂k √©s Gazdasz√∂vetkezetek Sz√∂vets√©ge                                        |
+16|2| 10| 3|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+16|2| 11| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+16|2| 12| 1|   206|MAGYAR NYUGD√çJASOK P√ÅRTJA                                                                 |
+17|1|  1| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+17|1|  1| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+17|1|  2| 1|    39|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                                                  |
+17|1|  3| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+17|1|  4| 1|   100|TOLNA MEGYEI F√úGGETLEN ROMA CIVIL EGYES√úLET                                               |
+17|1|  5| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+17|1|  6| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+17|1|  7| 1|   221|TOLNA MEGYEI EMBEREK SZ√ñVETS√âGE                                                           |
+17|1|  8| 1|   465|TOLNA MEGY√â√âRT V√ÅLASZT√ÅSI SZ√ñVETS√âG                                                       |
+17|2|  1| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+17|2|  1| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+17|2|  2| 1|   465|TOLNA MEGY√â√âRT V√ÅLASZT√ÅSI SZ√ñVETS√âG                                                       |
+17|2|  3| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+17|2|  4| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+17|2|  5| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+17|2|  6| 1|   221|TOLNA MEGYEI EMBEREK SZ√ñVETS√âGE                                                           |
+17|2|  6| 2|   829|V√ñLGYS√âGI IPARTEST√úLET                                                                    |
+18|1|  1| 1|   641|F√úGGETLEN KISGAZDA,- NEMZETI EGYS√âG P√ÅRT                                                  |
+18|1|  1| 2|     8|KERESZT√âNYDEMOKRATAP√ÅRT                                                                   |
+18|1|  2| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+18|1|  2| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+18|1|  2| 3|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+18|1|  3| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+18|1|  4| 1|   523|EUR√ìPAF√ìRUM-VAS MEGYE EGYES√úLET                                                           |
+18|1|  5| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+18|1|  6| 1|   476|POLG√ÅRMESTEREK VAS MEGY√â√âRT EGYES√úLET                                                     |
+18|1|  7| 1|   760|VAS MEGYEI √ñNKORM√ÅNYZATOK√âRT EGYES√úLET                                                    |
+18|1|  8| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+18|1|  9| 1|   208|HATVANN√âGY V√ÅRMEGYE IFJ√öS√ÅGI MOZGALOM                                                     |
+18|2|  1| 1|   641|F√úGGETLEN KISGAZDA,- NEMZETI EGYS√âG P√ÅRT                                                  |
+18|2|  1| 2|     8|KERESZT√âNYDEMOKRATAP√ÅRT                                                                   |
+18|2|  2| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+18|2|  3| 1|   208|HATVANN√âGY V√ÅRMEGYE IFJ√öS√ÅGI MOZGALOM                                                     |
+18|2|  4| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+18|2|  5| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+18|2|  6| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+18|2|  6| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+18|2|  6| 3|   179|Nemzeti F√≥rum Egyes√ºlet                                                                   |
+18|2|  7| 1|   523|EUR√ìPAF√ìRUM-VAS MEGYE EGYES√úLET                                                           |
+18|2|  8| 1|   760|VAS MEGYEI √ñNKORM√ÅNYZATOK√âRT EGYES√úLET                                                    |
+19|1|  1| 1|    19|F√úGGETLEN KISGAZDA-, F√ñLDMUNK√ÅS- √âS POLG√ÅRI P√ÅRT                                          |
+19|1|  2| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+19|1|  2| 2|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+19|1|  3| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+19|1|  4| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+19|1|  5| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+19|1|  5| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+19|1|  6| 1|   147|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                              |
+19|2|  1| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+19|2|  1| 2|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+19|2|  2| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+19|2|  2| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+19|2|  3| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |
+19|2|  4| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+19|2|  5| 1|     8|KERESZT√âNYDEMOKRATAP√ÅRT                                                                   |
+19|2|  5| 2|   206|MAGYAR NYUGD√çJASOK P√ÅRTJA                                                                 |
+19|2|  5| 3|   147|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                              |
+20|1|  1| 1|   869|SZ√ñVETS√âG ZAL√Å√âRT EGYES√úLET                                                               |
+20|1|  2| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+20|1|  3| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+20|1|  4| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+20|1|  4| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+20|1|  5| 1|   892|√ñSSZEFOG√ÅSSAL D√âL-ZAL√Å√âRT EGYES√úLET                                                       |
+20|1|  6| 1|   920|Keszthely-H√©v√≠z √©s Zalaszent- gr√≥t T√©rs√©g V√°rosai√©rt √©s Falvai√©rt Egyes√ºlet               |
+20|1|  7| 1|    31|FIATAL ROM√ÅK ORSZ√ÅGOS SZ√ñVETS√âGE                                                          |
+20|1|  8| 1|   914|ZALA MEGYEI √ñNKORM√ÅNYZATI EGYES√úLETI √âS ALAP√çTV√ÅNYI SZ√ñVETS√âG                             |
+20|1|  9| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+20|1| 10| 1|   555|Zala-menti Polg√°rmesterek √©s Polg√°rok Egyes√ºlete                                          |
+20|1| 11| 1|   859|ZALAEGERSZEG √âS LENTI T√âRS√âG√â√âRT EGYES√úLET                                                |
+20|2|  1| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+20|2|  2| 1|   525|Sz√∂vets√©g Keszthely√©rt Egyes√ºlet                                                          |
+20|2|  3| 1|    86|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG                                                         |
+20|2|  3| 2|    85|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+20|2|  4| 1|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+20|2|  5| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+20|2|  6| 1|   207|KESZTHELY V√ÅROS√âRT EGYES√úLET                                                              |

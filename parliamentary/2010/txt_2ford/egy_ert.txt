@@ -1,167 +1,167 @@
-01|03| 1|   |Menczer                                           |ErzsÈbet                                |0012628| 2|FIDESZ,KDNP                                                 
-01|03| 2|Dr.|Orosz                                             |S·ndor                                  |0007720| 1|MSZP                                                        
-01|03| 3|   |SzabÛ                                             |TÌmea                                   |0002237| 1|LEHET M¡S A POLITIKA                                        
-01|04| 1|   |B˙s                                               |Bal·zs                                  |0017801| 2|FIDESZ,KDNP                                                 
-01|04| 2|   |Kiss                                              |L·szlÛ                                  |0007176| 1|MSZP                                                        
-01|04| 3|   |Quickert                                          |Lili·na Di·na                           |0003234| 1|LEHET M¡S A POLITIKA                                        
-01|05| 1|   |Csizm·r                                           |G·bor                                   |0009028| 1|MSZP                                                        
-01|05| 2|Dr.|HollÛsi                                           |Antal G·bor                             |0015504| 2|FIDESZ,KDNP                                                 
-01|05| 3|   |T·losnÈ P·lvˆlgyi                                 |M·rta                                   |0003076| 1|LEHET M¡S A POLITIKA                                        
-01|06| 1|   |Kiss                                              |PÈter                                   |0007746| 1|MSZP                                                        
-01|06| 2|   |Szegedi                                           |Csan·d                                  |0001638| 1|Jobbik                                                      
+01|03| 1|   |Menczer                                           |Erzs√©bet                                |0012628| 2|FIDESZ,KDNP                                                 
+01|03| 2|Dr.|Orosz                                             |S√°ndor                                  |0007720| 1|MSZP                                                        
+01|03| 3|   |Szab√≥                                             |T√≠mea                                   |0002237| 1|LEHET M√ÅS A POLITIKA                                        
+01|04| 1|   |B√∫s                                               |Bal√°zs                                  |0017801| 2|FIDESZ,KDNP                                                 
+01|04| 2|   |Kiss                                              |L√°szl√≥                                  |0007176| 1|MSZP                                                        
+01|04| 3|   |Quickert                                          |Lili√°na Di√°na                           |0003234| 1|LEHET M√ÅS A POLITIKA                                        
+01|05| 1|   |Csizm√°r                                           |G√°bor                                   |0009028| 1|MSZP                                                        
+01|05| 2|Dr.|Holl√≥si                                           |Antal G√°bor                             |0015504| 2|FIDESZ,KDNP                                                 
+01|05| 3|   |T√°losn√© P√°lv√∂lgyi                                 |M√°rta                                   |0003076| 1|LEHET M√ÅS A POLITIKA                                        
+01|06| 1|   |Kiss                                              |P√©ter                                   |0007746| 1|MSZP                                                        
+01|06| 2|   |Szegedi                                           |Csan√°d                                  |0001638| 1|Jobbik                                                      
 01|06| 3|   |Wintermantel                                      |Zsolt                                   |0010983| 2|FIDESZ,KDNP                                                 
-01|08| 1|Dr.|IllÈs                                             |Zolt·n                                  |0008343| 2|FIDESZ,KDNP                                                 
-01|08| 2|   |Kaszics                                           |B·lint                                  |0004793| 1|LEHET M¡S A POLITIKA                                        
-01|09| 1|   |Csiba                                             |Katalin GyˆngyvÈr                       |0002094| 1|LEHET M¡S A POLITIKA                                        
-01|09| 2|Dr.|Kisp·l                                            |Tibor                                   |0003806| 1|MSZP                                                        
-01|09| 3|   |RÛnaszÈkinÈ Keresztes                             |Monika M·ria                            |0008034| 2|FIDESZ,KDNP                                                 
-01|10| 1|dr.|FÛnagy                                            |J·nos                                   |0007124| 2|FIDESZ,KDNP                                                 
-01|10| 2|   |Moldov·n                                          |L·szlÛ                                  |0004723| 1|LEHET M¡S A POLITIKA                                        
-01|13| 1|Dr.|Erıss                                             |G·bor                                   |0001503| 1|LEHET M¡S A POLITIKA                                        
-01|13| 2|   |P·l                                               |Tibor                                   |0005328| 1|MSZP                                                        
+01|08| 1|Dr.|Ill√©s                                             |Zolt√°n                                  |0008343| 2|FIDESZ,KDNP                                                 
+01|08| 2|   |Kaszics                                           |B√°lint                                  |0004793| 1|LEHET M√ÅS A POLITIKA                                        
+01|09| 1|   |Csiba                                             |Katalin Gy√∂ngyv√©r                       |0002094| 1|LEHET M√ÅS A POLITIKA                                        
+01|09| 2|Dr.|Kisp√°l                                            |Tibor                                   |0003806| 1|MSZP                                                        
+01|09| 3|   |R√≥nasz√©kin√© Keresztes                             |Monika M√°ria                            |0008034| 2|FIDESZ,KDNP                                                 
+01|10| 1|dr.|F√≥nagy                                            |J√°nos                                   |0007124| 2|FIDESZ,KDNP                                                 
+01|10| 2|   |Moldov√°n                                          |L√°szl√≥                                  |0004723| 1|LEHET M√ÅS A POLITIKA                                        
+01|13| 1|Dr.|Er≈ëss                                             |G√°bor                                   |0001503| 1|LEHET M√ÅS A POLITIKA                                        
+01|13| 2|   |P√°l                                               |Tibor                                   |0005328| 1|MSZP                                                        
 01|13| 3|Dr.|Vas                                               |Imre                                    |0008266| 2|FIDESZ,KDNP                                                 
-01|14| 1|   |AratÛ                                             |Gergely L·szlÛ                          |0006387| 1|MSZP                                                        
-01|14| 2|   |Farnady                                           |L·szlÛ                                  |0001303| 1|Jobbik                                                      
-01|14| 3|Dr.|Gyˆrgy                                            |Istv·n                                  |0010703| 2|FIDESZ,KDNP                                                 
-01|16| 1|   |DiÛszegi                                          |Ernı Endre                              |0001141| 1|LEHET M¡S A POLITIKA                                        
-01|16| 2|   |Moln·r                                            |Gyula                                   |0010904| 1|MSZP                                                        
-01|16| 3|Dr.|SimicskÛ                                          |Istv·n                                  |0012467| 2|FIDESZ,KDNP                                                 
-01|19| 1|Dr.|Szalay                                            |PÈter                                   |0010246| 2|FIDESZ,KDNP                                                 
+01|14| 1|   |Arat√≥                                             |Gergely L√°szl√≥                          |0006387| 1|MSZP                                                        
+01|14| 2|   |Farnady                                           |L√°szl√≥                                  |0001303| 1|Jobbik                                                      
+01|14| 3|Dr.|Gy√∂rgy                                            |Istv√°n                                  |0010703| 2|FIDESZ,KDNP                                                 
+01|16| 1|   |Di√≥szegi                                          |Ern≈ë Endre                              |0001141| 1|LEHET M√ÅS A POLITIKA                                        
+01|16| 2|   |Moln√°r                                            |Gyula                                   |0010904| 1|MSZP                                                        
+01|16| 3|Dr.|Simicsk√≥                                          |Istv√°n                                  |0012467| 2|FIDESZ,KDNP                                                 
+01|19| 1|Dr.|Szalay                                            |P√©ter                                   |0010246| 2|FIDESZ,KDNP                                                 
 01|19| 2|Dr.|Szanyi                                            |Tibor                                   |0010480| 1|MSZP                                                        
-01|19| 3|   |Tordai                                            |Bence                                   |0001741| 1|LEHET M¡S A POLITIKA                                        
+01|19| 3|   |Tordai                                            |Bence                                   |0001741| 1|LEHET M√ÅS A POLITIKA                                        
 01|20| 1|   |Spaller                                           |Endre                                   |0009029| 2|FIDESZ,KDNP                                                 
-01|20| 2|Dr.|TÛth                                              |JÛzsef                                  |0011591| 1|MSZP                                                        
-01|20| 3|   |V·ri                                              |Gyˆrgy                                  |0000903| 1|LEHET M¡S A POLITIKA                                        
-01|21| 1|Dr.|Papcs·k                                           |Ferenc                                  |0014260| 2|FIDESZ,KDNP                                                 
-01|21| 2|   |V·rnai                                            |L·szlÛ S·ndor                           |0009329| 1|LEHET M¡S A POLITIKA                                        
-01|22| 1|   |H·mori                                            |Zsolt                                   |0003093| 1|LEHET M¡S A POLITIKA                                        
-01|22| 2|   |Kulcs·r                                           |JÛzsef Ferenc                           |0013378| 2|FIDESZ,KDNP                                                 
-01|22| 3|   |TÛth                                              |Csaba                                   |0008384| 1|MSZP                                                        
-01|23| 1|Dr.|Gaudi-Nagy                                        |Tam·s                                   |0001783| 1|Jobbik                                                      
-01|23| 2|Dr.|Hetyei                                            |L·szlÛ Antal                            |0007737| 1|MSZP                                                        
-01|23| 3|   |L·szlÛ                                            |Tam·s                                   |0011277| 2|FIDESZ,KDNP                                                 
-01|26| 1|   |Kucs·k                                            |L·szlÛ                                  |0011419| 2|FIDESZ,KDNP                                                 
+01|20| 2|Dr.|T√≥th                                              |J√≥zsef                                  |0011591| 1|MSZP                                                        
+01|20| 3|   |V√°ri                                              |Gy√∂rgy                                  |0000903| 1|LEHET M√ÅS A POLITIKA                                        
+01|21| 1|Dr.|Papcs√°k                                           |Ferenc                                  |0014260| 2|FIDESZ,KDNP                                                 
+01|21| 2|   |V√°rnai                                            |L√°szl√≥ S√°ndor                           |0009329| 1|LEHET M√ÅS A POLITIKA                                        
+01|22| 1|   |H√°mori                                            |Zsolt                                   |0003093| 1|LEHET M√ÅS A POLITIKA                                        
+01|22| 2|   |Kulcs√°r                                           |J√≥zsef Ferenc                           |0013378| 2|FIDESZ,KDNP                                                 
+01|22| 3|   |T√≥th                                              |Csaba                                   |0008384| 1|MSZP                                                        
+01|23| 1|Dr.|Gaudi-Nagy                                        |Tam√°s                                   |0001783| 1|Jobbik                                                      
+01|23| 2|Dr.|Hetyei                                            |L√°szl√≥ Antal                            |0007737| 1|MSZP                                                        
+01|23| 3|   |L√°szl√≥                                            |Tam√°s                                   |0011277| 2|FIDESZ,KDNP                                                 
+01|26| 1|   |Kucs√°k                                            |L√°szl√≥                                  |0011419| 2|FIDESZ,KDNP                                                 
 01|26| 2|   |Makai                                             |Tibor                                   |0001532| 1|Jobbik                                                      
-01|26| 3|   |Simon                                             |G·bor                                   |0007669| 1|MSZP                                                        
-01|27| 1|   |Gˆnczˆl                                           |Andr·s                                  |0002233| 1|Jobbik                                                      
-01|27| 2|Dr.|Mester                                            |L·szlÛ                                  |0009643| 1|MSZP                                                        
+01|26| 3|   |Simon                                             |G√°bor                                   |0007669| 1|MSZP                                                        
+01|27| 1|   |G√∂ncz√∂l                                           |Andr√°s                                  |0002233| 1|Jobbik                                                      
+01|27| 2|Dr.|Mester                                            |L√°szl√≥                                  |0009643| 1|MSZP                                                        
 01|27| 3|   |Ughy                                              |Attila                                  |0016001| 2|FIDESZ,KDNP                                                 
-01|28| 1|   |Bur·ny                                            |S·ndor                                  |0009165| 1|MSZP                                                        
-01|28| 2|   |Pısze                                             |Lajos                                   |0001823| 1|Jobbik                                                      
-01|28| 3|Dr.|Tarnai                                            |Rich·rd                                 |0013800| 2|FIDESZ,KDNP                                                 
+01|28| 1|   |Bur√°ny                                            |S√°ndor                                  |0009165| 1|MSZP                                                        
+01|28| 2|   |P≈ësze                                             |Lajos                                   |0001823| 1|Jobbik                                                      
+01|28| 3|Dr.|Tarnai                                            |Rich√°rd                                 |0013800| 2|FIDESZ,KDNP                                                 
 01|29| 1|   |Balog                                             |Barna                                   |0002043| 1|Jobbik                                                      
-01|29| 2|   |Fˆldesi                                           |Gyula                                   |0012607| 2|FIDESZ,KDNP                                                 
-01|29| 3|Dr.|Hiller                                            |Istv·n                                  |0007363| 1|MSZP                                                        
-01|30| 1|   |BorbÈly                                           |LÈn·rd                                  |0007061| 2|FIDESZ,KDNP                                                 
+01|29| 2|   |F√∂ldesi                                           |Gyula                                   |0012607| 2|FIDESZ,KDNP                                                 
+01|29| 3|Dr.|Hiller                                            |Istv√°n                                  |0007363| 1|MSZP                                                        
+01|30| 1|   |Borb√©ly                                           |L√©n√°rd                                  |0007061| 2|FIDESZ,KDNP                                                 
 01|30| 2|   |Nagy                                              |Ferenc                                  |0001328| 1|Jobbik                                                      
-01|30| 3|   |Podol·k                                           |Gyˆrgy                                  |0004579| 1|MSZP                                                        
-01|31| 1|   |Hud·k                                             |J·nos                                   |0005570| 1|LEHET M¡S A POLITIKA                                        
-01|31| 2|   |NÈmeth                                            |Szil·rd                                 |0008382| 2|FIDESZ,KDNP                                                 
-02|04| 1|   |Polics                                            |JÛzsef                                  |0011475| 2|FIDESZ,KDNP                                                 
-02|04| 2|Dr.|Szak·cs                                           |L·szlÛ                                  |0004736| 1|MSZP                                                        
-02|04| 3|   |Tal·lt                                            |TÌmea                                   |0001886| 1|Jobbik                                                      
-03|08| 1|   |Luk·cs                                            |L·szlÛ                                  |0010168| 2|FIDESZ,KDNP                                                 
-03|08| 2|   |SzabÛ                                             |K·roly                                  |0003168| 1|MSZP                                                        
-03|08| 3|   |Vizi                                              |Istv·n                                  |0003574| 1|Jobbik                                                      
-04|07| 1|Dr.|DÈvÈnyi-Dabrowsky                                 |GÈza D·niel                             |0002620| 1|Jobbik                                                      
-04|07| 2|Dr.|Karsai                                            |JÛzsef                                  |0005212| 1|MSZP                                                        
-04|07| 3|   |Simonka                                           |Gyˆrgy                                  |0010585| 2|FIDESZ,KDNP                                                 
-05|01| 1|   |Csˆbˆr                                            |Katalin                                 |0011251| 2|FIDESZ,KDNP                                                 
+01|30| 3|   |Podol√°k                                           |Gy√∂rgy                                  |0004579| 1|MSZP                                                        
+01|31| 1|   |Hud√°k                                             |J√°nos                                   |0005570| 1|LEHET M√ÅS A POLITIKA                                        
+01|31| 2|   |N√©meth                                            |Szil√°rd                                 |0008382| 2|FIDESZ,KDNP                                                 
+02|04| 1|   |Polics                                            |J√≥zsef                                  |0011475| 2|FIDESZ,KDNP                                                 
+02|04| 2|Dr.|Szak√°cs                                           |L√°szl√≥                                  |0004736| 1|MSZP                                                        
+02|04| 3|   |Tal√°lt                                            |T√≠mea                                   |0001886| 1|Jobbik                                                      
+03|08| 1|   |Luk√°cs                                            |L√°szl√≥                                  |0010168| 2|FIDESZ,KDNP                                                 
+03|08| 2|   |Szab√≥                                             |K√°roly                                  |0003168| 1|MSZP                                                        
+03|08| 3|   |Vizi                                              |Istv√°n                                  |0003574| 1|Jobbik                                                      
+04|07| 1|Dr.|D√©v√©nyi-Dabrowsky                                 |G√©za D√°niel                             |0002620| 1|Jobbik                                                      
+04|07| 2|Dr.|Karsai                                            |J√≥zsef                                  |0005212| 1|MSZP                                                        
+04|07| 3|   |Simonka                                           |Gy√∂rgy                                  |0010585| 2|FIDESZ,KDNP                                                 
+05|01| 1|   |Cs√∂b√∂r                                            |Katalin                                 |0011251| 2|FIDESZ,KDNP                                                 
 05|01| 2|   |Egyed                                             |Zsolt                                   |0004819| 1|Jobbik                                                      
 05|01| 3|   |Fedor                                             |Vilmos                                  |0004469| 1|MSZP                                                        
-05|02| 1|   |Csorba                                            |J·nos                                   |0003150| 1|Jobbik                                                      
-05|02| 2|Dr.|Simon                                             |G·bor                                   |0006739| 1|MSZP                                                        
+05|02| 1|   |Csorba                                            |J√°nos                                   |0003150| 1|Jobbik                                                      
+05|02| 2|Dr.|Simon                                             |G√°bor                                   |0006739| 1|MSZP                                                        
 05|02| 3|Dr.|Zsiga                                             |Marcell                                 |0010791| 2|FIDESZ,KDNP                                                 
-05|03| 1|   |K·li                                              |S·ndor                                  |0006406| 1|MSZP                                                        
-05|03| 2|Dr.|Nagy                                              |K·lm·n                                  |0009601| 2|FIDESZ,KDNP                                                 
-05|03| 3|   |SzabÛ                                             |Attila                                  |0003868| 1|Jobbik                                                      
-05|04| 1|   |SebestyÈn                                         |L·szlÛ                                  |0009494| 2|FIDESZ,KDNP                                                 
-05|04| 2|   |Sztancsik                                         |Barnab·s                                |0003829| 1|Jobbik                                                      
-05|04| 3|Dr.|Tompa                                             |S·ndor                                  |0006271| 1|MSZP                                                        
-05|05| 1|   |Kisgergely                                        |Andr·s                                  |0005617| 1|Jobbik                                                      
-05|05| 2|   |Riz                                               |G·bor                                   |0008073| 2|FIDESZ,KDNP                                                 
-05|05| 3|Dr.|TÛth                                              |Istv·n                                  |0002858| 1|MSZP                                                        
-05|06| 1|   |Bencs                                             |G·bor                                   |0004218| 1|Jobbik                                                      
-05|06| 2|   |Demeter                                           |Zolt·n                                  |0007951| 2|FIDESZ,KDNP                                                 
-05|06| 3|Dr.|Varga                                             |L·szlÛ                                  |0003389| 1|MSZP                                                        
-05|07| 1|   |EndrÈsik                                          |Zsolt                                   |0004873| 1|Jobbik                                                      
-05|07| 2|   |Szitka                                            |PÈter                                   |0005952| 1|MSZP                                                        
-05|07| 3|   |Tam·s                                             |Barnab·s                                |0008203| 2|FIDESZ,KDNP                                                 
+05|03| 1|   |K√°li                                              |S√°ndor                                  |0006406| 1|MSZP                                                        
+05|03| 2|Dr.|Nagy                                              |K√°lm√°n                                  |0009601| 2|FIDESZ,KDNP                                                 
+05|03| 3|   |Szab√≥                                             |Attila                                  |0003868| 1|Jobbik                                                      
+05|04| 1|   |Sebesty√©n                                         |L√°szl√≥                                  |0009494| 2|FIDESZ,KDNP                                                 
+05|04| 2|   |Sztancsik                                         |Barnab√°s                                |0003829| 1|Jobbik                                                      
+05|04| 3|Dr.|Tompa                                             |S√°ndor                                  |0006271| 1|MSZP                                                        
+05|05| 1|   |Kisgergely                                        |Andr√°s                                  |0005617| 1|Jobbik                                                      
+05|05| 2|   |Riz                                               |G√°bor                                   |0008073| 2|FIDESZ,KDNP                                                 
+05|05| 3|Dr.|T√≥th                                              |Istv√°n                                  |0002858| 1|MSZP                                                        
+05|06| 1|   |Bencs                                             |G√°bor                                   |0004218| 1|Jobbik                                                      
+05|06| 2|   |Demeter                                           |Zolt√°n                                  |0007951| 2|FIDESZ,KDNP                                                 
+05|06| 3|Dr.|Varga                                             |L√°szl√≥                                  |0003389| 1|MSZP                                                        
+05|07| 1|   |Endr√©sik                                          |Zsolt                                   |0004873| 1|Jobbik                                                      
+05|07| 2|   |Szitka                                            |P√©ter                                   |0005952| 1|MSZP                                                        
+05|07| 3|   |Tam√°s                                             |Barnab√°s                                |0008203| 2|FIDESZ,KDNP                                                 
 05|08| 1|Dr.|Daher                                             |Pierre                                  |0007779| 2|FIDESZ,KDNP                                                 
-05|08| 2|   |G˙r                                               |N·ndor                                  |0003324| 1|MSZP                                                        
-05|08| 4|   |Moln·r                                            |Oszk·r                                  |0008142| 0|F¸ggetlen jelˆlt                                            
-05|11| 1|   |Ficsor                                            |¡d·m                                    |0003440| 1|MSZP                                                        
-05|11| 2|   |Holcman                                           |L·szlÛ                                  |0005428| 1|Jobbik                                                      
+05|08| 2|   |G√∫r                                               |N√°ndor                                  |0003324| 1|MSZP                                                        
+05|08| 4|   |Moln√°r                                            |Oszk√°r                                  |0008142| 0|F√ºggetlen jel√∂lt                                            
+05|11| 1|   |Ficsor                                            |√Åd√°m                                    |0003440| 1|MSZP                                                        
+05|11| 2|   |Holcman                                           |L√°szl√≥                                  |0005428| 1|Jobbik                                                      
 05|11| 3|   |Koncz                                             |Ferenc                                  |0012382| 2|FIDESZ,KDNP                                                 
-05|12| 1|   |Balla                                             |Gergı                                   |0006046| 1|Jobbik                                                      
-05|12| 2|   |Kov·cs                                            |Tibor                                   |0004319| 1|MSZP                                                        
+05|12| 1|   |Balla                                             |Gerg≈ë                                   |0006046| 1|Jobbik                                                      
+05|12| 2|   |Kov√°cs                                            |Tibor                                   |0004319| 1|MSZP                                                        
 05|12| 3|Dr.|Mengyi                                            |Roland                                  |0011235| 2|FIDESZ,KDNP                                                 
-06|01| 1|   |BodÛ                                              |Imre                                    |0013524| 2|FIDESZ,KDNP                                                 
-06|01| 2|Dr.|Ujhelyi                                           |Istv·n                                  |0010688| 1|MSZP                                                        
-06|01| 3|   |Zagyva                                            |Gyˆrgy Gyula                            |0001199| 1|Jobbik                                                      
-06|03| 1|Dr.|Boh·cs                                            |Zsolt JÛzsef                            |0014021| 2|FIDESZ,KDNP                                                 
-06|03| 2|Dr.|Botka                                             |L·szlÛ                                  |0012122| 1|MSZP                                                        
-06|03| 3|   |Moln·r                                            |¡ron                                    |0001769| 1|Jobbik                                                      
-06|07| 1|Dr.|Buz·s                                             |PÈter                                   |0005777| 1|MSZP                                                        
+06|01| 1|   |Bod√≥                                              |Imre                                    |0013524| 2|FIDESZ,KDNP                                                 
+06|01| 2|Dr.|Ujhelyi                                           |Istv√°n                                  |0010688| 1|MSZP                                                        
+06|01| 3|   |Zagyva                                            |Gy√∂rgy Gyula                            |0001199| 1|Jobbik                                                      
+06|03| 1|Dr.|Boh√°cs                                            |Zsolt J√≥zsef                            |0014021| 2|FIDESZ,KDNP                                                 
+06|03| 2|Dr.|Botka                                             |L√°szl√≥                                  |0012122| 1|MSZP                                                        
+06|03| 3|   |Moln√°r                                            |√Åron                                    |0001769| 1|Jobbik                                                      
+06|07| 1|Dr.|Buz√°s                                             |P√©ter                                   |0005777| 1|MSZP                                                        
 06|07| 2|   |Fazekas                                           |Ferenc                                  |0002237| 1|Jobbik                                                      
-06|07| 3|   |M·gori                                            |JÛzsefnÈ                                |0009113| 2|FIDESZ,KDNP                                                 
-07|01| 1|Dr.|Cser-Palkovics                                    |Andr·s                                  |0011117| 2|FIDESZ,KDNP                                                 
+06|07| 3|   |M√°gori                                            |J√≥zsefn√©                                |0009113| 2|FIDESZ,KDNP                                                 
+07|01| 1|Dr.|Cser-Palkovics                                    |Andr√°s                                  |0011117| 2|FIDESZ,KDNP                                                 
 07|01| 2|   |Knizse                                            |Gyula                                   |0005440| 1|MSZP                                                        
-07|01| 3|Dr.|Kummer                                            |¡kos                                    |0001679| 1|Jobbik                                                      
+07|01| 3|Dr.|Kummer                                            |√Åkos                                    |0001679| 1|Jobbik                                                      
 07|03| 1|Dr.|Dorkota                                           |Lajos                                   |0009872| 2|FIDESZ,KDNP                                                 
-07|03| 2|Dr.|K·lm·n                                            |Andr·s                                  |0005479| 1|MSZP                                                        
-07|03| 3|   |PintÈr                                            |Tam·s                                   |0002591| 1|Jobbik                                                      
-10|03| 1|   |Bal·zs                                            |JÛzsef                                  |0012226| 2|FIDESZ,KDNP                                                 
-10|03| 2|Dr.|Magda                                             |S·ndor                                  |0009121| 1|MSZP                                                        
-10|03| 3|   |Vona                                              |G·bor                                   |0005460| 1|Jobbik                                                      
-10|04| 1|   |…rsek                                             |Zsolt                                   |0004560| 1|MSZP                                                        
-10|04| 2|Dr.|NyujtÛ                                            |Zsolt                                   |0004886| 1|Jobbik                                                      
-10|04| 3|   |SzabÛ                                             |Zsolt                                   |0010267| 2|FIDESZ,KDNP                                                 
-10|05| 1|Dr.|¡rvai                                             |Gyˆrgy                                  |0004999| 1|Jobbik                                                      
-10|05| 2|   |GodÛ                                              |Lajos                                   |0002439| 1|MSZP                                                        
-10|05| 3|Dr.|TÛth                                              |JÛzsef                                  |0008299| 2|FIDESZ,KDNP                                                 
-10|06| 1|   |Herman                                            |Istv·n                                  |0008796| 3|FIDESZ,KDNP,V·llalkozÛk P·rtja                              
-10|06| 2|   |KorÛzs                                            |Lajos                                   |0002702| 1|MSZP                                                        
-10|06| 3|   |MirkÛczki                                         |¡d·m                                    |0003713| 1|Jobbik                                                      
-11|01| 1|Dr.|Gedei                                             |JÛzsef                                  |0004291| 1|MSZP                                                        
-11|01| 2|   |Mur·nyi                                           |Levente                                 |0002373| 1|Jobbik                                                      
-11|01| 3|Dr.|SzabÛ                                             |Tam·s                                   |0009259| 2|FIDESZ,KDNP                                                 
-11|03| 1|   |Bar·th                                            |Zsolt                                   |0004120| 1|Jobbik                                                      
-11|03| 2|   |Cs·k                                              |L·szlÛ                                  |0004239| 1|MSZP                                                        
+07|03| 2|Dr.|K√°lm√°n                                            |Andr√°s                                  |0005479| 1|MSZP                                                        
+07|03| 3|   |Pint√©r                                            |Tam√°s                                   |0002591| 1|Jobbik                                                      
+10|03| 1|   |Bal√°zs                                            |J√≥zsef                                  |0012226| 2|FIDESZ,KDNP                                                 
+10|03| 2|Dr.|Magda                                             |S√°ndor                                  |0009121| 1|MSZP                                                        
+10|03| 3|   |Vona                                              |G√°bor                                   |0005460| 1|Jobbik                                                      
+10|04| 1|   |√ârsek                                             |Zsolt                                   |0004560| 1|MSZP                                                        
+10|04| 2|Dr.|Nyujt√≥                                            |Zsolt                                   |0004886| 1|Jobbik                                                      
+10|04| 3|   |Szab√≥                                             |Zsolt                                   |0010267| 2|FIDESZ,KDNP                                                 
+10|05| 1|Dr.|√Årvai                                             |Gy√∂rgy                                  |0004999| 1|Jobbik                                                      
+10|05| 2|   |God√≥                                              |Lajos                                   |0002439| 1|MSZP                                                        
+10|05| 3|Dr.|T√≥th                                              |J√≥zsef                                  |0008299| 2|FIDESZ,KDNP                                                 
+10|06| 1|   |Herman                                            |Istv√°n                                  |0008796| 3|FIDESZ,KDNP,V√°llalkoz√≥k P√°rtja                              
+10|06| 2|   |Kor√≥zs                                            |Lajos                                   |0002702| 1|MSZP                                                        
+10|06| 3|   |Mirk√≥czki                                         |√Åd√°m                                    |0003713| 1|Jobbik                                                      
+11|01| 1|Dr.|Gedei                                             |J√≥zsef                                  |0004291| 1|MSZP                                                        
+11|01| 2|   |Mur√°nyi                                           |Levente                                 |0002373| 1|Jobbik                                                      
+11|01| 3|Dr.|Szab√≥                                             |Tam√°s                                   |0009259| 2|FIDESZ,KDNP                                                 
+11|03| 1|   |Bar√°th                                            |Zsolt                                   |0004120| 1|Jobbik                                                      
+11|03| 2|   |Cs√°k                                              |L√°szl√≥                                  |0004239| 1|MSZP                                                        
 11|03| 3|   |Szalay                                            |Ferenc                                  |0012360| 2|FIDESZ,KDNP                                                 
-11|04| 1|   |Iv·ncsik                                          |Imre                                    |0005765| 1|MSZP                                                        
-11|04| 2|   |J·nosinÈ Dr. Bene                                 |IldikÛ                                  |0012015| 2|FIDESZ,KDNP                                                 
-11|04| 3|   |KalÛczkai                                         |S·ndor                                  |0003804| 1|Jobbik                                                      
-11|05| 1|   |S·gi                                              |Istv·n                                  |0008040| 2|FIDESZ,KDNP                                                 
-11|05| 2|   |SoÛs                                              |Antal                                   |0002699| 1|Jobbik                                                      
-11|05| 3|   |TokajinÈ Demecs                                   |Katalin                                 |0002936| 1|MSZP                                                        
-11|06| 1|   |Boldog                                            |Istv·n                                  |0008389| 2|FIDESZ,KDNP                                                 
-11|06| 2|   |Cs·nyi                                            |Tam·s                                   |0003687| 1|Jobbik                                                      
-11|06| 3|   |RÛzsa                                             |Endre                                   |0002799| 1|MSZP                                                        
-11|07| 1|   |FejÈr                                             |Andor                                   |0010481| 2|FIDESZ,KDNP                                                 
+11|04| 1|   |Iv√°ncsik                                          |Imre                                    |0005765| 1|MSZP                                                        
+11|04| 2|   |J√°nosin√© Dr. Bene                                 |Ildik√≥                                  |0012015| 2|FIDESZ,KDNP                                                 
+11|04| 3|   |Kal√≥czkai                                         |S√°ndor                                  |0003804| 1|Jobbik                                                      
+11|05| 1|   |S√°gi                                              |Istv√°n                                  |0008040| 2|FIDESZ,KDNP                                                 
+11|05| 2|   |So√≥s                                              |Antal                                   |0002699| 1|Jobbik                                                      
+11|05| 3|   |Tokajin√© Demecs                                   |Katalin                                 |0002936| 1|MSZP                                                        
+11|06| 1|   |Boldog                                            |Istv√°n                                  |0008389| 2|FIDESZ,KDNP                                                 
+11|06| 2|   |Cs√°nyi                                            |Tam√°s                                   |0003687| 1|Jobbik                                                      
+11|06| 3|   |R√≥zsa                                             |Endre                                   |0002799| 1|MSZP                                                        
+11|07| 1|   |Fej√©r                                             |Andor                                   |0010481| 2|FIDESZ,KDNP                                                 
 11|07| 2|Dr.|Nagy                                              |Levente                                 |0004914| 1|Jobbik                                                      
-11|07| 3|   |Serfızı                                           |Istv·n                                  |0002591| 1|MSZP                                                        
-12|01| 1|   |Bencsik                                           |J·nos                                   |0013077| 2|FIDESZ,KDNP                                                 
-12|01| 2|   |Kili·n                                            |GÈza                                    |0009026| 1|MSZP                                                        
-12|01| 3|   |V·gÛ                                              |SebestyÈn                               |0001791| 1|Jobbik                                                      
-12|05| 1|   |Balog                                             |J·nos                                   |0003492| 1|Jobbik                                                      
-12|05| 2|   |Meggyes                                           |Tam·s                                   |0012362| 2|FIDESZ,KDNP                                                 
+11|07| 3|   |Serf≈ëz≈ë                                           |Istv√°n                                  |0002591| 1|MSZP                                                        
+12|01| 1|   |Bencsik                                           |J√°nos                                   |0013077| 2|FIDESZ,KDNP                                                 
+12|01| 2|   |Kili√°n                                            |G√©za                                    |0009026| 1|MSZP                                                        
+12|01| 3|   |V√°g√≥                                              |Sebesty√©n                               |0001791| 1|Jobbik                                                      
+12|05| 1|   |Balog                                             |J√°nos                                   |0003492| 1|Jobbik                                                      
+12|05| 2|   |Meggyes                                           |Tam√°s                                   |0012362| 2|FIDESZ,KDNP                                                 
 12|05| 3|   |Winkfein                                          |Csaba                                   |0006346| 1|MSZP                                                        
-13|01| 1|   |BagÛ                                              |L·szlÛ                                  |0003210| 1|Jobbik                                                      
-13|01| 2|   |Boldvai                                           |L·szlÛ                                  |0006199| 1|MSZP                                                        
-13|01| 3|   |SzÈkynÈ Dr. SztrÈmi                               |Melinda                                 |0009383| 2|FIDESZ,KDNP                                                 
-14|02| 1|   |B·binÈ Szottfried                                 |Gabriella                               |0011610| 2|FIDESZ,KDNP                                                 
+13|01| 1|   |Bag√≥                                              |L√°szl√≥                                  |0003210| 1|Jobbik                                                      
+13|01| 2|   |Boldvai                                           |L√°szl√≥                                  |0006199| 1|MSZP                                                        
+13|01| 3|   |Sz√©kyn√© Dr. Sztr√©mi                               |Melinda                                 |0009383| 2|FIDESZ,KDNP                                                 
+14|02| 1|   |B√°bin√© Szottfried                                 |Gabriella                               |0011610| 2|FIDESZ,KDNP                                                 
 14|02| 2|   |Bethlen                                           |Farkas                                  |0004310| 0|                                                            
-14|02| 3|Dr.|Jakab                                             |Zolt·n Attila                           |0006377| 1|MSZP                                                        
-14|12| 1|   |Hoffman                                           |P·l                                     |0020342| 2|FIDESZ,KDNP                                                 
-14|12| 2|   |LÈvai                                             |Gyˆrgy                                  |0003191| 1|Jobbik                                                      
-14|12| 3|   |Varju                                             |L·szlÛ                                  |0008595| 1|MSZP                                                        
-16|01| 1|   |Jeszenszki                                        |Andr·s                                  |0006557| 1|MSZP                                                        
-16|01| 2|Dr.|Kov·cs                                            |Ferenc                                  |0012649| 2|FIDESZ,KDNP                                                 
-16|01| 3|Dr.|SztankÛ                                           |…va                                     |0003791| 1|Jobbik                                                      
-16|02| 1|Dr.|Gy¸re                                             |Csaba                                   |0004854| 1|Jobbik                                                      
-16|02| 2|   |Tukacs                                            |Istv·n                                  |0004897| 1|MSZP                                                        
-16|02| 3|Dr.|Vinnai                                            |Gyızı                                   |0013532| 2|FIDESZ,KDNP                                                 
-16|03| 1|   |Cs·sz·r                                           |JÛzsef                                  |0007345| 1|Jobbik                                                      
-16|03| 2|   |Juh·sz                                            |Ferenc                                  |0002426| 1|MSZP                                                        
-16|03| 3|Dr.|KarakÛ                                            |L·szlÛ                                  |0009993| 2|FIDESZ,KDNP                                                 
+14|02| 3|Dr.|Jakab                                             |Zolt√°n Attila                           |0006377| 1|MSZP                                                        
+14|12| 1|   |Hoffman                                           |P√°l                                     |0020342| 2|FIDESZ,KDNP                                                 
+14|12| 2|   |L√©vai                                             |Gy√∂rgy                                  |0003191| 1|Jobbik                                                      
+14|12| 3|   |Varju                                             |L√°szl√≥                                  |0008595| 1|MSZP                                                        
+16|01| 1|   |Jeszenszki                                        |Andr√°s                                  |0006557| 1|MSZP                                                        
+16|01| 2|Dr.|Kov√°cs                                            |Ferenc                                  |0012649| 2|FIDESZ,KDNP                                                 
+16|01| 3|Dr.|Sztank√≥                                           |√âva                                     |0003791| 1|Jobbik                                                      
+16|02| 1|Dr.|Gy√ºre                                             |Csaba                                   |0004854| 1|Jobbik                                                      
+16|02| 2|   |Tukacs                                            |Istv√°n                                  |0004897| 1|MSZP                                                        
+16|02| 3|Dr.|Vinnai                                            |Gy≈ëz≈ë                                   |0013532| 2|FIDESZ,KDNP                                                 
+16|03| 1|   |Cs√°sz√°r                                           |J√≥zsef                                  |0007345| 1|Jobbik                                                      
+16|03| 2|   |Juh√°sz                                            |Ferenc                                  |0002426| 1|MSZP                                                        
+16|03| 3|Dr.|Karak√≥                                            |L√°szl√≥                                  |0009993| 2|FIDESZ,KDNP                                                 

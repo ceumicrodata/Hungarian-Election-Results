@@ -1,40 +1,40 @@
 
-Ez a könyvtár az 1990. évi önkormányzati és polgármester választások
-végleges eredményeinek adatait tartalmazza, továbbfeldolgozásra alkalmas formában.
+Ez a kÃ¶nyvtÃ¡r az 1990. Ã©vi Ã¶nkormÃ¡nyzati Ã©s polgÃ¡rmester vÃ¡lasztÃ¡sok
+vÃ©gleges eredmÃ©nyeinek adatait tartalmazza, tovÃ¡bbfeldolgozÃ¡sra alkalmas formÃ¡ban.
 
-Az 1990. évi önkormányzati választásokról nem áll rendelkezésre
-teljeskörû információ.
+Az 1990. Ã©vi Ã¶nkormÃ¡nyzati vÃ¡lasztÃ¡sokrÃ³l nem Ã¡ll rendelkezÃ©sre
+teljeskÃ¶rÅ± informÃ¡ciÃ³.
 
 
-A rendelkezésre álló adatok az alábbiak:
+A rendelkezÃ©sre Ã¡llÃ³ adatok az alÃ¡bbiak:
 
-	- polgármesterek jegyzéke
-	- települési önkormányzatok összetétele szervezetenként
+	- polgÃ¡rmesterek jegyzÃ©ke
+	- telepÃ¼lÃ©si Ã¶nkormÃ¡nyzatok Ã¶sszetÃ©tele szervezetenkÃ©nt
 
-A text file-okban a mezõhatároló jel: '|'.
+A text file-okban a mezÅ‘hatÃ¡rolÃ³ jel: '|'.
 	
 	
-Polgármesterek adatait tartalmazó állomány neve: telep_polg_90.txt
+PolgÃ¡rmesterek adatait tartalmazÃ³ Ã¡llomÃ¡ny neve: telep_polg_90.txt
                                                  *****************
 Szerkezete:
-   MAZ       CHAR(2)     -- Megye azonosító
-   MNEV      CHAR(25)    -- Megyenév
-   TELEP     CHAR(20)    -- Településnév
-   NEVDR     CHAR(4)     -- Név jelzõ (pl. Dr. Ifj. Özv. stb. )
-   NEV       CHAR(36)    -- Jelölt neve
-   TAMSZ     CHAR(58)    -- Támogató pártok neve
+   MAZ       CHAR(2)     -- Megye azonosÃ­tÃ³
+   MNEV      CHAR(25)    -- MegyenÃ©v
+   TELEP     CHAR(20)    -- TelepÃ¼lÃ©snÃ©v
+   NEVDR     CHAR(4)     -- NÃ©v jelzÅ‘ (pl. Dr. Ifj. Ã–zv. stb. )
+   NEV       CHAR(36)    -- JelÃ¶lt neve
+   TAMSZ     CHAR(58)    -- TÃ¡mogatÃ³ pÃ¡rtok neve
 
 
 
 
-Települési önkormányzatok összetételének adatait tartalmazó állomány: telep_onk_90.txt
+TelepÃ¼lÃ©si Ã¶nkormÃ¡nyzatok Ã¶sszetÃ©telÃ©nek adatait tartalmazÃ³ Ã¡llomÃ¡ny: telep_onk_90.txt
 							              ****************
 							    
 Szerkezete:
-    MAZ       CHAR(2)     -- Megye azonosító
-    MNEV      CHAR(25)    -- Megyenév
-    KSHAZ     CHAR(5)     -- Település KSH azonosító	
-    TELEP     CHAR(20)    -- Településnév
+    MAZ       CHAR(2)     -- Megye azonosÃ­tÃ³
+    MNEV      CHAR(25)    -- MegyenÃ©v
+    KSHAZ     CHAR(5)     -- TelepÃ¼lÃ©s KSH azonosÃ­tÃ³	
+    TELEP     CHAR(20)    -- TelepÃ¼lÃ©snÃ©v
     SZERV     CHAR(30)    -- Szervezet/szervezetcsoport neve
-    KISEBB    CHAR(7)     -- Kisebbség neve	
-    MAND      CHAR(3)     -- A szervezet megszerzett mandátumainak száma
+    KISEBB    CHAR(7)     -- KisebbsÃ©g neve	
+    MAND      CHAR(3)     -- A szervezet megszerzett mandÃ¡tumainak szÃ¡ma

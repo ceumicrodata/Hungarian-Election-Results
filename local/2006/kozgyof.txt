@@ -1,39 +1,39 @@
-01|BUDAPEST                 |3|Fıv·rosi kˆzgy˚lÈsi lista     |7|V·laszt·s eredmÈnyes          | 66| 66|  0|  30971|1402201|   1215|1403416|    608| 784378| 783637|   -741|   9361| 774276|
-02|BARANYA                  |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 29| 29|  0|   3405| 142657|     45| 142702|     94|  89804|  89780|    -24|   4655|  85125|
-02|BARANYA                  |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 11| 11|  0|   1031|  56106|      5|  56111|      1|  26344|  26332|    -12|    556|  25776|
-03|B¡CS-KISKUN              |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 27| 27|  0|   4255| 213969|     69| 214038|     52| 110773| 110741|    -32|   4349| 106392|
-03|B¡CS-KISKUN              |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 19| 19|  0|   2539| 135414|     28| 135442|     20|  64827|  64771|    -56|   1275|  63496|
-04|B…K…S                    |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 22| 22|  0|   2822| 139515|     17| 139532|     48|  74203|  74172|    -31|   3609|  70563|
-04|B…K…S                    |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 18| 18|  0|   2296| 121816|     27| 121843|     53|  59205|  59171|    -34|   1756|  57415|
-05|BORSOD-ABA⁄J-ZEMPL…N     |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 40| 40|  0|   6773| 295918|     66| 295984|    378| 177115| 177063|    -52|   7736| 169327|
-05|BORSOD-ABA⁄J-ZEMPL…N     |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 19| 19|  0|   2573| 137174|     35| 137209|    116|  65464|  65438|    -26|   1108|  64330|
-06|CSONGR¡D                 |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 25| 25|  0|   2211| 112457|     19| 112476|     52|  58393|  58375|    -18|   3100|  55275|
-06|CSONGR¡D                 |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 15| 15|  0|   1049|  60016|      7|  60023|     19|  26893|  26880|    -13|    645|  26235|
-07|FEJ…R                    |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 34| 34|  0|   3642| 188443|     56| 188499|     96|  94416|  94392|    -24|   3325|  91067|
-07|FEJ…R                    |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          |  6|  6|  0|    634|  31517|     10|  31527|     10|  16233|  16231|     -2|    377|  15854|
-08|GY’R-MOSON-SOPRON        |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 32| 32|  0|   3638| 164718|     52| 164770|     31|  94250|  94214|    -36|   3264|  90950|
-08|GY’R-MOSON-SOPRON        |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          |  9|  9|  0|    906|  42933|      9|  42942|      0|  23043|  23032|    -11|    372|  22660|
-09|HAJD⁄-BIHAR              |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 24| 24|  0|   3230| 153009|     41| 153050|    221|  86048|  86000|    -48|   5230|  80770|
-09|HAJD⁄-BIHAR              |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 16| 16|  0|   2267| 116245|     29| 116274|    113|  58788|  58772|    -16|   2084|  56688|
-10|HEVES                    |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 30| 30|  0|   3417| 160823|     33| 160856|    160|  89555|  89535|    -20|   4098|  85437|
-10|HEVES                    |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 10| 10|  0|    983|  53841|     14|  53855|     25|  25042|  25033|     -9|    456|  24577|
-11|J¡SZ-NAGYKUN-SZOLNOK     |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 22| 22|  0|   3158| 164494|     22| 164516|    172|  83535|  83501|    -34|   4534|  78967|
-11|J¡SZ-NAGYKUN-SZOLNOK     |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 18| 18|  0|   1820| 102738|     29| 102767|     31|  46895|  46866|    -29|   1359|  45507|
-12|KOM¡ROM-ESZTERGOM        |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 22| 22|  0|   2103| 111089|     23| 111112|     31|  54732|  54709|    -23|   2124|  52585|
-12|KOM¡ROM-ESZTERGOM        |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 18| 18|  0|   1692|  85505|     49|  85554|     44|  42989|  42975|    -14|    653|  42322|
-13|N”GR¡D                   |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 30| 30|  0|   2694| 115093|     35| 115128|    242|  70019|  69992|    -27|   2622|  67370|
-13|N”GR¡D                   |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 10| 10|  0|    469|  25026|      3|  25029|     10|  12005|  11998|     -7|    256|  11742|
-14|PEST                     |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 38| 38|  0|   8014| 398725|    177| 398902|    225| 207139| 207056|    -83|   6695| 200361|
-14|PEST                     |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 42| 42|  0|   9415| 469342|    253| 469595|    266| 240426| 240300|   -126|   4904| 235396|
-15|SOMOGY                   |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 31| 31|  0|   3746| 163779|    114| 163893|    262|  97097|  97048|    -49|   3387|  93661|
-15|SOMOGY                   |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          |  9|  9|  0|    945|  49805|      9|  49814|     31|  24021|  24012|     -9|    382|  23630|
-16|SZABOLCS-SZATM¡R-BEREG   |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 39| 39|  0|   6932| 288910|     81| 288991|    416| 181579| 181494|    -85|   8172| 173322|
-16|SZABOLCS-SZATM¡R-BEREG   |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          |  9|  9|  0|   1417|  67668|     12|  67680|     44|  36336|  36324|    -12|    896|  35428|
-17|TOLNA                    |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 26| 26|  0|   2461| 114963|     25| 114988|     48|  64342|  64301|    -41|   2766|  61535|
-17|TOLNA                    |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 15| 15|  0|   1096|  54652|     16|  54668|     11|  27888|  27878|    -10|    471|  27407|
-18|VAS                      |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 29| 29|  0|   2465| 108601|     27| 108628|     21|  64526|  64513|    -13|   2867|  61646|
-18|VAS                      |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 11| 11|  0|    889|  41444|     13|  41457|      4|  22722|  22701|    -21|    470|  22231|
-19|VESZPR…M                 |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 24| 24|  0|   3349| 155189|     55| 155244|    163|  87535|  87489|    -46|   3752|  83737|
-19|VESZPR…M                 |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          | 16| 16|  0|   1794|  95120|     29|  95149|     73|  46228|  46217|    -11|   1344|  44873|
-20|ZALA                     |1|Megyei lista 10e Ès alatti    |7|V·laszt·s eredmÈnyes          | 35| 35|  0|   2938| 131696|     33| 131729|    272|  77113|  77095|    -18|   3641|  73454|
-20|ZALA                     |2|Megyei lista 10e feletti      |7|V·laszt·s eredmÈnyes          |  5|  5|  0|    350|  17276|      9|  17285|      1|   8877|   8866|    -11|    112|   8754|
+01|BUDAPEST                 |3|F≈ëv√°rosi k√∂zgy≈±l√©si lista     |7|V√°laszt√°s eredm√©nyes          | 66| 66|  0|  30971|1402201|   1215|1403416|    608| 784378| 783637|   -741|   9361| 774276|
+02|BARANYA                  |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 29| 29|  0|   3405| 142657|     45| 142702|     94|  89804|  89780|    -24|   4655|  85125|
+02|BARANYA                  |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 11| 11|  0|   1031|  56106|      5|  56111|      1|  26344|  26332|    -12|    556|  25776|
+03|B√ÅCS-KISKUN              |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 27| 27|  0|   4255| 213969|     69| 214038|     52| 110773| 110741|    -32|   4349| 106392|
+03|B√ÅCS-KISKUN              |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 19| 19|  0|   2539| 135414|     28| 135442|     20|  64827|  64771|    -56|   1275|  63496|
+04|B√âK√âS                    |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 22| 22|  0|   2822| 139515|     17| 139532|     48|  74203|  74172|    -31|   3609|  70563|
+04|B√âK√âS                    |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 18| 18|  0|   2296| 121816|     27| 121843|     53|  59205|  59171|    -34|   1756|  57415|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 40| 40|  0|   6773| 295918|     66| 295984|    378| 177115| 177063|    -52|   7736| 169327|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 19| 19|  0|   2573| 137174|     35| 137209|    116|  65464|  65438|    -26|   1108|  64330|
+06|CSONGR√ÅD                 |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 25| 25|  0|   2211| 112457|     19| 112476|     52|  58393|  58375|    -18|   3100|  55275|
+06|CSONGR√ÅD                 |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 15| 15|  0|   1049|  60016|      7|  60023|     19|  26893|  26880|    -13|    645|  26235|
+07|FEJ√âR                    |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 34| 34|  0|   3642| 188443|     56| 188499|     96|  94416|  94392|    -24|   3325|  91067|
+07|FEJ√âR                    |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          |  6|  6|  0|    634|  31517|     10|  31527|     10|  16233|  16231|     -2|    377|  15854|
+08|GY≈êR-MOSON-SOPRON        |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 32| 32|  0|   3638| 164718|     52| 164770|     31|  94250|  94214|    -36|   3264|  90950|
+08|GY≈êR-MOSON-SOPRON        |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          |  9|  9|  0|    906|  42933|      9|  42942|      0|  23043|  23032|    -11|    372|  22660|
+09|HAJD√ö-BIHAR              |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 24| 24|  0|   3230| 153009|     41| 153050|    221|  86048|  86000|    -48|   5230|  80770|
+09|HAJD√ö-BIHAR              |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 16| 16|  0|   2267| 116245|     29| 116274|    113|  58788|  58772|    -16|   2084|  56688|
+10|HEVES                    |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 30| 30|  0|   3417| 160823|     33| 160856|    160|  89555|  89535|    -20|   4098|  85437|
+10|HEVES                    |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 10| 10|  0|    983|  53841|     14|  53855|     25|  25042|  25033|     -9|    456|  24577|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 22| 22|  0|   3158| 164494|     22| 164516|    172|  83535|  83501|    -34|   4534|  78967|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 18| 18|  0|   1820| 102738|     29| 102767|     31|  46895|  46866|    -29|   1359|  45507|
+12|KOM√ÅROM-ESZTERGOM        |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 22| 22|  0|   2103| 111089|     23| 111112|     31|  54732|  54709|    -23|   2124|  52585|
+12|KOM√ÅROM-ESZTERGOM        |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 18| 18|  0|   1692|  85505|     49|  85554|     44|  42989|  42975|    -14|    653|  42322|
+13|N√ìGR√ÅD                   |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 30| 30|  0|   2694| 115093|     35| 115128|    242|  70019|  69992|    -27|   2622|  67370|
+13|N√ìGR√ÅD                   |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 10| 10|  0|    469|  25026|      3|  25029|     10|  12005|  11998|     -7|    256|  11742|
+14|PEST                     |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 38| 38|  0|   8014| 398725|    177| 398902|    225| 207139| 207056|    -83|   6695| 200361|
+14|PEST                     |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 42| 42|  0|   9415| 469342|    253| 469595|    266| 240426| 240300|   -126|   4904| 235396|
+15|SOMOGY                   |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 31| 31|  0|   3746| 163779|    114| 163893|    262|  97097|  97048|    -49|   3387|  93661|
+15|SOMOGY                   |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          |  9|  9|  0|    945|  49805|      9|  49814|     31|  24021|  24012|     -9|    382|  23630|
+16|SZABOLCS-SZATM√ÅR-BEREG   |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 39| 39|  0|   6932| 288910|     81| 288991|    416| 181579| 181494|    -85|   8172| 173322|
+16|SZABOLCS-SZATM√ÅR-BEREG   |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          |  9|  9|  0|   1417|  67668|     12|  67680|     44|  36336|  36324|    -12|    896|  35428|
+17|TOLNA                    |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 26| 26|  0|   2461| 114963|     25| 114988|     48|  64342|  64301|    -41|   2766|  61535|
+17|TOLNA                    |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 15| 15|  0|   1096|  54652|     16|  54668|     11|  27888|  27878|    -10|    471|  27407|
+18|VAS                      |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 29| 29|  0|   2465| 108601|     27| 108628|     21|  64526|  64513|    -13|   2867|  61646|
+18|VAS                      |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 11| 11|  0|    889|  41444|     13|  41457|      4|  22722|  22701|    -21|    470|  22231|
+19|VESZPR√âM                 |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 24| 24|  0|   3349| 155189|     55| 155244|    163|  87535|  87489|    -46|   3752|  83737|
+19|VESZPR√âM                 |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          | 16| 16|  0|   1794|  95120|     29|  95149|     73|  46228|  46217|    -11|   1344|  44873|
+20|ZALA                     |1|Megyei lista 10e √©s alatti    |7|V√°laszt√°s eredm√©nyes          | 35| 35|  0|   2938| 131696|     33| 131729|    272|  77113|  77095|    -18|   3641|  73454|
+20|ZALA                     |2|Megyei lista 10e feletti      |7|V√°laszt√°s eredm√©nyes          |  5|  5|  0|    350|  17276|      9|  17285|      1|   8877|   8866|    -11|    112|   8754|

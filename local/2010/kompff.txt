@@ -1,168 +1,168 @@
-01|Budapest                 |001|Budapest I.              |7|Választás eredményes          |  4|  0|
-01|Budapest                 |002|Budapest II.             |7|Választás eredményes          |  6|  0|
-01|Budapest                 |003|Budapest III.            |7|Választás eredményes          |  6|  0|
-01|Budapest                 |004|Budapest IV.             |7|Választás eredményes          |  6|  0|
-01|Budapest                 |005|Budapest V.              |7|Választás eredményes          |  4|  0|
-01|Budapest                 |006|Budapest VI.             |7|Választás eredményes          |  4|  0|
-01|Budapest                 |007|Budapest VII.            |7|Választás eredményes          |  5|  0|
-01|Budapest                 |008|Budapest VIII.           |7|Választás eredményes          |  5|  0|
-01|Budapest                 |009|Budapest IX.             |7|Választás eredményes          |  5|  0|
-01|Budapest                 |010|Budapest X.              |7|Választás eredményes          |  5|  0|
-01|Budapest                 |011|Budapest XI.             |7|Választás eredményes          |  7|  0|
-01|Budapest                 |012|Budapest XII.            |7|Választás eredményes          |  5|  0|
-01|Budapest                 |013|Budapest XIII.           |7|Választás eredményes          |  6|  0|
-01|Budapest                 |014|Budapest XIV.            |7|Választás eredményes          |  6|  0|
-01|Budapest                 |015|Budapest XV.             |7|Választás eredményes          |  6|  0|
-01|Budapest                 |016|Budapest XVI.            |7|Választás eredményes          |  5|  0|
-01|Budapest                 |017|Budapest XVII.           |7|Választás eredményes          |  6|  0|
-01|Budapest                 |018|Budapest XVIII.          |7|Választás eredményes          |  6|  0|
-01|Budapest                 |019|Budapest XIX.            |7|Választás eredményes          |  5|  0|
-01|Budapest                 |020|Budapest XX.             |7|Választás eredményes          |  5|  0|
-01|Budapest                 |021|Budapest XXI.            |7|Választás eredményes          |  6|  0|
-01|Budapest                 |022|Budapest XXII.           |7|Választás eredményes          |  5|  0|
-01|Budapest                 |023|Budapest XXIII.          |7|Választás eredményes          |  3|  0|
-02|Baranya                  |137|Komló                    |7|Választás eredményes          |  4|  0|
-02|Baranya                  |181|Mohács                   |7|Választás eredményes          |  3|  0|
-02|Baranya                  |217|Pécs                     |7|Választás eredményes          |  8|  0|
-02|Baranya                  |234|Siklós                   |7|Választás eredményes          |  3|  0|
-02|Baranya                  |263|Szigetvár                |7|Választás eredményes          |  3|  0|
-03|Bács-Kiskun              |004|Baja                     |7|Választás eredményes          |  4|  0|
-03|Bács-Kiskun              |056|Kalocsa                  |7|Választás eredményes          |  3|  0|
-03|Bács-Kiskun              |060|Kecskemét                |7|Választás eredményes          |  6|  0|
-03|Bács-Kiskun              |064|Kiskõrös                 |7|Választás eredményes          |  3|  0|
-03|Bács-Kiskun              |065|Kiskunfélegyháza         |7|Választás eredményes          |  4|  0|
-03|Bács-Kiskun              |066|Kiskunhalas              |7|Választás eredményes          |  4|  0|
-03|Bács-Kiskun              |067|Kiskunmajsa              |7|Választás eredményes          |  3|  0|
-03|Bács-Kiskun              |078|Lajosmizse               |7|Választás eredményes          |  3|  0|
-03|Bács-Kiskun              |111|Tiszakécske              |7|Választás eredményes          |  3|  0|
-04|Békés                    |003|Békés                    |7|Választás eredményes          |  3|  0|
-04|Békés                    |004|Békéscsaba               |7|Választás eredményes          |  5|  0|
-04|Békés                    |025|Gyomaendrõd              |7|Választás eredményes          |  3|  0|
-04|Békés                    |026|Gyula                    |7|Választás eredményes          |  4|  0|
-04|Békés                    |049|Mezõberény               |7|Választás eredményes          |  3|  0|
-04|Békés                    |059|Orosháza                 |7|Választás eredményes          |  4|  0|
-04|Békés                    |063|Sarkad                   |7|Választás eredményes          |  3|  0|
-04|Békés                    |066|Szarvas                  |7|Választás eredményes          |  3|  0|
-05|Borsod-Abaúj-Zemplén     |075|Edelény                  |7|Választás eredményes          |  3|  0|
-05|Borsod-Abaúj-Zemplén     |153|Kazincbarcika            |7|Választás eredményes          |  4|  0|
-05|Borsod-Abaúj-Zemplén     |196|Mezõkövesd               |7|Választás eredményes          |  3|  0|
-05|Borsod-Abaúj-Zemplén     |202|Miskolc                  |7|Választás eredményes          |  8|  0|
-05|Borsod-Abaúj-Zemplén     |226|Ózd                      |7|Választás eredményes          |  4|  0|
-05|Borsod-Abaúj-Zemplén     |268|Sajószentpéter           |7|Választás eredményes          |  3|  0|
-05|Borsod-Abaúj-Zemplén     |274|Sárospatak               |7|Választás eredményes          |  3|  0|
-05|Borsod-Abaúj-Zemplén     |276|Sátoraljaújhely          |7|Választás eredményes          |  3|  0|
-05|Borsod-Abaúj-Zemplén     |326|Tiszaújváros             |7|Választás eredményes          |  3|  0|
-06|Csongrád                 |013|Csongrád                 |7|Választás eredményes          |  3|  0|
-06|Csongrád                 |024|Hódmezõvásárhely         |7|Választás eredményes          |  4|  0|
-06|Csongrád                 |032|Makó                     |7|Választás eredményes          |  3|  0|
-06|Csongrád                 |051|Szeged                   |7|Választás eredményes          |  8|  0|
-06|Csongrád                 |053|Szentes                  |7|Választás eredményes          |  4|  0|
-07|Fejér                    |013|Bicske                   |7|Választás eredményes          |  3|  0|
-07|Fejér                    |024|Dunaújváros              |7|Választás eredményes          |  4|  0|
-07|Fejér                    |061|Mór                      |7|Választás eredményes          |  3|  0|
-07|Fejér                    |078|Sárbogárd                |7|Választás eredményes          |  3|  0|
-07|Fejér                    |094|Székesfehérvár           |7|Választás eredményes          |  6|  0|
-08|Gyõr-Moson-Sopron        |027|Csorna                   |7|Választás eredményes          |  3|  0|
-08|Gyõr-Moson-Sopron        |059|Gyõr                     |7|Választás eredményes          |  7|  0|
-08|Gyõr-Moson-Sopron        |081|Kapuvár                  |7|Választás eredményes          |  3|  0|
-08|Gyõr-Moson-Sopron        |104|Mosonmagyaróvár          |7|Választás eredményes          |  4|  0|
-08|Gyõr-Moson-Sopron        |150|Sopron                   |7|Választás eredményes          |  5|  0|
-09|Hajdú-Bihar              |005|Balmazújváros            |7|Választás eredményes          |  3|  0|
-09|Hajdú-Bihar              |009|Berettyóújfalu           |7|Választás eredményes          |  3|  0|
-09|Hajdú-Bihar              |018|Debrecen                 |7|Választás eredményes          | 10|  0|
-09|Hajdú-Bihar              |030|Hajdúböszörmény          |7|Választás eredményes          |  4|  0|
-09|Hajdú-Bihar              |032|Hajdúhadház              |7|Választás eredményes          |  3|  0|
-09|Hajdú-Bihar              |033|Hajdúnánás               |7|Választás eredményes          |  3|  0|
-09|Hajdú-Bihar              |034|Hajdúsámson              |7|Választás eredményes          |  3|  0|
-09|Hajdú-Bihar              |035|Hajdúszoboszló           |7|Választás eredményes          |  3|  0|
-09|Hajdú-Bihar              |063|Püspökladány             |7|Választás eredményes          |  3|  0|
-10|Heves                    |025|Eger                     |7|Választás eredményes          |  5|  0|
-10|Heves                    |039|Gyöngyös                 |7|Választás eredményes          |  4|  0|
-10|Heves                    |046|Hatvan                   |7|Választás eredményes          |  3|  0|
-10|Heves                    |048|Heves                    |7|Választás eredményes          |  3|  0|
-11|Jász-Nagykun-Szolnok     |016|Jászberény               |7|Választás eredményes          |  4|  0|
-11|Jász-Nagykun-Szolnok     |027|Karcag                   |7|Választás eredményes          |  3|  0|
-11|Jász-Nagykun-Szolnok     |031|Kisújszállás             |7|Választás eredményes          |  3|  0|
-11|Jász-Nagykun-Szolnok     |040|Mezõtúr                  |7|Választás eredményes          |  3|  0|
-11|Jász-Nagykun-Szolnok     |052|Szolnok                  |7|Választás eredményes          |  5|  0|
-11|Jász-Nagykun-Szolnok     |056|Tiszaföldvár             |7|Választás eredményes          |  3|  0|
-11|Jász-Nagykun-Szolnok     |057|Tiszafüred               |7|Választás eredményes          |  3|  0|
-11|Jász-Nagykun-Szolnok     |073|Törökszentmiklós         |7|Választás eredményes          |  3|  0|
-12|Komárom-Esztergom        |023|Dorog                    |7|Választás eredményes          |  3|  0|
-12|Komárom-Esztergom        |028|Esztergom                |7|Választás eredményes          |  4|  0|
-12|Komárom-Esztergom        |038|Komárom                  |7|Választás eredményes          |  3|  0|
-12|Komárom-Esztergom        |051|Oroszlány                |7|Választás eredményes          |  3|  0|
-12|Komárom-Esztergom        |064|Tata                     |7|Választás eredményes          |  3|  0|
-12|Komárom-Esztergom        |065|Tatabánya                |7|Választás eredményes          |  5|  0|
-13|Nógrád                   |003|Balassagyarmat           |7|Választás eredményes          |  3|  0|
-13|Nógrád                   |006|Bátonyterenye            |7|Választás eredményes          |  3|  0|
-13|Nógrád                   |103|Salgótarján              |7|Választás eredményes          |  4|  0|
-14|Pest                     |001|Abony                    |7|Választás eredményes          |  3|  0|
-14|Pest                     |003|Albertirsa               |7|Választás eredményes          |  3|  0|
-14|Pest                     |011|Biatorbágy               |7|Választás eredményes          |  3|  0|
-14|Pest                     |013|Budakalász               |7|Választás eredményes          |  3|  0|
-14|Pest                     |014|Budakeszi                |7|Választás eredményes          |  3|  0|
-14|Pest                     |015|Budaörs                  |7|Választás eredményes          |  4|  0|
-14|Pest                     |017|Cegléd                   |7|Választás eredményes          |  4|  0|
-14|Pest                     |025|Dabas                    |7|Választás eredményes          |  3|  0|
-14|Pest                     |033|Dunaharaszti             |7|Választás eredményes          |  3|  0|
-14|Pest                     |034|Dunakeszi                |7|Választás eredményes          |  4|  0|
-14|Pest                     |038|Érd                      |7|Választás eredményes          |  5|  0|
-14|Pest                     |041|Fót                      |7|Választás eredményes          |  3|  0|
-14|Pest                     |046|Göd                      |7|Választás eredményes          |  3|  0|
-14|Pest                     |047|Gödöllõ                  |7|Választás eredményes          |  4|  0|
-14|Pest                     |048|Gyál                     |7|Választás eredményes          |  3|  0|
-14|Pest                     |049|Gyömrõ                   |7|Választás eredményes          |  3|  0|
-14|Pest                     |058|Isaszeg                  |7|Választás eredményes          |  3|  0|
-14|Pest                     |064|Kerepes                  |7|Választás eredményes          |  3|  0|
-14|Pest                     |069|Kistarcsa                |7|Választás eredményes          |  3|  0|
-14|Pest                     |078|Maglód                   |7|Választás eredményes          |  3|  0|
-14|Pest                     |085|Monor                    |7|Választás eredményes          |  3|  0|
-14|Pest                     |087|Nagykáta                 |7|Választás eredményes          |  3|  0|
-14|Pest                     |089|Nagykõrös                |7|Választás eredményes          |  3|  0|
-14|Pest                     |102|Pécel                    |7|Választás eredményes          |  3|  0|
-14|Pest                     |104|Pilis                    |7|Választás eredményes          |  3|  0|
-14|Pest                     |112|Pilisvörösvár            |7|Választás eredményes          |  3|  0|
-14|Pest                     |113|Pomáz                    |7|Választás eredményes          |  3|  0|
-14|Pest                     |121|Solymár                  |7|Választás eredményes          |  3|  0|
-14|Pest                     |125|Százhalombatta           |7|Választás eredményes          |  3|  0|
-14|Pest                     |126|Szentendre               |7|Választás eredményes          |  4|  0|
-14|Pest                     |131|Szigethalom              |7|Választás eredményes          |  3|  0|
-14|Pest                     |134|Szigetszentmiklós        |7|Választás eredményes          |  4|  0|
-14|Pest                     |157|Tököl                    |7|Választás eredményes          |  3|  0|
-14|Pest                     |158|Törökbálint              |7|Választás eredményes          |  3|  0|
-14|Pest                     |165|Üllõ                     |7|Választás eredményes          |  3|  0|
-14|Pest                     |169|Vác                      |7|Választás eredményes          |  4|  0|
-14|Pest                     |177|Vecsés                   |7|Választás eredményes          |  3|  0|
-14|Pest                     |178|Veresegyház              |7|Választás eredményes          |  3|  0|
-15|Somogy                   |020|Barcs                    |7|Választás eredményes          |  3|  0|
-15|Somogy                   |091|Kaposvár                 |7|Választás eredményes          |  5|  0|
-15|Somogy                   |123|Marcali                  |7|Választás eredményes          |  3|  0|
-15|Somogy                   |130|Nagyatád                 |7|Választás eredményes          |  3|  0|
-15|Somogy                   |175|Siófok                   |7|Választás eredményes          |  3|  0|
-16|Szabolcs-Szatmár-Bereg   |077|Kisvárda                 |7|Választás eredményes          |  3|  0|
-16|Szabolcs-Szatmár-Bereg   |094|Mátészalka               |7|Választás eredményes          |  3|  0|
-16|Szabolcs-Szatmár-Bereg   |106|Nagykálló                |7|Választás eredményes          |  3|  0|
-16|Szabolcs-Szatmár-Bereg   |112|Nyírbátor                |7|Választás eredményes          |  3|  0|
-16|Szabolcs-Szatmár-Bereg   |119|Nyíregyháza              |7|Választás eredményes          |  6|  0|
-16|Szabolcs-Szatmár-Bereg   |204|Tiszavasvári             |7|Választás eredményes          |  3|  0|
-16|Szabolcs-Szatmár-Bereg   |217|Újfehértó                |7|Választás eredményes          |  3|  0|
-17|Tolna                    |011|Bonyhád                  |7|Választás eredményes          |  3|  0|
-17|Tolna                    |020|Dombóvár                 |7|Választás eredményes          |  3|  0|
-17|Tolna                    |079|Paks                     |7|Választás eredményes          |  3|  0|
-17|Tolna                    |095|Szekszárd                |7|Választás eredményes          |  4|  0|
-17|Tolna                    |099|Tolna                    |7|Választás eredményes          |  3|  0|
-18|Vas                      |020|Celldömölk               |7|Választás eredményes          |  3|  0|
-18|Vas                      |095|Körmend                  |7|Választás eredményes          |  3|  0|
-18|Vas                      |096|Kõszeg                   |7|Választás eredményes          |  3|  0|
-18|Vas                      |167|Sárvár                   |7|Választás eredményes          |  3|  0|
-18|Vas                      |186|Szombathely              |7|Választás eredményes          |  6|  0|
-19|Veszprém                 |003|Ajka                     |7|Választás eredményes          |  4|  0|
-19|Veszprém                 |026|Balatonfüred             |7|Választás eredményes          |  3|  0|
-19|Veszprém                 |153|Pápa                     |7|Választás eredményes          |  4|  0|
-19|Veszprém                 |188|Tapolca                  |7|Választás eredményes          |  3|  0|
-19|Veszprém                 |201|Várpalota                |7|Választás eredményes          |  3|  0|
-19|Veszprém                 |203|Veszprém                 |7|Választás eredményes          |  5|  0|
-20|Zala                     |093|Keszthely                |7|Választás eredményes          |  3|  0|
-20|Zala                     |134|Nagykanizsa              |7|Választás eredményes          |  5|  0|
-20|Zala                     |231|Zalaegerszeg             |7|Választás eredményes          |  5|  0|
+01|Budapest                 |001|Budapest I.              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+01|Budapest                 |002|Budapest II.             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+01|Budapest                 |003|Budapest III.            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+01|Budapest                 |004|Budapest IV.             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+01|Budapest                 |005|Budapest V.              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+01|Budapest                 |006|Budapest VI.             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+01|Budapest                 |007|Budapest VII.            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+01|Budapest                 |008|Budapest VIII.           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+01|Budapest                 |009|Budapest IX.             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+01|Budapest                 |010|Budapest X.              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+01|Budapest                 |011|Budapest XI.             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  7|  0|
+01|Budapest                 |012|Budapest XII.            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+01|Budapest                 |013|Budapest XIII.           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+01|Budapest                 |014|Budapest XIV.            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+01|Budapest                 |015|Budapest XV.             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+01|Budapest                 |016|Budapest XVI.            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+01|Budapest                 |017|Budapest XVII.           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+01|Budapest                 |018|Budapest XVIII.          |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+01|Budapest                 |019|Budapest XIX.            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+01|Budapest                 |020|Budapest XX.             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+01|Budapest                 |021|Budapest XXI.            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+01|Budapest                 |022|Budapest XXII.           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+01|Budapest                 |023|Budapest XXIII.          |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+02|Baranya                  |137|KomlÃ³                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+02|Baranya                  |181|MohÃ¡cs                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+02|Baranya                  |217|PÃ©cs                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  8|  0|
+02|Baranya                  |234|SiklÃ³s                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+02|Baranya                  |263|SzigetvÃ¡r                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+03|BÃ¡cs-Kiskun              |004|Baja                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+03|BÃ¡cs-Kiskun              |056|Kalocsa                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+03|BÃ¡cs-Kiskun              |060|KecskemÃ©t                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+03|BÃ¡cs-Kiskun              |064|KiskÅ‘rÃ¶s                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+03|BÃ¡cs-Kiskun              |065|KiskunfÃ©legyhÃ¡za         |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+03|BÃ¡cs-Kiskun              |066|Kiskunhalas              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+03|BÃ¡cs-Kiskun              |067|Kiskunmajsa              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+03|BÃ¡cs-Kiskun              |078|Lajosmizse               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+03|BÃ¡cs-Kiskun              |111|TiszakÃ©cske              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+04|BÃ©kÃ©s                    |003|BÃ©kÃ©s                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+04|BÃ©kÃ©s                    |004|BÃ©kÃ©scsaba               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+04|BÃ©kÃ©s                    |025|GyomaendrÅ‘d              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+04|BÃ©kÃ©s                    |026|Gyula                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+04|BÃ©kÃ©s                    |049|MezÅ‘berÃ©ny               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+04|BÃ©kÃ©s                    |059|OroshÃ¡za                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+04|BÃ©kÃ©s                    |063|Sarkad                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+04|BÃ©kÃ©s                    |066|Szarvas                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+05|Borsod-AbaÃºj-ZemplÃ©n     |075|EdelÃ©ny                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+05|Borsod-AbaÃºj-ZemplÃ©n     |153|Kazincbarcika            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+05|Borsod-AbaÃºj-ZemplÃ©n     |196|MezÅ‘kÃ¶vesd               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+05|Borsod-AbaÃºj-ZemplÃ©n     |202|Miskolc                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  8|  0|
+05|Borsod-AbaÃºj-ZemplÃ©n     |226|Ã“zd                      |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+05|Borsod-AbaÃºj-ZemplÃ©n     |268|SajÃ³szentpÃ©ter           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+05|Borsod-AbaÃºj-ZemplÃ©n     |274|SÃ¡rospatak               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+05|Borsod-AbaÃºj-ZemplÃ©n     |276|SÃ¡toraljaÃºjhely          |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+05|Borsod-AbaÃºj-ZemplÃ©n     |326|TiszaÃºjvÃ¡ros             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+06|CsongrÃ¡d                 |013|CsongrÃ¡d                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+06|CsongrÃ¡d                 |024|HÃ³dmezÅ‘vÃ¡sÃ¡rhely         |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+06|CsongrÃ¡d                 |032|MakÃ³                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+06|CsongrÃ¡d                 |051|Szeged                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  8|  0|
+06|CsongrÃ¡d                 |053|Szentes                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+07|FejÃ©r                    |013|Bicske                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+07|FejÃ©r                    |024|DunaÃºjvÃ¡ros              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+07|FejÃ©r                    |061|MÃ³r                      |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+07|FejÃ©r                    |078|SÃ¡rbogÃ¡rd                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+07|FejÃ©r                    |094|SzÃ©kesfehÃ©rvÃ¡r           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+08|GyÅ‘r-Moson-Sopron        |027|Csorna                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+08|GyÅ‘r-Moson-Sopron        |059|GyÅ‘r                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  7|  0|
+08|GyÅ‘r-Moson-Sopron        |081|KapuvÃ¡r                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+08|GyÅ‘r-Moson-Sopron        |104|MosonmagyarÃ³vÃ¡r          |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+08|GyÅ‘r-Moson-Sopron        |150|Sopron                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+09|HajdÃº-Bihar              |005|BalmazÃºjvÃ¡ros            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+09|HajdÃº-Bihar              |009|BerettyÃ³Ãºjfalu           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+09|HajdÃº-Bihar              |018|Debrecen                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          | 10|  0|
+09|HajdÃº-Bihar              |030|HajdÃºbÃ¶szÃ¶rmÃ©ny          |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+09|HajdÃº-Bihar              |032|HajdÃºhadhÃ¡z              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+09|HajdÃº-Bihar              |033|HajdÃºnÃ¡nÃ¡s               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+09|HajdÃº-Bihar              |034|HajdÃºsÃ¡mson              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+09|HajdÃº-Bihar              |035|HajdÃºszoboszlÃ³           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+09|HajdÃº-Bihar              |063|PÃ¼spÃ¶kladÃ¡ny             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+10|Heves                    |025|Eger                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+10|Heves                    |039|GyÃ¶ngyÃ¶s                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+10|Heves                    |046|Hatvan                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+10|Heves                    |048|Heves                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+11|JÃ¡sz-Nagykun-Szolnok     |016|JÃ¡szberÃ©ny               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+11|JÃ¡sz-Nagykun-Szolnok     |027|Karcag                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+11|JÃ¡sz-Nagykun-Szolnok     |031|KisÃºjszÃ¡llÃ¡s             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+11|JÃ¡sz-Nagykun-Szolnok     |040|MezÅ‘tÃºr                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+11|JÃ¡sz-Nagykun-Szolnok     |052|Szolnok                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+11|JÃ¡sz-Nagykun-Szolnok     |056|TiszafÃ¶ldvÃ¡r             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+11|JÃ¡sz-Nagykun-Szolnok     |057|TiszafÃ¼red               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+11|JÃ¡sz-Nagykun-Szolnok     |073|TÃ¶rÃ¶kszentmiklÃ³s         |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+12|KomÃ¡rom-Esztergom        |023|Dorog                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+12|KomÃ¡rom-Esztergom        |028|Esztergom                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+12|KomÃ¡rom-Esztergom        |038|KomÃ¡rom                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+12|KomÃ¡rom-Esztergom        |051|OroszlÃ¡ny                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+12|KomÃ¡rom-Esztergom        |064|Tata                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+12|KomÃ¡rom-Esztergom        |065|TatabÃ¡nya                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+13|NÃ³grÃ¡d                   |003|Balassagyarmat           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+13|NÃ³grÃ¡d                   |006|BÃ¡tonyterenye            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+13|NÃ³grÃ¡d                   |103|SalgÃ³tarjÃ¡n              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+14|Pest                     |001|Abony                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |003|Albertirsa               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |011|BiatorbÃ¡gy               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |013|BudakalÃ¡sz               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |014|Budakeszi                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |015|BudaÃ¶rs                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+14|Pest                     |017|CeglÃ©d                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+14|Pest                     |025|Dabas                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |033|Dunaharaszti             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |034|Dunakeszi                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+14|Pest                     |038|Ã‰rd                      |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+14|Pest                     |041|FÃ³t                      |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |046|GÃ¶d                      |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |047|GÃ¶dÃ¶llÅ‘                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+14|Pest                     |048|GyÃ¡l                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |049|GyÃ¶mrÅ‘                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |058|Isaszeg                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |064|Kerepes                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |069|Kistarcsa                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |078|MaglÃ³d                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |085|Monor                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |087|NagykÃ¡ta                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |089|NagykÅ‘rÃ¶s                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |102|PÃ©cel                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |104|Pilis                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |112|PilisvÃ¶rÃ¶svÃ¡r            |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |113|PomÃ¡z                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |121|SolymÃ¡r                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |125|SzÃ¡zhalombatta           |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |126|Szentendre               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+14|Pest                     |131|Szigethalom              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |134|SzigetszentmiklÃ³s        |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+14|Pest                     |157|TÃ¶kÃ¶l                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |158|TÃ¶rÃ¶kbÃ¡lint              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |165|ÃœllÅ‘                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |169|VÃ¡c                      |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+14|Pest                     |177|VecsÃ©s                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+14|Pest                     |178|VeresegyhÃ¡z              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+15|Somogy                   |020|Barcs                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+15|Somogy                   |091|KaposvÃ¡r                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+15|Somogy                   |123|Marcali                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+15|Somogy                   |130|NagyatÃ¡d                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+15|Somogy                   |175|SiÃ³fok                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+16|Szabolcs-SzatmÃ¡r-Bereg   |077|KisvÃ¡rda                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+16|Szabolcs-SzatmÃ¡r-Bereg   |094|MÃ¡tÃ©szalka               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+16|Szabolcs-SzatmÃ¡r-Bereg   |106|NagykÃ¡llÃ³                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+16|Szabolcs-SzatmÃ¡r-Bereg   |112|NyÃ­rbÃ¡tor                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+16|Szabolcs-SzatmÃ¡r-Bereg   |119|NyÃ­regyhÃ¡za              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+16|Szabolcs-SzatmÃ¡r-Bereg   |204|TiszavasvÃ¡ri             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+16|Szabolcs-SzatmÃ¡r-Bereg   |217|ÃšjfehÃ©rtÃ³                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+17|Tolna                    |011|BonyhÃ¡d                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+17|Tolna                    |020|DombÃ³vÃ¡r                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+17|Tolna                    |079|Paks                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+17|Tolna                    |095|SzekszÃ¡rd                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+17|Tolna                    |099|Tolna                    |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+18|Vas                      |020|CelldÃ¶mÃ¶lk               |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+18|Vas                      |095|KÃ¶rmend                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+18|Vas                      |096|KÅ‘szeg                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+18|Vas                      |167|SÃ¡rvÃ¡r                   |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+18|Vas                      |186|Szombathely              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  6|  0|
+19|VeszprÃ©m                 |003|Ajka                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+19|VeszprÃ©m                 |026|BalatonfÃ¼red             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+19|VeszprÃ©m                 |153|PÃ¡pa                     |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  4|  0|
+19|VeszprÃ©m                 |188|Tapolca                  |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+19|VeszprÃ©m                 |201|VÃ¡rpalota                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+19|VeszprÃ©m                 |203|VeszprÃ©m                 |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+20|Zala                     |093|Keszthely                |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  3|  0|
+20|Zala                     |134|Nagykanizsa              |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|
+20|Zala                     |231|Zalaegerszeg             |7|VÃ¡lasztÃ¡s eredmÃ©nyes          |  5|  0|

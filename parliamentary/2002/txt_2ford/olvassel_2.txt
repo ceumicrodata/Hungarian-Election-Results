@@ -1,249 +1,249 @@
 
 
-      SzavazÛkˆri Ès eredmÈny jegyzıkˆnyv ·llom·nyok
+      Szavaz√≥k√∂ri √©s eredm√©ny jegyz≈ëk√∂nyv √°llom√°nyok
 
-       2. fordulÛ vÈgleges adatai 
+       2. fordul√≥ v√©gleges adatai 
        
-       KÈsz¸lt: 2002.05.06
+       K√©sz√ºlt: 2002.05.06
 ------------------------------------------------------------------
-EgyÈni szavazÛkˆri:
+Egy√©ni szavaz√≥k√∂ri:
 ------------------------------------------------------------------
 
 EGY_SZKF.TXT
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   TAZ       CHAR(3)     -- Telep¸lÈs azonosÌtÛ
-   SORSZ     CHAR(4)     -- SzavazÛkˆr sorsz·ma megyÈn, 
-                            telep¸lÈsen bel¸l
-   MNEV      CHAR(25)    -- MegyenÈv
-   TELEP     CHAR(27)    -- Telep¸lÈsnÈv
-   OEVK      CHAR(2)     -- OEVK sorsz·ma megyÈn bel¸l
-   A         NUMBER(10)  -- Jegyzıkˆnyv 'A' mezı
-                            Elızı nap 16 Ûr·ig a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   B         NUMBER(10)  -- Jegyzıkˆnyv 'B' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   C         NUMBER(10)  -- Jegyzıkˆnyv 'C' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbıl 
-                            tˆrˆlt v·lasztÛpolg·rok sz·ma
-   D         NUMBER(10)  -- Jegyzıkˆnyv 'D' mezı
-                            V·l.polg·rok sz·ma a nÈvjegyzÈkben 
-                            a v·laszt·s befejezÈsekor
-   E         NUMBER(10)  -- Jegyzıkˆnyv 'E' mezı
-                            VisszautasÌtott v·lasztÛpolg·rok sz·ma
-   F         NUMBER(10)  -- Jegyzıkˆnyv 'F' mezı 
-                            SzavazÛkÈnt megjelentek sz·ma
-   G         NUMBER(10)  -- Jegyzıkˆnyv 'G' mezı
-                            Urn·ban lÈvı szavazÛlapok sz·ma
-   H         NUMBER(10)  -- Jegyzıkˆnyv 'H' mezı
-                            EltÈrÈs a szavazÛk sz·m·tÛl (G-F)
-   I         NUMBER(10)  -- Jegyzıkˆnyv 'I' mezı
-                            …rvÈnytelen szavazatok sz·ma
-   J         NUMBER(10)  -- Jegyzıkˆnyv 'J' mezı
-                            …rvÈnyes szavazatok sz·ma
-   MEGS      CHAR(12)    -- MegsemmisÌtÈs tÈnye, vagy ¸res
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   TAZ       CHAR(3)     -- Telep√ºl√©s azonos√≠t√≥
+   SORSZ     CHAR(4)     -- Szavaz√≥k√∂r sorsz√°ma megy√©n, 
+                            telep√ºl√©sen bel√ºl
+   MNEV      CHAR(25)    -- Megyen√©v
+   TELEP     CHAR(27)    -- Telep√ºl√©sn√©v
+   OEVK      CHAR(2)     -- OEVK sorsz√°ma megy√©n bel√ºl
+   A         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'A' mez≈ë
+                            El≈ëz≈ë nap 16 √≥r√°ig a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   B         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'B' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   C         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'C' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kb≈ël 
+                            t√∂r√∂lt v√°laszt√≥polg√°rok sz√°ma
+   D         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'D' mez≈ë
+                            V√°l.polg√°rok sz√°ma a n√©vjegyz√©kben 
+                            a v√°laszt√°s befejez√©sekor
+   E         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'E' mez≈ë
+                            Visszautas√≠tott v√°laszt√≥polg√°rok sz√°ma
+   F         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'F' mez≈ë 
+                            Szavaz√≥k√©nt megjelentek sz√°ma
+   G         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'G' mez≈ë
+                            Urn√°ban l√©v≈ë szavaz√≥lapok sz√°ma
+   H         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'H' mez≈ë
+                            Elt√©r√©s a szavaz√≥k sz√°m√°t√≥l (G-F)
+   I         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'I' mez≈ë
+                            √ârv√©nytelen szavazatok sz√°ma
+   J         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'J' mez≈ë
+                            √ârv√©nyes szavazatok sz√°ma
+   MEGS      CHAR(12)    -- Megsemmis√≠t√©s t√©nye, vagy √ºres
 
 Egyedi kulcs:
    MAZ,TAZ,SORSZ
 
 
 EGY_SZKT.TXT
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   TAZ       CHAR(3)     -- Telep¸lÈs azonosÌtÛ
-   SORSZ     CHAR(4)     -- SzavazÛkˆr sorsz·ma megyÈn, 
-                            telep¸lÈsen bel¸l
-   SOR       CHAR(2)     -- Jelˆlt sorsz·ma
-   NEVDR     CHAR(4)     -- NÈv jelzı (pl. Dr. Ifj. ÷zv. stb. )
-   NEV       CHAR(60)    -- Jelˆlt neve
-   SZAV      NUMBER(10)  -- Kapott ÈrvÈnyes szavazat
-   TAMSZAM   CHAR(2)     -- T·mogatÛ p·rtok sz·ma 
-                            (a kˆvetkezı mezı ennyiszer ismÈtlıdik)
-   TAMi      CHAR(30)    -- i. t·mogatÛ p·rt
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   TAZ       CHAR(3)     -- Telep√ºl√©s azonos√≠t√≥
+   SORSZ     CHAR(4)     -- Szavaz√≥k√∂r sorsz√°ma megy√©n, 
+                            telep√ºl√©sen bel√ºl
+   SOR       CHAR(2)     -- Jel√∂lt sorsz√°ma
+   NEVDR     CHAR(4)     -- N√©v jelz≈ë (pl. Dr. Ifj. √ñzv. stb. )
+   NEV       CHAR(60)    -- Jel√∂lt neve
+   SZAV      NUMBER(10)  -- Kapott √©rv√©nyes szavazat
+   TAMSZAM   CHAR(2)     -- T√°mogat√≥ p√°rtok sz√°ma 
+                            (a k√∂vetkez≈ë mez≈ë ennyiszer ism√©tl≈ëdik)
+   TAMi      CHAR(30)    -- i. t√°mogat√≥ p√°rt
 
 Egyedi kulcs:
    MAZ,TAZ,SORSZ,SOR
 
-Kapcsolat 1-n tÌpus˙:
+Kapcsolat 1-n t√≠pus√∫:
    MAZ,TAZ,SORSZ
 
 
 ------------------------------------------------------------------
-EgyÈni eredmÈny:
+Egy√©ni eredm√©ny:
 ------------------------------------------------------------------
 
 EGY_ERF.TXT
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   OEVK      CHAR(2)     -- OEVK sorsz·ma megyÈn bel¸l
-   MNEV      CHAR(25)    -- MegyenÈv
-   TELEP     CHAR(27)    -- Az OEVK szÈkhely telep¸lÈsÈnek neve
-   A         NUMBER(10)  -- Jegyzıkˆnyv 'A' mezı
-                            Elızı nap 16 Ûr·ig a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   B         NUMBER(10)  -- Jegyzıkˆnyv 'B' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   C         NUMBER(10)  -- Jegyzıkˆnyv 'C' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbıl 
-                            tˆrˆlt v·lasztÛpolg·rok sz·ma
-   D         NUMBER(10)  -- Jegyzıkˆnyv 'D' mezı
-                            V·l.polg·rok sz·ma a nÈvjegyzÈkben 
-                            a v·laszt·s befejezÈsekor
-   E         NUMBER(10)  -- Jegyzıkˆnyv 'E' mezı
-                            VisszautasÌtott v·lasztÛpolg·rok sz·ma
-   F         NUMBER(10)  -- Jegyzıkˆnyv 'F' mezı 
-                            SzavazÛkÈnt megjelentek sz·ma
-   G         NUMBER(10)  -- Jegyzıkˆnyv 'G' mezı
-                            Urn·ban lÈvı szavazÛlapok sz·ma
-   H         NUMBER(10)  -- Jegyzıkˆnyv 'H' mezı
-                            EltÈrÈs a szavazÛk sz·m·tÛl (G-F)
-   I         NUMBER(10)  -- Jegyzıkˆnyv 'I' mezı
-                            …rvÈnytelen szavazatok sz·ma
-   J         NUMBER(10)  -- Jegyzıkˆnyv 'J' mezı
-                            …rvÈnyes szavazatok sz·ma
-   EREDM     CHAR(26)    -- Az eredmÈny ÈrtÈkelÈse
-                            ÈrvÈnyessÈg/eredmÈnyessÈg
-   MEGS      CHAR(12)    -- MegsemmisÌtÈs tÈnye, vagy ¸res
-   KAZON     CHAR(3)     -- KÈpviselı azonosÌtÛja
-                            ¸res a NEVDR Ès NEV adattal egy¸tt,
-                            ha a v·laszt·s 
-                            - ÈrvÈnytelen, vagy 
-                            - ÈrvÈnyes, de eredmÈnytelen
-   NEVDR     CHAR(4)     -- NÈv jelzı (pl. Dr. Ifj. ÷zv. stb.)
-   NEV       CHAR(60)    -- KÈpviselı neve
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   OEVK      CHAR(2)     -- OEVK sorsz√°ma megy√©n bel√ºl
+   MNEV      CHAR(25)    -- Megyen√©v
+   TELEP     CHAR(27)    -- Az OEVK sz√©khely telep√ºl√©s√©nek neve
+   A         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'A' mez≈ë
+                            El≈ëz≈ë nap 16 √≥r√°ig a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   B         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'B' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   C         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'C' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kb≈ël 
+                            t√∂r√∂lt v√°laszt√≥polg√°rok sz√°ma
+   D         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'D' mez≈ë
+                            V√°l.polg√°rok sz√°ma a n√©vjegyz√©kben 
+                            a v√°laszt√°s befejez√©sekor
+   E         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'E' mez≈ë
+                            Visszautas√≠tott v√°laszt√≥polg√°rok sz√°ma
+   F         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'F' mez≈ë 
+                            Szavaz√≥k√©nt megjelentek sz√°ma
+   G         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'G' mez≈ë
+                            Urn√°ban l√©v≈ë szavaz√≥lapok sz√°ma
+   H         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'H' mez≈ë
+                            Elt√©r√©s a szavaz√≥k sz√°m√°t√≥l (G-F)
+   I         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'I' mez≈ë
+                            √ârv√©nytelen szavazatok sz√°ma
+   J         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'J' mez≈ë
+                            √ârv√©nyes szavazatok sz√°ma
+   EREDM     CHAR(26)    -- Az eredm√©ny √©rt√©kel√©se
+                            √©rv√©nyess√©g/eredm√©nyess√©g
+   MEGS      CHAR(12)    -- Megsemmis√≠t√©s t√©nye, vagy √ºres
+   KAZON     CHAR(3)     -- K√©pvisel≈ë azonos√≠t√≥ja
+                            √ºres a NEVDR √©s NEV adattal egy√ºtt,
+                            ha a v√°laszt√°s 
+                            - √©rv√©nytelen, vagy 
+                            - √©rv√©nyes, de eredm√©nytelen
+   NEVDR     CHAR(4)     -- N√©v jelz≈ë (pl. Dr. Ifj. √ñzv. stb.)
+   NEV       CHAR(60)    -- K√©pvisel≈ë neve
 
 Egyedi kulcs:
    MAZ,OEVK
 
 
 EGY_ERT.TXT
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   OEVK      CHAR(2)     -- OEVK sorsz·ma megyÈn bel¸l
-   SOR       CHAR(2)     -- Jelˆlt sorsz·ma, vagy
-                            ¸res ha csak a tˆredÈkszavazatai miatt
-                            szerepel a jelˆlt
-   NEVDR     CHAR(4)     -- NÈv jelzı (pl. Dr. Ifj. ÷zv. stb. )
-   NEV       CHAR(60)    -- Jelˆlt neve
-   SZAV      CHAR(10)    -- Kapott ÈrvÈnyes szavazat, vagy
-                            ¸res ha csak a tˆredÈkszavazatai miatt
-                            szerepel a jelˆlt
-   TAMSZAM   CHAR(2)     -- T·mogatÛ p·rtok sz·ma 
-                            (a kˆvetkezı mezı ennyiszer ismÈtlıdik)
-   TAMi      CHAR(30)    -- i. t·mogatÛ p·rt
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   OEVK      CHAR(2)     -- OEVK sorsz√°ma megy√©n bel√ºl
+   SOR       CHAR(2)     -- Jel√∂lt sorsz√°ma, vagy
+                            √ºres ha csak a t√∂red√©kszavazatai miatt
+                            szerepel a jel√∂lt
+   NEVDR     CHAR(4)     -- N√©v jelz≈ë (pl. Dr. Ifj. √ñzv. stb. )
+   NEV       CHAR(60)    -- Jel√∂lt neve
+   SZAV      CHAR(10)    -- Kapott √©rv√©nyes szavazat, vagy
+                            √ºres ha csak a t√∂red√©kszavazatai miatt
+                            szerepel a jel√∂lt
+   TAMSZAM   CHAR(2)     -- T√°mogat√≥ p√°rtok sz√°ma 
+                            (a k√∂vetkez≈ë mez≈ë ennyiszer ism√©tl≈ëdik)
+   TAMi      CHAR(30)    -- i. t√°mogat√≥ p√°rt
    
 Egyedi kulcs:
    MAZ,OEVK
 
-Kapcsolat 1-n tÌpus˙:
+Kapcsolat 1-n t√≠pus√∫:
    MAZ,OEVK
 
 
 ------------------------------------------------------------------
-List·s szavazÛkˆri:
+List√°s szavaz√≥k√∂ri:
 ------------------------------------------------------------------
 
 LIS_SZKF.TXT
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   TAZ       CHAR(3)     -- Telep¸lÈs azonosÌtÛ
-   SORSZ     CHAR(4)     -- SzavazÛkˆr sorsz·m megyÈn,
-                            telep¸lÈsen bel¸l
-   MNEV      CHAR(25)    -- MegyenÈv
-   TELEP     CHAR(27)    -- Telep¸lÈsnÈv
-   OEVK      CHAR(2)     -- OEVK sorsz·ma megyÈn bel¸l
-   A         NUMBER(10)  -- Jegyzıkˆnyv 'A' mezı
-                            Elızı nap 16 Ûr·ig a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   B         NUMBER(10)  -- Jegyzıkˆnyv 'B' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   C         NUMBER(10)  -- Jegyzıkˆnyv 'C' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbıl 
-                            tˆrˆlt v·lasztÛpolg·rok sz·ma
-   D         NUMBER(10)  -- Jegyzıkˆnyv 'D' mezı
-                            V·l.polg·rok sz·ma a nÈvjegyzÈkben 
-                            a v·laszt·s befejezÈsekor
-   E         NUMBER(10)  -- Jegyzıkˆnyv 'E' mezı
-                            VisszautasÌtott v·lasztÛpolg·rok sz·ma
-   F         NUMBER(10)  -- Jegyzıkˆnyv 'F' mezı 
-                            SzavazÛkÈnt megjelentek sz·ma
-   G         NUMBER(10)  -- Jegyzıkˆnyv 'G' mezı
-                            Urn·ban lÈvı szavazÛlapok sz·ma
-   H         NUMBER(10)  -- Jegyzıkˆnyv 'H' mezı
-                            EltÈrÈs a szavazÛk sz·m·tÛl (G-F)
-   I         NUMBER(10)  -- Jegyzıkˆnyv 'I' mezı
-                            …rvÈnytelen szavazatok sz·ma
-   J         NUMBER(10)  -- Jegyzıkˆnyv 'J' mezı
-                            …rvÈnyes szavazatok sz·ma
-   MEGS      CHAR(12)    -- MegsemmisÌtÈs tÈnye, vagy ¸res
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   TAZ       CHAR(3)     -- Telep√ºl√©s azonos√≠t√≥
+   SORSZ     CHAR(4)     -- Szavaz√≥k√∂r sorsz√°m megy√©n,
+                            telep√ºl√©sen bel√ºl
+   MNEV      CHAR(25)    -- Megyen√©v
+   TELEP     CHAR(27)    -- Telep√ºl√©sn√©v
+   OEVK      CHAR(2)     -- OEVK sorsz√°ma megy√©n bel√ºl
+   A         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'A' mez≈ë
+                            El≈ëz≈ë nap 16 √≥r√°ig a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   B         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'B' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   C         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'C' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kb≈ël 
+                            t√∂r√∂lt v√°laszt√≥polg√°rok sz√°ma
+   D         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'D' mez≈ë
+                            V√°l.polg√°rok sz√°ma a n√©vjegyz√©kben 
+                            a v√°laszt√°s befejez√©sekor
+   E         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'E' mez≈ë
+                            Visszautas√≠tott v√°laszt√≥polg√°rok sz√°ma
+   F         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'F' mez≈ë 
+                            Szavaz√≥k√©nt megjelentek sz√°ma
+   G         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'G' mez≈ë
+                            Urn√°ban l√©v≈ë szavaz√≥lapok sz√°ma
+   H         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'H' mez≈ë
+                            Elt√©r√©s a szavaz√≥k sz√°m√°t√≥l (G-F)
+   I         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'I' mez≈ë
+                            √ârv√©nytelen szavazatok sz√°ma
+   J         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'J' mez≈ë
+                            √ârv√©nyes szavazatok sz√°ma
+   MEGS      CHAR(12)    -- Megsemmis√≠t√©s t√©nye, vagy √ºres
 
 Egyedi kulcs:
    MAZ,TAZ,SORSZ
 
 
 LIS_SZKT.TXT
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   TAZ       CHAR(3)     -- Telep¸lÈs azonosÌtÛ
-   SORSZ     CHAR(4)     -- SzavazÛkˆr sorsz·ma megyÈn,
-                            telep¸lÈsen bel¸l
-   SOR       NUMBER(10)  -- Lista sorsz·ma
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   TAZ       CHAR(3)     -- Telep√ºl√©s azonos√≠t√≥
+   SORSZ     CHAR(4)     -- Szavaz√≥k√∂r sorsz√°ma megy√©n,
+                            telep√ºl√©sen bel√ºl
+   SOR       NUMBER(10)  -- Lista sorsz√°ma
    LNEV      CHAR(92)    -- Lista neve
-   SZAV      NUMBER(10)  -- Kapott ÈrvÈnyes szavazat
+   SZAV      NUMBER(10)  -- Kapott √©rv√©nyes szavazat
 
 Egyedi kulcs:
    MAZ,TAZ,SORSZ,SOR
 
-Kapcsolat 1-n tÌpus˙ :
+Kapcsolat 1-n t√≠pus√∫ :
    MAZ,TAZ,SORSZ
 
 ------------------------------------------------------------------
-List·s eredmÈny I.:
+List√°s eredm√©ny I.:
 ------------------------------------------------------------------
 
 LIS_ERF.TXT
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   MNEV      CHAR(25)    -- MegyenÈv
-   TELEP     CHAR(27)    -- Megye szÈkhely telep¸lÈs neve
-   A         NUMBER(10)  -- Jegyzıkˆnyv 'A' mezı
-                            Elızı nap 16 Ûr·ig a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   B         NUMBER(10)  -- Jegyzıkˆnyv 'B' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   C         NUMBER(10)  -- Jegyzıkˆnyv 'C' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbıl 
-                            tˆrˆlt v·lasztÛpolg·rok sz·ma
-   D         NUMBER(10)  -- Jegyzıkˆnyv 'D' mezı
-                            V·l.polg·rok sz·ma a nÈvjegyzÈkben 
-                            a v·laszt·s befejezÈsekor
-   E         NUMBER(10)  -- Jegyzıkˆnyv 'E' mezı
-                            VisszautasÌtott v·lasztÛpolg·rok sz·ma
-   F         NUMBER(10)  -- Jegyzıkˆnyv 'F' mezı 
-                            SzavazÛkÈnt megjelentek sz·ma
-   G         NUMBER(10)  -- Jegyzıkˆnyv 'G' mezı
-                            Urn·ban lÈvı szavazÛlapok sz·ma
-   H         NUMBER(10)  -- Jegyzıkˆnyv 'H' mezı
-                            EltÈrÈs a szavazÛk sz·m·tÛl (G-F)
-   I         NUMBER(10)  -- Jegyzıkˆnyv 'I' mezı
-                            …rvÈnytelen szavazatok sz·ma
-   J         NUMBER(10)  -- Jegyzıkˆnyv 'J' mezı
-                            …rvÈnyes szavazatok sz·ma
-   EREDM     CHAR(26)    -- Az eredmÈny ÈrtÈkelÈse
-                            ÈrvÈnyessÈg/eredmÈnyessÈg
-   MEGS      CHAR(12)    -- MegsemmisÌtÈs tÈnye, vagy ¸res
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   MNEV      CHAR(25)    -- Megyen√©v
+   TELEP     CHAR(27)    -- Megye sz√©khely telep√ºl√©s neve
+   A         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'A' mez≈ë
+                            El≈ëz≈ë nap 16 √≥r√°ig a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   B         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'B' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   C         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'C' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kb≈ël 
+                            t√∂r√∂lt v√°laszt√≥polg√°rok sz√°ma
+   D         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'D' mez≈ë
+                            V√°l.polg√°rok sz√°ma a n√©vjegyz√©kben 
+                            a v√°laszt√°s befejez√©sekor
+   E         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'E' mez≈ë
+                            Visszautas√≠tott v√°laszt√≥polg√°rok sz√°ma
+   F         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'F' mez≈ë 
+                            Szavaz√≥k√©nt megjelentek sz√°ma
+   G         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'G' mez≈ë
+                            Urn√°ban l√©v≈ë szavaz√≥lapok sz√°ma
+   H         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'H' mez≈ë
+                            Elt√©r√©s a szavaz√≥k sz√°m√°t√≥l (G-F)
+   I         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'I' mez≈ë
+                            √ârv√©nytelen szavazatok sz√°ma
+   J         NUMBER(10)  -- Jegyz≈ëk√∂nyv 'J' mez≈ë
+                            √ârv√©nyes szavazatok sz√°ma
+   EREDM     CHAR(26)    -- Az eredm√©ny √©rt√©kel√©se
+                            √©rv√©nyess√©g/eredm√©nyess√©g
+   MEGS      CHAR(12)    -- Megsemmis√≠t√©s t√©nye, vagy √ºres
 
 Egyedi kulcs:
    MAZ
 
 
 LIS_ERT.TXT
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   SOR       NUMBER(10)  -- Lista sorsz·ma
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   SOR       NUMBER(10)  -- Lista sorsz√°ma
    LNEV      CHAR(92)    -- Lista neve
-   SZAV      NUMBER(10)  -- Kapott ÈrvÈnyes szavazat
+   SZAV      NUMBER(10)  -- Kapott √©rv√©nyes szavazat
 
 Egyedi kulcs:
    MAZ
 
-Kapcsolat 1-n tÌpus˙ :
+Kapcsolat 1-n t√≠pus√∫ :
    MAZ
 
 

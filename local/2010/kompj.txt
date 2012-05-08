@@ -1,641 +1,641 @@
-01|001|4|  1|  1|   |Miseje Bal·zs                                                                             |
-01|001|4|  2|  1|   |V·radinÈ Nasz·lyi M·rta                                                                   |
-01|001|4|  3|  1|   |D·vid Kl·ra                                                                               |
-01|001|4|  3|  2|   |Iv·nyi Tibor                                                                              |
-01|002|4|  1|  1|Dr.|Moln·r Zsolt                                                                              |
-01|002|4|  1|  2|   |’rsi Gergely                                                                              |
-01|002|4|  1|  3|Dr.|Varga Elıd Bendeg˙z                                                                       |
-01|002|4|  3|  1|   |Kov·cs M·rton                                                                             |
-01|002|4|  3|  2|   |HanzÈly ¡kos                                                                              |
-01|002|4|  4|  1|   |Schˆn PÈter                                                                               |
-01|003|4|  1|  1|   |Mihalik Zolt·n L·szlÛ                                                                     |
-01|003|4|  2|  1|   |BÈres Andr·s                                                                              |
-01|003|4|  3|  1|   |SzanyÛ MiklÛs                                                                             |
-01|003|4|  5|  1|   |Bihary G·bor                                                                              |
-01|003|4|  5|  2|   |CzeglÈdy Gergı                                                                            |
-01|003|4|  5|  3|   |Kiss L·szlÛ                                                                               |
-01|004|4|  1|  1|   |Perneczky L·szlÛ                                                                          |
+01|001|4|  1|  1|   |Miseje Bal√°zs                                                                             |
+01|001|4|  2|  1|   |V√°radin√© Nasz√°lyi M√°rta                                                                   |
+01|001|4|  3|  1|   |D√°vid Kl√°ra                                                                               |
+01|001|4|  3|  2|   |Iv√°nyi Tibor                                                                              |
+01|002|4|  1|  1|Dr.|Moln√°r Zsolt                                                                              |
+01|002|4|  1|  2|   |≈êrsi Gergely                                                                              |
+01|002|4|  1|  3|Dr.|Varga El≈ëd Bendeg√∫z                                                                       |
+01|002|4|  3|  1|   |Kov√°cs M√°rton                                                                             |
+01|002|4|  3|  2|   |Hanz√©ly √Åkos                                                                              |
+01|002|4|  4|  1|   |Sch√∂n P√©ter                                                                               |
+01|003|4|  1|  1|   |Mihalik Zolt√°n L√°szl√≥                                                                     |
+01|003|4|  2|  1|   |B√©res Andr√°s                                                                              |
+01|003|4|  3|  1|   |Szany√≥ Mikl√≥s                                                                             |
+01|003|4|  5|  1|   |Bihary G√°bor                                                                              |
+01|003|4|  5|  2|   |Czegl√©dy Gerg≈ë                                                                            |
+01|003|4|  5|  3|   |Kiss L√°szl√≥                                                                               |
+01|004|4|  1|  1|   |Perneczky L√°szl√≥                                                                          |
 01|004|4|  2|  1|Dr.|Trippon Norbert                                                                           |
-01|004|4|  2|  2|   |Bel·n Beatrix                                                                             |
-01|004|4|  2|  3|   |Farkas Istv·n                                                                             |
-01|004|4|  2|  5|   |SzabÛ G·bor                                                                               |
+01|004|4|  2|  2|   |Bel√°n Beatrix                                                                             |
+01|004|4|  2|  3|   |Farkas Istv√°n                                                                             |
+01|004|4|  2|  5|   |Szab√≥ G√°bor                                                                               |
 01|004|4|  3|  1|   |Pajor Tibor                                                                               |
-01|005|4|  2|  1|   |Derd·k …va                                                                                |
-01|005|4|  3|  1|   |P·sztor Tibor                                                                             |
-01|005|4|  3|  2|   |Kov·cs Alex G·bor                                                                         |
-01|005|4|  4|  1|   |¡rvai PÈter                                                                               |
-01|006|4|  1|  1|   |VerÛk Istv·n                                                                              |
-01|006|4|  1|  2|   |TÛth Gyˆrgy K·lm·n                                                                        |
-01|006|4|  3|  1|   |Doh·ny G·bor                                                                              |
+01|005|4|  2|  1|   |Derd√°k √âva                                                                                |
+01|005|4|  3|  1|   |P√°sztor Tibor                                                                             |
+01|005|4|  3|  2|   |Kov√°cs Alex G√°bor                                                                         |
+01|005|4|  4|  1|   |√Årvai P√©ter                                                                               |
+01|006|4|  1|  1|   |Ver√≥k Istv√°n                                                                              |
+01|006|4|  1|  2|   |T√≥th Gy√∂rgy K√°lm√°n                                                                        |
+01|006|4|  3|  1|   |Doh√°ny G√°bor                                                                              |
 01|006|4|  4|  1|   |Cake Baly Olivio                                                                          |
-01|007|4|  2|  1|   |Stummer J·nos                                                                             |
-01|007|4|  3|  1|Dr.|Kisp·l Tibor                                                                              |
-01|007|4|  3|  2|   |Gergely JÛzsef                                                                            |
-01|007|4|  4|  1|   |Pusk·s Attila S·ndor                                                                      |
-01|007|4|  5|  1|   |Moldov·n L·szlÛ                                                                           |
-01|008|4|  1|  1|   |Jakabfy Tam·s                                                                             |
-01|008|4|  2|  1|   |Losonczy P·l                                                                              |
-01|008|4|  5|  1|   |Kom·ssy ¡kos                                                                              |
-01|008|4|  5|  2|Dr.|RÈvÈsz M·rta                                                                              |
-01|008|4|  5|  3|   |Moln·r Gyˆrgy                                                                             |
-01|009|4|  3|  1|   |Cs·rdi Antal                                                                              |
-01|009|4|  4|  1|   |Pa·l K·lm·n                                                                               |
-01|009|4|  5|  1|   |P·l Tibor                                                                                 |
-01|009|4|  5|  3|   |Hidasi G·bor                                                                              |
+01|007|4|  2|  1|   |Stummer J√°nos                                                                             |
+01|007|4|  3|  1|Dr.|Kisp√°l Tibor                                                                              |
+01|007|4|  3|  2|   |Gergely J√≥zsef                                                                            |
+01|007|4|  4|  1|   |Pusk√°s Attila S√°ndor                                                                      |
+01|007|4|  5|  1|   |Moldov√°n L√°szl√≥                                                                           |
+01|008|4|  1|  1|   |Jakabfy Tam√°s                                                                             |
+01|008|4|  2|  1|   |Losonczy P√°l                                                                              |
+01|008|4|  5|  1|   |Kom√°ssy √Åkos                                                                              |
+01|008|4|  5|  2|Dr.|R√©v√©sz M√°rta                                                                              |
+01|008|4|  5|  3|   |Moln√°r Gy√∂rgy                                                                             |
+01|009|4|  3|  1|   |Cs√°rdi Antal                                                                              |
+01|009|4|  4|  1|   |Pa√°l K√°lm√°n                                                                               |
+01|009|4|  5|  1|   |P√°l Tibor                                                                                 |
+01|009|4|  5|  3|   |Hidasi G√°bor                                                                              |
 01|009|4|  6|  1|   |Kassab Adonis                                                                             |
-01|010|4|  1|  1|   |TÛth Bal·zs                                                                               |
+01|010|4|  1|  1|   |T√≥th Bal√°zs                                                                               |
 01|010|4|  2|  1|   |Tokody Marcell Gergely                                                                    |
-01|010|4|  4|  1|   |…lı Norbert                                                                               |
-01|010|4|  4|  2|Dr.|Csicsay Claudius Iv·n                                                                     |
-01|010|4|  4|  3|   |SomlyÛdy Csaba                                                                            |
-01|011|4|  2|  1|   |Gaj·rszki ¡ron                                                                            |
-01|011|4|  2|  2|Dr.|Bajomi Iv·n                                                                               |
-01|011|4|  3|  1|   |Moln·r Gyula                                                                              |
-01|011|4|  3|  2|   |VeresnÈ Krajc·r Izabella                                                                  |
-01|011|4|  3|  3|   |FarkasnÈ Dr. KÈri Katalin                                                                 |
-01|011|4|  3|  4|   |Budai MiklÛs                                                                              |
-01|011|4|  4|  1|   |KerÈkgy·rtÛ Krisztina                                                                     |
-01|012|4|  1|  1|   |Martinez G·bor                                                                            |
-01|012|4|  3|  1|   |Sipos PÈter                                                                               |
-01|012|4|  3|  2|   |P¸spˆki G·bor                                                                             |
-01|012|4|  4|  1|Dr.|Vincze GÈza                                                                               |
-01|012|4|  4|  2|   |Papp S·ndor Istv·n                                                                        |
-01|013|4|  1|  1|   |Szabados PÈter                                                                            |
+01|010|4|  4|  1|   |√âl≈ë Norbert                                                                               |
+01|010|4|  4|  2|Dr.|Csicsay Claudius Iv√°n                                                                     |
+01|010|4|  4|  3|   |Somly√≥dy Csaba                                                                            |
+01|011|4|  2|  1|   |Gaj√°rszki √Åron                                                                            |
+01|011|4|  2|  2|Dr.|Bajomi Iv√°n                                                                               |
+01|011|4|  3|  1|   |Moln√°r Gyula                                                                              |
+01|011|4|  3|  2|   |Veresn√© Krajc√°r Izabella                                                                  |
+01|011|4|  3|  3|   |Farkasn√© Dr. K√©ri Katalin                                                                 |
+01|011|4|  3|  4|   |Budai Mikl√≥s                                                                              |
+01|011|4|  4|  1|   |Ker√©kgy√°rt√≥ Krisztina                                                                     |
+01|012|4|  1|  1|   |Martinez G√°bor                                                                            |
+01|012|4|  3|  1|   |Sipos P√©ter                                                                               |
+01|012|4|  3|  2|   |P√ºsp√∂ki G√°bor                                                                             |
+01|012|4|  4|  1|Dr.|Vincze G√©za                                                                               |
+01|012|4|  4|  2|   |Papp S√°ndor Istv√°n                                                                        |
+01|013|4|  1|  1|   |Szabados P√©ter                                                                            |
 01|013|4|  3|  1|   |Spaller Endre                                                                             |
-01|013|4|  3|  2|   |Harrach Tam·s                                                                             |
-01|013|4|  3|  3|   |Urb·n-SzabÛ S·ndor                                                                        |
-01|013|4|  3|  4|   |Ag·rdi L·szlÛ                                                                             |
-01|013|4|  4|  1|   |Csender Tam·s                                                                             |
-01|014|4|  2|  1|   |V·rnai L·szlÛ                                                                             |
-01|014|4|  3|  1|   |Janics·k Istv·n L·szlÛ                                                                    |
-01|014|4|  4|  1|   |CzeglÈdi J·nos                                                                            |
-01|014|4|  5|  1|   |TÛth Csaba                                                                                |
-01|014|4|  5|  2|   |Pelyva Gyˆrgy                                                                             |
+01|013|4|  3|  2|   |Harrach Tam√°s                                                                             |
+01|013|4|  3|  3|   |Urb√°n-Szab√≥ S√°ndor                                                                        |
+01|013|4|  3|  4|   |Ag√°rdi L√°szl√≥                                                                             |
+01|013|4|  4|  1|   |Csender Tam√°s                                                                             |
+01|014|4|  2|  1|   |V√°rnai L√°szl√≥                                                                             |
+01|014|4|  3|  1|   |Janics√°k Istv√°n L√°szl√≥                                                                    |
+01|014|4|  4|  1|   |Czegl√©di J√°nos                                                                            |
+01|014|4|  5|  1|   |T√≥th Csaba                                                                                |
+01|014|4|  5|  2|   |Pelyva Gy√∂rgy                                                                             |
 01|014|4|  5|  3|Dr.|Imre Gergely                                                                              |
-01|015|4|  1|  1|   |Major S·ndor                                                                              |
-01|015|4|  4|  1|   |Hajdu L·szlÛ                                                                              |
-01|015|4|  4|  2|   |Kir·ly Csaba                                                                              |
-01|015|4|  5|  1|   |TÛth Imre                                                                                 |
-01|015|4|  5|  2|   |Gyurcs·nszky J·nos                                                                        |
-01|015|4|  6|  1|   |Szilv·gyi L·szlÛ                                                                          |
-01|016|4|  2|  1|   |Abonyi J·nos                                                                              |
-01|016|4|  2|  2|   |Kolozs Andr·s                                                                             |
-01|016|4|  3|  1|   |Gyıri-Moln·r Lajos                                                                        |
-01|016|4|  5|  1|   |Hargitai Istv·n                                                                           |
-01|016|4|  6|  1|   |SzabÛ Barbara                                                                             |
-01|017|4|  1|  1|   |NÛtin Tam·s                                                                               |
+01|015|4|  1|  1|   |Major S√°ndor                                                                              |
+01|015|4|  4|  1|   |Hajdu L√°szl√≥                                                                              |
+01|015|4|  4|  2|   |Kir√°ly Csaba                                                                              |
+01|015|4|  5|  1|   |T√≥th Imre                                                                                 |
+01|015|4|  5|  2|   |Gyurcs√°nszky J√°nos                                                                        |
+01|015|4|  6|  1|   |Szilv√°gyi L√°szl√≥                                                                          |
+01|016|4|  2|  1|   |Abonyi J√°nos                                                                              |
+01|016|4|  2|  2|   |Kolozs Andr√°s                                                                             |
+01|016|4|  3|  1|   |Gy≈ëri-Moln√°r Lajos                                                                        |
+01|016|4|  5|  1|   |Hargitai Istv√°n                                                                           |
+01|016|4|  6|  1|   |Szab√≥ Barbara                                                                             |
+01|017|4|  1|  1|   |N√≥tin Tam√°s                                                                               |
 01|017|4|  3|  1|Dr.|Hrutka Zsolt                                                                              |
-01|017|4|  3|  2|   |Ruthner Gyˆrgy                                                                            |
-01|017|4|  3|  3|   |Lukoczki K·roly                                                                           |
-01|017|4|  4|  1|Dr.|Fachet Gergı                                                                              |
-01|017|4|  4|  2|   |Kov·cs Istv·n                                                                             |
-01|018|4|  1|  1|   |Terny·k Andr·s Istv·n                                                                     |
-01|018|4|  1|  2|   |FehÈr G·bor                                                                               |
-01|018|4|  1|  3|   |Kırˆs PÈter                                                                               |
-01|018|4|  1|  4|   |SzaniszlÛ S·ndor                                                                          |
-01|018|4|  2|  1|   |Petrovai L·szlÛ                                                                           |
-01|018|4|  4|  1|   |Gˆnczˆl Andr·s                                                                            |
-01|019|4|  2|  1|   |L·z·r Tam·s                                                                               |
-01|019|4|  3|  3|   |Fekete L·szlÛ Csaba                                                                       |
-01|019|4|  3|  5|   |SzujkÛ Szilvia Magdolna                                                                   |
-01|019|4|  4|  1|Dr.|Tarnai Rich·rd                                                                            |
-01|019|4|  5|  1|   |Gerh·th Csaba                                                                             |
-01|020|4|  1|  1|   |Hars·nyi L·szlÛ                                                                           |
+01|017|4|  3|  2|   |Ruthner Gy√∂rgy                                                                            |
+01|017|4|  3|  3|   |Lukoczki K√°roly                                                                           |
+01|017|4|  4|  1|Dr.|Fachet Gerg≈ë                                                                              |
+01|017|4|  4|  2|   |Kov√°cs Istv√°n                                                                             |
+01|018|4|  1|  1|   |Terny√°k Andr√°s Istv√°n                                                                     |
+01|018|4|  1|  2|   |Feh√©r G√°bor                                                                               |
+01|018|4|  1|  3|   |K≈ër√∂s P√©ter                                                                               |
+01|018|4|  1|  4|   |Szaniszl√≥ S√°ndor                                                                          |
+01|018|4|  2|  1|   |Petrovai L√°szl√≥                                                                           |
+01|018|4|  4|  1|   |G√∂ncz√∂l Andr√°s                                                                            |
+01|019|4|  2|  1|   |L√°z√°r Tam√°s                                                                               |
+01|019|4|  3|  3|   |Fekete L√°szl√≥ Csaba                                                                       |
+01|019|4|  3|  5|   |Szujk√≥ Szilvia Magdolna                                                                   |
+01|019|4|  4|  1|Dr.|Tarnai Rich√°rd                                                                            |
+01|019|4|  5|  1|   |Gerh√°th Csaba                                                                             |
+01|020|4|  1|  1|   |Hars√°nyi L√°szl√≥                                                                           |
 01|020|4|  3|  7|   |Rostagni Attila                                                                           |
-01|020|4|  4|  1|   |Mach PÈter                                                                                |
-01|020|4|  5|  3|   |Nemes L·szlÛ                                                                              |
-01|020|4|  5|  4|   |Kov·cs Eszter                                                                             |
-01|021|4|  2|  1|   |Szenteczky J·nos                                                                          |
-01|021|4|  2|  3|   |Dob·k Istv·n                                                                              |
-01|021|4|  2|  4|   |Gergely Istv·n                                                                            |
-01|021|4|  2|  5|   |Tak·cs Kriszti·n                                                                          |
-01|021|4|  3|  1|   |P·kozdi JÛzsef                                                                            |
-01|021|4|  6|  1|   |Tenk Andr·s                                                                               |
-01|022|4|  1|  1|   |Staudt M·tÈ                                                                               |
-01|022|4|  2|  1|   |Jur·s L·szlÛ                                                                              |
-01|022|4|  3|  1|   |Vizi S·ndor                                                                               |
-01|022|4|  5|  1|   |DankÛnÈ Heged˚s Jol·n                                                                     |
-01|022|4|  5|  2|   |DarÛczi K·roly                                                                            |
-01|023|4|  2|  2|   |Orb·n Gyˆngyi                                                                             |
-01|023|4|  4|  1|   |Kiss Jenı                                                                                 |
-01|023|4|  5|  2|   |Szrim·cz Ferenc                                                                           |
-02|137|4|  2|  1|   |Kisp·l L·szlÛ                                                                             |
-02|137|4|  4|  2|   |JÈgl Zolt·n                                                                               |
-02|137|4|  6|  1|   |Tal·lt TÌmea                                                                              |
-02|137|4|  7|  1|   |P·va Zolt·n                                                                               |
-02|181|4|  2|  1|   |Emmert PÈter                                                                              |
-02|181|4|  4|  1|   |Polg·r K·roly                                                                             |
-02|181|4|  4|  2|   |Schindl AnikÛ                                                                             |
-02|217|4|  1|  1|Dr.|Keresztes L·szlÛ LÛr·nt                                                                   |
-02|217|4|  1|  2|Dr.|KÛbor JÛzsef                                                                              |
-02|217|4|  3|  1|   |Gyimesi G·bor                                                                             |
-02|217|4|  3|  2|   |Fogarasi G·bor                                                                            |
-02|217|4|  4|  1|   |Meixner Andr·s                                                                            |
-02|217|4|  4|  2|Dr.|TÛth Bertalan                                                                             |
+01|020|4|  4|  1|   |Mach P√©ter                                                                                |
+01|020|4|  5|  3|   |Nemes L√°szl√≥                                                                              |
+01|020|4|  5|  4|   |Kov√°cs Eszter                                                                             |
+01|021|4|  2|  1|   |Szenteczky J√°nos                                                                          |
+01|021|4|  2|  3|   |Dob√°k Istv√°n                                                                              |
+01|021|4|  2|  4|   |Gergely Istv√°n                                                                            |
+01|021|4|  2|  5|   |Tak√°cs Kriszti√°n                                                                          |
+01|021|4|  3|  1|   |P√°kozdi J√≥zsef                                                                            |
+01|021|4|  6|  1|   |Tenk Andr√°s                                                                               |
+01|022|4|  1|  1|   |Staudt M√°t√©                                                                               |
+01|022|4|  2|  1|   |Jur√°s L√°szl√≥                                                                              |
+01|022|4|  3|  1|   |Vizi S√°ndor                                                                               |
+01|022|4|  5|  1|   |Dank√≥n√© Heged≈±s Jol√°n                                                                     |
+01|022|4|  5|  2|   |Dar√≥czi K√°roly                                                                            |
+01|023|4|  2|  2|   |Orb√°n Gy√∂ngyi                                                                             |
+01|023|4|  4|  1|   |Kiss Jen≈ë                                                                                 |
+01|023|4|  5|  2|   |Szrim√°cz Ferenc                                                                           |
+02|137|4|  2|  1|   |Kisp√°l L√°szl√≥                                                                             |
+02|137|4|  4|  2|   |J√©gl Zolt√°n                                                                               |
+02|137|4|  6|  1|   |Tal√°lt T√≠mea                                                                              |
+02|137|4|  7|  1|   |P√°va Zolt√°n                                                                               |
+02|181|4|  2|  1|   |Emmert P√©ter                                                                              |
+02|181|4|  4|  1|   |Polg√°r K√°roly                                                                             |
+02|181|4|  4|  2|   |Schindl Anik√≥                                                                             |
+02|217|4|  1|  1|Dr.|Keresztes L√°szl√≥ L√≥r√°nt                                                                   |
+02|217|4|  1|  2|Dr.|K√≥bor J√≥zsef                                                                              |
+02|217|4|  3|  1|   |Gyimesi G√°bor                                                                             |
+02|217|4|  3|  2|   |Fogarasi G√°bor                                                                            |
+02|217|4|  4|  1|   |Meixner Andr√°s                                                                            |
+02|217|4|  4|  2|Dr.|T√≥th Bertalan                                                                             |
 02|217|4|  4|  3|   |Schmuck Roland                                                                            |
-02|217|4|  4|  4|   |NyıgÈri Lajos                                                                             |
-02|234|4|  1|  1|   |Z·dori Tivadar                                                                            |
+02|217|4|  4|  4|   |Ny≈ëg√©ri Lajos                                                                             |
+02|234|4|  1|  1|   |Z√°dori Tivadar                                                                            |
 02|234|4|  2|  1|   |Kelemen Rajmund                                                                           |
-02|234|4|  5|  1|Ifj|Szalai OttÛ                                                                               |
+02|234|4|  5|  1|Ifj|Szalai Ott√≥                                                                               |
 02|263|4|  1|  1|   |Zenka Lajos                                                                               |
-02|263|4|  5|  2|   |Pichler Imre L·szlÛ                                                                       |
-02|263|4|  6|  2|Dr.|Vass PÈternÈ                                                                              |
-03|004|4|  2|  1|   |Jaszenovics Istv·nnÈ                                                                      |
+02|263|4|  5|  2|   |Pichler Imre L√°szl√≥                                                                       |
+02|263|4|  6|  2|Dr.|Vass P√©tern√©                                                                              |
+03|004|4|  2|  1|   |Jaszenovics Istv√°nn√©                                                                      |
 03|004|4|  3|  1|   |Farkas Attila                                                                             |
-03|004|4|  3|  2|   |Hajd˙ MiklÛs                                                                              |
-03|004|4|  3|  3|   |Papp JÛzsef                                                                               |
-03|056|4|  3|  1|   |SzabÛ Patrik                                                                              |
-03|056|4|  4|  1|   |Tˆrˆk Guszt·v Andor                                                                       |
-03|056|4|  4|  2|   |Loibl L·szlÛ                                                                              |
-03|060|4|  2|  1|   |Kir·ly JÛzsef                                                                             |
-03|060|4|  2|  2|Dr.|Br˙szel L·szlÛ                                                                            |
-03|060|4|  2|  3|   |Dobos JÛzsef                                                                              |
+03|004|4|  3|  2|   |Hajd√∫ Mikl√≥s                                                                              |
+03|004|4|  3|  3|   |Papp J√≥zsef                                                                               |
+03|056|4|  3|  1|   |Szab√≥ Patrik                                                                              |
+03|056|4|  4|  1|   |T√∂r√∂k Guszt√°v Andor                                                                       |
+03|056|4|  4|  2|   |Loibl L√°szl√≥                                                                              |
+03|060|4|  2|  1|   |Kir√°ly J√≥zsef                                                                             |
+03|060|4|  2|  2|Dr.|Br√∫szel L√°szl√≥                                                                            |
+03|060|4|  2|  3|   |Dobos J√≥zsef                                                                              |
 03|060|4|  2|  4|   |Marczi Albert                                                                             |
 03|060|4|  3|  1|   |Falusi Norbert                                                                            |
-03|060|4|  3|  2|   |KriskÛ D·vid G·bor                                                                        |
-03|064|4|  3|  1|   |SzentpÈteri Attila                                                                        |
-03|064|4|  4|  1|   |Major JÛzsef                                                                              |
+03|060|4|  3|  2|   |Krisk√≥ D√°vid G√°bor                                                                        |
+03|064|4|  3|  1|   |Szentp√©teri Attila                                                                        |
+03|064|4|  4|  1|   |Major J√≥zsef                                                                              |
 03|064|4|  7|  1|   |Hirsch Imre                                                                               |
-03|065|4|  4|  1|Dr.|Garai Istv·n Levente                                                                      |
-03|065|4|  4|  2|   |Ernyes L·szlÛ                                                                             |
-03|065|4|  5|  2|Dr.|RÈczi L·szlÛ                                                                              |
-03|065|4|  6|  1|   |Koll·r L·szlÛ                                                                             |
-03|066|4|  1|  1|   |Nagy PÈter                                                                                |
-03|066|4|  1|  4|   |Nagy RÛbert                                                                               |
-03|066|4|  2|  1|   |Luk·cs L·szlÛ                                                                             |
-03|066|4|  3|  1|   |Jekı Attila                                                                               |
-03|067|4|  1|  3|   |MÛzer Gyula                                                                               |
-03|067|4|  2|  1|   |SzabÛnÈ Cs·br·dy AnikÛ                                                                    |
-03|067|4|  4|  2|   |DÛsai Imre                                                                                |
-03|078|4|  1|  3|   |Koller D·niel                                                                             |
-03|078|4|  3|  1|   |AprÛ Ferenc                                                                               |
-03|078|4|  4|  1|   |HolminÈ Sebık M·rta                                                                       |
+03|065|4|  4|  1|Dr.|Garai Istv√°n Levente                                                                      |
+03|065|4|  4|  2|   |Ernyes L√°szl√≥                                                                             |
+03|065|4|  5|  2|Dr.|R√©czi L√°szl√≥                                                                              |
+03|065|4|  6|  1|   |Koll√°r L√°szl√≥                                                                             |
+03|066|4|  1|  1|   |Nagy P√©ter                                                                                |
+03|066|4|  1|  4|   |Nagy R√≥bert                                                                               |
+03|066|4|  2|  1|   |Luk√°cs L√°szl√≥                                                                             |
+03|066|4|  3|  1|   |Jek≈ë Attila                                                                               |
+03|067|4|  1|  3|   |M√≥zer Gyula                                                                               |
+03|067|4|  2|  1|   |Szab√≥n√© Cs√°br√°dy Anik√≥                                                                    |
+03|067|4|  4|  2|   |D√≥sai Imre                                                                                |
+03|078|4|  1|  3|   |Koller D√°niel                                                                             |
+03|078|4|  3|  1|   |Apr√≥ Ferenc                                                                               |
+03|078|4|  4|  1|   |Holmin√© Seb≈ëk M√°rta                                                                       |
 03|111|4|  1|  1|   |Csernus Ferenc                                                                            |
-03|111|4|  3|  1|   |Oberna Zolt·n                                                                             |
-03|111|4|  6|  1|   |TÛth GÈza                                                                                 |
-04|003|4|  3|  1|   |Erdıs Norbert                                                                             |
-04|003|4|  3|  2|   |Blaskovits PÈter                                                                          |
-04|003|4|  4|  1|   |Pataki Istv·n                                                                             |
-04|004|4|  1|  1|   |SzabÛnÈ Kocziha T¸nde                                                                     |
+03|111|4|  3|  1|   |Oberna Zolt√°n                                                                             |
+03|111|4|  6|  1|   |T√≥th G√©za                                                                                 |
+04|003|4|  3|  1|   |Erd≈ës Norbert                                                                             |
+04|003|4|  3|  2|   |Blaskovits P√©ter                                                                          |
+04|003|4|  4|  1|   |Pataki Istv√°n                                                                             |
+04|004|4|  1|  1|   |Szab√≥n√© Kocziha T√ºnde                                                                     |
 04|004|4|  1|  2|   |Strifler Attila                                                                           |
-04|004|4|  2|  1|   |Tak·cs PÈter                                                                              |
-04|004|4|  3|  1|   |MiklÛs Attila Zsolt                                                                       |
-04|004|4|  3|  2|   |Hrabovszki Gyˆrgy Zolt·n                                                                  |
-04|025|4|  2|  1|   |M·rjalaki JÛzsef                                                                          |
-04|025|4|  3|  1|   |ArnÛczi Istv·n J·nos                                                                      |
-04|025|4|  4|  2|   |Iv·nyi LajosnÈ                                                                            |
-04|026|4|  2|  1|   |DurkÛ K·roly Istv·n                                                                       |
-04|026|4|  2|  2|   |Szalai Gyˆrgy                                                                             |
-04|026|4|  3|  1|   |Leel-’ssy G·bor                                                                           |
-04|026|4|  5|  1|   |KÛra J·nos                                                                                |
-04|049|4|  1|  1|   |Debreczeni G·bor                                                                          |
-04|049|4|  2|  1|   |Harmati L·szlÛ                                                                            |
-04|049|4|  4|  1|   |Nagy S·ndor                                                                               |
-04|059|4|  1|  1|   |J·mbor N·ndor                                                                             |
-04|059|4|  2|  1|   |Fetser J·nos                                                                              |
-04|059|4|  2|  2|   |Bogd·nffy Csaba                                                                           |
-04|059|4|  2|  3|   |F¸vesi S·ndor                                                                             |
-04|063|4|  1|  1|   |Sajti K·roly                                                                              |
-04|063|4|  2|  1|   |JakÛ Istv·n                                                                               |
-04|063|4|  3|  1|   |MitykÛ P·l                                                                                |
-04|066|4|  1|  1|   |JÛzsa Vilmos                                                                              |
-04|066|4|  2|  1|   |Fˆldesi Zolt·n                                                                            |
+04|004|4|  2|  1|   |Tak√°cs P√©ter                                                                              |
+04|004|4|  3|  1|   |Mikl√≥s Attila Zsolt                                                                       |
+04|004|4|  3|  2|   |Hrabovszki Gy√∂rgy Zolt√°n                                                                  |
+04|025|4|  2|  1|   |M√°rjalaki J√≥zsef                                                                          |
+04|025|4|  3|  1|   |Arn√≥czi Istv√°n J√°nos                                                                      |
+04|025|4|  4|  2|   |Iv√°nyi Lajosn√©                                                                            |
+04|026|4|  2|  1|   |Durk√≥ K√°roly Istv√°n                                                                       |
+04|026|4|  2|  2|   |Szalai Gy√∂rgy                                                                             |
+04|026|4|  3|  1|   |Leel-≈êssy G√°bor                                                                           |
+04|026|4|  5|  1|   |K√≥ra J√°nos                                                                                |
+04|049|4|  1|  1|   |Debreczeni G√°bor                                                                          |
+04|049|4|  2|  1|   |Harmati L√°szl√≥                                                                            |
+04|049|4|  4|  1|   |Nagy S√°ndor                                                                               |
+04|059|4|  1|  1|   |J√°mbor N√°ndor                                                                             |
+04|059|4|  2|  1|   |Fetser J√°nos                                                                              |
+04|059|4|  2|  2|   |Bogd√°nffy Csaba                                                                           |
+04|059|4|  2|  3|   |F√ºvesi S√°ndor                                                                             |
+04|063|4|  1|  1|   |Sajti K√°roly                                                                              |
+04|063|4|  2|  1|   |Jak√≥ Istv√°n                                                                               |
+04|063|4|  3|  1|   |Mityk√≥ P√°l                                                                                |
+04|066|4|  1|  1|   |J√≥zsa Vilmos                                                                              |
+04|066|4|  2|  1|   |F√∂ldesi Zolt√°n                                                                            |
 04|066|4|  4|  1|   |Gajdos Attila                                                                             |
-05|075|4|  1|  1|   |Vattay BÈla                                                                               |
-05|075|4|  2|  1|   |Baricska J·nos Istv·nnÈ                                                                   |
-05|075|4|  5|  1|Dr.|Pap Dezsı JÛzsef                                                                          |
-05|153|4|  3|  1|   |Rizner JÛzsef                                                                             |
-05|153|4|  3|  2|   |KondornÈ Sztojka ¡gnes                                                                    |
-05|153|4|  4|  1|   |Nagyh·zi Zolt·n                                                                           |
-05|153|4|  5|  2|   |TÛth Zolt·n                                                                               |
-05|196|4|  1|  1|   |Nyeste L·szlÛ                                                                             |
-05|196|4|  1|  2|   |Guti ¡rp·d                                                                                |
-05|196|4|  3|  1|   |Barsi L·szlÛ                                                                              |
-05|202|4|  2|  1|Dr.|Simon G·bor                                                                               |
-05|202|4|  2|  2|Dr.|Tompa S·ndor                                                                              |
+05|075|4|  1|  1|   |Vattay B√©la                                                                               |
+05|075|4|  2|  1|   |Baricska J√°nos Istv√°nn√©                                                                   |
+05|075|4|  5|  1|Dr.|Pap Dezs≈ë J√≥zsef                                                                          |
+05|153|4|  3|  1|   |Rizner J√≥zsef                                                                             |
+05|153|4|  3|  2|   |Kondorn√© Sztojka √Ågnes                                                                    |
+05|153|4|  4|  1|   |Nagyh√°zi Zolt√°n                                                                           |
+05|153|4|  5|  2|   |T√≥th Zolt√°n                                                                               |
+05|196|4|  1|  1|   |Nyeste L√°szl√≥                                                                             |
+05|196|4|  1|  2|   |Guti √Årp√°d                                                                                |
+05|196|4|  3|  1|   |Barsi L√°szl√≥                                                                              |
+05|202|4|  2|  1|Dr.|Simon G√°bor                                                                               |
+05|202|4|  2|  2|Dr.|Tompa S√°ndor                                                                              |
 05|202|4|  2|  4|   |Fedor Vilmos                                                                              |
-05|202|4|  2|  5|Dr.|Mokrai Mih·ly                                                                             |
-05|202|4|  3|  6|   |SoÛs Attila                                                                               |
-05|202|4|  5|  1|   |Szegedi M·rton                                                                            |
-05|202|4|  5|  2|   |Pakusza Zolt·n                                                                            |
-05|202|4|  5|  3|   |Jakab PÈter                                                                               |
-05|226|4|  1|  1|   |Boda Istv·n                                                                               |
-05|226|4|  3|  3|   |Fazekas Zolt·n                                                                            |
-05|226|4|  5|  1|   |Kisgergely Andr·s                                                                         |
-05|226|4|  5|  2|   |M·rton Ferenc                                                                             |
-05|268|4|  2|  3|   |PerÈnyi Barnab·s                                                                          |
-05|268|4|  5|  1|   |Barta JÛzsef Istv·n                                                                       |
+05|202|4|  2|  5|Dr.|Mokrai Mih√°ly                                                                             |
+05|202|4|  3|  6|   |So√≥s Attila                                                                               |
+05|202|4|  5|  1|   |Szegedi M√°rton                                                                            |
+05|202|4|  5|  2|   |Pakusza Zolt√°n                                                                            |
+05|202|4|  5|  3|   |Jakab P√©ter                                                                               |
+05|226|4|  1|  1|   |Boda Istv√°n                                                                               |
+05|226|4|  3|  3|   |Fazekas Zolt√°n                                                                            |
+05|226|4|  5|  1|   |Kisgergely Andr√°s                                                                         |
+05|226|4|  5|  2|   |M√°rton Ferenc                                                                             |
+05|268|4|  2|  3|   |Per√©nyi Barnab√°s                                                                          |
+05|268|4|  5|  1|   |Barta J√≥zsef Istv√°n                                                                       |
 05|268|4|  6|  1|   |Kocsi Tibor                                                                               |
-05|274|4|  3|  1|   |Sal·ta L·szlÛ Mih·ly                                                                      |
+05|274|4|  3|  1|   |Sal√°ta L√°szl√≥ Mih√°ly                                                                      |
 05|274|4|  4|  1|   |Kiss Csaba                                                                                |
-05|274|4|  5|  1|   |¡d·m L·szlÛ JÛzsef                                                                        |
-05|276|4|  1|  1|   |Pasztorniczky Istv·n                                                                      |
-05|276|4|  3|  1|   |SzabÛ J·nos                                                                               |
-05|276|4|  3|  2|   |S·rosi JÛzsef TibornÈ                                                                     |
+05|274|4|  5|  1|   |√Åd√°m L√°szl√≥ J√≥zsef                                                                        |
+05|276|4|  1|  1|   |Pasztorniczky Istv√°n                                                                      |
+05|276|4|  3|  1|   |Szab√≥ J√°nos                                                                               |
+05|276|4|  3|  2|   |S√°rosi J√≥zsef Tiborn√©                                                                     |
 05|326|4|  1|  1|   |Kanyok Attila                                                                             |
-05|326|4|  2|  1|Dr.|KÈbel Zsolt                                                                               |
-05|326|4|  4|  1|   |KanyÛ Viktor                                                                              |
+05|326|4|  2|  1|Dr.|K√©bel Zsolt                                                                               |
+05|326|4|  4|  1|   |Kany√≥ Viktor                                                                              |
 06|013|4|  1|  1|   |Gyovai Zsolt                                                                              |
-06|013|4|  4|  1|   |Bedı Tam·s Albert                                                                         |
-06|013|4|  4|  2|   |Havasi J·nos BÈl·nÈ                                                                       |
+06|013|4|  4|  1|   |Bed≈ë Tam√°s Albert                                                                         |
+06|013|4|  4|  2|   |Havasi J√°nos B√©l√°n√©                                                                       |
 06|024|4|  1|  1|   |Kis Andrea                                                                                |
-06|024|4|  3|  1|   |Havr·nek Ferenc                                                                           |
-06|024|4|  4|  1|   |Moln·r L·szlÛnÈ                                                                           |
-06|024|4|  4|  2|   |Nagy-Gyˆrgy Anna                                                                          |
-06|032|4|  1|  1|   |M·rton Imre                                                                               |
-06|032|4|  5|  2|Dr.|Siket Istv·n                                                                              |
-06|032|4|  6|  1|   |M·gori JÛzsefnÈ                                                                           |
-06|051|4|  1|  3|   |Nagy S·ndor                                                                               |
-06|051|4|  1|  6|   |TÛth K·roly                                                                               |
-06|051|4|  1|  7|   |Hek·nÈ Dr. Szondi IldikÛ                                                                  |
-06|051|4|  2|  1|   |Szentistv·nyi Istv·n                                                                      |
-06|051|4|  3|  1|Dr.|Kereszt˙ri Farkas Csaba                                                                   |
-06|051|4|  4|  1|   |B. Nagy L·szlÛ                                                                            |
-06|051|4|  4|  2|Dr.|Boh·cs Zsolt JÛzsef                                                                       |
-06|051|4|  4|  3|   |PÛda Jenı                                                                                 |
-06|053|4|  1|  1|   |SzabÛ Zolt·n Ferenc                                                                       |
-06|053|4|  2|  1|   |KarikÛ-TÛth Tibor                                                                         |
-06|053|4|  3|  1|   |Koz·k J·nos                                                                               |
-06|053|4|  4|  2|   |Varga ¡rp·d                                                                               |
+06|024|4|  3|  1|   |Havr√°nek Ferenc                                                                           |
+06|024|4|  4|  1|   |Moln√°r L√°szl√≥n√©                                                                           |
+06|024|4|  4|  2|   |Nagy-Gy√∂rgy Anna                                                                          |
+06|032|4|  1|  1|   |M√°rton Imre                                                                               |
+06|032|4|  5|  2|Dr.|Siket Istv√°n                                                                              |
+06|032|4|  6|  1|   |M√°gori J√≥zsefn√©                                                                           |
+06|051|4|  1|  3|   |Nagy S√°ndor                                                                               |
+06|051|4|  1|  6|   |T√≥th K√°roly                                                                               |
+06|051|4|  1|  7|   |Hek√°n√© Dr. Szondi Ildik√≥                                                                  |
+06|051|4|  2|  1|   |Szentistv√°nyi Istv√°n                                                                      |
+06|051|4|  3|  1|Dr.|Kereszt√∫ri Farkas Csaba                                                                   |
+06|051|4|  4|  1|   |B. Nagy L√°szl√≥                                                                            |
+06|051|4|  4|  2|Dr.|Boh√°cs Zsolt J√≥zsef                                                                       |
+06|051|4|  4|  3|   |P√≥da Jen≈ë                                                                                 |
+06|053|4|  1|  1|   |Szab√≥ Zolt√°n Ferenc                                                                       |
+06|053|4|  2|  1|   |Karik√≥-T√≥th Tibor                                                                         |
+06|053|4|  3|  1|   |Koz√°k J√°nos                                                                               |
+06|053|4|  4|  2|   |Varga √Årp√°d                                                                               |
 07|013|4|  2|  1|Dr.|Bourgla Ossamah                                                                           |
-07|013|4|  2|  2|   |TÛth Lajos                                                                                |
-07|013|4|  3|  1|   |RihÛ Kriszti·n                                                                            |
-07|024|4|  1|  1|   |SzabÛ Zsolt                                                                               |
-07|024|4|  3|  1|   |PintÈr Tam·s                                                                              |
-07|024|4|  4|  1|   |PintÈr Attila                                                                             |
-07|024|4|  4|  2|   |Selyem JÛzsef                                                                             |
-07|061|4|  2|  1|   |Iv·n J·nos                                                                                |
-07|061|4|  3|  1|   |Dˆmˆtˆr J·nos                                                                             |
+07|013|4|  2|  2|   |T√≥th Lajos                                                                                |
+07|013|4|  3|  1|   |Rih√≥ Kriszti√°n                                                                            |
+07|024|4|  1|  1|   |Szab√≥ Zsolt                                                                               |
+07|024|4|  3|  1|   |Pint√©r Tam√°s                                                                              |
+07|024|4|  4|  1|   |Pint√©r Attila                                                                             |
+07|024|4|  4|  2|   |Selyem J√≥zsef                                                                             |
+07|061|4|  2|  1|   |Iv√°n J√°nos                                                                                |
+07|061|4|  3|  1|   |D√∂m√∂t√∂r J√°nos                                                                             |
 07|061|4|  3|  2|   |Kelemen Levente                                                                           |
-07|078|4|  1|  1|   |Nedoba K·roly                                                                             |
-07|078|4|  2|  1|   |Resch G·bor                                                                               |
-07|078|4|  5|  1|   |Macsim Andr·s                                                                             |
-07|094|4|  1|  1|   |Juh·sz L·szlÛ                                                                             |
-07|094|4|  2|  1|   |Fertı L·szlÛ                                                                              |
-07|094|4|  3|  1|   |M·rton Zolt·n                                                                             |
+07|078|4|  1|  1|   |Nedoba K√°roly                                                                             |
+07|078|4|  2|  1|   |Resch G√°bor                                                                               |
+07|078|4|  5|  1|   |Macsim Andr√°s                                                                             |
+07|094|4|  1|  1|   |Juh√°sz L√°szl√≥                                                                             |
+07|094|4|  2|  1|   |Fert≈ë L√°szl√≥                                                                              |
+07|094|4|  3|  1|   |M√°rton Zolt√°n                                                                             |
 07|094|4|  3|  2|   |Knizse Gyula                                                                              |
-07|094|4|  5|  4|   |RÛth PÈter                                                                                |
-07|094|4|  6|  1|   |G·l PÈter P·l                                                                             |
-08|027|4|  1|  1|   |Gyop·ros Alp·r                                                                            |
-08|027|4|  2|  1|   |GecsÈnyi Andr·s                                                                           |
+07|094|4|  5|  4|   |R√≥th P√©ter                                                                                |
+07|094|4|  6|  1|   |G√°l P√©ter P√°l                                                                             |
+08|027|4|  1|  1|   |Gyop√°ros Alp√°r                                                                            |
+08|027|4|  2|  1|   |Gecs√©nyi Andr√°s                                                                           |
 08|027|4|  3|  1|   |Balogh Csaba                                                                              |
-08|059|4|  1|  1|   |PintÈr-PÈntek Imre                                                                        |
-08|059|4|  2|  1|   |Hegyi Zolt·n                                                                              |
+08|059|4|  1|  1|   |Pint√©r-P√©ntek Imre                                                                        |
+08|059|4|  2|  1|   |Hegyi Zolt√°n                                                                              |
 08|059|4|  2|  2|Dr.|Neupor Zsolt                                                                              |
-08|059|4|  2|  3|Dr.|Kun Andr·s                                                                                |
-08|059|4|  2|  4|   |NÈmeth ¡rp·d                                                                              |
-08|059|4|  4|  1|   |Vˆrˆs Gyula                                                                               |
-08|059|4|  4|  2|   |Hofbauer S·ndor JÛzsef                                                                    |
-08|081|4|  1|  1|   |Cs·k·ny Annam·ria                                                                         |
-08|081|4|  2|  1|   |MÈsz·rosnÈ Pˆlˆskei Rita                                                                  |
-08|081|4|  3|  1|   |G·bor Tam·s JÛzsef                                                                        |
-08|104|4|  1|  1|Dr.|Kov·cs Tam·s                                                                              |
-08|104|4|  1|  2|   |Hushegyi RÛbert                                                                           |
-08|104|4|  2|  1|   |Kopetti Tam·s M·rton                                                                      |
-08|104|4|  4|  1|   |SzabÛ MiklÛs                                                                              |
-08|150|4|  1|  1|   |Kalm·r Istv·n                                                                             |
+08|059|4|  2|  3|Dr.|Kun Andr√°s                                                                                |
+08|059|4|  2|  4|   |N√©meth √Årp√°d                                                                              |
+08|059|4|  4|  1|   |V√∂r√∂s Gyula                                                                               |
+08|059|4|  4|  2|   |Hofbauer S√°ndor J√≥zsef                                                                    |
+08|081|4|  1|  1|   |Cs√°k√°ny Annam√°ria                                                                         |
+08|081|4|  2|  1|   |M√©sz√°rosn√© P√∂l√∂skei Rita                                                                  |
+08|081|4|  3|  1|   |G√°bor Tam√°s J√≥zsef                                                                        |
+08|104|4|  1|  1|Dr.|Kov√°cs Tam√°s                                                                              |
+08|104|4|  1|  2|   |Hushegyi R√≥bert                                                                           |
+08|104|4|  2|  1|   |Kopetti Tam√°s M√°rton                                                                      |
+08|104|4|  4|  1|   |Szab√≥ Mikl√≥s                                                                              |
+08|150|4|  1|  1|   |Kalm√°r Istv√°n                                                                             |
 08|150|4|  1|  2|   |Varga Gyula                                                                               |
-08|150|4|  1|  3|   |Biczi L·szlÛ S·ndor                                                                       |
-08|150|4|  2|  1|   |Gıbl G·bor                                                                                |
-08|150|4|  3|  1|   |Bebesi JÛzsef Lajos                                                                       |
-09|005|4|  2|  1|   |Demeter P·l                                                                               |
+08|150|4|  1|  3|   |Biczi L√°szl√≥ S√°ndor                                                                       |
+08|150|4|  2|  1|   |G≈ëbl G√°bor                                                                                |
+08|150|4|  3|  1|   |Bebesi J√≥zsef Lajos                                                                       |
+09|005|4|  2|  1|   |Demeter P√°l                                                                               |
 09|005|4|  2|  2|   |Kis Csaba                                                                                 |
-09|005|4|  2|  3|   |K·d·r Imre                                                                                |
-09|009|4|  1|  2|Dr.|Vit·nyi Istv·n JÛzsef                                                                     |
+09|005|4|  2|  3|   |K√°d√°r Imre                                                                                |
+09|009|4|  1|  2|Dr.|Vit√°nyi Istv√°n J√≥zsef                                                                     |
 09|009|4|  2|  1|   |Boruzs Imre                                                                               |
-09|009|4|  3|  1|   |Gyula FerencnÈ                                                                            |
-09|018|4|  1|  1|   |TÛth Csaba                                                                                |
-09|018|4|  1|  2|   |Varga Zolt·n Imre                                                                         |
-09|018|4|  2|  1|   |¡goston Tibor                                                                             |
-09|018|4|  2|  2|   |Kulcs·r G·bor                                                                             |
-09|018|4|  2|  3|   |Kıszeghy Csan·d ¡bel                                                                      |
-09|018|4|  2|  4|   |Varanyi S·ndor                                                                            |
-09|018|4|  3|  1|Dr.|Gondola Zsolt Zo·rd                                                                       |
+09|009|4|  3|  1|   |Gyula Ferencn√©                                                                            |
+09|018|4|  1|  1|   |T√≥th Csaba                                                                                |
+09|018|4|  1|  2|   |Varga Zolt√°n Imre                                                                         |
+09|018|4|  2|  1|   |√Ågoston Tibor                                                                             |
+09|018|4|  2|  2|   |Kulcs√°r G√°bor                                                                             |
+09|018|4|  2|  3|   |K≈ëszeghy Csan√°d √Åbel                                                                      |
+09|018|4|  2|  4|   |Varanyi S√°ndor                                                                            |
+09|018|4|  3|  1|Dr.|Gondola Zsolt Zo√°rd                                                                       |
 09|018|4|  4|  1|Dr.|Zsiros Zsolt                                                                              |
-09|018|4|  4|  2|   |Szathm·ri K·roly                                                                          |
-09|018|4|  4|  3|   |BagolynÈ Rinyu Ilona                                                                      |
-09|030|4|  1|  7|   |Bertalan J·nos                                                                            |
-09|030|4|  3|  2|   |GacsÛnÈ Varga ErzsÈbet                                                                    |
-09|030|4|  5|  1|Dr.|Nagy Imre S·ndor                                                                          |
-09|030|4|  6|  1|   |KathinÈ Juh·sz IldikÛ                                                                     |
-09|032|4|  2|  1|   |Csonka Istv·n                                                                             |
-09|032|4|  6|  2|   |Borsi Istv·n                                                                              |
-09|032|4|  7|  1|   |Bozs·nyi Ferenc                                                                           |
-09|033|4|  1|  1|   |Tˆrˆk Istv·n                                                                              |
-09|033|4|  2|  1|Dr.|…les Andr·s                                                                               |
-09|033|4|  3|  1|   |TÛth Imre                                                                                 |
-09|034|4|  1|  1|   |M·thÈ Attila Gyula                                                                        |
-09|034|4|  1|  2|   |L·szlÛ Vilmos Csongor                                                                     |
-09|034|4|  2|  3|   |Kerekes Zolt·n                                                                            |
-09|035|4|  1|  1|Dr.|⁄r Attila Bendeg˙z                                                                        |
-09|035|4|  5|  2|   |Marosi Gyˆrgy Csongor                                                                     |
-09|035|4|  6|  1|   |TÛth Attila                                                                               |
-09|063|4|  1|  1|   |DurÛ Ferenc                                                                               |
-09|063|4|  1|  2|   |Rig·n Istv·n                                                                              |
-09|063|4|  2|  1|   |Kincses L·szlÛ                                                                            |
-10|025|4|  2|  1|Dr.|CsarnÛ ¡kos                                                                               |
-10|025|4|  4|  1|   |Nagy Istv·n                                                                               |
-10|025|4|  4|  2|   |P·l Gyˆrgy                                                                                |
-10|025|4|  5|  1|   |Bogn·r Ign·c                                                                              |
-10|025|4|  5|  2|   |TÛth Istv·n                                                                               |
-10|039|4|  1|  1|   |KÈvÈs Tam·s                                                                               |
-10|039|4|  3|  2|Dr.|SzÈk·cs Gyˆrgy                                                                            |
-10|039|4|  4|  1|   |Hiesz Gyˆrgy                                                                              |
-10|039|4|  5|  2|Dr.|Pap Zolt·n                                                                                |
-10|046|4|  1|  1|Dr.|FehÈr Oszk·r                                                                              |
-10|046|4|  1|  2|   |Palik JÛzsefnÈ                                                                            |
-10|046|4|  3|  1|   |MikÛ J·nos                                                                                |
-10|048|4|  1|  1|   |S·r·ndi Istv·n                                                                            |
-10|048|4|  2|  1|   |Tˆrˆk J·nos                                                                               |
-10|048|4|  4|  1|   |Szedl·k Szabolcs                                                                          |
-11|016|4|  2|  1|   |Telek BÈla                                                                                |
-11|016|4|  3|  1|   |Budai LÛr·nt                                                                              |
+09|018|4|  4|  2|   |Szathm√°ri K√°roly                                                                          |
+09|018|4|  4|  3|   |Bagolyn√© Rinyu Ilona                                                                      |
+09|030|4|  1|  7|   |Bertalan J√°nos                                                                            |
+09|030|4|  3|  2|   |Gacs√≥n√© Varga Erzs√©bet                                                                    |
+09|030|4|  5|  1|Dr.|Nagy Imre S√°ndor                                                                          |
+09|030|4|  6|  1|   |Kathin√© Juh√°sz Ildik√≥                                                                     |
+09|032|4|  2|  1|   |Csonka Istv√°n                                                                             |
+09|032|4|  6|  2|   |Borsi Istv√°n                                                                              |
+09|032|4|  7|  1|   |Bozs√°nyi Ferenc                                                                           |
+09|033|4|  1|  1|   |T√∂r√∂k Istv√°n                                                                              |
+09|033|4|  2|  1|Dr.|√âles Andr√°s                                                                               |
+09|033|4|  3|  1|   |T√≥th Imre                                                                                 |
+09|034|4|  1|  1|   |M√°th√© Attila Gyula                                                                        |
+09|034|4|  1|  2|   |L√°szl√≥ Vilmos Csongor                                                                     |
+09|034|4|  2|  3|   |Kerekes Zolt√°n                                                                            |
+09|035|4|  1|  1|Dr.|√ör Attila Bendeg√∫z                                                                        |
+09|035|4|  5|  2|   |Marosi Gy√∂rgy Csongor                                                                     |
+09|035|4|  6|  1|   |T√≥th Attila                                                                               |
+09|063|4|  1|  1|   |Dur√≥ Ferenc                                                                               |
+09|063|4|  1|  2|   |Rig√°n Istv√°n                                                                              |
+09|063|4|  2|  1|   |Kincses L√°szl√≥                                                                            |
+10|025|4|  2|  1|Dr.|Csarn√≥ √Åkos                                                                               |
+10|025|4|  4|  1|   |Nagy Istv√°n                                                                               |
+10|025|4|  4|  2|   |P√°l Gy√∂rgy                                                                                |
+10|025|4|  5|  1|   |Bogn√°r Ign√°c                                                                              |
+10|025|4|  5|  2|   |T√≥th Istv√°n                                                                               |
+10|039|4|  1|  1|   |K√©v√©s Tam√°s                                                                               |
+10|039|4|  3|  2|Dr.|Sz√©k√°cs Gy√∂rgy                                                                            |
+10|039|4|  4|  1|   |Hiesz Gy√∂rgy                                                                              |
+10|039|4|  5|  2|Dr.|Pap Zolt√°n                                                                                |
+10|046|4|  1|  1|Dr.|Feh√©r Oszk√°r                                                                              |
+10|046|4|  1|  2|   |Palik J√≥zsefn√©                                                                            |
+10|046|4|  3|  1|   |Mik√≥ J√°nos                                                                                |
+10|048|4|  1|  1|   |S√°r√°ndi Istv√°n                                                                            |
+10|048|4|  2|  1|   |T√∂r√∂k J√°nos                                                                               |
+10|048|4|  4|  1|   |Szedl√°k Szabolcs                                                                          |
+11|016|4|  2|  1|   |Telek B√©la                                                                                |
+11|016|4|  3|  1|   |Budai L√≥r√°nt                                                                              |
 11|016|4|  4|  1|Dr.|Magyar Levente                                                                            |
-11|016|4|  5|  1|Dr.|Gedei JÛzsef                                                                              |
-11|027|4|  1|  1|Dr.|Kapusi Lajos S·ndor                                                                       |
-11|027|4|  2|  1|   |Andr·si Andr·s P·l                                                                        |
-11|027|4|  2|  2|Dr.|Luk·cs L·szlÛ Gyˆrgy                                                                      |
-11|031|4|  1|  1|   |M·thÈ Zsolt Lajos                                                                         |
-11|031|4|  3|  1|   |Nagy LajosnÈ                                                                              |
-11|031|4|  4|  1|Dr.|Malatinszky Andr·s                                                                        |
-11|040|4|  2|  1|   |Cs·nyi Tam·s                                                                              |
-11|040|4|  3|  1|   |Gonda K·roly                                                                              |
-11|040|4|  4|  1|   |RÛzsa Endre                                                                               |
-11|052|4|  1|  1|   |Iv·ncsik Imre                                                                             |
-11|052|4|  1|  2|   |Cs·k L·szlÛ                                                                               |
-11|052|4|  1|  3|   |RadÛcz Zolt·n                                                                             |
-11|052|4|  4|  1|   |Tˆrˆk Ferenc                                                                              |
+11|016|4|  5|  1|Dr.|Gedei J√≥zsef                                                                              |
+11|027|4|  1|  1|Dr.|Kapusi Lajos S√°ndor                                                                       |
+11|027|4|  2|  1|   |Andr√°si Andr√°s P√°l                                                                        |
+11|027|4|  2|  2|Dr.|Luk√°cs L√°szl√≥ Gy√∂rgy                                                                      |
+11|031|4|  1|  1|   |M√°th√© Zsolt Lajos                                                                         |
+11|031|4|  3|  1|   |Nagy Lajosn√©                                                                              |
+11|031|4|  4|  1|Dr.|Malatinszky Andr√°s                                                                        |
+11|040|4|  2|  1|   |Cs√°nyi Tam√°s                                                                              |
+11|040|4|  3|  1|   |Gonda K√°roly                                                                              |
+11|040|4|  4|  1|   |R√≥zsa Endre                                                                               |
+11|052|4|  1|  1|   |Iv√°ncsik Imre                                                                             |
+11|052|4|  1|  2|   |Cs√°k L√°szl√≥                                                                               |
+11|052|4|  1|  3|   |Rad√≥cz Zolt√°n                                                                             |
+11|052|4|  4|  1|   |T√∂r√∂k Ferenc                                                                              |
 11|052|4|  4|  2|   |Nagy Gyula                                                                                |
-11|056|4|  1|  1|   |Moln·r ErzsÈbet                                                                           |
-11|056|4|  3|  1|   |Barcza G·bor                                                                              |
-11|056|4|  4|  1|   |Beliczai L·szlÛ                                                                           |
-11|057|4|  1|  1|   |Pecze L·szlÛnÈ                                                                            |
-11|057|4|  2|  1|   |Somogyi S·ndor                                                                            |
-11|057|4|  3|  2|   |Lipcsey Gyˆrgy Imre                                                                       |
-11|073|4|  3|  1|   |Kucsera Gyˆrgy                                                                            |
-11|073|4|  5|  1|   |Serfızı Istv·n                                                                            |
-11|073|4|  6|  1|   |FejÈr Ilona                                                                               |
+11|056|4|  1|  1|   |Moln√°r Erzs√©bet                                                                           |
+11|056|4|  3|  1|   |Barcza G√°bor                                                                              |
+11|056|4|  4|  1|   |Beliczai L√°szl√≥                                                                           |
+11|057|4|  1|  1|   |Pecze L√°szl√≥n√©                                                                            |
+11|057|4|  2|  1|   |Somogyi S√°ndor                                                                            |
+11|057|4|  3|  2|   |Lipcsey Gy√∂rgy Imre                                                                       |
+11|073|4|  3|  1|   |Kucsera Gy√∂rgy                                                                            |
+11|073|4|  5|  1|   |Serf≈ëz≈ë Istv√°n                                                                            |
+11|073|4|  6|  1|   |Fej√©r Ilona                                                                               |
 12|023|4|  1|  1|   |Polonyi Zsolt                                                                             |
-12|023|4|  4|  1|   |MerÈnyi Tam·s                                                                             |
-12|023|4|  5|  1|   |DankÛ JÛzsef                                                                              |
+12|023|4|  4|  1|   |Mer√©nyi Tam√°s                                                                             |
+12|023|4|  5|  1|   |Dank√≥ J√≥zsef                                                                              |
 12|028|4|  1|  1|   |Zentai-Plajner Zsolt                                                                      |
-12|028|4|  2|  1|   |Juh·sz Istv·n                                                                             |
-12|028|4|  4|  1|   |BatyiknÈ Csıke ¡gnes ErzsÈbet                                                             |
-12|028|4|  5|  1|   |NyÌri Attila                                                                              |
-12|038|4|  1|  1|   |Horv·th Zsolt                                                                             |
-12|038|4|  2|  1|   |Babj·k Csaba                                                                              |
-12|038|4|  3|  1|   |M·rkos Attila                                                                             |
-12|051|4|  1|  3|   |MÛdi MiklÛs                                                                               |
-12|051|4|  2|  6|   |Veilandics BÈla JÛzsef                                                                    |
-12|051|4|  3|  1|   |SzabÛ Mih·ly                                                                              |
-12|064|4|  1|  1|   |GerÈbi ¡kos                                                                               |
-12|064|4|  4|  1|   |Kir·ly Istv·n                                                                             |
-12|064|4|  5|  1|   |SzabÛ Gyula                                                                               |
-12|065|4|  3|  6|   |BagÛ Attila                                                                               |
-12|065|4|  4|  1|   |Boda B·nk L·szlÛ                                                                          |
-12|065|4|  5|  1|   |Luk·cs Zolt·n                                                                             |
-12|065|4|  5|  4|   |Moln·r G·bor                                                                              |
-12|065|4|  5|  5|   |Bogn·r Zolt·n                                                                             |
-13|003|4|  3|  1|   |F·bi·n G·bor JÛzsef                                                                       |
-13|003|4|  4|  1|   |Lombos Istv·n P·l                                                                         |
-13|003|4|  4|  2|   |SzabÛ PÈter                                                                               |
-13|006|4|  1|  3|   |Ol·h K·roly                                                                               |
-13|006|4|  3|  1|   |CseresznyÈs Istv·n                                                                        |
-13|006|4|  5|  1|   |LavajnÈ DÛka …va                                                                          |
-13|103|4|  1|  1|   |DÛra OttÛ                                                                                 |
-13|103|4|  1|  2|   |Husz·r M·tÈ L·szlÛ                                                                        |
-13|103|4|  1|  3|   |ErcsÈnyi Ferenc                                                                           |
-13|103|4|  2|  3|   |SÈra Tam·s Attila                                                                         |
-14|001|4|  1|  1|Dr.|Magyar G·bor S·ndor                                                                       |
-14|001|4|  5|  1|   |Kelemen Tibor J·nos                                                                       |
-14|001|4|  6|  1|   |Habony Istv·n                                                                             |
-14|003|4|  1|  1|   |Ka·rinÈ Kabay Lilla                                                                       |
-14|003|4|  5|  1|   |Lebanov JÛzsef                                                                            |
-14|003|4|  7|  2|   |K·d·r J·nos                                                                               |
-14|011|4|  3|  7|   |SÛlyomv·ri BÈla                                                                           |
-14|011|4|  4|  1|   |Barab·s JÛzsef                                                                            |
-14|011|4|  5|  1|Dr.|Lehel Istv·n                                                                              |
+12|028|4|  2|  1|   |Juh√°sz Istv√°n                                                                             |
+12|028|4|  4|  1|   |Batyikn√© Cs≈ëke √Ågnes Erzs√©bet                                                             |
+12|028|4|  5|  1|   |Ny√≠ri Attila                                                                              |
+12|038|4|  1|  1|   |Horv√°th Zsolt                                                                             |
+12|038|4|  2|  1|   |Babj√°k Csaba                                                                              |
+12|038|4|  3|  1|   |M√°rkos Attila                                                                             |
+12|051|4|  1|  3|   |M√≥di Mikl√≥s                                                                               |
+12|051|4|  2|  6|   |Veilandics B√©la J√≥zsef                                                                    |
+12|051|4|  3|  1|   |Szab√≥ Mih√°ly                                                                              |
+12|064|4|  1|  1|   |Ger√©bi √Åkos                                                                               |
+12|064|4|  4|  1|   |Kir√°ly Istv√°n                                                                             |
+12|064|4|  5|  1|   |Szab√≥ Gyula                                                                               |
+12|065|4|  3|  6|   |Bag√≥ Attila                                                                               |
+12|065|4|  4|  1|   |Boda B√°nk L√°szl√≥                                                                          |
+12|065|4|  5|  1|   |Luk√°cs Zolt√°n                                                                             |
+12|065|4|  5|  4|   |Moln√°r G√°bor                                                                              |
+12|065|4|  5|  5|   |Bogn√°r Zolt√°n                                                                             |
+13|003|4|  3|  1|   |F√°bi√°n G√°bor J√≥zsef                                                                       |
+13|003|4|  4|  1|   |Lombos Istv√°n P√°l                                                                         |
+13|003|4|  4|  2|   |Szab√≥ P√©ter                                                                               |
+13|006|4|  1|  3|   |Ol√°h K√°roly                                                                               |
+13|006|4|  3|  1|   |Csereszny√©s Istv√°n                                                                        |
+13|006|4|  5|  1|   |Lavajn√© D√≥ka √âva                                                                          |
+13|103|4|  1|  1|   |D√≥ra Ott√≥                                                                                 |
+13|103|4|  1|  2|   |Husz√°r M√°t√© L√°szl√≥                                                                        |
+13|103|4|  1|  3|   |Ercs√©nyi Ferenc                                                                           |
+13|103|4|  2|  3|   |S√©ra Tam√°s Attila                                                                         |
+14|001|4|  1|  1|Dr.|Magyar G√°bor S√°ndor                                                                       |
+14|001|4|  5|  1|   |Kelemen Tibor J√°nos                                                                       |
+14|001|4|  6|  1|   |Habony Istv√°n                                                                             |
+14|003|4|  1|  1|   |Ka√°rin√© Kabay Lilla                                                                       |
+14|003|4|  5|  1|   |Lebanov J√≥zsef                                                                            |
+14|003|4|  7|  2|   |K√°d√°r J√°nos                                                                               |
+14|011|4|  3|  7|   |S√≥lyomv√°ri B√©la                                                                           |
+14|011|4|  4|  1|   |Barab√°s J√≥zsef                                                                            |
+14|011|4|  5|  1|Dr.|Lehel Istv√°n                                                                              |
 14|013|4|  1|  1|   |Parlagi Endre                                                                             |
-14|013|4|  3|  1|   |NÛgr·di Zolt·n                                                                            |
-14|013|4|  4|  1|   |Kaltner K·roly Istv·n                                                                     |
-14|014|4|  2|  1|   |SzabÛ ¡kos PÈter                                                                          |
-14|014|4|  3|  1|   |SomlÛv·ri JÛzsefnÈ                                                                        |
+14|013|4|  3|  1|   |N√≥gr√°di Zolt√°n                                                                            |
+14|013|4|  4|  1|   |Kaltner K√°roly Istv√°n                                                                     |
+14|014|4|  2|  1|   |Szab√≥ √Åkos P√©ter                                                                          |
+14|014|4|  3|  1|   |Soml√≥v√°ri J√≥zsefn√©                                                                        |
 14|014|4|  5|  1|   |Pataki Judit                                                                              |
-14|015|4|  1|  1|   |Laczik Zolt·n                                                                             |
-14|015|4|  2|  2|   |TÛth BÈla                                                                                 |
-14|015|4|  2|  4|   |Mizsei Zolt·n                                                                             |
-14|015|4|  5|  1|   |Cs·sz·rnÈ Koll·r TÌmea Annam·ria                                                          |
-14|017|4|  1|  1|   |Bob·l Istv·n                                                                              |
-14|017|4|  3|  1|   |Fˆldi ¡ron                                                                                |
-14|017|4|  4|  1|   |Nagy Tam·s                                                                                |
-14|017|4|  5|  1|   |P·link·s MiklÛs                                                                           |
-14|025|4|  1|  1|   |PribÈk JÛzsef                                                                             |
-14|025|4|  2|  1|   |Monori AlfrÈd                                                                             |
-14|025|4|  3|  1|   |Kr·llnÈ Malecz Julianna                                                                   |
-14|033|4|  1|  1|   |K¸csˆn S·ndor                                                                             |
+14|015|4|  1|  1|   |Laczik Zolt√°n                                                                             |
+14|015|4|  2|  2|   |T√≥th B√©la                                                                                 |
+14|015|4|  2|  4|   |Mizsei Zolt√°n                                                                             |
+14|015|4|  5|  1|   |Cs√°sz√°rn√© Koll√°r T√≠mea Annam√°ria                                                          |
+14|017|4|  1|  1|   |Bob√°l Istv√°n                                                                              |
+14|017|4|  3|  1|   |F√∂ldi √Åron                                                                                |
+14|017|4|  4|  1|   |Nagy Tam√°s                                                                                |
+14|017|4|  5|  1|   |P√°link√°s Mikl√≥s                                                                           |
+14|025|4|  1|  1|   |Prib√©k J√≥zsef                                                                             |
+14|025|4|  2|  1|   |Monori Alfr√©d                                                                             |
+14|025|4|  3|  1|   |Kr√°lln√© Malecz Julianna                                                                   |
+14|033|4|  1|  1|   |K√ºcs√∂n S√°ndor                                                                             |
 14|033|4|  4|  1|   |Knapp Tibor                                                                               |
-14|033|4|  4|  2|   |PÈkÛ Zolt·n                                                                               |
-14|034|4|  2|  1|   |Luk·csi B·lint                                                                            |
-14|034|4|  3|  1|   |PÛczik Anita                                                                              |
-14|034|4|  3|  2|   |¡bri Ferenc                                                                               |
-14|034|4|  4|  1|   |Nyiri M·rton                                                                              |
-14|038|4|  3|  1|   |S¸le-Szigeti G·bor                                                                        |
-14|038|4|  4|  1|   |Jakab BÈla JÛzsef                                                                         |
-14|038|4|  5|  1|Dr.|Dˆcsakovszky BÈla Zolt·n                                                                  |
+14|033|4|  4|  2|   |P√©k√≥ Zolt√°n                                                                               |
+14|034|4|  2|  1|   |Luk√°csi B√°lint                                                                            |
+14|034|4|  3|  1|   |P√≥czik Anita                                                                              |
+14|034|4|  3|  2|   |√Åbri Ferenc                                                                               |
+14|034|4|  4|  1|   |Nyiri M√°rton                                                                              |
+14|038|4|  3|  1|   |S√ºle-Szigeti G√°bor                                                                        |
+14|038|4|  4|  1|   |Jakab B√©la J√≥zsef                                                                         |
+14|038|4|  5|  1|Dr.|D√∂csakovszky B√©la Zolt√°n                                                                  |
 14|038|4|  5|  2|   |Bakai-Nagy Zita                                                                           |
-14|038|4|  6|  1|Dr.|Csızik L·szlÛ                                                                             |
-14|041|4|  1|  1|   |Fˆldi P·l J·nos                                                                           |
-14|041|4|  3|  1|   |Bukta Andr·s J·nos                                                                        |
-14|041|4|  4|  1|   |F·bry BÈla                                                                                |
-14|046|4|  2|  1|   |Sipos Rich·rd                                                                             |
-14|046|4|  4|  1|Dr.|Horv·th Viktor Gergı                                                                      |
-14|046|4|  5|  1|   |Hlav·cs Judit                                                                             |
-14|047|4|  1|  1|   |Kov·cs Barnab·s                                                                           |
-14|047|4|  4|  1|   |Lipt·knÈ Dr. Boros Andrea                                                                 |
-14|047|4|  4|  2|   |Fut·s Levente Szabolcs                                                                    |
-14|047|4|  5|  1|   |KristÛf Etelka                                                                            |
-14|048|4|  3|  1|   |VÈghnÈ B·gya IldikÛ                                                                       |
-14|048|4|  3|  2|   |VÈgh Tibor                                                                                |
-14|048|4|  4|  1|   |Lakos PÈter                                                                               |
-14|049|4|  1|  1|   |Sas Zolt·n                                                                                |
-14|049|4|  2|  1|   |Spaits MiklÛs                                                                             |
-14|049|4|  4|  1|   |G·sp·r Kriszti·n                                                                          |
-14|058|4|  1|  1|   |Everling RÛbert                                                                           |
-14|058|4|  1|  2|   |Markel Istv·n                                                                             |
+14|038|4|  6|  1|Dr.|Cs≈ëzik L√°szl√≥                                                                             |
+14|041|4|  1|  1|   |F√∂ldi P√°l J√°nos                                                                           |
+14|041|4|  3|  1|   |Bukta Andr√°s J√°nos                                                                        |
+14|041|4|  4|  1|   |F√°bry B√©la                                                                                |
+14|046|4|  2|  1|   |Sipos Rich√°rd                                                                             |
+14|046|4|  4|  1|Dr.|Horv√°th Viktor Gerg≈ë                                                                      |
+14|046|4|  5|  1|   |Hlav√°cs Judit                                                                             |
+14|047|4|  1|  1|   |Kov√°cs Barnab√°s                                                                           |
+14|047|4|  4|  1|   |Lipt√°kn√© Dr. Boros Andrea                                                                 |
+14|047|4|  4|  2|   |Fut√°s Levente Szabolcs                                                                    |
+14|047|4|  5|  1|   |Krist√≥f Etelka                                                                            |
+14|048|4|  3|  1|   |V√©ghn√© B√°gya Ildik√≥                                                                       |
+14|048|4|  3|  2|   |V√©gh Tibor                                                                                |
+14|048|4|  4|  1|   |Lakos P√©ter                                                                               |
+14|049|4|  1|  1|   |Sas Zolt√°n                                                                                |
+14|049|4|  2|  1|   |Spaits Mikl√≥s                                                                             |
+14|049|4|  4|  1|   |G√°sp√°r Kriszti√°n                                                                          |
+14|058|4|  1|  1|   |Everling R√≥bert                                                                           |
+14|058|4|  1|  2|   |Markel Istv√°n                                                                             |
 14|058|4|  2|  1|   |Klincsek Attila                                                                           |
-14|064|4|  2|  1|   |Palotai L·szlÛ                                                                            |
-14|064|4|  4|  1|   |Kov·cs Antal                                                                              |
-14|064|4|  5|  1|   |SzabÛ …va                                                                                 |
-14|069|4|  3|  1|   |Juh·sz JÛzsef                                                                             |
-14|069|4|  4|  1|   |JuszkÛ Ferenc                                                                             |
-14|069|4|  5|  1|   |M·rkus JÛzsef                                                                             |
-14|078|4|  1|  1|   |Vavrik TibornÈ                                                                            |
-14|078|4|  5|  1|   |Telek P·l                                                                                 |
-14|078|4|  5|  2|   |Szathm·rynÈ Papp M·ria                                                                    |
-14|085|4|  2|  1|   |Varga Jenı                                                                                |
-14|085|4|  3|  1|   |Z·trok K·roly                                                                             |
-14|085|4|  5|  1|   |Pfundt Imre F¸lˆp                                                                         |
-14|087|4|  1|  1|   |Magoss Gyˆrgy Imre                                                                        |
-14|087|4|  2|  1|   |Marton L·szlÛ                                                                             |
-14|087|4|  3|  1|   |Botka S·ndor                                                                              |
-14|089|4|  1|  1|   |DÈnes DÈnes                                                                               |
-14|089|4|  3|  1|   |Z·gr·b N·ndor                                                                             |
-14|089|4|  4|  1|   |L·szlÛ Ferenc                                                                             |
-14|102|4|  2|  1|   |Berecz G·bor                                                                              |
+14|064|4|  2|  1|   |Palotai L√°szl√≥                                                                            |
+14|064|4|  4|  1|   |Kov√°cs Antal                                                                              |
+14|064|4|  5|  1|   |Szab√≥ √âva                                                                                 |
+14|069|4|  3|  1|   |Juh√°sz J√≥zsef                                                                             |
+14|069|4|  4|  1|   |Juszk√≥ Ferenc                                                                             |
+14|069|4|  5|  1|   |M√°rkus J√≥zsef                                                                             |
+14|078|4|  1|  1|   |Vavrik Tiborn√©                                                                            |
+14|078|4|  5|  1|   |Telek P√°l                                                                                 |
+14|078|4|  5|  2|   |Szathm√°ryn√© Papp M√°ria                                                                    |
+14|085|4|  2|  1|   |Varga Jen≈ë                                                                                |
+14|085|4|  3|  1|   |Z√°trok K√°roly                                                                             |
+14|085|4|  5|  1|   |Pfundt Imre F√ºl√∂p                                                                         |
+14|087|4|  1|  1|   |Magoss Gy√∂rgy Imre                                                                        |
+14|087|4|  2|  1|   |Marton L√°szl√≥                                                                             |
+14|087|4|  3|  1|   |Botka S√°ndor                                                                              |
+14|089|4|  1|  1|   |D√©nes D√©nes                                                                               |
+14|089|4|  3|  1|   |Z√°gr√°b N√°ndor                                                                             |
+14|089|4|  4|  1|   |L√°szl√≥ Ferenc                                                                             |
+14|102|4|  2|  1|   |Berecz G√°bor                                                                              |
 14|102|4|  3|  1|Dr.|Benkovics Gyula                                                                           |
-14|102|4|  5|  1|Dr.|Kusz·k RÛbert                                                                             |
-14|104|4|  2|  1|   |NÈmeth Istv·n                                                                             |
-14|104|4|  3|  2|   |Nagy J·nos                                                                                |
-14|104|4|  4|  1|   |GajdosnÈ Nagy TÌmea                                                                       |
-14|112|4|  1|  1|   |M¸ller M·rton                                                                             |
-14|112|4|  2|  1|   |Kırˆsy J·nos                                                                              |
-14|112|4|  4|  1|   |Oberle J·nos                                                                              |
-14|113|4|  1|  1|   |Potzta BÈla                                                                               |
-14|113|4|  4|  1|   |DurÛ Imre                                                                                 |
+14|102|4|  5|  1|Dr.|Kusz√°k R√≥bert                                                                             |
+14|104|4|  2|  1|   |N√©meth Istv√°n                                                                             |
+14|104|4|  3|  2|   |Nagy J√°nos                                                                                |
+14|104|4|  4|  1|   |Gajdosn√© Nagy T√≠mea                                                                       |
+14|112|4|  1|  1|   |M√ºller M√°rton                                                                             |
+14|112|4|  2|  1|   |K≈ër√∂sy J√°nos                                                                              |
+14|112|4|  4|  1|   |Oberle J√°nos                                                                              |
+14|113|4|  1|  1|   |Potzta B√©la                                                                               |
+14|113|4|  4|  1|   |Dur√≥ Imre                                                                                 |
 14|113|4|  6|  1|   |Sarkadi Attila Ferenc                                                                     |
-14|121|4|  2|  1|   |Tak·csnÈ Nagy Eszter Annam·ria                                                            |
-14|121|4|  3|  1|   |Tordai MiklÛs                                                                             |
-14|121|4|  4|  1|   |Szeghy Krisztina M·rta                                                                    |
-14|125|4|  1|  1|Dr.|Heged˚s RÛbert                                                                            |
-14|125|4|  5|  1|   |SzabÛ Attila                                                                              |
-14|125|4|  6|  3|   |Sinka L·szlÛ                                                                              |
+14|121|4|  2|  1|   |Tak√°csn√© Nagy Eszter Annam√°ria                                                            |
+14|121|4|  3|  1|   |Tordai Mikl√≥s                                                                             |
+14|121|4|  4|  1|   |Szeghy Krisztina M√°rta                                                                    |
+14|125|4|  1|  1|Dr.|Heged≈±s R√≥bert                                                                            |
+14|125|4|  5|  1|   |Szab√≥ Attila                                                                              |
+14|125|4|  6|  3|   |Sinka L√°szl√≥                                                                              |
 14|126|4|  1|  1|   |Magyar Judit                                                                              |
-14|126|4|  3|  1|   |F¸lˆp Zsolt                                                                               |
-14|126|4|  3|  2|   |Fekete J·nos                                                                              |
-14|126|4|  4|  1|Dr.|FilÛ Andr·s                                                                               |
-14|131|4|  2|  1|   |De·k G·bor                                                                                |
-14|131|4|  3|  1|Dr.|Schuller G·bornÈ                                                                          |
-14|131|4|  5|  1|   |B·n Norbert                                                                               |
-14|134|4|  1|  1|Dr.|Barab·s Botond                                                                            |
-14|134|4|  2|  1|   |Lad·nyi S·ndor                                                                            |
+14|126|4|  3|  1|   |F√ºl√∂p Zsolt                                                                               |
+14|126|4|  3|  2|   |Fekete J√°nos                                                                              |
+14|126|4|  4|  1|Dr.|Fil√≥ Andr√°s                                                                               |
+14|131|4|  2|  1|   |De√°k G√°bor                                                                                |
+14|131|4|  3|  1|Dr.|Schuller G√°born√©                                                                          |
+14|131|4|  5|  1|   |B√°n Norbert                                                                               |
+14|134|4|  1|  1|Dr.|Barab√°s Botond                                                                            |
+14|134|4|  2|  1|   |Lad√°nyi S√°ndor                                                                            |
 14|134|4|  4|  1|   |Szarvas Tibor                                                                             |
-14|134|4|  5|  1|   |Kaufer Vir·g                                                                              |
-14|157|4|  1|  1|   |Lerner J·nos                                                                              |
-14|157|4|  1|  2|   |Juh·sz Tibor                                                                              |
-14|157|4|  1|  3|   |Ecsedi Be·ta                                                                              |
-14|158|4|  1|  1|   |Fernengel Andr·s                                                                          |
-14|158|4|  3|  1|   |Kiss Istv·n                                                                               |
-14|158|4|  5|  1|Dr.|Albert G·bor                                                                              |
-14|165|4|  2|  1|Dr.|KˆvÈr Tibor Ferenc                                                                        |
-14|165|4|  3|  1|   |Botlik BÈla                                                                               |
+14|134|4|  5|  1|   |Kaufer Vir√°g                                                                              |
+14|157|4|  1|  1|   |Lerner J√°nos                                                                              |
+14|157|4|  1|  2|   |Juh√°sz Tibor                                                                              |
+14|157|4|  1|  3|   |Ecsedi Be√°ta                                                                              |
+14|158|4|  1|  1|   |Fernengel Andr√°s                                                                          |
+14|158|4|  3|  1|   |Kiss Istv√°n                                                                               |
+14|158|4|  5|  1|Dr.|Albert G√°bor                                                                              |
+14|165|4|  2|  1|Dr.|K√∂v√©r Tibor Ferenc                                                                        |
+14|165|4|  3|  1|   |Botlik B√©la                                                                               |
 14|165|4|  4|  3|   |Szendrey Elek Ferenc                                                                      |
-14|169|4|  1|  1|   |FehÈr Zsolt                                                                               |
-14|169|4|  2|  2|   |Gyombolai PÈter Vince                                                                     |
-14|169|4|  4|  1|   |Petı Tibor                                                                                |
-14|169|4|  6|  3|Dr.|Jakab Zolt·n                                                                              |
-14|177|4|  2|  1|   |Ol·h L·szlÛ                                                                               |
-14|177|4|  5|  1|Dr.|GerencsÈr Bal·zs                                                                          |
-14|177|4|  6|  1|   |SzabÛ Attila                                                                              |
-14|178|4|  3|  1|   |Szalontai Boldizs·r                                                                       |
-14|178|4|  5|  1|   |SzabÛnÈ Tolnai IldikÛ                                                                     |
-14|178|4|  5|  2|   |G·ncs G·bor Vince                                                                         |
-15|020|4|  2|  2|   |Ander Istv·n                                                                              |
-15|020|4|  3|  1|   |Szemere M·rta                                                                             |
-15|020|4|  3|  2|   |Szabadi JÛzsef                                                                            |
-15|091|4|  2|  1|   |Kiss Tam·s                                                                                |
-15|091|4|  3|  1|Dr.|Spiegl JÛzsef                                                                             |
+14|169|4|  1|  1|   |Feh√©r Zsolt                                                                               |
+14|169|4|  2|  2|   |Gyombolai P√©ter Vince                                                                     |
+14|169|4|  4|  1|   |Pet≈ë Tibor                                                                                |
+14|169|4|  6|  3|Dr.|Jakab Zolt√°n                                                                              |
+14|177|4|  2|  1|   |Ol√°h L√°szl√≥                                                                               |
+14|177|4|  5|  1|Dr.|Gerencs√©r Bal√°zs                                                                          |
+14|177|4|  6|  1|   |Szab√≥ Attila                                                                              |
+14|178|4|  3|  1|   |Szalontai Boldizs√°r                                                                       |
+14|178|4|  5|  1|   |Szab√≥n√© Tolnai Ildik√≥                                                                     |
+14|178|4|  5|  2|   |G√°ncs G√°bor Vince                                                                         |
+15|020|4|  2|  2|   |Ander Istv√°n                                                                              |
+15|020|4|  3|  1|   |Szemere M√°rta                                                                             |
+15|020|4|  3|  2|   |Szabadi J√≥zsef                                                                            |
+15|091|4|  2|  1|   |Kiss Tam√°s                                                                                |
+15|091|4|  3|  1|Dr.|Spiegl J√≥zsef                                                                             |
 15|091|4|  4|  1|   |Felder Frigyes                                                                            |
-15|091|4|  5|  1|Dr.|Lamperth MÛnika                                                                           |
-15|091|4|  5|  2|   |PintÈr Attila                                                                             |
-15|123|4|  1|  3|   |HÛdos ¡rp·d                                                                               |
-15|123|4|  2|  2|Dr.|Ledniczki Istv·n                                                                          |
-15|123|4|  2|  3|   |Hossz˙ Andr·s                                                                             |
-15|130|4|  1|  2|   |Sasv·ri Tam·s                                                                             |
-15|130|4|  2|  1|   |K·rp·ti L·szlÛ MiklÛs                                                                     |
-15|130|4|  3|  1|   |Boros B·lint                                                                              |
-15|175|4|  1|  1|   |Hamvas Csaba PÈter                                                                        |
-15|175|4|  2|  1|   |Vˆlgyi Lajos                                                                              |
-15|175|4|  4|  1|   |Gˆmbˆs Katalin                                                                            |
+15|091|4|  5|  1|Dr.|Lamperth M√≥nika                                                                           |
+15|091|4|  5|  2|   |Pint√©r Attila                                                                             |
+15|123|4|  1|  3|   |H√≥dos √Årp√°d                                                                               |
+15|123|4|  2|  2|Dr.|Ledniczki Istv√°n                                                                          |
+15|123|4|  2|  3|   |Hossz√∫ Andr√°s                                                                             |
+15|130|4|  1|  2|   |Sasv√°ri Tam√°s                                                                             |
+15|130|4|  2|  1|   |K√°rp√°ti L√°szl√≥ Mikl√≥s                                                                     |
+15|130|4|  3|  1|   |Boros B√°lint                                                                              |
+15|175|4|  1|  1|   |Hamvas Csaba P√©ter                                                                        |
+15|175|4|  2|  1|   |V√∂lgyi Lajos                                                                              |
+15|175|4|  4|  1|   |G√∂mb√∂s Katalin                                                                            |
 16|077|4|  1|  1|   |Csonka Bertalan                                                                           |
-16|077|4|  2|  1|   |Bodrog L·szlÛ                                                                             |
-16|077|4|  4|  1|Dr.|Ol·h Albert                                                                               |
-16|094|4|  1|  1|   |VÈkony J·nos                                                                              |
-16|094|4|  4|  1|   |Kˆvendy Zsolt                                                                             |
-16|094|4|  5|  1|   |Szathm·ri Lajos S·ndor                                                                    |
-16|106|4|  1|  1|   |SzabÛ L·szlÛ                                                                              |
-16|106|4|  2|  1|   |Kulja Andr·s                                                                              |
-16|106|4|  3|  1|   |Tref·n J·nosnÈ                                                                            |
-16|112|4|  1|  2|   |NÈmeth Attila                                                                             |
-16|112|4|  2|  1|   |DemÈnÈ Nagy MÛnika                                                                        |
-16|112|4|  3|  1|   |TÛth Imre                                                                                 |
-16|119|4|  3|  1|   |Vass Zolt·n GÈza                                                                          |
-16|119|4|  3|  2|   |Lengyel G·bor                                                                             |
-16|119|4|  5|  1|   |Nagy L·szlÛ Zolt·n                                                                        |
-16|119|4|  5|  3|   |MikÛ D·niel                                                                               |
-16|119|4|  5|  4|Dr.|Moskovits K·roly                                                                          |
-16|119|4|  6|  1|   |PÛka Imre Tam·s                                                                           |
-16|204|4|  1|  1|   |PallÛ S·ndor                                                                              |
-16|204|4|  2|  1|   |TÛthnÈ N·csa IrÈn                                                                         |
-16|204|4|  5|  1|   |Cs·sz·r JÛzsef                                                                            |
-16|217|4|  2|  2|   |Tam·s L·szlÛnÈ                                                                            |
-16|217|4|  4|  2|   |Leveleki JÛzsef                                                                           |
-16|217|4|  6|  1|   |Sz˚cs L·szlÛnÈ                                                                            |
-17|011|4|  1|  1|   |Tak·cs L·szlÛnÈ                                                                           |
-17|011|4|  1|  2|   |SzabÛ G·bor Tam·s                                                                         |
+16|077|4|  2|  1|   |Bodrog L√°szl√≥                                                                             |
+16|077|4|  4|  1|Dr.|Ol√°h Albert                                                                               |
+16|094|4|  1|  1|   |V√©kony J√°nos                                                                              |
+16|094|4|  4|  1|   |K√∂vendy Zsolt                                                                             |
+16|094|4|  5|  1|   |Szathm√°ri Lajos S√°ndor                                                                    |
+16|106|4|  1|  1|   |Szab√≥ L√°szl√≥                                                                              |
+16|106|4|  2|  1|   |Kulja Andr√°s                                                                              |
+16|106|4|  3|  1|   |Tref√°n J√°nosn√©                                                                            |
+16|112|4|  1|  2|   |N√©meth Attila                                                                             |
+16|112|4|  2|  1|   |Dem√©n√© Nagy M√≥nika                                                                        |
+16|112|4|  3|  1|   |T√≥th Imre                                                                                 |
+16|119|4|  3|  1|   |Vass Zolt√°n G√©za                                                                          |
+16|119|4|  3|  2|   |Lengyel G√°bor                                                                             |
+16|119|4|  5|  1|   |Nagy L√°szl√≥ Zolt√°n                                                                        |
+16|119|4|  5|  3|   |Mik√≥ D√°niel                                                                               |
+16|119|4|  5|  4|Dr.|Moskovits K√°roly                                                                          |
+16|119|4|  6|  1|   |P√≥ka Imre Tam√°s                                                                           |
+16|204|4|  1|  1|   |Pall√≥ S√°ndor                                                                              |
+16|204|4|  2|  1|   |T√≥thn√© N√°csa Ir√©n                                                                         |
+16|204|4|  5|  1|   |Cs√°sz√°r J√≥zsef                                                                            |
+16|217|4|  2|  2|   |Tam√°s L√°szl√≥n√©                                                                            |
+16|217|4|  4|  2|   |Leveleki J√≥zsef                                                                           |
+16|217|4|  6|  1|   |Sz≈±cs L√°szl√≥n√©                                                                            |
+17|011|4|  1|  1|   |Tak√°cs L√°szl√≥n√©                                                                           |
+17|011|4|  1|  2|   |Szab√≥ G√°bor Tam√°s                                                                         |
 17|011|4|  3|  1|   |Ritzel Rita                                                                               |
-17|020|4|  1|  1|   |Csehi Zolt·n Mih·ly                                                                       |
-17|020|4|  2|  2|   |TÛth Gyula                                                                                |
+17|020|4|  1|  1|   |Csehi Zolt√°n Mih√°ly                                                                       |
+17|020|4|  2|  2|   |T√≥th Gyula                                                                                |
 17|020|4|  2|  3|   |Kengyel Zsuzsanna                                                                         |
-17|079|4|  1|  1|   |Herczeg JÛzsef                                                                            |
-17|079|4|  2|  1|   |Faller Dezsı                                                                              |
-17|079|4|  5|  1|   |Kov·cs S·ndor                                                                             |
-17|095|4|  1|  1|   |Zaj·k Rita                                                                                |
-17|095|4|  3|  1|   |Ilosfai G·bor                                                                             |
-17|095|4|  3|  2|   |Halmai G·bornÈ                                                                            |
-17|095|4|  4|  1|Dr.|TÛth Csaba Attila                                                                         |
-17|099|4|  2|  4|   |Szir·ki J·nos                                                                             |
-17|099|4|  5|  1|   |‹rmˆs M. Attila                                                                           |
-17|099|4|  6|  1|   |Herczig Zolt·n JÛzsef                                                                     |
-18|020|4|  2|  1|   |Luk·cs ErzsÈbet                                                                           |
-18|020|4|  2|  2|   |Makkos Istv·n                                                                             |
-18|020|4|  2|  3|Dr.|V·rnai Levente Istv·n                                                                     |
-18|095|4|  2|  1|   |Auer MiklÛs                                                                               |
-18|095|4|  3|  1|   |B·n MiklÛs                                                                                |
+17|079|4|  1|  1|   |Herczeg J√≥zsef                                                                            |
+17|079|4|  2|  1|   |Faller Dezs≈ë                                                                              |
+17|079|4|  5|  1|   |Kov√°cs S√°ndor                                                                             |
+17|095|4|  1|  1|   |Zaj√°k Rita                                                                                |
+17|095|4|  3|  1|   |Ilosfai G√°bor                                                                             |
+17|095|4|  3|  2|   |Halmai G√°born√©                                                                            |
+17|095|4|  4|  1|Dr.|T√≥th Csaba Attila                                                                         |
+17|099|4|  2|  4|   |Szir√°ki J√°nos                                                                             |
+17|099|4|  5|  1|   |√úrm√∂s M. Attila                                                                           |
+17|099|4|  6|  1|   |Herczig Zolt√°n J√≥zsef                                                                     |
+18|020|4|  2|  1|   |Luk√°cs Erzs√©bet                                                                           |
+18|020|4|  2|  2|   |Makkos Istv√°n                                                                             |
+18|020|4|  2|  3|Dr.|V√°rnai Levente Istv√°n                                                                     |
+18|095|4|  2|  1|   |Auer Mikl√≥s                                                                               |
+18|095|4|  3|  1|   |B√°n Mikl√≥s                                                                                |
 18|095|4|  5|  1|   |Czafit Csaba                                                                              |
-18|096|4|  1|  1|   |Tolnai D·vid                                                                              |
-18|096|4|  2|  1|   |Giczy JÛzsef                                                                              |
-18|096|4|  4|  1|   |R·ba L·szlÛ                                                                               |
+18|096|4|  1|  1|   |Tolnai D√°vid                                                                              |
+18|096|4|  2|  1|   |Giczy J√≥zsef                                                                              |
+18|096|4|  4|  1|   |R√°ba L√°szl√≥                                                                               |
 18|167|4|  1|  1|   |Kiss Zsolt                                                                                |
-18|167|4|  3|  1|   |NÈmeth Zsolt                                                                              |
-18|167|4|  5|  1|   |SzabÛ Lajos                                                                               |
-18|186|4|  1|  1|   |Balassa PÈter                                                                             |
-18|186|4|  2|  8|   |HarangozÛ Bertalan                                                                        |
-18|186|4|  4|  1|   |Horv·th Zolt·n                                                                            |
-18|186|4|  5|  1|Dr.|Ipkovich Gyˆrgy                                                                           |
-18|186|4|  5|  2|   |NÈmeth K·lm·n                                                                             |
-18|186|4|  5|  3|Dr.|Horv·th Attila                                                                            |
-19|003|4|  1|  3|   |P·kai PÈter                                                                               |
-19|003|4|  2|  1|   |…kes JÛzsef L·szlÛ                                                                        |
+18|167|4|  3|  1|   |N√©meth Zsolt                                                                              |
+18|167|4|  5|  1|   |Szab√≥ Lajos                                                                               |
+18|186|4|  1|  1|   |Balassa P√©ter                                                                             |
+18|186|4|  2|  8|   |Harangoz√≥ Bertalan                                                                        |
+18|186|4|  4|  1|   |Horv√°th Zolt√°n                                                                            |
+18|186|4|  5|  1|Dr.|Ipkovich Gy√∂rgy                                                                           |
+18|186|4|  5|  2|   |N√©meth K√°lm√°n                                                                             |
+18|186|4|  5|  3|Dr.|Horv√°th Attila                                                                            |
+19|003|4|  1|  3|   |P√°kai P√©ter                                                                               |
+19|003|4|  2|  1|   |√âkes J√≥zsef L√°szl√≥                                                                        |
 19|003|4|  2|  4|   |Ravasz Tibor Zsolt                                                                        |
 19|003|4|  3|  1|   |Rosta Albert                                                                              |
-19|026|4|  2|  1|Dr.|Szalai G·bor                                                                              |
-19|026|4|  2|  2|   |Nagy Jenı                                                                                 |
-19|026|4|  3|  1|   |UjhelyinÈ K·rolyi Krisztina                                                               |
-19|153|4|  2|  1|   |Erıss Bulcs˙                                                                              |
-19|153|4|  3|  1|   |Grıber Attila                                                                             |
-19|153|4|  3|  2|   |Gıgˆs Zolt·n                                                                              |
-19|153|4|  3|  3|   |Pingiczer S·ndor                                                                          |
-19|188|4|  2|  1|   |DobÛ Zolt·n                                                                               |
+19|026|4|  2|  1|Dr.|Szalai G√°bor                                                                              |
+19|026|4|  2|  2|   |Nagy Jen≈ë                                                                                 |
+19|026|4|  3|  1|   |Ujhelyin√© K√°rolyi Krisztina                                                               |
+19|153|4|  2|  1|   |Er≈ëss Bulcs√∫                                                                              |
+19|153|4|  3|  1|   |Gr≈ëber Attila                                                                             |
+19|153|4|  3|  2|   |G≈ëg√∂s Zolt√°n                                                                              |
+19|153|4|  3|  3|   |Pingiczer S√°ndor                                                                          |
+19|188|4|  2|  1|   |Dob√≥ Zolt√°n                                                                               |
 19|188|4|  2|  2|   |Szalkai Zsolt Attila                                                                      |
-19|188|4|  3|  1|   |LÈvai JÛzsef                                                                              |
-19|201|4|  1|  1|   |M·tÈ JÛzsef                                                                               |
-19|201|4|  2|  1|   |De·k Istv·nnÈ                                                                             |
-19|201|4|  2|  2|   |Falussy S·ndor                                                                            |
-19|203|4|  1|  1|   |Gerstm·r Ferenc                                                                           |
-19|203|4|  2|  1|   |ForgÛnÈ Kelemen Judit Andrea                                                              |
+19|188|4|  3|  1|   |L√©vai J√≥zsef                                                                              |
+19|201|4|  1|  1|   |M√°t√© J√≥zsef                                                                               |
+19|201|4|  2|  1|   |De√°k Istv√°nn√©                                                                             |
+19|201|4|  2|  2|   |Falussy S√°ndor                                                                            |
+19|203|4|  1|  1|   |Gerstm√°r Ferenc                                                                           |
+19|203|4|  2|  1|   |Forg√≥n√© Kelemen Judit Andrea                                                              |
 19|203|4|  4|  1|   |Hartmann Ferenc                                                                           |
-19|203|4|  4|  2|   |Katanics S·ndor                                                                           |
+19|203|4|  4|  2|   |Katanics S√°ndor                                                                           |
 19|203|4|  5|  2|   |Nagy Piroska                                                                              |
 20|093|4|  1|  1|   |Selmeczy Zsuzsanna                                                                        |
-20|093|4|  2|  1|   |SzabÛ Gyˆrgy                                                                              |
-20|093|4|  2|  2|   |Moh·csi JÛzsef                                                                            |
-20|134|4|  3|  1|Dr.|K·rolyi Attila JÛzsef                                                                     |
+20|093|4|  2|  1|   |Szab√≥ Gy√∂rgy                                                                              |
+20|093|4|  2|  2|   |Moh√°csi J√≥zsef                                                                            |
+20|134|4|  3|  1|Dr.|K√°rolyi Attila J√≥zsef                                                                     |
 20|134|4|  3|  2|Dr.|Fodor Csaba                                                                               |
-20|134|4|  4|  1|Dr.|NÈmeth Gyˆrgyi …va                                                                        |
-20|134|4|  5|  1|   |Marton Istv·n                                                                             |
-20|134|4|  7|  1|   |G·bris J·cint                                                                             |
-20|231|4|  2|  1|   |Pete RÛbert                                                                               |
-20|231|4|  2|  2|   |PintÈrnÈ K·lm·n Marianna                                                                  |
-20|231|4|  3|  1|   |Major G·bor                                                                               |
+20|134|4|  4|  1|Dr.|N√©meth Gy√∂rgyi √âva                                                                        |
+20|134|4|  5|  1|   |Marton Istv√°n                                                                             |
+20|134|4|  7|  1|   |G√°bris J√°cint                                                                             |
+20|231|4|  2|  1|   |Pete R√≥bert                                                                               |
+20|231|4|  2|  2|   |Pint√©rn√© K√°lm√°n Marianna                                                                  |
+20|231|4|  3|  1|   |Major G√°bor                                                                               |
 20|231|4|  3|  2|   |Kiss Ferenc                                                                               |
 20|231|4|  5|  1|Dr.|Kocsis Gyula                                                                              |

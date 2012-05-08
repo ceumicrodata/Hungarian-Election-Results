@@ -1,153 +1,153 @@
-01| 1|FIDESZ-Magyar Polg·ri SzˆvetsÈg KeresztÈnydemokrata NÈpp·rt                                 |0356982|02|FIDESZ,KDNP                                                 
-01| 2|MAGYAR SZOCIALISTA P¡RT                                                                     |0445059|01|MSZP                                                        
-01| 3|MI…P-Jobbik a Harmadik ⁄t                                                                   |0029506|01|MI…P-Jobbik                                                 
-01| 4|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                                |0006327|01|MUNK¡SP¡RT                                                  
-01| 5|SZABAD DEMOKRAT¡K SZ÷VETS…GE A MAGYAR LIBER¡LIS P¡RT                                        |0124887|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-01| 6|MAGYAR DEMOKRATA F”RUM                                                                      |0053908|01|MDF                                                         
-02| 1|SZABAD DEMOKRAT¡K SZ÷VETS…GE- A MAGYAR LIBER¡LIS P¡RT                                       |0012368|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-02| 2|MAGYAR SZOCIALISTA P¡RT                                                                     |0104865|01|MSZP                                                        
-02| 3|MAGYAR DEMOKRATA F”RUM                                                                      |0011069|01|MDF                                                         
-02| 4|MAGYAR VID…K …S POLG¡RI P¡RT                                                                |0000344|01|MVPP                                                        
-02| 5|FIDESZ-Magyar Polg·ri SzˆvetsÈg KeresztÈnydemokrata NÈpp·rt                                 |0083132|02|FIDESZ,KDNP                                                 
-02| 6|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                                |0000881|01|MUNK¡SP¡RT                                                  
-02| 7|KERESZT…NYDEMOKRATAP¡RT- KERESZT…NYSZOCI¡LIS CENTRUM ÷SSZEFOG¡S                             |0000316|01|KERESZT…NYDEMOKRATAP¡RT                                     
-02| 8|MCF ROMA ÷SSZEFOG¡S P¡RT                                                                    |0000697|01|MCF ROMA ÷SSZEFOG¡S P¡RT                                    
-02| 9|MAGYARORSZ¡GI MUNK¡SP¡RT 2006                                                               |0000556|01|MUNK¡SP¡RT 2006                                             
-02|10|MI…P-Jobbik a Harmadik ⁄t                                                                   |0002783|01|MI…P-Jobbik                                                 
-03| 1|MCF ROMA ÷SSZEFOG¡S P¡RT                                                                    |0000955|01|MCF ROMA ÷SSZEFOG¡S P¡RT                                    
-03| 2|  MAGYAR SZOCIALISTA P¡RT                                                                   |0101502|01|MSZP                                                        
-03| 3|MAGYAR DEMOKRATA F”RUM                                                                      |0014017|01|MDF                                                         
-03| 4|FIDESZ MAGYAR POLG¡RISZ÷VETS…G KERESZT…NYDEMOKRATA N…PP¡RT                                  |0136252|02|FIDESZ,KDNP                                                 
-03| 5|F‹GGETLEN KISGAZDA-, NEMZETI EGYS…G P¡RT                                                    |0000445|01|F‹GGETLEN KISGAZDA NEMZETI E.P                              
-03| 6|MI…P-Jobbik a Harmadik ⁄t                                                                   |0005142|01|MI…P-Jobbik                                                 
-03| 7|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                          |0001833|01|CENTRUM                                                     
-03| 8|SZABAD DEMOKRAT¡K SZ÷VETS…GE- A MAGYAR LIBER¡LIS P¡RT                                       |0013501|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-04| 1|FIDESZ-Magyar Polg·ri SzˆvetsÈg KeresztÈnydemokrata NÈpp·rt                                 |0085144|02|FIDESZ,KDNP                                                 
-04| 2|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                                |0002127|01|MUNK¡SP¡RT                                                  
-04| 3|KERESZT…NYDEMOKRATAP¡RT- KERESZT…NYSZOCI¡LIS CENTRUM ÷SSZEFOG¡S                             |0000131|01|KERESZT…NYDEMOKRATAP¡RT                                     
-04| 4|MAGYAR SZOCIALISTA P¡RT                                                                     |0086679|01|MSZP                                                        
-04| 5|SZABAD DEMOKRAT¡K SZ÷VETS…GE-A MAGYAR LIBER¡LIS P¡RT                                        |0008856|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-04| 6|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                          |0001700|01|CENTRUM                                                     
-04| 7|MAGYAR DEMOKRATA F”RUM                                                                      |0009607|01|MDF                                                         
-04| 8|F‹GGETLEN KISGAZDA, F÷LDMUNK¡S …S POLG¡RI P¡RT                                              |0000517|01|F‹GGETLEN KISGAZDAP¡RT                                      
-04| 9|MI…P-Jobbik a Harmadik ⁄t                                                                   |0003236|01|MI…P-Jobbik                                                 
-04|10|MAGYAR VID…K …S POLG¡RI P¡RT                                                                |0000212|01|MVPP                                                        
-05| 1|MI…P-Jobbik a Harmadik ⁄t                                                                   |0008325|01|MI…P-Jobbik                                                 
-05| 2|FIDESZ-MagyarPolg·ri SzˆvetsÈg KeresztÈnydemokrata NÈpp·rt                                  |0138058|02|FIDESZ,KDNP                                                 
-05| 3|MAGYAR SZOCIALISTA P¡RT                                                                     |0184166|01|MSZP                                                        
-05| 4|CENTRUM ÷sszefog·s Magyarorsz·gÈrt                                                          |0002413|01|CENTRUM                                                     
-05| 5|SZABAD DEMOKRAT¡K SZ÷VETS…GE- A MAGYAR LIBER¡LIS P¡RT                                       |0013986|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-05| 6|MAGYAR DEMOKRATA F”RUM                                                                      |0013865|01|MDF                                                         
-05| 7|MAGYAR VID…K …S POLG¡RI P¡RT                                                                |0000745|01|MVPP                                                        
-06| 1|MAGYAR SZOCIALISTA P¡RT                                                                     |0097772|01|MSZP                                                        
-06| 2|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                                |0001750|01|MUNK¡SP¡RT                                                  
-06| 3|MAGYAR DEMOKRATA F”RUM                                                                      |0010782|01|MDF                                                         
-06| 4|MI…P-Jobbik a Harmadik ⁄t                                                                   |0003591|01|MI…P-Jobbik                                                 
-06| 5| FIDESZ- Magyar Polg·ri SzˆvetsÈg KERESZT…NYDEMOKRATA N…PP¡RT                               |0092628|02|FIDESZ,KDNP                                                 
-06| 6|Z÷LDEK P¡RTJA                                                                               |0001400|01|Z÷LDEK P¡RTJA                                               
-06| 7|SZABAD DEMOKRAT¡K SZ÷VETS…GE - A MAGYAR LIBER¡LIS P¡RT                                      |0011722|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-06| 8|CENTRUM ÷sszefog·s Magyarorsz·gÈrt                                                          |0001777|01|CENTRUM                                                     
-07| 1|F¸ggetlen Kisgazda-, Nemzeti EgysÈg P·rt                                                    |0000291|01|F‹GGETLEN KISGAZDA NEMZETI E.P                              
-07| 2|Magyar Demokrata FÛrum                                                                      |0012465|01|MDF                                                         
-07| 3|SZABAD DEMOKRAT¡K SZ÷VETS…GE - A MAGYAR LIBER¡LIS P¡RT                                      |0013465|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-07| 4|Magyar Kommunista Munk·sp·rt                                                                |0001489|01|MUNK¡SP¡RT                                                  
-07| 5|MI…P-Jobbik a Harmadik ⁄t                                                                   |0004294|01|MI…P-Jobbik                                                 
-07| 6|MAGYAR SZOCIALISTA P¡RT                                                                     |0098202|01|MSZP                                                        
-07| 7|Fidesz-Magyar Polg·ri SzˆvetsÈg KeresztÈnydemokrata NÈpp·rt                                 |0097199|02|FIDESZ,KDNP                                                 
-08| 1|MI…P-Jobbik a Harmadik ⁄t                                                                   |0004775|01|MI…P-Jobbik                                                 
-08| 2|SZABAD DEMOKRAT¡K SZ÷VETS…GE - A MAGYAR LIBER¡LIS P¡RT                                      |0012198|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-08| 3|MAGYAR DEMOKRATA F”RUM                                                                      |0013957|01|MDF                                                         
-08| 4|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                                |0001346|01|MUNK¡SP¡RT                                                  
-08| 5|  MAGYAR SZOCIALISTA P¡RT                                                                   |0093360|01|MSZP                                                        
-08| 6|MAGYAR VID…K …S POLG¡RI P¡RT                                                                |0000538|01|MVPP                                                        
-08| 7|KERESZT…NYDEMOKRATAP¡RT- KERESZT…NYSZOCI¡LIS CENTRUM ÷SSZEFOG¡S                             |0000381|01|KERESZT…NYDEMOKRATAP¡RT                                     
-08| 8|FIDESZ-MAGYAR POLG¡RI SZ÷VETS…G KERESZT…NYDEMOKRATA N…PP¡RT                                 |0121603|02|FIDESZ,KDNP                                                 
-09| 1|FIDESZ-MAGYARPOLG¡RI SZ÷VETS…G KERESZT…NYDEMOKRATA N…PP¡RT                                  |0131592|02|FIDESZ,KDNP                                                 
-09| 2|MAGYAR VID…K …S POLG¡RI P¡RT                                                                |0000413|01|MVPP                                                        
-09| 3|MI…P-JOBBIK A HARMADIK ⁄T                                                                   |0005628|01|MI…P-Jobbik                                                 
-09| 4|Z÷LDEK P¡RTJA                                                                               |0000820|01|Z÷LDEK P¡RTJA                                               
-09| 5|KERESZT…NYDEMOKRATAP¡RT- KERESZT…NYSZOCI¡LIS CENTRUM ÷SSZEFOG¡S                             |0000158|01|KERESZT…NYDEMOKRATAP¡RT                                     
-09| 6|MAGYAR SZOCIALISTA P¡RT                                                                     |0109561|01|MSZP                                                        
-09| 7|SZABAD DEMOKRAT¡K SZ÷VETS…GE A MAGYAR LIBER¡LIS P¡RT                                        |0010891|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-09| 8|MAGYAR DEMOKRATA F”RUM                                                                      |0014830|01|MDF                                                         
-09| 9|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                          |0001635|01|CENTRUM                                                     
-09|10|F‹GGETLEN KISGAZDA F÷LDMUNK¡S …S POLG¡RI P¡RT                                               |0000321|01|F‹GGETLEN KISGAZDAP¡RT                                      
-10| 1|KERESZT…NYDEMOKRATAP¡RT KERESZT…NYSZOCI¡LIS CENTRUM ÷SSZEFOG¡S                              |0000280|01|KERESZT…NYDEMOKRATAP¡RT                                     
-10| 2|Z÷LDEK P¡RTJA                                                                               |0000650|01|Z÷LDEK P¡RTJA                                               
-10| 3|MAGYAR VID…K …S POLG¡RI P¡RT                                                                |0000227|01|MVPP                                                        
-10| 4|SZABAD DEMOKRAT¡K SZ÷VETS…GE - A MAGYAR LIBER¡LIS P¡RT                                      |0008736|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-10| 5|MCF ROMA ÷SSZEFOG¡S P¡RT                                                                    |0000546|01|MCF ROMA ÷SSZEFOG¡S P¡RT                                    
-10| 6|F‹GGETLEN KISGAZDA -, NEMZETI EGYS…G P¡RT                                                   |0000153|01|F‹GGETLEN KISGAZDA NEMZETI E.P                              
-10| 7|MAGYAR SZOCIALISTA P¡RT                                                                     |0083814|01|MSZP                                                        
-10| 8|FIDESZ-MagyarPolg·ri SzˆvetsÈg KERESZT…NYDEMOKRATA N…PP¡RT                                  |0063320|02|FIDESZ,KDNP                                                 
-10| 9|MAGYAR DEMOKRATA F”RUM                                                                      |0007560|01|MDF                                                         
-10|10|MI…P-JOBBIK A HARMADIK ⁄T                                                                   |0005115|01|MI…P-Jobbik                                                 
-11| 1|FIDESZ-Magyar Polg·ri SzˆvetsÈg KERESZT…NYDEMOKRATA N…PP¡RT                                 |0080373|02|FIDESZ,KDNP                                                 
-11| 2|MCF ROMA ÷SSZEFOG¡S P¡RT                                                                    |0000224|01|MCF ROMA ÷SSZEFOG¡S P¡RT                                    
-11| 3|MAGYAR SZOCIALISTA P¡RT                                                                     |0095042|01|MSZP                                                        
-11| 4|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                                |0002640|01|MUNK¡SP¡RT                                                  
-11| 5|MAGYAR DEMOKRATA F”RUM                                                                      |0010003|01|MDF                                                         
-11| 6|SZABAD DEMOKRAT¡K SZ÷VETS…GE A MAGYAR LIBER¡LIS P¡RT                                        |0009761|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-11| 7|MI…P-Jobbik a Harmadik ⁄t                                                                   |0004183|01|MI…P-Jobbik                                                 
-12| 1|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                                |0001212|01|MUNK¡SP¡RT                                                  
-12| 2|MAGYAR DEMOKRATA F”RUM                                                                      |0007512|01|MDF                                                         
-12| 3|FIDESZ-MAGYARPOLG¡RI SZ÷VETS…G KERESZT…NYDEMOKRATA N…PP¡RT                                  |0064094|02|FIDESZ,KDNP                                                 
-12| 4|MI…P-JOBBIK A HARMADIK ⁄T                                                                   |0002526|01|MI…P-Jobbik                                                 
-12| 5|SZABAD DEMOKRAT¡K SZ÷VETS…GE- A MAGYAR LIBER¡LIS P¡RT                                       |0010560|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-12| 6|MAGYAR SZOCIALISTA P¡RT                                                                     |0082836|01|MSZP                                                        
-13| 1|FIDESZ - MAGYAR POLG¡RI SZ÷VETS…G KERESZT…NYDEMOKRATA N…PP¡RT                               |0046902|02|FIDESZ,KDNP                                                 
-13| 2|SZABAD DEMOKRAT¡K SZ÷VETS…GE - A MAGYAR LIBER¡LIS P¡RT                                      |0004900|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-13| 3|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                                |0001809|01|MUNK¡SP¡RT                                                  
-13| 4|MCF ROMA ÷SSZEFOG¡S P¡RT                                                                    |0001053|01|MCF ROMA ÷SSZEFOG¡S P¡RT                                    
-13| 5|KERESZT…NYDEMOKRATAP¡RT- KERESZT…NYSZOCI¡LIS CENTRUM ÷SSZEFOG¡S                             |0000241|01|KERESZT…NYDEMOKRATAP¡RT                                     
-13| 6|MAGYAR DEMOKRATA F”RUM                                                                      |0005369|01|MDF                                                         
-13| 7|MI…P - JOBBIK A HARMADIK ⁄T                                                                 |0002466|01|MI…P-Jobbik                                                 
-13| 8|MAGYAR SZOCIALISTA P¡RT                                                                     |0050732|01|MSZP                                                        
-13| 9|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                          |0000753|01|CENTRUM                                                     
-14| 1|CENTRUM ÷sszefog·s Magyarorsz·gÈrt                                                          |0006302|01|CENTRUM                                                     
-14| 2|FIDESZ Magyar Polg·ri SzˆvetsÈg KersztÈny Demokrata NÈpp·rt                                 |0258007|02|FIDESZ,KDNP                                                 
+01| 1|FIDESZ-Magyar Polg√°ri Sz√∂vets√©g Kereszt√©nydemokrata N√©pp√°rt                                 |0356982|02|FIDESZ,KDNP                                                 
+01| 2|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0445059|01|MSZP                                                        
+01| 3|MI√âP-Jobbik a Harmadik √öt                                                                   |0029506|01|MI√âP-Jobbik                                                 
+01| 4|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                                |0006327|01|MUNK√ÅSP√ÅRT                                                  
+01| 5|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE A MAGYAR LIBER√ÅLIS P√ÅRT                                        |0124887|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+01| 6|MAGYAR DEMOKRATA F√ìRUM                                                                      |0053908|01|MDF                                                         
+02| 1|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE- A MAGYAR LIBER√ÅLIS P√ÅRT                                       |0012368|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+02| 2|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0104865|01|MSZP                                                        
+02| 3|MAGYAR DEMOKRATA F√ìRUM                                                                      |0011069|01|MDF                                                         
+02| 4|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                                |0000344|01|MVPP                                                        
+02| 5|FIDESZ-Magyar Polg√°ri Sz√∂vets√©g Kereszt√©nydemokrata N√©pp√°rt                                 |0083132|02|FIDESZ,KDNP                                                 
+02| 6|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                                |0000881|01|MUNK√ÅSP√ÅRT                                                  
+02| 7|KERESZT√âNYDEMOKRATAP√ÅRT- KERESZT√âNYSZOCI√ÅLIS CENTRUM √ñSSZEFOG√ÅS                             |0000316|01|KERESZT√âNYDEMOKRATAP√ÅRT                                     
+02| 8|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                                                    |0000697|01|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                    
+02| 9|MAGYARORSZ√ÅGI MUNK√ÅSP√ÅRT 2006                                                               |0000556|01|MUNK√ÅSP√ÅRT 2006                                             
+02|10|MI√âP-Jobbik a Harmadik √öt                                                                   |0002783|01|MI√âP-Jobbik                                                 
+03| 1|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                                                    |0000955|01|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                    
+03| 2|  MAGYAR SZOCIALISTA P√ÅRT                                                                   |0101502|01|MSZP                                                        
+03| 3|MAGYAR DEMOKRATA F√ìRUM                                                                      |0014017|01|MDF                                                         
+03| 4|FIDESZ MAGYAR POLG√ÅRISZ√ñVETS√âG KERESZT√âNYDEMOKRATA N√âPP√ÅRT                                  |0136252|02|FIDESZ,KDNP                                                 
+03| 5|F√úGGETLEN KISGAZDA-, NEMZETI EGYS√âG P√ÅRT                                                    |0000445|01|F√úGGETLEN KISGAZDA NEMZETI E.P                              
+03| 6|MI√âP-Jobbik a Harmadik √öt                                                                   |0005142|01|MI√âP-Jobbik                                                 
+03| 7|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                          |0001833|01|CENTRUM                                                     
+03| 8|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE- A MAGYAR LIBER√ÅLIS P√ÅRT                                       |0013501|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+04| 1|FIDESZ-Magyar Polg√°ri Sz√∂vets√©g Kereszt√©nydemokrata N√©pp√°rt                                 |0085144|02|FIDESZ,KDNP                                                 
+04| 2|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                                |0002127|01|MUNK√ÅSP√ÅRT                                                  
+04| 3|KERESZT√âNYDEMOKRATAP√ÅRT- KERESZT√âNYSZOCI√ÅLIS CENTRUM √ñSSZEFOG√ÅS                             |0000131|01|KERESZT√âNYDEMOKRATAP√ÅRT                                     
+04| 4|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0086679|01|MSZP                                                        
+04| 5|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE-A MAGYAR LIBER√ÅLIS P√ÅRT                                        |0008856|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+04| 6|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                          |0001700|01|CENTRUM                                                     
+04| 7|MAGYAR DEMOKRATA F√ìRUM                                                                      |0009607|01|MDF                                                         
+04| 8|F√úGGETLEN KISGAZDA, F√ñLDMUNK√ÅS √âS POLG√ÅRI P√ÅRT                                              |0000517|01|F√úGGETLEN KISGAZDAP√ÅRT                                      
+04| 9|MI√âP-Jobbik a Harmadik √öt                                                                   |0003236|01|MI√âP-Jobbik                                                 
+04|10|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                                |0000212|01|MVPP                                                        
+05| 1|MI√âP-Jobbik a Harmadik √öt                                                                   |0008325|01|MI√âP-Jobbik                                                 
+05| 2|FIDESZ-MagyarPolg√°ri Sz√∂vets√©g Kereszt√©nydemokrata N√©pp√°rt                                  |0138058|02|FIDESZ,KDNP                                                 
+05| 3|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0184166|01|MSZP                                                        
+05| 4|CENTRUM √ñsszefog√°s Magyarorsz√°g√©rt                                                          |0002413|01|CENTRUM                                                     
+05| 5|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE- A MAGYAR LIBER√ÅLIS P√ÅRT                                       |0013986|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+05| 6|MAGYAR DEMOKRATA F√ìRUM                                                                      |0013865|01|MDF                                                         
+05| 7|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                                |0000745|01|MVPP                                                        
+06| 1|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0097772|01|MSZP                                                        
+06| 2|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                                |0001750|01|MUNK√ÅSP√ÅRT                                                  
+06| 3|MAGYAR DEMOKRATA F√ìRUM                                                                      |0010782|01|MDF                                                         
+06| 4|MI√âP-Jobbik a Harmadik √öt                                                                   |0003591|01|MI√âP-Jobbik                                                 
+06| 5| FIDESZ- Magyar Polg√°ri Sz√∂vets√©g KERESZT√âNYDEMOKRATA N√âPP√ÅRT                               |0092628|02|FIDESZ,KDNP                                                 
+06| 6|Z√ñLDEK P√ÅRTJA                                                                               |0001400|01|Z√ñLDEK P√ÅRTJA                                               
+06| 7|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE - A MAGYAR LIBER√ÅLIS P√ÅRT                                      |0011722|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+06| 8|CENTRUM √ñsszefog√°s Magyarorsz√°g√©rt                                                          |0001777|01|CENTRUM                                                     
+07| 1|F√ºggetlen Kisgazda-, Nemzeti Egys√©g P√°rt                                                    |0000291|01|F√úGGETLEN KISGAZDA NEMZETI E.P                              
+07| 2|Magyar Demokrata F√≥rum                                                                      |0012465|01|MDF                                                         
+07| 3|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE - A MAGYAR LIBER√ÅLIS P√ÅRT                                      |0013465|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+07| 4|Magyar Kommunista Munk√°sp√°rt                                                                |0001489|01|MUNK√ÅSP√ÅRT                                                  
+07| 5|MI√âP-Jobbik a Harmadik √öt                                                                   |0004294|01|MI√âP-Jobbik                                                 
+07| 6|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0098202|01|MSZP                                                        
+07| 7|Fidesz-Magyar Polg√°ri Sz√∂vets√©g Kereszt√©nydemokrata N√©pp√°rt                                 |0097199|02|FIDESZ,KDNP                                                 
+08| 1|MI√âP-Jobbik a Harmadik √öt                                                                   |0004775|01|MI√âP-Jobbik                                                 
+08| 2|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE - A MAGYAR LIBER√ÅLIS P√ÅRT                                      |0012198|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+08| 3|MAGYAR DEMOKRATA F√ìRUM                                                                      |0013957|01|MDF                                                         
+08| 4|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                                |0001346|01|MUNK√ÅSP√ÅRT                                                  
+08| 5|  MAGYAR SZOCIALISTA P√ÅRT                                                                   |0093360|01|MSZP                                                        
+08| 6|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                                |0000538|01|MVPP                                                        
+08| 7|KERESZT√âNYDEMOKRATAP√ÅRT- KERESZT√âNYSZOCI√ÅLIS CENTRUM √ñSSZEFOG√ÅS                             |0000381|01|KERESZT√âNYDEMOKRATAP√ÅRT                                     
+08| 8|FIDESZ-MAGYAR POLG√ÅRI SZ√ñVETS√âG KERESZT√âNYDEMOKRATA N√âPP√ÅRT                                 |0121603|02|FIDESZ,KDNP                                                 
+09| 1|FIDESZ-MAGYARPOLG√ÅRI SZ√ñVETS√âG KERESZT√âNYDEMOKRATA N√âPP√ÅRT                                  |0131592|02|FIDESZ,KDNP                                                 
+09| 2|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                                |0000413|01|MVPP                                                        
+09| 3|MI√âP-JOBBIK A HARMADIK √öT                                                                   |0005628|01|MI√âP-Jobbik                                                 
+09| 4|Z√ñLDEK P√ÅRTJA                                                                               |0000820|01|Z√ñLDEK P√ÅRTJA                                               
+09| 5|KERESZT√âNYDEMOKRATAP√ÅRT- KERESZT√âNYSZOCI√ÅLIS CENTRUM √ñSSZEFOG√ÅS                             |0000158|01|KERESZT√âNYDEMOKRATAP√ÅRT                                     
+09| 6|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0109561|01|MSZP                                                        
+09| 7|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE A MAGYAR LIBER√ÅLIS P√ÅRT                                        |0010891|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+09| 8|MAGYAR DEMOKRATA F√ìRUM                                                                      |0014830|01|MDF                                                         
+09| 9|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                          |0001635|01|CENTRUM                                                     
+09|10|F√úGGETLEN KISGAZDA F√ñLDMUNK√ÅS √âS POLG√ÅRI P√ÅRT                                               |0000321|01|F√úGGETLEN KISGAZDAP√ÅRT                                      
+10| 1|KERESZT√âNYDEMOKRATAP√ÅRT KERESZT√âNYSZOCI√ÅLIS CENTRUM √ñSSZEFOG√ÅS                              |0000280|01|KERESZT√âNYDEMOKRATAP√ÅRT                                     
+10| 2|Z√ñLDEK P√ÅRTJA                                                                               |0000650|01|Z√ñLDEK P√ÅRTJA                                               
+10| 3|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                                |0000227|01|MVPP                                                        
+10| 4|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE - A MAGYAR LIBER√ÅLIS P√ÅRT                                      |0008736|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+10| 5|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                                                    |0000546|01|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                    
+10| 6|F√úGGETLEN KISGAZDA -, NEMZETI EGYS√âG P√ÅRT                                                   |0000153|01|F√úGGETLEN KISGAZDA NEMZETI E.P                              
+10| 7|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0083814|01|MSZP                                                        
+10| 8|FIDESZ-MagyarPolg√°ri Sz√∂vets√©g KERESZT√âNYDEMOKRATA N√âPP√ÅRT                                  |0063320|02|FIDESZ,KDNP                                                 
+10| 9|MAGYAR DEMOKRATA F√ìRUM                                                                      |0007560|01|MDF                                                         
+10|10|MI√âP-JOBBIK A HARMADIK √öT                                                                   |0005115|01|MI√âP-Jobbik                                                 
+11| 1|FIDESZ-Magyar Polg√°ri Sz√∂vets√©g KERESZT√âNYDEMOKRATA N√âPP√ÅRT                                 |0080373|02|FIDESZ,KDNP                                                 
+11| 2|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                                                    |0000224|01|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                    
+11| 3|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0095042|01|MSZP                                                        
+11| 4|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                                |0002640|01|MUNK√ÅSP√ÅRT                                                  
+11| 5|MAGYAR DEMOKRATA F√ìRUM                                                                      |0010003|01|MDF                                                         
+11| 6|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE A MAGYAR LIBER√ÅLIS P√ÅRT                                        |0009761|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+11| 7|MI√âP-Jobbik a Harmadik √öt                                                                   |0004183|01|MI√âP-Jobbik                                                 
+12| 1|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                                |0001212|01|MUNK√ÅSP√ÅRT                                                  
+12| 2|MAGYAR DEMOKRATA F√ìRUM                                                                      |0007512|01|MDF                                                         
+12| 3|FIDESZ-MAGYARPOLG√ÅRI SZ√ñVETS√âG KERESZT√âNYDEMOKRATA N√âPP√ÅRT                                  |0064094|02|FIDESZ,KDNP                                                 
+12| 4|MI√âP-JOBBIK A HARMADIK √öT                                                                   |0002526|01|MI√âP-Jobbik                                                 
+12| 5|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE- A MAGYAR LIBER√ÅLIS P√ÅRT                                       |0010560|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+12| 6|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0082836|01|MSZP                                                        
+13| 1|FIDESZ - MAGYAR POLG√ÅRI SZ√ñVETS√âG KERESZT√âNYDEMOKRATA N√âPP√ÅRT                               |0046902|02|FIDESZ,KDNP                                                 
+13| 2|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE - A MAGYAR LIBER√ÅLIS P√ÅRT                                      |0004900|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+13| 3|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                                |0001809|01|MUNK√ÅSP√ÅRT                                                  
+13| 4|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                                                    |0001053|01|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                    
+13| 5|KERESZT√âNYDEMOKRATAP√ÅRT- KERESZT√âNYSZOCI√ÅLIS CENTRUM √ñSSZEFOG√ÅS                             |0000241|01|KERESZT√âNYDEMOKRATAP√ÅRT                                     
+13| 6|MAGYAR DEMOKRATA F√ìRUM                                                                      |0005369|01|MDF                                                         
+13| 7|MI√âP - JOBBIK A HARMADIK √öT                                                                 |0002466|01|MI√âP-Jobbik                                                 
+13| 8|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0050732|01|MSZP                                                        
+13| 9|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                          |0000753|01|CENTRUM                                                     
+14| 1|CENTRUM √ñsszefog√°s Magyarorsz√°g√©rt                                                          |0006302|01|CENTRUM                                                     
+14| 2|FIDESZ Magyar Polg√°ri Sz√∂vets√©g Kerszt√©ny Demokrata N√©pp√°rt                                 |0258007|02|FIDESZ,KDNP                                                 
 14| 3|MAGYAR DEMOKRATA FORUM                                                                      |0031937|01|MDF                                                         
-14| 4|Szabad Demokrat·k SzˆvetsÈge                                                                |0045562|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-14| 5|Magyar Szocialista P·rt                                                                     |0253588|01|MSZP                                                        
-14| 6|MI…P-Jobbik a Harmadik ⁄t                                                                   |0018074|01|MI…P-Jobbik                                                 
-15| 1|SZABAD DEMOKRAT¡K SZ÷VETS…GE - A MAGYAR LIBER¡LIS P¡RT                                      |0006929|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-15| 2|MAGYAR DEMOKRATA F”RUM                                                                      |0007168|01|MDF                                                         
-15| 3|MI…P-Jobbik a Harmadik ⁄t                                                                   |0002811|01|MI…P-Jobbik                                                 
-15| 4|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                                |0001166|01|MUNK¡SP¡RT                                                  
-15| 5|MAGYAR SZOCIALISTA P¡RT                                                                     |0073388|01|MSZP                                                        
-15| 6|FIDESZ-MagyarPolg·ri SzˆvetsÈg KeresztÈnydemokrata NÈpp·rt                                  |0080260|02|FIDESZ,KDNP                                                 
-16| 1|MAGYAROK EGYM¡S…RT SZ÷VETS…GE                                                               |0000767|01|MESZ                                                        
-16| 2|MI…P-Jobbik a Harmadik ⁄t                                                                   |0004735|01|MI…P-Jobbik                                                 
-16| 3|MAGYAR DEMOKRATA F”RUM                                                                      |0011947|01|MDF                                                         
-16| 4| MAGYAR SZOCIALISTA P¡RT                                                                    |0130555|01|MSZP                                                        
-16| 5|MCF ROMA ÷SSZEFOG¡S P¡RT                                                                    |0000430|01|MCF ROMA ÷SSZEFOG¡S P¡RT                                    
-16| 6|FIDESZ-Magyar Polg·ri SzˆvetsÈg KeresztÈnydemokrata NÈpp·rt                                 |0127641|02|FIDESZ,KDNP                                                 
-16| 7|KERESSZT…NYDEMOKRATAP¡RT- KERESZT…NYSZOCI¡LIS CENTRUM ÷SSZEFOG¡S                            |0000281|01|KERESZT…NYDEMOKRATAP¡RT                                     
-16| 8|SZABAD DEMOKRAT¡K SZ÷VETS…GE - A MAGYAR LIBER¡LIS P¡RT                                      |0009455|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-16| 9|MAGYAR VID…K …S POLG¡RI P¡RT                                                                |0000310|01|MVPP                                                        
-16|11|CENTRUM ÷SSZEFOG¡S MAGYARORSZ¡G…RT                                                          |0001018|01|CENTRUM                                                     
-17| 1|MCF Roma ÷sszefog·s P·rt                                                                    |0000355|01|MCF ROMA ÷SSZEFOG¡S P¡RT                                    
-17| 2|Szabad Demokrat·k SzˆvetsÈge- a Magyar Liber·lis P·rt                                       |0005966|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-17| 3|Magyar Szocialista P·rt                                                                     |0052643|01|MSZP                                                        
-17| 4|MI…P- Jobbik a Harmadik ⁄t                                                                  |0002383|01|MI…P-Jobbik                                                 
-17| 5|Magyar Demokrata FÛrum                                                                      |0007751|01|MDF                                                         
-17| 6|FIDESZ-Magyar Polg·ri SzˆvetsÈg KeresztÈnydemokrata NÈpp·rt                                 |0060592|02|FIDESZ,KDNP                                                 
-17| 7|KeresztÈnydemokratap·rt KeresztÈnyszoci·lis Centrum ÷sszefog·s                              |0000270|01|KERESZT…NYDEMOKRATAP¡RT                                     
-18| 1|SZABAD DEMOKRAT¡K SZ÷VETS…GE- A MAGYAR LIBER¡LIS P¡RT                                       |0008437|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-18| 2|Magyar Szocialista P·rt                                                                     |0052749|01|MSZP                                                        
-18| 3|FIDESZ-MAGYAR POLG¡RI SZ÷VETS…G KERESZT…NYDEMOKRATA  N…PP¡RT                                |0075239|02|FIDESZ,KDNP                                                 
-18| 4|MAGYAR DEMOKRATA F”RUM                                                                      |0008554|01|MDF                                                         
-18| 5|MI…P-JOBBIK A HARMADIK ⁄T                                                                   |0002697|01|MI…P-Jobbik                                                 
-18| 6|KERESZT…NYDEMOKRATAP¡RT - KERESZT…NYSZOCI¡LIS CENTRUM ÷SSZEFOG¡S                            |0000304|01|KERESZT…NYDEMOKRATAP¡RT                                     
-19| 1|MAGYAR SZOCIALISTA P¡RT                                                                     |0080545|01|MSZP                                                        
-19| 2|FIDESZ- MAGYAR POLG¡RI SZ÷VETS…G KERESZT…NYDEMOKRATA N…PP¡RT                                |0094437|02|FIDESZ,KDNP                                                 
-19| 3|SZABAD DEMOKRAT¡K SZ÷VETS…GE - A MAGYAR LIBER¡LIS P¡RT                                      |0011301|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-19| 4|Magyar Demokrata FÛrum                                                                      |0011206|01|MDF                                                         
-19| 5|MI…P-Jobbik a Harmadik ⁄t                                                                   |0003461|01|MI…P-Jobbik                                                 
-19| 6|Magyar Kommunista Munk·sp·rt                                                                |0001208|01|MUNK¡SP¡RT                                                  
-20| 1|MI…P-Jobbik a Harmadik ⁄t                                                                   |0003276|01|MI…P-Jobbik                                                 
-20| 2|Magyar Demokrata FÛrum                                                                      |0009324|01|MDF                                                         
-20| 3|Magyar Szocialista P·rt                                                                     |0059647|01|MSZP                                                        
-20| 4|MCF Roma ÷sszefog·s P·rt                                                                    |0000199|01|MCF ROMA ÷SSZEFOG¡S P¡RT                                    
-20| 5|Szabad Demokrat·k SzˆvetsÈge a Magyar Liber·lis P·rt                                        |0008131|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-20| 6|FIDESZ - Magyar Polg·ri SzˆvetsÈg KeresztÈnydemokrata NÈpp·rt                               |0079524|02|FIDESZ,KDNP                                                 
+14| 4|Szabad Demokrat√°k Sz√∂vets√©ge                                                                |0045562|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+14| 5|Magyar Szocialista P√°rt                                                                     |0253588|01|MSZP                                                        
+14| 6|MI√âP-Jobbik a Harmadik √öt                                                                   |0018074|01|MI√âP-Jobbik                                                 
+15| 1|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE - A MAGYAR LIBER√ÅLIS P√ÅRT                                      |0006929|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+15| 2|MAGYAR DEMOKRATA F√ìRUM                                                                      |0007168|01|MDF                                                         
+15| 3|MI√âP-Jobbik a Harmadik √öt                                                                   |0002811|01|MI√âP-Jobbik                                                 
+15| 4|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                                |0001166|01|MUNK√ÅSP√ÅRT                                                  
+15| 5|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0073388|01|MSZP                                                        
+15| 6|FIDESZ-MagyarPolg√°ri Sz√∂vets√©g Kereszt√©nydemokrata N√©pp√°rt                                  |0080260|02|FIDESZ,KDNP                                                 
+16| 1|MAGYAROK EGYM√ÅS√âRT SZ√ñVETS√âGE                                                               |0000767|01|MESZ                                                        
+16| 2|MI√âP-Jobbik a Harmadik √öt                                                                   |0004735|01|MI√âP-Jobbik                                                 
+16| 3|MAGYAR DEMOKRATA F√ìRUM                                                                      |0011947|01|MDF                                                         
+16| 4| MAGYAR SZOCIALISTA P√ÅRT                                                                    |0130555|01|MSZP                                                        
+16| 5|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                                                    |0000430|01|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                    
+16| 6|FIDESZ-Magyar Polg√°ri Sz√∂vets√©g Kereszt√©nydemokrata N√©pp√°rt                                 |0127641|02|FIDESZ,KDNP                                                 
+16| 7|KERESSZT√âNYDEMOKRATAP√ÅRT- KERESZT√âNYSZOCI√ÅLIS CENTRUM √ñSSZEFOG√ÅS                            |0000281|01|KERESZT√âNYDEMOKRATAP√ÅRT                                     
+16| 8|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE - A MAGYAR LIBER√ÅLIS P√ÅRT                                      |0009455|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+16| 9|MAGYAR VID√âK √âS POLG√ÅRI P√ÅRT                                                                |0000310|01|MVPP                                                        
+16|11|CENTRUM √ñSSZEFOG√ÅS MAGYARORSZ√ÅG√âRT                                                          |0001018|01|CENTRUM                                                     
+17| 1|MCF Roma √ñsszefog√°s P√°rt                                                                    |0000355|01|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                    
+17| 2|Szabad Demokrat√°k Sz√∂vets√©ge- a Magyar Liber√°lis P√°rt                                       |0005966|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+17| 3|Magyar Szocialista P√°rt                                                                     |0052643|01|MSZP                                                        
+17| 4|MI√âP- Jobbik a Harmadik √öt                                                                  |0002383|01|MI√âP-Jobbik                                                 
+17| 5|Magyar Demokrata F√≥rum                                                                      |0007751|01|MDF                                                         
+17| 6|FIDESZ-Magyar Polg√°ri Sz√∂vets√©g Kereszt√©nydemokrata N√©pp√°rt                                 |0060592|02|FIDESZ,KDNP                                                 
+17| 7|Kereszt√©nydemokratap√°rt Kereszt√©nyszoci√°lis Centrum √ñsszefog√°s                              |0000270|01|KERESZT√âNYDEMOKRATAP√ÅRT                                     
+18| 1|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE- A MAGYAR LIBER√ÅLIS P√ÅRT                                       |0008437|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+18| 2|Magyar Szocialista P√°rt                                                                     |0052749|01|MSZP                                                        
+18| 3|FIDESZ-MAGYAR POLG√ÅRI SZ√ñVETS√âG KERESZT√âNYDEMOKRATA  N√âPP√ÅRT                                |0075239|02|FIDESZ,KDNP                                                 
+18| 4|MAGYAR DEMOKRATA F√ìRUM                                                                      |0008554|01|MDF                                                         
+18| 5|MI√âP-JOBBIK A HARMADIK √öT                                                                   |0002697|01|MI√âP-Jobbik                                                 
+18| 6|KERESZT√âNYDEMOKRATAP√ÅRT - KERESZT√âNYSZOCI√ÅLIS CENTRUM √ñSSZEFOG√ÅS                            |0000304|01|KERESZT√âNYDEMOKRATAP√ÅRT                                     
+19| 1|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0080545|01|MSZP                                                        
+19| 2|FIDESZ- MAGYAR POLG√ÅRI SZ√ñVETS√âG KERESZT√âNYDEMOKRATA N√âPP√ÅRT                                |0094437|02|FIDESZ,KDNP                                                 
+19| 3|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE - A MAGYAR LIBER√ÅLIS P√ÅRT                                      |0011301|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+19| 4|Magyar Demokrata F√≥rum                                                                      |0011206|01|MDF                                                         
+19| 5|MI√âP-Jobbik a Harmadik √öt                                                                   |0003461|01|MI√âP-Jobbik                                                 
+19| 6|Magyar Kommunista Munk√°sp√°rt                                                                |0001208|01|MUNK√ÅSP√ÅRT                                                  
+20| 1|MI√âP-Jobbik a Harmadik √öt                                                                   |0003276|01|MI√âP-Jobbik                                                 
+20| 2|Magyar Demokrata F√≥rum                                                                      |0009324|01|MDF                                                         
+20| 3|Magyar Szocialista P√°rt                                                                     |0059647|01|MSZP                                                        
+20| 4|MCF Roma √ñsszefog√°s P√°rt                                                                    |0000199|01|MCF ROMA √ñSSZEFOG√ÅS P√ÅRT                                    
+20| 5|Szabad Demokrat√°k Sz√∂vets√©ge a Magyar Liber√°lis P√°rt                                        |0008131|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+20| 6|FIDESZ - Magyar Polg√°ri Sz√∂vets√©g Kereszt√©nydemokrata N√©pp√°rt                               |0079524|02|FIDESZ,KDNP                                                 

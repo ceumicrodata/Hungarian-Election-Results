@@ -1,6 +1,6 @@
-01|00013002|DR. BAR¡TH ETELE                        |00155365|3|nem nyert                     |000012|MAGYAR SZOCIALISTA P¡RT
-02|00033846|DR. DEMSZKY G¡BOR                       |00215374|1|nyert                         |000017|SZABAD DEMOKRAT¡K SZ÷VETS…GE
-03|00021666|    KOLL¡T P¡L                          |00012767|3|nem nyert                     |000015|MUNK¡SP¡RT
-04|00016687|DR. LATORCAI J¡NOS                      |00168731|3|nem nyert                     |010039|MDF-FIDESZ-KDNP
-05|00027416|DR. MAGYAR GY÷RGY                       |00007706|3|nem nyert                     |010028|KP-LPSZVP
-06|00012096|DR. SZAB” J¡NOS                         |00033651|3|nem nyert                     |010021|FKGP-MI…P
+01|00013002|DR. BAR√ÅTH ETELE                        |00155365|3|nem nyert                     |000012|MAGYAR SZOCIALISTA P√ÅRT
+02|00033846|DR. DEMSZKY G√ÅBOR                       |00215374|1|nyert                         |000017|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE
+03|00021666|    KOLL√ÅT P√ÅL                          |00012767|3|nem nyert                     |000015|MUNK√ÅSP√ÅRT
+04|00016687|DR. LATORCAI J√ÅNOS                      |00168731|3|nem nyert                     |010039|MDF-FIDESZ-KDNP
+05|00027416|DR. MAGYAR GY√ñRGY                       |00007706|3|nem nyert                     |010028|KP-LPSZVP
+06|00012096|DR. SZAB√ì J√ÅNOS                         |00033651|3|nem nyert                     |010021|FKGP-MI√âP

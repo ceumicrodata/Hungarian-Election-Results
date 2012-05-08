@@ -1,117 +1,117 @@
 01| 1|MSZP                                                                                        |0238672| 1|MSZP                                                        
 01| 2|JOBBIK                                                                                      |0102138| 1|Jobbik                                                      
-01| 3|LEHET M¡S A POLITIKA                                                                        |0120714| 1|LEHET M¡S A POLITIKA                                        
-01| 4|MAGYAR DEMOKRATA F”RUM                                                                      |0044265| 1|MDF                                                         
+01| 3|LEHET M√ÅS A POLITIKA                                                                        |0120714| 1|LEHET M√ÅS A POLITIKA                                        
+01| 4|MAGYAR DEMOKRATA F√ìRUM                                                                      |0044265| 1|MDF                                                         
 01| 5|FIDESZ-KDNP                                                                                 |0436442| 2|FIDESZ,KDNP                                                 
 02| 1|Jobbik                                                                                      |0024397| 1|Jobbik                                                      
 02| 2|FIDESZ-KDNP                                                                                 |0104928| 2|FIDESZ,KDNP                                                 
-02| 3|LEHET M¡S A POLITIKA                                                                        |0017119| 1|LEHET M¡S A POLITIKA                                        
-02| 4|MAGYAR DEMOKRATA F”RUM                                                                      |0005436| 1|MDF                                                         
+02| 3|LEHET M√ÅS A POLITIKA                                                                        |0017119| 1|LEHET M√ÅS A POLITIKA                                        
+02| 4|MAGYAR DEMOKRATA F√ìRUM                                                                      |0005436| 1|MDF                                                         
 02| 5|MSZP                                                                                        |0040532| 1|MSZP                                                        
 03| 1|CIVIL MOZGALOM                                                                              |0003767| 1|CIVILEK                                                     
 03| 2|JOBBIK                                                                                      |0041448| 1|Jobbik                                                      
-03| 3|Lehet M·s a Politika                                                                        |0014741| 1|LEHET M¡S A POLITIKA                                        
+03| 3|Lehet M√°s a Politika                                                                        |0014741| 1|LEHET M√ÅS A POLITIKA                                        
 03| 4|MSZP                                                                                        |0038597| 1|MSZP                                                        
 03| 5|FIDESZ-KDNP                                                                                 |0159605| 2|FIDESZ,KDNP                                                 
-03| 6|MAGYAR DEMOKRATA F”RUM                                                                      |0005889| 1|MDF                                                         
-04| 1|LEHET M¡S A POLITIKA                                                                        |0009688| 1|LEHET M¡S A POLITIKA                                        
+03| 6|MAGYAR DEMOKRATA F√ìRUM                                                                      |0005889| 1|MDF                                                         
+04| 1|LEHET M√ÅS A POLITIKA                                                                        |0009688| 1|LEHET M√ÅS A POLITIKA                                        
 04| 2|MSZP                                                                                        |0034321| 1|MSZP                                                        
 04| 3|CIVIL MOZGALOM                                                                              |0003510| 1|CIVILEK                                                     
 04| 4|Fidesz-KDNP                                                                                 |0098945| 2|FIDESZ,KDNP                                                 
 04| 5|JOBBIK                                                                                      |0035724| 1|Jobbik                                                      
 04| 6|MDF                                                                                         |0003814| 1|MDF                                                         
-05| 1|Lehet M·s a Politika                                                                        |0014318| 1|LEHET M¡S A POLITIKA                                        
-05| 2|÷sszefog·s P·rt BAZ M-i Lista                                                               |0002732| 1|÷SSZEFOG¡S P¡RT                                             
+05| 1|Lehet M√°s a Politika                                                                        |0014318| 1|LEHET M√ÅS A POLITIKA                                        
+05| 2|√ñsszefog√°s P√°rt BAZ M-i Lista                                                               |0002732| 1|√ñSSZEFOG√ÅS P√ÅRT                                             
 05| 3|MDF                                                                                         |0006267| 1|MDF                                                         
 05| 4|MSZDP                                                                                       |0001653| 1|MSZDP                                                       
 05| 5|FIDESZ-KDNP                                                                                 |0156249| 2|FIDESZ,KDNP                                                 
-05| 6|MAGYAR SZOCIALISTA P¡RT                                                                     |0064387| 1|MSZP                                                        
-05| 7|MUNK¡SP¡RT                                                                                  |0001651| 1|MUNK¡SP¡RT                                                  
+05| 6|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0064387| 1|MSZP                                                        
+05| 7|MUNK√ÅSP√ÅRT                                                                                  |0001651| 1|MUNK√ÅSP√ÅRT                                                  
 05| 8|JOBBIK                                                                                      |0092646| 1|Jobbik                                                      
-05| 9|MI…P                                                                                        |0000704| 1|MI…P                                                        
-06| 1|MAGYAR DEMOKRATA F”RUM                                                                      |0005347| 1|MDF                                                         
-06| 2|LEHET M¡S A POLITIKA                                                                        |0015941| 1|LEHET M¡S A POLITIKA                                        
+05| 9|MI√âP                                                                                        |0000704| 1|MI√âP                                                        
+06| 1|MAGYAR DEMOKRATA F√ìRUM                                                                      |0005347| 1|MDF                                                         
+06| 2|LEHET M√ÅS A POLITIKA                                                                        |0015941| 1|LEHET M√ÅS A POLITIKA                                        
 06| 3|CIVIL MOZGALOM                                                                              |0005135| 1|CIVILEK                                                     
-06| 4|MI…P                                                                                        |0000582| 1|MI…P                                                        
+06| 4|MI√âP                                                                                        |0000582| 1|MI√âP                                                        
 06| 5|FIDESZ-KDNP                                                                                 |0105579| 2|FIDESZ,KDNP                                                 
 06| 6|MSZP                                                                                        |0042413| 1|MSZP                                                        
 06| 7|Jobbik                                                                                      |0033157| 1|Jobbik                                                      
 07| 1|CIVILEK                                                                                     |0004595| 1|CIVILEK                                                     
-07| 2|Magyar Demokrata FÛrum                                                                      |0005960| 1|MDF                                                         
+07| 2|Magyar Demokrata F√≥rum                                                                      |0005960| 1|MDF                                                         
 07| 3|Jobbik                                                                                      |0035897| 1|Jobbik                                                      
-07| 4| LMP                                                                                        |0015428| 1|LEHET M¡S A POLITIKA                                        
+07| 4| LMP                                                                                        |0015428| 1|LEHET M√ÅS A POLITIKA                                        
 07| 5|FIDESZ-KDNP                                                                                 |0120011| 2|FIDESZ,KDNP                                                 
 07| 6|MSZP                                                                                        |0039679| 1|MSZP                                                        
 08| 1|CIVIL MOZGALOM                                                                              |0003737| 1|CIVILEK                                                     
-08| 2|LEHET M¡S A POLITIKA                                                                        |0014765| 1|LEHET M¡S A POLITIKA                                        
+08| 2|LEHET M√ÅS A POLITIKA                                                                        |0014765| 1|LEHET M√ÅS A POLITIKA                                        
 08| 3|MSZP                                                                                        |0039390| 1|MSZP                                                        
 08| 4|FIDESZ-KDNP                                                                                 |0139391| 2|FIDESZ,KDNP                                                 
-08| 5|MAGYAR DEMOKRATA F”RUM                                                                      |0006901| 1|MDF                                                         
+08| 5|MAGYAR DEMOKRATA F√ìRUM                                                                      |0006901| 1|MDF                                                         
 08| 6|Jobbik                                                                                      |0029364| 1|Jobbik                                                      
 09| 1|FIDESZ-KDNP                                                                                 |0154999| 2|FIDESZ,KDNP                                                 
 09| 2|MSZDP                                                                                       |0000768| 1|MSZDP                                                       
-09| 3|Lehet M·s a Politika                                                                        |0013523| 1|LEHET M¡S A POLITIKA                                        
+09| 3|Lehet M√°s a Politika                                                                        |0013523| 1|LEHET M√ÅS A POLITIKA                                        
 09| 4|MSZP                                                                                        |0037580| 1|MSZP                                                        
 09| 5|MDF                                                                                         |0006271| 1|MDF                                                         
 09| 6|Civil Mozgalom                                                                              |0004002| 1|CIVILEK                                                     
 09| 7|JOBBIK                                                                                      |0050473| 1|Jobbik                                                      
-10| 1|LEHET M¡S A POLITIKA                                                                        |0009769| 1|LEHET M¡S A POLITIKA                                        
+10| 1|LEHET M√ÅS A POLITIKA                                                                        |0009769| 1|LEHET M√ÅS A POLITIKA                                        
 10| 2|MDF                                                                                         |0003536| 1|MDF                                                         
 10| 3|FIDESZ-KDNP                                                                                 |0074034| 2|FIDESZ,KDNP                                                 
-10| 4|MAGYAR SZOCIALISTA P¡RT                                                                     |0034003| 1|MSZP                                                        
+10| 4|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0034003| 1|MSZP                                                        
 10| 5|JOBBIK                                                                                      |0040391| 1|Jobbik                                                      
 11| 1|JOBBIK                                                                                      |0046613| 1|Jobbik                                                      
 11| 2|MSZP                                                                                        |0034707| 1|MSZP                                                        
-11| 3|MAGYAR DEMOKRATA F”RUM                                                                      |0004140| 1|MDF                                                         
-11| 4|LEHET M¡S A POLITIKA                                                                        |0010971| 1|LEHET M¡S A POLITIKA                                        
+11| 3|MAGYAR DEMOKRATA F√ìRUM                                                                      |0004140| 1|MDF                                                         
+11| 4|LEHET M√ÅS A POLITIKA                                                                        |0010971| 1|LEHET M√ÅS A POLITIKA                                        
 11| 5|FIDESZ-KDNP                                                                                 |0095951| 2|FIDESZ,KDNP                                                 
-11| 6|MUNK¡SP¡RT                                                                                  |0001775| 1|MUNK¡SP¡RT                                                  
-12| 1|LEHET M¡S A POLITIKA                                                                        |0012929| 1|LEHET M¡S A POLITIKA                                        
+11| 6|MUNK√ÅSP√ÅRT                                                                                  |0001775| 1|MUNK√ÅSP√ÅRT                                                  
+12| 1|LEHET M√ÅS A POLITIKA                                                                        |0012929| 1|LEHET M√ÅS A POLITIKA                                        
 12| 2|JOBBIK                                                                                      |0021251| 1|Jobbik                                                      
-12| 3|MAGYAR SZOCIALISTA P¡RT                                                                     |0036128| 1|MSZP                                                        
-12| 4|Magyar Demokrata FÛrum                                                                      |0004902| 1|MDF                                                         
+12| 3|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0036128| 1|MSZP                                                        
+12| 4|Magyar Demokrata F√≥rum                                                                      |0004902| 1|MDF                                                         
 12| 5|FIDESZ-KDNP                                                                                 |0079261| 2|FIDESZ,KDNP                                                 
 13| 1|JOBBIK                                                                                      |0021868| 1|Jobbik                                                      
 13| 2|MSZP                                                                                        |0021411| 1|MSZP                                                        
-13| 3|Munk·sp·rt                                                                                  |0001441| 1|MUNK¡SP¡RT                                                  
+13| 3|Munk√°sp√°rt                                                                                  |0001441| 1|MUNK√ÅSP√ÅRT                                                  
 13| 4|FIDESZ-KDNP                                                                                 |0054444| 2|FIDESZ,KDNP                                                 
-13| 5|Lehet M·s a Politika                                                                        |0005852| 1|LEHET M¡S A POLITIKA                                        
-14| 1|LEHET M¡S A POLITIKA                                                                        |0052410| 1|LEHET M¡S A POLITIKA                                        
+13| 5|Lehet M√°s a Politika                                                                        |0005852| 1|LEHET M√ÅS A POLITIKA                                        
+14| 1|LEHET M√ÅS A POLITIKA                                                                        |0052410| 1|LEHET M√ÅS A POLITIKA                                        
 14| 2|FIDESZ-KDNP                                                                                 |0331954| 2|FIDESZ,KDNP                                                 
-14| 3|MAGYAR SZOCIALISTA P¡RT                                                                     |0110329| 1|MSZP                                                        
-14| 4|MAGYAR DEMOKRATA F”RUM                                                                      |0017255| 1|MDF                                                         
+14| 3|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0110329| 1|MSZP                                                        
+14| 4|MAGYAR DEMOKRATA F√ìRUM                                                                      |0017255| 1|MDF                                                         
 14| 5|CIVIL MOZGALOM                                                                              |0011832| 1|CIVILEK                                                     
 14| 6|JOBBIK                                                                                      |0103689| 1|Jobbik                                                      
-15| 1|Magyar Szocialista P·rt                                                                     |0031418| 1|MSZP                                                        
+15| 1|Magyar Szocialista P√°rt                                                                     |0031418| 1|MSZP                                                        
 15| 2|FIDESZ-KDNP                                                                                 |0094900| 2|FIDESZ,KDNP                                                 
 15| 3|JOBBIK                                                                                      |0022652| 1|Jobbik                                                      
-15| 4|LEHET M¡S A POLITIKA                                                                        |0010173| 1|LEHET M¡S A POLITIKA                                        
-16| 1|MAGYAR SZOCIALISTA P¡RT                                                                     |0041062| 1|MSZP                                                        
-16| 2|MUNK¡SP¡RT                                                                                  |0000739| 1|MUNK¡SP¡RT                                                  
-16| 3|LEHET M¡S A POLITIKA                                                                        |0007914| 1|LEHET M¡S A POLITIKA                                        
+15| 4|LEHET M√ÅS A POLITIKA                                                                        |0010173| 1|LEHET M√ÅS A POLITIKA                                        
+16| 1|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0041062| 1|MSZP                                                        
+16| 2|MUNK√ÅSP√ÅRT                                                                                  |0000739| 1|MUNK√ÅSP√ÅRT                                                  
+16| 3|LEHET M√ÅS A POLITIKA                                                                        |0007914| 1|LEHET M√ÅS A POLITIKA                                        
 16| 4|FIDESZ-KDNP                                                                                 |0148980| 2|FIDESZ,KDNP                                                 
 16| 5|CIVIL MOZGALOM                                                                              |0006760| 1|CIVILEK                                                     
 16| 6|MSZDP                                                                                       |0000834| 1|MSZDP                                                       
 16| 7|JOBBIK                                                                                      |0065423| 1|Jobbik                                                      
 16| 8|MDF                                                                                         |0005016| 1|MDF                                                         
 17| 1|MSZP                                                                                        |0021214| 1|MSZP                                                        
-17| 2|LEHET M¡S A POLITIKA                                                                        |0006467| 1|LEHET M¡S A POLITIKA                                        
-17| 3|MAGYAR DEMOKRATA F”RUM                                                                      |0003017| 1|MDF                                                         
+17| 2|LEHET M√ÅS A POLITIKA                                                                        |0006467| 1|LEHET M√ÅS A POLITIKA                                        
+17| 3|MAGYAR DEMOKRATA F√ìRUM                                                                      |0003017| 1|MDF                                                         
 17| 4|FIDESZ-KDNP                                                                                 |0069604| 2|FIDESZ,KDNP                                                 
 17| 5|Jobbik                                                                                      |0018315| 1|Jobbik                                                      
 18| 1|CIVIL MOZGALOM                                                                              |0002525| 1|CIVILEK                                                     
-18| 2|LEHET M¡S A POLITIKA                                                                        |0008907| 1|LEHET M¡S A POLITIKA                                        
-18| 3|MAGYAR SZOCIALISTA P¡RT                                                                     |0023699| 1|MSZP                                                        
+18| 2|LEHET M√ÅS A POLITIKA                                                                        |0008907| 1|LEHET M√ÅS A POLITIKA                                        
+18| 3|MAGYAR SZOCIALISTA P√ÅRT                                                                     |0023699| 1|MSZP                                                        
 18| 4|FIDESZ-KDNP                                                                                 |0087705| 2|FIDESZ,KDNP                                                 
 18| 5|JOBBIK                                                                                      |0016888| 1|Jobbik                                                      
 19| 1|JOBBIK                                                                                      |0027897| 1|Jobbik                                                      
 19| 2|MSZP                                                                                        |0035779| 1|MSZP                                                        
 19| 3|MDF                                                                                         |0004937| 1|MDF                                                         
 19| 4|FIDESZ - KDNP                                                                               |0108048| 2|FIDESZ,KDNP                                                 
-19| 5|Lehet M·s a Politika                                                                        |0013601| 1|LEHET M¡S A POLITIKA                                        
+19| 5|Lehet M√°s a Politika                                                                        |0013601| 1|LEHET M√ÅS A POLITIKA                                        
 20| 1|MDF                                                                                         |0003942| 1|MDF                                                         
 20| 2|FIDESZ - KDNP                                                                               |0085262| 2|FIDESZ,KDNP                                                 
 20| 3|MSZDP                                                                                       |0000862| 1|MSZDP                                                       
-20| 4|Magyar Szocialista P·rt                                                                     |0025107| 1|MSZP                                                        
-20| 5|Lehet M·s a Politika                                                                        |0008646| 1|LEHET M¡S A POLITIKA                                        
+20| 4|Magyar Szocialista P√°rt                                                                     |0025107| 1|MSZP                                                        
+20| 5|Lehet M√°s a Politika                                                                        |0008646| 1|LEHET M√ÅS A POLITIKA                                        
 20| 6|JOBBIK                                                                                      |0025205| 1|Jobbik                                                      

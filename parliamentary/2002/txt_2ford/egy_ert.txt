@@ -1,280 +1,280 @@
-01|01| 2|DR. |NAGY G¡BOR TAM¡S                                            |     18680| 2|FIDESZ                        |MDF
-01|01| 1|    |M…CS IMRE                                                   |     17962| 1|SZDSZ
-01|02| 1|DR. |BALSAI ISTV¡N                                               |     22900| 2|FIDESZ                        |MDF
-01|02| 2|    |HORV¡TH CSABA                                               |     20832| 1|MSZP
-01|03| 1|DR. |OROSZ S¡NDOR                                                |     22493| 1|MSZP
-01|03| 2|    |TARL”S ISTV¡N                                               |     15773| 2|FIDESZ                        |MDF
-01|04| 1|    |DON¡TH L¡SZL”                                               |     27061| 1|MSZP
-01|04| 2|    |GY‹RK ANDR¡S                                                |     18798| 2|FIDESZ                        |MDF
-01|06| 1|    |KISS P…TER                                                  |     19555| 1|MSZP
+01|01| 2|DR. |NAGY G√ÅBOR TAM√ÅS                                            |     18680| 2|FIDESZ                        |MDF
+01|01| 1|    |M√âCS IMRE                                                   |     17962| 1|SZDSZ
+01|02| 1|DR. |BALSAI ISTV√ÅN                                               |     22900| 2|FIDESZ                        |MDF
+01|02| 2|    |HORV√ÅTH CSABA                                               |     20832| 1|MSZP
+01|03| 1|DR. |OROSZ S√ÅNDOR                                                |     22493| 1|MSZP
+01|03| 2|    |TARL√ìS ISTV√ÅN                                               |     15773| 2|FIDESZ                        |MDF
+01|04| 1|    |DON√ÅTH L√ÅSZL√ì                                               |     27061| 1|MSZP
+01|04| 2|    |GY√úRK ANDR√ÅS                                                |     18798| 2|FIDESZ                        |MDF
+01|06| 1|    |KISS P√âTER                                                  |     19555| 1|MSZP
 01|06| 2|    |WINTERMANTEL ZSOLT                                          |     12025| 2|FIDESZ                        |MDF
-01|07| 1|DR. |PET’ IV¡N                                                   |     15802| 1|SZDSZ
-01|07| 2|DR. |RUBOVSZKY GY÷RGY                                            |     12166| 2|FIDESZ                        |MDF
-01|08| 2|    |K…KESI TIBOR                                                |     15195| 1|MSZP
-01|08| 1|DR. |ILL…S ZOLT¡N                                                |     11739| 2|FIDESZ                        |MDF
-01|09| 2|    |FILL” P¡L                                                   |     15397| 1|MSZP
-01|09| 1|DR. |DEUTSCH TAM¡S                                               |     10346| 2|FIDESZ                        |MDF
-01|10| 2|DR. |SZAB” ZOLT¡N                                                |     14011| 1|MSZP
-01|10| 1|    |ROCKENBAUER ZOLT¡N                                          |     10141| 2|FIDESZ                        |MDF
-01|11| 1|    |H¡RS G¡BOR                                                  |     16580| 1|MSZP
-01|11| 2|DR. |JUHAROS R”BERT                                              |     11975| 2|FIDESZ                        |MDF
-01|12| 1|DR. |K÷K…NY MIH¡LY                                               |     13085| 1|MSZP
-01|12| 2|    |TIRTS TAM¡S                                                 |     10716| 2|FIDESZ                        |MDF
-01|14| 1|DR. |CSICSAY CLAUDIUS IV¡N                                       |     20540| 1|MSZP
-01|14| 2|    |GY÷RGY ISTV¡N                                               |     12067| 2|FIDESZ                        |MDF
-01|15| 1|DR. |CSAPODY MIKL”S                                              |     15111| 2|FIDESZ                        |MDF
-01|15| 2|    |SZAB” VILMOS                                                |     13897| 1|MSZP
-01|16| 2|    |MOLN¡R GYULA                                                |     20121| 1|MSZP
-01|16| 1|    |DE¡K ANDR¡S                                                 |     14897| 2|FIDESZ                        |MDF
-01|17| 1|DR. |J”ZSA ISTV¡N                                                |     15464| 1|MSZP
-01|17| 2|    |SASV¡RI SZIL¡RD                                             |     13661| 2|FIDESZ                        |MDF
-01|18| 1|    |POKORNI ZOLT¡N                                              |     22796| 2|FIDESZ                        |MDF
-01|18| 2|DR. |SZENT-IV¡NYI ISTV¡N                                         |     20384| 1|SZDSZ
-01|21| 1|DR. |BAR¡TH ETELE                                                |     21197| 1|MSZP
-01|21| 2|DR. |’RY CSABA                                                   |     15557| 2|FIDESZ                        |MDF
+01|07| 1|DR. |PET≈ê IV√ÅN                                                   |     15802| 1|SZDSZ
+01|07| 2|DR. |RUBOVSZKY GY√ñRGY                                            |     12166| 2|FIDESZ                        |MDF
+01|08| 2|    |K√âKESI TIBOR                                                |     15195| 1|MSZP
+01|08| 1|DR. |ILL√âS ZOLT√ÅN                                                |     11739| 2|FIDESZ                        |MDF
+01|09| 2|    |FILL√ì P√ÅL                                                   |     15397| 1|MSZP
+01|09| 1|DR. |DEUTSCH TAM√ÅS                                               |     10346| 2|FIDESZ                        |MDF
+01|10| 2|DR. |SZAB√ì ZOLT√ÅN                                                |     14011| 1|MSZP
+01|10| 1|    |ROCKENBAUER ZOLT√ÅN                                          |     10141| 2|FIDESZ                        |MDF
+01|11| 1|    |H√ÅRS G√ÅBOR                                                  |     16580| 1|MSZP
+01|11| 2|DR. |JUHAROS R√ìBERT                                              |     11975| 2|FIDESZ                        |MDF
+01|12| 1|DR. |K√ñK√âNY MIH√ÅLY                                               |     13085| 1|MSZP
+01|12| 2|    |TIRTS TAM√ÅS                                                 |     10716| 2|FIDESZ                        |MDF
+01|14| 1|DR. |CSICSAY CLAUDIUS IV√ÅN                                       |     20540| 1|MSZP
+01|14| 2|    |GY√ñRGY ISTV√ÅN                                               |     12067| 2|FIDESZ                        |MDF
+01|15| 1|DR. |CSAPODY MIKL√ìS                                              |     15111| 2|FIDESZ                        |MDF
+01|15| 2|    |SZAB√ì VILMOS                                                |     13897| 1|MSZP
+01|16| 2|    |MOLN√ÅR GYULA                                                |     20121| 1|MSZP
+01|16| 1|    |DE√ÅK ANDR√ÅS                                                 |     14897| 2|FIDESZ                        |MDF
+01|17| 1|DR. |J√ìZSA ISTV√ÅN                                                |     15464| 1|MSZP
+01|17| 2|    |SASV√ÅRI SZIL√ÅRD                                             |     13661| 2|FIDESZ                        |MDF
+01|18| 1|    |POKORNI ZOLT√ÅN                                              |     22796| 2|FIDESZ                        |MDF
+01|18| 2|DR. |SZENT-IV√ÅNYI ISTV√ÅN                                         |     20384| 1|SZDSZ
+01|21| 1|DR. |BAR√ÅTH ETELE                                                |     21197| 1|MSZP
+01|21| 2|DR. |≈êRY CSABA                                                   |     15557| 2|FIDESZ                        |MDF
 01|22| 1|DR. |CSIHA JUDIT                                                 |     24742| 1|MSZP
-01|22| 2|    |R¡TONYI G¡BOR                                               |     14546| 2|FIDESZ                        |MDF
-01|24| 2|DR. |VIDORN… DR. SZAB” GY÷RGYI                                   |     24802| 1|MSZP
-01|24| 1|    |GLATTFELDER B…LA                                            |     21235| 2|FIDESZ                        |MDF
-01|25| 1|    |DEV¡NSZKIN… DR. MOLN¡R KATALIN                              |     27839| 1|MSZP
-01|25| 3|    |KOLTAI ILDIK”                                               |     20685| 2|FIDESZ                        |MDF
-01|25| 2|DR. |KERTAI AUR…L                                                |      1253| 1|CENTRUM
-01|32| 2|    |LENDVAI ILDIK”                                              |     18541| 1|MSZP
-01|32| 3|    |N…METH ZSOLT                                                |     14830| 2|FIDESZ                        |MDF
-01|32| 1|    |ESZE TAM¡S                                                  |       325| 1|MI…P
-02|01| 1|DR. |K…KES FERENC                                                |     21527| 1|MSZP
-02|01| 2|DR. |MIKES …VA                                                   |     16023| 2|FIDESZ                        |MDF
-02|04| 2|    |P¡VA ZOLT¡N                                                 |     21216| 1|MSZP
-02|04| 1|    |HOFFMANN M¡TY¡SN…                                           |     12336| 2|FIDESZ                        |MDF
-02|05| 1|DR. |HARGITAI J¡NOS                                              |     22773| 2|FIDESZ                        |MDF
-02|05| 2|DR. |NYUL ISTV¡N                                                 |     16359| 1|MSZP
-02|06| 1|    |K…KK’I ZOLT¡N J”ZSEF                                        |     18076| 2|FIDESZ                        |MDF
-02|06| 2|    |KOCSI L¡SZL”                                                |     15737| 1|MSZP
+01|22| 2|    |R√ÅTONYI G√ÅBOR                                               |     14546| 2|FIDESZ                        |MDF
+01|24| 2|DR. |VIDORN√â DR. SZAB√ì GY√ñRGYI                                   |     24802| 1|MSZP
+01|24| 1|    |GLATTFELDER B√âLA                                            |     21235| 2|FIDESZ                        |MDF
+01|25| 1|    |DEV√ÅNSZKIN√â DR. MOLN√ÅR KATALIN                              |     27839| 1|MSZP
+01|25| 3|    |KOLTAI ILDIK√ì                                               |     20685| 2|FIDESZ                        |MDF
+01|25| 2|DR. |KERTAI AUR√âL                                                |      1253| 1|CENTRUM
+01|32| 2|    |LENDVAI ILDIK√ì                                              |     18541| 1|MSZP
+01|32| 3|    |N√âMETH ZSOLT                                                |     14830| 2|FIDESZ                        |MDF
+01|32| 1|    |ESZE TAM√ÅS                                                  |       325| 1|MI√âP
+02|01| 1|DR. |K√âKES FERENC                                                |     21527| 1|MSZP
+02|01| 2|DR. |MIKES √âVA                                                   |     16023| 2|FIDESZ                        |MDF
+02|04| 2|    |P√ÅVA ZOLT√ÅN                                                 |     21216| 1|MSZP
+02|04| 1|    |HOFFMANN M√ÅTY√ÅSN√â                                           |     12336| 2|FIDESZ                        |MDF
+02|05| 1|DR. |HARGITAI J√ÅNOS                                              |     22773| 2|FIDESZ                        |MDF
+02|05| 2|DR. |NYUL ISTV√ÅN                                                 |     16359| 1|MSZP
+02|06| 1|    |K√âKK≈êI ZOLT√ÅN J√ìZSEF                                        |     18076| 2|FIDESZ                        |MDF
+02|06| 2|    |KOCSI L√ÅSZL√ì                                                |     15737| 1|MSZP
 02|07| 2|    |PICHLER IMRE                                                |     13219| 2|FIDESZ                        |MDF
-02|07| 1|    |GR¡F J”ZSEF                                                 |     13073| 1|MSZP
-03|01| 1|    |NYITRAY ANDR¡S                                              |     20187| 2|FIDESZ                        |MDF
-03|01| 2|DR. |SZ€CS MIKL”S                                                |     14951| 1|MSZP
-03|02| 1|DR. |HORV¡TH ZSOLT                                               |     15324| 2|FIDESZ                        |MDF
-03|02| 2|    |V¡RI GYULA                                                  |     11170| 1|MSZP
-03|04| 1|    |BALOGH J”ZSEF                                               |     21091| 2|FIDESZ                        |MDF
-03|04| 2|DR. |BALOGH L¡SZL”                                               |     11977| 1|MSZP
-03|05| 1|    |ENDRE S¡NDOR                                                |     16208| 2|FIDESZ                        |MDF
-03|05| 2|DR. |GARAI ISTV¡N LEVENTE                                        |     12043| 1|MSZP
-03|07| 1|    |T”TH ISTV¡N                                                 |     18176| 2|FIDESZ                        |MDF
-03|07| 2|    |T÷R÷K GUSZT¡V ANDOR                                         |     14895| 1|SZDSZ
-03|08| 2|DR. |SZAB” ERIKA                                                 |     16682| 2|FIDESZ                        |MDF
-03|08| 3|    |ZUSCHLAG J¡NOS                                              |     12603| 1|MSZP
-03|08| 1|    |PATOCSKAI TAM¡S                                             |         0| 1|MI…P
-03|09| 2|    |ZSIG” R”BERT                                                |     20707| 2|FIDESZ                        |MDF
-03|09| 1|    |HAJD⁄ MIKL”S                                                |     15884| 1|MSZP
-03|10| 1|DR. |FENYVESI M¡T…                                               |     14431| 2|FIDESZ                        |MDF
+02|07| 1|    |GR√ÅF J√ìZSEF                                                 |     13073| 1|MSZP
+03|01| 1|    |NYITRAY ANDR√ÅS                                              |     20187| 2|FIDESZ                        |MDF
+03|01| 2|DR. |SZ≈∞CS MIKL√ìS                                                |     14951| 1|MSZP
+03|02| 1|DR. |HORV√ÅTH ZSOLT                                               |     15324| 2|FIDESZ                        |MDF
+03|02| 2|    |V√ÅRI GYULA                                                  |     11170| 1|MSZP
+03|04| 1|    |BALOGH J√ìZSEF                                               |     21091| 2|FIDESZ                        |MDF
+03|04| 2|DR. |BALOGH L√ÅSZL√ì                                               |     11977| 1|MSZP
+03|05| 1|    |ENDRE S√ÅNDOR                                                |     16208| 2|FIDESZ                        |MDF
+03|05| 2|DR. |GARAI ISTV√ÅN LEVENTE                                        |     12043| 1|MSZP
+03|07| 1|    |T√ìTH ISTV√ÅN                                                 |     18176| 2|FIDESZ                        |MDF
+03|07| 2|    |T√ñR√ñK GUSZT√ÅV ANDOR                                         |     14895| 1|SZDSZ
+03|08| 2|DR. |SZAB√ì ERIKA                                                 |     16682| 2|FIDESZ                        |MDF
+03|08| 3|    |ZUSCHLAG J√ÅNOS                                              |     12603| 1|MSZP
+03|08| 1|    |PATOCSKAI TAM√ÅS                                             |         0| 1|MI√âP
+03|09| 2|    |ZSIG√ì R√ìBERT                                                |     20707| 2|FIDESZ                        |MDF
+03|09| 1|    |HAJD√ö MIKL√ìS                                                |     15884| 1|MSZP
+03|10| 1|DR. |FENYVESI M√ÅT√â                                               |     14431| 2|FIDESZ                        |MDF
 03|10| 2|DR. |TABAJDI CSABA                                               |     12773| 1|MSZP
-04|01| 1|    |MOLN¡R L¡SZL”                                               |     20477| 1|MSZP
-04|01| 2|    |V…GH L¡SZL”                                                 |     18991| 2|FIDESZ                        |MDF
-04|02| 1|    |T”TH IMRE                                                   |     17719| 2|FIDESZ                        |MDF
-04|02| 2|    |T”TH S¡NDOR                                                 |     17443| 1|MSZP
-04|03| 1|    |ERD’S NORBERT                                               |     15192| 2|FIDESZ                        |MDF
-04|03| 2|DR. |R¡CZ L¡SZL”                                                 |     12647| 1|MSZP
-04|03| 3|    |VALENTINYI K¡ROLY                                           |         0| 0|
-04|04| 2|    |VÕGH ILONA                                                  |     14843| 2|FIDESZ                        |MDF
-04|04| 1|    |VERESS J”ZSEF                                               |     12401| 1|MSZP
-04|05| 1|    |DOMOKOS L¡SZL”                                              |     15194| 2|FIDESZ                        |MDF
-04|05| 2|    |F÷LDESI ZOLT¡N                                              |     12210| 1|MSZP
-04|06| 2|DR. |VASTAGH P¡L                                                 |     19549| 1|MSZP
-04|06| 1|DR. |VARGA ISTV¡N                                                |     18550| 2|FIDESZ                        |MDF
-04|07| 2|DR. |KARSAI J”ZSEF                                               |     14868| 1|MSZP
-04|07| 1|    |HAN” MIKL”S                                                 |     11587| 2|FIDESZ                        |MDF
-04|07| 3|    |NAGY B…LA                                                   |      1398| 1|SZDSZ
+04|01| 1|    |MOLN√ÅR L√ÅSZL√ì                                               |     20477| 1|MSZP
+04|01| 2|    |V√âGH L√ÅSZL√ì                                                 |     18991| 2|FIDESZ                        |MDF
+04|02| 1|    |T√ìTH IMRE                                                   |     17719| 2|FIDESZ                        |MDF
+04|02| 2|    |T√ìTH S√ÅNDOR                                                 |     17443| 1|MSZP
+04|03| 1|    |ERD≈êS NORBERT                                               |     15192| 2|FIDESZ                        |MDF
+04|03| 2|DR. |R√ÅCZ L√ÅSZL√ì                                                 |     12647| 1|MSZP
+04|03| 3|    |VALENTINYI K√ÅROLY                                           |         0| 0|
+04|04| 2|    |V√çGH ILONA                                                  |     14843| 2|FIDESZ                        |MDF
+04|04| 1|    |VERESS J√ìZSEF                                               |     12401| 1|MSZP
+04|05| 1|    |DOMOKOS L√ÅSZL√ì                                              |     15194| 2|FIDESZ                        |MDF
+04|05| 2|    |F√ñLDESI ZOLT√ÅN                                              |     12210| 1|MSZP
+04|06| 2|DR. |VASTAGH P√ÅL                                                 |     19549| 1|MSZP
+04|06| 1|DR. |VARGA ISTV√ÅN                                                |     18550| 2|FIDESZ                        |MDF
+04|07| 2|DR. |KARSAI J√ìZSEF                                               |     14868| 1|MSZP
+04|07| 1|    |HAN√ì MIKL√ìS                                                 |     11587| 2|FIDESZ                        |MDF
+04|07| 3|    |NAGY B√âLA                                                   |      1398| 1|SZDSZ
 05|01| 1|    |FEDOR VILMOS                                                |     17473| 1|MSZP
-05|01| 2|    |LEN¡RTEK ANDR¡S                                             |     13282| 2|FIDESZ                        |MDF
+05|01| 2|    |LEN√ÅRTEK ANDR√ÅS                                             |     13282| 2|FIDESZ                        |MDF
 05|01| 3|    |LENKEY CSABA                                                |         0| 1|CENTRUM
-05|02| 2|DR. |SIMON G¡BOR                                                 |     19089| 1|MSZP
-05|02| 1|DR. |R…P¡SSY R”BERT                                              |     12886| 2|FIDESZ                        |MDF
-05|06| 2|DR. |FARAG” P…TER                                                |     15149| 1|MSZP
-05|06| 1|DR. |CSIBA G¡BOR TAM¡S                                           |     10391| 2|FIDESZ                        |MDF
-05|08| 1|    |MOLN¡R OSZK¡R                                               |     14751| 2|FIDESZ                        |MDF
-05|08| 2|    |VARG¡N… KER…KGY¡RT” ILDIK”                                  |     11975| 1|MSZP
-05|10| 1|DR. |H÷RCSIK RICH¡RD                                             |     18826| 2|FIDESZ                        |MDF
-05|10| 2|DR. |SO”S GY’Z’                                                  |     15253| 1|MSZP
-05|11| 2|    |SZAB” GY÷RGY                                                |     16969| 1|MSZP
+05|02| 2|DR. |SIMON G√ÅBOR                                                 |     19089| 1|MSZP
+05|02| 1|DR. |R√âP√ÅSSY R√ìBERT                                              |     12886| 2|FIDESZ                        |MDF
+05|06| 2|DR. |FARAG√ì P√âTER                                                |     15149| 1|MSZP
+05|06| 1|DR. |CSIBA G√ÅBOR TAM√ÅS                                           |     10391| 2|FIDESZ                        |MDF
+05|08| 1|    |MOLN√ÅR OSZK√ÅR                                               |     14751| 2|FIDESZ                        |MDF
+05|08| 2|    |VARG√ÅN√â KER√âKGY√ÅRT√ì ILDIK√ì                                  |     11975| 1|MSZP
+05|10| 1|DR. |H√ñRCSIK RICH√ÅRD                                             |     18826| 2|FIDESZ                        |MDF
+05|10| 2|DR. |SO√ìS GY≈êZ≈ê                                                  |     15253| 1|MSZP
+05|11| 2|    |SZAB√ì GY√ñRGY                                                |     16969| 1|MSZP
 05|11| 1|    |KONCZ FERENC                                                |     16967| 2|FIDESZ                        |MDF
-05|12| 1|    |KOV¡CS TIBOR                                                |     19069| 1|MSZP
-05|12| 2|    |STEINERN… VASV¡RI …VA                                       |     14547| 2|FIDESZ                        |MDF
-06|01| 2|    |UJHELYI ISTV¡N                                              |     21646| 1|MSZP
-06|01| 1|DR. |R¡KOS TIBOR                                                 |     15846| 2|FIDESZ                        |MDF
-06|02| 1|    |BALOGH L¡SZL”                                               |     21937| 2|FIDESZ                        |MDF
-06|02| 2|DR. |G…CZI J”ZSEF ALAJOS                                         |     20524| 1|MSZP
-06|03| 2|DR. |BOTKA L¡SZL”                                                |     21968| 1|MSZP
-06|03| 1|DR. |BARTHA L¡SZL”                                               |     17747| 2|FIDESZ                        |MDF
-06|03| 3|DR. |P¡SZTI ¡GNES                                                |       850| 1|CENTRUM
-06|04| 2|    |VINCZE L¡SZL”                                               |     18152| 2|FIDESZ                        |MDF
-06|04| 1|    |F¡BI¡N GY÷RGY                                               |     13198| 1|MSZP
-06|05| 2|    |FARKAS S¡NDOR                                               |     13303| 2|FIDESZ                        |MDF
+05|12| 1|    |KOV√ÅCS TIBOR                                                |     19069| 1|MSZP
+05|12| 2|    |STEINERN√â VASV√ÅRI √âVA                                       |     14547| 2|FIDESZ                        |MDF
+06|01| 2|    |UJHELYI ISTV√ÅN                                              |     21646| 1|MSZP
+06|01| 1|DR. |R√ÅKOS TIBOR                                                 |     15846| 2|FIDESZ                        |MDF
+06|02| 1|    |BALOGH L√ÅSZL√ì                                               |     21937| 2|FIDESZ                        |MDF
+06|02| 2|DR. |G√âCZI J√ìZSEF ALAJOS                                         |     20524| 1|MSZP
+06|03| 2|DR. |BOTKA L√ÅSZL√ì                                                |     21968| 1|MSZP
+06|03| 1|DR. |BARTHA L√ÅSZL√ì                                               |     17747| 2|FIDESZ                        |MDF
+06|03| 3|DR. |P√ÅSZTI √ÅGNES                                                |       850| 1|CENTRUM
+06|04| 2|    |VINCZE L√ÅSZL√ì                                               |     18152| 2|FIDESZ                        |MDF
+06|04| 1|    |F√ÅBI√ÅN GY√ñRGY                                               |     13198| 1|MSZP
+06|05| 2|    |FARKAS S√ÅNDOR                                               |     13303| 2|FIDESZ                        |MDF
 06|05| 1|DR. |DEMETER ATTILA                                              |     11682| 1|MSZP
-06|07| 3|DR. |MARTONOSI GY÷RGY                                            |     14130| 2|FIDESZ                        |MDF
-06|07| 1|DR. |BUZ¡S P…TER                                                 |     12157| 1|MSZP
-06|07| 2|DR. |D¡N J¡NOS                                                   |       692| 1|F‹GGETLEN KISGAZDAP¡RT
-07|02| 1|DR. |G”GL ¡RP¡D                                                  |     21019| 2|FIDESZ                        |MDF
-07|02| 2|    |MOLN¡R ALBERT                                               |     17431| 1|MSZP
-07|04| 1|    |ECS’DI L¡SZL”                                               |     19748| 1|MSZP
-07|04| 2|DR. |OROSH¡ZI GY÷RGY                                             |     17537| 2|FIDESZ                        |MDF
-07|06| 1|    |LENGYEL ZOLT¡N                                              |     19169| 2|FIDESZ                        |MDF
-07|06| 2|    |SZABADOS TAM¡S                                              |     13936| 1|MSZP
-07|07| 1|DR. |KELEMEN ANDR¡S                                              |     19414| 2|FIDESZ                        |MDF
-07|07| 2|    |PENZN… LAJTA KATALIN                                        |     14248| 1|MSZP
-08|02| 2|DR. |SZAK¡CS IMRE                                                |     20657| 2|FIDESZ                        |MDF
-08|02| 1|    |SZAB” S¡NDORN…                                              |     19022| 1|MSZP
-08|04| 1|DR. |PAP J¡NOS                                                   |     19143| 2|FIDESZ                        |MDF
-08|04| 2|    |STIPKOVITS P¡L                                              |     17743| 1|MSZP
-08|07| 2|DR. |SZ¡JER J”ZSEF                                               |     22026| 2|FIDESZ                        |MDF
-08|07| 1|    |KR¡NITZ L¡SZL”                                              |     17558| 1|MSZP
-09|02| 1|    |HAL¡SZ J¡NOS                                                |     19002| 2|FIDESZ                        |MDF
-09|02| 2|DR. |JUH¡SZN… L…VAI KATALIN                                      |     15309| 1|MSZP
-09|04| 2|    |L¡YER J”ZSEF                                                |     17678| 2|FIDESZ                        |MDF
-09|04| 1|    |DERZSI MIKL”S                                               |     10908| 1|MSZP
-09|05| 2|DR. |VIT¡NYI ISTV¡N                                              |     15215| 2|FIDESZ                        |MDF
-09|05| 1|    |SZIL¡GYI P…TER                                              |     14497| 1|MSZP
-09|06| 1|    |ARN”TH S¡NDOR                                               |     14454| 2|FIDESZ                        |MDF
-09|06| 2|DR. |MOLN¡R L¡SZL”                                               |     14061| 1|MSZP
-09|07| 1|    |M¡RTON ATTILA                                               |     19727| 2|FIDESZ                        |MDF
-09|07| 2|DR. |TAK¡CS IMRE                                                 |     14452| 1|MSZP
-09|08| 2|DR. |TIBA ISTV¡N                                                 |     13237| 2|FIDESZ                        |MDF
-09|08| 1|    |G¡L ISTV¡N                                                  |     12367| 1|SZDSZ
-09|09| 2|    |P‹SKI ANDR¡S                                                |     18379| 2|FIDESZ                        |MDF
-09|09| 1|DR. |NAGY S¡NDOR                                                 |     13995| 1|MSZP
+06|07| 3|DR. |MARTONOSI GY√ñRGY                                            |     14130| 2|FIDESZ                        |MDF
+06|07| 1|DR. |BUZ√ÅS P√âTER                                                 |     12157| 1|MSZP
+06|07| 2|DR. |D√ÅN J√ÅNOS                                                   |       692| 1|F√úGGETLEN KISGAZDAP√ÅRT
+07|02| 1|DR. |G√ìGL √ÅRP√ÅD                                                  |     21019| 2|FIDESZ                        |MDF
+07|02| 2|    |MOLN√ÅR ALBERT                                               |     17431| 1|MSZP
+07|04| 1|    |ECS≈êDI L√ÅSZL√ì                                               |     19748| 1|MSZP
+07|04| 2|DR. |OROSH√ÅZI GY√ñRGY                                             |     17537| 2|FIDESZ                        |MDF
+07|06| 1|    |LENGYEL ZOLT√ÅN                                              |     19169| 2|FIDESZ                        |MDF
+07|06| 2|    |SZABADOS TAM√ÅS                                              |     13936| 1|MSZP
+07|07| 1|DR. |KELEMEN ANDR√ÅS                                              |     19414| 2|FIDESZ                        |MDF
+07|07| 2|    |PENZN√â LAJTA KATALIN                                        |     14248| 1|MSZP
+08|02| 2|DR. |SZAK√ÅCS IMRE                                                |     20657| 2|FIDESZ                        |MDF
+08|02| 1|    |SZAB√ì S√ÅNDORN√â                                              |     19022| 1|MSZP
+08|04| 1|DR. |PAP J√ÅNOS                                                   |     19143| 2|FIDESZ                        |MDF
+08|04| 2|    |STIPKOVITS P√ÅL                                              |     17743| 1|MSZP
+08|07| 2|DR. |SZ√ÅJER J√ìZSEF                                               |     22026| 2|FIDESZ                        |MDF
+08|07| 1|    |KR√ÅNITZ L√ÅSZL√ì                                              |     17558| 1|MSZP
+09|02| 1|    |HAL√ÅSZ J√ÅNOS                                                |     19002| 2|FIDESZ                        |MDF
+09|02| 2|DR. |JUH√ÅSZN√â L√âVAI KATALIN                                      |     15309| 1|MSZP
+09|04| 2|    |L√ÅYER J√ìZSEF                                                |     17678| 2|FIDESZ                        |MDF
+09|04| 1|    |DERZSI MIKL√ìS                                               |     10908| 1|MSZP
+09|05| 2|DR. |VIT√ÅNYI ISTV√ÅN                                              |     15215| 2|FIDESZ                        |MDF
+09|05| 1|    |SZIL√ÅGYI P√âTER                                              |     14497| 1|MSZP
+09|06| 1|    |ARN√ìTH S√ÅNDOR                                               |     14454| 2|FIDESZ                        |MDF
+09|06| 2|DR. |MOLN√ÅR L√ÅSZL√ì                                               |     14061| 1|MSZP
+09|07| 1|    |M√ÅRTON ATTILA                                               |     19727| 2|FIDESZ                        |MDF
+09|07| 2|DR. |TAK√ÅCS IMRE                                                 |     14452| 1|MSZP
+09|08| 2|DR. |TIBA ISTV√ÅN                                                 |     13237| 2|FIDESZ                        |MDF
+09|08| 1|    |G√ÅL ISTV√ÅN                                                  |     12367| 1|SZDSZ
+09|09| 2|    |P√úSKI ANDR√ÅS                                                |     18379| 2|FIDESZ                        |MDF
+09|09| 1|DR. |NAGY S√ÅNDOR                                                 |     13995| 1|MSZP
 10|01| 2|DR. |NAGY IMRE                                                   |     21468| 1|MSZP
-10|01| 1|    |HOMA J¡NOS                                                  |     17750| 2|FIDESZ                        |MDF
-10|02| 2|    |S”S TAM¡S                                                   |     14400| 1|MSZP
-10|02| 1|    |HORV¡TH L¡SZL”                                              |     14166| 2|FIDESZ                        |MDF
-10|03| 1|DR. |MAGDA S¡NDOR                                                |     22144| 1|MSZP
-10|03| 2|DR. |M¡NYA KRIST”F                                               |     16277| 2|FIDESZ                        |MDF
-10|05| 1|    |GOD” LAJOS                                                  |     15107| 1|MSZP
-10|05| 2|DR. |T”TH J”ZSEF                                                 |     11474| 2|FIDESZ                        |MDF
-10|06| 1|    |GULY¡S L¡SZL”                                               |     13443| 1|MSZP
+10|01| 1|    |HOMA J√ÅNOS                                                  |     17750| 2|FIDESZ                        |MDF
+10|02| 2|    |S√ìS TAM√ÅS                                                   |     14400| 1|MSZP
+10|02| 1|    |HORV√ÅTH L√ÅSZL√ì                                              |     14166| 2|FIDESZ                        |MDF
+10|03| 1|DR. |MAGDA S√ÅNDOR                                                |     22144| 1|MSZP
+10|03| 2|DR. |M√ÅNYA KRIST√ìF                                               |     16277| 2|FIDESZ                        |MDF
+10|05| 1|    |GOD√ì LAJOS                                                  |     15107| 1|MSZP
+10|05| 2|DR. |T√ìTH J√ìZSEF                                                 |     11474| 2|FIDESZ                        |MDF
+10|06| 1|    |GULY√ÅS L√ÅSZL√ì                                               |     13443| 1|MSZP
 10|06| 2|    |ZAY ANDREA                                                  |     12031| 2|FIDESZ                        |MDF
-11|01| 1|DR. |GEDEI J”ZSEF                                                |     13484| 1|MSZP
-11|01| 2|    |SZ¡DV¡RI G¡BOR                                              |     13273| 2|FIDESZ                        |MDF
-11|02| 1|    |J¡RV¡S ISTV¡N                                               |     12682| 2|FIDESZ                        |MDF
+11|01| 1|DR. |GEDEI J√ìZSEF                                                |     13484| 1|MSZP
+11|01| 2|    |SZ√ÅDV√ÅRI G√ÅBOR                                              |     13273| 2|FIDESZ                        |MDF
+11|02| 1|    |J√ÅRV√ÅS ISTV√ÅN                                               |     12682| 2|FIDESZ                        |MDF
 11|02| 2|DR. |SZEKERES IMRE                                               |     10551| 1|MSZP
-11|03| 1|    |BOTKA LAJOSN…                                               |     19152| 1|MSZP
+11|03| 1|    |BOTKA LAJOSN√â                                               |     19152| 1|MSZP
 11|03| 2|    |SZALAY FERENC                                               |     14961| 2|FIDESZ                        |MDF
-11|04| 2|DR. |F‹LE ISTV¡N                                                 |     20446| 1|MSZP
-11|04| 1|    |BALLA GY÷RGY                                                |     14682| 2|FIDESZ                        |MDF
-11|06| 2|    |R”ZSA ENDRE                                                 |     13521| 1|MSZP
-11|06| 1|    |B⁄SI LAJOS                                                  |     11265| 2|FIDESZ                        |MDF
-11|06| 3|DR. |SZAB” ZOLT¡N                                                |         0| 1|CENTRUM
-11|07| 2|    |HERB¡LY IMRE                                                |     15951| 1|MSZP
-11|07| 1|    |FEJ…R ANDOR                                                 |     14730| 2|FIDESZ                        |MDF
-11|08| 2|    |VARGA MIH¡LY                                                |     17436| 2|FIDESZ                        |MDF
-11|08| 1|    |VADAI ¡GNES                                                 |     14210| 1|MSZP
+11|04| 2|DR. |F√úLE ISTV√ÅN                                                 |     20446| 1|MSZP
+11|04| 1|    |BALLA GY√ñRGY                                                |     14682| 2|FIDESZ                        |MDF
+11|06| 2|    |R√ìZSA ENDRE                                                 |     13521| 1|MSZP
+11|06| 1|    |B√öSI LAJOS                                                  |     11265| 2|FIDESZ                        |MDF
+11|06| 3|DR. |SZAB√ì ZOLT√ÅN                                                |         0| 1|CENTRUM
+11|07| 2|    |HERB√ÅLY IMRE                                                |     15951| 1|MSZP
+11|07| 1|    |FEJ√âR ANDOR                                                 |     14730| 2|FIDESZ                        |MDF
+11|08| 2|    |VARGA MIH√ÅLY                                                |     17436| 2|FIDESZ                        |MDF
+11|08| 1|    |VADAI √ÅGNES                                                 |     14210| 1|MSZP
 12|01| 1|DR. |SCHVARCZ TIBOR                                              |     28434| 1|MSZP
-12|01| 2|DR. |SZTRUH¡R GYULA                                              |     12474| 2|FIDESZ                        |MDF
-12|02| 3|    |T”TH ANDR¡S                                                 |     18739| 1|MSZP
-12|02| 2|    |RUCHTI R”BERT                                               |     17612| 2|FIDESZ                        |MDF
+12|01| 2|DR. |SZTRUH√ÅR GYULA                                              |     12474| 2|FIDESZ                        |MDF
+12|02| 3|    |T√ìTH ANDR√ÅS                                                 |     18739| 1|MSZP
+12|02| 2|    |RUCHTI R√ìBERT                                               |     17612| 2|FIDESZ                        |MDF
 12|02| 1|    |KERTI KATALIN                                               |         0| 1|SZDSZ
-12|04| 2|    |ZATYK” J¡NOS                                                |     20024| 1|MSZP
-12|04| 1|DR. |JUH¡SZN… DR. GORD¡N ILDIK”                                  |     16780| 2|FIDESZ                        |MDF
-12|05| 2|DR. |TITTMANN J¡NOS                                              |     18772| 1|MSZP
-12|05| 1|DR. |LATORCAI J¡NOS                                              |     17535| 2|FIDESZ                        |MDF
-13|01| 2|    |PUSZTA B…LA                                                 |     20635| 1|MSZP
-13|01| 1|    |BECS” ZSOLT                                                 |     11495| 2|FIDESZ                        |MDF
-13|02| 1|    |JUH¡SZ G¡BOR                                                |     18509| 1|MSZP
-13|02| 2|    |SIS¡K IMRE J¡NOS                                            |     14561| 2|FIDESZ                        |MDF
-13|03| 2|DR. |SURJ¡N L¡SZL”                                               |     15766| 2|FIDESZ                        |MDF
-13|03| 1|DR. |SERF’Z’ ANDR¡S                                              |     12801| 1|MSZP
-13|04| 1|    |BALLA MIH¡LY TIBOR                                          |     19697| 2|FIDESZ                        |MDF
-13|04| 2|    |URB¡N ¡RP¡D                                                 |     14526| 1|MSZP
-14|01| 1|    |HARRACH P…TER                                               |     20314| 2|FIDESZ                        |MDF
-14|01| 2|    |K¡RP¡TI ZSUZSA                                              |     14208| 1|MSZP
+12|04| 2|    |ZATYK√ì J√ÅNOS                                                |     20024| 1|MSZP
+12|04| 1|DR. |JUH√ÅSZN√â DR. GORD√ÅN ILDIK√ì                                  |     16780| 2|FIDESZ                        |MDF
+12|05| 2|DR. |TITTMANN J√ÅNOS                                              |     18772| 1|MSZP
+12|05| 1|DR. |LATORCAI J√ÅNOS                                              |     17535| 2|FIDESZ                        |MDF
+13|01| 2|    |PUSZTA B√âLA                                                 |     20635| 1|MSZP
+13|01| 1|    |BECS√ì ZSOLT                                                 |     11495| 2|FIDESZ                        |MDF
+13|02| 1|    |JUH√ÅSZ G√ÅBOR                                                |     18509| 1|MSZP
+13|02| 2|    |SIS√ÅK IMRE J√ÅNOS                                            |     14561| 2|FIDESZ                        |MDF
+13|03| 2|DR. |SURJ√ÅN L√ÅSZL√ì                                               |     15766| 2|FIDESZ                        |MDF
+13|03| 1|DR. |SERF≈êZ≈ê ANDR√ÅS                                              |     12801| 1|MSZP
+13|04| 1|    |BALLA MIH√ÅLY TIBOR                                          |     19697| 2|FIDESZ                        |MDF
+13|04| 2|    |URB√ÅN √ÅRP√ÅD                                                 |     14526| 1|MSZP
+14|01| 1|    |HARRACH P√âTER                                               |     20314| 2|FIDESZ                        |MDF
+14|01| 2|    |K√ÅRP√ÅTI ZSUZSA                                              |     14208| 1|MSZP
 14|02| 2|    |IMRE ZSOLT                                                  |     17057| 2|FIDESZ                        |MDF
-14|02| 1|DR. |B”TH J¡NOS                                                  |     16425| 1|MSZP
-14|03| 2|    |T”TH ANDR¡S                                                 |     19243| 1|MSZP
-14|03| 1|DR. |SALAMON L¡SZL”                                              |     17881| 2|FIDESZ                        |MDF
-14|04| 2|DR. |G…MESI GY÷RGY                                               |     24634| 2|FIDESZ                        |MDF
-14|04| 3|    |KOV¡CS BARNAB¡S                                             |     23504| 1|MSZP
-14|04| 1|DR. |B‹KKFALVY BEATRIX                                           |         0| 1|MI…P
-14|05| 2|    |T”TH G¡BOR                                                  |     17179| 2|FIDESZ                        |MDF
-14|05| 1|    |SZAB” IMRE                                                  |     12813| 1|MSZP
-14|06| 1|    |CZERV¡N GY÷RGY                                              |     21469| 2|FIDESZ                        |MDF
-14|06| 2|    |DOSZPOT P…TER                                               |     18210| 1|MSZP
-14|07| 1|DR. |G¡L ZOLT¡N                                                  |     22536| 1|MSZP
-14|07| 2|    |POG¡CS¡S TIBOR                                              |     21863| 2|FIDESZ                        |MDF
-14|08| 1|DR. |J¡NOSI GY÷RGY                                               |     26460| 1|MSZP
-14|08| 2|    |V¡RKONYI ANDR¡S                                             |     21395| 2|FIDESZ                        |MDF
-14|09| 1|    |KELLER L¡SZL”                                               |     19346| 1|MSZP
+14|02| 1|DR. |B√ìTH J√ÅNOS                                                  |     16425| 1|MSZP
+14|03| 2|    |T√ìTH ANDR√ÅS                                                 |     19243| 1|MSZP
+14|03| 1|DR. |SALAMON L√ÅSZL√ì                                              |     17881| 2|FIDESZ                        |MDF
+14|04| 2|DR. |G√âMESI GY√ñRGY                                               |     24634| 2|FIDESZ                        |MDF
+14|04| 3|    |KOV√ÅCS BARNAB√ÅS                                             |     23504| 1|MSZP
+14|04| 1|DR. |B√úKKFALVY BEATRIX                                           |         0| 1|MI√âP
+14|05| 2|    |T√ìTH G√ÅBOR                                                  |     17179| 2|FIDESZ                        |MDF
+14|05| 1|    |SZAB√ì IMRE                                                  |     12813| 1|MSZP
+14|06| 1|    |CZERV√ÅN GY√ñRGY                                              |     21469| 2|FIDESZ                        |MDF
+14|06| 2|    |DOSZPOT P√âTER                                               |     18210| 1|MSZP
+14|07| 1|DR. |G√ÅL ZOLT√ÅN                                                  |     22536| 1|MSZP
+14|07| 2|    |POG√ÅCS√ÅS TIBOR                                              |     21863| 2|FIDESZ                        |MDF
+14|08| 1|DR. |J√ÅNOSI GY√ñRGY                                               |     26460| 1|MSZP
+14|08| 2|    |V√ÅRKONYI ANDR√ÅS                                             |     21395| 2|FIDESZ                        |MDF
+14|09| 1|    |KELLER L√ÅSZL√ì                                               |     19346| 1|MSZP
 14|09| 2|    |SELMECZI GABRIELLA                                          |     18864| 2|FIDESZ                        |MDF
 14|10| 1|DR. |FRAJNA IMRE                                                 |     23999| 2|FIDESZ                        |MDF
-14|10| 2|    |NIKOLITS ISTV¡N                                             |     20753| 1|MSZP
-14|11| 1|    |HADH¡ZY S¡NDOR                                              |     23138| 2|FIDESZ                        |MDF
-14|11| 2|    |MIAKICH G¡BOR                                               |     18973| 1|MSZP
-14|12| 2|    |KUNCZE G¡BOR                                                |     24593| 1|SZDSZ
-14|12| 1|    |HOFFMAN P¡L                                                 |     18809| 2|FIDESZ                        |MDF
-14|13| 1|    |P¡NCZ…L K¡ROLY                                              |     21809| 2|FIDESZ                        |MDF
+14|10| 2|    |NIKOLITS ISTV√ÅN                                             |     20753| 1|MSZP
+14|11| 1|    |HADH√ÅZY S√ÅNDOR                                              |     23138| 2|FIDESZ                        |MDF
+14|11| 2|    |MIAKICH G√ÅBOR                                               |     18973| 1|MSZP
+14|12| 2|    |KUNCZE G√ÅBOR                                                |     24593| 1|SZDSZ
+14|12| 1|    |HOFFMAN P√ÅL                                                 |     18809| 2|FIDESZ                        |MDF
+14|13| 1|    |P√ÅNCZ√âL K√ÅROLY                                              |     21809| 2|FIDESZ                        |MDF
 14|13| 2|    |PUSZTAI CSABA                                               |     21145| 1|MSZP
-14|14| 3|    |SZ€CS LAJOS                                                 |     20538| 2|FIDESZ                        |MDF
-14|14| 2|    |KR¡LL B…LA                                                  |     15161| 1|MSZP
-14|14| 1|DR. |DROPPA L¡SZL”N…                                             |         0| 1|SZDSZ
-14|15| 2|DR. |CS¡KY ANDR¡S                                                |     19820| 2|FIDESZ                        |MDF
+14|14| 3|    |SZ≈∞CS LAJOS                                                 |     20538| 2|FIDESZ                        |MDF
+14|14| 2|    |KR√ÅLL B√âLA                                                  |     15161| 1|MSZP
+14|14| 1|DR. |DROPPA L√ÅSZL√ìN√â                                             |         0| 1|SZDSZ
+14|15| 2|DR. |CS√ÅKY ANDR√ÅS                                                |     19820| 2|FIDESZ                        |MDF
 14|15| 1|DR. |CZINEGE IMRE                                                |     18078| 1|MSZP
 14|16| 1|DR. |CZIRA SZABOLCS                                              |     16253| 2|FIDESZ                        |MDF
-14|16| 2|    |T”BI¡S J”ZSEF                                               |     11350| 1|MSZP
-15|01| 1|DR. |LAMPERTH M”NIKA                                             |     16262| 1|MSZP
-15|01| 2|    |SZITA K¡ROLY                                                |     14900| 2|FIDESZ                        |MDF
-15|02| 2|DR. |SZAB” J”ZSEF ANDOR                                          |     18751| 2|FIDESZ                        |MDF
-15|02| 1|    |P¡SZTOHY ANDR¡S                                             |     18536| 1|MSZP
+14|16| 2|    |T√ìBI√ÅS J√ìZSEF                                               |     11350| 1|MSZP
+15|01| 1|DR. |LAMPERTH M√ìNIKA                                             |     16262| 1|MSZP
+15|01| 2|    |SZITA K√ÅROLY                                                |     14900| 2|FIDESZ                        |MDF
+15|02| 2|DR. |SZAB√ì J√ìZSEF ANDOR                                          |     18751| 2|FIDESZ                        |MDF
+15|02| 1|    |P√ÅSZTOHY ANDR√ÅS                                             |     18536| 1|MSZP
 15|03| 1|DR. |GRUBER ATTILA                                               |     19009| 2|FIDESZ                        |MDF
-15|03| 2|DR. |H¡ZAS J”ZSEF                                                |     15410| 1|MSZP
-15|03| 3|    |MOLN¡R ¡RP¡D                                                |         0| 1|CENTRUM
-15|04| 1|    |HER…NYI K¡ROLY                                              |     17518| 2|FIDESZ                        |MDF
-15|04| 2|DR. |KOLBER ISTV¡N                                               |     14419| 1|MSZP
-15|05| 2|    |SZ¡SZFALVI L¡SZL”                                           |     17605| 2|FIDESZ                        |MDF
-15|05| 1|DR. |S‹T’ L¡SZL”                                                 |     13174| 1|MSZP
-15|06| 3|    |KUZMA L¡SZL”                                                |     15587| 2|FIDESZ                        |MDF
-15|06| 1|    |FRANCZ REZS’                                                |     14735| 1|MSZP
-15|06| 2|DR. |GYENESEI ISTV¡N                                             |         0| 1|CENTRUM
-16|01| 3|DR. |VOJNIK M¡RIA                                                |     20615| 1|MSZP
-16|01| 1|    |PARRAGH D…NES                                               |     13975| 2|FIDESZ                        |MDF
-16|01| 2|    |VARGA ILDIK”                                                |       677| 1|CENTRUM
-16|03| 2|DR. |KARAK” L¡SZL”                                               |     14766| 2|FIDESZ                        |MDF
-16|03| 1|    |JUH¡SZ FERENC                                               |     14531| 1|MSZP
-16|04| 3|    |T”TH ANDR¡S                                                 |     15556| 2|FIDESZ                        |MDF
-16|04| 2|DR. |S¡NDOR ELEK                                                 |     11414| 1|MSZP
-16|04| 1|DR. |HELMECZY L¡SZL”                                             |      2500| 1|CENTRUM
-16|05| 2|DR. |PAPCS¡K FERENC                                              |     17100| 2|FIDESZ                        |MDF
-16|05| 1|    |GAZDA L¡SZL”                                                |     13748| 1|MSZP
-16|06| 1|DR. |SIMON MIKL”S                                                |     17747| 2|FIDESZ                        |MDF
-16|06| 2|DR. |VERES J¡NOS                                                 |     12206| 1|MSZP
-16|07| 2|    |BORK” K¡ROLY                                                |     16144| 2|FIDESZ                        |MDF
+15|03| 2|DR. |H√ÅZAS J√ìZSEF                                                |     15410| 1|MSZP
+15|03| 3|    |MOLN√ÅR √ÅRP√ÅD                                                |         0| 1|CENTRUM
+15|04| 1|    |HER√âNYI K√ÅROLY                                              |     17518| 2|FIDESZ                        |MDF
+15|04| 2|DR. |KOLBER ISTV√ÅN                                               |     14419| 1|MSZP
+15|05| 2|    |SZ√ÅSZFALVI L√ÅSZL√ì                                           |     17605| 2|FIDESZ                        |MDF
+15|05| 1|DR. |S√úT≈ê L√ÅSZL√ì                                                 |     13174| 1|MSZP
+15|06| 3|    |KUZMA L√ÅSZL√ì                                                |     15587| 2|FIDESZ                        |MDF
+15|06| 1|    |FRANCZ REZS≈ê                                                |     14735| 1|MSZP
+15|06| 2|DR. |GYENESEI ISTV√ÅN                                             |         0| 1|CENTRUM
+16|01| 3|DR. |VOJNIK M√ÅRIA                                                |     20615| 1|MSZP
+16|01| 1|    |PARRAGH D√âNES                                               |     13975| 2|FIDESZ                        |MDF
+16|01| 2|    |VARGA ILDIK√ì                                                |       677| 1|CENTRUM
+16|03| 2|DR. |KARAK√ì L√ÅSZL√ì                                               |     14766| 2|FIDESZ                        |MDF
+16|03| 1|    |JUH√ÅSZ FERENC                                               |     14531| 1|MSZP
+16|04| 3|    |T√ìTH ANDR√ÅS                                                 |     15556| 2|FIDESZ                        |MDF
+16|04| 2|DR. |S√ÅNDOR ELEK                                                 |     11414| 1|MSZP
+16|04| 1|DR. |HELMECZY L√ÅSZL√ì                                             |      2500| 1|CENTRUM
+16|05| 2|DR. |PAPCS√ÅK FERENC                                              |     17100| 2|FIDESZ                        |MDF
+16|05| 1|    |GAZDA L√ÅSZL√ì                                                |     13748| 1|MSZP
+16|06| 1|DR. |SIMON MIKL√ìS                                                |     17747| 2|FIDESZ                        |MDF
+16|06| 2|DR. |VERES J√ÅNOS                                                 |     12206| 1|MSZP
+16|07| 2|    |BORK√ì K√ÅROLY                                                |     16144| 2|FIDESZ                        |MDF
 16|07| 1|    |BAJOR TIBOR                                                 |     15426| 2|MSZP                          |MSZDP
-16|07| 3|DR. |NAGY M¡RIA                                                  |         0| 1|SZDSZ
-16|09| 1|    |F‹L÷P ISTV¡N                                                |     17975| 2|FIDESZ                        |MDF
-16|09| 2|    |KERT…SZ ISTV¡N                                              |     12741| 2|MSZP                          |MSZDP
-16|10| 2|    |LENGYEL J¡NOS                                               |     16648| 2|FIDESZ                        |MDF
-16|10| 1|DR. |KAPOLYI L¡SZL”                                              |     12542| 2|MSZP                          |MSZDP
-17|01| 1|DR. |BRAUN M¡RTON                                                |     20207| 2|FIDESZ                        |MDF
+16|07| 3|DR. |NAGY M√ÅRIA                                                  |         0| 1|SZDSZ
+16|09| 1|    |F√úL√ñP ISTV√ÅN                                                |     17975| 2|FIDESZ                        |MDF
+16|09| 2|    |KERT√âSZ ISTV√ÅN                                              |     12741| 2|MSZP                          |MSZDP
+16|10| 2|    |LENGYEL J√ÅNOS                                               |     16648| 2|FIDESZ                        |MDF
+16|10| 1|DR. |KAPOLYI L√ÅSZL√ì                                              |     12542| 2|MSZP                          |MSZDP
+17|01| 1|DR. |BRAUN M√ÅRTON                                                |     20207| 2|FIDESZ                        |MDF
 17|01| 3|    |KOCSIS IMRE ANTAL                                           |     19565| 1|SZDSZ
-17|01| 2|    |HALMAI G¡BORN…                                              |         0| 1|MSZP
-17|02| 2|    |T”TH FERENC                                                 |     19340| 2|FIDESZ                        |MDF
-17|02| 1|    |SZAB” J”ZSEF                                                |     15394| 1|MSZP
-17|03| 2|    |POT¡PI ¡RP¡D                                                |     17015| 2|FIDESZ                        |MDF
+17|01| 2|    |HALMAI G√ÅBORN√â                                              |         0| 1|MSZP
+17|02| 2|    |T√ìTH FERENC                                                 |     19340| 2|FIDESZ                        |MDF
+17|02| 1|    |SZAB√ì J√ìZSEF                                                |     15394| 1|MSZP
+17|03| 2|    |POT√ÅPI √ÅRP√ÅD                                                |     17015| 2|FIDESZ                        |MDF
 17|03| 1|DR. |KARL IMRE                                                   |     11658| 1|MSZP
-17|04| 2|    |T”TH GYULA                                                  |     10566| 1|MSZP
-17|04| 1|    |FEH…RV¡RI TAM¡S                                             |     10295| 2|FIDESZ                        |MDF
-17|05| 1|DR. |D¡VID IBOLYA                                                |     13836| 2|FIDESZ                        |MDF
-17|05| 2|    |FRANKN… DR. KOV¡CS SZILVIA                                  |     10721| 1|MSZP
-18|02| 1|    |S¡GI J”ZSEF                                                 |     17872| 2|FIDESZ                        |MDF
-18|02| 2|    |SZ‹CS G¡BOR                                                 |     13101| 2|MSZP                          |SZDSZ
-18|04| 1|    |KOV¡CS FERENC                                               |     20191| 2|FIDESZ                        |MDF
-18|04| 2|    |SZAB” LAJOS                                                 |     13777| 1|MSZP
-19|01| 1|    |…KES J”ZSEF                                                 |     17922| 2|FIDESZ                        |MDF
-19|01| 2|    |SCHWARTZ B…LA                                               |     16368| 1|MSZP
-19|05| 1|    |GYAPAY ZOLT¡N                                               |     17257| 2|FIDESZ                        |MDF
-19|05| 2|    |T÷RZS÷K K¡ROLYN… DR                                         |     17247| 1|MSZP
-19|07| 2|    |P¡L B…LA                                                    |     16023| 1|MSZP
-19|07| 1|    |BERN¡TH ILDIK”                                              |     13442| 2|FIDESZ                        |MDF
-20|01| 1|DR. |GYIMESI ENDRE J”ZSEF                                        |     19809| 2|FIDESZ                        |MDF
-20|01| 2|    |VARGA L¡SZL”                                                |     17865| 1|MSZP
-20|02| 2|    |G÷ND÷R ISTV¡N                                               |     19283| 1|MSZP
-20|02| 1|    |CSERESNY…S P…TER                                            |     16727| 2|FIDESZ                        |MDF
-20|03| 1|    |MANNINGER JEN’ VILMOS                                       |     20302| 2|FIDESZ                        |MDF
-20|03| 2|    |VE…R MIKL”S                                                 |     14051| 1|MSZP
+17|04| 2|    |T√ìTH GYULA                                                  |     10566| 1|MSZP
+17|04| 1|    |FEH√âRV√ÅRI TAM√ÅS                                             |     10295| 2|FIDESZ                        |MDF
+17|05| 1|DR. |D√ÅVID IBOLYA                                                |     13836| 2|FIDESZ                        |MDF
+17|05| 2|    |FRANKN√â DR. KOV√ÅCS SZILVIA                                  |     10721| 1|MSZP
+18|02| 1|    |S√ÅGI J√ìZSEF                                                 |     17872| 2|FIDESZ                        |MDF
+18|02| 2|    |SZ√úCS G√ÅBOR                                                 |     13101| 2|MSZP                          |SZDSZ
+18|04| 1|    |KOV√ÅCS FERENC                                               |     20191| 2|FIDESZ                        |MDF
+18|04| 2|    |SZAB√ì LAJOS                                                 |     13777| 1|MSZP
+19|01| 1|    |√âKES J√ìZSEF                                                 |     17922| 2|FIDESZ                        |MDF
+19|01| 2|    |SCHWARTZ B√âLA                                               |     16368| 1|MSZP
+19|05| 1|    |GYAPAY ZOLT√ÅN                                               |     17257| 2|FIDESZ                        |MDF
+19|05| 2|    |T√ñRZS√ñK K√ÅROLYN√â DR                                         |     17247| 1|MSZP
+19|07| 2|    |P√ÅL B√âLA                                                    |     16023| 1|MSZP
+19|07| 1|    |BERN√ÅTH ILDIK√ì                                              |     13442| 2|FIDESZ                        |MDF
+20|01| 1|DR. |GYIMESI ENDRE J√ìZSEF                                        |     19809| 2|FIDESZ                        |MDF
+20|01| 2|    |VARGA L√ÅSZL√ì                                                |     17865| 1|MSZP
+20|02| 2|    |G√ñND√ñR ISTV√ÅN                                               |     19283| 1|MSZP
+20|02| 1|    |CSERESNY√âS P√âTER                                            |     16727| 2|FIDESZ                        |MDF
+20|03| 1|    |MANNINGER JEN≈ê VILMOS                                       |     20302| 2|FIDESZ                        |MDF
+20|03| 2|    |VE√âR MIKL√ìS                                                 |     14051| 1|MSZP

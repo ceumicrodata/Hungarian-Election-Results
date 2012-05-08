@@ -1,276 +1,276 @@
-01|BUDAPEST  |003|BUDAPEST          03|00100302|F‹GGETLEN CIG¡NY              |01|00024840|    F¡TYOL MIH¡LY                       |3|nem nyert
-01|BUDAPEST  |008|BUDAPEST          08|00100802|F‹GGETLEN CIG¡NY              |01|00054351|    CSORBA ZOLT¡N                       |2|kedvezmÈnyes mand·tumot nyert
-01|BUDAPEST  |008|BUDAPEST          08|00100802|F‹GGETLEN CIG¡NY              |02|00056057|    OL¡H G¡BOR                          |3|nem nyert
-01|BUDAPEST  |008|BUDAPEST          08|00100802|F‹GGETLEN CIG¡NY              |03|00037935|    SZAB” L¡SZL”                        |3|nem nyert
-01|BUDAPEST  |009|BUDAPEST          09|00100902|F‹GGETLEN CIG¡NY              |01|00047102|    KOV¡CS ¡RP¡D                        |3|nem nyert
-01|BUDAPEST  |009|BUDAPEST          09|00100902|F‹GGETLEN CIG¡NY              |02|00059510|    KOV¡CS J”ZSEF                       |3|nem nyert
-01|BUDAPEST  |009|BUDAPEST          09|00100902|F‹GGETLEN CIG¡NY              |03|00074306|    KOV¡CS ¡RP¡DN…                      |3|nem nyert
-01|BUDAPEST  |010|BUDAPEST          10|00101002|F‹GGETLEN CIG¡NY              |01|00069541|÷ZV S¡NDORN… FARKAS KATALIN             |3|nem nyert
-01|BUDAPEST  |010|BUDAPEST          10|00101002|F‹GGETLEN CIG¡NY              |02|00007991|    DANYI S¡NDOR                        |3|nem nyert
-01|BUDAPEST  |015|BUDAPEST          15|00101502|F‹GGETLEN CIG¡NY              |01|00050206|    BALOGH GYULA                        |3|nem nyert
-01|BUDAPEST  |015|BUDAPEST          15|00101502|F‹GGETLEN CIG¡NY              |02|00023465|    P¡VA J¡NOS                          |3|nem nyert
-01|BUDAPEST  |015|BUDAPEST          15|00101502|F‹GGETLEN CIG¡NY              |03|00058349|    RAFFAEL J”ZSEF                      |3|nem nyert
-01|BUDAPEST  |016|BUDAPEST          16|00101602|F‹GGETLEN CIG¡NY              |01|00039574|    KARSAI ANDR¡S                       |3|nem nyert
-01|BUDAPEST  |021|BUDAPEST          21|00102102|F‹GGETLEN CIG¡NY              |01|00065196|    K÷LL’ FERENCN…                      |3|nem nyert
-01|BUDAPEST  |021|BUDAPEST          21|00102102|F‹GGETLEN CIG¡NY              |02|00040094|    KOV¡CS FERENC                       |3|nem nyert
-01|BUDAPEST  |021|BUDAPEST          21|00102102|F‹GGETLEN CIG¡NY              |03|00066666|    FEH…R TIBORN…                       |3|nem nyert
-01|BUDAPEST  |021|BUDAPEST          21|00102106|F‹GGETLEN N…MET               |01|00071253|    L¡SZL”N… BAL¡ZSOVITS MAGDOLNA       |3|nem nyert
-01|BUDAPEST  |021|BUDAPEST          21|00102106|F‹GGETLEN N…MET               |02|00066706|    KATONA ISTV¡NN…                     |3|nem nyert
-01|BUDAPEST  |021|BUDAPEST          21|00102106|F‹GGETLEN N…MET               |03|00059992|    KALTENECKER G¡BOR                   |2|kedvezmÈnyes mand·tumot nyert
-01|BUDAPEST  |022|BUDAPEST          22|00102202|F‹GGETLEN CIG¡NY              |01|00052104|    DAR”CZI K¡ROLY                      |3|nem nyert
-01|BUDAPEST  |023|BUDAPEST          23|00102327|F‹GGETLEN N…MET               |01|00004122|    FR÷MMEL GYULA                       |3|nem nyert
-01|BUDAPEST  |023|BUDAPEST          23|00102327|F‹GGETLEN N…MET               |02|00065938|    S¡GHIN… DR. HARTAI VERONIKA         |3|nem nyert
-01|BUDAPEST  |023|BUDAPEST          23|00102327|F‹GGETLEN N…MET               |03|00050096|    JELENIK ISTV¡N                      |2|kedvezmÈnyes mand·tumot nyert
-02|BARANYA   |138|KOML”               |00213802|F‹GGETLEN CIG¡NY              |01|00033136|    KOML”SI MIH¡LY                      |3|nem nyert
-02|BARANYA   |138|KOML”               |00213802|F‹GGETLEN CIG¡NY              |02|00057024|    KUN G…ZA                            |3|nem nyert
-02|BARANYA   |138|KOML”               |00213802|F‹GGETLEN CIG¡NY              |03|00050857|    ORS”S ISTV¡N                        |3|nem nyert
-02|BARANYA   |138|KOML”               |00213802|F‹GGETLEN CIG¡NY              |04|00067703|    ORS”SN… M¡N ANNA                    |3|nem nyert
-02|BARANYA   |138|KOML”               |00213806|F‹GGETLEN N…MET               |01|00011752|    GUTH FERENC                         |2|kedvezmÈnyes mand·tumot nyert
-02|BARANYA   |182|MOH¡CS              |00218202|F‹GGETLEN CIG¡NY              |01|00076135|    KRIZBAI …VA                         |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218202|F‹GGETLEN CIG¡NY              |02|00073892|    MIH¡LOVICS IBOLYA                   |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218202|F‹GGETLEN CIG¡NY              |03|00074713|    MIH¡LOVICS J”ZSEFN…                 |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218202|F‹GGETLEN CIG¡NY              |04|00029325|    KOV¡CS J”ZSEF                       |2|kedvezmÈnyes mand·tumot nyert
-02|BARANYA   |182|MOH¡CS              |00218202|F‹GGETLEN CIG¡NY              |05|00076343|    HEGED€S CSILLA                      |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218202|F‹GGETLEN CIG¡NY              |06|00043341|    PETROVICS IMRE                      |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218204|F‹GGETLEN HORV¡T              |01|00034381|    LOV¡K ANTAL P¡L                     |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218206|F‹GGETLEN N…MET               |01|00029233|    RUZSEK K¡ROLY                       |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218206|F‹GGETLEN N…MET               |02|00012743|    KOLBACH FERENC                      |1|nyert
-02|BARANYA   |182|MOH¡CS              |00218206|F‹GGETLEN N…MET               |03|00025658|    APPL G¡SP¡R                         |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218206|F‹GGETLEN N…MET               |04|00067996|    J÷RG JUDIT                          |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218206|F‹GGETLEN N…MET               |05|00027914|    WIRTH GY÷RGY                        |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218206|F‹GGETLEN N…MET               |06|00045690|    MOSZTBACHER J”ZSEF                  |3|nem nyert
-02|BARANYA   |182|MOH¡CS              |00218206|F‹GGETLEN N…MET               |07|00035968|    MAUSZ MIH¡LY                        |3|nem nyert
-02|BARANYA   |218|P…CS                |00221802|F‹GGETLEN CIG¡NY              |01|00043500|    KARDOS J”ZSEF                       |3|nem nyert
-02|BARANYA   |218|P…CS                |00221802|F‹GGETLEN CIG¡NY              |02|00041213|    ORS”S FERENC                        |3|nem nyert
-02|BARANYA   |218|P…CS                |00221802|F‹GGETLEN CIG¡NY              |03|00014812|    ORS”S P…TER                         |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |01|00024688|    ALBRECHT ISTV¡N                     |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |02|00046521|    BAUMGARTNER J”ZSEF                  |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |03|00006325|    BRANDT FERENC                       |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |04|00061734|    FISCHER FRIGYESN…                   |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |05|00059715|    FORR B¡LINT                         |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |06|00068556|    GR¡F VILMOSN…                       |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |07|00041015|    HEIL HELMUT FRIGYES                 |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |08|00016289|    HERR J¡NOS                          |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |09|00060556|    KADLICSK” P¡LN…                     |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |10|00000504|    KALTENBACH ¡D¡M                     |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |11|00063569|    KEMLER J¡NOSN…                      |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |12|00020317|    KERNER L’RINC                       |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |13|00066753|    MATKOVITS KRETZ ELEON”RA            |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |14|00018813|    MISCHINGER ISTV¡N                   |2|kedvezmÈnyes mand·tumot nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |15|00045965|    MOLN¡R K¡ROLY                       |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |16|00012089|    M‹LLER GY÷RGY                       |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |17|00053887|    PENCZEL ZSOLT                       |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |18|00032932|    REIL J”ZSEF                         |3|nem nyert
-02|BARANYA   |218|P…CS                |00221806|F‹GGETLEN N…MET               |19|00006407|    SZ…CSEI J¡NOS B…LA                  |3|nem nyert
-02|BARANYA   |235|SIKL”S              |00223504|F‹GGETLEN HORV¡T              |01|00048142|    BOSNY¡K M¡RK                        |3|nem nyert
-02|BARANYA   |235|SIKL”S              |00223504|F‹GGETLEN HORV¡T              |02|00028874|    P¡VICS J¡NOS                        |3|nem nyert
-02|BARANYA   |235|SIKL”S              |00223504|F‹GGETLEN HORV¡T              |03|00051022|    SZAB” G¡BOR                         |2|kedvezmÈnyes mand·tumot nyert
-02|BARANYA   |235|SIKL”S              |00223506|F‹GGETLEN N…MET               |01|00001996|    WIRT J¡NOS                          |3|nem nyert
-02|BARANYA   |264|SZIGETV¡R           |00226402|F‹GGETLEN CIG¡NY              |01|00056601|    G¡L J”ZSEF                          |3|nem nyert
-03|B¡CS-KISK.|053|J¡NOSHALMA          |00305302|F‹GGETLEN CIG¡NY              |01|00053580|    KOLOMP¡R L¡SZL”                     |2|kedvezmÈnyes mand·tumot nyert
-03|B¡CS-KISK.|063|KISK’R÷S            |00306311|F‹GGETLEN SZLOV¡K             |01|00070420|    GY÷RK ERN’N…                        |2|kedvezmÈnyes mand·tumot nyert
-03|B¡CS-KISK.|065|KISKUNHALAS         |00306502|F‹GGETLEN CIG¡NY              |01|00055453|    STRAUSZ J¡NOS                       |3|nem nyert
-03|B¡CS-KISK.|065|KISKUNHALAS         |00306502|F‹GGETLEN CIG¡NY              |02|00051450|    KOLL¡R K¡ROLY                       |3|nem nyert
-03|B¡CS-KISK.|065|KISKUNHALAS         |00306502|F‹GGETLEN CIG¡NY              |03|00035263|    ROST¡S L¡SZL”                       |2|kedvezmÈnyes mand·tumot nyert
-03|B¡CS-KISK.|065|KISKUNHALAS         |00306502|F‹GGETLEN CIG¡NY              |04|00053901|    MADAR¡SZ FERENC                     |3|nem nyert
-03|B¡CS-KISK.|110|TISZAK…CSKE         |00311002|F‹GGETLEN CIG¡NY              |01|00076812|    KERT…SZ SZIL¡RDN…                   |3|nem nyert
-03|B¡CS-KISK.|110|TISZAK…CSKE         |00311002|F‹GGETLEN CIG¡NY              |02|00023229|    BOROS G¡BOR                         |3|nem nyert
-03|B¡CS-KISK.|110|TISZAK…CSKE         |00311002|F‹GGETLEN CIG¡NY              |03|00071133|    KEM…NY S¡NDORN…                     |3|nem nyert
-04|B…K…S     |003|B…K…S               |00400302|F‹GGETLEN CIG¡NY              |01|00001388|    R¡CZ REZS’                          |3|nem nyert
-04|B…K…S     |003|B…K…S               |00400302|F‹GGETLEN CIG¡NY              |02|00051761|    BODOCZKI MIH¡LY                     |3|nem nyert
-04|B…K…S     |003|B…K…S               |00400302|F‹GGETLEN CIG¡NY              |03|00026225|    RESZEL’ K¡ROLY                      |2|kedvezmÈnyes mand·tumot nyert
-04|B…K…S     |003|B…K…S               |00400302|F‹GGETLEN CIG¡NY              |04|00043684|    R”MAI ANTAL LAJOS                   |3|nem nyert
-04|B…K…S     |004|B…K…SCSABA          |00400411|F‹GGETLEN SZLOV¡K             |01|00071958|    HIRK¡N… DR.CSICSELY ILONA           |3|nem nyert
-04|B…K…S     |004|B…K…SCSABA          |00400411|F‹GGETLEN SZLOV¡K             |02|00009043|    KUTYEJ P¡L                          |2|kedvezmÈnyes mand·tumot nyert
-04|B…K…S     |004|B…K…SCSABA          |00400411|F‹GGETLEN SZLOV¡K             |03|00043633|    VOZ¡R M¡RTON                        |3|nem nyert
-04|B…K…S     |004|B…K…SCSABA          |00400411|F‹GGETLEN SZLOV¡K             |04|00045530|    BACZ”VSZKI P¡L                      |3|nem nyert
-04|B…K…S     |004|B…K…SCSABA          |00400411|F‹GGETLEN SZLOV¡K             |05|00005896|    KOV¡CS J¡NOS                        |3|nem nyert
-04|B…K…S     |025|GYOMAENDR’D         |00402506|F‹GGETLEN N…MET               |01|00022379|DR  WEIGERT J”ZSEF                      |3|nem nyert
-04|B…K…S     |026|GYULA               |00402602|F‹GGETLEN CIG¡NY              |01|00023094|    BOROS K¡ROLY                        |3|nem nyert
-04|B…K…S     |026|GYULA               |00402608|F‹GGETLEN ROM¡N               |01|00021359|    OROJ¡N ISTV¡N                       |2|kedvezmÈnyes mand·tumot nyert
-04|B…K…S     |026|GYULA               |00402608|F‹GGETLEN ROM¡N               |02|00007390|    M¡RK GY÷RGY                         |3|nem nyert
-04|B…K…S     |049|MEZ’BER…NY          |00404902|F‹GGETLEN CIG¡NY              |01|00042766|    MEZEI K¡LM¡N                        |2|kedvezmÈnyes mand·tumot nyert
-04|B…K…S     |049|MEZ’BER…NY          |00404902|F‹GGETLEN CIG¡NY              |02|00074369|    R¡CZN… LAKATOS ERZS…BET             |3|nem nyert
-04|B…K…S     |049|MEZ’BER…NY          |00404902|F‹GGETLEN CIG¡NY              |03|00053974|    HORV¡TH J¡NOS                       |3|nem nyert
-04|B…K…S     |049|MEZ’BER…NY          |00404906|F‹GGETLEN N…MET               |01|00023588|    WOLFF ÷D÷N ISTV¡N                   |3|nem nyert
-04|B…K…S     |049|MEZ’BER…NY          |00404906|F‹GGETLEN N…MET               |02|00002373|    SCH÷N MIH¡LY                        |2|kedvezmÈnyes mand·tumot nyert
-04|B…K…S     |049|MEZ’BER…NY          |00404911|F‹GGETLEN SZLOV¡K             |01|00061170|    ROZGONYI L¡SZL”N…                   |3|nem nyert
-04|B…K…S     |049|MEZ’BER…NY          |00404911|F‹GGETLEN SZLOV¡K             |02|00073688|    BORGULA GY÷RGYN…                    |2|kedvezmÈnyes mand·tumot nyert
-04|B…K…S     |049|MEZ’BER…NY          |00404911|F‹GGETLEN SZLOV¡K             |03|00073618|    PLESOVSZKI ZSUZSANNA                |3|nem nyert
-04|B…K…S     |063|SARKAD              |00406302|F‹GGETLEN CIG¡NY              |01|00065806|    OL¡H K¡ROLYN…                       |2|kedvezmÈnyes mand·tumot nyert
-04|B…K…S     |063|SARKAD              |00406302|F‹GGETLEN CIG¡NY              |02|00004356|    HORV¡TH ZOLT¡N                      |3|nem nyert
-04|B…K…S     |066|SZARVAS             |00406611|F‹GGETLEN SZLOV¡K             |01|00023357|    KEPENYES ANDR¡S                     |3|nem nyert
-04|B…K…S     |067|SZEGHALOM           |00406702|F‹GGETLEN CIG¡NY              |01|00066784|    DEMETER FERENCN…                    |3|nem nyert
-04|B…K…S     |067|SZEGHALOM           |00406702|F‹GGETLEN CIG¡NY              |02|00045045|    GY÷NGY÷SI ISTV¡N                    |2|kedvezmÈnyes mand·tumot nyert
-04|B…K…S     |067|SZEGHALOM           |00406702|F‹GGETLEN CIG¡NY              |03|00031382|    KOV¡CS GYULA                        |3|nem nyert
-04|B…K…S     |067|SZEGHALOM           |00406702|F‹GGETLEN CIG¡NY              |04|00039975|    GY÷NGY÷SI S¡NDOR                    |3|nem nyert
-04|B…K…S     |067|SZEGHALOM           |00406702|F‹GGETLEN CIG¡NY              |05|00020219|    KONDOROSI RUDOLF                    |3|nem nyert
-04|B…K…S     |067|SZEGHALOM           |00406702|F‹GGETLEN CIG¡NY              |06|00057304|    TALPA J”ZSEF                        |3|nem nyert
-05|BORSOD-A-Z|151|KAZINCBARCIKA       |00515102|F‹GGETLEN CIG¡NY              |01|00030684|    FARKAS GYULA                        |3|nem nyert
-05|BORSOD-A-Z|195|MEZ’K÷VESD          |00519502|F‹GGETLEN CIG¡NY              |01|00049598|    FARKAS F…LIX                        |2|kedvezmÈnyes mand·tumot nyert
-05|BORSOD-A-Z|195|MEZ’K÷VESD          |00519502|F‹GGETLEN CIG¡NY              |02|00067201|    MOLN¡RN… FEH…R GIZELLA              |3|nem nyert
-05|BORSOD-A-Z|195|MEZ’K÷VESD          |00519502|F‹GGETLEN CIG¡NY              |03|00069912|    OL¡H ANDR¡SN…                       |3|nem nyert
-05|BORSOD-A-Z|201|MISKOLC             |00520102|F‹GGETLEN CIG¡NY              |01|00036118|    CS”KA EMIL                          |3|nem nyert
-05|BORSOD-A-Z|201|MISKOLC             |00520102|F‹GGETLEN CIG¡NY              |02|00021442|    BURAI ALAD¡R                        |2|kedvezmÈnyes mand·tumot nyert
-05|BORSOD-A-Z|201|MISKOLC             |00520102|F‹GGETLEN CIG¡NY              |03|00056739|    K”TAI ZSOLT                         |3|nem nyert
-05|BORSOD-A-Z|225|”ZD                 |00522502|F‹GGETLEN CIG¡NY              |01|00024794|    REG’CZI J¡NOS J”ZSEF                |3|nem nyert
-05|BORSOD-A-Z|225|”ZD                 |00522502|F‹GGETLEN CIG¡NY              |02|00016438|    BERKI ERN’                          |3|nem nyert
-05|BORSOD-A-Z|225|”ZD                 |00522502|F‹GGETLEN CIG¡NY              |03|00058988|    BALOG P¡L                           |3|nem nyert
-05|BORSOD-A-Z|225|”ZD                 |00522502|F‹GGETLEN CIG¡NY              |04|00036683|    P¡K” FERENC                         |3|nem nyert
-05|BORSOD-A-Z|225|”ZD                 |00522502|F‹GGETLEN CIG¡NY              |05|00055691|    K”TAI K¡ROLY                        |2|kedvezmÈnyes mand·tumot nyert
-05|BORSOD-A-Z|225|”ZD                 |00522502|F‹GGETLEN CIG¡NY              |06|00057627|    MOLN¡R GY÷RGY                       |3|nem nyert
-05|BORSOD-A-Z|225|”ZD                 |00522502|F‹GGETLEN CIG¡NY              |07|00037802|    BERKI ISTV¡N                        |3|nem nyert
-05|BORSOD-A-Z|225|”ZD                 |00522502|F‹GGETLEN CIG¡NY              |08|00025875|    GY’RI ANDR¡S                        |3|nem nyert
-05|BORSOD-A-Z|225|”ZD                 |00522502|F‹GGETLEN CIG¡NY              |09|00032315|    CZINKA B…LA                         |3|nem nyert
-05|BORSOD-A-Z|272|S¡ROSPATAK          |00527202|F‹GGETLEN CIG¡NY              |01|00034179|    LAKATOS L¡SZL”                      |3|nem nyert
-05|BORSOD-A-Z|272|S¡ROSPATAK          |00527202|F‹GGETLEN CIG¡NY              |02|00055562|    BUDAI GYULA K¡ROLY                  |2|kedvezmÈnyes mand·tumot nyert
-05|BORSOD-A-Z|272|S¡ROSPATAK          |00527202|F‹GGETLEN CIG¡NY              |03|00020762|    GOMBOS GYULA                        |3|nem nyert
-05|BORSOD-A-Z|272|S¡ROSPATAK          |00527202|F‹GGETLEN CIG¡NY              |04|00053997|IFJ LAKATOS VIKTOR                      |3|nem nyert
-05|BORSOD-A-Z|272|S¡ROSPATAK          |00527202|F‹GGETLEN CIG¡NY              |05|00052824|IFJ BABA J”ZSEF                         |3|nem nyert
-05|BORSOD-A-Z|274|S¡TORALJA⁄JHELY     |00527402|F‹GGETLEN CIG¡NY              |01|00005087|    POCHLOT S¡NDOR                      |3|nem nyert
-05|BORSOD-A-Z|274|S¡TORALJA⁄JHELY     |00527402|F‹GGETLEN CIG¡NY              |02|00054182|    M¡RTON MIH¡LY                       |2|kedvezmÈnyes mand·tumot nyert
-05|BORSOD-A-Z|274|S¡TORALJA⁄JHELY     |00527402|F‹GGETLEN CIG¡NY              |03|00005500|    T¡NCZOS ISTV¡N                      |3|nem nyert
-05|BORSOD-A-Z|274|S¡TORALJA⁄JHELY     |00527411|F‹GGETLEN SZLOV¡K             |01|00053196|    URB¡N L¡SZL”                        |2|kedvezmÈnyes mand·tumot nyert
-05|BORSOD-A-Z|292|SZERENCS            |00529202|F‹GGETLEN CIG¡NY              |01|00047034|    BALOGH ENDRE                        |3|nem nyert
-05|BORSOD-A-Z|292|SZERENCS            |00529202|F‹GGETLEN CIG¡NY              |02|00046792|    BOTOS L¡SZL”                        |3|nem nyert
-05|BORSOD-A-Z|292|SZERENCS            |00529202|F‹GGETLEN CIG¡NY              |03|00058504|IFJ BURI J”ZSEF                         |3|nem nyert
-05|BORSOD-A-Z|292|SZERENCS            |00529202|F‹GGETLEN CIG¡NY              |04|00027683|    MAROSV÷LGYI J¡NOS                   |3|nem nyert
-06|CSONGR¡D  |012|CSONGR¡D            |00601202|F‹GGETLEN CIG¡NY              |01|00005562|    R¡CZ B…LA ISTV¡N                    |3|nem nyert
-06|CSONGR¡D  |012|CSONGR¡D            |00601202|F‹GGETLEN CIG¡NY              |02|00055056|    DEMETER ¡GOSTON L¡SZL”              |3|nem nyert
-06|CSONGR¡D  |023|H”DMEZ’V¡S¡RHELY    |00602302|F‹GGETLEN CIG¡NY              |01|00044476|    B¡NFI ANTAL                         |3|nem nyert
-06|CSONGR¡D  |023|H”DMEZ’V¡S¡RHELY    |00602302|F‹GGETLEN CIG¡NY              |02|00028528|    B¡NFI P…TER                         |3|nem nyert
-06|CSONGR¡D  |023|H”DMEZ’V¡S¡RHELY    |00602302|F‹GGETLEN CIG¡NY              |03|00055486|    KOV¡CS ISTV¡N                       |3|nem nyert
-06|CSONGR¡D  |023|H”DMEZ’V¡S¡RHELY    |00602302|F‹GGETLEN CIG¡NY              |04|00070790|    H…JJA G¡BORN…                       |2|kedvezmÈnyes mand·tumot nyert
-06|CSONGR¡D  |023|H”DMEZ’V¡S¡RHELY    |00602302|F‹GGETLEN CIG¡NY              |05|00015146|    IRH¡S J”ZSEF                        |3|nem nyert
-06|CSONGR¡D  |050|SZEGED              |00605002|F‹GGETLEN CIG¡NY              |01|00031402|    M⁄RKA K¡LM¡N                        |3|nem nyert
-06|CSONGR¡D  |050|SZEGED              |00605002|F‹GGETLEN CIG¡NY              |02|00050304|    HAMZA J¡NOS                         |3|nem nyert
-06|CSONGR¡D  |050|SZEGED              |00605002|F‹GGETLEN CIG¡NY              |03|00071389|    KERT…SZ ROZ¡LIA                     |3|nem nyert
-06|CSONGR¡D  |050|SZEGED              |00605002|F‹GGETLEN CIG¡NY              |04|00064105|DR. SZIRTESI ZOLT¡NN…                   |3|nem nyert
-06|CSONGR¡D  |050|SZEGED              |00605002|F‹GGETLEN CIG¡NY              |05|00027263|    CZUTOR IMRE                         |3|nem nyert
-06|CSONGR¡D  |052|SZENTES             |00605202|F‹GGETLEN CIG¡NY              |01|00058980|    L…VAI CSABA                         |3|nem nyert
-06|CSONGR¡D  |052|SZENTES             |00605202|F‹GGETLEN CIG¡NY              |02|00076722|    BELLA S¡NDORN…                      |3|nem nyert
-07|FEJ…R     |060|M”R                 |00706006|F‹GGETLEN N…MET               |01|00012670|    SCHMIDT FERENC                      |2|kedvezmÈnyes mand·tumot nyert
-07|FEJ…R     |060|M”R                 |00706006|F‹GGETLEN N…MET               |02|00039314|    KAMAR¡S J”ZSEF                      |3|nem nyert
-07|FEJ…R     |060|M”R                 |00706006|F‹GGETLEN N…MET               |03|00004985|    STOFFER K¡LM¡N                      |3|nem nyert
-07|FEJ…R     |060|M”R                 |00706006|F‹GGETLEN N…MET               |04|00034944|    ERDEI FERENC                        |3|nem nyert
-08|GY’R-M-S  |055|GY’R                |00805502|F‹GGETLEN CIG¡NY              |01|00038215|    P¡D¡R L¡SZL”                        |3|nem nyert
-09|HAJD⁄-B   |005|BALMAZ⁄JV¡ROS       |00900502|F‹GGETLEN CIG¡NY              |01|00049631|    HORV¡TH L¡SZL”                      |3|nem nyert
-09|HAJD⁄-B   |005|BALMAZ⁄JV¡ROS       |00900502|F‹GGETLEN CIG¡NY              |02|00059247|    SZ¡VA GYULA                         |2|kedvezmÈnyes mand·tumot nyert
-09|HAJD⁄-B   |005|BALMAZ⁄JV¡ROS       |00900502|F‹GGETLEN CIG¡NY              |03|00057990|    NAGY GYULA                          |3|nem nyert
-09|HAJD⁄-B   |018|DEBRECEN            |00901802|F‹GGETLEN CIG¡NY              |01|00059264|IFJ.BUDAI L¡SZL”                        |3|nem nyert
-09|HAJD⁄-B   |018|DEBRECEN            |00901802|F‹GGETLEN CIG¡NY              |02|00028297|    KEGYES S¡NDOR                       |3|nem nyert
-09|HAJD⁄-B   |018|DEBRECEN            |00901802|F‹GGETLEN CIG¡NY              |03|00038477|    BALOGH J¡NOS                        |3|nem nyert
-09|HAJD⁄-B   |018|DEBRECEN            |00901802|F‹GGETLEN CIG¡NY              |04|00023261|    BUDAI L¡SZL”                        |3|nem nyert
-09|HAJD⁄-B   |018|DEBRECEN            |00901802|F‹GGETLEN CIG¡NY              |05|00055356|    GY÷NGY÷SI CSABA                     |3|nem nyert
-09|HAJD⁄-B   |018|DEBRECEN            |00901802|F‹GGETLEN CIG¡NY              |06|00026995|    VIR¡G S¡NDOR                        |3|nem nyert
-09|HAJD⁄-B   |018|DEBRECEN            |00901802|F‹GGETLEN CIG¡NY              |07|00040726|    BUDAI MIKL”S                        |3|nem nyert
-09|HAJD⁄-B   |030|HAJD⁄B÷SZ÷RM…NY     |00903002|F‹GGETLEN CIG¡NY              |01|00029894|    NAGY J”ZSEF                         |7|M·shol nyert mand·tumot
-09|HAJD⁄-B   |032|HAJD⁄HADH¡Z         |00903202|F‹GGETLEN CIG¡NY              |01|00046649|    VAD¡SZ L¡SZL”                       |3|nem nyert
-09|HAJD⁄-B   |032|HAJD⁄HADH¡Z         |00903202|F‹GGETLEN CIG¡NY              |02|00040526|    ROST¡S ZSIGMOND                     |2|kedvezmÈnyes mand·tumot nyert
-09|HAJD⁄-B   |032|HAJD⁄HADH¡Z         |00903202|F‹GGETLEN CIG¡NY              |03|00059274|    TUGYI J¡NOS                         |3|nem nyert
-09|HAJD⁄-B   |032|HAJD⁄HADH¡Z         |00903202|F‹GGETLEN CIG¡NY              |04|00053738|    BERN¡TH ISTV¡N                      |3|nem nyert
-09|HAJD⁄-B   |032|HAJD⁄HADH¡Z         |00903202|F‹GGETLEN CIG¡NY              |05|00046947|    VARGA G…ZA                          |3|nem nyert
-09|HAJD⁄-B   |032|HAJD⁄HADH¡Z         |00903202|F‹GGETLEN CIG¡NY              |06|00049679|    LAKATOS DEZS’                       |3|nem nyert
-10|HEVES     |025|EGER                |01002502|F‹GGETLEN CIG¡NY              |01|00030736|    CSÕK B…LA                           |3|nem nyert
-10|HEVES     |025|EGER                |01002502|F‹GGETLEN CIG¡NY              |02|00001473|    B¡DER J”ZSEF                        |3|nem nyert
-10|HEVES     |025|EGER                |01002502|F‹GGETLEN CIG¡NY              |03|00018187|    KOV¡CS MIH¡LY                       |3|nem nyert
-10|HEVES     |025|EGER                |01002502|F‹GGETLEN CIG¡NY              |04|00024015|    LAKATOS LAJOS                       |3|nem nyert
-10|HEVES     |025|EGER                |01002502|F‹GGETLEN CIG¡NY              |05|00013991|    OL¡H S¡NDOR                         |3|nem nyert
-10|HEVES     |025|EGER                |01002502|F‹GGETLEN CIG¡NY              |06|00046918|    LAKATOS OSZK¡R                      |2|kedvezmÈnyes mand·tumot nyert
-10|HEVES     |039|GY÷NGY÷S            |01003902|F‹GGETLEN CIG¡NY              |01|00068727|    NAGY ANDR¡SN…                       |3|nem nyert
-10|HEVES     |039|GY÷NGY÷S            |01003902|F‹GGETLEN CIG¡NY              |02|00027619|    KONKOLY FERENC                      |3|nem nyert
-10|HEVES     |046|HATVAN              |01004602|F‹GGETLEN CIG¡NY              |01|00028717|    CSOLL¡K TIBOR                       |3|nem nyert
-10|HEVES     |048|HEVES               |01004802|F‹GGETLEN CIG¡NY              |01|00015040|    L”L… MIH¡LY                         |3|nem nyert
-11|J¡SZ-NK-SZ|026|KARCAG              |01102602|F‹GGETLEN CIG¡NY              |01|00026570|    L¡Z”K ¡D¡M                          |3|nem nyert
-11|J¡SZ-NK-SZ|052|SZOLNOK             |01105202|F‹GGETLEN CIG¡NY              |01|00074859|    K¡LLAI KATALIN                      |3|nem nyert
-11|J¡SZ-NK-SZ|052|SZOLNOK             |01105202|F‹GGETLEN CIG¡NY              |02|00047901|DR. P¡LFI MIKL”S                        |3|nem nyert
-11|J¡SZ-NK-SZ|052|SZOLNOK             |01105202|F‹GGETLEN CIG¡NY              |03|00068680|    BERECZKI J”ZSEFN…                   |3|nem nyert
-12|KOM¡ROM-E |027|ESZTERGOM           |01202702|F‹GGETLEN CIG¡NY              |01|00042205|    S¡RK÷ZI S¡NDOR                      |3|nem nyert
-12|KOM¡ROM-E |027|ESZTERGOM           |01202711|F‹GGETLEN SZLOV¡K             |01|00028433|    MINCZ…R K¡LM¡N                      |7|M·shol nyert mand·tumot
-12|KOM¡ROM-E |063|TATAB¡NYA           |01206302|F‹GGETLEN CIG¡NY              |01|00025378|    J¡R”KA ISTV¡N                       |3|nem nyert
-12|KOM¡ROM-E |063|TATAB¡NYA           |01206302|F‹GGETLEN CIG¡NY              |02|00006091|    VIR¡G ALBERT                        |3|nem nyert
-12|KOM¡ROM-E |063|TATAB¡NYA           |01206306|F‹GGETLEN N…MET               |99|00015470|    MERCZ G¡SP¡R                        |3|nem nyert
-13|N”GR¡D    |006|B¡TONYTERENYE       |01300602|F‹GGETLEN CIG¡NY              |01|00074921|    RADICS GYUL¡N…                      |3|nem nyert
-13|N”GR¡D    |006|B¡TONYTERENYE       |01300602|F‹GGETLEN CIG¡NY              |02|00073966|    MEZEI ANG…LA                        |3|nem nyert
-13|N”GR¡D    |006|B¡TONYTERENYE       |01300602|F‹GGETLEN CIG¡NY              |03|00049756|    BANG” TAM¡S                         |3|nem nyert
-13|N”GR¡D    |006|B¡TONYTERENYE       |01300602|F‹GGETLEN CIG¡NY              |04|00028646|    CSIK”S J¡NOS                        |2|kedvezmÈnyes mand·tumot nyert
-13|N”GR¡D    |006|B¡TONYTERENYE       |01300602|F‹GGETLEN CIG¡NY              |05|00075439|    DAR”CZI S¡NDORN…                    |3|nem nyert
-13|N”GR¡D    |006|B¡TONYTERENYE       |01300602|F‹GGETLEN CIG¡NY              |06|00043368|    CSIK”S J”ZSEF                       |3|nem nyert
-13|N”GR¡D    |096|P¡SZT”              |01309602|F‹GGETLEN CIG¡NY              |01|00002305|    V¡RHELYI ANDR¡S LAJOS               |2|kedvezmÈnyes mand·tumot nyert
-13|N”GR¡D    |103|SALG”TARJ¡N         |01310302|F‹GGETLEN CIG¡NY              |01|00058597|    VID¡K LAJOS                         |3|nem nyert
-13|N”GR¡D    |103|SALG”TARJ¡N         |01310302|F‹GGETLEN CIG¡NY              |02|00039914|    HRANEK FERENC                       |3|nem nyert
-13|N”GR¡D    |103|SALG”TARJ¡N         |01310302|F‹GGETLEN CIG¡NY              |03|00051688|    R¡CZ CSABA                          |3|nem nyert
-13|N”GR¡D    |103|SALG”TARJ¡N         |01310302|F‹GGETLEN CIG¡NY              |04|00077196|    CS…PE REN¡TA                        |3|nem nyert
-13|N”GR¡D    |103|SALG”TARJ¡N         |01310302|F‹GGETLEN CIG¡NY              |05|00072862|    R¡CZ G…Z¡N…                         |3|nem nyert
-14|PEST      |001|ABONY               |01400102|F‹GGETLEN CIG¡NY              |01|00033838|    RAFFAI L¡SZL”                       |2|kedvezmÈnyes mand·tumot nyert
-14|PEST      |014|BUDAKESZI           |01401406|F‹GGETLEN N…MET               |01|00033165|    MERKL ALAD¡R                        |2|kedvezmÈnyes mand·tumot nyert
-14|PEST      |014|BUDAKESZI           |01401406|F‹GGETLEN N…MET               |02|00060309|    VARGA J”ZSEFN…                      |3|nem nyert
-14|PEST      |015|BUDA÷RS             |01401506|F‹GGETLEN N…MET               |01|00022320|    K¡HN J¡NOS                          |3|nem nyert
-14|PEST      |025|DABAS               |01402511|F‹GGETLEN SZLOV¡K             |01|00059602|    GARAJSZKI L¡SZL”                    |2|kedvezmÈnyes mand·tumot nyert
-14|PEST      |033|DUNAHARASZTI        |01403306|F‹GGETLEN N…MET               |01|00059110|    ZWICK ANDR¡S                        |3|nem nyert
-14|PEST      |033|DUNAHARASZTI        |01403306|F‹GGETLEN N…MET               |02|00068826|    VERS¡NSZKI ANNA                     |3|nem nyert
-14|PEST      |033|DUNAHARASZTI        |01403306|F‹GGETLEN N…MET               |03|00038465|    KALTENECKER FERENC                  |2|kedvezmÈnyes mand·tumot nyert
-14|PEST      |034|DUNAKESZI           |01403402|F‹GGETLEN CIG¡NY              |01|00013916|    BORSOS J”ZSEF                       |3|nem nyert
-14|PEST      |034|DUNAKESZI           |01403402|F‹GGETLEN CIG¡NY              |02|00052943|    BORSOS J¡NOS                        |3|nem nyert
-14|PEST      |087|NAGYK¡TA            |01408702|F‹GGETLEN CIG¡NY              |01|00040378|    CSIK”S G¡BOR                        |3|nem nyert
-14|PEST      |087|NAGYK¡TA            |01408702|F‹GGETLEN CIG¡NY              |02|00030679|    RAFAEL P¡L                          |3|nem nyert
-14|PEST      |087|NAGYK¡TA            |01408702|F‹GGETLEN CIG¡NY              |03|00054271|    CSIK”S S¡NDOR                       |2|kedvezmÈnyes mand·tumot nyert
-14|PEST      |087|NAGYK¡TA            |01408702|F‹GGETLEN CIG¡NY              |04|00054230|    JAKAB P…TER                         |3|nem nyert
-14|PEST      |102|P…CEL               |01410202|F‹GGETLEN CIG¡NY              |01|00051471|    BOGD¡N TIBOR                        |3|nem nyert
-14|PEST      |102|P…CEL               |01410202|F‹GGETLEN CIG¡NY              |02|00018448|    S¡RK÷ZI FRIGYES                     |3|nem nyert
-14|PEST      |112|PILISV÷R÷SV¡R       |01411206|F‹GGETLEN N…MET               |01|00029092|    ELSAND GY÷RGY                       |3|nem nyert
-14|PEST      |112|PILISV÷R÷SV¡R       |01411206|F‹GGETLEN N…MET               |02|00009549|    S÷R÷S J¡NOS                         |2|kedvezmÈnyes mand·tumot nyert
-14|PEST      |113|POM¡Z               |01411302|F‹GGETLEN CIG¡NY              |01|00031064|    KASSAI J¡NOS VILMOS                 |2|kedvezmÈnyes mand·tumot nyert
-14|PEST      |113|POM¡Z               |01411306|F‹GGETLEN N…MET               |01|00012071|    …CSY L¡SZL” P¡L                     |3|nem nyert
-14|PEST      |113|POM¡Z               |01411310|F‹GGETLEN SZERB               |01|00019759|    CSOB¡N SZVETOZ¡R                    |3|nem nyert
-14|PEST      |113|POM¡Z               |01411310|F‹GGETLEN SZERB               |02|00029490|    GOLUB ATHAN¡SZ                      |3|nem nyert
-14|PEST      |113|POM¡Z               |01411310|F‹GGETLEN SZERB               |03|00045159|    NY¡RI IV¡N DOBRIVOJ                 |2|kedvezmÈnyes mand·tumot nyert
-14|PEST      |126|SZENTENDRE          |01412604|F‹GGETLEN HORV¡T              |01|00013211|    L. KECSK…S ANDR¡S                   |3|nem nyert
-14|PEST      |126|SZENTENDRE          |01412606|F‹GGETLEN N…MET               |01|00017416|    GAVRILOVITS S¡NDOR                  |2|kedvezmÈnyes mand·tumot nyert
-14|PEST      |126|SZENTENDRE          |01412606|F‹GGETLEN N…MET               |02|00055465|    ZAUER G¡BOR                         |3|nem nyert
-14|PEST      |126|SZENTENDRE          |01412611|F‹GGETLEN SZLOV¡K             |01|00026029|    DOMBAI G…ZA                         |3|nem nyert
-14|PEST      |169|V¡C                 |01416902|F‹GGETLEN CIG¡NY              |01|00046507|    HORV¡TH ANDR¡S                      |3|nem nyert
-14|PEST      |177|VECS…S              |01417706|F‹GGETLEN N…MET               |01|00023845|    M¡R J¡NOS                           |3|nem nyert
-14|PEST      |177|VECS…S              |01417706|F‹GGETLEN N…MET               |02|00048648|    PALOTAI P¡L                         |3|nem nyert
-15|SOMOGY    |019|BARCS               |01501902|F‹GGETLEN CIG¡NY              |01|00051390|    SZEGEDI TIBOR                       |3|nem nyert
-15|SOMOGY    |019|BARCS               |01501902|F‹GGETLEN CIG¡NY              |02|00052401|    BALOGH IMRE                         |3|nem nyert
-15|SOMOGY    |091|KAPOSV¡R            |01509102|F‹GGETLEN CIG¡NY              |01|00025729|    KOMP¡K GY÷RGY                       |3|nem nyert
-15|SOMOGY    |091|KAPOSV¡R            |01509102|F‹GGETLEN CIG¡NY              |02|00075874|    BOTI TIBORN…                        |3|nem nyert
-15|SOMOGY    |091|KAPOSV¡R            |01509102|F‹GGETLEN CIG¡NY              |03|00028915|    S¡NTA J”ZSEF                        |3|nem nyert
-15|SOMOGY    |091|KAPOSV¡R            |01509102|F‹GGETLEN CIG¡NY              |04|00019460|    CSONKA J¡NOS                        |3|nem nyert
-15|SOMOGY    |091|KAPOSV¡R            |01509102|F‹GGETLEN CIG¡NY              |05|00069871|    GUZMICS B…L¡N…                      |3|nem nyert
-15|SOMOGY    |122|MARCALI             |01512202|F‹GGETLEN CIG¡NY              |01|00052353|    ROST¡S ¡RP¡D                        |3|nem nyert
-15|SOMOGY    |129|NAGYAT¡D            |01512902|F‹GGETLEN CIG¡NY              |01|00067899|    IGN¡CZ IMR…N…                       |3|nem nyert
-16|SZABOLCS  |077|KISV¡RDA            |01607702|F‹GGETLEN CIG¡NY              |01|00030301|    DANCS ISTV¡N                        |3|nem nyert
-16|SZABOLCS  |077|KISV¡RDA            |01607702|F‹GGETLEN CIG¡NY              |02|00045453|    DANCS K¡ROLY                        |3|nem nyert
-16|SZABOLCS  |106|NAGYK¡LL”           |01610602|F‹GGETLEN CIG¡NY              |01|00027650|    D…R J”ZSEF FERENC                   |3|nem nyert
-16|SZABOLCS  |112|NYÕRB¡TOR           |01611202|F‹GGETLEN CIG¡NY              |01|00000340|    BUGA RUDOLF                         |3|nem nyert
-16|SZABOLCS  |112|NYÕRB¡TOR           |01611202|F‹GGETLEN CIG¡NY              |02|00045302|    V¡RADI G¡BOR                        |2|kedvezmÈnyes mand·tumot nyert
-16|SZABOLCS  |119|NYÕREGYH¡ZA         |01611902|F‹GGETLEN CIG¡NY              |01|00058559|    DAND”CZI GY÷RGY                     |3|nem nyert
-16|SZABOLCS  |119|NYÕREGYH¡ZA         |01611902|F‹GGETLEN CIG¡NY              |02|00002644|    FARKAS K¡LM¡N                       |3|nem nyert
-16|SZABOLCS  |119|NYÕREGYH¡ZA         |01611902|F‹GGETLEN CIG¡NY              |03|00004577|    FARKAS TIBOR                        |3|nem nyert
-16|SZABOLCS  |119|NYÕREGYH¡ZA         |01611902|F‹GGETLEN CIG¡NY              |04|00048360|    J”N¡S B…LA                          |3|nem nyert
-16|SZABOLCS  |119|NYÕREGYH¡ZA         |01611902|F‹GGETLEN CIG¡NY              |05|00075648|    PONG” K¡ROLYN…                      |2|kedvezmÈnyes mand·tumot nyert
-16|SZABOLCS  |119|NYÕREGYH¡ZA         |01611911|F‹GGETLEN SZLOV¡K             |01|00004895|    GARAI MIH¡LY                        |3|nem nyert
-17|TOLNA     |011|BONYH¡D             |01701102|F‹GGETLEN CIG¡NY              |01|00045623|    BOGD¡N S¡NDOR                       |3|nem nyert
-17|TOLNA     |011|BONYH¡D             |01701106|F‹GGETLEN N…MET               |01|00003360|    TILL J¡NOS                          |3|nem nyert
-17|TOLNA     |011|BONYH¡D             |01701106|F‹GGETLEN N…MET               |02|00008057|    RITTINGER  ANTAL                    |3|nem nyert
-17|TOLNA     |011|BONYH¡D             |01701106|F‹GGETLEN N…MET               |03|00000116|    HOFMEISTER LAJOS                    |3|nem nyert
-17|TOLNA     |011|BONYH¡D             |01701106|F‹GGETLEN N…MET               |04|00070361|DR. ACS¡DI MARIANNA                     |3|nem nyert
-17|TOLNA     |011|BONYH¡D             |01701106|F‹GGETLEN N…MET               |05|00002837|    FRAJDA MIH¡LY                       |3|nem nyert
-17|TOLNA     |011|BONYH¡D             |01701106|F‹GGETLEN N…MET               |06|00072113|    VASZARIN… HORV¡TH KL¡RA             |3|nem nyert
-17|TOLNA     |011|BONYH¡D             |01701106|F‹GGETLEN N…MET               |07|00043617|    FETZER G¡BOR                        |3|nem nyert
-17|TOLNA     |011|BONYH¡D             |01701106|F‹GGETLEN N…MET               |08|00020008|    JENEI J”ZSEF                        |1|nyert
-17|TOLNA     |096|TAM¡SI              |01709602|F‹GGETLEN CIG¡NY              |01|00057190|    KAL¡NYOS ISTV¡N                     |3|nem nyert
-17|TOLNA     |099|TOLNA               |01709902|F‹GGETLEN CIG¡NY              |01|00073006|    FERGENCS L¡SZL”N…                   |2|kedvezmÈnyes mand·tumot nyert
-17|TOLNA     |099|TOLNA               |01709902|F‹GGETLEN CIG¡NY              |02|00075319|    KARASZI ANDR¡SN…                    |3|nem nyert
-17|TOLNA     |099|TOLNA               |01709902|F‹GGETLEN CIG¡NY              |03|00018326|    BOROS J”ZSEF                        |3|nem nyert
-17|TOLNA     |099|TOLNA               |01709902|F‹GGETLEN CIG¡NY              |04|00073182|    CSICS” ILONA                        |3|nem nyert
-17|TOLNA     |099|TOLNA               |01709902|F‹GGETLEN CIG¡NY              |05|00044879|IFJ BOROS SZILVESZTER                   |3|nem nyert
-17|TOLNA     |099|TOLNA               |01709906|F‹GGETLEN N…MET               |01|00061234|DR. G÷RG…NYI ED…N…                      |2|kedvezmÈnyes mand·tumot nyert
-17|TOLNA     |099|TOLNA               |01709906|F‹GGETLEN N…MET               |02|00003059|    K¡RP¡TI ANDR¡S                      |3|nem nyert
-18|VAS       |095|K÷RMEND             |01809502|F‹GGETLEN CIG¡NY              |01|00028785|    HORV¡TH L¡SZL”                      |3|nem nyert
-18|VAS       |186|SZOMBATHELY         |01818606|F‹GGETLEN N…MET               |01|00002313|DR. ZIELBAUER GY÷RGY                    |3|nem nyert
-19|VESZPR…M  |208|VESZPR…M            |01920802|F‹GGETLEN CIG¡NY              |01|00073850|    SOMOGYI T‹NDE ANNA                  |3|nem nyert
-19|VESZPR…M  |208|VESZPR…M            |01920806|F‹GGETLEN N…MET               |01|00004226|    VENCZEL L’RINC                      |3|nem nyert
-19|VESZPR…M  |208|VESZPR…M            |01920807|F‹GGETLEN ÷RM…NY              |01|00055762|    AKOPJAN NIKOGOSZ                    |3|nem nyert
+01|BUDAPEST  |003|BUDAPEST          03|00100302|F√úGGETLEN CIG√ÅNY              |01|00024840|    F√ÅTYOL MIH√ÅLY                       |3|nem nyert
+01|BUDAPEST  |008|BUDAPEST          08|00100802|F√úGGETLEN CIG√ÅNY              |01|00054351|    CSORBA ZOLT√ÅN                       |2|kedvezm√©nyes mand√°tumot nyert
+01|BUDAPEST  |008|BUDAPEST          08|00100802|F√úGGETLEN CIG√ÅNY              |02|00056057|    OL√ÅH G√ÅBOR                          |3|nem nyert
+01|BUDAPEST  |008|BUDAPEST          08|00100802|F√úGGETLEN CIG√ÅNY              |03|00037935|    SZAB√ì L√ÅSZL√ì                        |3|nem nyert
+01|BUDAPEST  |009|BUDAPEST          09|00100902|F√úGGETLEN CIG√ÅNY              |01|00047102|    KOV√ÅCS √ÅRP√ÅD                        |3|nem nyert
+01|BUDAPEST  |009|BUDAPEST          09|00100902|F√úGGETLEN CIG√ÅNY              |02|00059510|    KOV√ÅCS J√ìZSEF                       |3|nem nyert
+01|BUDAPEST  |009|BUDAPEST          09|00100902|F√úGGETLEN CIG√ÅNY              |03|00074306|    KOV√ÅCS √ÅRP√ÅDN√â                      |3|nem nyert
+01|BUDAPEST  |010|BUDAPEST          10|00101002|F√úGGETLEN CIG√ÅNY              |01|00069541|√ñZV S√ÅNDORN√â FARKAS KATALIN             |3|nem nyert
+01|BUDAPEST  |010|BUDAPEST          10|00101002|F√úGGETLEN CIG√ÅNY              |02|00007991|    DANYI S√ÅNDOR                        |3|nem nyert
+01|BUDAPEST  |015|BUDAPEST          15|00101502|F√úGGETLEN CIG√ÅNY              |01|00050206|    BALOGH GYULA                        |3|nem nyert
+01|BUDAPEST  |015|BUDAPEST          15|00101502|F√úGGETLEN CIG√ÅNY              |02|00023465|    P√ÅVA J√ÅNOS                          |3|nem nyert
+01|BUDAPEST  |015|BUDAPEST          15|00101502|F√úGGETLEN CIG√ÅNY              |03|00058349|    RAFFAEL J√ìZSEF                      |3|nem nyert
+01|BUDAPEST  |016|BUDAPEST          16|00101602|F√úGGETLEN CIG√ÅNY              |01|00039574|    KARSAI ANDR√ÅS                       |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102102|F√úGGETLEN CIG√ÅNY              |01|00065196|    K√ñLL≈ê FERENCN√â                      |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102102|F√úGGETLEN CIG√ÅNY              |02|00040094|    KOV√ÅCS FERENC                       |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102102|F√úGGETLEN CIG√ÅNY              |03|00066666|    FEH√âR TIBORN√â                       |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102106|F√úGGETLEN N√âMET               |01|00071253|    L√ÅSZL√ìN√â BAL√ÅZSOVITS MAGDOLNA       |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102106|F√úGGETLEN N√âMET               |02|00066706|    KATONA ISTV√ÅNN√â                     |3|nem nyert
+01|BUDAPEST  |021|BUDAPEST          21|00102106|F√úGGETLEN N√âMET               |03|00059992|    KALTENECKER G√ÅBOR                   |2|kedvezm√©nyes mand√°tumot nyert
+01|BUDAPEST  |022|BUDAPEST          22|00102202|F√úGGETLEN CIG√ÅNY              |01|00052104|    DAR√ìCZI K√ÅROLY                      |3|nem nyert
+01|BUDAPEST  |023|BUDAPEST          23|00102327|F√úGGETLEN N√âMET               |01|00004122|    FR√ñMMEL GYULA                       |3|nem nyert
+01|BUDAPEST  |023|BUDAPEST          23|00102327|F√úGGETLEN N√âMET               |02|00065938|    S√ÅGHIN√â DR. HARTAI VERONIKA         |3|nem nyert
+01|BUDAPEST  |023|BUDAPEST          23|00102327|F√úGGETLEN N√âMET               |03|00050096|    JELENIK ISTV√ÅN                      |2|kedvezm√©nyes mand√°tumot nyert
+02|BARANYA   |138|KOML√ì               |00213802|F√úGGETLEN CIG√ÅNY              |01|00033136|    KOML√ìSI MIH√ÅLY                      |3|nem nyert
+02|BARANYA   |138|KOML√ì               |00213802|F√úGGETLEN CIG√ÅNY              |02|00057024|    KUN G√âZA                            |3|nem nyert
+02|BARANYA   |138|KOML√ì               |00213802|F√úGGETLEN CIG√ÅNY              |03|00050857|    ORS√ìS ISTV√ÅN                        |3|nem nyert
+02|BARANYA   |138|KOML√ì               |00213802|F√úGGETLEN CIG√ÅNY              |04|00067703|    ORS√ìSN√â M√ÅN ANNA                    |3|nem nyert
+02|BARANYA   |138|KOML√ì               |00213806|F√úGGETLEN N√âMET               |01|00011752|    GUTH FERENC                         |2|kedvezm√©nyes mand√°tumot nyert
+02|BARANYA   |182|MOH√ÅCS              |00218202|F√úGGETLEN CIG√ÅNY              |01|00076135|    KRIZBAI √âVA                         |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218202|F√úGGETLEN CIG√ÅNY              |02|00073892|    MIH√ÅLOVICS IBOLYA                   |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218202|F√úGGETLEN CIG√ÅNY              |03|00074713|    MIH√ÅLOVICS J√ìZSEFN√â                 |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218202|F√úGGETLEN CIG√ÅNY              |04|00029325|    KOV√ÅCS J√ìZSEF                       |2|kedvezm√©nyes mand√°tumot nyert
+02|BARANYA   |182|MOH√ÅCS              |00218202|F√úGGETLEN CIG√ÅNY              |05|00076343|    HEGED≈∞S CSILLA                      |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218202|F√úGGETLEN CIG√ÅNY              |06|00043341|    PETROVICS IMRE                      |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218204|F√úGGETLEN HORV√ÅT              |01|00034381|    LOV√ÅK ANTAL P√ÅL                     |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218206|F√úGGETLEN N√âMET               |01|00029233|    RUZSEK K√ÅROLY                       |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218206|F√úGGETLEN N√âMET               |02|00012743|    KOLBACH FERENC                      |1|nyert
+02|BARANYA   |182|MOH√ÅCS              |00218206|F√úGGETLEN N√âMET               |03|00025658|    APPL G√ÅSP√ÅR                         |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218206|F√úGGETLEN N√âMET               |04|00067996|    J√ñRG JUDIT                          |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218206|F√úGGETLEN N√âMET               |05|00027914|    WIRTH GY√ñRGY                        |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218206|F√úGGETLEN N√âMET               |06|00045690|    MOSZTBACHER J√ìZSEF                  |3|nem nyert
+02|BARANYA   |182|MOH√ÅCS              |00218206|F√úGGETLEN N√âMET               |07|00035968|    MAUSZ MIH√ÅLY                        |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221802|F√úGGETLEN CIG√ÅNY              |01|00043500|    KARDOS J√ìZSEF                       |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221802|F√úGGETLEN CIG√ÅNY              |02|00041213|    ORS√ìS FERENC                        |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221802|F√úGGETLEN CIG√ÅNY              |03|00014812|    ORS√ìS P√âTER                         |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |01|00024688|    ALBRECHT ISTV√ÅN                     |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |02|00046521|    BAUMGARTNER J√ìZSEF                  |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |03|00006325|    BRANDT FERENC                       |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |04|00061734|    FISCHER FRIGYESN√â                   |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |05|00059715|    FORR B√ÅLINT                         |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |06|00068556|    GR√ÅF VILMOSN√â                       |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |07|00041015|    HEIL HELMUT FRIGYES                 |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |08|00016289|    HERR J√ÅNOS                          |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |09|00060556|    KADLICSK√ì P√ÅLN√â                     |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |10|00000504|    KALTENBACH √ÅD√ÅM                     |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |11|00063569|    KEMLER J√ÅNOSN√â                      |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |12|00020317|    KERNER L≈êRINC                       |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |13|00066753|    MATKOVITS KRETZ ELEON√ìRA            |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |14|00018813|    MISCHINGER ISTV√ÅN                   |2|kedvezm√©nyes mand√°tumot nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |15|00045965|    MOLN√ÅR K√ÅROLY                       |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |16|00012089|    M√úLLER GY√ñRGY                       |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |17|00053887|    PENCZEL ZSOLT                       |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |18|00032932|    REIL J√ìZSEF                         |3|nem nyert
+02|BARANYA   |218|P√âCS                |00221806|F√úGGETLEN N√âMET               |19|00006407|    SZ√âCSEI J√ÅNOS B√âLA                  |3|nem nyert
+02|BARANYA   |235|SIKL√ìS              |00223504|F√úGGETLEN HORV√ÅT              |01|00048142|    BOSNY√ÅK M√ÅRK                        |3|nem nyert
+02|BARANYA   |235|SIKL√ìS              |00223504|F√úGGETLEN HORV√ÅT              |02|00028874|    P√ÅVICS J√ÅNOS                        |3|nem nyert
+02|BARANYA   |235|SIKL√ìS              |00223504|F√úGGETLEN HORV√ÅT              |03|00051022|    SZAB√ì G√ÅBOR                         |2|kedvezm√©nyes mand√°tumot nyert
+02|BARANYA   |235|SIKL√ìS              |00223506|F√úGGETLEN N√âMET               |01|00001996|    WIRT J√ÅNOS                          |3|nem nyert
+02|BARANYA   |264|SZIGETV√ÅR           |00226402|F√úGGETLEN CIG√ÅNY              |01|00056601|    G√ÅL J√ìZSEF                          |3|nem nyert
+03|B√ÅCS-KISK.|053|J√ÅNOSHALMA          |00305302|F√úGGETLEN CIG√ÅNY              |01|00053580|    KOLOMP√ÅR L√ÅSZL√ì                     |2|kedvezm√©nyes mand√°tumot nyert
+03|B√ÅCS-KISK.|063|KISK≈êR√ñS            |00306311|F√úGGETLEN SZLOV√ÅK             |01|00070420|    GY√ñRK ERN≈êN√â                        |2|kedvezm√©nyes mand√°tumot nyert
+03|B√ÅCS-KISK.|065|KISKUNHALAS         |00306502|F√úGGETLEN CIG√ÅNY              |01|00055453|    STRAUSZ J√ÅNOS                       |3|nem nyert
+03|B√ÅCS-KISK.|065|KISKUNHALAS         |00306502|F√úGGETLEN CIG√ÅNY              |02|00051450|    KOLL√ÅR K√ÅROLY                       |3|nem nyert
+03|B√ÅCS-KISK.|065|KISKUNHALAS         |00306502|F√úGGETLEN CIG√ÅNY              |03|00035263|    ROST√ÅS L√ÅSZL√ì                       |2|kedvezm√©nyes mand√°tumot nyert
+03|B√ÅCS-KISK.|065|KISKUNHALAS         |00306502|F√úGGETLEN CIG√ÅNY              |04|00053901|    MADAR√ÅSZ FERENC                     |3|nem nyert
+03|B√ÅCS-KISK.|110|TISZAK√âCSKE         |00311002|F√úGGETLEN CIG√ÅNY              |01|00076812|    KERT√âSZ SZIL√ÅRDN√â                   |3|nem nyert
+03|B√ÅCS-KISK.|110|TISZAK√âCSKE         |00311002|F√úGGETLEN CIG√ÅNY              |02|00023229|    BOROS G√ÅBOR                         |3|nem nyert
+03|B√ÅCS-KISK.|110|TISZAK√âCSKE         |00311002|F√úGGETLEN CIG√ÅNY              |03|00071133|    KEM√âNY S√ÅNDORN√â                     |3|nem nyert
+04|B√âK√âS     |003|B√âK√âS               |00400302|F√úGGETLEN CIG√ÅNY              |01|00001388|    R√ÅCZ REZS≈ê                          |3|nem nyert
+04|B√âK√âS     |003|B√âK√âS               |00400302|F√úGGETLEN CIG√ÅNY              |02|00051761|    BODOCZKI MIH√ÅLY                     |3|nem nyert
+04|B√âK√âS     |003|B√âK√âS               |00400302|F√úGGETLEN CIG√ÅNY              |03|00026225|    RESZEL≈ê K√ÅROLY                      |2|kedvezm√©nyes mand√°tumot nyert
+04|B√âK√âS     |003|B√âK√âS               |00400302|F√úGGETLEN CIG√ÅNY              |04|00043684|    R√ìMAI ANTAL LAJOS                   |3|nem nyert
+04|B√âK√âS     |004|B√âK√âSCSABA          |00400411|F√úGGETLEN SZLOV√ÅK             |01|00071958|    HIRK√ÅN√â DR.CSICSELY ILONA           |3|nem nyert
+04|B√âK√âS     |004|B√âK√âSCSABA          |00400411|F√úGGETLEN SZLOV√ÅK             |02|00009043|    KUTYEJ P√ÅL                          |2|kedvezm√©nyes mand√°tumot nyert
+04|B√âK√âS     |004|B√âK√âSCSABA          |00400411|F√úGGETLEN SZLOV√ÅK             |03|00043633|    VOZ√ÅR M√ÅRTON                        |3|nem nyert
+04|B√âK√âS     |004|B√âK√âSCSABA          |00400411|F√úGGETLEN SZLOV√ÅK             |04|00045530|    BACZ√ìVSZKI P√ÅL                      |3|nem nyert
+04|B√âK√âS     |004|B√âK√âSCSABA          |00400411|F√úGGETLEN SZLOV√ÅK             |05|00005896|    KOV√ÅCS J√ÅNOS                        |3|nem nyert
+04|B√âK√âS     |025|GYOMAENDR≈êD         |00402506|F√úGGETLEN N√âMET               |01|00022379|DR  WEIGERT J√ìZSEF                      |3|nem nyert
+04|B√âK√âS     |026|GYULA               |00402602|F√úGGETLEN CIG√ÅNY              |01|00023094|    BOROS K√ÅROLY                        |3|nem nyert
+04|B√âK√âS     |026|GYULA               |00402608|F√úGGETLEN ROM√ÅN               |01|00021359|    OROJ√ÅN ISTV√ÅN                       |2|kedvezm√©nyes mand√°tumot nyert
+04|B√âK√âS     |026|GYULA               |00402608|F√úGGETLEN ROM√ÅN               |02|00007390|    M√ÅRK GY√ñRGY                         |3|nem nyert
+04|B√âK√âS     |049|MEZ≈êBER√âNY          |00404902|F√úGGETLEN CIG√ÅNY              |01|00042766|    MEZEI K√ÅLM√ÅN                        |2|kedvezm√©nyes mand√°tumot nyert
+04|B√âK√âS     |049|MEZ≈êBER√âNY          |00404902|F√úGGETLEN CIG√ÅNY              |02|00074369|    R√ÅCZN√â LAKATOS ERZS√âBET             |3|nem nyert
+04|B√âK√âS     |049|MEZ≈êBER√âNY          |00404902|F√úGGETLEN CIG√ÅNY              |03|00053974|    HORV√ÅTH J√ÅNOS                       |3|nem nyert
+04|B√âK√âS     |049|MEZ≈êBER√âNY          |00404906|F√úGGETLEN N√âMET               |01|00023588|    WOLFF √ñD√ñN ISTV√ÅN                   |3|nem nyert
+04|B√âK√âS     |049|MEZ≈êBER√âNY          |00404906|F√úGGETLEN N√âMET               |02|00002373|    SCH√ñN MIH√ÅLY                        |2|kedvezm√©nyes mand√°tumot nyert
+04|B√âK√âS     |049|MEZ≈êBER√âNY          |00404911|F√úGGETLEN SZLOV√ÅK             |01|00061170|    ROZGONYI L√ÅSZL√ìN√â                   |3|nem nyert
+04|B√âK√âS     |049|MEZ≈êBER√âNY          |00404911|F√úGGETLEN SZLOV√ÅK             |02|00073688|    BORGULA GY√ñRGYN√â                    |2|kedvezm√©nyes mand√°tumot nyert
+04|B√âK√âS     |049|MEZ≈êBER√âNY          |00404911|F√úGGETLEN SZLOV√ÅK             |03|00073618|    PLESOVSZKI ZSUZSANNA                |3|nem nyert
+04|B√âK√âS     |063|SARKAD              |00406302|F√úGGETLEN CIG√ÅNY              |01|00065806|    OL√ÅH K√ÅROLYN√â                       |2|kedvezm√©nyes mand√°tumot nyert
+04|B√âK√âS     |063|SARKAD              |00406302|F√úGGETLEN CIG√ÅNY              |02|00004356|    HORV√ÅTH ZOLT√ÅN                      |3|nem nyert
+04|B√âK√âS     |066|SZARVAS             |00406611|F√úGGETLEN SZLOV√ÅK             |01|00023357|    KEPENYES ANDR√ÅS                     |3|nem nyert
+04|B√âK√âS     |067|SZEGHALOM           |00406702|F√úGGETLEN CIG√ÅNY              |01|00066784|    DEMETER FERENCN√â                    |3|nem nyert
+04|B√âK√âS     |067|SZEGHALOM           |00406702|F√úGGETLEN CIG√ÅNY              |02|00045045|    GY√ñNGY√ñSI ISTV√ÅN                    |2|kedvezm√©nyes mand√°tumot nyert
+04|B√âK√âS     |067|SZEGHALOM           |00406702|F√úGGETLEN CIG√ÅNY              |03|00031382|    KOV√ÅCS GYULA                        |3|nem nyert
+04|B√âK√âS     |067|SZEGHALOM           |00406702|F√úGGETLEN CIG√ÅNY              |04|00039975|    GY√ñNGY√ñSI S√ÅNDOR                    |3|nem nyert
+04|B√âK√âS     |067|SZEGHALOM           |00406702|F√úGGETLEN CIG√ÅNY              |05|00020219|    KONDOROSI RUDOLF                    |3|nem nyert
+04|B√âK√âS     |067|SZEGHALOM           |00406702|F√úGGETLEN CIG√ÅNY              |06|00057304|    TALPA J√ìZSEF                        |3|nem nyert
+05|BORSOD-A-Z|151|KAZINCBARCIKA       |00515102|F√úGGETLEN CIG√ÅNY              |01|00030684|    FARKAS GYULA                        |3|nem nyert
+05|BORSOD-A-Z|195|MEZ≈êK√ñVESD          |00519502|F√úGGETLEN CIG√ÅNY              |01|00049598|    FARKAS F√âLIX                        |2|kedvezm√©nyes mand√°tumot nyert
+05|BORSOD-A-Z|195|MEZ≈êK√ñVESD          |00519502|F√úGGETLEN CIG√ÅNY              |02|00067201|    MOLN√ÅRN√â FEH√âR GIZELLA              |3|nem nyert
+05|BORSOD-A-Z|195|MEZ≈êK√ñVESD          |00519502|F√úGGETLEN CIG√ÅNY              |03|00069912|    OL√ÅH ANDR√ÅSN√â                       |3|nem nyert
+05|BORSOD-A-Z|201|MISKOLC             |00520102|F√úGGETLEN CIG√ÅNY              |01|00036118|    CS√ìKA EMIL                          |3|nem nyert
+05|BORSOD-A-Z|201|MISKOLC             |00520102|F√úGGETLEN CIG√ÅNY              |02|00021442|    BURAI ALAD√ÅR                        |2|kedvezm√©nyes mand√°tumot nyert
+05|BORSOD-A-Z|201|MISKOLC             |00520102|F√úGGETLEN CIG√ÅNY              |03|00056739|    K√ìTAI ZSOLT                         |3|nem nyert
+05|BORSOD-A-Z|225|√ìZD                 |00522502|F√úGGETLEN CIG√ÅNY              |01|00024794|    REG≈êCZI J√ÅNOS J√ìZSEF                |3|nem nyert
+05|BORSOD-A-Z|225|√ìZD                 |00522502|F√úGGETLEN CIG√ÅNY              |02|00016438|    BERKI ERN≈ê                          |3|nem nyert
+05|BORSOD-A-Z|225|√ìZD                 |00522502|F√úGGETLEN CIG√ÅNY              |03|00058988|    BALOG P√ÅL                           |3|nem nyert
+05|BORSOD-A-Z|225|√ìZD                 |00522502|F√úGGETLEN CIG√ÅNY              |04|00036683|    P√ÅK√ì FERENC                         |3|nem nyert
+05|BORSOD-A-Z|225|√ìZD                 |00522502|F√úGGETLEN CIG√ÅNY              |05|00055691|    K√ìTAI K√ÅROLY                        |2|kedvezm√©nyes mand√°tumot nyert
+05|BORSOD-A-Z|225|√ìZD                 |00522502|F√úGGETLEN CIG√ÅNY              |06|00057627|    MOLN√ÅR GY√ñRGY                       |3|nem nyert
+05|BORSOD-A-Z|225|√ìZD                 |00522502|F√úGGETLEN CIG√ÅNY              |07|00037802|    BERKI ISTV√ÅN                        |3|nem nyert
+05|BORSOD-A-Z|225|√ìZD                 |00522502|F√úGGETLEN CIG√ÅNY              |08|00025875|    GY≈êRI ANDR√ÅS                        |3|nem nyert
+05|BORSOD-A-Z|225|√ìZD                 |00522502|F√úGGETLEN CIG√ÅNY              |09|00032315|    CZINKA B√âLA                         |3|nem nyert
+05|BORSOD-A-Z|272|S√ÅROSPATAK          |00527202|F√úGGETLEN CIG√ÅNY              |01|00034179|    LAKATOS L√ÅSZL√ì                      |3|nem nyert
+05|BORSOD-A-Z|272|S√ÅROSPATAK          |00527202|F√úGGETLEN CIG√ÅNY              |02|00055562|    BUDAI GYULA K√ÅROLY                  |2|kedvezm√©nyes mand√°tumot nyert
+05|BORSOD-A-Z|272|S√ÅROSPATAK          |00527202|F√úGGETLEN CIG√ÅNY              |03|00020762|    GOMBOS GYULA                        |3|nem nyert
+05|BORSOD-A-Z|272|S√ÅROSPATAK          |00527202|F√úGGETLEN CIG√ÅNY              |04|00053997|IFJ LAKATOS VIKTOR                      |3|nem nyert
+05|BORSOD-A-Z|272|S√ÅROSPATAK          |00527202|F√úGGETLEN CIG√ÅNY              |05|00052824|IFJ BABA J√ìZSEF                         |3|nem nyert
+05|BORSOD-A-Z|274|S√ÅTORALJA√öJHELY     |00527402|F√úGGETLEN CIG√ÅNY              |01|00005087|    POCHLOT S√ÅNDOR                      |3|nem nyert
+05|BORSOD-A-Z|274|S√ÅTORALJA√öJHELY     |00527402|F√úGGETLEN CIG√ÅNY              |02|00054182|    M√ÅRTON MIH√ÅLY                       |2|kedvezm√©nyes mand√°tumot nyert
+05|BORSOD-A-Z|274|S√ÅTORALJA√öJHELY     |00527402|F√úGGETLEN CIG√ÅNY              |03|00005500|    T√ÅNCZOS ISTV√ÅN                      |3|nem nyert
+05|BORSOD-A-Z|274|S√ÅTORALJA√öJHELY     |00527411|F√úGGETLEN SZLOV√ÅK             |01|00053196|    URB√ÅN L√ÅSZL√ì                        |2|kedvezm√©nyes mand√°tumot nyert
+05|BORSOD-A-Z|292|SZERENCS            |00529202|F√úGGETLEN CIG√ÅNY              |01|00047034|    BALOGH ENDRE                        |3|nem nyert
+05|BORSOD-A-Z|292|SZERENCS            |00529202|F√úGGETLEN CIG√ÅNY              |02|00046792|    BOTOS L√ÅSZL√ì                        |3|nem nyert
+05|BORSOD-A-Z|292|SZERENCS            |00529202|F√úGGETLEN CIG√ÅNY              |03|00058504|IFJ BURI J√ìZSEF                         |3|nem nyert
+05|BORSOD-A-Z|292|SZERENCS            |00529202|F√úGGETLEN CIG√ÅNY              |04|00027683|    MAROSV√ñLGYI J√ÅNOS                   |3|nem nyert
+06|CSONGR√ÅD  |012|CSONGR√ÅD            |00601202|F√úGGETLEN CIG√ÅNY              |01|00005562|    R√ÅCZ B√âLA ISTV√ÅN                    |3|nem nyert
+06|CSONGR√ÅD  |012|CSONGR√ÅD            |00601202|F√úGGETLEN CIG√ÅNY              |02|00055056|    DEMETER √ÅGOSTON L√ÅSZL√ì              |3|nem nyert
+06|CSONGR√ÅD  |023|H√ìDMEZ≈êV√ÅS√ÅRHELY    |00602302|F√úGGETLEN CIG√ÅNY              |01|00044476|    B√ÅNFI ANTAL                         |3|nem nyert
+06|CSONGR√ÅD  |023|H√ìDMEZ≈êV√ÅS√ÅRHELY    |00602302|F√úGGETLEN CIG√ÅNY              |02|00028528|    B√ÅNFI P√âTER                         |3|nem nyert
+06|CSONGR√ÅD  |023|H√ìDMEZ≈êV√ÅS√ÅRHELY    |00602302|F√úGGETLEN CIG√ÅNY              |03|00055486|    KOV√ÅCS ISTV√ÅN                       |3|nem nyert
+06|CSONGR√ÅD  |023|H√ìDMEZ≈êV√ÅS√ÅRHELY    |00602302|F√úGGETLEN CIG√ÅNY              |04|00070790|    H√âJJA G√ÅBORN√â                       |2|kedvezm√©nyes mand√°tumot nyert
+06|CSONGR√ÅD  |023|H√ìDMEZ≈êV√ÅS√ÅRHELY    |00602302|F√úGGETLEN CIG√ÅNY              |05|00015146|    IRH√ÅS J√ìZSEF                        |3|nem nyert
+06|CSONGR√ÅD  |050|SZEGED              |00605002|F√úGGETLEN CIG√ÅNY              |01|00031402|    M√öRKA K√ÅLM√ÅN                        |3|nem nyert
+06|CSONGR√ÅD  |050|SZEGED              |00605002|F√úGGETLEN CIG√ÅNY              |02|00050304|    HAMZA J√ÅNOS                         |3|nem nyert
+06|CSONGR√ÅD  |050|SZEGED              |00605002|F√úGGETLEN CIG√ÅNY              |03|00071389|    KERT√âSZ ROZ√ÅLIA                     |3|nem nyert
+06|CSONGR√ÅD  |050|SZEGED              |00605002|F√úGGETLEN CIG√ÅNY              |04|00064105|DR. SZIRTESI ZOLT√ÅNN√â                   |3|nem nyert
+06|CSONGR√ÅD  |050|SZEGED              |00605002|F√úGGETLEN CIG√ÅNY              |05|00027263|    CZUTOR IMRE                         |3|nem nyert
+06|CSONGR√ÅD  |052|SZENTES             |00605202|F√úGGETLEN CIG√ÅNY              |01|00058980|    L√âVAI CSABA                         |3|nem nyert
+06|CSONGR√ÅD  |052|SZENTES             |00605202|F√úGGETLEN CIG√ÅNY              |02|00076722|    BELLA S√ÅNDORN√â                      |3|nem nyert
+07|FEJ√âR     |060|M√ìR                 |00706006|F√úGGETLEN N√âMET               |01|00012670|    SCHMIDT FERENC                      |2|kedvezm√©nyes mand√°tumot nyert
+07|FEJ√âR     |060|M√ìR                 |00706006|F√úGGETLEN N√âMET               |02|00039314|    KAMAR√ÅS J√ìZSEF                      |3|nem nyert
+07|FEJ√âR     |060|M√ìR                 |00706006|F√úGGETLEN N√âMET               |03|00004985|    STOFFER K√ÅLM√ÅN                      |3|nem nyert
+07|FEJ√âR     |060|M√ìR                 |00706006|F√úGGETLEN N√âMET               |04|00034944|    ERDEI FERENC                        |3|nem nyert
+08|GY≈êR-M-S  |055|GY≈êR                |00805502|F√úGGETLEN CIG√ÅNY              |01|00038215|    P√ÅD√ÅR L√ÅSZL√ì                        |3|nem nyert
+09|HAJD√ö-B   |005|BALMAZ√öJV√ÅROS       |00900502|F√úGGETLEN CIG√ÅNY              |01|00049631|    HORV√ÅTH L√ÅSZL√ì                      |3|nem nyert
+09|HAJD√ö-B   |005|BALMAZ√öJV√ÅROS       |00900502|F√úGGETLEN CIG√ÅNY              |02|00059247|    SZ√ÅVA GYULA                         |2|kedvezm√©nyes mand√°tumot nyert
+09|HAJD√ö-B   |005|BALMAZ√öJV√ÅROS       |00900502|F√úGGETLEN CIG√ÅNY              |03|00057990|    NAGY GYULA                          |3|nem nyert
+09|HAJD√ö-B   |018|DEBRECEN            |00901802|F√úGGETLEN CIG√ÅNY              |01|00059264|IFJ.BUDAI L√ÅSZL√ì                        |3|nem nyert
+09|HAJD√ö-B   |018|DEBRECEN            |00901802|F√úGGETLEN CIG√ÅNY              |02|00028297|    KEGYES S√ÅNDOR                       |3|nem nyert
+09|HAJD√ö-B   |018|DEBRECEN            |00901802|F√úGGETLEN CIG√ÅNY              |03|00038477|    BALOGH J√ÅNOS                        |3|nem nyert
+09|HAJD√ö-B   |018|DEBRECEN            |00901802|F√úGGETLEN CIG√ÅNY              |04|00023261|    BUDAI L√ÅSZL√ì                        |3|nem nyert
+09|HAJD√ö-B   |018|DEBRECEN            |00901802|F√úGGETLEN CIG√ÅNY              |05|00055356|    GY√ñNGY√ñSI CSABA                     |3|nem nyert
+09|HAJD√ö-B   |018|DEBRECEN            |00901802|F√úGGETLEN CIG√ÅNY              |06|00026995|    VIR√ÅG S√ÅNDOR                        |3|nem nyert
+09|HAJD√ö-B   |018|DEBRECEN            |00901802|F√úGGETLEN CIG√ÅNY              |07|00040726|    BUDAI MIKL√ìS                        |3|nem nyert
+09|HAJD√ö-B   |030|HAJD√öB√ñSZ√ñRM√âNY     |00903002|F√úGGETLEN CIG√ÅNY              |01|00029894|    NAGY J√ìZSEF                         |7|M√°shol nyert mand√°tumot
+09|HAJD√ö-B   |032|HAJD√öHADH√ÅZ         |00903202|F√úGGETLEN CIG√ÅNY              |01|00046649|    VAD√ÅSZ L√ÅSZL√ì                       |3|nem nyert
+09|HAJD√ö-B   |032|HAJD√öHADH√ÅZ         |00903202|F√úGGETLEN CIG√ÅNY              |02|00040526|    ROST√ÅS ZSIGMOND                     |2|kedvezm√©nyes mand√°tumot nyert
+09|HAJD√ö-B   |032|HAJD√öHADH√ÅZ         |00903202|F√úGGETLEN CIG√ÅNY              |03|00059274|    TUGYI J√ÅNOS                         |3|nem nyert
+09|HAJD√ö-B   |032|HAJD√öHADH√ÅZ         |00903202|F√úGGETLEN CIG√ÅNY              |04|00053738|    BERN√ÅTH ISTV√ÅN                      |3|nem nyert
+09|HAJD√ö-B   |032|HAJD√öHADH√ÅZ         |00903202|F√úGGETLEN CIG√ÅNY              |05|00046947|    VARGA G√âZA                          |3|nem nyert
+09|HAJD√ö-B   |032|HAJD√öHADH√ÅZ         |00903202|F√úGGETLEN CIG√ÅNY              |06|00049679|    LAKATOS DEZS≈ê                       |3|nem nyert
+10|HEVES     |025|EGER                |01002502|F√úGGETLEN CIG√ÅNY              |01|00030736|    CS√çK B√âLA                           |3|nem nyert
+10|HEVES     |025|EGER                |01002502|F√úGGETLEN CIG√ÅNY              |02|00001473|    B√ÅDER J√ìZSEF                        |3|nem nyert
+10|HEVES     |025|EGER                |01002502|F√úGGETLEN CIG√ÅNY              |03|00018187|    KOV√ÅCS MIH√ÅLY                       |3|nem nyert
+10|HEVES     |025|EGER                |01002502|F√úGGETLEN CIG√ÅNY              |04|00024015|    LAKATOS LAJOS                       |3|nem nyert
+10|HEVES     |025|EGER                |01002502|F√úGGETLEN CIG√ÅNY              |05|00013991|    OL√ÅH S√ÅNDOR                         |3|nem nyert
+10|HEVES     |025|EGER                |01002502|F√úGGETLEN CIG√ÅNY              |06|00046918|    LAKATOS OSZK√ÅR                      |2|kedvezm√©nyes mand√°tumot nyert
+10|HEVES     |039|GY√ñNGY√ñS            |01003902|F√úGGETLEN CIG√ÅNY              |01|00068727|    NAGY ANDR√ÅSN√â                       |3|nem nyert
+10|HEVES     |039|GY√ñNGY√ñS            |01003902|F√úGGETLEN CIG√ÅNY              |02|00027619|    KONKOLY FERENC                      |3|nem nyert
+10|HEVES     |046|HATVAN              |01004602|F√úGGETLEN CIG√ÅNY              |01|00028717|    CSOLL√ÅK TIBOR                       |3|nem nyert
+10|HEVES     |048|HEVES               |01004802|F√úGGETLEN CIG√ÅNY              |01|00015040|    L√ìL√â MIH√ÅLY                         |3|nem nyert
+11|J√ÅSZ-NK-SZ|026|KARCAG              |01102602|F√úGGETLEN CIG√ÅNY              |01|00026570|    L√ÅZ√ìK √ÅD√ÅM                          |3|nem nyert
+11|J√ÅSZ-NK-SZ|052|SZOLNOK             |01105202|F√úGGETLEN CIG√ÅNY              |01|00074859|    K√ÅLLAI KATALIN                      |3|nem nyert
+11|J√ÅSZ-NK-SZ|052|SZOLNOK             |01105202|F√úGGETLEN CIG√ÅNY              |02|00047901|DR. P√ÅLFI MIKL√ìS                        |3|nem nyert
+11|J√ÅSZ-NK-SZ|052|SZOLNOK             |01105202|F√úGGETLEN CIG√ÅNY              |03|00068680|    BERECZKI J√ìZSEFN√â                   |3|nem nyert
+12|KOM√ÅROM-E |027|ESZTERGOM           |01202702|F√úGGETLEN CIG√ÅNY              |01|00042205|    S√ÅRK√ñZI S√ÅNDOR                      |3|nem nyert
+12|KOM√ÅROM-E |027|ESZTERGOM           |01202711|F√úGGETLEN SZLOV√ÅK             |01|00028433|    MINCZ√âR K√ÅLM√ÅN                      |7|M√°shol nyert mand√°tumot
+12|KOM√ÅROM-E |063|TATAB√ÅNYA           |01206302|F√úGGETLEN CIG√ÅNY              |01|00025378|    J√ÅR√ìKA ISTV√ÅN                       |3|nem nyert
+12|KOM√ÅROM-E |063|TATAB√ÅNYA           |01206302|F√úGGETLEN CIG√ÅNY              |02|00006091|    VIR√ÅG ALBERT                        |3|nem nyert
+12|KOM√ÅROM-E |063|TATAB√ÅNYA           |01206306|F√úGGETLEN N√âMET               |99|00015470|    MERCZ G√ÅSP√ÅR                        |3|nem nyert
+13|N√ìGR√ÅD    |006|B√ÅTONYTERENYE       |01300602|F√úGGETLEN CIG√ÅNY              |01|00074921|    RADICS GYUL√ÅN√â                      |3|nem nyert
+13|N√ìGR√ÅD    |006|B√ÅTONYTERENYE       |01300602|F√úGGETLEN CIG√ÅNY              |02|00073966|    MEZEI ANG√âLA                        |3|nem nyert
+13|N√ìGR√ÅD    |006|B√ÅTONYTERENYE       |01300602|F√úGGETLEN CIG√ÅNY              |03|00049756|    BANG√ì TAM√ÅS                         |3|nem nyert
+13|N√ìGR√ÅD    |006|B√ÅTONYTERENYE       |01300602|F√úGGETLEN CIG√ÅNY              |04|00028646|    CSIK√ìS J√ÅNOS                        |2|kedvezm√©nyes mand√°tumot nyert
+13|N√ìGR√ÅD    |006|B√ÅTONYTERENYE       |01300602|F√úGGETLEN CIG√ÅNY              |05|00075439|    DAR√ìCZI S√ÅNDORN√â                    |3|nem nyert
+13|N√ìGR√ÅD    |006|B√ÅTONYTERENYE       |01300602|F√úGGETLEN CIG√ÅNY              |06|00043368|    CSIK√ìS J√ìZSEF                       |3|nem nyert
+13|N√ìGR√ÅD    |096|P√ÅSZT√ì              |01309602|F√úGGETLEN CIG√ÅNY              |01|00002305|    V√ÅRHELYI ANDR√ÅS LAJOS               |2|kedvezm√©nyes mand√°tumot nyert
+13|N√ìGR√ÅD    |103|SALG√ìTARJ√ÅN         |01310302|F√úGGETLEN CIG√ÅNY              |01|00058597|    VID√ÅK LAJOS                         |3|nem nyert
+13|N√ìGR√ÅD    |103|SALG√ìTARJ√ÅN         |01310302|F√úGGETLEN CIG√ÅNY              |02|00039914|    HRANEK FERENC                       |3|nem nyert
+13|N√ìGR√ÅD    |103|SALG√ìTARJ√ÅN         |01310302|F√úGGETLEN CIG√ÅNY              |03|00051688|    R√ÅCZ CSABA                          |3|nem nyert
+13|N√ìGR√ÅD    |103|SALG√ìTARJ√ÅN         |01310302|F√úGGETLEN CIG√ÅNY              |04|00077196|    CS√âPE REN√ÅTA                        |3|nem nyert
+13|N√ìGR√ÅD    |103|SALG√ìTARJ√ÅN         |01310302|F√úGGETLEN CIG√ÅNY              |05|00072862|    R√ÅCZ G√âZ√ÅN√â                         |3|nem nyert
+14|PEST      |001|ABONY               |01400102|F√úGGETLEN CIG√ÅNY              |01|00033838|    RAFFAI L√ÅSZL√ì                       |2|kedvezm√©nyes mand√°tumot nyert
+14|PEST      |014|BUDAKESZI           |01401406|F√úGGETLEN N√âMET               |01|00033165|    MERKL ALAD√ÅR                        |2|kedvezm√©nyes mand√°tumot nyert
+14|PEST      |014|BUDAKESZI           |01401406|F√úGGETLEN N√âMET               |02|00060309|    VARGA J√ìZSEFN√â                      |3|nem nyert
+14|PEST      |015|BUDA√ñRS             |01401506|F√úGGETLEN N√âMET               |01|00022320|    K√ÅHN J√ÅNOS                          |3|nem nyert
+14|PEST      |025|DABAS               |01402511|F√úGGETLEN SZLOV√ÅK             |01|00059602|    GARAJSZKI L√ÅSZL√ì                    |2|kedvezm√©nyes mand√°tumot nyert
+14|PEST      |033|DUNAHARASZTI        |01403306|F√úGGETLEN N√âMET               |01|00059110|    ZWICK ANDR√ÅS                        |3|nem nyert
+14|PEST      |033|DUNAHARASZTI        |01403306|F√úGGETLEN N√âMET               |02|00068826|    VERS√ÅNSZKI ANNA                     |3|nem nyert
+14|PEST      |033|DUNAHARASZTI        |01403306|F√úGGETLEN N√âMET               |03|00038465|    KALTENECKER FERENC                  |2|kedvezm√©nyes mand√°tumot nyert
+14|PEST      |034|DUNAKESZI           |01403402|F√úGGETLEN CIG√ÅNY              |01|00013916|    BORSOS J√ìZSEF                       |3|nem nyert
+14|PEST      |034|DUNAKESZI           |01403402|F√úGGETLEN CIG√ÅNY              |02|00052943|    BORSOS J√ÅNOS                        |3|nem nyert
+14|PEST      |087|NAGYK√ÅTA            |01408702|F√úGGETLEN CIG√ÅNY              |01|00040378|    CSIK√ìS G√ÅBOR                        |3|nem nyert
+14|PEST      |087|NAGYK√ÅTA            |01408702|F√úGGETLEN CIG√ÅNY              |02|00030679|    RAFAEL P√ÅL                          |3|nem nyert
+14|PEST      |087|NAGYK√ÅTA            |01408702|F√úGGETLEN CIG√ÅNY              |03|00054271|    CSIK√ìS S√ÅNDOR                       |2|kedvezm√©nyes mand√°tumot nyert
+14|PEST      |087|NAGYK√ÅTA            |01408702|F√úGGETLEN CIG√ÅNY              |04|00054230|    JAKAB P√âTER                         |3|nem nyert
+14|PEST      |102|P√âCEL               |01410202|F√úGGETLEN CIG√ÅNY              |01|00051471|    BOGD√ÅN TIBOR                        |3|nem nyert
+14|PEST      |102|P√âCEL               |01410202|F√úGGETLEN CIG√ÅNY              |02|00018448|    S√ÅRK√ñZI FRIGYES                     |3|nem nyert
+14|PEST      |112|PILISV√ñR√ñSV√ÅR       |01411206|F√úGGETLEN N√âMET               |01|00029092|    ELSAND GY√ñRGY                       |3|nem nyert
+14|PEST      |112|PILISV√ñR√ñSV√ÅR       |01411206|F√úGGETLEN N√âMET               |02|00009549|    S√ñR√ñS J√ÅNOS                         |2|kedvezm√©nyes mand√°tumot nyert
+14|PEST      |113|POM√ÅZ               |01411302|F√úGGETLEN CIG√ÅNY              |01|00031064|    KASSAI J√ÅNOS VILMOS                 |2|kedvezm√©nyes mand√°tumot nyert
+14|PEST      |113|POM√ÅZ               |01411306|F√úGGETLEN N√âMET               |01|00012071|    √âCSY L√ÅSZL√ì P√ÅL                     |3|nem nyert
+14|PEST      |113|POM√ÅZ               |01411310|F√úGGETLEN SZERB               |01|00019759|    CSOB√ÅN SZVETOZ√ÅR                    |3|nem nyert
+14|PEST      |113|POM√ÅZ               |01411310|F√úGGETLEN SZERB               |02|00029490|    GOLUB ATHAN√ÅSZ                      |3|nem nyert
+14|PEST      |113|POM√ÅZ               |01411310|F√úGGETLEN SZERB               |03|00045159|    NY√ÅRI IV√ÅN DOBRIVOJ                 |2|kedvezm√©nyes mand√°tumot nyert
+14|PEST      |126|SZENTENDRE          |01412604|F√úGGETLEN HORV√ÅT              |01|00013211|    L. KECSK√âS ANDR√ÅS                   |3|nem nyert
+14|PEST      |126|SZENTENDRE          |01412606|F√úGGETLEN N√âMET               |01|00017416|    GAVRILOVITS S√ÅNDOR                  |2|kedvezm√©nyes mand√°tumot nyert
+14|PEST      |126|SZENTENDRE          |01412606|F√úGGETLEN N√âMET               |02|00055465|    ZAUER G√ÅBOR                         |3|nem nyert
+14|PEST      |126|SZENTENDRE          |01412611|F√úGGETLEN SZLOV√ÅK             |01|00026029|    DOMBAI G√âZA                         |3|nem nyert
+14|PEST      |169|V√ÅC                 |01416902|F√úGGETLEN CIG√ÅNY              |01|00046507|    HORV√ÅTH ANDR√ÅS                      |3|nem nyert
+14|PEST      |177|VECS√âS              |01417706|F√úGGETLEN N√âMET               |01|00023845|    M√ÅR J√ÅNOS                           |3|nem nyert
+14|PEST      |177|VECS√âS              |01417706|F√úGGETLEN N√âMET               |02|00048648|    PALOTAI P√ÅL                         |3|nem nyert
+15|SOMOGY    |019|BARCS               |01501902|F√úGGETLEN CIG√ÅNY              |01|00051390|    SZEGEDI TIBOR                       |3|nem nyert
+15|SOMOGY    |019|BARCS               |01501902|F√úGGETLEN CIG√ÅNY              |02|00052401|    BALOGH IMRE                         |3|nem nyert
+15|SOMOGY    |091|KAPOSV√ÅR            |01509102|F√úGGETLEN CIG√ÅNY              |01|00025729|    KOMP√ÅK GY√ñRGY                       |3|nem nyert
+15|SOMOGY    |091|KAPOSV√ÅR            |01509102|F√úGGETLEN CIG√ÅNY              |02|00075874|    BOTI TIBORN√â                        |3|nem nyert
+15|SOMOGY    |091|KAPOSV√ÅR            |01509102|F√úGGETLEN CIG√ÅNY              |03|00028915|    S√ÅNTA J√ìZSEF                        |3|nem nyert
+15|SOMOGY    |091|KAPOSV√ÅR            |01509102|F√úGGETLEN CIG√ÅNY              |04|00019460|    CSONKA J√ÅNOS                        |3|nem nyert
+15|SOMOGY    |091|KAPOSV√ÅR            |01509102|F√úGGETLEN CIG√ÅNY              |05|00069871|    GUZMICS B√âL√ÅN√â                      |3|nem nyert
+15|SOMOGY    |122|MARCALI             |01512202|F√úGGETLEN CIG√ÅNY              |01|00052353|    ROST√ÅS √ÅRP√ÅD                        |3|nem nyert
+15|SOMOGY    |129|NAGYAT√ÅD            |01512902|F√úGGETLEN CIG√ÅNY              |01|00067899|    IGN√ÅCZ IMR√âN√â                       |3|nem nyert
+16|SZABOLCS  |077|KISV√ÅRDA            |01607702|F√úGGETLEN CIG√ÅNY              |01|00030301|    DANCS ISTV√ÅN                        |3|nem nyert
+16|SZABOLCS  |077|KISV√ÅRDA            |01607702|F√úGGETLEN CIG√ÅNY              |02|00045453|    DANCS K√ÅROLY                        |3|nem nyert
+16|SZABOLCS  |106|NAGYK√ÅLL√ì           |01610602|F√úGGETLEN CIG√ÅNY              |01|00027650|    D√âR J√ìZSEF FERENC                   |3|nem nyert
+16|SZABOLCS  |112|NY√çRB√ÅTOR           |01611202|F√úGGETLEN CIG√ÅNY              |01|00000340|    BUGA RUDOLF                         |3|nem nyert
+16|SZABOLCS  |112|NY√çRB√ÅTOR           |01611202|F√úGGETLEN CIG√ÅNY              |02|00045302|    V√ÅRADI G√ÅBOR                        |2|kedvezm√©nyes mand√°tumot nyert
+16|SZABOLCS  |119|NY√çREGYH√ÅZA         |01611902|F√úGGETLEN CIG√ÅNY              |01|00058559|    DAND√ìCZI GY√ñRGY                     |3|nem nyert
+16|SZABOLCS  |119|NY√çREGYH√ÅZA         |01611902|F√úGGETLEN CIG√ÅNY              |02|00002644|    FARKAS K√ÅLM√ÅN                       |3|nem nyert
+16|SZABOLCS  |119|NY√çREGYH√ÅZA         |01611902|F√úGGETLEN CIG√ÅNY              |03|00004577|    FARKAS TIBOR                        |3|nem nyert
+16|SZABOLCS  |119|NY√çREGYH√ÅZA         |01611902|F√úGGETLEN CIG√ÅNY              |04|00048360|    J√ìN√ÅS B√âLA                          |3|nem nyert
+16|SZABOLCS  |119|NY√çREGYH√ÅZA         |01611902|F√úGGETLEN CIG√ÅNY              |05|00075648|    PONG√ì K√ÅROLYN√â                      |2|kedvezm√©nyes mand√°tumot nyert
+16|SZABOLCS  |119|NY√çREGYH√ÅZA         |01611911|F√úGGETLEN SZLOV√ÅK             |01|00004895|    GARAI MIH√ÅLY                        |3|nem nyert
+17|TOLNA     |011|BONYH√ÅD             |01701102|F√úGGETLEN CIG√ÅNY              |01|00045623|    BOGD√ÅN S√ÅNDOR                       |3|nem nyert
+17|TOLNA     |011|BONYH√ÅD             |01701106|F√úGGETLEN N√âMET               |01|00003360|    TILL J√ÅNOS                          |3|nem nyert
+17|TOLNA     |011|BONYH√ÅD             |01701106|F√úGGETLEN N√âMET               |02|00008057|    RITTINGER  ANTAL                    |3|nem nyert
+17|TOLNA     |011|BONYH√ÅD             |01701106|F√úGGETLEN N√âMET               |03|00000116|    HOFMEISTER LAJOS                    |3|nem nyert
+17|TOLNA     |011|BONYH√ÅD             |01701106|F√úGGETLEN N√âMET               |04|00070361|DR. ACS√ÅDI MARIANNA                     |3|nem nyert
+17|TOLNA     |011|BONYH√ÅD             |01701106|F√úGGETLEN N√âMET               |05|00002837|    FRAJDA MIH√ÅLY                       |3|nem nyert
+17|TOLNA     |011|BONYH√ÅD             |01701106|F√úGGETLEN N√âMET               |06|00072113|    VASZARIN√â HORV√ÅTH KL√ÅRA             |3|nem nyert
+17|TOLNA     |011|BONYH√ÅD             |01701106|F√úGGETLEN N√âMET               |07|00043617|    FETZER G√ÅBOR                        |3|nem nyert
+17|TOLNA     |011|BONYH√ÅD             |01701106|F√úGGETLEN N√âMET               |08|00020008|    JENEI J√ìZSEF                        |1|nyert
+17|TOLNA     |096|TAM√ÅSI              |01709602|F√úGGETLEN CIG√ÅNY              |01|00057190|    KAL√ÅNYOS ISTV√ÅN                     |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709902|F√úGGETLEN CIG√ÅNY              |01|00073006|    FERGENCS L√ÅSZL√ìN√â                   |2|kedvezm√©nyes mand√°tumot nyert
+17|TOLNA     |099|TOLNA               |01709902|F√úGGETLEN CIG√ÅNY              |02|00075319|    KARASZI ANDR√ÅSN√â                    |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709902|F√úGGETLEN CIG√ÅNY              |03|00018326|    BOROS J√ìZSEF                        |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709902|F√úGGETLEN CIG√ÅNY              |04|00073182|    CSICS√ì ILONA                        |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709902|F√úGGETLEN CIG√ÅNY              |05|00044879|IFJ BOROS SZILVESZTER                   |3|nem nyert
+17|TOLNA     |099|TOLNA               |01709906|F√úGGETLEN N√âMET               |01|00061234|DR. G√ñRG√âNYI ED√âN√â                      |2|kedvezm√©nyes mand√°tumot nyert
+17|TOLNA     |099|TOLNA               |01709906|F√úGGETLEN N√âMET               |02|00003059|    K√ÅRP√ÅTI ANDR√ÅS                      |3|nem nyert
+18|VAS       |095|K√ñRMEND             |01809502|F√úGGETLEN CIG√ÅNY              |01|00028785|    HORV√ÅTH L√ÅSZL√ì                      |3|nem nyert
+18|VAS       |186|SZOMBATHELY         |01818606|F√úGGETLEN N√âMET               |01|00002313|DR. ZIELBAUER GY√ñRGY                    |3|nem nyert
+19|VESZPR√âM  |208|VESZPR√âM            |01920802|F√úGGETLEN CIG√ÅNY              |01|00073850|    SOMOGYI T√úNDE ANNA                  |3|nem nyert
+19|VESZPR√âM  |208|VESZPR√âM            |01920806|F√úGGETLEN N√âMET               |01|00004226|    VENCZEL L≈êRINC                      |3|nem nyert
+19|VESZPR√âM  |208|VESZPR√âM            |01920807|F√úGGETLEN √ñRM√âNY              |01|00055762|    AKOPJAN NIKOGOSZ                    |3|nem nyert

@@ -1,4 +1,4 @@
-  1|   |Horváth Csaba                                                                             | 177783|  0|
-  2|   |Jávor Benedek                                                                             |  59638|  0|
-  3|Dr.|Staudt Gábor                                                                              |  43839|  0|
-  4|   |Tarlós István                                                                             | 321908|  1|
+  1|   |HorvÃ¡th Csaba                                                                             | 177783|  0|
+  2|   |JÃ¡vor Benedek                                                                             |  59638|  0|
+  3|Dr.|Staudt GÃ¡bor                                                                              |  43839|  0|
+  4|   |TarlÃ³s IstvÃ¡n                                                                             | 321908|  1|

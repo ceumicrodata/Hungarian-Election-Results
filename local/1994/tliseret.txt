@@ -1,370 +1,370 @@
-01|BUDAPEST  |B|Fıv·rosi kˆzgy˚lÈsi lista                         |01|00112000|MAGYAR SZOCIALISTA P¡RT       |00176470|021
-01|BUDAPEST  |B|Fıv·rosi kˆzgy˚lÈsi lista                         |02|00113000|MUNK¡SP¡RT                    |00021484|000
-01|BUDAPEST  |B|Fıv·rosi kˆzgy˚lÈsi lista                         |03|00114000|FKGP-MI…P                     |00060492|007
-01|BUDAPEST  |B|Fıv·rosi kˆzgy˚lÈsi lista                         |04|00116000|K÷ZT¡RSAS¡G P¡RT              |00012595|000
-01|BUDAPEST  |B|Fıv·rosi kˆzgy˚lÈsi lista                         |05|00111000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00157659|019
-01|BUDAPEST  |B|Fıv·rosi kˆzgy˚lÈsi lista                         |06|00115000|MDF-FIDESZ-KDNP               |00158837|019
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|00219000|FKGP POLG¡RI K÷R BARANY¡…RT   |00017705|007
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|00215000|MAGYAR SZOCIALISTA P¡RT       |00019001|008
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|00230000|LENAU EGYES‹LET               |00001249|000
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|00212000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00010641|005
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|00223000|MUNK¡SP¡RT                    |00003485|001
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|00213000|MAGYAR DEMOKRATA F”RUM        |00005534|002
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|00228000|K÷ZT¡RSAS¡G P¡RT              |00001488|000
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|00226000|BARANY¡…RT SZ÷VETS…G          |00005671|002
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|00225000|PARASZTSZ÷VETS…G              |00001077|000
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|00231000|FIDESZ                        |00005021|002
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |11|00217000|KERESZT…NYDEMOKRATA N…PP¡RT   |00004992|002
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |12|00234000|TESZ÷V                        |00001186|000
-02|BARANYA   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |13|00233000|FALUGONDNOKOK EGYES‹LETE      |00001154|000
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|00221000|V¡ROSSZ…PÕT’ EGYES‹LET KOML”  |00001884|001
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|00222000|NYUGDÕJASOK BARANYAI KAMAR¡JA |00001059|000
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|00218000|KERESZT…NYDEMOKRATA N…PP¡RT   |00001115|001
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|00229000|K÷ZT¡RSAS¡G P¡RT              |00001439|001
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|00224000|MUNK¡SP¡RT                    |00000984|000
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|00214000|MAGYAR DEMOKRATA F”RUM        |00001547|001
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|00211000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00003112|002
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|00227000|BARANY¡…RT SZ÷VETS…G          |00000552|000
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|00216000|MAGYAR SZOCIALISTA P¡RT       |00004953|003
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |10|00220000|FKGP POLG¡RI K÷R BARANY¡…RT   |00002038|001
-02|BARANYA   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |11|00232000|FIDESZ                        |00001183|001
-03|B¡CS-KISK.|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|00320000|MAGYAR SZOCIALISTA P¡RT       |00026653|008
-03|B¡CS-KISK.|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|00327000|MUNK¡SP¡RT                    |00003709|001
-03|B¡CS-KISK.|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|00328000|N…METEK …S HORV¡TOK SZ÷VETS…GE|00002415|000
-03|B¡CS-KISK.|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|00324000|NAGYCSAL¡DOSOK ORSZ¡GOS EGY-E |00003997|001
-03|B¡CS-KISK.|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|00317000|SPORTSZ÷VETS…GEK TAN¡CSA      |00003273|000
-03|B¡CS-KISK.|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|00321000|FIDESZ                        |00006624|002
-03|B¡CS-KISK.|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|00313000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00011318|004
-03|B¡CS-KISK.|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|00329000|KDNP-MDF                      |00012833|004
-03|B¡CS-KISK.|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|00314000|F‹GGETLEN KISGAZDAP¡RT        |00021548|007
-03|B¡CS-KISK.|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|00326000|MUNK¡SP¡RT                    |00002027|001
-03|B¡CS-KISK.|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|00319000|FIDESZ                        |00002421|001
-03|B¡CS-KISK.|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|00323000|V¡ROSI POLG¡RI K÷R            |00003606|001
-03|B¡CS-KISK.|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|00322000|NYUGDÕJASOK MEGYEI SZ÷VETS…GE |00002906|001
-03|B¡CS-KISK.|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|00311000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00008551|004
-03|B¡CS-KISK.|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|00316000|MDF-KDNP                      |00008350|003
-03|B¡CS-KISK.|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|00325000|NAGYCSAL¡DOSOK ORSZ¡GOS EGY-E |00001690|000
-03|B¡CS-KISK.|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|00312000|F‹GGETLEN KISGAZDAP¡RT        |00007647|003
-03|B¡CS-KISK.|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|00318000|MAGYAR SZOCIALISTA P¡RT       |00012344|005
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|00426000|MAGYAR SZOCIALISTA P¡RT       |00020962|008
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|00419000|CSAN¡DAP¡CAI GAZDAK÷R         |00001301|000
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|00418000|NAGYCSAL¡DOSOK ORSZ¡GOS EGY-E |00002633|000
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|00427000|BM CIG¡NYLAKOSOK EGYES‹LETE   |00000675|000
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|00430000|MUNK¡SP¡RT                    |00005155|002
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|00428000|F‹GGETLEN KISGAZDAP¡RT        |00013704|005
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|00411000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00008065|003
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|00415000|POLG¡RMESTEREK EGYES‹LETE     |00003907|001
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|00424000|KDNP MDF                      |00005170|002
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|00416000|MSZDP                         |00001084|000
-04|B…K…S     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |11|00420000|FIDESZ                        |00003346|001
-04|B…K…S     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|00421000|FIDESZ                        |00002646|001
-04|B…K…S     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|00417000|NAGYCSAL¡DOSOK ORSZ¡GOS EGY-E |00002077|001
-04|B…K…S     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|00412000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00008222|003
-04|B…K…S     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|00414000|MAGYAR SZOCIALISTA P¡RT       |00014593|006
-04|B…K…S     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|00423000|MUNK¡SP¡RT                    |00002251|001
-04|B…K…S     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|00429000|F‹GGETLEN KISGAZDAP¡RT        |00008259|004
-04|B…K…S     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|00425000|KDNP MDF                      |00005469|002
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|00515000|MAGYAR SZOCIALISTA P¡RT       |00051349|014
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|00522000|MMSZ-NOE-KINSZE-CSAL¡DSEGÕT’  |00006190|000
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|00520000|FIDESZ                        |00011890|003
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|00527000|PED SZAKSZ BAZ M SZ÷VETS…GE   |00005877|000
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|00523000|MAGYAR DEMOKRATA F”RUM        |00008781|002
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|00529000|AGR¡RSZ÷VETS…G                |00003604|000
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|00530000|FKGP-MI…P                     |00027450|008
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|00533000|B¡NY¡SZ-G÷M÷R-”ZD-ZEMPL…N-SZ÷V|00007994|002
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|00513000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00014399|004
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|00518000|MUNK¡SP¡RT                    |00008849|002
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |11|00525000|MEZ’K÷VESD K÷RNY…KE KULT.EGY. |00002108|000
-05|BORSOD-A-Z|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |12|00511000|KERESZT…NYDEMOKRATA N…PP¡RT   |00017074|005
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|00528000|AGR¡RSZ÷VETS…G                |00001751|000
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|00532000|B¡NY¡SZ-G÷M÷R-”ZD-ZEMPL…N-SZ÷V|00002290|001
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|00512000|KERESZT…NYDEMOKRATA N…PP¡RT   |00005605|002
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|00531000|FKGP-MI…P                     |00004469|002
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|00521000|FIDESZ                        |00003364|001
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|00514000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00008354|003
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|00517000|ORESZ                         |00000488|000
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|00519000|MUNK¡SP¡RT                    |00003120|001
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|00526000|PED SZAKSZ BAZ M SZ÷VETS…GE   |00002042|000
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |10|00524000|MAGYAR DEMOKRATA F”RUM        |00002776|001
-05|BORSOD-A-Z|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |11|00516000|MAGYAR SZOCIALISTA P¡RT       |00019077|008
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|00623000|KERESZT…NYDEMOKRATA N…PP¡RT   |00004437|002
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|00628000|F‹GGETLEN KISGAZDAP¡RT        |00010234|006
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|00620000|ORCHIDEA …RD. EGYES‹LET       |00001042|000
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|00626000|MUNK¡SP¡RT                    |00001969|001
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|00632000|MAGYAR SZOCIALISTA P¡RT       |00012381|007
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|00617000|MAGYAR DEMOKRATA F”RUM        |00002731|002
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|00613000|FIDESZ                        |00003241|002
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|00634000|POLG¡RI SZ÷VETS…G CSONGR¡D M. |00001416|000
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|00616000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00004338|002
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|00615000|AGR¡RSZ÷VETS…G                |00001991|001
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |11|00633000|TISZASZIGETI GAZDAK÷R         |00001055|000
-06|CSONGR¡D  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |12|00630000|M”RAHALMI V¡LLALK. EGYES‹LET  |00003260|002
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|00631000|MAGYAR SZOCIALISTA P¡RT       |00007085|006
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|00637000|MAGYAR IGAZS¡G …S …LET P¡RTJA |00000338|000
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|00611000|PEDAG”GUS SZAKSZERVEZET MAK”  |00000438|000
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|00627000|F‹GGETLEN KISGAZDAP¡RT        |00003494|003
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|00619000|ORCHIDEA …RD. EGYES‹LET       |00000123|000
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|00621000|EGYES‹LT KISGAZDA P¡RT        |00000544|000
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|00612000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00003178|003
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|00622000|KERESZT…NYDEMOKRATA N…PP¡RT   |00002064|002
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|00636000|NYUP-KONZV.P-LPSZ VP-K÷ZT.P   |00000623|000
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |10|00614000|FIDESZ                        |00000675|000
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |11|00618000|MAGYAR DEMOKRATA F”RUM        |00001116|001
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |12|00635000|POLG¡RI SZ÷VETS…G CSONGR¡D M. |00000458|000
-06|CSONGR¡D  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |13|00625000|MUNK¡SP¡RT                    |00000762|000
-07|FEJ…R     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|00720000|MAGYAR SZOCIALISTA P¡RT       |00026911|012
-07|FEJ…R     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|00723000|MUNK¡SP¡RT                    |00005848|003
-07|FEJ…R     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|00715000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00014568|006
-07|FEJ…R     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|00714000|AGR¡RSZ÷VETS…G                |00004765|002
-07|FEJ…R     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|00724000|MO.-I N…METEK SZ÷VETS…GE      |00001560|000
-07|FEJ…R     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|00725000|K÷ZT¡RSAS¡G P¡RT              |00002675|000
-07|FEJ…R     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|00721000|FIDESZ-FKGP-KDNP-MDF          |00024548|011
-07|FEJ…R     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|00713000|MAGYAR SZOCIALISTA P¡RT       |00004534|003
-07|FEJ…R     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|00711000|AGR¡RSZ÷VETS…G                |00000666|000
-07|FEJ…R     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|00719000|S¡RBOG¡RDI GAZDAK÷R           |00000536|000
-07|FEJ…R     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|00718000|K÷ZT¡RSAS¡G P¡RT              |00000393|000
-07|FEJ…R     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|00722000|MUNK¡SP¡RT                    |00000422|000
-07|FEJ…R     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|00712000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00002369|002
-07|FEJ…R     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|00716000|FIDESZ-FKGP-KDNP-MDF          |00002338|001
-07|FEJ…R     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|00717000|FMCFSZ-BRK÷…SZ                |00000176|000
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|00815000|F‹GGETLEN KISGAZDAP¡RT        |00016570|007
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|00818000|KERESZT…NYDEMOKRATA N…PP¡RT   |00008308|003
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|00817000|MOZG¡SKORL¡TOZOTTAK EGY. GY’R |00003723|001
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|00821000|REFLEX K÷RNYEZETV…D’ EGYES‹LET|00001095|000
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|00825000|HORV¡TOK EGYES‹LETE           |00001029|000
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|00823000|FIDESZ                        |00007105|003
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|00814000|MAGYAR SZOCIALISTA P¡RT       |00018580|007
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|00819000|MAGYAR DEMOKRATA F”RUM        |00007446|003
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|00822000|NYUGDIJAS SZ÷VETS…G GY’R      |00006434|003
-08|GY’R-M-S  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|00816000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00011370|005
-08|GY’R-M-S  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|00813000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00002677|002
-08|GY’R-M-S  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|00826000|MEGYEI NYUGDÕJAS SZ÷VETS…G    |00000943|000
-08|GY’R-M-S  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|00820000|KDNP-MDF-FKGP                 |00004931|003
-08|GY’R-M-S  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|00812000|MOZG¡SKORL¡TOZOTTAK EGY. GY’R |00000456|000
-08|GY’R-M-S  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|00824000|FIDESZ                        |00001523|001
-08|GY’R-M-S  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|00811000|MAGYAR SZOCIALISTA P¡RT       |00005090|003
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|00930000|KERESZT…NYDEMOKRATA N…PP¡RT   |00004036|002
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|00919000|TISZAT…R                      |00003544|001
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|00914000|MAGYAR SZOCIALISTA P¡RT       |00020222|009
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|00927000|FIDESZ                        |00004468|002
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|00917000|FKGP-MI…P-MUNK¡STANHBSZ÷V-M⁄T |00012628|005
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|00928000|S¡RR…TUDVARI PARASZTK”RUS     |00000927|000
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|00912000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00005870|002
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|00934000|MUNK¡SP¡RT                    |00002735|001
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|00922000|BIHARI EGYES‹LETEK            |00000724|000
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|00921000|HBM-I. NYUGDÕJAS SZ÷VETS…G    |00002993|001
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |11|00920000|K”RUSBAR¡TOK K÷RE             |00000995|000
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |12|00915000|MAGYAR DEMOKRATA F”RUM        |00003231|001
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |13|00933000|KISZ÷V HBM-I. IPARSZ÷VETS…G   |00001330|000
-09|HAJD⁄-B   |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |14|00924000|ROM¡K ORSZ¡GOS SZ÷VETS…GE     |00000837|000
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|00929000|HBM.SPORT                     |00000715|000
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|00916000|MAGYAR DEMOKRATA F”RUM        |00004006|002
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|00923000|BIHARI EGYES‹LETEK            |00000578|000
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|00935000|BUSE                          |00000355|000
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|00932000|KISZ÷V HBM-I. IPARSZ÷VETS…G   |00000592|000
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|00931000|KERESZT…NYDEMOKRATA N…PP¡RT   |00002005|001
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|00913000|MAGYAR SZOCIALISTA P¡RT       |00011820|006
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|00911000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00003998|002
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|00918000|FKGP-MI…P-MUNK¡STANHBSZ÷V-M⁄T |00005032|003
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |10|00926000|FIDESZ                        |00002053|001
-09|HAJD⁄-B   |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |11|00925000|HAJD⁄V¡ROSOK SZ÷VETS…GE       |00002200|001
-10|HEVES     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01018000|IPARTEST‹LET MGE GAZDAK÷R     |00002013|000
-10|HEVES     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01012000|MUNK¡SP¡RT                    |00006518|002
-10|HEVES     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01023000|F‹GGETLEN KISGAZDAP¡RT        |00011577|004
-10|HEVES     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01016000|FIDESZ                        |00006565|002
-10|HEVES     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01014000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00011207|004
-10|HEVES     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01019000|MAGYAR SZOCIALISTA P¡RT       |00026289|010
-10|HEVES     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01026000|KERESZT…NYDEMOKRATA N…PP¡RT   |00009204|004
-10|HEVES     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01028000|NYUGDÕJASOK HEVES MEGYEI SZ÷V.|00006522|002
-10|HEVES     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|01021000|MAGYAR DEMOKRATA F”RUM        |00004530|002
-10|HEVES     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01020000|IPARTEST‹LET MGE GAZDAK÷R     |00000928|000
-10|HEVES     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01011000|MUNK¡SP¡RT                    |00000780|000
-10|HEVES     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01025000|F‹GGETLEN KISGAZDAP¡RT        |00001755|001
-10|HEVES     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01015000|FIDESZ                        |00000809|000
-10|HEVES     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01013000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00003207|002
-10|HEVES     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01017000|MAGYAR SZOCIALISTA P¡RT       |00007106|005
-10|HEVES     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01024000|KERESZT…NYDEMOKRATA N…PP¡RT   |00003192|002
-10|HEVES     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|01027000|NYUGDÕJASOK HEVES MEGYEI SZ÷V.|00000670|000
-10|HEVES     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|01022000|MAGYAR DEMOKRATA F”RUM        |00001016|000
-11|J¡SZ-NK-SZ|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01120000|MUNK¡SP¡RT                    |00004194|001
-11|J¡SZ-NK-SZ|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01126000|TELEP‹L…SEK SZ÷VETS…GE        |00005775|002
-11|J¡SZ-NK-SZ|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01116000|FIDESZ                        |00005188|002
-11|J¡SZ-NK-SZ|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01128000|N…PF’ISKOLA-N…PM€VEL’K        |00001593|000
-11|J¡SZ-NK-SZ|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01123000|FKGP-KDNP-MDF                 |00019195|006
-11|J¡SZ-NK-SZ|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01118000|MAGYAR SZOCIALISTA P¡RT       |00022348|008
-11|J¡SZ-NK-SZ|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01130000|SPORTSZ÷VETS…GEK SZ÷VETS…GE   |00002014|000
-11|J¡SZ-NK-SZ|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01114000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00007817|003
-11|J¡SZ-NK-SZ|A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|01124000|J-N-SZ MEGYEI GAZDAK÷R÷K      |00001313|000
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01111000|KARCAGI IPARTEST‹LET          |00000876|000
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01131000|PEDAG”GUSOK SZAKSZERVEZETE    |00001963|001
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01117000|MAGYAR SZOCIALISTA P¡RT       |00013816|006
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01125000|J¡SZS¡GI-TISZAZUGI TELEP‹L…SEK|00001525|000
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01112000|KISZ÷V                        |00000687|000
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01113000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00006163|003
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01115000|FIDESZ                        |00004427|002
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|01121000|MUNK¡SP¡RT                    |00002636|001
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|01119000|NYUGDÕJASOK EGYES‹LETE        |00001791|000
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |10|01127000|KKT                           |00000687|000
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |11|01122000|FKGP-KDNP-MDF                 |00009695|005
-11|J¡SZ-NK-SZ|F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |12|01129000|N…PF’ISKOLA-N…PM€VEL’K        |00000867|000
-12|KOM¡ROM-E |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01216000|F‹GGETLEN KISGAZDAP¡RT        |00010167|004
-12|KOM¡ROM-E |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01221000|KERESZT…NYDEMOKRATA N…PP¡RT   |00003813|002
-12|KOM¡ROM-E |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01223000|SZLOV¡K SZ÷VETS…G             |00001198|000
-12|KOM¡ROM-E |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01218000|MAGYAR SZOCIALISTA P¡RT       |00017622|008
-12|KOM¡ROM-E |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01213000|NEMZ KULT EGY                 |00002901|001
-12|KOM¡ROM-E |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01215000|MAGYAR DEMOKRATA F”RUM        |00004366|002
-12|KOM¡ROM-E |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01212000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00007663|003
-12|KOM¡ROM-E |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01225000|FIDESZ                        |00004073|002
-12|KOM¡ROM-E |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01220000|KERESZT…NYDEMOKRATA N…PP¡RT   |00003769|002
-12|KOM¡ROM-E |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01214000|MAGYAR DEMOKRATA F”RUM        |00003185|002
-12|KOM¡ROM-E |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01211000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00006432|004
-12|KOM¡ROM-E |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01217000|MAGYAR SZOCIALISTA P¡RT       |00009847|006
-12|KOM¡ROM-E |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01224000|FIDESZ                        |00003009|002
-12|KOM¡ROM-E |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01219000|F‹GGETLEN KISGAZDAP¡RT        |00002631|001
-12|KOM¡ROM-E |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01222000|MUNK¡SP¡RT                    |00001836|001
-13|N”GR¡D    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01320000|MUNK¡SP¡RT                    |00005651|003
-13|N”GR¡D    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01322000|MAGYAR SZOCIALISTA P¡RT       |00016976|009
-13|N”GR¡D    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01312000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00007455|004
-13|N”GR¡D    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01327000|TESZ÷V-K÷Z…PM.AGR¡RKAMARA     |00002155|000
-13|N”GR¡D    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01325000|FIDESZ                        |00004723|003
-13|N”GR¡D    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01317000|MESZ÷V                        |00001301|000
-13|N”GR¡D    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01314000|K÷ZS…GI ÷NK SZ÷V T¡RS EGY SZ÷V|00004279|002
-13|N”GR¡D    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01323000|FKGP-KDNP-MDF                 |00016288|009
-13|N”GR¡D    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01313000|MAGYAR IGAZS¡G …S …LET P¡RTJA |00000401|000
-13|N”GR¡D    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01311000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00001679|002
-13|N”GR¡D    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01326000|FIDESZ                        |00001103|001
-13|N”GR¡D    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01315000|T¡RSADALMI EGYES‹L…SEK SZ÷V.  |00000378|000
-13|N”GR¡D    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01318000|B¡TONYTERENYE BAR¡TAINAK K÷RE |00000538|000
-13|N”GR¡D    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01321000|MAGYAR SZOCIALISTA P¡RT       |00003905|004
-13|N”GR¡D    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01319000|MUNK¡SP¡RT                    |00001240|001
-13|N”GR¡D    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|01316000|MESZ÷V                        |00000212|000
-13|N”GR¡D    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|01324000|FKGP-KDNP-MDF                 |00002583|002
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01423000|PEST M GAZDAK÷R÷K SZ÷VETS…GE  |00002868|000
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01414000|MAGYAR DEMOKRATA F”RUM        |00014782|003
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01420000|…LETET …VEKNEK KLUBSZ÷VETS…G  |00011476|003
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01424000|FIDESZ                        |00013122|003
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01412000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00021643|005
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01428000|FKGP-MI…P                     |00031247|007
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01421000|PEST M M‹VEL’D…SI K÷Z÷SS…GEK  |00004457|000
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01411000|K÷ZS…GI ÷NKORM¡NYZATOK SZ÷V.  |00010922|003
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|01427000|PM POLG¡RI K÷R÷K SZ÷VETS…GE   |00001632|000
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|01416000|KERESZT…NYDEMOKRATA N…PP¡RT   |00016966|004
-14|PEST      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |11|01418000|MAGYAR SZOCIALISTA P¡RT       |00040179|010
-14|PEST      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01417000|KERESZT…NYDEMOKRATA N…PP¡RT   |00012578|004
-14|PEST      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01425000|FIDESZ                        |00011828|004
-14|PEST      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01426000|PM POLG¡RI K÷R÷K SZ÷VETS…GE   |00003155|000
-14|PEST      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01415000|MAGYAR DEMOKRATA F”RUM        |00018455|006
-14|PEST      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01422000|PEST M GAZDAK÷R÷K SZ÷VETS…GE  |00002149|000
-14|PEST      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01431000|…KKT-SZVE                     |00003291|000
-14|PEST      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01419000|MAGYAR SZOCIALISTA P¡RT       |00042354|014
-14|PEST      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|01429000|FKGP-MI…P                     |00021423|007
-14|PEST      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|01413000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00021703|007
-15|SOMOGY    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01526000|"SOMOGY…RT" EGYES‹LET         |00021972|008
-15|SOMOGY    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01511000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00006454|002
-15|SOMOGY    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01524000|"TISZTA GY…M¡NT SOMOGY…RT"    |00001018|000
-15|SOMOGY    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01525000|MAGYAR DEMOKRATA F”RUM        |00004711|002
-15|SOMOGY    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01515000|FIDESZ                        |00005814|002
-15|SOMOGY    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01516000|MUNK¡SP¡RT                    |00003301|000
-15|SOMOGY    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01517000|KERESZT…NYDEMOKRATA N…PP¡RT   |00006108|002
-15|SOMOGY    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01522000|F‹GGETLEN KISGAZDAP¡RT        |00015970|006
-15|SOMOGY    |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|01520000|MAGYAR SZOCIALISTA P¡RT       |00024348|009
-15|SOMOGY    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01513000|FIDESZ                        |00001585|001
-15|SOMOGY    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01527000|"SOMOGY…RT" EGYES‹LET         |00002884|002
-15|SOMOGY    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01512000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00001302|000
-15|SOMOGY    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01521000|F‹GGETLEN KISGAZDAP¡RT        |00002187|001
-15|SOMOGY    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01519000|KERESZT…NYDEMOKRATA N…PP¡RT   |00001028|000
-15|SOMOGY    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01514000|MUNK¡SP¡RT                    |00000475|000
-15|SOMOGY    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01518000|MAGYAR SZOCIALISTA P¡RT       |00007914|005
-15|SOMOGY    |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|01523000|MAGYAR DEMOKRATA F”RUM        |00000830|000
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01623000|MSZDP                         |00008721|003
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01624000|MAGYAR IGAZS¡G …S …LET P¡RTJA |00005121|000
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01621000|KERESZT…NY IFJ⁄S¡GI EGYES‹LET |00008343|002
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01618000|MEGYEI V¡LASZT¡SI SZ÷VETS…G   |00034583|010
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01626000|MUNK¡SP¡RT                    |00010230|003
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01614000|GAZDAK÷R÷K SZ÷VETS…GE         |00008018|002
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01613000|ITT …L‹NK EGYES‹LET           |00008445|002
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01617000|FIDESZ                        |00011855|003
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|01630000|MAGYAR SZOCIALISTA P¡RT       |00036157|010
-16|SZABOLCS  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|01611000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00012551|004
-16|SZABOLCS  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01629000|MAGYAR SZOCIALISTA P¡RT       |00008729|004
-16|SZABOLCS  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01625000|MAGYAR IGAZS¡G …S …LET P¡RTJA |00000688|000
-16|SZABOLCS  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01619000|MEGYEI V¡LASZT¡SI SZ÷VETS…G   |00006261|003
-16|SZABOLCS  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01622000|KERESZT…NY IFJ⁄S¡GI EGYES‹LET |00000805|000
-16|SZABOLCS  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01615000|GAZDAK÷R÷K SZ÷VETS…GE         |00000484|000
-16|SZABOLCS  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01620000|FIDESZ                        |00001386|000
-16|SZABOLCS  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01627000|MUNK¡SP¡RT                    |00000980|000
-16|SZABOLCS  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|01616000|SPORTEGYES‹LETEK SZ÷VETS…GE   |00000447|000
-16|SZABOLCS  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|01612000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00004129|002
-17|TOLNA     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01718000|TOLNAT¡JI SZ÷VETS…G           |00001102|000
-17|TOLNA     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01716000|KERESZT…NYDEMOKRATA N…PP¡RT   |00006501|003
-17|TOLNA     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01714000|MAGYAR DEMOKRATA F”RUM        |00004710|002
-17|TOLNA     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01717000|MUNK¡SP¡RT                    |00002973|001
-17|TOLNA     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01711000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00006345|003
-17|TOLNA     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01725000|FIDESZ                        |00004669|002
-17|TOLNA     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01720000|AGR¡RSZ÷VETS…G                |00003022|002
-17|TOLNA     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01727000|F‹GGETLEN KISGAZDAP¡RT-MI…P   |00009985|005
-17|TOLNA     |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|01723000|MAGYAR SZOCIALISTA P¡RT       |00014892|008
-17|TOLNA     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01715000|KERESZT…NYDEMOKRATA N…PP¡RT   |00002704|002
-17|TOLNA     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01722000|MUNK¡SP¡RT                    |00000682|000
-17|TOLNA     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01713000|MAGYAR DEMOKRATA F”RUM        |00003172|002
-17|TOLNA     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01724000|MAGYAR SZOCIALISTA P¡RT       |00006678|005
-17|TOLNA     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01721000|AGR¡RSZ÷VETS…G                |00001284|001
-17|TOLNA     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01712000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00003188|002
-17|TOLNA     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01726000|FIDESZ                        |00001871|001
-17|TOLNA     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|01719000|TOLNAT¡JI SZ÷VETS…G           |00000378|000
-17|TOLNA     |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|01728000|F‹GGETLEN KISGAZDAP¡RT-MI…P   |00002251|002
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01820000|CELLD÷M÷LKI VASUTASOK K÷RE    |00001230|000
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01831000|IPARTEST‹LETEK TER. SZ÷VETS…GE|00001395|000
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01833000|MAGYAR DEMOKRATA F”RUM        |00005306|003
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01825000|T‹OSZVMSZ                     |00001441|000
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01835000|HORV¡TOK EGYES‹LETE           |00000823|000
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01816000|MO.-I N…METEK SZ÷VETS…GE      |00001062|000
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01828000|MAGYAR SZOCIALISTA P¡RT       |00015910|008
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01822000|T¡RSADALMI EGYES‹L…SEK SZ÷V.  |00001872|000
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|01830000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00010427|006
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|01815000|KERESZT…NYDEMOKRATA N…PP¡RT   |00008201|004
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |11|01817000|VEND…GL’S÷K KLUBJA            |00000583|000
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |12|01829000|FIDESZ                        |00004154|002
-18|VAS       |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |13|01813000|F‹GGETLEN KISGAZDAP¡RT        |00010831|006
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01826000|T‹OSZVMSZ                     |00000245|000
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01814000|KERESZT…NYDEMOKRATA N…PP¡RT   |00004521|003
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01832000|IPARTEST‹LETEK TER. SZ÷VETS…GE|00000473|000
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01818000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00002296|002
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01821000|T¡RSADALMI EGYES‹L…SEK SZ÷V.  |00000291|000
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01824000|MAGYAR SZOCIALISTA P¡RT       |00005517|004
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01823000|FIDESZ                        |00001126|001
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|01834000|MAGYAR DEMOKRATA F”RUM        |00001012|000
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|01812000|F‹GGETLEN KISGAZDAP¡RT        |00001457|001
-18|VAS       |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |10|01811000|LPSZ V¡LLALKOZ”K P¡RTJA       |00000350|000
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|01921000|VESZPR…M MEGYEI VAD¡SZSZ÷VETS.|00001971|000
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|01925000|FIDESZ                        |00007861|003
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|01911000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00010118|003
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|01916000|BAKONYI ÷NKORM¡NYZATOK SZ÷V.  |00003030|000
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|01926000|MAGYAR SZOCIALISTA P¡RT       |00020439|007
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|01922000|BALATONI SZ÷VETS…G            |00003754|001
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|01929000|MUNK¡SP¡RT                    |00003000|000
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|01913000|F‹GGETLEN KISGAZDAP¡RT        |00017802|006
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |09|01915000|E‹ DOLGOZ”K DEM SZAKSZERVEZETE|00002564|000
-19|VESZPR…M  |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |10|01919000|KDNPKONZERVATIVMDFMUNK¡ST.NDSZ|00011026|004
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|01924000|FIDESZ                        |00006363|003
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|01917000|E‹ DOLGOZ”K DEM SZAKSZERVEZETE|00000861|000
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|01914000|F‹GGETLEN KISGAZDAP¡RT        |00004386|002
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|01928000|NAGYCSAL¡DOSOK ORSZ¡GOS EGY-E |00001093|000
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |05|01923000|VESZPR…M MEGYEI VAD¡SZSZ÷VETS.|00000513|000
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |06|01918000|KDNPKONZERVATIVMDFMUNK¡ST.NDSZ|00005057|002
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |07|01912000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00006326|003
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |08|01927000|MAGYAR SZOCIALISTA P¡RT       |00012046|006
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |09|01920000|BALATONI SZ÷VETS…G            |00001039|000
-19|VESZPR…M  |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |10|01930000|MUNK¡SP¡RT                    |00000789|000
-20|ZALA      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |01|02028000|AGR¡RSZ÷VETS…G                |00003508|002
-20|ZALA      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |02|02012000|MAGYAR SZOCIALISTA P¡RT       |00018259|010
-20|ZALA      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |03|02026000|MEZ’GAZDAS¡GI SZ÷VETS…G       |00002789|000
-20|ZALA      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |04|02027000|S÷JT÷RI M…H…SZ SZERVEZET      |00002245|000
-20|ZALA      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |05|02014000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00011797|006
-20|ZALA      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |06|02023000|ZALAAP¡TI FALUBAR¡T EGYES‹LET |00001311|000
-20|ZALA      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |07|02018000|BALATONI SZ÷VETS…G ZALA MEGYE |00002865|002
-20|ZALA      |A|Megyei kˆzgy˚lÈsi lista 10000 lakos alatti        |08|02015000|FKGP-FIDESZ-KDNP-MDF          |00027300|015
-20|ZALA      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |01|02013000|MAGYAR SZOCIALISTA P¡RT       |00002051|002
-20|ZALA      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |02|02022000|KDNP-FKGP-V¡LLALKOZ”K P¡RTJA  |00001395|001
-20|ZALA      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |03|02016000|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00001415|001
-20|ZALA      |F|Megyei kˆzgy˚lÈsi lista 10000 lakos feletti       |04|02024000|FIDESZ-MDF                    |00000986|001
+01|BUDAPEST  |B|F≈ëv√°rosi k√∂zgy≈±l√©si lista                         |01|00112000|MAGYAR SZOCIALISTA P√ÅRT       |00176470|021
+01|BUDAPEST  |B|F≈ëv√°rosi k√∂zgy≈±l√©si lista                         |02|00113000|MUNK√ÅSP√ÅRT                    |00021484|000
+01|BUDAPEST  |B|F≈ëv√°rosi k√∂zgy≈±l√©si lista                         |03|00114000|FKGP-MI√âP                     |00060492|007
+01|BUDAPEST  |B|F≈ëv√°rosi k√∂zgy≈±l√©si lista                         |04|00116000|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00012595|000
+01|BUDAPEST  |B|F≈ëv√°rosi k√∂zgy≈±l√©si lista                         |05|00111000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00157659|019
+01|BUDAPEST  |B|F≈ëv√°rosi k√∂zgy≈±l√©si lista                         |06|00115000|MDF-FIDESZ-KDNP               |00158837|019
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|00219000|FKGP POLG√ÅRI K√ñR BARANY√Å√âRT   |00017705|007
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|00215000|MAGYAR SZOCIALISTA P√ÅRT       |00019001|008
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|00230000|LENAU EGYES√úLET               |00001249|000
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|00212000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00010641|005
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|00223000|MUNK√ÅSP√ÅRT                    |00003485|001
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|00213000|MAGYAR DEMOKRATA F√ìRUM        |00005534|002
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|00228000|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00001488|000
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|00226000|BARANY√Å√âRT SZ√ñVETS√âG          |00005671|002
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|00225000|PARASZTSZ√ñVETS√âG              |00001077|000
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|00231000|FIDESZ                        |00005021|002
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |11|00217000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00004992|002
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |12|00234000|TESZ√ñV                        |00001186|000
+02|BARANYA   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |13|00233000|FALUGONDNOKOK EGYES√úLETE      |00001154|000
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|00221000|V√ÅROSSZ√âP√çT≈ê EGYES√úLET KOML√ì  |00001884|001
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|00222000|NYUGD√çJASOK BARANYAI KAMAR√ÅJA |00001059|000
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|00218000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00001115|001
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|00229000|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00001439|001
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|00224000|MUNK√ÅSP√ÅRT                    |00000984|000
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|00214000|MAGYAR DEMOKRATA F√ìRUM        |00001547|001
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|00211000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00003112|002
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|00227000|BARANY√Å√âRT SZ√ñVETS√âG          |00000552|000
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|00216000|MAGYAR SZOCIALISTA P√ÅRT       |00004953|003
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |10|00220000|FKGP POLG√ÅRI K√ñR BARANY√Å√âRT   |00002038|001
+02|BARANYA   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |11|00232000|FIDESZ                        |00001183|001
+03|B√ÅCS-KISK.|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|00320000|MAGYAR SZOCIALISTA P√ÅRT       |00026653|008
+03|B√ÅCS-KISK.|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|00327000|MUNK√ÅSP√ÅRT                    |00003709|001
+03|B√ÅCS-KISK.|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|00328000|N√âMETEK √âS HORV√ÅTOK SZ√ñVETS√âGE|00002415|000
+03|B√ÅCS-KISK.|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|00324000|NAGYCSAL√ÅDOSOK ORSZ√ÅGOS EGY-E |00003997|001
+03|B√ÅCS-KISK.|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|00317000|SPORTSZ√ñVETS√âGEK TAN√ÅCSA      |00003273|000
+03|B√ÅCS-KISK.|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|00321000|FIDESZ                        |00006624|002
+03|B√ÅCS-KISK.|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|00313000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00011318|004
+03|B√ÅCS-KISK.|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|00329000|KDNP-MDF                      |00012833|004
+03|B√ÅCS-KISK.|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|00314000|F√úGGETLEN KISGAZDAP√ÅRT        |00021548|007
+03|B√ÅCS-KISK.|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|00326000|MUNK√ÅSP√ÅRT                    |00002027|001
+03|B√ÅCS-KISK.|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|00319000|FIDESZ                        |00002421|001
+03|B√ÅCS-KISK.|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|00323000|V√ÅROSI POLG√ÅRI K√ñR            |00003606|001
+03|B√ÅCS-KISK.|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|00322000|NYUGD√çJASOK MEGYEI SZ√ñVETS√âGE |00002906|001
+03|B√ÅCS-KISK.|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|00311000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00008551|004
+03|B√ÅCS-KISK.|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|00316000|MDF-KDNP                      |00008350|003
+03|B√ÅCS-KISK.|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|00325000|NAGYCSAL√ÅDOSOK ORSZ√ÅGOS EGY-E |00001690|000
+03|B√ÅCS-KISK.|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|00312000|F√úGGETLEN KISGAZDAP√ÅRT        |00007647|003
+03|B√ÅCS-KISK.|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|00318000|MAGYAR SZOCIALISTA P√ÅRT       |00012344|005
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|00426000|MAGYAR SZOCIALISTA P√ÅRT       |00020962|008
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|00419000|CSAN√ÅDAP√ÅCAI GAZDAK√ñR         |00001301|000
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|00418000|NAGYCSAL√ÅDOSOK ORSZ√ÅGOS EGY-E |00002633|000
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|00427000|BM CIG√ÅNYLAKOSOK EGYES√úLETE   |00000675|000
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|00430000|MUNK√ÅSP√ÅRT                    |00005155|002
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|00428000|F√úGGETLEN KISGAZDAP√ÅRT        |00013704|005
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|00411000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00008065|003
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|00415000|POLG√ÅRMESTEREK EGYES√úLETE     |00003907|001
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|00424000|KDNP MDF                      |00005170|002
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|00416000|MSZDP                         |00001084|000
+04|B√âK√âS     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |11|00420000|FIDESZ                        |00003346|001
+04|B√âK√âS     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|00421000|FIDESZ                        |00002646|001
+04|B√âK√âS     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|00417000|NAGYCSAL√ÅDOSOK ORSZ√ÅGOS EGY-E |00002077|001
+04|B√âK√âS     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|00412000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00008222|003
+04|B√âK√âS     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|00414000|MAGYAR SZOCIALISTA P√ÅRT       |00014593|006
+04|B√âK√âS     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|00423000|MUNK√ÅSP√ÅRT                    |00002251|001
+04|B√âK√âS     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|00429000|F√úGGETLEN KISGAZDAP√ÅRT        |00008259|004
+04|B√âK√âS     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|00425000|KDNP MDF                      |00005469|002
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|00515000|MAGYAR SZOCIALISTA P√ÅRT       |00051349|014
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|00522000|MMSZ-NOE-KINSZE-CSAL√ÅDSEG√çT≈ê  |00006190|000
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|00520000|FIDESZ                        |00011890|003
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|00527000|PED SZAKSZ BAZ M SZ√ñVETS√âGE   |00005877|000
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|00523000|MAGYAR DEMOKRATA F√ìRUM        |00008781|002
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|00529000|AGR√ÅRSZ√ñVETS√âG                |00003604|000
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|00530000|FKGP-MI√âP                     |00027450|008
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|00533000|B√ÅNY√ÅSZ-G√ñM√ñR-√ìZD-ZEMPL√âN-SZ√ñV|00007994|002
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|00513000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00014399|004
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|00518000|MUNK√ÅSP√ÅRT                    |00008849|002
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |11|00525000|MEZ≈êK√ñVESD K√ñRNY√âKE KULT.EGY. |00002108|000
+05|BORSOD-A-Z|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |12|00511000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00017074|005
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|00528000|AGR√ÅRSZ√ñVETS√âG                |00001751|000
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|00532000|B√ÅNY√ÅSZ-G√ñM√ñR-√ìZD-ZEMPL√âN-SZ√ñV|00002290|001
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|00512000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00005605|002
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|00531000|FKGP-MI√âP                     |00004469|002
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|00521000|FIDESZ                        |00003364|001
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|00514000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00008354|003
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|00517000|ORESZ                         |00000488|000
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|00519000|MUNK√ÅSP√ÅRT                    |00003120|001
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|00526000|PED SZAKSZ BAZ M SZ√ñVETS√âGE   |00002042|000
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |10|00524000|MAGYAR DEMOKRATA F√ìRUM        |00002776|001
+05|BORSOD-A-Z|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |11|00516000|MAGYAR SZOCIALISTA P√ÅRT       |00019077|008
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|00623000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00004437|002
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|00628000|F√úGGETLEN KISGAZDAP√ÅRT        |00010234|006
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|00620000|ORCHIDEA √âRD. EGYES√úLET       |00001042|000
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|00626000|MUNK√ÅSP√ÅRT                    |00001969|001
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|00632000|MAGYAR SZOCIALISTA P√ÅRT       |00012381|007
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|00617000|MAGYAR DEMOKRATA F√ìRUM        |00002731|002
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|00613000|FIDESZ                        |00003241|002
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|00634000|POLG√ÅRI SZ√ñVETS√âG CSONGR√ÅD M. |00001416|000
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|00616000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00004338|002
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|00615000|AGR√ÅRSZ√ñVETS√âG                |00001991|001
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |11|00633000|TISZASZIGETI GAZDAK√ñR         |00001055|000
+06|CSONGR√ÅD  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |12|00630000|M√ìRAHALMI V√ÅLLALK. EGYES√úLET  |00003260|002
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|00631000|MAGYAR SZOCIALISTA P√ÅRT       |00007085|006
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|00637000|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00000338|000
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|00611000|PEDAG√ìGUS SZAKSZERVEZET MAK√ì  |00000438|000
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|00627000|F√úGGETLEN KISGAZDAP√ÅRT        |00003494|003
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|00619000|ORCHIDEA √âRD. EGYES√úLET       |00000123|000
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|00621000|EGYES√úLT KISGAZDA P√ÅRT        |00000544|000
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|00612000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00003178|003
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|00622000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00002064|002
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|00636000|NYUP-KONZV.P-LPSZ VP-K√ñZT.P   |00000623|000
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |10|00614000|FIDESZ                        |00000675|000
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |11|00618000|MAGYAR DEMOKRATA F√ìRUM        |00001116|001
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |12|00635000|POLG√ÅRI SZ√ñVETS√âG CSONGR√ÅD M. |00000458|000
+06|CSONGR√ÅD  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |13|00625000|MUNK√ÅSP√ÅRT                    |00000762|000
+07|FEJ√âR     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|00720000|MAGYAR SZOCIALISTA P√ÅRT       |00026911|012
+07|FEJ√âR     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|00723000|MUNK√ÅSP√ÅRT                    |00005848|003
+07|FEJ√âR     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|00715000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00014568|006
+07|FEJ√âR     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|00714000|AGR√ÅRSZ√ñVETS√âG                |00004765|002
+07|FEJ√âR     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|00724000|MO.-I N√âMETEK SZ√ñVETS√âGE      |00001560|000
+07|FEJ√âR     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|00725000|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00002675|000
+07|FEJ√âR     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|00721000|FIDESZ-FKGP-KDNP-MDF          |00024548|011
+07|FEJ√âR     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|00713000|MAGYAR SZOCIALISTA P√ÅRT       |00004534|003
+07|FEJ√âR     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|00711000|AGR√ÅRSZ√ñVETS√âG                |00000666|000
+07|FEJ√âR     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|00719000|S√ÅRBOG√ÅRDI GAZDAK√ñR           |00000536|000
+07|FEJ√âR     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|00718000|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00000393|000
+07|FEJ√âR     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|00722000|MUNK√ÅSP√ÅRT                    |00000422|000
+07|FEJ√âR     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|00712000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00002369|002
+07|FEJ√âR     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|00716000|FIDESZ-FKGP-KDNP-MDF          |00002338|001
+07|FEJ√âR     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|00717000|FMCFSZ-BRK√ñ√âSZ                |00000176|000
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|00815000|F√úGGETLEN KISGAZDAP√ÅRT        |00016570|007
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|00818000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00008308|003
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|00817000|MOZG√ÅSKORL√ÅTOZOTTAK EGY. GY≈êR |00003723|001
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|00821000|REFLEX K√ñRNYEZETV√âD≈ê EGYES√úLET|00001095|000
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|00825000|HORV√ÅTOK EGYES√úLETE           |00001029|000
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|00823000|FIDESZ                        |00007105|003
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|00814000|MAGYAR SZOCIALISTA P√ÅRT       |00018580|007
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|00819000|MAGYAR DEMOKRATA F√ìRUM        |00007446|003
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|00822000|NYUGDIJAS SZ√ñVETS√âG GY≈êR      |00006434|003
+08|GY≈êR-M-S  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|00816000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00011370|005
+08|GY≈êR-M-S  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|00813000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00002677|002
+08|GY≈êR-M-S  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|00826000|MEGYEI NYUGD√çJAS SZ√ñVETS√âG    |00000943|000
+08|GY≈êR-M-S  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|00820000|KDNP-MDF-FKGP                 |00004931|003
+08|GY≈êR-M-S  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|00812000|MOZG√ÅSKORL√ÅTOZOTTAK EGY. GY≈êR |00000456|000
+08|GY≈êR-M-S  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|00824000|FIDESZ                        |00001523|001
+08|GY≈êR-M-S  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|00811000|MAGYAR SZOCIALISTA P√ÅRT       |00005090|003
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|00930000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00004036|002
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|00919000|TISZAT√âR                      |00003544|001
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|00914000|MAGYAR SZOCIALISTA P√ÅRT       |00020222|009
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|00927000|FIDESZ                        |00004468|002
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|00917000|FKGP-MI√âP-MUNK√ÅSTANHBSZ√ñV-M√öT |00012628|005
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|00928000|S√ÅRR√âTUDVARI PARASZTK√ìRUS     |00000927|000
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|00912000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00005870|002
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|00934000|MUNK√ÅSP√ÅRT                    |00002735|001
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|00922000|BIHARI EGYES√úLETEK            |00000724|000
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|00921000|HBM-I. NYUGD√çJAS SZ√ñVETS√âG    |00002993|001
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |11|00920000|K√ìRUSBAR√ÅTOK K√ñRE             |00000995|000
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |12|00915000|MAGYAR DEMOKRATA F√ìRUM        |00003231|001
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |13|00933000|KISZ√ñV HBM-I. IPARSZ√ñVETS√âG   |00001330|000
+09|HAJD√ö-B   |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |14|00924000|ROM√ÅK ORSZ√ÅGOS SZ√ñVETS√âGE     |00000837|000
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|00929000|HBM.SPORT                     |00000715|000
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|00916000|MAGYAR DEMOKRATA F√ìRUM        |00004006|002
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|00923000|BIHARI EGYES√úLETEK            |00000578|000
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|00935000|BUSE                          |00000355|000
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|00932000|KISZ√ñV HBM-I. IPARSZ√ñVETS√âG   |00000592|000
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|00931000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00002005|001
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|00913000|MAGYAR SZOCIALISTA P√ÅRT       |00011820|006
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|00911000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00003998|002
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|00918000|FKGP-MI√âP-MUNK√ÅSTANHBSZ√ñV-M√öT |00005032|003
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |10|00926000|FIDESZ                        |00002053|001
+09|HAJD√ö-B   |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |11|00925000|HAJD√öV√ÅROSOK SZ√ñVETS√âGE       |00002200|001
+10|HEVES     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01018000|IPARTEST√úLET MGE GAZDAK√ñR     |00002013|000
+10|HEVES     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01012000|MUNK√ÅSP√ÅRT                    |00006518|002
+10|HEVES     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01023000|F√úGGETLEN KISGAZDAP√ÅRT        |00011577|004
+10|HEVES     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01016000|FIDESZ                        |00006565|002
+10|HEVES     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01014000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00011207|004
+10|HEVES     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01019000|MAGYAR SZOCIALISTA P√ÅRT       |00026289|010
+10|HEVES     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01026000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00009204|004
+10|HEVES     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01028000|NYUGD√çJASOK HEVES MEGYEI SZ√ñV.|00006522|002
+10|HEVES     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|01021000|MAGYAR DEMOKRATA F√ìRUM        |00004530|002
+10|HEVES     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01020000|IPARTEST√úLET MGE GAZDAK√ñR     |00000928|000
+10|HEVES     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01011000|MUNK√ÅSP√ÅRT                    |00000780|000
+10|HEVES     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01025000|F√úGGETLEN KISGAZDAP√ÅRT        |00001755|001
+10|HEVES     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01015000|FIDESZ                        |00000809|000
+10|HEVES     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01013000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00003207|002
+10|HEVES     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01017000|MAGYAR SZOCIALISTA P√ÅRT       |00007106|005
+10|HEVES     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01024000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00003192|002
+10|HEVES     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|01027000|NYUGD√çJASOK HEVES MEGYEI SZ√ñV.|00000670|000
+10|HEVES     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|01022000|MAGYAR DEMOKRATA F√ìRUM        |00001016|000
+11|J√ÅSZ-NK-SZ|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01120000|MUNK√ÅSP√ÅRT                    |00004194|001
+11|J√ÅSZ-NK-SZ|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01126000|TELEP√úL√âSEK SZ√ñVETS√âGE        |00005775|002
+11|J√ÅSZ-NK-SZ|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01116000|FIDESZ                        |00005188|002
+11|J√ÅSZ-NK-SZ|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01128000|N√âPF≈êISKOLA-N√âPM≈∞VEL≈êK        |00001593|000
+11|J√ÅSZ-NK-SZ|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01123000|FKGP-KDNP-MDF                 |00019195|006
+11|J√ÅSZ-NK-SZ|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01118000|MAGYAR SZOCIALISTA P√ÅRT       |00022348|008
+11|J√ÅSZ-NK-SZ|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01130000|SPORTSZ√ñVETS√âGEK SZ√ñVETS√âGE   |00002014|000
+11|J√ÅSZ-NK-SZ|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01114000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00007817|003
+11|J√ÅSZ-NK-SZ|A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|01124000|J-N-SZ MEGYEI GAZDAK√ñR√ñK      |00001313|000
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01111000|KARCAGI IPARTEST√úLET          |00000876|000
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01131000|PEDAG√ìGUSOK SZAKSZERVEZETE    |00001963|001
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01117000|MAGYAR SZOCIALISTA P√ÅRT       |00013816|006
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01125000|J√ÅSZS√ÅGI-TISZAZUGI TELEP√úL√âSEK|00001525|000
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01112000|KISZ√ñV                        |00000687|000
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01113000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00006163|003
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01115000|FIDESZ                        |00004427|002
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|01121000|MUNK√ÅSP√ÅRT                    |00002636|001
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|01119000|NYUGD√çJASOK EGYES√úLETE        |00001791|000
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |10|01127000|KKT                           |00000687|000
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |11|01122000|FKGP-KDNP-MDF                 |00009695|005
+11|J√ÅSZ-NK-SZ|F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |12|01129000|N√âPF≈êISKOLA-N√âPM≈∞VEL≈êK        |00000867|000
+12|KOM√ÅROM-E |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01216000|F√úGGETLEN KISGAZDAP√ÅRT        |00010167|004
+12|KOM√ÅROM-E |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01221000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00003813|002
+12|KOM√ÅROM-E |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01223000|SZLOV√ÅK SZ√ñVETS√âG             |00001198|000
+12|KOM√ÅROM-E |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01218000|MAGYAR SZOCIALISTA P√ÅRT       |00017622|008
+12|KOM√ÅROM-E |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01213000|NEMZ KULT EGY                 |00002901|001
+12|KOM√ÅROM-E |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01215000|MAGYAR DEMOKRATA F√ìRUM        |00004366|002
+12|KOM√ÅROM-E |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01212000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00007663|003
+12|KOM√ÅROM-E |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01225000|FIDESZ                        |00004073|002
+12|KOM√ÅROM-E |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01220000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00003769|002
+12|KOM√ÅROM-E |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01214000|MAGYAR DEMOKRATA F√ìRUM        |00003185|002
+12|KOM√ÅROM-E |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01211000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00006432|004
+12|KOM√ÅROM-E |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01217000|MAGYAR SZOCIALISTA P√ÅRT       |00009847|006
+12|KOM√ÅROM-E |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01224000|FIDESZ                        |00003009|002
+12|KOM√ÅROM-E |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01219000|F√úGGETLEN KISGAZDAP√ÅRT        |00002631|001
+12|KOM√ÅROM-E |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01222000|MUNK√ÅSP√ÅRT                    |00001836|001
+13|N√ìGR√ÅD    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01320000|MUNK√ÅSP√ÅRT                    |00005651|003
+13|N√ìGR√ÅD    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01322000|MAGYAR SZOCIALISTA P√ÅRT       |00016976|009
+13|N√ìGR√ÅD    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01312000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00007455|004
+13|N√ìGR√ÅD    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01327000|TESZ√ñV-K√ñZ√âPM.AGR√ÅRKAMARA     |00002155|000
+13|N√ìGR√ÅD    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01325000|FIDESZ                        |00004723|003
+13|N√ìGR√ÅD    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01317000|MESZ√ñV                        |00001301|000
+13|N√ìGR√ÅD    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01314000|K√ñZS√âGI √ñNK SZ√ñV T√ÅRS EGY SZ√ñV|00004279|002
+13|N√ìGR√ÅD    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01323000|FKGP-KDNP-MDF                 |00016288|009
+13|N√ìGR√ÅD    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01313000|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00000401|000
+13|N√ìGR√ÅD    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01311000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00001679|002
+13|N√ìGR√ÅD    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01326000|FIDESZ                        |00001103|001
+13|N√ìGR√ÅD    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01315000|T√ÅRSADALMI EGYES√úL√âSEK SZ√ñV.  |00000378|000
+13|N√ìGR√ÅD    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01318000|B√ÅTONYTERENYE BAR√ÅTAINAK K√ñRE |00000538|000
+13|N√ìGR√ÅD    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01321000|MAGYAR SZOCIALISTA P√ÅRT       |00003905|004
+13|N√ìGR√ÅD    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01319000|MUNK√ÅSP√ÅRT                    |00001240|001
+13|N√ìGR√ÅD    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|01316000|MESZ√ñV                        |00000212|000
+13|N√ìGR√ÅD    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|01324000|FKGP-KDNP-MDF                 |00002583|002
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01423000|PEST M GAZDAK√ñR√ñK SZ√ñVETS√âGE  |00002868|000
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01414000|MAGYAR DEMOKRATA F√ìRUM        |00014782|003
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01420000|√âLETET √âVEKNEK KLUBSZ√ñVETS√âG  |00011476|003
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01424000|FIDESZ                        |00013122|003
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01412000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00021643|005
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01428000|FKGP-MI√âP                     |00031247|007
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01421000|PEST M M√úVEL≈êD√âSI K√ñZ√ñSS√âGEK  |00004457|000
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01411000|K√ñZS√âGI √ñNKORM√ÅNYZATOK SZ√ñV.  |00010922|003
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|01427000|PM POLG√ÅRI K√ñR√ñK SZ√ñVETS√âGE   |00001632|000
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|01416000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00016966|004
+14|PEST      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |11|01418000|MAGYAR SZOCIALISTA P√ÅRT       |00040179|010
+14|PEST      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01417000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00012578|004
+14|PEST      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01425000|FIDESZ                        |00011828|004
+14|PEST      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01426000|PM POLG√ÅRI K√ñR√ñK SZ√ñVETS√âGE   |00003155|000
+14|PEST      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01415000|MAGYAR DEMOKRATA F√ìRUM        |00018455|006
+14|PEST      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01422000|PEST M GAZDAK√ñR√ñK SZ√ñVETS√âGE  |00002149|000
+14|PEST      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01431000|√âKKT-SZVE                     |00003291|000
+14|PEST      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01419000|MAGYAR SZOCIALISTA P√ÅRT       |00042354|014
+14|PEST      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|01429000|FKGP-MI√âP                     |00021423|007
+14|PEST      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|01413000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00021703|007
+15|SOMOGY    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01526000|"SOMOGY√âRT" EGYES√úLET         |00021972|008
+15|SOMOGY    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01511000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00006454|002
+15|SOMOGY    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01524000|"TISZTA GY√âM√ÅNT SOMOGY√âRT"    |00001018|000
+15|SOMOGY    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01525000|MAGYAR DEMOKRATA F√ìRUM        |00004711|002
+15|SOMOGY    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01515000|FIDESZ                        |00005814|002
+15|SOMOGY    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01516000|MUNK√ÅSP√ÅRT                    |00003301|000
+15|SOMOGY    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01517000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00006108|002
+15|SOMOGY    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01522000|F√úGGETLEN KISGAZDAP√ÅRT        |00015970|006
+15|SOMOGY    |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|01520000|MAGYAR SZOCIALISTA P√ÅRT       |00024348|009
+15|SOMOGY    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01513000|FIDESZ                        |00001585|001
+15|SOMOGY    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01527000|"SOMOGY√âRT" EGYES√úLET         |00002884|002
+15|SOMOGY    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01512000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00001302|000
+15|SOMOGY    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01521000|F√úGGETLEN KISGAZDAP√ÅRT        |00002187|001
+15|SOMOGY    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01519000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00001028|000
+15|SOMOGY    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01514000|MUNK√ÅSP√ÅRT                    |00000475|000
+15|SOMOGY    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01518000|MAGYAR SZOCIALISTA P√ÅRT       |00007914|005
+15|SOMOGY    |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|01523000|MAGYAR DEMOKRATA F√ìRUM        |00000830|000
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01623000|MSZDP                         |00008721|003
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01624000|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00005121|000
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01621000|KERESZT√âNY IFJ√öS√ÅGI EGYES√úLET |00008343|002
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01618000|MEGYEI V√ÅLASZT√ÅSI SZ√ñVETS√âG   |00034583|010
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01626000|MUNK√ÅSP√ÅRT                    |00010230|003
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01614000|GAZDAK√ñR√ñK SZ√ñVETS√âGE         |00008018|002
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01613000|ITT √âL√úNK EGYES√úLET           |00008445|002
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01617000|FIDESZ                        |00011855|003
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|01630000|MAGYAR SZOCIALISTA P√ÅRT       |00036157|010
+16|SZABOLCS  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|01611000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00012551|004
+16|SZABOLCS  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01629000|MAGYAR SZOCIALISTA P√ÅRT       |00008729|004
+16|SZABOLCS  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01625000|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00000688|000
+16|SZABOLCS  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01619000|MEGYEI V√ÅLASZT√ÅSI SZ√ñVETS√âG   |00006261|003
+16|SZABOLCS  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01622000|KERESZT√âNY IFJ√öS√ÅGI EGYES√úLET |00000805|000
+16|SZABOLCS  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01615000|GAZDAK√ñR√ñK SZ√ñVETS√âGE         |00000484|000
+16|SZABOLCS  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01620000|FIDESZ                        |00001386|000
+16|SZABOLCS  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01627000|MUNK√ÅSP√ÅRT                    |00000980|000
+16|SZABOLCS  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|01616000|SPORTEGYES√úLETEK SZ√ñVETS√âGE   |00000447|000
+16|SZABOLCS  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|01612000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00004129|002
+17|TOLNA     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01718000|TOLNAT√ÅJI SZ√ñVETS√âG           |00001102|000
+17|TOLNA     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01716000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00006501|003
+17|TOLNA     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01714000|MAGYAR DEMOKRATA F√ìRUM        |00004710|002
+17|TOLNA     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01717000|MUNK√ÅSP√ÅRT                    |00002973|001
+17|TOLNA     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01711000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00006345|003
+17|TOLNA     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01725000|FIDESZ                        |00004669|002
+17|TOLNA     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01720000|AGR√ÅRSZ√ñVETS√âG                |00003022|002
+17|TOLNA     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01727000|F√úGGETLEN KISGAZDAP√ÅRT-MI√âP   |00009985|005
+17|TOLNA     |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|01723000|MAGYAR SZOCIALISTA P√ÅRT       |00014892|008
+17|TOLNA     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01715000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00002704|002
+17|TOLNA     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01722000|MUNK√ÅSP√ÅRT                    |00000682|000
+17|TOLNA     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01713000|MAGYAR DEMOKRATA F√ìRUM        |00003172|002
+17|TOLNA     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01724000|MAGYAR SZOCIALISTA P√ÅRT       |00006678|005
+17|TOLNA     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01721000|AGR√ÅRSZ√ñVETS√âG                |00001284|001
+17|TOLNA     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01712000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00003188|002
+17|TOLNA     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01726000|FIDESZ                        |00001871|001
+17|TOLNA     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|01719000|TOLNAT√ÅJI SZ√ñVETS√âG           |00000378|000
+17|TOLNA     |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|01728000|F√úGGETLEN KISGAZDAP√ÅRT-MI√âP   |00002251|002
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01820000|CELLD√ñM√ñLKI VASUTASOK K√ñRE    |00001230|000
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01831000|IPARTEST√úLETEK TER. SZ√ñVETS√âGE|00001395|000
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01833000|MAGYAR DEMOKRATA F√ìRUM        |00005306|003
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01825000|T√úOSZVMSZ                     |00001441|000
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01835000|HORV√ÅTOK EGYES√úLETE           |00000823|000
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01816000|MO.-I N√âMETEK SZ√ñVETS√âGE      |00001062|000
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01828000|MAGYAR SZOCIALISTA P√ÅRT       |00015910|008
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01822000|T√ÅRSADALMI EGYES√úL√âSEK SZ√ñV.  |00001872|000
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|01830000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00010427|006
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|01815000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00008201|004
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |11|01817000|VEND√âGL≈êS√ñK KLUBJA            |00000583|000
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |12|01829000|FIDESZ                        |00004154|002
+18|VAS       |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |13|01813000|F√úGGETLEN KISGAZDAP√ÅRT        |00010831|006
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01826000|T√úOSZVMSZ                     |00000245|000
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01814000|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00004521|003
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01832000|IPARTEST√úLETEK TER. SZ√ñVETS√âGE|00000473|000
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01818000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00002296|002
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01821000|T√ÅRSADALMI EGYES√úL√âSEK SZ√ñV.  |00000291|000
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01824000|MAGYAR SZOCIALISTA P√ÅRT       |00005517|004
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01823000|FIDESZ                        |00001126|001
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|01834000|MAGYAR DEMOKRATA F√ìRUM        |00001012|000
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|01812000|F√úGGETLEN KISGAZDAP√ÅRT        |00001457|001
+18|VAS       |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |10|01811000|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00000350|000
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|01921000|VESZPR√âM MEGYEI VAD√ÅSZSZ√ñVETS.|00001971|000
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|01925000|FIDESZ                        |00007861|003
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|01911000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00010118|003
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|01916000|BAKONYI √ñNKORM√ÅNYZATOK SZ√ñV.  |00003030|000
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|01926000|MAGYAR SZOCIALISTA P√ÅRT       |00020439|007
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|01922000|BALATONI SZ√ñVETS√âG            |00003754|001
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|01929000|MUNK√ÅSP√ÅRT                    |00003000|000
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|01913000|F√úGGETLEN KISGAZDAP√ÅRT        |00017802|006
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |09|01915000|E√ú DOLGOZ√ìK DEM SZAKSZERVEZETE|00002564|000
+19|VESZPR√âM  |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |10|01919000|KDNPKONZERVATIVMDFMUNK√ÅST.NDSZ|00011026|004
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|01924000|FIDESZ                        |00006363|003
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|01917000|E√ú DOLGOZ√ìK DEM SZAKSZERVEZETE|00000861|000
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|01914000|F√úGGETLEN KISGAZDAP√ÅRT        |00004386|002
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|01928000|NAGYCSAL√ÅDOSOK ORSZ√ÅGOS EGY-E |00001093|000
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |05|01923000|VESZPR√âM MEGYEI VAD√ÅSZSZ√ñVETS.|00000513|000
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |06|01918000|KDNPKONZERVATIVMDFMUNK√ÅST.NDSZ|00005057|002
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |07|01912000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00006326|003
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |08|01927000|MAGYAR SZOCIALISTA P√ÅRT       |00012046|006
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |09|01920000|BALATONI SZ√ñVETS√âG            |00001039|000
+19|VESZPR√âM  |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |10|01930000|MUNK√ÅSP√ÅRT                    |00000789|000
+20|ZALA      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |01|02028000|AGR√ÅRSZ√ñVETS√âG                |00003508|002
+20|ZALA      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |02|02012000|MAGYAR SZOCIALISTA P√ÅRT       |00018259|010
+20|ZALA      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |03|02026000|MEZ≈êGAZDAS√ÅGI SZ√ñVETS√âG       |00002789|000
+20|ZALA      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |04|02027000|S√ñJT√ñRI M√âH√âSZ SZERVEZET      |00002245|000
+20|ZALA      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |05|02014000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00011797|006
+20|ZALA      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |06|02023000|ZALAAP√ÅTI FALUBAR√ÅT EGYES√úLET |00001311|000
+20|ZALA      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |07|02018000|BALATONI SZ√ñVETS√âG ZALA MEGYE |00002865|002
+20|ZALA      |A|Megyei k√∂zgy≈±l√©si lista 10000 lakos alatti        |08|02015000|FKGP-FIDESZ-KDNP-MDF          |00027300|015
+20|ZALA      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |01|02013000|MAGYAR SZOCIALISTA P√ÅRT       |00002051|002
+20|ZALA      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |02|02022000|KDNP-FKGP-V√ÅLLALKOZ√ìK P√ÅRTJA  |00001395|001
+20|ZALA      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |03|02016000|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00001415|001
+20|ZALA      |F|Megyei k√∂zgy≈±l√©si lista 10000 lakos feletti       |04|02024000|FIDESZ-MDF                    |00000986|001

@@ -1,5 +1,5 @@
-  1| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-  2| 1|    38|LEHET M¡S A POLITIKA                                                                      |
-  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-  4| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-  4| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
+  1| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+  2| 1|    38|LEHET M√ÅS A POLITIKA                                                                      |
+  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+  4| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+  4| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |

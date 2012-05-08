@@ -1,96 +1,96 @@
-01|3|  1| 1|    38|LEHET M¡S A POLITIKA                                                                      |
-01|3|  2| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-01|3|  2| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-01|3|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-01|3|  4| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-02|2|  1| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-02|2|  1| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-02|2|  2| 1|    38|LEHET M¡S A POLITIKA                                                                      |
-02|2|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-02|2|  4| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-02|2|  5| 1|   464|Baranyai EmberekÈrt SzˆvetsÈg                                                             |
-03|2|  1| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-03|2|  2| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-03|2|  2| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-03|2|  3| 1|    38|LEHET M¡S A POLITIKA                                                                      |
-03|2|  4| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-04|2|  1| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-04|2|  1| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-04|2|  2| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-04|2|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-05|2|  1| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-05|2|  1| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-05|2|  2| 1|    38|LEHET M¡S A POLITIKA                                                                      |
-05|2|  3| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-05|2|  4| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-06|2|  1| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-06|2|  2| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-06|2|  2| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-06|2|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-06|2|  4| 1|   612|Polg·ri SzˆvetsÈg MakÛÈrt                                                                 |
-06|2|  5| 1|   479|V·rosÈpÌtık T·rsas·ga Egyes¸let                                                           |
-07|2|  1| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-07|2|  2| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-07|2|  3| 1|   586|FEJ…R MEGYEI TELEP‹L…SEK…RT EGYES‹LET                                                     |
-07|2|  4| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-07|2|  4| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-08|2|  1| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-08|2|  2| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-08|2|  2| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-08|2|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-09|2|  1| 1|    38|LEHET M¡S A POLITIKA                                                                      |
-09|2|  2| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-09|2|  2| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-09|2|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-09|2|  4| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-10|2|  1| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-10|2|  1| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-10|2|  2| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-10|2|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-11|2|  1| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-11|2|  2| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-11|2|  3| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-11|2|  3| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-12|2|  1| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-12|2|  2| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-12|2|  3| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-12|2|  3| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-13|2|  1| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-13|2|  2| 1|    37|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-13|2|  3| 1|   661|CIVILEK A MEGY……RT EGYES‹LET                                                              |
-13|2|  4| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-13|2|  5| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-13|2|  5| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-14|2|  1| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-14|2|  1| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-14|2|  2| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-14|2|  3| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-15|2|  1| 1|   653|SOMOGY POLG¡RAI…RT EGYES‹LET                                                              |
-15|2|  2| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-15|2|  2| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-15|2|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-15|2|  4| 1|    10|SOMOGY…RT EGYES‹LET                                                                       |
-15|2|  5| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-16|2|  1| 1|   105|÷SSZEFOG¡S SZABOLCS-SZATM¡R- BEREG MEGYE FELEMELKED…S……RT SZ÷VETS…G                       |
-16|2|  2| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-16|2|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-16|2|  4| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-16|2|  4| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-17|2|  1| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-17|2|  2| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-17|2|  2| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-17|2|  3| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-18|2|  1| 1|   559|SZOLIDARIT¡S A VID…KKEL MOZGALOM                                                          |
-18|2|  2| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-18|2|  2| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-18|2|  3| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-18|2|  4| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-19|2|  1| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-19|2|  1| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
-19|2|  2| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-19|2|  3| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-20|2|  1| 1|   169|JOBBIK MAGYARORSZ¡G…RT MOZGALOM                                                           |
-20|2|  2| 1|   621|Zala-menti Polg·rmesterek Ès Polg·rok Egyes¸lete                                          |
-20|2|  3| 1|    36|MAGYAR SZOCIALISTA P¡RT                                                                   |
-20|2|  4| 1|   199|Fidesz - Magyar Polg·ri SzˆvetsÈg                                                         |
-20|2|  4| 2|   189|KeresztÈnydemokrata NÈpp·rt                                                               |
+01|3|  1| 1|    38|LEHET M√ÅS A POLITIKA                                                                      |
+01|3|  2| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+01|3|  2| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+01|3|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+01|3|  4| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+02|2|  1| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+02|2|  1| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+02|2|  2| 1|    38|LEHET M√ÅS A POLITIKA                                                                      |
+02|2|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+02|2|  4| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+02|2|  5| 1|   464|Baranyai Emberek√©rt Sz√∂vets√©g                                                             |
+03|2|  1| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+03|2|  2| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+03|2|  2| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+03|2|  3| 1|    38|LEHET M√ÅS A POLITIKA                                                                      |
+03|2|  4| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+04|2|  1| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+04|2|  1| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+04|2|  2| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+04|2|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+05|2|  1| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+05|2|  1| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+05|2|  2| 1|    38|LEHET M√ÅS A POLITIKA                                                                      |
+05|2|  3| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+05|2|  4| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+06|2|  1| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+06|2|  2| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+06|2|  2| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+06|2|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+06|2|  4| 1|   612|Polg√°ri Sz√∂vets√©g Mak√≥√©rt                                                                 |
+06|2|  5| 1|   479|V√°ros√©p√≠t≈ëk T√°rsas√°ga Egyes√ºlet                                                           |
+07|2|  1| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+07|2|  2| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+07|2|  3| 1|   586|FEJ√âR MEGYEI TELEP√úL√âSEK√âRT EGYES√úLET                                                     |
+07|2|  4| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+07|2|  4| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+08|2|  1| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+08|2|  2| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+08|2|  2| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+08|2|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+09|2|  1| 1|    38|LEHET M√ÅS A POLITIKA                                                                      |
+09|2|  2| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+09|2|  2| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+09|2|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+09|2|  4| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+10|2|  1| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+10|2|  1| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+10|2|  2| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+10|2|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+11|2|  1| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+11|2|  2| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+11|2|  3| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+11|2|  3| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+12|2|  1| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+12|2|  2| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+12|2|  3| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+12|2|  3| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+13|2|  1| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+13|2|  2| 1|    37|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+13|2|  3| 1|   661|CIVILEK A MEGY√â√âRT EGYES√úLET                                                              |
+13|2|  4| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+13|2|  5| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+13|2|  5| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+14|2|  1| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+14|2|  1| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+14|2|  2| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+14|2|  3| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+15|2|  1| 1|   653|SOMOGY POLG√ÅRAI√âRT EGYES√úLET                                                              |
+15|2|  2| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+15|2|  2| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+15|2|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+15|2|  4| 1|    10|SOMOGY√âRT EGYES√úLET                                                                       |
+15|2|  5| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+16|2|  1| 1|   105|√ñSSZEFOG√ÅS SZABOLCS-SZATM√ÅR- BEREG MEGYE FELEMELKED√âS√â√âRT SZ√ñVETS√âG                       |
+16|2|  2| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+16|2|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+16|2|  4| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+16|2|  4| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+17|2|  1| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+17|2|  2| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+17|2|  2| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+17|2|  3| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+18|2|  1| 1|   559|SZOLIDARIT√ÅS A VID√âKKEL MOZGALOM                                                          |
+18|2|  2| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+18|2|  2| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+18|2|  3| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+18|2|  4| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+19|2|  1| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+19|2|  1| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |
+19|2|  2| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+19|2|  3| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+20|2|  1| 1|   169|JOBBIK MAGYARORSZ√ÅG√âRT MOZGALOM                                                           |
+20|2|  2| 1|   621|Zala-menti Polg√°rmesterek √©s Polg√°rok Egyes√ºlete                                          |
+20|2|  3| 1|    36|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+20|2|  4| 1|   199|Fidesz - Magyar Polg√°ri Sz√∂vets√©g                                                         |
+20|2|  4| 2|   189|Kereszt√©nydemokrata N√©pp√°rt                                                               |

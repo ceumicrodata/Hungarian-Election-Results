@@ -1,259 +1,259 @@
-1|01|BUDAPEST  |01|K÷ZT¡RSAS¡G P¡RT              |00053291                                                                                         
-1|01|BUDAPEST  |02|KERESZT…NYDEMOKRATA N…PP¡RT   |00062537                                                                                         
-1|01|BUDAPEST  |03|MUNK¡SP¡RT                    |00029458                                                                                         
-1|01|BUDAPEST  |04|MAGYAR SZOCIALISTA P¡RT       |00391548                                                                                         
+1|01|BUDAPEST  |01|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00053291                                                                                         
+1|01|BUDAPEST  |02|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00062537                                                                                         
+1|01|BUDAPEST  |03|MUNK√ÅSP√ÅRT                    |00029458                                                                                         
+1|01|BUDAPEST  |04|MAGYAR SZOCIALISTA P√ÅRT       |00391548                                                                                         
 1|01|BUDAPEST  |05|FIDESZ                        |00068509                                                                                         
-1|01|BUDAPEST  |06|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00231368                                                                                         
+1|01|BUDAPEST  |06|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00231368                                                                                         
 1|01|BUDAPEST  |07|MDF                           |00166433                                                                                         
-1|01|BUDAPEST  |08|F‹GGETLEN KISGAZDAP¡RT        |00051242                                                                                         
-1|01|BUDAPEST  |09|MAGYAR IGAZS¡G …S …LET P¡RTJA |00039869                                                                                         
-1|01|BUDAPEST  |10|AGR¡RSZ÷VETS…G                |00019610                                                                                         
-1|02|BARANYA   |01|MAGYAR SZOCIALISTA P¡RT       |00070748                                                                                         
-1|02|BARANYA   |02|K÷ZT¡RSAS¡G P¡RT              |00007376                                                                                         
+1|01|BUDAPEST  |08|F√úGGETLEN KISGAZDAP√ÅRT        |00051242                                                                                         
+1|01|BUDAPEST  |09|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00039869                                                                                         
+1|01|BUDAPEST  |10|AGR√ÅRSZ√ñVETS√âG                |00019610                                                                                         
+1|02|BARANYA   |01|MAGYAR SZOCIALISTA P√ÅRT       |00070748                                                                                         
+1|02|BARANYA   |02|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00007376                                                                                         
 1|02|BARANYA   |03|MSZDP                         |00003517                                                                                         
-1|02|BARANYA   |04|MAGYARORSZ¡GI Z÷LD P¡RT       |00001181                                                                                         
-1|02|BARANYA   |05|AGR¡RSZ÷VETS…G                |00005086                                                                                         
-1|02|BARANYA   |06|F‹GGETLEN KISGAZDAP¡RT        |00018692                                                                                         
-1|02|BARANYA   |07|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00047936                                                                                         
+1|02|BARANYA   |04|MAGYARORSZ√ÅGI Z√ñLD P√ÅRT       |00001181                                                                                         
+1|02|BARANYA   |05|AGR√ÅRSZ√ñVETS√âG                |00005086                                                                                         
+1|02|BARANYA   |06|F√úGGETLEN KISGAZDAP√ÅRT        |00018692                                                                                         
+1|02|BARANYA   |07|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00047936                                                                                         
 1|02|BARANYA   |08|FIDESZ                        |00014550                                                                                         
 1|02|BARANYA   |09|MDF                           |00023955                                                                                         
-1|02|BARANYA   |10|EGYES‹LT KISGAZDA P¡RT        |00001696                                                                                         
-1|02|BARANYA   |11|NEMZETI DEMOKRAT¡K            |00001595                                                                                         
-1|02|BARANYA   |12|KERESZT…NYDEMOKRATA N…PP¡RT   |00013882                                                                                         
-1|02|BARANYA   |13|MAGYAR IGAZS¡G …S …LET P¡RTJA |00003320                                                                                         
-1|02|BARANYA   |14|MUNK¡SP¡RT                    |00006906                                                                                         
-1|03|B¡CS      |01|MDF                           |00033068                                                                                         
-1|03|B¡CS      |02|NEMZETI DEMOKRAT¡K            |00001950                                                                                         
-1|03|B¡CS      |03|MAGYAR IGAZS¡G …S …LET P¡RTJA |00004127                                                                                         
-1|03|B¡CS      |04|EGYES‹LT KISGAZDA P¡RT        |00004978                                                                                         
-1|03|B¡CS      |05|FIDESZ                        |00016948                                                                                         
-1|03|B¡CS      |06|AGR¡RSZ÷VETS…G                |00008726                                                                                         
-1|03|B¡CS      |07|MAGYAR SZOCIALISTA P¡RT       |00068883                                                                                         
-1|03|B¡CS      |08|LPSZ V¡LLALKOZ”K P¡RTJA       |00004865                                                                                         
-1|03|B¡CS      |09|F‹GGETLEN KISGAZDAP¡RT        |00031903                                                                                         
-1|03|B¡CS      |10|MUNK¡SP¡RT                    |00007739                                                                                         
-1|03|B¡CS      |11|KERESZT…NYDEMOKRATA N…PP¡RT   |00019687                                                                                         
-1|03|B¡CS      |12|MAGYARORSZ¡GI Z÷LD P¡RT       |00001461                                                                                         
-1|03|B¡CS      |13|K÷ZT¡RSAS¡G P¡RT              |00004837                                                                                         
-1|03|B¡CS      |14|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00046628                                                                                         
-1|03|B¡CS      |15|MSZDP                         |00002236                                                                                         
-1|04|B…K…S     |01|MUNK¡SP¡RT                    |00011647                                                                                         
-1|04|B…K…S     |02|MAGYARORSZ¡GI Z÷LD P¡RT       |00001590                                                                                         
-1|04|B…K…S     |03|MDF                           |00020801                                                                                         
-1|04|B…K…S     |04|KONZERVATÕV P¡RT              |00000714                                                                                         
-1|04|B…K…S     |05|F‹GGETLEN KISGAZDAP¡RT        |00026466                                                                                         
-1|04|B…K…S     |06|AGR¡RSZ÷VETS…G                |00004420                                                                                         
-1|04|B…K…S     |07|EGYES‹LT KISGAZDA P¡RT        |00006345                                                                                         
-1|04|B…K…S     |08|FIDESZ                        |00012773                                                                                         
-1|04|B…K…S     |09|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00041283                                                                                         
-1|04|B…K…S     |10|MSZDP                         |00003663                                                                                         
-1|04|B…K…S     |11|MAGYAR SZOCIALISTA P¡RT       |00068128                                                                                         
-1|04|B…K…S     |12|K÷ZT¡RSAS¡G P¡RT              |00007086                                                                                         
-1|04|B…K…S     |13|KERESZT…NYDEMOKRATA N…PP¡RT   |00008467                                                                                         
-1|05|BORSOD    |01|LPSZ V¡LLALKOZ”K P¡RTJA       |00002160                                                                                         
-1|05|BORSOD    |02|MAGYAR SZOCIALISTA P¡RT       |00158646                                                                                         
-1|05|BORSOD    |03|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00064286                                                                                         
-1|05|BORSOD    |04|NEMZETI DEMOKRAT¡K            |00004615                                                                                         
+1|02|BARANYA   |10|EGYES√úLT KISGAZDA P√ÅRT        |00001696                                                                                         
+1|02|BARANYA   |11|NEMZETI DEMOKRAT√ÅK            |00001595                                                                                         
+1|02|BARANYA   |12|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00013882                                                                                         
+1|02|BARANYA   |13|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00003320                                                                                         
+1|02|BARANYA   |14|MUNK√ÅSP√ÅRT                    |00006906                                                                                         
+1|03|B√ÅCS      |01|MDF                           |00033068                                                                                         
+1|03|B√ÅCS      |02|NEMZETI DEMOKRAT√ÅK            |00001950                                                                                         
+1|03|B√ÅCS      |03|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00004127                                                                                         
+1|03|B√ÅCS      |04|EGYES√úLT KISGAZDA P√ÅRT        |00004978                                                                                         
+1|03|B√ÅCS      |05|FIDESZ                        |00016948                                                                                         
+1|03|B√ÅCS      |06|AGR√ÅRSZ√ñVETS√âG                |00008726                                                                                         
+1|03|B√ÅCS      |07|MAGYAR SZOCIALISTA P√ÅRT       |00068883                                                                                         
+1|03|B√ÅCS      |08|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00004865                                                                                         
+1|03|B√ÅCS      |09|F√úGGETLEN KISGAZDAP√ÅRT        |00031903                                                                                         
+1|03|B√ÅCS      |10|MUNK√ÅSP√ÅRT                    |00007739                                                                                         
+1|03|B√ÅCS      |11|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00019687                                                                                         
+1|03|B√ÅCS      |12|MAGYARORSZ√ÅGI Z√ñLD P√ÅRT       |00001461                                                                                         
+1|03|B√ÅCS      |13|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00004837                                                                                         
+1|03|B√ÅCS      |14|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00046628                                                                                         
+1|03|B√ÅCS      |15|MSZDP                         |00002236                                                                                         
+1|04|B√âK√âS     |01|MUNK√ÅSP√ÅRT                    |00011647                                                                                         
+1|04|B√âK√âS     |02|MAGYARORSZ√ÅGI Z√ñLD P√ÅRT       |00001590                                                                                         
+1|04|B√âK√âS     |03|MDF                           |00020801                                                                                         
+1|04|B√âK√âS     |04|KONZERVAT√çV P√ÅRT              |00000714                                                                                         
+1|04|B√âK√âS     |05|F√úGGETLEN KISGAZDAP√ÅRT        |00026466                                                                                         
+1|04|B√âK√âS     |06|AGR√ÅRSZ√ñVETS√âG                |00004420                                                                                         
+1|04|B√âK√âS     |07|EGYES√úLT KISGAZDA P√ÅRT        |00006345                                                                                         
+1|04|B√âK√âS     |08|FIDESZ                        |00012773                                                                                         
+1|04|B√âK√âS     |09|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00041283                                                                                         
+1|04|B√âK√âS     |10|MSZDP                         |00003663                                                                                         
+1|04|B√âK√âS     |11|MAGYAR SZOCIALISTA P√ÅRT       |00068128                                                                                         
+1|04|B√âK√âS     |12|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00007086                                                                                         
+1|04|B√âK√âS     |13|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00008467                                                                                         
+1|05|BORSOD    |01|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00002160                                                                                         
+1|05|BORSOD    |02|MAGYAR SZOCIALISTA P√ÅRT       |00158646                                                                                         
+1|05|BORSOD    |03|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00064286                                                                                         
+1|05|BORSOD    |04|NEMZETI DEMOKRAT√ÅK            |00004615                                                                                         
 1|05|BORSOD    |05|FIDESZ                        |00027464                                                                                         
-1|05|BORSOD    |06|AGR¡RSZ÷VETS…G                |00008462                                                                                         
-1|05|BORSOD    |07|K÷ZT¡RSAS¡G P¡RT              |00007079                                                                                         
-1|05|BORSOD    |08|EGYES‹LT KISGAZDA P¡RT        |00005100                                                                                         
-1|05|BORSOD    |09|KERESZT…NYDEMOKRATA N…PP¡RT   |00035168                                                                                         
-1|05|BORSOD    |10|MUNK¡SP¡RT                    |00017052                                                                                         
-1|05|BORSOD    |11|F‹GGETLEN KISGAZDAP¡RT        |00027383                                                                                         
+1|05|BORSOD    |06|AGR√ÅRSZ√ñVETS√âG                |00008462                                                                                         
+1|05|BORSOD    |07|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00007079                                                                                         
+1|05|BORSOD    |08|EGYES√úLT KISGAZDA P√ÅRT        |00005100                                                                                         
+1|05|BORSOD    |09|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00035168                                                                                         
+1|05|BORSOD    |10|MUNK√ÅSP√ÅRT                    |00017052                                                                                         
+1|05|BORSOD    |11|F√úGGETLEN KISGAZDAP√ÅRT        |00027383                                                                                         
 1|05|BORSOD    |12|MDF                           |00037976                                                                                         
-1|06|CSONGR¡D  |01|KERESZT…NYDEMOKRATA N…PP¡RT   |00015535                                                                                         
-1|06|CSONGR¡D  |02|LPSZ V¡LLALKOZ”K P¡RTJA       |00003026                                                                                         
-1|06|CSONGR¡D  |03|KONZERVATÕV P¡RT              |00000677                                                                                         
-1|06|CSONGR¡D  |04|AGR¡RSZ÷VETS…G                |00006181                                                                                         
-1|06|CSONGR¡D  |05|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00044531                                                                                         
-1|06|CSONGR¡D  |06|F‹GGETLEN KISGAZDAP¡RT        |00024543                                                                                         
-1|06|CSONGR¡D  |07|MUNK¡SP¡RT                    |00007492                                                                                         
-1|06|CSONGR¡D  |08|MAGYAR IGAZS¡G …S …LET P¡RTJA |00004359                                                                                         
-1|06|CSONGR¡D  |09|MAGYAR SZOCIALISTA P¡RT       |00057980                                                                                         
-1|06|CSONGR¡D  |10|FIDESZ                        |00014922                                                                                         
-1|06|CSONGR¡D  |11|K÷ZT¡RSAS¡G P¡RT              |00005698                                                                                         
-1|06|CSONGR¡D  |12|MDF                           |00022956                                                                                         
-1|06|CSONGR¡D  |13|EGYES‹LT KISGAZDA P¡RT        |00003413                                                                                         
-1|06|CSONGR¡D  |14|MSZDP                         |00004424                                                                                         
-1|07|FEJ…R     |01|MAGYAR IGAZS¡G …S …LET P¡RTJA |00003404                                                                                         
-1|07|FEJ…R     |02|AGR¡RSZ÷VETS…G                |00004339                                                                                         
-1|07|FEJ…R     |03|MUNK¡SP¡RT                    |00005634                                                                                         
-1|07|FEJ…R     |04|MDF                           |00021110                                                                                         
-1|07|FEJ…R     |05|MAGYAR SZOCIALISTA P¡RT       |00071481                                                                                         
-1|07|FEJ…R     |06|MSZDP                         |00002569                                                                                         
-1|07|FEJ…R     |07|K÷ZT¡RSAS¡G P¡RT              |00006178                                                                                         
-1|07|FEJ…R     |08|F‹GGETLEN KISGAZDAP¡RT        |00022318                                                                                         
-1|07|FEJ…R     |09|FIDESZ                        |00021447                                                                                         
-1|07|FEJ…R     |10|LPSZ V¡LLALKOZ”K P¡RTJA       |00001259                                                                                         
-1|07|FEJ…R     |11|PIACP¡RT                      |00000635                                                                                         
-1|07|FEJ…R     |12|KERESZT…NYDEMOKRATA N…PP¡RT   |00012049                                                                                         
-1|07|FEJ…R     |13|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00041814                                                                                         
-1|08|GY’R      |01|MDF                           |00030183                                                                                         
-1|08|GY’R      |02|F‹GGETLEN KISGAZDAP¡RT        |00025919                                                                                         
-1|08|GY’R      |03|NEMZETI DEMOKRAT¡K            |00003223                                                                                         
-1|08|GY’R      |04|AGR¡RSZ÷VETS…G                |00003846                                                                                         
-1|08|GY’R      |05|K÷ZT¡RSAS¡G P¡RT              |00006386                                                                                         
-1|08|GY’R      |06|LPSZ V¡LLALKOZ”K P¡RTJA       |00001612                                                                                         
-1|08|GY’R      |07|MSZDP                         |00003235                                                                                         
-1|08|GY’R      |08|EGYES‹LT KISGAZDA P¡RT        |00002511                                                                                         
-1|08|GY’R      |09|KERESZT…NYDEMOKRATA N…PP¡RT   |00019489                                                                                         
-1|08|GY’R      |10|MAGYAR SZOCIALISTA P¡RT       |00063706                                                                                         
-1|08|GY’R      |11|MUNK¡SP¡RT                    |00004592                                                                                         
-1|08|GY’R      |12|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00052880                                                                                         
-1|08|GY’R      |13|FIDESZ                        |00019318                                                                                         
-1|08|GY’R      |14|MAGYARORSZ¡GI Z÷LD P¡RT       |00001211                                                                                         
-1|09|HAJD⁄     |01|KIEGYEZ…S KISGAZDAP¡RT        |00003303                                                                                         
-1|09|HAJD⁄     |02|LPSZ V¡LLALKOZ”K P¡RTJA       |00001662                                                                                         
-1|09|HAJD⁄     |03|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00045723                                                                                         
-1|09|HAJD⁄     |04|AGR¡RSZ÷VETS…G                |00006370                                                                                         
-1|09|HAJD⁄     |05|MSZDP                         |00004256                                                                                         
-1|09|HAJD⁄     |06|F‹GGETLEN KISGAZDAP¡RT        |00025902                                                                                         
-1|09|HAJD⁄     |07|NEMZETI DEMOKRAT¡K            |00003959                                                                                         
-1|09|HAJD⁄     |08|K÷ZT¡RSAS¡G P¡RT              |00004166                                                                                         
-1|09|HAJD⁄     |09|FIDESZ                        |00021018                                                                                         
-1|09|HAJD⁄     |10|MAGYAR IGAZS¡G …S …LET P¡RTJA |00005981                                                                                         
-1|09|HAJD⁄     |11|KERESZT…NYDEMOKRATA N…PP¡RT   |00012474                                                                                         
-1|09|HAJD⁄     |12|MAGYAR SZOCIALISTA P¡RT       |00092698                                                                                         
-1|09|HAJD⁄     |13|MDF                           |00027422                                                                                         
-1|09|HAJD⁄     |14|MUNK¡SP¡RT                    |00006431                                                                                         
-1|10|HEVES     |01|NEMZETI DEMOKRAT¡K            |00002081                                                                                         
-1|10|HEVES     |02|MAGYAR SZOCIALISTA P¡RT       |00062708                                                                                         
-1|10|HEVES     |03|KERESZT…NYDEMOKRATA N…PP¡RT   |00015882                                                                                         
+1|06|CSONGR√ÅD  |01|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00015535                                                                                         
+1|06|CSONGR√ÅD  |02|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00003026                                                                                         
+1|06|CSONGR√ÅD  |03|KONZERVAT√çV P√ÅRT              |00000677                                                                                         
+1|06|CSONGR√ÅD  |04|AGR√ÅRSZ√ñVETS√âG                |00006181                                                                                         
+1|06|CSONGR√ÅD  |05|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00044531                                                                                         
+1|06|CSONGR√ÅD  |06|F√úGGETLEN KISGAZDAP√ÅRT        |00024543                                                                                         
+1|06|CSONGR√ÅD  |07|MUNK√ÅSP√ÅRT                    |00007492                                                                                         
+1|06|CSONGR√ÅD  |08|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00004359                                                                                         
+1|06|CSONGR√ÅD  |09|MAGYAR SZOCIALISTA P√ÅRT       |00057980                                                                                         
+1|06|CSONGR√ÅD  |10|FIDESZ                        |00014922                                                                                         
+1|06|CSONGR√ÅD  |11|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00005698                                                                                         
+1|06|CSONGR√ÅD  |12|MDF                           |00022956                                                                                         
+1|06|CSONGR√ÅD  |13|EGYES√úLT KISGAZDA P√ÅRT        |00003413                                                                                         
+1|06|CSONGR√ÅD  |14|MSZDP                         |00004424                                                                                         
+1|07|FEJ√âR     |01|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00003404                                                                                         
+1|07|FEJ√âR     |02|AGR√ÅRSZ√ñVETS√âG                |00004339                                                                                         
+1|07|FEJ√âR     |03|MUNK√ÅSP√ÅRT                    |00005634                                                                                         
+1|07|FEJ√âR     |04|MDF                           |00021110                                                                                         
+1|07|FEJ√âR     |05|MAGYAR SZOCIALISTA P√ÅRT       |00071481                                                                                         
+1|07|FEJ√âR     |06|MSZDP                         |00002569                                                                                         
+1|07|FEJ√âR     |07|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00006178                                                                                         
+1|07|FEJ√âR     |08|F√úGGETLEN KISGAZDAP√ÅRT        |00022318                                                                                         
+1|07|FEJ√âR     |09|FIDESZ                        |00021447                                                                                         
+1|07|FEJ√âR     |10|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00001259                                                                                         
+1|07|FEJ√âR     |11|PIACP√ÅRT                      |00000635                                                                                         
+1|07|FEJ√âR     |12|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00012049                                                                                         
+1|07|FEJ√âR     |13|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00041814                                                                                         
+1|08|GY≈êR      |01|MDF                           |00030183                                                                                         
+1|08|GY≈êR      |02|F√úGGETLEN KISGAZDAP√ÅRT        |00025919                                                                                         
+1|08|GY≈êR      |03|NEMZETI DEMOKRAT√ÅK            |00003223                                                                                         
+1|08|GY≈êR      |04|AGR√ÅRSZ√ñVETS√âG                |00003846                                                                                         
+1|08|GY≈êR      |05|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00006386                                                                                         
+1|08|GY≈êR      |06|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00001612                                                                                         
+1|08|GY≈êR      |07|MSZDP                         |00003235                                                                                         
+1|08|GY≈êR      |08|EGYES√úLT KISGAZDA P√ÅRT        |00002511                                                                                         
+1|08|GY≈êR      |09|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00019489                                                                                         
+1|08|GY≈êR      |10|MAGYAR SZOCIALISTA P√ÅRT       |00063706                                                                                         
+1|08|GY≈êR      |11|MUNK√ÅSP√ÅRT                    |00004592                                                                                         
+1|08|GY≈êR      |12|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00052880                                                                                         
+1|08|GY≈êR      |13|FIDESZ                        |00019318                                                                                         
+1|08|GY≈êR      |14|MAGYARORSZ√ÅGI Z√ñLD P√ÅRT       |00001211                                                                                         
+1|09|HAJD√ö     |01|KIEGYEZ√âS KISGAZDAP√ÅRT        |00003303                                                                                         
+1|09|HAJD√ö     |02|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00001662                                                                                         
+1|09|HAJD√ö     |03|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00045723                                                                                         
+1|09|HAJD√ö     |04|AGR√ÅRSZ√ñVETS√âG                |00006370                                                                                         
+1|09|HAJD√ö     |05|MSZDP                         |00004256                                                                                         
+1|09|HAJD√ö     |06|F√úGGETLEN KISGAZDAP√ÅRT        |00025902                                                                                         
+1|09|HAJD√ö     |07|NEMZETI DEMOKRAT√ÅK            |00003959                                                                                         
+1|09|HAJD√ö     |08|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00004166                                                                                         
+1|09|HAJD√ö     |09|FIDESZ                        |00021018                                                                                         
+1|09|HAJD√ö     |10|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00005981                                                                                         
+1|09|HAJD√ö     |11|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00012474                                                                                         
+1|09|HAJD√ö     |12|MAGYAR SZOCIALISTA P√ÅRT       |00092698                                                                                         
+1|09|HAJD√ö     |13|MDF                           |00027422                                                                                         
+1|09|HAJD√ö     |14|MUNK√ÅSP√ÅRT                    |00006431                                                                                         
+1|10|HEVES     |01|NEMZETI DEMOKRAT√ÅK            |00002081                                                                                         
+1|10|HEVES     |02|MAGYAR SZOCIALISTA P√ÅRT       |00062708                                                                                         
+1|10|HEVES     |03|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00015882                                                                                         
 1|10|HEVES     |04|MSZDP                         |00002723                                                                                         
-1|10|HEVES     |05|K÷ZT¡RSAS¡G P¡RT              |00002451                                                                                         
+1|10|HEVES     |05|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00002451                                                                                         
 1|10|HEVES     |06|MDF                           |00017533                                                                                         
-1|10|HEVES     |07|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00037755                                                                                         
-1|10|HEVES     |08|MUNK¡SP¡RT                    |00008527                                                                                         
-1|10|HEVES     |09|MAGYARORSZ¡GI Z÷LD P¡RT       |00001119                                                                                         
-1|10|HEVES     |10|F‹GGETLEN KISGAZDAP¡RT        |00013505                                                                                         
+1|10|HEVES     |07|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00037755                                                                                         
+1|10|HEVES     |08|MUNK√ÅSP√ÅRT                    |00008527                                                                                         
+1|10|HEVES     |09|MAGYARORSZ√ÅGI Z√ñLD P√ÅRT       |00001119                                                                                         
+1|10|HEVES     |10|F√úGGETLEN KISGAZDAP√ÅRT        |00013505                                                                                         
 1|10|HEVES     |11|FIDESZ                        |00010202                                                                                         
-1|10|HEVES     |12|EGYES‹LT KISGAZDA P¡RT        |00000988                                                                                         
-1|10|HEVES     |13|AGR¡RSZ÷VETS…G                |00003128                                                                                         
-1|10|HEVES     |14|MAGYAR IGAZS¡G …S …LET P¡RTJA |00002604                                                                                         
+1|10|HEVES     |12|EGYES√úLT KISGAZDA P√ÅRT        |00000988                                                                                         
+1|10|HEVES     |13|AGR√ÅRSZ√ñVETS√âG                |00003128                                                                                         
+1|10|HEVES     |14|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00002604                                                                                         
 1|11|SZOLNOK   |01|MSZDP                         |00003443                                                                                         
-1|11|SZOLNOK   |02|F‹GGETLEN KISGAZDAP¡RT        |00022442                                                                                         
+1|11|SZOLNOK   |02|F√úGGETLEN KISGAZDAP√ÅRT        |00022442                                                                                         
 1|11|SZOLNOK   |03|FIDESZ                        |00016181                                                                                         
-1|11|SZOLNOK   |04|KERESZT…NYDEMOKRATA N…PP¡RT   |00011188                                                                                         
-1|11|SZOLNOK   |05|K÷ZT¡RSAS¡G P¡RT              |00003554                                                                                         
-1|11|SZOLNOK   |06|LPSZ V¡LLALKOZ”K P¡RTJA       |00003136                                                                                         
-1|11|SZOLNOK   |07|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00042352                                                                                         
-1|11|SZOLNOK   |08|MUNK¡SP¡RT                    |00010354                                                                                         
+1|11|SZOLNOK   |04|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00011188                                                                                         
+1|11|SZOLNOK   |05|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00003554                                                                                         
+1|11|SZOLNOK   |06|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00003136                                                                                         
+1|11|SZOLNOK   |07|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00042352                                                                                         
+1|11|SZOLNOK   |08|MUNK√ÅSP√ÅRT                    |00010354                                                                                         
 1|11|SZOLNOK   |09|MDF                           |00020896                                                                                         
-1|11|SZOLNOK   |10|EGYES‹LT KISGAZDA P¡RT        |00002772                                                                                         
-1|11|SZOLNOK   |11|MAGYAR SZOCIALISTA P¡RT       |00076392                                                                                         
-1|11|SZOLNOK   |12|NEMZETI DEMOKRAT¡K            |00001312                                                                                         
-1|11|SZOLNOK   |13|AGR¡RSZ÷VETS…G                |00004423                                                                                         
-1|12|KOM¡ROM   |01|MSZDP                         |00002445                                                                                         
-1|12|KOM¡ROM   |02|AGR¡RSZ÷VETS…G                |00002820                                                                                         
-1|12|KOM¡ROM   |03|FIDESZ                        |00010612                                                                                         
-1|12|KOM¡ROM   |04|MUNK¡SP¡RT                    |00005655                                                                                         
-1|12|KOM¡ROM   |05|EGYES‹LT KISGAZDA P¡RT        |00001641                                                                                         
-1|12|KOM¡ROM   |06|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00038184                                                                                         
-1|12|KOM¡ROM   |07|NEMZETI DEMOKRAT¡K            |00001785                                                                                         
-1|12|KOM¡ROM   |08|MDF                           |00014406                                                                                         
-1|12|KOM¡ROM   |09|F‹GGETLEN KISGAZDAP¡RT        |00013961                                                                                         
-1|12|KOM¡ROM   |10|KERESZT…NYDEMOKRATA N…PP¡RT   |00010706                                                                                         
-1|12|KOM¡ROM   |11|MAGYAR SZOCIALISTA P¡RT       |00064598                                                                                         
-1|13|N”GR¡D    |01|F‹GGETLEN KISGAZDAP¡RT        |00007580                                                                                         
-1|13|N”GR¡D    |02|EGYES‹LT KISGAZDA P¡RT        |00000864                                                                                         
-1|13|N”GR¡D    |03|MUNK¡SP¡RT                    |00012907                                                                                         
-1|13|N”GR¡D    |04|Z÷LD ALTERNATÕVA              |00000849                                                                                         
-1|13|N”GR¡D    |05|LPSZ V¡LLALKOZ”K P¡RTJA       |00001202                                                                                         
-1|13|N”GR¡D    |06|AGR¡RSZ÷VETS…G                |00002057                                                                                         
-1|13|N”GR¡D    |07|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00020216                                                                                         
-1|13|N”GR¡D    |08|MAGYAR SZOCIALISTA P¡RT       |00042359                                                                                         
-1|13|N”GR¡D    |09|MDF                           |00012744                                                                                         
-1|13|N”GR¡D    |10|FIDESZ                        |00007908                                                                                         
-1|13|N”GR¡D    |11|KERESZT…NYDEMOKRATA N…PP¡RT   |00013058                                                                                         
-1|14|PEST      |01|F‹GGETLEN KISGAZDAP¡RT        |00047128                                                                                         
-1|14|PEST      |02|MAGYAR IGAZS¡G …S …LET P¡RTJA |00012207                                                                                         
-1|14|PEST      |03|K÷ZT¡RSAS¡G P¡RT              |00015647                                                                                         
-1|14|PEST      |04|LPSZ V¡LLALKOZ”K P¡RTJA       |00003933                                                                                         
-1|14|PEST      |05|MUNK¡SP¡RT                    |00010716                                                                                         
-1|14|PEST      |06|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00101365                                                                                         
+1|11|SZOLNOK   |10|EGYES√úLT KISGAZDA P√ÅRT        |00002772                                                                                         
+1|11|SZOLNOK   |11|MAGYAR SZOCIALISTA P√ÅRT       |00076392                                                                                         
+1|11|SZOLNOK   |12|NEMZETI DEMOKRAT√ÅK            |00001312                                                                                         
+1|11|SZOLNOK   |13|AGR√ÅRSZ√ñVETS√âG                |00004423                                                                                         
+1|12|KOM√ÅROM   |01|MSZDP                         |00002445                                                                                         
+1|12|KOM√ÅROM   |02|AGR√ÅRSZ√ñVETS√âG                |00002820                                                                                         
+1|12|KOM√ÅROM   |03|FIDESZ                        |00010612                                                                                         
+1|12|KOM√ÅROM   |04|MUNK√ÅSP√ÅRT                    |00005655                                                                                         
+1|12|KOM√ÅROM   |05|EGYES√úLT KISGAZDA P√ÅRT        |00001641                                                                                         
+1|12|KOM√ÅROM   |06|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00038184                                                                                         
+1|12|KOM√ÅROM   |07|NEMZETI DEMOKRAT√ÅK            |00001785                                                                                         
+1|12|KOM√ÅROM   |08|MDF                           |00014406                                                                                         
+1|12|KOM√ÅROM   |09|F√úGGETLEN KISGAZDAP√ÅRT        |00013961                                                                                         
+1|12|KOM√ÅROM   |10|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00010706                                                                                         
+1|12|KOM√ÅROM   |11|MAGYAR SZOCIALISTA P√ÅRT       |00064598                                                                                         
+1|13|N√ìGR√ÅD    |01|F√úGGETLEN KISGAZDAP√ÅRT        |00007580                                                                                         
+1|13|N√ìGR√ÅD    |02|EGYES√úLT KISGAZDA P√ÅRT        |00000864                                                                                         
+1|13|N√ìGR√ÅD    |03|MUNK√ÅSP√ÅRT                    |00012907                                                                                         
+1|13|N√ìGR√ÅD    |04|Z√ñLD ALTERNAT√çVA              |00000849                                                                                         
+1|13|N√ìGR√ÅD    |05|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00001202                                                                                         
+1|13|N√ìGR√ÅD    |06|AGR√ÅRSZ√ñVETS√âG                |00002057                                                                                         
+1|13|N√ìGR√ÅD    |07|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00020216                                                                                         
+1|13|N√ìGR√ÅD    |08|MAGYAR SZOCIALISTA P√ÅRT       |00042359                                                                                         
+1|13|N√ìGR√ÅD    |09|MDF                           |00012744                                                                                         
+1|13|N√ìGR√ÅD    |10|FIDESZ                        |00007908                                                                                         
+1|13|N√ìGR√ÅD    |11|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00013058                                                                                         
+1|14|PEST      |01|F√úGGETLEN KISGAZDAP√ÅRT        |00047128                                                                                         
+1|14|PEST      |02|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00012207                                                                                         
+1|14|PEST      |03|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00015647                                                                                         
+1|14|PEST      |04|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00003933                                                                                         
+1|14|PEST      |05|MUNK√ÅSP√ÅRT                    |00010716                                                                                         
+1|14|PEST      |06|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00101365                                                                                         
 1|14|PEST      |07|MSZDP                         |00007748                                                                                         
 1|14|PEST      |08|MDF                           |00058808                                                                                         
-1|14|PEST      |09|EGYES‹LT KISGAZDA P¡RT        |00005793                                                                                         
-1|14|PEST      |10|AGR¡RSZ÷VETS…G                |00008115                                                                                         
-1|14|PEST      |11|MAGYAR SZOCIALISTA P¡RT       |00146413                                                                                         
-1|14|PEST      |12|KERESZT…NYDEMOKRATA N…PP¡RT   |00037717                                                                                         
+1|14|PEST      |09|EGYES√úLT KISGAZDA P√ÅRT        |00005793                                                                                         
+1|14|PEST      |10|AGR√ÅRSZ√ñVETS√âG                |00008115                                                                                         
+1|14|PEST      |11|MAGYAR SZOCIALISTA P√ÅRT       |00146413                                                                                         
+1|14|PEST      |12|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00037717                                                                                         
 1|14|PEST      |13|FIDESZ                        |00034367                                                                                         
-1|15|SOMOGY    |01|F‹GGETLEN KISGAZDAP¡RT        |00022024                                                                                         
-1|15|SOMOGY    |02|NEMZETI DEMOKRAT¡K            |00001476                                                                                         
-1|15|SOMOGY    |03|KERESZT…NYDEMOKRATA N…PP¡RT   |00011559                                                                                         
-1|15|SOMOGY    |04|K÷ZT¡RSAS¡G P¡RT              |00002230                                                                                         
-1|15|SOMOGY    |05|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00027453                                                                                         
-1|15|SOMOGY    |06|MAGYAR IGAZS¡G …S …LET P¡RTJA |00002705                                                                                         
-1|15|SOMOGY    |07|AGR¡RSZ÷VETS…G                |00003992                                                                                         
-1|15|SOMOGY    |08|MAGYAR SZOCIALISTA P¡RT       |00072273                                                                                         
-1|15|SOMOGY    |09|LPSZ V¡LLALKOZ”K P¡RTJA       |00001483                                                                                         
+1|15|SOMOGY    |01|F√úGGETLEN KISGAZDAP√ÅRT        |00022024                                                                                         
+1|15|SOMOGY    |02|NEMZETI DEMOKRAT√ÅK            |00001476                                                                                         
+1|15|SOMOGY    |03|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00011559                                                                                         
+1|15|SOMOGY    |04|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00002230                                                                                         
+1|15|SOMOGY    |05|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00027453                                                                                         
+1|15|SOMOGY    |06|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00002705                                                                                         
+1|15|SOMOGY    |07|AGR√ÅRSZ√ñVETS√âG                |00003992                                                                                         
+1|15|SOMOGY    |08|MAGYAR SZOCIALISTA P√ÅRT       |00072273                                                                                         
+1|15|SOMOGY    |09|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00001483                                                                                         
 1|15|SOMOGY    |10|MDF                           |00016081                                                                                         
 1|15|SOMOGY    |11|FIDESZ                        |00013203                                                                                         
-1|15|SOMOGY    |12|MUNK¡SP¡RT                    |00003317                                                                                         
-1|15|SOMOGY    |13|KONZERVATÕV P¡RT              |00000235                                                                                         
+1|15|SOMOGY    |12|MUNK√ÅSP√ÅRT                    |00003317                                                                                         
+1|15|SOMOGY    |13|KONZERVAT√çV P√ÅRT              |00000235                                                                                         
 1|16|SZABOLCS  |01|MSZDP                         |00004224                                                                                         
-1|16|SZABOLCS  |02|MAGYARORSZ¡GI Z÷LD P¡RT       |00001560                                                                                         
-1|16|SZABOLCS  |03|KIEGYEZ…S KISGAZDAP¡RT        |00002615                                                                                         
-1|16|SZABOLCS  |04|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00042165                                                                                         
-1|16|SZABOLCS  |05|F‹GGETLEN KISGAZDAP¡RT        |00022823                                                                                         
+1|16|SZABOLCS  |02|MAGYARORSZ√ÅGI Z√ñLD P√ÅRT       |00001560                                                                                         
+1|16|SZABOLCS  |03|KIEGYEZ√âS KISGAZDAP√ÅRT        |00002615                                                                                         
+1|16|SZABOLCS  |04|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00042165                                                                                         
+1|16|SZABOLCS  |05|F√úGGETLEN KISGAZDAP√ÅRT        |00022823                                                                                         
 1|16|SZABOLCS  |06|FIDESZ                        |00019761                                                                                         
-1|16|SZABOLCS  |07|MUNK¡SP¡RT                    |00009199                                                                                         
-1|16|SZABOLCS  |08|LPSZ V¡LLALKOZ”K P¡RTJA       |00003091                                                                                         
-1|16|SZABOLCS  |09|K÷ZT¡RSAS¡G P¡RT              |00004102                                                                                         
-1|16|SZABOLCS  |10|MAGYAR SZOCIALISTA P¡RT       |00084708                                                                                         
-1|16|SZABOLCS  |11|MAGYAR IGAZS¡G …S …LET P¡RTJA |00004463                                                                                         
-1|16|SZABOLCS  |12|NEMZETI DEMOKRAT¡K            |00002072                                                                                         
-1|16|SZABOLCS  |13|AGR¡RSZ÷VETS…G                |00005003                                                                                         
-1|16|SZABOLCS  |14|KERESZT…NYDEMOKRATA N…PP¡RT   |00020342                                                                                         
+1|16|SZABOLCS  |07|MUNK√ÅSP√ÅRT                    |00009199                                                                                         
+1|16|SZABOLCS  |08|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00003091                                                                                         
+1|16|SZABOLCS  |09|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00004102                                                                                         
+1|16|SZABOLCS  |10|MAGYAR SZOCIALISTA P√ÅRT       |00084708                                                                                         
+1|16|SZABOLCS  |11|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00004463                                                                                         
+1|16|SZABOLCS  |12|NEMZETI DEMOKRAT√ÅK            |00002072                                                                                         
+1|16|SZABOLCS  |13|AGR√ÅRSZ√ñVETS√âG                |00005003                                                                                         
+1|16|SZABOLCS  |14|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00020342                                                                                         
 1|16|SZABOLCS  |15|MDF                           |00031146                                                                                         
-1|16|SZABOLCS  |16|EGYES‹LT KISGAZDA P¡RT        |00002243                                                                                         
-1|17|TOLNA     |01|KERESZT…NYDEMOKRATA N…PP¡RT   |00011491                                                                                         
+1|16|SZABOLCS  |16|EGYES√úLT KISGAZDA P√ÅRT        |00002243                                                                                         
+1|17|TOLNA     |01|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00011491                                                                                         
 1|17|TOLNA     |02|MSZDP                         |00001728                                                                                         
-1|17|TOLNA     |03|K÷ZT¡RSAS¡G P¡RT              |00002643                                                                                         
-1|17|TOLNA     |04|F‹GGETLEN KISGAZDAP¡RT        |00010668                                                                                         
-1|17|TOLNA     |05|NEMZETI DEMOKRAT¡K            |00001397                                                                                         
+1|17|TOLNA     |03|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00002643                                                                                         
+1|17|TOLNA     |04|F√úGGETLEN KISGAZDAP√ÅRT        |00010668                                                                                         
+1|17|TOLNA     |05|NEMZETI DEMOKRAT√ÅK            |00001397                                                                                         
 1|17|TOLNA     |06|FIDESZ                        |00010248                                                                                         
-1|17|TOLNA     |07|MAGYAR SZOCIALISTA P¡RT       |00040416                                                                                         
-1|17|TOLNA     |08|MAGYAR IGAZS¡G …S …LET P¡RTJA |00002698                                                                                         
-1|17|TOLNA     |09|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00023380                                                                                         
-1|17|TOLNA     |10|EGYES‹LT KISGAZDA P¡RT        |00002167                                                                                         
-1|17|TOLNA     |11|AGR¡RSZ÷VETS…G                |00005401                                                                                         
-1|17|TOLNA     |12|MUNK¡SP¡RT                    |00003344                                                                                         
+1|17|TOLNA     |07|MAGYAR SZOCIALISTA P√ÅRT       |00040416                                                                                         
+1|17|TOLNA     |08|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA |00002698                                                                                         
+1|17|TOLNA     |09|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00023380                                                                                         
+1|17|TOLNA     |10|EGYES√úLT KISGAZDA P√ÅRT        |00002167                                                                                         
+1|17|TOLNA     |11|AGR√ÅRSZ√ñVETS√âG                |00005401                                                                                         
+1|17|TOLNA     |12|MUNK√ÅSP√ÅRT                    |00003344                                                                                         
 1|17|TOLNA     |13|MDF                           |00013770                                                                                         
-1|18|VAS       |01|AGR¡RSZ÷VETS…G                |00004029                                                                                         
-1|18|VAS       |02|K÷ZT¡RSAS¡G P¡RT              |00002235                                                                                         
+1|18|VAS       |01|AGR√ÅRSZ√ñVETS√âG                |00004029                                                                                         
+1|18|VAS       |02|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00002235                                                                                         
 1|18|VAS       |03|MDF                           |00019059                                                                                         
 1|18|VAS       |04|FIDESZ                        |00010812                                                                                         
-1|18|VAS       |05|MAGYAR SZOCIALISTA P¡RT       |00039976                                                                                         
-1|18|VAS       |06|LPSZ V¡LLALKOZ”K P¡RTJA       |00001155                                                                                         
-1|18|VAS       |07|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00039677                                                                                         
-1|18|VAS       |08|MUNK¡SP¡RT                    |00003330                                                                                         
-1|18|VAS       |09|MAGYARORSZ¡GI Z÷LD P¡RT       |00000687                                                                                         
-1|18|VAS       |10|F‹GGETLEN KISGAZDAP¡RT        |00017516                                                                                         
-1|18|VAS       |11|KERESZT…NYDEMOKRATA N…PP¡RT   |00016309                                                                                         
-1|19|VESZPR…M  |01|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00046217                                                                                         
-1|19|VESZPR…M  |02|KERESZT…NYDEMOKRATA N…PP¡RT   |00016040                                                                                         
-1|19|VESZPR…M  |03|F‹GGETLEN KISGAZDAP¡RT        |00021635                                                                                         
-1|19|VESZPR…M  |04|AGR¡RSZ÷VETS…G                |00004022                                                                                         
-1|19|VESZPR…M  |05|EGYES‹LT KISGAZDA P¡RT        |00002451                                                                                         
-1|19|VESZPR…M  |06|NEMZETI DEMOKRAT¡K            |00002610                                                                                         
-1|19|VESZPR…M  |07|LPSZ V¡LLALKOZ”K P¡RTJA       |00002288                                                                                         
-1|19|VESZPR…M  |08|MUNK¡SP¡RT                    |00004341                                                                                         
-1|19|VESZPR…M  |09|K÷ZT¡RSAS¡G P¡RT              |00002602                                                                                         
-1|19|VESZPR…M  |10|MSZDP                         |00002487                                                                                         
-1|19|VESZPR…M  |11|MDF                           |00025348                                                                                         
-1|19|VESZPR…M  |12|MAGYAR SZOCIALISTA P¡RT       |00060092                                                                                         
-1|19|VESZPR…M  |13|FIDESZ                        |00016649                                                                                         
-1|19|VESZPR…M  |14|KONZERVATÕV P¡RT              |00000420                                                                                         
+1|18|VAS       |05|MAGYAR SZOCIALISTA P√ÅRT       |00039976                                                                                         
+1|18|VAS       |06|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00001155                                                                                         
+1|18|VAS       |07|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00039677                                                                                         
+1|18|VAS       |08|MUNK√ÅSP√ÅRT                    |00003330                                                                                         
+1|18|VAS       |09|MAGYARORSZ√ÅGI Z√ñLD P√ÅRT       |00000687                                                                                         
+1|18|VAS       |10|F√úGGETLEN KISGAZDAP√ÅRT        |00017516                                                                                         
+1|18|VAS       |11|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00016309                                                                                         
+1|19|VESZPR√âM  |01|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00046217                                                                                         
+1|19|VESZPR√âM  |02|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00016040                                                                                         
+1|19|VESZPR√âM  |03|F√úGGETLEN KISGAZDAP√ÅRT        |00021635                                                                                         
+1|19|VESZPR√âM  |04|AGR√ÅRSZ√ñVETS√âG                |00004022                                                                                         
+1|19|VESZPR√âM  |05|EGYES√úLT KISGAZDA P√ÅRT        |00002451                                                                                         
+1|19|VESZPR√âM  |06|NEMZETI DEMOKRAT√ÅK            |00002610                                                                                         
+1|19|VESZPR√âM  |07|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00002288                                                                                         
+1|19|VESZPR√âM  |08|MUNK√ÅSP√ÅRT                    |00004341                                                                                         
+1|19|VESZPR√âM  |09|K√ñZT√ÅRSAS√ÅG P√ÅRT              |00002602                                                                                         
+1|19|VESZPR√âM  |10|MSZDP                         |00002487                                                                                         
+1|19|VESZPR√âM  |11|MDF                           |00025348                                                                                         
+1|19|VESZPR√âM  |12|MAGYAR SZOCIALISTA P√ÅRT       |00060092                                                                                         
+1|19|VESZPR√âM  |13|FIDESZ                        |00016649                                                                                         
+1|19|VESZPR√âM  |14|KONZERVAT√çV P√ÅRT              |00000420                                                                                         
 1|20|ZALA      |01|FIDESZ                        |00012452                                                                                         
-1|20|ZALA      |02|AGR¡RSZ÷VETS…G                |00003354                                                                                         
-1|20|ZALA      |03|KERESZT…NYDEMOKRATA N…PP¡RT   |00015943                                                                                         
+1|20|ZALA      |02|AGR√ÅRSZ√ñVETS√âG                |00003354                                                                                         
+1|20|ZALA      |03|KERESZT√âNYDEMOKRATA N√âPP√ÅRT   |00015943                                                                                         
 1|20|ZALA      |04|MSZDP                         |00002412                                                                                         
-1|20|ZALA      |05|LPSZ V¡LLALKOZ”K P¡RTJA       |00002495                                                                                         
-1|20|ZALA      |06|F‹GGETLEN KISGAZDAP¡RT        |00022622                                                                                         
+1|20|ZALA      |05|LPSZ V√ÅLLALKOZ√ìK P√ÅRTJA       |00002495                                                                                         
+1|20|ZALA      |06|F√úGGETLEN KISGAZDAP√ÅRT        |00022622                                                                                         
 1|20|ZALA      |07|MDF                           |00020075                                                                                         
-1|20|ZALA      |08|MAGYAR SZOCIALISTA P¡RT       |00047751                                                                                         
-1|20|ZALA      |09|MUNK¡SP¡RT                    |00003468                                                                                         
-1|20|ZALA      |10|SZABAD DEMOKRAT¡K SZ÷VETS…GE  |00030676                                                                                         
-1|20|ZALA      |11|EGYES‹LT KISGAZDA P¡RT        |00001330                                                                                         
+1|20|ZALA      |08|MAGYAR SZOCIALISTA P√ÅRT       |00047751                                                                                         
+1|20|ZALA      |09|MUNK√ÅSP√ÅRT                    |00003468                                                                                         
+1|20|ZALA      |10|SZABAD DEMOKRAT√ÅK SZ√ñVETS√âGE  |00030676                                                                                         
+1|20|ZALA      |11|EGYES√úLT KISGAZDA P√ÅRT        |00001330                                                                                         

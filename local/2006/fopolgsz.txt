@@ -1,6 +1,6 @@
-  1| 1|    10|SZDSZ- A MAGYAR LIBER¡LIS P¡RT                                                            |
-  1| 2|     7|MAGYAR SZOCIALISTA P¡RT                                                                   |
-  2| 1|    14|MAGYAR DEMOKRATA F”RUM                                                                    |
-  3| 1|    50|MAGYAR KOMMUNISTA MUNK¡SP¡RT                                                              |
-  4| 0|     0|F¸ggetlen                                                                                 |
-  5| 1|   139|MAGYAR IGAZS¡G …S …LET P¡RTJA                                                             |
+  1| 1|    10|SZDSZ- A MAGYAR LIBER√ÅLIS P√ÅRT                                                            |
+  1| 2|     7|MAGYAR SZOCIALISTA P√ÅRT                                                                   |
+  2| 1|    14|MAGYAR DEMOKRATA F√ìRUM                                                                    |
+  3| 1|    50|MAGYAR KOMMUNISTA MUNK√ÅSP√ÅRT                                                              |
+  4| 0|     0|F√ºggetlen                                                                                 |
+  5| 1|   139|MAGYAR IGAZS√ÅG √âS √âLET P√ÅRTJA                                                             |

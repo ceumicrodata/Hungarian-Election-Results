@@ -1,1541 +1,1541 @@
-01|001|4|  3|  5|    |MOLN¡R J”ZSEF                           |
-01|001|4|  3|  8|    |HORTOB¡GYI SZABOLCS                     |
-01|001|4|  3|  9|DR. |PUY J”ZSEF                              |
-01|001|4|  4|  1|    |ZORD K¡ROLY                             |
-01|001|4|  4|  2|    |MOLN¡R GY÷RGY                           |
-01|001|4|  5|  1|    |D¡VID KL¡RA                             |
-01|001|4|  5|  2|    |GECSE G¡BOR                             |
-01|001|4|  5|  6|    |LOV¡SZ L¡SZL”                           |
-01|001|4|  5|  5|DR. |LOV¡SZ GABRIELLA                        |
-01|002|4|  1|  1|    |BALCZ” ZOLT¡N                           |
-01|002|4|  1|  2|    |KOM¡ROMI FERENC                         |
-01|002|4|  2|  2|    |P”TA GYULA                              |
-01|002|4|  2|  3|    |VARGA EL’D BENDEG⁄Z                     |
+01|001|4|  3|  5|    |MOLN√ÅR J√ìZSEF                           |
+01|001|4|  3|  8|    |HORTOB√ÅGYI SZABOLCS                     |
+01|001|4|  3|  9|DR. |PUY J√ìZSEF                              |
+01|001|4|  4|  1|    |ZORD K√ÅROLY                             |
+01|001|4|  4|  2|    |MOLN√ÅR GY√ñRGY                           |
+01|001|4|  5|  1|    |D√ÅVID KL√ÅRA                             |
+01|001|4|  5|  2|    |GECSE G√ÅBOR                             |
+01|001|4|  5|  6|    |LOV√ÅSZ L√ÅSZL√ì                           |
+01|001|4|  5|  5|DR. |LOV√ÅSZ GABRIELLA                        |
+01|002|4|  1|  1|    |BALCZ√ì ZOLT√ÅN                           |
+01|002|4|  1|  2|    |KOM√ÅROMI FERENC                         |
+01|002|4|  2|  2|    |P√ìTA GYULA                              |
+01|002|4|  2|  3|    |VARGA EL≈êD BENDEG√öZ                     |
 01|002|4|  2|  4|    |SZULYOVSZKY ORSOLYA                     |
-01|002|4|  2|  7|    |WITTR…DI J”ZSEF                         |
-01|002|4|  2|  6|    |KORODI ENIK’                            |
-01|002|4|  3|  1|    |BENCZE B. GY÷RGY                        |
+01|002|4|  2|  7|    |WITTR√âDI J√ìZSEF                         |
+01|002|4|  2|  6|    |KORODI ENIK≈ê                            |
+01|002|4|  3|  1|    |BENCZE B. GY√ñRGY                        |
 01|002|4|  3|  3|    |HUTIRAY GYULA                           |
-01|002|4|  3|  5|DR. |SZIEBERTH ISTV¡NN…                      |
-01|002|4|  3|  6|    |ERNYEY L¡SZL”                           |
-01|002|4|  3|  7|    |NEMES J”ZSEF                            |
-01|003|4|  1|  1|    |FEJES ISTV¡N                            |
+01|002|4|  3|  5|DR. |SZIEBERTH ISTV√ÅNN√â                      |
+01|002|4|  3|  6|    |ERNYEY L√ÅSZL√ì                           |
+01|002|4|  3|  7|    |NEMES J√ìZSEF                            |
+01|003|4|  1|  1|    |FEJES ISTV√ÅN                            |
 01|003|4|  1|  2|    |PAULI ANTAL                             |
-01|003|4|  3|  1|    |B⁄S BAL¡ZS                              |
-01|003|4|  3|  6|    |SOMOGYI K¡ROLY                          |
-01|003|4|  3|  8|    |BULLA GY÷RGY                            |
-01|003|4|  3|  9|    |KEM…NY KRISZTINA                        |
-01|003|4|  3|  7|    |T÷R÷K FERENC                            |
-01|003|4|  3|  5|    |SZEPESSY TAM¡S                          |
-01|003|4|  3|  2|    |MENCZER ERZS…BET                        |
-01|003|4|  3|  3|    |PUSK¡S P…TER                            |
+01|003|4|  3|  1|    |B√öS BAL√ÅZS                              |
+01|003|4|  3|  6|    |SOMOGYI K√ÅROLY                          |
+01|003|4|  3|  8|    |BULLA GY√ñRGY                            |
+01|003|4|  3|  9|    |KEM√âNY KRISZTINA                        |
+01|003|4|  3|  7|    |T√ñR√ñK FERENC                            |
+01|003|4|  3|  5|    |SZEPESSY TAM√ÅS                          |
+01|003|4|  3|  2|    |MENCZER ERZS√âBET                        |
+01|003|4|  3|  3|    |PUSK√ÅS P√âTER                            |
 01|003|4|  3|  4|    |NYIRI CSABA                             |
 01|003|4|  4|  1|    |SERES GABRIELLA                         |
-01|003|4|  6|  3|    |P¡LL ATTILA                             |
-01|003|4|  6|  6|    |HORV¡TH P¡L                             |
-01|004|4|  2|  1|    |BORUZS ANDR¡S                           |
-01|004|4|  2|  2|    |KOV¡CS S¡NDOR                           |
-01|004|4|  2|  3|    |KOCZ” J”ZSEF                            |
-01|004|4|  5|  8|    |LEBOVITS GY÷RGY                         |
-01|004|4|  5| 10|    |SZ‹CS SZIL¡RD                           |
-01|004|4|  6|  2|    |DAR”CZI LAJOS                           |
-01|004|4|  6|  5|    |HEGED‹S MIKL”S ANDR¡S                   |
-01|004|4|  6|  7|    |PELLE ANDR¡S                            |
-01|004|4|  6|  8|    |KATONA S¡NDOR                           |
-01|004|4|  6|  6|    |SIMONFI S¡NDOR                          |
-01|004|4|  6|  4|DR. |KAT” BAL¡ZS ¡RP¡D                       |
-01|004|4|  6|  3|    |PETTK” ANDR¡S                           |
+01|003|4|  6|  3|    |P√ÅLL ATTILA                             |
+01|003|4|  6|  6|    |HORV√ÅTH P√ÅL                             |
+01|004|4|  2|  1|    |BORUZS ANDR√ÅS                           |
+01|004|4|  2|  2|    |KOV√ÅCS S√ÅNDOR                           |
+01|004|4|  2|  3|    |KOCZ√ì J√ìZSEF                            |
+01|004|4|  5|  8|    |LEBOVITS GY√ñRGY                         |
+01|004|4|  5| 10|    |SZ√úCS SZIL√ÅRD                           |
+01|004|4|  6|  2|    |DAR√ìCZI LAJOS                           |
+01|004|4|  6|  5|    |HEGED√úS MIKL√ìS ANDR√ÅS                   |
+01|004|4|  6|  7|    |PELLE ANDR√ÅS                            |
+01|004|4|  6|  8|    |KATONA S√ÅNDOR                           |
+01|004|4|  6|  6|    |SIMONFI S√ÅNDOR                          |
+01|004|4|  6|  4|DR. |KAT√ì BAL√ÅZS √ÅRP√ÅD                       |
+01|004|4|  6|  3|    |PETTK√ì ANDR√ÅS                           |
 01|004|4|  8|  1|    |PAJOR TIBOR                             |
-01|004|5|  3|  4|    |CS”KA J¡NOS                             |
-01|005|4|  4|  2|DR. |KERT…SZ BAL¡ZS                          |
-01|005|4|  4|  4|    |PUSK¡S ANDR¡S                           |
-01|005|4|  4|  5|    |B…G¡NY ATTILA                           |
-01|005|4|  4|  7|    |PATAKI ZOLT¡N                           |
-01|005|4|  8|  3|    |MOLN¡R KATALIN                          |
-01|005|4|  8|  4|    |P¡SZTOR TIBOR                           |
-01|005|4|  8|  7|    |HORN MIKL”S                             |
-01|005|4|  8|  9|    |RIPP G…Z¡N…                             |
-01|005|4| 10|  1|    |T”TH LAJOS                              |
-01|005|5|  5|  4|    |SCHNEIDER MIH¡LY                        |
-01|006|4|  4|  1|    |BEREGSZ¡SZI-HEGYI L¡SZL”                |
-01|006|4|  5|  1|DR. |MARI¡N MIKL”S                           |
-01|006|4|  6|  1|    |HASSAY ZS”FIA                           |
+01|004|5|  3|  4|    |CS√ìKA J√ÅNOS                             |
+01|005|4|  4|  2|DR. |KERT√âSZ BAL√ÅZS                          |
+01|005|4|  4|  4|    |PUSK√ÅS ANDR√ÅS                           |
+01|005|4|  4|  5|    |B√âG√ÅNY ATTILA                           |
+01|005|4|  4|  7|    |PATAKI ZOLT√ÅN                           |
+01|005|4|  8|  3|    |MOLN√ÅR KATALIN                          |
+01|005|4|  8|  4|    |P√ÅSZTOR TIBOR                           |
+01|005|4|  8|  7|    |HORN MIKL√ìS                             |
+01|005|4|  8|  9|    |RIPP G√âZ√ÅN√â                             |
+01|005|4| 10|  1|    |T√ìTH LAJOS                              |
+01|005|5|  5|  4|    |SCHNEIDER MIH√ÅLY                        |
+01|006|4|  4|  1|    |BEREGSZ√ÅSZI-HEGYI L√ÅSZL√ì                |
+01|006|4|  5|  1|DR. |MARI√ÅN MIKL√ìS                           |
+01|006|4|  6|  1|    |HASSAY ZS√ìFIA                           |
 01|006|4|  6|  3|    |BARANYAI ZSOLT                          |
 01|006|4|  6|  4|DR. |BUNDULA CSABA                           |
 01|006|4|  6|  5|    |GYENGE ZSOLT                            |
-01|006|4|  6|  7|DR. |BICSAK ¡GNES KRISZTINA                  |
-01|006|4|  6|  6|    |WERT¡N ZSOLT ZOLT¡N                     |
-01|006|4|  6|  2|DR. |ZETTNER-KOV¡CS KRISZTI¡N                |
-01|006|5|  3|  2|    |L¡SZAY J¡NOS                            |
-01|007|4|  1|  5|    |RIPP ¡GNES                              |
-01|007|4|  4|  1|    |HONT ANDR¡S                             |
-01|007|4|  4|  7|    |GERENDAY ¡GNES                          |
-01|007|4|  4|  2|    |LENDVAI B…LA                            |
-01|007|4|  4|  4|    |PUSK¡S ATTILA S¡NDOR                    |
+01|006|4|  6|  7|DR. |BICSAK √ÅGNES KRISZTINA                  |
+01|006|4|  6|  6|    |WERT√ÅN ZSOLT ZOLT√ÅN                     |
+01|006|4|  6|  2|DR. |ZETTNER-KOV√ÅCS KRISZTI√ÅN                |
+01|006|5|  3|  2|    |L√ÅSZAY J√ÅNOS                            |
+01|007|4|  1|  5|    |RIPP √ÅGNES                              |
+01|007|4|  4|  1|    |HONT ANDR√ÅS                             |
+01|007|4|  4|  7|    |GERENDAY √ÅGNES                          |
+01|007|4|  4|  2|    |LENDVAI B√âLA                            |
+01|007|4|  4|  4|    |PUSK√ÅS ATTILA S√ÅNDOR                    |
 01|007|4|  4|  5|    |CZIBULA CSABA                           |
 01|007|4|  4|  6|    |HALLER GYULA                            |
-01|007|4|  4|  3|    |SIMON P…TER                             |
+01|007|4|  4|  3|    |SIMON P√âTER                             |
 01|007|4|  6|  1|    |VARGA TIBOR                             |
-01|007|4|  8|  6|    |KARDOS P…TER                            |
+01|007|4|  8|  6|    |KARDOS P√âTER                            |
 01|007|4|  8|  7|    |BALOGH ERIKA                            |
-01|008|4|  1|  1|    |TESZ¡RSZ K¡ROLY                         |
-01|008|4| 10|  1|    |K…KESI J”ZSEF                           |
+01|008|4|  1|  1|    |TESZ√ÅRSZ K√ÅROLY                         |
+01|008|4| 10|  1|    |K√âKESI J√ìZSEF                           |
 01|008|4| 10|  2|    |POZSGAI ZITA MARIANNA                   |
-01|008|4| 11|  1|    |SZ…KELYN… GY÷K÷SSY D”RA                 |
-01|008|4| 11|  6|    |PETR¡K LAJOS                            |
-01|008|4| 11|  8|    |ZENTAI OSZK¡R                           |
-01|008|4| 11|  7|    |KEREKES P¡L                             |
-01|008|4| 11|  5|    |KARDOS-ERD’DI ZSOLT ¡KOS                |
-01|008|4| 11|  2|DR. |JUHAROS R”BERT                          |
-01|008|4| 11|  4|DR. |GOTTHARD G¡BOR J”ZSEF                   |
-01|008|4| 11|  3|    |L’RINCZI-REICH J”ZSEF D¡VID             |
-01|009|4|  1|  1|    |SAJ” ¡KOS                               |
-01|009|4|  2|  1|    |B¡CSKAI J¡NOS                           |
-01|009|4|  2|  4|    |SZ‹CS BAL¡ZS                            |
-01|009|4|  2|  5|    |J¡KY JEN’                               |
-01|009|4|  2|  6|    |BOD” M¡RTON                             |
-01|009|4|  2|  9|    |BALOGH GY÷RGY                           |
-01|009|4|  2|  7|    |NIKOD…M LAJOS                           |
-01|009|4|  2|  3|    |SEB’K ENDRE                             |
-01|009|4|  2|  2|    |MARCS” J”ZSEF                           |
-01|009|4|  5|  4|    |HUBERT B…L¡N…                           |
-01|009|4|  8|  1|    |KOV¡CS B…LA P…TER                       |
-01|009|5|  6|  1|    |INTZOGLU ISTV¡N                         |
-01|009|5|  7|  3|    |DEUTSCH L¡SZL”                          |
-01|010|4|  3|  1|    |GY÷RGY ISTV¡N                           |
-01|010|4|  3|  3|    |KLEINHEINCZ G¡BOR                       |
+01|008|4| 11|  1|    |SZ√âKELYN√â GY√ñK√ñSSY D√ìRA                 |
+01|008|4| 11|  6|    |PETR√ÅK LAJOS                            |
+01|008|4| 11|  8|    |ZENTAI OSZK√ÅR                           |
+01|008|4| 11|  7|    |KEREKES P√ÅL                             |
+01|008|4| 11|  5|    |KARDOS-ERD≈êDI ZSOLT √ÅKOS                |
+01|008|4| 11|  2|DR. |JUHAROS R√ìBERT                          |
+01|008|4| 11|  4|DR. |GOTTHARD G√ÅBOR J√ìZSEF                   |
+01|008|4| 11|  3|    |L≈êRINCZI-REICH J√ìZSEF D√ÅVID             |
+01|009|4|  1|  1|    |SAJ√ì √ÅKOS                               |
+01|009|4|  2|  1|    |B√ÅCSKAI J√ÅNOS                           |
+01|009|4|  2|  4|    |SZ√úCS BAL√ÅZS                            |
+01|009|4|  2|  5|    |J√ÅKY JEN≈ê                               |
+01|009|4|  2|  6|    |BOD√ì M√ÅRTON                             |
+01|009|4|  2|  9|    |BALOGH GY√ñRGY                           |
+01|009|4|  2|  7|    |NIKOD√âM LAJOS                           |
+01|009|4|  2|  3|    |SEB≈êK ENDRE                             |
+01|009|4|  2|  2|    |MARCS√ì J√ìZSEF                           |
+01|009|4|  5|  4|    |HUBERT B√âL√ÅN√â                           |
+01|009|4|  8|  1|    |KOV√ÅCS B√âLA P√âTER                       |
+01|009|5|  6|  1|    |INTZOGLU ISTV√ÅN                         |
+01|009|5|  7|  3|    |DEUTSCH L√ÅSZL√ì                          |
+01|010|4|  3|  1|    |GY√ñRGY ISTV√ÅN                           |
+01|010|4|  3|  3|    |KLEINHEINCZ G√ÅBOR                       |
 01|010|4|  3|  4|    |KALAPOS ZSOLT                           |
-01|010|4|  3|  6|DR. |JUH¡SZ J”ZSEF                           |
-01|010|4|  3|  8|    |LOJDL B…LA                              |
-01|010|4|  3|  7|    |V…GV¡RI K¡ROLY                          |
-01|010|4|  3|  5|    |KOV¡CS R”BERT                           |
+01|010|4|  3|  6|DR. |JUH√ÅSZ J√ìZSEF                           |
+01|010|4|  3|  8|    |LOJDL B√âLA                              |
+01|010|4|  3|  7|    |V√âGV√ÅRI K√ÅROLY                          |
+01|010|4|  3|  5|    |KOV√ÅCS R√ìBERT                           |
 01|010|4|  3|  2|    |WEEBER TIBOR                            |
-01|010|4|  4|  1|    |NAGY L¡SZL”                             |
-01|010|4|  4|  2|    |GY’RI D…NES                             |
-01|010|4| 10|  1|    |TAM¡S L¡SZL”                            |
-01|010|5|  7|  5|    |VESZELY B…LA                            |
-01|010|5|  8|  1|DR. |KRO” S¡NDOR                             |
+01|010|4|  4|  1|    |NAGY L√ÅSZL√ì                             |
+01|010|4|  4|  2|    |GY≈êRI D√âNES                             |
+01|010|4| 10|  1|    |TAM√ÅS L√ÅSZL√ì                            |
+01|010|5|  7|  5|    |VESZELY B√âLA                            |
+01|010|5|  8|  1|DR. |KRO√ì S√ÅNDOR                             |
 01|011|4|  1|  1|DR. |JUHOS KATALIN                           |
-01|011|4|  1|  2|    |KIS J”ZSEF                              |
-01|011|4|  1|  5|    |TASN¡DI ANDR¡S CSABA                    |
-01|011|4|  1|  8|    |BOJTA L¡SZL”                            |
-01|011|4|  1| 10|DR. |FAZEKAS R”BERT                          |
+01|011|4|  1|  2|    |KIS J√ìZSEF                              |
+01|011|4|  1|  5|    |TASN√ÅDI ANDR√ÅS CSABA                    |
+01|011|4|  1|  8|    |BOJTA L√ÅSZL√ì                            |
+01|011|4|  1| 10|DR. |FAZEKAS R√ìBERT                          |
 01|011|4|  1|  7|    |SCHNELLER DOMONKOS                      |
-01|011|4|  1|  4|    |BOTH ZOLT¡N                             |
-01|011|4|  7|  1|DR. |FENYVESSY ZOLT¡N                        |
-01|011|4|  7|  2|DR. |MESTYANEK ÷D÷N                          |
-01|011|4|  9|  2|    |BAL¡ZS GYULA L¡SZL”                     |
-01|011|4|  9|  4|    |CZUNYI L¡SZL”                           |
-01|011|4|  9|  5|    |GEH…R J”ZSEF                            |
-01|011|4| 10|  2|    |VERESN… KRAJC¡R IZABELLA                |
-01|011|4| 10|  3|    |WIESZT J¡NOS                            |
-01|011|4| 10|  5|    |FISCHER G¡BOR                           |
-01|012|4|  1|  1|DR. |SALAMIN ANDR¡S                          |
-01|012|4|  5|  4|DR. |BALSAI J”ZSEF                           |
-01|012|4|  5|  5|    |OSZK” ISTV¡N                            |
+01|011|4|  1|  4|    |BOTH ZOLT√ÅN                             |
+01|011|4|  7|  1|DR. |FENYVESSY ZOLT√ÅN                        |
+01|011|4|  7|  2|DR. |MESTYANEK √ñD√ñN                          |
+01|011|4|  9|  2|    |BAL√ÅZS GYULA L√ÅSZL√ì                     |
+01|011|4|  9|  4|    |CZUNYI L√ÅSZL√ì                           |
+01|011|4|  9|  5|    |GEH√âR J√ìZSEF                            |
+01|011|4| 10|  2|    |VERESN√â KRAJC√ÅR IZABELLA                |
+01|011|4| 10|  3|    |WIESZT J√ÅNOS                            |
+01|011|4| 10|  5|    |FISCHER G√ÅBOR                           |
+01|012|4|  1|  1|DR. |SALAMIN ANDR√ÅS                          |
+01|012|4|  5|  4|DR. |BALSAI J√ìZSEF                           |
+01|012|4|  5|  5|    |OSZK√ì ISTV√ÅN                            |
 01|012|4|  5|  8|DR. |TUZSON BENCE                            |
 01|012|4|  5|  7|DR. |HARMOS ANDREA                           |
-01|012|4|  6|  1|    |…L’ NORBERT                             |
-01|012|4|  6|  2|    |PAPP S¡NDOR                             |
-01|012|4|  7|  2|    |CSOB¡NCZY G¡BOR                         |
-01|012|4|  7|  4|    |KECSK…S M¡RTON                          |
-01|012|4|  7|  5|    |SZ¡DAY REZS’                            |
-01|012|4|  8|  1|    |FEJ…R ZSOLT                             |
-01|013|4|  3|  3|    |SZEDERK…NYI ANDR¡S                      |
-01|013|4|  3|  4|    |MAGYAR J¡NOS                            |
-01|013|4|  4|  1|    |DANCSECS GY÷RGY                         |
-01|013|4|  4|  2|    |OL¡H J¡NOS J”ZSEF                       |
-01|013|4|  6|  1|    |KOLL¡T P¡L                              |
-01|013|4|  7|  1|DR. |WESZELOVSZKY ZOLT¡N                     |
-01|013|4|  7|  2|DR. |SZALAY P…TER                            |
-01|013|4|  7|  5|    |NEMESK…RI J¡NOS                         |
+01|012|4|  6|  1|    |√âL≈ê NORBERT                             |
+01|012|4|  6|  2|    |PAPP S√ÅNDOR                             |
+01|012|4|  7|  2|    |CSOB√ÅNCZY G√ÅBOR                         |
+01|012|4|  7|  4|    |KECSK√âS M√ÅRTON                          |
+01|012|4|  7|  5|    |SZ√ÅDAY REZS≈ê                            |
+01|012|4|  8|  1|    |FEJ√âR ZSOLT                             |
+01|013|4|  3|  3|    |SZEDERK√âNYI ANDR√ÅS                      |
+01|013|4|  3|  4|    |MAGYAR J√ÅNOS                            |
+01|013|4|  4|  1|    |DANCSECS GY√ñRGY                         |
+01|013|4|  4|  2|    |OL√ÅH J√ÅNOS J√ìZSEF                       |
+01|013|4|  6|  1|    |KOLL√ÅT P√ÅL                              |
+01|013|4|  7|  1|DR. |WESZELOVSZKY ZOLT√ÅN                     |
+01|013|4|  7|  2|DR. |SZALAY P√âTER                            |
+01|013|4|  7|  5|    |NEMESK√âRI J√ÅNOS                         |
 01|013|4|  7|  6|    |SPALLER ENDRE                           |
-01|013|4|  7|  4|    |MOLN¡R B…LA                             |
-01|013|4|  7|  3|    |KLEM L¡SZL”                             |
-01|013|4|  7|  7|    |PAJT¡S D…NES                            |
-01|013|4|  7|  8|    |GAJDOS ERZS…BET                         |
-01|014|4|  3|  1|DR. |F‹ZY M¡RTONN…                           |
-01|014|4|  3|  2|    |B…NYI GY÷RGY                            |
-01|014|4|  4|  1|    |KOV¡CS J¡NOS                            |
-01|014|4|  6|  2|    |WEINWURM ¡RP¡D                          |
-01|014|4|  6|  3|    |ROZGONYI ZOLT¡N                         |
-01|014|4|  6|  4|    |VALENT GY÷RGYN…                         |
-01|014|4|  6|  6|    |GY‹GYEI ATTILA                          |
-01|014|4|  6|  8|    |KOLLARIK TAM¡S                          |
-01|014|4|  6|  9|    |T”TH TIBOR                              |
-01|014|4|  6|  7|    |BUDAH¡ZY G¡BOR                          |
-01|014|4|  6|  5|    |SERES ANDR¡S                            |
-01|014|4|  8|  1|    |KUTALIKN… DR. KARDOS ZSUZSANNA          |
-01|014|4|  8|  4|    |BERNHARDT BARNAB¡S                      |
-01|014|4|  8|  6|    |H÷R÷MP÷LI K¡LM¡N                        |
-01|015|4|  3|  1|    |MIH¡LYI ZOLT¡N                          |
-01|015|4|  3|  2|    |VIZ…R KL¡RA                             |
-01|015|4|  4|  1|    |K÷K…NY RITA                             |
-01|015|4|  4|  2|    |GOR” OSZK¡R                             |
-01|015|4|  7|  1|    |M¡T… GYULA                              |
-01|015|4|  7|  2|DR. |MATL¡K G¡BOR                            |
-01|015|4|  8|  1|DR. |M¡RKUS SZABOLCS J”ZSEF                  |
+01|013|4|  7|  4|    |MOLN√ÅR B√âLA                             |
+01|013|4|  7|  3|    |KLEM L√ÅSZL√ì                             |
+01|013|4|  7|  7|    |PAJT√ÅS D√âNES                            |
+01|013|4|  7|  8|    |GAJDOS ERZS√âBET                         |
+01|014|4|  3|  1|DR. |F√úZY M√ÅRTONN√â                           |
+01|014|4|  3|  2|    |B√âNYI GY√ñRGY                            |
+01|014|4|  4|  1|    |KOV√ÅCS J√ÅNOS                            |
+01|014|4|  6|  2|    |WEINWURM √ÅRP√ÅD                          |
+01|014|4|  6|  3|    |ROZGONYI ZOLT√ÅN                         |
+01|014|4|  6|  4|    |VALENT GY√ñRGYN√â                         |
+01|014|4|  6|  6|    |GY√úGYEI ATTILA                          |
+01|014|4|  6|  8|    |KOLLARIK TAM√ÅS                          |
+01|014|4|  6|  9|    |T√ìTH TIBOR                              |
+01|014|4|  6|  7|    |BUDAH√ÅZY G√ÅBOR                          |
+01|014|4|  6|  5|    |SERES ANDR√ÅS                            |
+01|014|4|  8|  1|    |KUTALIKN√â DR. KARDOS ZSUZSANNA          |
+01|014|4|  8|  4|    |BERNHARDT BARNAB√ÅS                      |
+01|014|4|  8|  6|    |H√ñR√ñMP√ñLI K√ÅLM√ÅN                        |
+01|015|4|  3|  1|    |MIH√ÅLYI ZOLT√ÅN                          |
+01|015|4|  3|  2|    |VIZ√âR KL√ÅRA                             |
+01|015|4|  4|  1|    |K√ñK√âNY RITA                             |
+01|015|4|  4|  2|    |GOR√ì OSZK√ÅR                             |
+01|015|4|  7|  1|    |M√ÅT√â GYULA                              |
+01|015|4|  7|  2|DR. |MATL√ÅK G√ÅBOR                            |
+01|015|4|  8|  1|DR. |M√ÅRKUS SZABOLCS J√ìZSEF                  |
 01|015|4|  8|  2|    |BORI FERENC                             |
-01|015|4| 12|  1|    |CSABA ELEM…R                            |
-01|015|4| 16|  1|    |GY’RI-MOLN¡R LAJOS G¡BOR                |
+01|015|4| 12|  1|    |CSABA ELEM√âR                            |
+01|015|4| 16|  1|    |GY≈êRI-MOLN√ÅR LAJOS G√ÅBOR                |
 01|015|4| 16|  2|    |MONOSTORI ZSOLT                         |
-01|016|4|  1|  1|    |TREER ANDR¡S                            |
-01|016|4|  4|  3|    |KOV¡CS ATTILA                           |
-01|016|4|  4|  7|    |SZATM¡RY KRIST”F                        |
-01|016|4|  4|  5|    |SZAB” TAM¡S                             |
-01|016|4|  6|  1|    |LACSNY BAL¡ZS                           |
-01|016|4|  7|  4|    |ABONYI J¡NOS                            |
+01|016|4|  1|  1|    |TREER ANDR√ÅS                            |
+01|016|4|  4|  3|    |KOV√ÅCS ATTILA                           |
+01|016|4|  4|  7|    |SZATM√ÅRY KRIST√ìF                        |
+01|016|4|  4|  5|    |SZAB√ì TAM√ÅS                             |
+01|016|4|  6|  1|    |LACSNY BAL√ÅZS                           |
+01|016|4|  7|  4|    |ABONYI J√ÅNOS                            |
 01|016|4|  7|  6|    |LANTOS ANTAL                            |
-01|016|4|  7|  9|    |KOLOZS ANDR¡S                           |
-01|016|4|  8|  1|DR. |BAJ¡K GYULA                             |
-01|016|4|  8|  2|    |BUDAY P¡L                               |
-01|016|4|  9|  1|    |ZSINKA L¡SZL”                           |
-01|016|5| 11|  4|    |WEYDE GYULA L¡SZL”                      |
-01|017|4|  1|  1|    |MARSCHALK” TAM¡SN…                      |
-01|017|4|  1|  2|    |SZIL¡GYI ANTAL                          |
-01|017|4|  5|  1|    |KOLTAI ILDIK”                           |
-01|017|4|  5|  3|    |B⁄S BENCE                               |
-01|017|4|  5|  4|    |KOV¡CS ISTV¡N                           |
-01|017|4|  5|  7|    |L¡Z¡R ATTILA                            |
-01|017|4|  5|  8|    |FACHET GERG’                            |
+01|016|4|  7|  9|    |KOLOZS ANDR√ÅS                           |
+01|016|4|  8|  1|DR. |BAJ√ÅK GYULA                             |
+01|016|4|  8|  2|    |BUDAY P√ÅL                               |
+01|016|4|  9|  1|    |ZSINKA L√ÅSZL√ì                           |
+01|016|5| 11|  4|    |WEYDE GYULA L√ÅSZL√ì                      |
+01|017|4|  1|  1|    |MARSCHALK√ì TAM√ÅSN√â                      |
+01|017|4|  1|  2|    |SZIL√ÅGYI ANTAL                          |
+01|017|4|  5|  1|    |KOLTAI ILDIK√ì                           |
+01|017|4|  5|  3|    |B√öS BENCE                               |
+01|017|4|  5|  4|    |KOV√ÅCS ISTV√ÅN                           |
+01|017|4|  5|  7|    |L√ÅZ√ÅR ATTILA                            |
+01|017|4|  5|  8|    |FACHET GERG≈ê                            |
 01|017|4|  5|  6|    |FOHSZ TIVADAR                           |
 01|017|4|  5|  2|DR. |FARKAS TIBOR                            |
-01|017|4|  6|  2|    |SOLTIN… KISS KATALIN                    |
-01|017|4|  9|  1|DR. |FENKE FERENC GY÷RGY                     |
-01|017|5|  2|  1|    |BAKOS P…TER                             |
-01|018|4|  5|  1|    |BERKES P…TER                            |
-01|018|4|  5|  3|    |CSATL”S CSABA                           |
-01|018|4|  5|  2|    |D÷M÷T÷R ISTV¡N                          |
-01|018|4|  9|  1|    |FERENCZ ISTV¡N                          |
-01|018|4|  9|  3|    |BOHOCZKI J”ZSEF                         |
-01|018|4|  9|  2|    |V¡G” ISTV¡NN…                           |
+01|017|4|  6|  2|    |SOLTIN√â KISS KATALIN                    |
+01|017|4|  9|  1|DR. |FENKE FERENC GY√ñRGY                     |
+01|017|5|  2|  1|    |BAKOS P√âTER                             |
+01|018|4|  5|  1|    |BERKES P√âTER                            |
+01|018|4|  5|  3|    |CSATL√ìS CSABA                           |
+01|018|4|  5|  2|    |D√ñM√ñT√ñR ISTV√ÅN                          |
+01|018|4|  9|  1|    |FERENCZ ISTV√ÅN                          |
+01|018|4|  9|  3|    |BOHOCZKI J√ìZSEF                         |
+01|018|4|  9|  2|    |V√ÅG√ì ISTV√ÅNN√â                           |
 01|018|4| 11|  1|    |HODRUSZKY CSABA                         |
-01|018|4| 11|  2|    |SONNEWEND L¡SZL”                        |
-01|018|4| 11|  3|    |CSOM” TAM¡S                             |
-01|018|4| 12|  2|    |CSABAFI R”BERT IMRE                     |
-01|018|4| 12|  3|    |SZAB” ZOLT¡N TIBOR                      |
-01|018|4| 13|  1|    |CHROB¡K J¡NOS                           |
-01|018|5|  1|  3|    |EKKER J¡NOS                             |
-01|019|4|  4|  4|    |GULY¡S ZOLT¡N                           |
-01|019|4|  4|  5|    |RITTER ATTILA J¡NOS                     |
-01|019|4|  5|  1|    |BAL¡ZS L¡SZL” J”ZSEF                    |
-01|019|4|  6|  1|    |TÕM¡R B…LA ANDR¡S                       |
+01|018|4| 11|  2|    |SONNEWEND L√ÅSZL√ì                        |
+01|018|4| 11|  3|    |CSOM√ì TAM√ÅS                             |
+01|018|4| 12|  2|    |CSABAFI R√ìBERT IMRE                     |
+01|018|4| 12|  3|    |SZAB√ì ZOLT√ÅN TIBOR                      |
+01|018|4| 13|  1|    |CHROB√ÅK J√ÅNOS                           |
+01|018|5|  1|  3|    |EKKER J√ÅNOS                             |
+01|019|4|  4|  4|    |GULY√ÅS ZOLT√ÅN                           |
+01|019|4|  4|  5|    |RITTER ATTILA J√ÅNOS                     |
+01|019|4|  5|  1|    |BAL√ÅZS L√ÅSZL√ì J√ìZSEF                    |
+01|019|4|  6|  1|    |T√çM√ÅR B√âLA ANDR√ÅS                       |
 01|019|4|  6|  2|    |GOMBI ATTILA                            |
-01|019|4|  6|  5|DR. |FRIED MIKL”S S¡NDOR                     |
-01|019|4|  6|  7|    |LUBLOV¡RY ¡KOSN…                        |
-01|019|4|  6|  6|    |L…LFAI KOPP¡NY TIBOR                    |
-01|019|4|  6|  4|DR. |BALATON P…TER ANDR¡S                    |
-01|019|4|  6|  3|    |MIH¡LY ANDR¡S                           |
-01|019|4|  7|  1|    |B…RES ANDR¡S G¡BOR                      |
-01|020|4|  1|  1|DR. |KESER€ J”ZSEFN…                         |
-01|020|4|  6|  1|    |BENES G…ZA                              |
-01|020|4|  6|  2|    |FITYIK GY÷RGY                           |
-01|020|4|  7|  1|    |PERLAKI JEN’                            |
-01|020|4|  7|  7|DR. |SZALAI L¡SZL”                           |
-01|020|4|  7|  6|    |HIRES ¡KOS                              |
-01|020|4|  7|  5|    |B¡N” MIKL”S                             |
-01|020|4|  7|  2|    |HARDY L¡SZL”                            |
-01|020|4|  7|  4|    |KAISER GY÷RGY                           |
+01|019|4|  6|  5|DR. |FRIED MIKL√ìS S√ÅNDOR                     |
+01|019|4|  6|  7|    |LUBLOV√ÅRY √ÅKOSN√â                        |
+01|019|4|  6|  6|    |L√âLFAI KOPP√ÅNY TIBOR                    |
+01|019|4|  6|  4|DR. |BALATON P√âTER ANDR√ÅS                    |
+01|019|4|  6|  3|    |MIH√ÅLY ANDR√ÅS                           |
+01|019|4|  7|  1|    |B√âRES ANDR√ÅS G√ÅBOR                      |
+01|020|4|  1|  1|DR. |KESER≈∞ J√ìZSEFN√â                         |
+01|020|4|  6|  1|    |BENES G√âZA                              |
+01|020|4|  6|  2|    |FITYIK GY√ñRGY                           |
+01|020|4|  7|  1|    |PERLAKI JEN≈ê                            |
+01|020|4|  7|  7|DR. |SZALAI L√ÅSZL√ì                           |
+01|020|4|  7|  6|    |HIRES √ÅKOS                              |
+01|020|4|  7|  5|    |B√ÅN√ì MIKL√ìS                             |
+01|020|4|  7|  2|    |HARDY L√ÅSZL√ì                            |
+01|020|4|  7|  4|    |KAISER GY√ñRGY                           |
 01|020|4|  7|  3|    |POTOCZKY ATTILA                         |
 01|020|4|  8|  1|    |BOLDIS ENDRE                            |
-01|020|5|  2|  4|    |SKRIBEK P…TER                           |
-01|021|4|  3|  1|    |HADH¡ZY J¡NOS                           |
-01|021|4|  4|  1|    |BARTHA K¡ROLY                           |
-01|021|4|  5|  1|    |N…METH SZIL¡RD                          |
-01|021|4|  5|  3|    |HORV¡TH L¡SZL”                          |
-01|021|4|  5|  4|    |T”TH J¡NOS                              |
-01|021|4|  5|  2|    |HORV¡TH J”ZSEF                          |
-01|021|4|  5|  5|    |¡BEL ATTILA                             |
-01|021|4|  5|  6|    |CSIZMADIA K¡ROLY                        |
-01|021|4|  8|  1|    |LENKEI L¡SZL”                           |
-01|021|4|  8|  2|    |F‹LEKI RUDOLF                           |
-01|021|4|  9|  1|    |BENK’ VIKTORN…                          |
-01|022|4|  1|  1|    |H¡VEL BENEDEK                           |
-01|022|4|  2|  1|DR. |KOV¡CS B…LA                             |
-01|022|4|  2|  2|    |G÷M÷REI J”ZSEF                          |
-01|022|4|  3|  1|    |ESZE TAM¡S                              |
+01|020|5|  2|  4|    |SKRIBEK P√âTER                           |
+01|021|4|  3|  1|    |HADH√ÅZY J√ÅNOS                           |
+01|021|4|  4|  1|    |BARTHA K√ÅROLY                           |
+01|021|4|  5|  1|    |N√âMETH SZIL√ÅRD                          |
+01|021|4|  5|  3|    |HORV√ÅTH L√ÅSZL√ì                          |
+01|021|4|  5|  4|    |T√ìTH J√ÅNOS                              |
+01|021|4|  5|  2|    |HORV√ÅTH J√ìZSEF                          |
+01|021|4|  5|  5|    |√ÅBEL ATTILA                             |
+01|021|4|  5|  6|    |CSIZMADIA K√ÅROLY                        |
+01|021|4|  8|  1|    |LENKEI L√ÅSZL√ì                           |
+01|021|4|  8|  2|    |F√úLEKI RUDOLF                           |
+01|021|4|  9|  1|    |BENK≈ê VIKTORN√â                          |
+01|022|4|  1|  1|    |H√ÅVEL BENEDEK                           |
+01|022|4|  2|  1|DR. |KOV√ÅCS B√âLA                             |
+01|022|4|  2|  2|    |G√ñM√ñREI J√ìZSEF                          |
+01|022|4|  3|  1|    |ESZE TAM√ÅS                              |
 01|022|4|  4|  1|    |SZABOLCS ATTILA                         |
 01|022|4|  4|  6|    |PESTI NORBERT                           |
-01|022|4|  4|  7|    |JANZS” J¡NOS                            |
-01|022|4|  4|  4|DR. |ZATYK” LAJOSN…                          |
-01|022|4|  4|  5|    |SEBES G¡BOR                             |
-01|022|4|  5|  2|    |ZSIROS ISTV¡N                           |
-01|023|4|  7|  1|    |UNYI J¡NOS ANTAL                        |
-01|023|4|  9|  3|    |V¡RHEGYI MAGDOLNA                       |
-01|023|4|  9|  4|    |FARKAS K¡LM¡N                           |
-01|023|4|  9|  5|    |BARAB¡S TIBORN…                         |
-01|023|4| 10|  1|    |KOLTAIN… LAKI ILDIK”                    |
-01|023|4| 11|  1|    |SERES B…LA                              |
-01|023|4| 11|  2|    |HAL¡SZN… JESZENSZKY R”ZSA               |
-01|023|5|  4|  1|    |ZWICK J”ZSEF                            |
+01|022|4|  4|  7|    |JANZS√ì J√ÅNOS                            |
+01|022|4|  4|  4|DR. |ZATYK√ì LAJOSN√â                          |
+01|022|4|  4|  5|    |SEBES G√ÅBOR                             |
+01|022|4|  5|  2|    |ZSIROS ISTV√ÅN                           |
+01|023|4|  7|  1|    |UNYI J√ÅNOS ANTAL                        |
+01|023|4|  9|  3|    |V√ÅRHEGYI MAGDOLNA                       |
+01|023|4|  9|  4|    |FARKAS K√ÅLM√ÅN                           |
+01|023|4|  9|  5|    |BARAB√ÅS TIBORN√â                         |
+01|023|4| 10|  1|    |KOLTAIN√â LAKI ILDIK√ì                    |
+01|023|4| 11|  1|    |SERES B√âLA                              |
+01|023|4| 11|  2|    |HAL√ÅSZN√â JESZENSZKY R√ìZSA               |
+01|023|5|  4|  1|    |ZWICK J√ìZSEF                            |
 01|023|5|  6|  4|    |KALOCSAI ERIKA                          |
-02|137|4|  5|  1|    |SZARKA ELEM…R                           |
-02|137|4|  5|  2|    |IV¡N L¡SZL”                             |
-02|137|4|  6|  1|    |KISP¡L L¡SZL”                           |
-02|137|4|  6|  2|    |PRETTL J¡NOS                            |
-02|137|4|  7|  1|    |GELB MIKL”S                             |
-02|137|4|  7|  2|DR. |HOPPA J”ZSEF                            |
-02|137|4|  8|  1|    |JENCSIK J¡NOS                           |
+02|137|4|  5|  1|    |SZARKA ELEM√âR                           |
+02|137|4|  5|  2|    |IV√ÅN L√ÅSZL√ì                             |
+02|137|4|  6|  1|    |KISP√ÅL L√ÅSZL√ì                           |
+02|137|4|  6|  2|    |PRETTL J√ÅNOS                            |
+02|137|4|  7|  1|    |GELB MIKL√ìS                             |
+02|137|4|  7|  2|DR. |HOPPA J√ìZSEF                            |
+02|137|4|  8|  1|    |JENCSIK J√ÅNOS                           |
 02|137|4| 10|  1|    |SZIGETI SZABOLCS                        |
-02|137|4| 16|  1|    |DE¡K IMRE                               |
-02|137|5|  9|  1|    |HEGED‹S ISTV¡N                          |
-02|137|5| 13|  2|    |J…GL ZOLT¡N                             |
-02|137|5| 14|  1|    |N…METH L¡SZL”                           |
-02|181|4|  3|  1|    |PUCH L¡SZL”                             |
-02|181|4|  3|  2|    |VARGA P…TER                             |
-02|181|4|  3|  5|DR. |N…METH ELEM…R                           |
-02|181|4|  3|  3|    |H…RA FERENCN…                           |
-02|181|4|  6|  1|DR. |TORJAY G¡BOR                            |
-02|181|5|  5|  1|    |HEGED‹S CSILLA                          |
+02|137|4| 16|  1|    |DE√ÅK IMRE                               |
+02|137|5|  9|  1|    |HEGED√úS ISTV√ÅN                          |
+02|137|5| 13|  2|    |J√âGL ZOLT√ÅN                             |
+02|137|5| 14|  1|    |N√âMETH L√ÅSZL√ì                           |
+02|181|4|  3|  1|    |PUCH L√ÅSZL√ì                             |
+02|181|4|  3|  2|    |VARGA P√âTER                             |
+02|181|4|  3|  5|DR. |N√âMETH ELEM√âR                           |
+02|181|4|  3|  3|    |H√âRA FERENCN√â                           |
+02|181|4|  6|  1|DR. |TORJAY G√ÅBOR                            |
+02|181|5|  5|  1|    |HEGED√úS CSILLA                          |
 02|181|5|  9|  5|    |RANG HENRIETT                           |
-02|181|5| 10|  2|    |CZITA M¡TY¡S                            |
-02|217|4|  1|  1|DR. |DE¡K P…TER                              |
+02|181|5| 10|  2|    |CZITA M√ÅTY√ÅS                            |
+02|217|4|  1|  1|DR. |DE√ÅK P√âTER                              |
 02|217|4|  4|  1|    |NAGY CSABA                              |
-02|217|4|  4| 10|    |ERB J”ZSEF                              |
-02|217|4|  4| 11|    |MOLN¡RN… GARAI EDIT                     |
-02|217|4|  4|  9|    |TROMBIT¡S K¡ROLY                        |
-02|217|4|  4|  4|DR. |G¡SP¡R GABRIELLA                        |
-02|217|4|  4|  6|    |STAUB ERN’                              |
+02|217|4|  4| 10|    |ERB J√ìZSEF                              |
+02|217|4|  4| 11|    |MOLN√ÅRN√â GARAI EDIT                     |
+02|217|4|  4|  9|    |TROMBIT√ÅS K√ÅROLY                        |
+02|217|4|  4|  4|DR. |G√ÅSP√ÅR GABRIELLA                        |
+02|217|4|  4|  6|    |STAUB ERN≈ê                              |
 02|217|4|  4|  7|    |DE BLASIO ANTONIO                       |
-02|217|4|  4|  8|DR. |F‹REDI P…TER                            |
-02|217|4|  4|  5|    |PAPP G¡BOR                              |
-02|217|4|  4|  3|    |V¡RBIR” P…TER                           |
-02|217|4|  6|  1|    |BRETTER ZOLT¡N                          |
-02|217|4|  6|  4|    |MINDUM K¡ROLY                           |
-02|217|4|  7|  1|    |FRATANOLO J¡NOS                         |
-02|217|4| 11|  1|    |D…V…NYI S¡NDOR                          |
-02|217|4| 12|  1|    |KER…NYI J¡NOS                           |
-02|217|5|  3|  4|    |KITTL J¡NOS                             |
-02|217|5| 10|  7|    |V¡RNAI M¡RTON                           |
-02|234|4|  3|  3|    |FERENCZIN… AMBRUS EM’                   |
-02|234|4|  3|  4|    |B¡RDONICSEK ¡D¡M R”BERT                 |
-02|234|4|  5|  1|    |HULLMANN B…LA                           |
-02|234|4|  6|  1|    |KREBSZ J¡NOS                            |
-02|234|4|  6|  2|    |B¡LINT BOTOND                           |
+02|217|4|  4|  8|DR. |F√úREDI P√âTER                            |
+02|217|4|  4|  5|    |PAPP G√ÅBOR                              |
+02|217|4|  4|  3|    |V√ÅRBIR√ì P√âTER                           |
+02|217|4|  6|  1|    |BRETTER ZOLT√ÅN                          |
+02|217|4|  6|  4|    |MINDUM K√ÅROLY                           |
+02|217|4|  7|  1|    |FRATANOLO J√ÅNOS                         |
+02|217|4| 11|  1|    |D√âV√âNYI S√ÅNDOR                          |
+02|217|4| 12|  1|    |KER√âNYI J√ÅNOS                           |
+02|217|5|  3|  4|    |KITTL J√ÅNOS                             |
+02|217|5| 10|  7|    |V√ÅRNAI M√ÅRTON                           |
+02|234|4|  3|  3|    |FERENCZIN√â AMBRUS EM≈ê                   |
+02|234|4|  3|  4|    |B√ÅRDONICSEK √ÅD√ÅM R√ìBERT                 |
+02|234|4|  5|  1|    |HULLMANN B√âLA                           |
+02|234|4|  6|  1|    |KREBSZ J√ÅNOS                            |
+02|234|4|  6|  2|    |B√ÅLINT BOTOND                           |
 02|234|4| 11|  1|IFJ.|DELI FERENC                             |
-02|234|4| 13|  1|    |OTT” KRISZTI¡N OTT”                     |
-02|234|5|  7|  3|    |JOV¡NOVICS MIL¡N                        |
-02|234|5| 10|  7|    |P¡VICS J¡NOS                            |
+02|234|4| 13|  1|    |OTT√ì KRISZTI√ÅN OTT√ì                     |
+02|234|5|  7|  3|    |JOV√ÅNOVICS MIL√ÅN                        |
+02|234|5| 10|  7|    |P√ÅVICS J√ÅNOS                            |
 02|263|4|  1|  1|    |EGYED LAJOS                             |
-02|263|4|  3|  1|    |N…METH J”ZSEF                           |
-02|263|4|  5|  1|    |CSURG” K¡LM¡N                           |
+02|263|4|  3|  1|    |N√âMETH J√ìZSEF                           |
+02|263|4|  5|  1|    |CSURG√ì K√ÅLM√ÅN                           |
 02|263|4|  7|  2|    |PICHLER IMRE                            |
-02|263|4|  7|  3|DR. |TUSN¡DI TAM¡S                           |
+02|263|4|  7|  3|DR. |TUSN√ÅDI TAM√ÅS                           |
 02|263|4|  7|  4|    |GAGYI FERENC                            |
-02|263|4|  9|  2|    |GR¡F J”ZSEF                             |
-02|263|5|  4|  1|    |G¡L J”ZSEF                              |
-03|004|4|  1|  1|    |ZSIG” R”BERT                            |
-03|004|4|  1|  2|    |FERCS¡K R”BERT                          |
-03|004|4|  1|  4|    |B¡N B…LA                                |
-03|004|4|  1|  3|    |VIZIN TAM¡S                             |
-03|004|4|  2|  1|    |F¡BI¡N S¡NDOR                           |
-03|004|4|  3|  1|D.  |SZAB” JEN’                              |
-03|004|4|  4|  2|    |BRACHINGER TAM¡S                        |
-03|004|4|  4|  3|    |S÷R÷S L¡SZL”                            |
-03|004|4|  7|  3|    |K÷TELES ILONA                           |
-03|004|5|  9|  3|DR. |V¡CITY J¡NOS                            |
-03|004|5| 12|  1|    |GLASENHARDT J¡NOS                       |
+02|263|4|  9|  2|    |GR√ÅF J√ìZSEF                             |
+02|263|5|  4|  1|    |G√ÅL J√ìZSEF                              |
+03|004|4|  1|  1|    |ZSIG√ì R√ìBERT                            |
+03|004|4|  1|  2|    |FERCS√ÅK R√ìBERT                          |
+03|004|4|  1|  4|    |B√ÅN B√âLA                                |
+03|004|4|  1|  3|    |VIZIN TAM√ÅS                             |
+03|004|4|  2|  1|    |F√ÅBI√ÅN S√ÅNDOR                           |
+03|004|4|  3|  1|D.  |SZAB√ì JEN≈ê                              |
+03|004|4|  4|  2|    |BRACHINGER TAM√ÅS                        |
+03|004|4|  4|  3|    |S√ñR√ñS L√ÅSZL√ì                            |
+03|004|4|  7|  3|    |K√ñTELES ILONA                           |
+03|004|5|  9|  3|DR. |V√ÅCITY J√ÅNOS                            |
+03|004|5| 12|  1|    |GLASENHARDT J√ÅNOS                       |
 03|004|5| 14|  7|    |MIRK SZABOLCS                           |
-03|054|4|  1|  1|    |KISS GY÷RGY                             |
-03|054|4|  2|  3|    |VARGA KRISZTI¡N                         |
-03|054|4|  3|  1|    |KASZIBA S¡NDOR                          |
-03|054|4|  5|  1|    |BOGN¡R M”NIKA                           |
-03|054|4|  5|  2|    |HUGYI MIH¡LY                            |
-03|054|4|  6|  2|    |KOLL¡R ISTV¡N                           |
-03|054|4|  6|  3|    |MIK” M¡RIA IBOLYA                       |
-03|054|5|  4|  3|    |KOLOMP¡R L¡SZL”                         |
-03|056|4|  1|  2|    |KAPIT¡NY ISTV¡N                         |
-03|056|4|  1|  3|    |KAPIT¡NY JULIANNA                       |
+03|054|4|  1|  1|    |KISS GY√ñRGY                             |
+03|054|4|  2|  3|    |VARGA KRISZTI√ÅN                         |
+03|054|4|  3|  1|    |KASZIBA S√ÅNDOR                          |
+03|054|4|  5|  1|    |BOGN√ÅR M√ìNIKA                           |
+03|054|4|  5|  2|    |HUGYI MIH√ÅLY                            |
+03|054|4|  6|  2|    |KOLL√ÅR ISTV√ÅN                           |
+03|054|4|  6|  3|    |MIK√ì M√ÅRIA IBOLYA                       |
+03|054|5|  4|  3|    |KOLOMP√ÅR L√ÅSZL√ì                         |
+03|056|4|  1|  2|    |KAPIT√ÅNY ISTV√ÅN                         |
+03|056|4|  1|  3|    |KAPIT√ÅNY JULIANNA                       |
 03|056|4|  5|  1|    |FARKAS GERGELY                          |
-03|056|4|  5|  2|    |T⁄RI TIBOR                              |
-03|056|4|  5|  3|    |M¡CSAI FERENCN…                         |
-03|056|4|  6|  1|    |PIRISI J¡NOS                            |
-03|056|4|  9|  3|    |LAKATOS L¡SZL”                          |
-03|056|5|  4|  4|    |VID¡K ISTV¡N                            |
+03|056|4|  5|  2|    |T√öRI TIBOR                              |
+03|056|4|  5|  3|    |M√ÅCSAI FERENCN√â                         |
+03|056|4|  6|  1|    |PIRISI J√ÅNOS                            |
+03|056|4|  9|  3|    |LAKATOS L√ÅSZL√ì                          |
+03|056|5|  4|  4|    |VID√ÅK ISTV√ÅN                            |
 03|056|5|  7|  1|    |ANGELI GABRIELLA                        |
-03|060|4|  1|  1|DR. |BR⁄SZEL L¡SZL”                          |
-03|060|4|  1|  3|    |FARKAS J”ZSEFN…                         |
-03|060|4|  1|  7|    |KULLAI TAM¡S                            |
-03|060|4|  1|  5|    |MOLN¡R TIBOR                            |
-03|060|4|  3|  1|    |KATONA L¡SZL”                           |
-03|060|4|  6|  1|DR. |SZAB” ATTILA                            |
-03|060|4|  6|  2|    |SZEITZ P…TER                            |
-03|060|4|  7|  5|    |MOLN¡R JUDIT M¡RIA                      |
-03|060|4|  7|  7|    |J¡NOSI ISTV¡N                           |
-03|060|4|  8|  1|DR. |G¡L J¡NOS                               |
-03|060|4|  9|  1|    |HET…NYI ISTV¡N                          |
-03|060|4| 10|  1|DR. |ADORJ¡N MIH¡LY                          |
-03|060|4| 10|  2|DR. |M¡RTON ZOLT¡N                           |
-03|064|4|  6|  1|    |SUHAJDA J¡NOSN…                         |
-03|064|4|  9|  1|    |RIDEG L¡SZL” K¡LM¡N                     |
-03|064|4| 10|  1|    |DOMBOV¡RI L¡SZL” TAM¡S                  |
+03|060|4|  1|  1|DR. |BR√öSZEL L√ÅSZL√ì                          |
+03|060|4|  1|  3|    |FARKAS J√ìZSEFN√â                         |
+03|060|4|  1|  7|    |KULLAI TAM√ÅS                            |
+03|060|4|  1|  5|    |MOLN√ÅR TIBOR                            |
+03|060|4|  3|  1|    |KATONA L√ÅSZL√ì                           |
+03|060|4|  6|  1|DR. |SZAB√ì ATTILA                            |
+03|060|4|  6|  2|    |SZEITZ P√âTER                            |
+03|060|4|  7|  5|    |MOLN√ÅR JUDIT M√ÅRIA                      |
+03|060|4|  7|  7|    |J√ÅNOSI ISTV√ÅN                           |
+03|060|4|  8|  1|DR. |G√ÅL J√ÅNOS                               |
+03|060|4|  9|  1|    |HET√âNYI ISTV√ÅN                          |
+03|060|4| 10|  1|DR. |ADORJ√ÅN MIH√ÅLY                          |
+03|060|4| 10|  2|DR. |M√ÅRTON ZOLT√ÅN                           |
+03|064|4|  6|  1|    |SUHAJDA J√ÅNOSN√â                         |
+03|064|4|  9|  1|    |RIDEG L√ÅSZL√ì K√ÅLM√ÅN                     |
+03|064|4| 10|  1|    |DOMBOV√ÅRI L√ÅSZL√ì TAM√ÅS                  |
 03|064|4| 11|  4|    |HIRSCH IMRE                             |
-03|064|4| 12|  1|    |MATUSIK ISTV¡N                          |
-03|064|4| 13|  1|    |MAJOR J”ZSEF                            |
-03|064|4| 14|  2|    |SZENTP…TERI ATTILA                      |
-03|064|5|  2|  2|    |KUDRON N¡NDOR CSABA                     |
-03|064|5|  3|  1|    |GMOSER GY÷RGYN…                         |
-03|064|5|  5|  9|    |SZTOJKA L¡SZL”                          |
-03|065|4|  1|  1|    |KISSN… KOV¡CS ILONA                     |
-03|065|4|  1|  5|DR. |HORV¡TH ALAJOS                          |
-03|065|4|  1|  2|    |PATAKI ISTV¡N                           |
-03|065|4|  1|  3|    |J¡SZBER…NYI L¡SZL”                      |
-03|065|4|  4|  1|    |VIDA P¡L                                |
-03|065|4|  4|  2|    |SZAB” L¡SZL”                            |
+03|064|4| 12|  1|    |MATUSIK ISTV√ÅN                          |
+03|064|4| 13|  1|    |MAJOR J√ìZSEF                            |
+03|064|4| 14|  2|    |SZENTP√âTERI ATTILA                      |
+03|064|5|  2|  2|    |KUDRON N√ÅNDOR CSABA                     |
+03|064|5|  3|  1|    |GMOSER GY√ñRGYN√â                         |
+03|064|5|  5|  9|    |SZTOJKA L√ÅSZL√ì                          |
+03|065|4|  1|  1|    |KISSN√â KOV√ÅCS ILONA                     |
+03|065|4|  1|  5|DR. |HORV√ÅTH ALAJOS                          |
+03|065|4|  1|  2|    |PATAKI ISTV√ÅN                           |
+03|065|4|  1|  3|    |J√ÅSZBER√âNYI L√ÅSZL√ì                      |
+03|065|4|  4|  1|    |VIDA P√ÅL                                |
+03|065|4|  4|  2|    |SZAB√ì L√ÅSZL√ì                            |
 03|065|4|  5|  6|    |SERES FERENC                            |
-03|065|4|  5|  7|    |BOZ” LAJOS                              |
-03|065|4|  7|  1|    |KISS K¡LM¡N TIBOR                       |
-03|065|5|  6|  3|    |PIROSKA G¡BOR                           |
-03|066|4|  2|  2|    |T”TH ZOLT¡N                             |
-03|066|4|  2|  3|    |HORV¡TH MIH¡LY                          |
-03|066|4|  2|  4|DR. |KECSK…S ISTV¡N J¡NOS                    |
-03|066|4|  3|  3|    |VENCZEL J”ZSEF                          |
-03|066|4|  5|  1|DR. |NAGY ANDR¡S P…TER                       |
-03|066|4|  5|  4|    |BEZD¡N J”ZSEF                           |
-03|066|4|  5|  3|    |KOLCS¡R ZOLT¡N                          |
-03|066|4|  5|  2|DR. |HORV¡TH L¡SZL”                          |
-03|066|4|  7|  1|    |MOLN¡R FERENC                           |
-03|066|5|  1|  4|    |ROST¡S L¡SZL”                           |
-03|066|5|  6|  5|DR. |SCHINDLER ¡RP¡D                         |
-03|067|4|  2|  1|    |T¡RAI …VA                               |
-03|067|4|  3|  1|    |D”SAI IMRE                              |
-03|067|4|  3|  3|    |FARKAS ZOLT¡N                           |
-03|067|4|  3|  2|    |TERBE ZOLT¡N                            |
-03|067|4|  5|  2|DR. |SZAB” LAJOS                             |
-03|067|4|  6|  1|    |KISS K¡ROLY                             |
+03|065|4|  5|  7|    |BOZ√ì LAJOS                              |
+03|065|4|  7|  1|    |KISS K√ÅLM√ÅN TIBOR                       |
+03|065|5|  6|  3|    |PIROSKA G√ÅBOR                           |
+03|066|4|  2|  2|    |T√ìTH ZOLT√ÅN                             |
+03|066|4|  2|  3|    |HORV√ÅTH MIH√ÅLY                          |
+03|066|4|  2|  4|DR. |KECSK√âS ISTV√ÅN J√ÅNOS                    |
+03|066|4|  3|  3|    |VENCZEL J√ìZSEF                          |
+03|066|4|  5|  1|DR. |NAGY ANDR√ÅS P√âTER                       |
+03|066|4|  5|  4|    |BEZD√ÅN J√ìZSEF                           |
+03|066|4|  5|  3|    |KOLCS√ÅR ZOLT√ÅN                          |
+03|066|4|  5|  2|DR. |HORV√ÅTH L√ÅSZL√ì                          |
+03|066|4|  7|  1|    |MOLN√ÅR FERENC                           |
+03|066|5|  1|  4|    |ROST√ÅS L√ÅSZL√ì                           |
+03|066|5|  6|  5|DR. |SCHINDLER √ÅRP√ÅD                         |
+03|067|4|  2|  1|    |T√ÅRAI √âVA                               |
+03|067|4|  3|  1|    |D√ìSAI IMRE                              |
+03|067|4|  3|  3|    |FARKAS ZOLT√ÅN                           |
+03|067|4|  3|  2|    |TERBE ZOLT√ÅN                            |
+03|067|4|  5|  2|DR. |SZAB√ì LAJOS                             |
+03|067|4|  6|  1|    |KISS K√ÅROLY                             |
 03|067|4|  6|  4|    |KISS ENDRE                              |
-03|067|5|  1|  4|    |KOLOMP¡R ORB¡N                          |
+03|067|5|  1|  4|    |KOLOMP√ÅR ORB√ÅN                          |
 03|078|4|  1|  1|    |MARTON FERENC                           |
-03|078|4|  2|  1|    |ZSIKLA B…L¡N…                           |
-03|078|4|  4|  1|    |KISJUH¡SZ J”ZSEF                        |
-03|078|4|  4|  2|    |APR” FERENC                             |
-03|078|4|  5|  1|DR. |¡D¡M P¡L                                |
-03|078|4|  6|  1|DR. |CSER…NYI P…TERN…                        |
-03|078|4|  7|  1|    |SILEK L¡SZL”                            |
-03|111|4|  1|  1|    |KOSIK MIKL”S                            |
-03|111|4|  3|  1|    |KOV¡CS MIKL”S                           |
-03|111|4|  5|  2|    |POLY¡K ALBERT                           |
-03|111|4|  5|  3|    |BERECZ J¡NOS                            |
-03|111|4|  8|  1|    |BAJI MIH¡LY                             |
+03|078|4|  2|  1|    |ZSIKLA B√âL√ÅN√â                           |
+03|078|4|  4|  1|    |KISJUH√ÅSZ J√ìZSEF                        |
+03|078|4|  4|  2|    |APR√ì FERENC                             |
+03|078|4|  5|  1|DR. |√ÅD√ÅM P√ÅL                                |
+03|078|4|  6|  1|DR. |CSER√âNYI P√âTERN√â                        |
+03|078|4|  7|  1|    |SILEK L√ÅSZL√ì                            |
+03|111|4|  1|  1|    |KOSIK MIKL√ìS                            |
+03|111|4|  3|  1|    |KOV√ÅCS MIKL√ìS                           |
+03|111|4|  5|  2|    |POLY√ÅK ALBERT                           |
+03|111|4|  5|  3|    |BERECZ J√ÅNOS                            |
+03|111|4|  8|  1|    |BAJI MIH√ÅLY                             |
 03|111|4|  8|  2|    |CSERNUS FERENC                          |
-03|111|4|  8|  3|    |T”TH ¡D¡M P¡L                           |
-04|003|4|  1|  1|    |ERD’S NORBERT                           |
-04|003|4|  1|  2|    |H.KOV¡CS JUDIT                          |
+03|111|4|  8|  3|    |T√ìTH √ÅD√ÅM P√ÅL                           |
+04|003|4|  1|  1|    |ERD≈êS NORBERT                           |
+04|003|4|  1|  2|    |H.KOV√ÅCS JUDIT                          |
 04|003|4|  3|  1|    |BELLELI LAJOS                           |
-04|003|4|  3|  2|DR. |P¡SZTOR GYULA                           |
-04|003|4|  9|  2|    |BAUK” J”ZSEF                            |
-04|003|4|  9|  6|DR. |R¡CZ L¡SZL”                             |
-04|003|4|  9|  7|    |BOND¡R G¡BOR                            |
-04|003|5|  7|  2|    |¡S”S TIBOR                              |
-04|004|4|  2|  2|    |VELKEY G¡BOR                            |
-04|004|4|  2|  3|    |V¡MOS J”ZSEF                            |
-04|004|4|  2|  4|    |KLAMPECZKI B…LA                         |
-04|004|4|  2|  5|DR. |FUTAKI G…ZA                             |
-04|004|4|  5|  1|    |HAN” MIKL”S                             |
-04|004|4| 10|  1|    |V…GH L¡SZL”                             |
-04|004|4| 10|  2|    |K÷LES ISTV¡N                            |
-04|004|4| 10|  6|    |KONDACS P¡L                             |
+04|003|4|  3|  2|DR. |P√ÅSZTOR GYULA                           |
+04|003|4|  9|  2|    |BAUK√ì J√ìZSEF                            |
+04|003|4|  9|  6|DR. |R√ÅCZ L√ÅSZL√ì                             |
+04|003|4|  9|  7|    |BOND√ÅR G√ÅBOR                            |
+04|003|5|  7|  2|    |√ÅS√ìS TIBOR                              |
+04|004|4|  2|  2|    |VELKEY G√ÅBOR                            |
+04|004|4|  2|  3|    |V√ÅMOS J√ìZSEF                            |
+04|004|4|  2|  4|    |KLAMPECZKI B√âLA                         |
+04|004|4|  2|  5|DR. |FUTAKI G√âZA                             |
+04|004|4|  5|  1|    |HAN√ì MIKL√ìS                             |
+04|004|4| 10|  1|    |V√âGH L√ÅSZL√ì                             |
+04|004|4| 10|  2|    |K√ñLES ISTV√ÅN                            |
+04|004|4| 10|  6|    |KONDACS P√ÅL                             |
 04|004|4| 10|  7|DR. |FERENCZI ATTILA                         |
 04|004|4| 10|  5|    |KISS TIBOR                              |
-04|004|4| 10|  3|    |TAK¡CS P…TER                            |
-04|004|5|  1|  3|    |KUTYEJ P¡L                              |
-04|025|4|  2|  1|    |DEZS’ ZOLT¡N                            |
-04|025|4|  3|  1|    |JENEI B¡LINT                            |
-04|025|4|  4|  1|DR. |KOV¡CS B…LA                             |
+04|004|4| 10|  3|    |TAK√ÅCS P√âTER                            |
+04|004|5|  1|  3|    |KUTYEJ P√ÅL                              |
+04|025|4|  2|  1|    |DEZS≈ê ZOLT√ÅN                            |
+04|025|4|  3|  1|    |JENEI B√ÅLINT                            |
+04|025|4|  4|  1|DR. |KOV√ÅCS B√âLA                             |
 04|025|4|  4|  2|    |KATONA LAJOS                            |
-04|025|4|  4|  3|    |BABOS L¡SZL”                            |
-04|025|4|  5|  2|    |CSÕKN… TÕM¡R …VA                        |
-04|025|4|  7|  1|    |TÕM¡RN… KOZMA ¡GNES                     |
-04|025|5|  6|  1|IFJ.|D”GI J¡NOS                              |
-04|026|4|  2|  1|    |BESZTERCZEY L¡SZL”                      |
-04|026|4|  3|  1|    |JUH¡SZ J¡NOS                            |
-04|026|4|  3|  2|DR. |BART”KI L¡SZL”                          |
-04|026|4|  6|  1|    |CS…F¡N LAJOS                            |
-04|026|4|  7|  1|DR. |SZELEZS¡N R”BERT                        |
-04|026|4|  7|  4|    |GALB¡CS MIH¡LY                          |
+04|025|4|  4|  3|    |BABOS L√ÅSZL√ì                            |
+04|025|4|  5|  2|    |CS√çKN√â T√çM√ÅR √âVA                        |
+04|025|4|  7|  1|    |T√çM√ÅRN√â KOZMA √ÅGNES                     |
+04|025|5|  6|  1|IFJ.|D√ìGI J√ÅNOS                              |
+04|026|4|  2|  1|    |BESZTERCZEY L√ÅSZL√ì                      |
+04|026|4|  3|  1|    |JUH√ÅSZ J√ÅNOS                            |
+04|026|4|  3|  2|DR. |BART√ìKI L√ÅSZL√ì                          |
+04|026|4|  6|  1|    |CS√âF√ÅN LAJOS                            |
+04|026|4|  7|  1|DR. |SZELEZS√ÅN R√ìBERT                        |
+04|026|4|  7|  4|    |GALB√ÅCS MIH√ÅLY                          |
 04|026|4| 11|  1|    |JALECZ LAJOS                            |
-04|026|4| 12|  1|    |S¡NTA L¡SZL”                            |
-04|026|4| 12|  2|    |SZAB” JEN’                              |
-04|026|5|  9|  4|    |OROJ¡N ISTV¡N                           |
-04|026|5| 13|  2|    |KNEIFEL IR…N                            |
-04|049|4|  1|  1|    |SIKL”SI ISTV¡N                          |
-04|049|4|  1|  2|    |B¡LINT ANNA                             |
-04|049|4|  4|  1|    |HOFFMANN D¡NIEL                         |
-04|049|4|  4|  2|    |HAL¡SZ J”ZSEF                           |
-04|049|4|  5|  4|    |B¡TOVSZKY G¡BOR                         |
-04|049|4|  6|  1|    |VALENTINYI K¡ROLY                       |
-04|049|4|  7|  1|DR. |ANDOR L¡SZL”                            |
-04|049|5|  3|  3|    |WAGNER J”ZSEF                           |
+04|026|4| 12|  1|    |S√ÅNTA L√ÅSZL√ì                            |
+04|026|4| 12|  2|    |SZAB√ì JEN≈ê                              |
+04|026|5|  9|  4|    |OROJ√ÅN ISTV√ÅN                           |
+04|026|5| 13|  2|    |KNEIFEL IR√âN                            |
+04|049|4|  1|  1|    |SIKL√ìSI ISTV√ÅN                          |
+04|049|4|  1|  2|    |B√ÅLINT ANNA                             |
+04|049|4|  4|  1|    |HOFFMANN D√ÅNIEL                         |
+04|049|4|  4|  2|    |HAL√ÅSZ J√ìZSEF                           |
+04|049|4|  5|  4|    |B√ÅTOVSZKY G√ÅBOR                         |
+04|049|4|  6|  1|    |VALENTINYI K√ÅROLY                       |
+04|049|4|  7|  1|DR. |ANDOR L√ÅSZL√ì                            |
+04|049|5|  3|  3|    |WAGNER J√ìZSEF                           |
 04|049|5|  8|  3|    |MEZEI TIBOR                             |
-04|059|4|  1|  1|    |FEH…R B…L¡N…                            |
-04|059|4|  2|  1|    |KOV¡CS LAJOS GY÷RGY                     |
-04|059|4|  3|  1|DR. |DANCS” J”ZSEF                           |
-04|059|4|  3|  4|IFJ.|ZALAI MIH¡LY                            |
-04|059|4|  3|  7|    |GY’RI-DANI J”ZSEF                       |
-04|059|4|  3|  6|DR. |KALM¡R MIH¡LY                           |
+04|059|4|  1|  1|    |FEH√âR B√âL√ÅN√â                            |
+04|059|4|  2|  1|    |KOV√ÅCS LAJOS GY√ñRGY                     |
+04|059|4|  3|  1|DR. |DANCS√ì J√ìZSEF                           |
+04|059|4|  3|  4|IFJ.|ZALAI MIH√ÅLY                            |
+04|059|4|  3|  7|    |GY≈êRI-DANI J√ìZSEF                       |
+04|059|4|  3|  6|DR. |KALM√ÅR MIH√ÅLY                           |
 04|059|4|  3|  3|    |VOLENCSIK ZSOLT                         |
-04|059|4|  6|  3|    |KISS J¡NOS                              |
-04|059|4|  6|  4|    |JUSZTIN BAL¡ZS                          |
-04|063|4|  4|  1|DR. |VASS GY÷RGY                             |
+04|059|4|  6|  3|    |KISS J√ÅNOS                              |
+04|059|4|  6|  4|    |JUSZTIN BAL√ÅZS                          |
+04|063|4|  4|  1|DR. |VASS GY√ñRGY                             |
 04|063|4|  4|  2|    |SIMON LAJOS                             |
-04|063|4|  5|  1|    |B¡LINT TIVADAR                          |
-04|063|4|  5|  2|    |PUSK¡S LAJOS                            |
-04|063|4|  5|  3|    |NAGY J”ZSEF                             |
-04|063|4|  5|  4|DR. |T”TH ISTV¡N                             |
-04|063|4|  5|  5|    |B…HR ATTILA ELEK                        |
-04|063|5|  3|  5|    |OL¡H K¡ROLYN…                           |
-04|066|4|  4|  1|DR. |DEMETER L¡SZL”                          |
-04|066|4|  6|  1|    |KOV¡CS M¡TY¡S                           |
-04|066|4|  7|  1|    |F÷LDESI ZOLT¡N                          |
-04|066|4|  7|  2|    |KOZ¡K IMR…N…                            |
-04|066|4|  7|  4|DR. |BAGI L¡SZL”                             |
-04|066|4|  7|  3|    |SONKOLYN… SZEKERCZ…S MARGIT             |
-04|066|4|  8|  1|    |TUSJAK TAM¡S                            |
-04|066|5|  2|  1|    |Z¡VODA FERENC                           |
-04|067|4|  1|  3|    |P¡KOZDI G¡BOR                           |
-04|067|4|  2|  1|DR. |FARKAS J”ZSEF                           |
+04|063|4|  5|  1|    |B√ÅLINT TIVADAR                          |
+04|063|4|  5|  2|    |PUSK√ÅS LAJOS                            |
+04|063|4|  5|  3|    |NAGY J√ìZSEF                             |
+04|063|4|  5|  4|DR. |T√ìTH ISTV√ÅN                             |
+04|063|4|  5|  5|    |B√âHR ATTILA ELEK                        |
+04|063|5|  3|  5|    |OL√ÅH K√ÅROLYN√â                           |
+04|066|4|  4|  1|DR. |DEMETER L√ÅSZL√ì                          |
+04|066|4|  6|  1|    |KOV√ÅCS M√ÅTY√ÅS                           |
+04|066|4|  7|  1|    |F√ñLDESI ZOLT√ÅN                          |
+04|066|4|  7|  2|    |KOZ√ÅK IMR√âN√â                            |
+04|066|4|  7|  4|DR. |BAGI L√ÅSZL√ì                             |
+04|066|4|  7|  3|    |SONKOLYN√â SZEKERCZ√âS MARGIT             |
+04|066|4|  8|  1|    |TUSJAK TAM√ÅS                            |
+04|066|5|  2|  1|    |Z√ÅVODA FERENC                           |
+04|067|4|  1|  3|    |P√ÅKOZDI G√ÅBOR                           |
+04|067|4|  2|  1|DR. |FARKAS J√ìZSEF                           |
 04|067|4|  2|  2|    |EITLER GOTTFRIED                        |
-04|067|4|  5|  2|    |GAJDA MIH¡LY                            |
-04|067|4|  5|  5|    |T÷R÷K S¡NDORN…                          |
-04|067|4|  5|  6|    |AMBRUSN… HEGYESI M¡RIA                  |
+04|067|4|  5|  2|    |GAJDA MIH√ÅLY                            |
+04|067|4|  5|  5|    |T√ñR√ñK S√ÅNDORN√â                          |
+04|067|4|  5|  6|    |AMBRUSN√â HEGYESI M√ÅRIA                  |
 04|067|4|  5|  4|    |MESTER CSABA                            |
-04|067|5|  3|  1|    |BACS” IMRE                              |
-05|075|4|  1|  1|    |LUK¡CS ANDR¡S                           |
-05|075|4|  1|  3|    |TOMA ISTV¡N                             |
-05|075|4|  1|  4|    |DOBI ZOLT¡N                             |
+04|067|5|  3|  1|    |BACS√ì IMRE                              |
+05|075|4|  1|  1|    |LUK√ÅCS ANDR√ÅS                           |
+05|075|4|  1|  3|    |TOMA ISTV√ÅN                             |
+05|075|4|  1|  4|    |DOBI ZOLT√ÅN                             |
 05|075|4|  1|  2|    |VARGA FERENC                            |
-05|075|4|  2|  3|    |KISS ANDR¡S                             |
+05|075|4|  2|  3|    |KISS ANDR√ÅS                             |
 05|075|4|  2|  5|DR. |DAHER PIERRE                            |
 05|075|4|  4|  1|    |NAGY ATTILA                             |
-05|075|5|  7|  3|    |K”TAI J”ZSEF                            |
-05|153|4|  4|  1|    |P…TERV¡RI GY÷RGY                        |
-05|153|4|  4|  2|    |B…RES L¡SZL” ANTAL                      |
+05|075|5|  7|  3|    |K√ìTAI J√ìZSEF                            |
+05|153|4|  4|  1|    |P√âTERV√ÅRI GY√ñRGY                        |
+05|153|4|  4|  2|    |B√âRES L√ÅSZL√ì ANTAL                      |
 05|153|4|  5|  1|    |BARNA IMRE                              |
-05|153|4|  5|  2|    |B¡N”CZI ZOLT¡N                          |
-05|153|4|  6|  1|    |JUH¡SZ IMRE                             |
-05|153|4|  6|  2|DR. |TRENCS…NYI ERZS…BET                     |
-05|153|4|  6|  3|IFJ.|PENTE L¡SZL”                            |
-05|153|4|  7|  2|    |VATTAY J”ZSEF                           |
-05|153|4|  7|  3|    |BULLA GUSZT¡V                           |
-05|153|5|  8|  1|    |D¡NYI GYUL¡N…                           |
+05|153|4|  5|  2|    |B√ÅN√ìCZI ZOLT√ÅN                          |
+05|153|4|  6|  1|    |JUH√ÅSZ IMRE                             |
+05|153|4|  6|  2|DR. |TRENCS√âNYI ERZS√âBET                     |
+05|153|4|  6|  3|IFJ.|PENTE L√ÅSZL√ì                            |
+05|153|4|  7|  2|    |VATTAY J√ìZSEF                           |
+05|153|4|  7|  3|    |BULLA GUSZT√ÅV                           |
+05|153|5|  8|  1|    |D√ÅNYI GYUL√ÅN√â                           |
 05|196|4|  2|  1|    |SEBE IMRE                               |
-05|196|4|  3|  1|    |V¡MOS ZOLT¡N CSABA                      |
-05|196|4|  3|  3|    |PAPP P…TER                              |
+05|196|4|  3|  1|    |V√ÅMOS ZOLT√ÅN CSABA                      |
+05|196|4|  3|  3|    |PAPP P√âTER                              |
 05|196|4|  3|  4|    |CSIGER LAJOS                            |
 05|196|4|  4|  1|DR. |HALMAI GYULA                            |
-05|196|4|  4|  3|    |NYESTE J¡NOS                            |
-05|196|4|  4|  4|    |GUTI ¡RP¡D                              |
-05|196|5|  1|  2|    |FARKAS F…LIX                            |
-05|202|4|  2|  3|    |KOV¡CS J”ZSEFN…                         |
-05|202|4|  2|  4|    |FEITH K¡ROLY                            |
-05|202|4|  3|  1|    |HUBAY GY÷RGY                            |
-05|202|4|  4|  1|    |KOBOLD TAM¡S                            |
+05|196|4|  4|  3|    |NYESTE J√ÅNOS                            |
+05|196|4|  4|  4|    |GUTI √ÅRP√ÅD                              |
+05|196|5|  1|  2|    |FARKAS F√âLIX                            |
+05|202|4|  2|  3|    |KOV√ÅCS J√ìZSEFN√â                         |
+05|202|4|  2|  4|    |FEITH K√ÅROLY                            |
+05|202|4|  3|  1|    |HUBAY GY√ñRGY                            |
+05|202|4|  4|  1|    |KOBOLD TAM√ÅS                            |
 05|202|4|  4|  3|    |LUDNIK FERENC                           |
-05|202|4|  4|  2|    |‹VEGES LAJOS                            |
-05|202|4|  7|  1|    |PELCZN… DR. G¡LL ILDIK”                 |
-05|202|4|  7|  2|    |JUGA GY÷RGY                             |
-05|202|4|  7|  3|    |HALMAI ISTV¡N                           |
-05|202|4|  7|  5|DR. |R…P¡SSY R”BERT                          |
-05|202|4|  7|  7|DR. |H¡RT” GY÷RGY                            |
-05|202|4|  7|  9|    |‹SZ÷GH LAJOS                            |
+05|202|4|  4|  2|    |√úVEGES LAJOS                            |
+05|202|4|  7|  1|    |PELCZN√â DR. G√ÅLL ILDIK√ì                 |
+05|202|4|  7|  2|    |JUGA GY√ñRGY                             |
+05|202|4|  7|  3|    |HALMAI ISTV√ÅN                           |
+05|202|4|  7|  5|DR. |R√âP√ÅSSY R√ìBERT                          |
+05|202|4|  7|  7|DR. |H√ÅRT√ì GY√ñRGY                            |
+05|202|4|  7|  9|    |√úSZ√ñGH LAJOS                            |
 05|202|4|  7| 11|DR. |SZINAY ATTILA                           |
-05|202|4|  7| 10|DR. |KOV¡CS L¡SZL”                           |
-05|202|4|  7|  8|    |K¡DAS MIH¡LY                            |
-05|202|4|  7|  6|    |LEN¡RTEK ANDR¡S                         |
+05|202|4|  7| 10|DR. |KOV√ÅCS L√ÅSZL√ì                           |
+05|202|4|  7|  8|    |K√ÅDAS MIH√ÅLY                            |
+05|202|4|  7|  6|    |LEN√ÅRTEK ANDR√ÅS                         |
 05|202|4|  7|  4|    |TAVASZI ZSOLT                           |
-05|202|4| 10|  1|    |BAL¡ZSI TIBOR                           |
-05|202|5|  8|  2|    |HORV¡TH ATTILA                          |
-05|202|5| 14|  2|    |W¡GNER R”BERT                           |
-05|226|4|  1|  1|    |HAL¡SZN… BERECZ T‹NDE                   |
+05|202|4| 10|  1|    |BAL√ÅZSI TIBOR                           |
+05|202|5|  8|  2|    |HORV√ÅTH ATTILA                          |
+05|202|5| 14|  2|    |W√ÅGNER R√ìBERT                           |
+05|226|4|  1|  1|    |HAL√ÅSZN√â BERECZ T√úNDE                   |
 05|226|4|  2|  1|DR. |HOROGH LAJOS                            |
-05|226|4|  3|  1|    |FILIPCSIN K¡ROLY                        |
-05|226|4|  4|  2|    |FAZEKAS ZOLT¡N ISTV¡N                   |
-05|226|4|  4|  4|    |BATTY¡NYI J”ZSEF                        |
-05|226|4|  9|  1|    |STROHMAYER L¡SZL”                       |
-05|226|4| 10|  1|    |RONT” J”ZSEF                            |
-05|226|4| 12|  4|    |KISS S¡NDOR                             |
-05|226|4| 12|  6|    |VARGA GY÷RGY                            |
+05|226|4|  3|  1|    |FILIPCSIN K√ÅROLY                        |
+05|226|4|  4|  2|    |FAZEKAS ZOLT√ÅN ISTV√ÅN                   |
+05|226|4|  4|  4|    |BATTY√ÅNYI J√ìZSEF                        |
+05|226|4|  9|  1|    |STROHMAYER L√ÅSZL√ì                       |
+05|226|4| 10|  1|    |RONT√ì J√ìZSEF                            |
+05|226|4| 12|  4|    |KISS S√ÅNDOR                             |
+05|226|4| 12|  6|    |VARGA GY√ñRGY                            |
 05|226|5|  7|  3|    |GALYAS BERTALAN                         |
-05|226|5|  8|  1|    |CHODKIEWICZ K¡ROLY                      |
-05|268|4|  1|  1|DR. |ZSÕROS S¡NDOR J”ZSEF                    |
-05|268|4|  2|  1|    |BUDAI ERZS…BET                          |
-05|268|4|  2|  2|    |SCHWAITZER J¡NOSN…                      |
+05|226|5|  8|  1|    |CHODKIEWICZ K√ÅROLY                      |
+05|268|4|  1|  1|DR. |ZS√çROS S√ÅNDOR J√ìZSEF                    |
+05|268|4|  2|  1|    |BUDAI ERZS√âBET                          |
+05|268|4|  2|  2|    |SCHWAITZER J√ÅNOSN√â                      |
 05|268|4|  4|  1|    |KOCSI TIBOR                             |
-05|268|4|  4|  2|    |FUCSK” J¡NOS ANDR¡S                     |
-05|268|4|  5|  1|DR. |FARAG” P…TER                            |
-05|268|4|  6|  1|    |SOLT…SZ IMRE ISTV¡N                     |
-05|268|5|  7|  2|    |RUSZ” GYUL¡N…                           |
-05|274|4|  1|  2|    |P…CSV¡RADY BOTOND ISTV¡N                |
-05|274|4|  2|  1|    |HUTKAIN… NOV¡K M¡RTA                    |
-05|274|4|  2|  2|    |LADOM…RSZKY L¡SZL” ISTV¡N               |
-05|274|4|  2|  3|DR. |MUHA MIKL”S                             |
-05|274|4|  3|  1|    |SAL¡TA L¡SZL” MIH¡LY                    |
-05|274|4|  4|  2|    |LIVJ¡K J”ZSEF                           |
-05|274|4|  5|  1|    |D…RY ZOLT¡N                             |
-05|274|5|  7|  5|    |BUDAI GYULA K¡ROLY                      |
-05|276|4|  1|  1|    |BET”NIA B…LA                            |
-05|276|4|  2|  1|    |V¡RKONYI J”ZSEF GYULA                   |
-05|276|4|  4|  1|    |LACZK” K¡ROLY                           |
-05|276|4|  6|  1|    |FAZEKAS L¡SZL”N…                        |
-05|276|4|  6|  3|    |JUH¡SZ ISTV¡N                           |
-05|276|4|  8|  3|    |LUK¡CS TAM¡S                            |
+05|268|4|  4|  2|    |FUCSK√ì J√ÅNOS ANDR√ÅS                     |
+05|268|4|  5|  1|DR. |FARAG√ì P√âTER                            |
+05|268|4|  6|  1|    |SOLT√âSZ IMRE ISTV√ÅN                     |
+05|268|5|  7|  2|    |RUSZ√ì GYUL√ÅN√â                           |
+05|274|4|  1|  2|    |P√âCSV√ÅRADY BOTOND ISTV√ÅN                |
+05|274|4|  2|  1|    |HUTKAIN√â NOV√ÅK M√ÅRTA                    |
+05|274|4|  2|  2|    |LADOM√âRSZKY L√ÅSZL√ì ISTV√ÅN               |
+05|274|4|  2|  3|DR. |MUHA MIKL√ìS                             |
+05|274|4|  3|  1|    |SAL√ÅTA L√ÅSZL√ì MIH√ÅLY                    |
+05|274|4|  4|  2|    |LIVJ√ÅK J√ìZSEF                           |
+05|274|4|  5|  1|    |D√âRY ZOLT√ÅN                             |
+05|274|5|  7|  5|    |BUDAI GYULA K√ÅROLY                      |
+05|276|4|  1|  1|    |BET√ìNIA B√âLA                            |
+05|276|4|  2|  1|    |V√ÅRKONYI J√ìZSEF GYULA                   |
+05|276|4|  4|  1|    |LACZK√ì K√ÅROLY                           |
+05|276|4|  6|  1|    |FAZEKAS L√ÅSZL√ìN√â                        |
+05|276|4|  6|  3|    |JUH√ÅSZ ISTV√ÅN                           |
+05|276|4|  8|  3|    |LUK√ÅCS TAM√ÅS                            |
 05|276|4|  8|  4|    |CSELEI ANDREA                           |
-05|276|5|  3|  1|    |BACSKAI MIKL”SN…                        |
-05|276|5|  5|  3|    |M¡RTON MIH¡LY                           |
-05|276|5|  7|  3|    |SOHAJDA P…TER                           |
-05|294|4|  2|  1|    |MAGDA G¡BOR                             |
-05|294|4|  2|  2|    |G¡L ANDR¡S                              |
-05|294|4|  4|  3|DR. |TAK¡CS ISTV¡N                           |
-05|294|4|  4|  5|    |MARTON P…TER                            |
+05|276|5|  3|  1|    |BACSKAI MIKL√ìSN√â                        |
+05|276|5|  5|  3|    |M√ÅRTON MIH√ÅLY                           |
+05|276|5|  7|  3|    |SOHAJDA P√âTER                           |
+05|294|4|  2|  1|    |MAGDA G√ÅBOR                             |
+05|294|4|  2|  2|    |G√ÅL ANDR√ÅS                              |
+05|294|4|  4|  3|DR. |TAK√ÅCS ISTV√ÅN                           |
+05|294|4|  4|  5|    |MARTON P√âTER                            |
 05|294|4|  5|  2|    |NYITRAI TIBOR                           |
-05|294|4|  5|  4|    |HEVES J¡NOS                             |
-05|294|4|  5|  6|    |CSEPPELY J¡NOS                          |
-05|326|4|  2|  1|    |STEINERN… VASV¡RI …VA                   |
-05|326|4|  2|  2|    |L¡Z¡R J”ZSEF                            |
-05|326|4|  4|  1|    |KISS B…LA                               |
-05|326|4|  5|  1|DR. |SZENTIRMAI K¡ROLY                       |
+05|294|4|  5|  4|    |HEVES J√ÅNOS                             |
+05|294|4|  5|  6|    |CSEPPELY J√ÅNOS                          |
+05|326|4|  2|  1|    |STEINERN√â VASV√ÅRI √âVA                   |
+05|326|4|  2|  2|    |L√ÅZ√ÅR J√ìZSEF                            |
+05|326|4|  4|  1|    |KISS B√âLA                               |
+05|326|4|  5|  1|DR. |SZENTIRMAI K√ÅROLY                       |
 05|326|4|  6|  2|    |OMAR SULEIMAN                           |
-05|326|4|  6|  3|    |KER…KGY¡RT” ISTV¡N                      |
-05|326|4|  7|  1|DR. |K…BEL ZSOLT                             |
-06|013|4|  1|  2|    |SARUSI-KIS J¡NOS                        |
-06|013|4|  1|  3|    |FEJ…R ZOLT¡N                            |
-06|013|4|  3|  5|    |KISS P…TER                              |
-06|013|4|  4|  1|DR. |NAGYMIH¡LY G¡BOR                        |
+05|326|4|  6|  3|    |KER√âKGY√ÅRT√ì ISTV√ÅN                      |
+05|326|4|  7|  1|DR. |K√âBEL ZSOLT                             |
+06|013|4|  1|  2|    |SARUSI-KIS J√ÅNOS                        |
+06|013|4|  1|  3|    |FEJ√âR ZOLT√ÅN                            |
+06|013|4|  3|  5|    |KISS P√âTER                              |
+06|013|4|  4|  1|DR. |NAGYMIH√ÅLY G√ÅBOR                        |
 06|013|4|  4|  2|DR. |GLAUBER ESZTER                          |
-06|013|4|  5|  2|    |ORMOS G¡BOR                             |
-06|013|4|  5|  3|DR. |TARR ¡GNES                              |
-06|024|4|  2|  1|DR. |K”SZ” P…TER                             |
-06|024|4|  2|  3|DR. |KULIK JEN’ ERVIN                        |
-06|024|4|  2|  2|DR. |GREZSA ISTV¡N                           |
-06|024|4|  3|  2|    |ALM¡SI ISTV¡N                           |
-06|024|4|  3|  5|DR. |HAMVAS ÷D÷N                             |
-06|024|4|  5|  1|DR. |HERN¡DI GYULA                           |
-06|024|4|  5|  5|    |SAMU ¡GOSTON                            |
-06|024|4|  5|  4|    |HAVR¡NEK FERENC                         |
-06|024|4|  5|  3|    |KISS L¡SZL”                             |
-06|024|5|  4|  1|    |CSANKI ISTV¡N                           |
+06|013|4|  5|  2|    |ORMOS G√ÅBOR                             |
+06|013|4|  5|  3|DR. |TARR √ÅGNES                              |
+06|024|4|  2|  1|DR. |K√ìSZ√ì P√âTER                             |
+06|024|4|  2|  3|DR. |KULIK JEN≈ê ERVIN                        |
+06|024|4|  2|  2|DR. |GREZSA ISTV√ÅN                           |
+06|024|4|  3|  2|    |ALM√ÅSI ISTV√ÅN                           |
+06|024|4|  3|  5|DR. |HAMVAS √ñD√ñN                             |
+06|024|4|  5|  1|DR. |HERN√ÅDI GYULA                           |
+06|024|4|  5|  5|    |SAMU √ÅGOSTON                            |
+06|024|4|  5|  4|    |HAVR√ÅNEK FERENC                         |
+06|024|4|  5|  3|    |KISS L√ÅSZL√ì                             |
+06|024|5|  4|  1|    |CSANKI ISTV√ÅN                           |
 06|032|4|  1|  2|    |NAGY LAJOS                              |
-06|032|4|  1|  4|    |MOLN¡R L¡SZL”                           |
-06|032|4|  1|  3|    |ORAVECZ K¡ROLY                          |
-06|032|4|  2|  1|    |KISS MIH¡LY                             |
-06|032|4|  2|  2|    |SZEKERES FERENCN…                       |
-06|032|4|  4|  1|    |SZAB” S¡NDOR                            |
-06|032|4|  4|  2|DR. |ORB¡N IMRE                              |
-06|032|4|  6|  2|    |HAJDU G¡BOR                             |
-06|032|4|  6|  3|    |MARTINUSZ L¡SZL”                        |
-06|051|4|  2|  1|    |SZ’LL’SI B…LA                           |
-06|051|4|  2|  3|    |FARKASN… POCSAI BLANKA ANDREA           |
-06|051|4|  2|  5|    |DOB” L¡SZL” G…ZA                        |
-06|051|4|  2|  8|DR. |M…CS L¡SZL”                             |
-06|051|4|  2| 13|    |KOH¡RI N¡NDOR                           |
-06|051|4|  2| 12|    |HINGL L¡SZL”                            |
-06|051|4|  2| 11|    |H€V÷S L¡SZL” ZOLT¡N                     |
-06|051|4|  2| 10|    |T÷R÷K CSABA                             |
-06|051|4|  2|  9|DR. |MOLN¡R ZOLT¡N                           |
-06|051|4|  2|  6|    |MAKRAI L¡SZL”                           |
-06|051|4|  2|  4|    |DR…GELYI ZOLT¡N J”ZSEF                  |
-06|051|4|  2|  2|DR. |V¡NYAI …VA                              |
+06|032|4|  1|  4|    |MOLN√ÅR L√ÅSZL√ì                           |
+06|032|4|  1|  3|    |ORAVECZ K√ÅROLY                          |
+06|032|4|  2|  1|    |KISS MIH√ÅLY                             |
+06|032|4|  2|  2|    |SZEKERES FERENCN√â                       |
+06|032|4|  4|  1|    |SZAB√ì S√ÅNDOR                            |
+06|032|4|  4|  2|DR. |ORB√ÅN IMRE                              |
+06|032|4|  6|  2|    |HAJDU G√ÅBOR                             |
+06|032|4|  6|  3|    |MARTINUSZ L√ÅSZL√ì                        |
+06|051|4|  2|  1|    |SZ≈êLL≈êSI B√âLA                           |
+06|051|4|  2|  3|    |FARKASN√â POCSAI BLANKA ANDREA           |
+06|051|4|  2|  5|    |DOB√ì L√ÅSZL√ì G√âZA                        |
+06|051|4|  2|  8|DR. |M√âCS L√ÅSZL√ì                             |
+06|051|4|  2| 13|    |KOH√ÅRI N√ÅNDOR                           |
+06|051|4|  2| 12|    |HINGL L√ÅSZL√ì                            |
+06|051|4|  2| 11|    |H≈∞V√ñS L√ÅSZL√ì ZOLT√ÅN                     |
+06|051|4|  2| 10|    |T√ñR√ñK CSABA                             |
+06|051|4|  2|  9|DR. |MOLN√ÅR ZOLT√ÅN                           |
+06|051|4|  2|  6|    |MAKRAI L√ÅSZL√ì                           |
+06|051|4|  2|  4|    |DR√âGELYI ZOLT√ÅN J√ìZSEF                  |
+06|051|4|  2|  2|DR. |V√ÅNYAI √âVA                              |
 06|051|4|  3|  1|    |BAKAI CSABA                             |
-06|051|4|  4|  1|DR. |CSAP” BAL¡ZS                            |
-06|051|4|  9|  1|    |APR” JUH¡SZ J¡NOS                       |
-06|051|4| 10|  1|DR. |KOZMA J”ZSEF L¡SZL”                     |
-06|051|4| 10|  2|DR. |SZENTGY÷RGYI P¡L                        |
-06|053|4|  4|  1|    |HALMAI L¡SZL”                           |
-06|053|4|  4|  4|DR. |R…BELI SZAB” TAM¡S                      |
-06|053|4|  4|  8|    |KARIK” T”TH TIBOR                       |
+06|051|4|  4|  1|DR. |CSAP√ì BAL√ÅZS                            |
+06|051|4|  9|  1|    |APR√ì JUH√ÅSZ J√ÅNOS                       |
+06|051|4| 10|  1|DR. |KOZMA J√ìZSEF L√ÅSZL√ì                     |
+06|051|4| 10|  2|DR. |SZENTGY√ñRGYI P√ÅL                        |
+06|053|4|  4|  1|    |HALMAI L√ÅSZL√ì                           |
+06|053|4|  4|  4|DR. |R√âBELI SZAB√ì TAM√ÅS                      |
+06|053|4|  4|  8|    |KARIK√ì T√ìTH TIBOR                       |
 06|053|4|  4|  7|    |LAKI CSABA                              |
-06|053|4|  4|  6|    |K¡LM¡N J¡NOS                            |
-06|053|4|  4|  5|DR. |D÷MS÷DI J”ZSEF                          |
-06|053|4|  4|  3|    |F…LEGYH¡ZI-T÷R÷KN… SOMOGYI …VA          |
-06|053|4|  4|  2|    |DONG” L¡SZL”                            |
+06|053|4|  4|  6|    |K√ÅLM√ÅN J√ÅNOS                            |
+06|053|4|  4|  5|DR. |D√ñMS√ñDI J√ìZSEF                          |
+06|053|4|  4|  3|    |F√âLEGYH√ÅZI-T√ñR√ñKN√â SOMOGYI √âVA          |
+06|053|4|  4|  2|    |DONG√ì L√ÅSZL√ì                            |
 06|053|4|  5|  1|DR. |SIPOS FERENC                            |
-07|013|4|  3|  1|    |HETLINGER ZOLT¡N                        |
-07|013|4|  3|  5|    |SZAK¡CS S¡NDOR                          |
+07|013|4|  3|  1|    |HETLINGER ZOLT√ÅN                        |
+07|013|4|  3|  5|    |SZAK√ÅCS S√ÅNDOR                          |
 07|013|4|  3|  4|DR. |VARGA FERENC                            |
-07|013|4|  3|  3|    |BENEDEK ISTV¡N                          |
-07|013|4|  4|  1|    |FORRAI TAM¡S                            |
+07|013|4|  3|  3|    |BENEDEK ISTV√ÅN                          |
+07|013|4|  4|  1|    |FORRAI TAM√ÅS                            |
 07|013|4|  4|  2|    |CSERVENKA CSABA                         |
-07|013|4|  8|  1|    |P¡LFFY K¡ROLY                           |
-07|013|5|  6|  3|IFJ |BOGD¡N J¡NOS                            |
+07|013|4|  8|  1|    |P√ÅLFFY K√ÅROLY                           |
+07|013|5|  6|  3|IFJ |BOGD√ÅN J√ÅNOS                            |
 07|024|4|  3|  1|DR. |SKALICZKI ANDREA                        |
-07|024|4|  3|  2|DR. |SIPOS J¡NOS                             |
-07|024|4|  4|  1|    |SOMOGYI GY÷RGY                          |
-07|024|4|  4|  2|DR. |BAR¡TH K¡ROLY P¡L                       |
-07|024|4|  5|  1|    |LAD¡NYI B…LA                            |
-07|024|4|  6|  1|    |POCHNER L¡SZL”                          |
-07|024|4|  8|  1|    |KISS ANDR¡S                             |
+07|024|4|  3|  2|DR. |SIPOS J√ÅNOS                             |
+07|024|4|  4|  1|    |SOMOGYI GY√ñRGY                          |
+07|024|4|  4|  2|DR. |BAR√ÅTH K√ÅROLY P√ÅL                       |
+07|024|4|  5|  1|    |LAD√ÅNYI B√âLA                            |
+07|024|4|  6|  1|    |POCHNER L√ÅSZL√ì                          |
+07|024|4|  8|  1|    |KISS ANDR√ÅS                             |
 07|024|4|  8|  3|DR. |DORKOTA LAJOS                           |
-07|024|4|  8|  2|    |CSERNA G¡BOR                            |
-07|024|4|  8|  4|DR. |RAG” P¡L ISTV¡N                         |
-07|024|5|  9|  1|    |HOSSZ⁄ J¡NOS                            |
-07|061|4|  5|  1|DR. |D…VAI P…TER                             |
-07|061|4|  5|  2|    |D÷M÷T÷R J¡NOS                           |
+07|024|4|  8|  2|    |CSERNA G√ÅBOR                            |
+07|024|4|  8|  4|DR. |RAG√ì P√ÅL ISTV√ÅN                         |
+07|024|5|  9|  1|    |HOSSZ√ö J√ÅNOS                            |
+07|061|4|  5|  1|DR. |D√âVAI P√âTER                             |
+07|061|4|  5|  2|    |D√ñM√ñT√ñR J√ÅNOS                           |
 07|061|4|  7|  2|    |SCHMIDT FERENC                          |
-07|061|4|  7|  5|    |STOLCZENBERGER R”BERT                   |
-07|061|4|  9|  1|    |KOCSA G¡BORN…                           |
+07|061|4|  7|  5|    |STOLCZENBERGER R√ìBERT                   |
+07|061|4|  9|  1|    |KOCSA G√ÅBORN√â                           |
 07|061|4| 11|  2|    |KELEMEN ATTILA                          |
-07|061|4| 11|  3|    |BALOGH ISTV¡N                           |
-07|078|4|  2|  1|    |SIMON J¡NOS                             |
+07|061|4| 11|  3|    |BALOGH ISTV√ÅN                           |
+07|078|4|  2|  1|    |SIMON J√ÅNOS                             |
 07|078|4|  3|  1|    |PAUSCHER LAJOS                          |
-07|078|4|  3|  3|    |VARGA L¡SZL”                            |
-07|078|4|  3|  4|    |B”DAI G¡BOR                             |
-07|078|4|  3|  2|    |HORV¡TH TIBOR                           |
-07|078|4|  5|  1|    |F‹L÷P S¡NDOR                            |
-07|078|4|  5|  2|    |T”TH ZOLT¡N                             |
+07|078|4|  3|  3|    |VARGA L√ÅSZL√ì                            |
+07|078|4|  3|  4|    |B√ìDAI G√ÅBOR                             |
+07|078|4|  3|  2|    |HORV√ÅTH TIBOR                           |
+07|078|4|  5|  1|    |F√úL√ñP S√ÅNDOR                            |
+07|078|4|  5|  2|    |T√ìTH ZOLT√ÅN                             |
 07|094|4|  1|  1|    |VINICZAI TIBOR                          |
-07|094|4|  1|  2|    |FERENCZY G…ZA                           |
-07|094|4|  2|  1|    |BOTOS ZOLT¡N                            |
-07|094|4|  3|  1|DR. |G”GL ¡RP¡D                              |
-07|094|4|  3|  3|    |FENYVES P…TER                           |
-07|094|4|  3|  5|    |CSURGAI-HORV¡TH J”ZSEF                  |
-07|094|4|  3|  7|    |FARKAS P¡L                              |
-07|094|4|  3|  9|    |HORV¡TH MIKL”S CSABA                    |
-07|094|4|  3| 10|DR. |LUK¡CSY J”ZSEF                          |
-07|094|4|  3|  8|    |FLOCH TAM¡S                             |
-07|094|4|  3|  6|    |BR¡JER …VA M¡RIA                        |
-07|094|4|  3|  4|DR. |CSER-PALKOVICS ANDR¡S                   |
-07|094|4|  3|  2|    |HAGYM¡SY ANDR¡S                         |
+07|094|4|  1|  2|    |FERENCZY G√âZA                           |
+07|094|4|  2|  1|    |BOTOS ZOLT√ÅN                            |
+07|094|4|  3|  1|DR. |G√ìGL √ÅRP√ÅD                              |
+07|094|4|  3|  3|    |FENYVES P√âTER                           |
+07|094|4|  3|  5|    |CSURGAI-HORV√ÅTH J√ìZSEF                  |
+07|094|4|  3|  7|    |FARKAS P√ÅL                              |
+07|094|4|  3|  9|    |HORV√ÅTH MIKL√ìS CSABA                    |
+07|094|4|  3| 10|DR. |LUK√ÅCSY J√ìZSEF                          |
+07|094|4|  3|  8|    |FLOCH TAM√ÅS                             |
+07|094|4|  3|  6|    |BR√ÅJER √âVA M√ÅRIA                        |
+07|094|4|  3|  4|DR. |CSER-PALKOVICS ANDR√ÅS                   |
+07|094|4|  3|  2|    |HAGYM√ÅSY ANDR√ÅS                         |
 08|027|4|  1|  1|    |ABDAI IMRE                              |
-08|027|4|  2|  1|DR. |GULY¡S ZOLT¡N                           |
-08|027|4|  4|  2|    |KORMOS J”ZSEF                           |
-08|027|4|  4|  3|    |BALOGH J¡NOS                            |
-08|027|4|  4|  4|    |KERT…SZ K¡ROLY                          |
+08|027|4|  2|  1|DR. |GULY√ÅS ZOLT√ÅN                           |
+08|027|4|  4|  2|    |KORMOS J√ìZSEF                           |
+08|027|4|  4|  3|    |BALOGH J√ÅNOS                            |
+08|027|4|  4|  4|    |KERT√âSZ K√ÅROLY                          |
 08|027|4|  5|  1|    |KAPUI FERENC                            |
-08|027|4|  5|  2|DR. |SZ¡MTART” ZOLT¡N                        |
-08|059|4|  1|  1|    |SZÕJ ZOLT¡N                             |
-08|059|4|  1|  3|    |HALBRITTER M¡TY¡S                       |
-08|059|4|  3|  2|    |N…METH ZOLT¡N                           |
-08|059|4|  3|  6|DR. |ANDR…KA BERTALAN                        |
-08|059|4|  3|  9|    |F‹KE G…ZA                               |
-08|059|4|  3|  8|    |HORV¡TH ¡KOS                            |
-08|059|4|  3|  7|    |KOV¡CS TAM¡S                            |
+08|027|4|  5|  2|DR. |SZ√ÅMTART√ì ZOLT√ÅN                        |
+08|059|4|  1|  1|    |SZ√çJ ZOLT√ÅN                             |
+08|059|4|  1|  3|    |HALBRITTER M√ÅTY√ÅS                       |
+08|059|4|  3|  2|    |N√âMETH ZOLT√ÅN                           |
+08|059|4|  3|  6|DR. |ANDR√âKA BERTALAN                        |
+08|059|4|  3|  9|    |F√úKE G√âZA                               |
+08|059|4|  3|  8|    |HORV√ÅTH √ÅKOS                            |
+08|059|4|  3|  7|    |KOV√ÅCS TAM√ÅS                            |
 08|059|4|  3|  4|    |SZELES SZABOLCS                         |
 08|059|4|  3|  3|    |ANTAL IMRE                              |
-08|059|4|  5|  3|DR. |KUN ANDR¡S                              |
-08|059|4|  5|  5|DR. |SCHREINER L¡SZL”                        |
-08|059|4|  5|  4|    |P¡D¡R L¡SZL”                            |
-08|059|4|  7|  1|    |GRAFFELNER K¡LM¡N                       |
-08|059|4|  7|  2|    |SZEMES J¡NOS                            |
-08|081|4|  1|  1|    |K”CZ¡N ZOLT¡N                           |
+08|059|4|  5|  3|DR. |KUN ANDR√ÅS                              |
+08|059|4|  5|  5|DR. |SCHREINER L√ÅSZL√ì                        |
+08|059|4|  5|  4|    |P√ÅD√ÅR L√ÅSZL√ì                            |
+08|059|4|  7|  1|    |GRAFFELNER K√ÅLM√ÅN                       |
+08|059|4|  7|  2|    |SZEMES J√ÅNOS                            |
+08|081|4|  1|  1|    |K√ìCZ√ÅN ZOLT√ÅN                           |
 08|081|4|  1|  2|    |MAGYAR ATTILA                           |
-08|081|4|  2|  1|    |KISS J¡NOS                              |
-08|081|4|  2|  2|    |BOROSS J¡NOS                            |
-08|081|4|  5|  1|    |VARGA G…ZA                              |
-08|081|4|  6|  1|DR. |HORV¡TH FERENC                          |
-08|081|4|  6|  2|    |BOLDIS G…ZA                             |
-08|104|4|  1|  1|    |CSORBA DEZS’                            |
-08|104|4|  2|  1|    |SZAB” MIKL”S                            |
-08|104|4|  2|  2|    |S”LYOM TIBOR J¡NOS                      |
-08|104|4|  3|  1|    |NAGY S¡NDOR                             |
-08|104|4|  5|  1|DR. |¡RVAY ISTV¡N                            |
-08|104|4|  5|  2|DR. |PAP J¡NOS                               |
-08|104|4|  7|  1|    |M…HES L¡SZL”N…                          |
-08|104|4|  7|  2|DR. |SZEREDI ¡D¡M                            |
-08|104|4|  8|  1|    |SZENTKUTI K¡ROLY                        |
-08|150|4|  2|  2|    |V¡MOSI TIBOR                            |
+08|081|4|  2|  1|    |KISS J√ÅNOS                              |
+08|081|4|  2|  2|    |BOROSS J√ÅNOS                            |
+08|081|4|  5|  1|    |VARGA G√âZA                              |
+08|081|4|  6|  1|DR. |HORV√ÅTH FERENC                          |
+08|081|4|  6|  2|    |BOLDIS G√âZA                             |
+08|104|4|  1|  1|    |CSORBA DEZS≈ê                            |
+08|104|4|  2|  1|    |SZAB√ì MIKL√ìS                            |
+08|104|4|  2|  2|    |S√ìLYOM TIBOR J√ÅNOS                      |
+08|104|4|  3|  1|    |NAGY S√ÅNDOR                             |
+08|104|4|  5|  1|DR. |√ÅRVAY ISTV√ÅN                            |
+08|104|4|  5|  2|DR. |PAP J√ÅNOS                               |
+08|104|4|  7|  1|    |M√âHES L√ÅSZL√ìN√â                          |
+08|104|4|  7|  2|DR. |SZEREDI √ÅD√ÅM                            |
+08|104|4|  8|  1|    |SZENTKUTI K√ÅROLY                        |
+08|150|4|  2|  2|    |V√ÅMOSI TIBOR                            |
 08|150|4|  4|  1|DR. |SZEKERES CSABA                          |
-08|150|4|  4|  2|    |FORR¡S B…LA                             |
+08|150|4|  4|  2|    |FORR√ÅS B√âLA                             |
 08|150|4|  4|  3|DR. |GIMESI SZABOLCS                         |
-08|150|4|  5|  4|    |N…METH IMRE                             |
-08|150|4|  6|  1|DR. |MOLN¡R ¡GNES                            |
-08|150|4|  6|  4|    |HORV¡TH ZOLT¡NN…                        |
-08|150|4|  6|  6|    |PONGR¡CZ N”RA                           |
-08|150|4|  6|  5|    |SASS L¡SZL”                             |
+08|150|4|  5|  4|    |N√âMETH IMRE                             |
+08|150|4|  6|  1|DR. |MOLN√ÅR √ÅGNES                            |
+08|150|4|  6|  4|    |HORV√ÅTH ZOLT√ÅNN√â                        |
+08|150|4|  6|  6|    |PONGR√ÅCZ N√ìRA                           |
+08|150|4|  6|  5|    |SASS L√ÅSZL√ì                             |
 08|150|4|  6|  3|    |TENGERDI ANTAL                          |
-09|005|4|  1|  1|DR. |TIBA ISTV¡N                             |
-09|005|4|  1|  3|    |POST¡N… KECSK…S ILONA                   |
+09|005|4|  1|  1|DR. |TIBA ISTV√ÅN                             |
+09|005|4|  1|  3|    |POST√ÅN√â KECSK√âS ILONA                   |
 09|005|4|  1|  2|DR. |FEKETE IMRE                             |
-09|005|4|  5|  1|    |KATI ISTV¡N                             |
-09|005|4|  5|  2|    |BARTA L¡SZL”                            |
-09|005|4|  6|  1|    |CSIGE J”ZSEF                            |
+09|005|4|  5|  1|    |KATI ISTV√ÅN                             |
+09|005|4|  5|  2|    |BARTA L√ÅSZL√ì                            |
+09|005|4|  6|  1|    |CSIGE J√ìZSEF                            |
 09|005|4|  6|  2|    |WILL CSABA                              |
-09|005|5|  2|  3|    |J”N¡S G…ZA                              |
-09|009|4|  1|  1|    |GYULA FERENCN…                          |
-09|009|4|  2|  1|    |JAKAB GY÷RGY ISTV¡N                     |
-09|009|4|  3|  3|    |KIR¡LY S¡NDOR                           |
+09|005|5|  2|  3|    |J√ìN√ÅS G√âZA                              |
+09|009|4|  1|  1|    |GYULA FERENCN√â                          |
+09|009|4|  2|  1|    |JAKAB GY√ñRGY ISTV√ÅN                     |
+09|009|4|  3|  3|    |KIR√ÅLY S√ÅNDOR                           |
 09|009|4|  3|  6|DR. |CSUKA IMRE                              |
-09|009|4|  3|  4|    |SZÕV”S ISTV¡N                           |
-09|009|4|  5|  1|DR. |VIT¡NYI ISTV¡N                          |
-09|009|4|  5|  2|    |P¡LFI ISTV¡N                            |
-09|009|5|  4|  2|    |PAP ISTV¡N                              |
+09|009|4|  3|  4|    |SZ√çV√ìS ISTV√ÅN                           |
+09|009|4|  5|  1|DR. |VIT√ÅNYI ISTV√ÅN                          |
+09|009|4|  5|  2|    |P√ÅLFI ISTV√ÅN                            |
+09|009|5|  4|  2|    |PAP ISTV√ÅN                              |
 09|018|4|  3|  1|DR. |GONDOLA ZSOLT                           |
-09|018|4|  4|  1|    |KOV¡CS L¡SZL”                           |
+09|018|4|  4|  1|    |KOV√ÅCS L√ÅSZL√ì                           |
 09|018|4|  4|  2|DR. |RAB FERENC                              |
-09|018|4|  7|  1|DR. |V¡RHELYI TAM¡S                          |
-09|018|4|  8|  1|    |SZIGETI ISTV¡N                          |
-09|018|4|  9|  1|    |SZATHM¡RI K¡ROLY                        |
-09|018|4|  9|  4|    |K¡LLAI G¡BOR GYULA                      |
-09|018|4|  9|  6|    |PALL¡S GY÷RGY                           |
+09|018|4|  7|  1|DR. |V√ÅRHELYI TAM√ÅS                          |
+09|018|4|  8|  1|    |SZIGETI ISTV√ÅN                          |
+09|018|4|  9|  1|    |SZATHM√ÅRI K√ÅROLY                        |
+09|018|4|  9|  4|    |K√ÅLLAI G√ÅBOR GYULA                      |
+09|018|4|  9|  6|    |PALL√ÅS GY√ñRGY                           |
 09|018|4|  9|  8|    |NAGY LEVENTE                            |
-09|018|4|  9| 10|    |CSIHA T‹NDE                             |
-09|018|4|  9| 14|    |DEDE ¡GNES                              |
-09|018|4|  9| 13|    |CSOMBORDI J”ZSEF                        |
-09|018|4|  9| 12|    |MADARASI ISTV¡N                         |
-09|018|4|  9| 11|    |Z¡GONYI IMRE                            |
-09|018|4|  9|  9|    |R¡CZ JULIANNA                           |
-09|018|4|  9|  7|    |HUSI ANDR¡S                             |
-09|018|4|  9|  5|    |T”TH CSABA                              |
-09|018|4|  9|  3|DR. |SZEGEDI ISTV¡N                          |
+09|018|4|  9| 10|    |CSIHA T√úNDE                             |
+09|018|4|  9| 14|    |DEDE √ÅGNES                              |
+09|018|4|  9| 13|    |CSOMBORDI J√ìZSEF                        |
+09|018|4|  9| 12|    |MADARASI ISTV√ÅN                         |
+09|018|4|  9| 11|    |Z√ÅGONYI IMRE                            |
+09|018|4|  9|  9|    |R√ÅCZ JULIANNA                           |
+09|018|4|  9|  7|    |HUSI ANDR√ÅS                             |
+09|018|4|  9|  5|    |T√ìTH CSABA                              |
+09|018|4|  9|  3|DR. |SZEGEDI ISTV√ÅN                          |
 09|018|4|  9|  2|    |HUSZKA IMRE                             |
-09|018|4| 11|  1|    |KOZLOK L¡SZL”                           |
-09|030|4|  1|  1|    |MOLN¡R IMRE                             |
+09|018|4| 11|  1|    |KOZLOK L√ÅSZL√ì                           |
+09|030|4|  1|  1|    |MOLN√ÅR IMRE                             |
 09|030|4|  1|  2|    |KATHY ZSIGMOND                          |
-09|030|4|  2|  1|    |BODN¡R J¡NOS                            |
-09|030|4|  4|  2|    |GORZS¡S ATTILA                          |
-09|030|4|  4|  6|    |BALOGH ZOLT¡N                           |
+09|030|4|  2|  1|    |BODN√ÅR J√ÅNOS                            |
+09|030|4|  4|  2|    |GORZS√ÅS ATTILA                          |
+09|030|4|  4|  6|    |BALOGH ZOLT√ÅN                           |
 09|030|4|  4|  4|    |LAJOS ANTAL                             |
-09|030|4|  5|  1|DR. |KISS KRISZTI¡N                          |
-09|030|4|  5|  2|DR. |MAKK MIKL”S                             |
-09|030|4|  5|  3|DR. |L¡Z¡R IMRE                              |
-09|030|5|  3|  3|    |NAGY J”ZSEF                             |
-09|032|4|  4|  1|    |BOZS¡NYI FERENC                         |
-09|032|4|  4|  4|    |SZAB” J”ZSEF                            |
+09|030|4|  5|  1|DR. |KISS KRISZTI√ÅN                          |
+09|030|4|  5|  2|DR. |MAKK MIKL√ìS                             |
+09|030|4|  5|  3|DR. |L√ÅZ√ÅR IMRE                              |
+09|030|5|  3|  3|    |NAGY J√ìZSEF                             |
+09|032|4|  4|  1|    |BOZS√ÅNYI FERENC                         |
+09|032|4|  4|  4|    |SZAB√ì J√ìZSEF                            |
 09|032|4|  5|  2|    |ANTAL GYULA                             |
-09|032|4|  5|  3|    |HATH¡ZY ¡KOS                            |
+09|032|4|  5|  3|    |HATH√ÅZY √ÅKOS                            |
 09|032|4|  6|  1|    |PAPP GYULA                              |
-09|032|4|  7|  1|    |KOMOR S¡NDOR                            |
-09|032|4|  7|  3|    |K¡NTOR ANDR¡S                           |
-09|032|5|  1|  2|    |HORT” J”ZSEF                            |
-09|033|4|  1|  1|    |H”DOS ANTAL                             |
-09|033|4|  2|  1|    |B”DI L¡SZL”                             |
+09|032|4|  7|  1|    |KOMOR S√ÅNDOR                            |
+09|032|4|  7|  3|    |K√ÅNTOR ANDR√ÅS                           |
+09|032|5|  1|  2|    |HORT√ì J√ìZSEF                            |
+09|033|4|  1|  1|    |H√ìDOS ANTAL                             |
+09|033|4|  2|  1|    |B√ìDI L√ÅSZL√ì                             |
 09|033|4|  3|  3|    |BALOGH ZSIGMOND                         |
-09|033|4|  5|  1|    |G…L¡K P¡L                               |
-09|033|4|  6|  2|    |P¡L-KOV¡CS DEZS’                        |
-09|033|4|  8|  2|    |BUCZK” J”ZSEF                           |
-09|033|4|  8|  3|    |SZ”LL¡TH TIBOR                          |
-09|034|4|  1|  1|    |N…METHI J¡NOS                           |
-09|034|4|  1|  2|    |BAK” ISTV¡N                             |
+09|033|4|  5|  1|    |G√âL√ÅK P√ÅL                               |
+09|033|4|  6|  2|    |P√ÅL-KOV√ÅCS DEZS≈ê                        |
+09|033|4|  8|  2|    |BUCZK√ì J√ìZSEF                           |
+09|033|4|  8|  3|    |SZ√ìLL√ÅTH TIBOR                          |
+09|034|4|  1|  1|    |N√âMETHI J√ÅNOS                           |
+09|034|4|  1|  2|    |BAK√ì ISTV√ÅN                             |
 09|034|4|  3|  1|    |PAPP FERENC                             |
-09|034|4|  3|  2|    |S”LYOM G¡BOR                            |
-09|034|4|  5|  1|    |PISTAI J¡NOS                            |
-09|034|4|  5|  3|    |T”TH J¡NOS                              |
-09|034|4|  5|  2|    |R…P¡SI G¡BOR                            |
-09|035|4|  1|  2|    |HARS¡NYI ISTV¡N                         |
-09|035|4|  3|  4|    |NAGY B¡LINT L¡SZL”                      |
-09|035|4|  3|  6|    |SZANDAI K¡ZM…R                          |
+09|034|4|  3|  2|    |S√ìLYOM G√ÅBOR                            |
+09|034|4|  5|  1|    |PISTAI J√ÅNOS                            |
+09|034|4|  5|  3|    |T√ìTH J√ÅNOS                              |
+09|034|4|  5|  2|    |R√âP√ÅSI G√ÅBOR                            |
+09|035|4|  1|  2|    |HARS√ÅNYI ISTV√ÅN                         |
+09|035|4|  3|  4|    |NAGY B√ÅLINT L√ÅSZL√ì                      |
+09|035|4|  3|  6|    |SZANDAI K√ÅZM√âR                          |
 09|035|4|  4|  1|    |CSEH MAGDOLNA                           |
-09|035|4|  5|  1|    |DOBROSSY BARNAB¡S                       |
-09|035|4|  5|  2|    |DEDE ERN’                               |
-09|035|4|  6|  1|    |TARCSI ANDR¡S                           |
-09|063|4|  3|  1|    |KARDOS ISTV¡N                           |
-09|063|4|  3|  4|    |DEMETROVICS P…TER                       |
-09|063|4|  3|  2|DR. |FARKAS DEZS’                            |
-09|063|4|  4|  1|    |K¡ROLYI MIH¡LY                          |
+09|035|4|  5|  1|    |DOBROSSY BARNAB√ÅS                       |
+09|035|4|  5|  2|    |DEDE ERN≈ê                               |
+09|035|4|  6|  1|    |TARCSI ANDR√ÅS                           |
+09|063|4|  3|  1|    |KARDOS ISTV√ÅN                           |
+09|063|4|  3|  4|    |DEMETROVICS P√âTER                       |
+09|063|4|  3|  2|DR. |FARKAS DEZS≈ê                            |
+09|063|4|  4|  1|    |K√ÅROLYI MIH√ÅLY                          |
 09|063|4|  4|  3|    |SCHVARCZ TIBOR                          |
-09|063|4|  5|  2|    |VARGA GUSZT¡V                           |
+09|063|4|  5|  2|    |VARGA GUSZT√ÅV                           |
 09|063|4|  8|  1|    |MAKAI LAJOS                             |
-09|063|5|  2|  7|    |T”TH FERENC                             |
-10|025|4|  4|  1|    |SNEIDER TAM¡S                           |
-10|025|4|  7|  7|    |J¡NOSI ZOLT¡N                           |
-10|025|4|  8|  1|DR. |L÷FFLER ERZS…BET                        |
-10|025|4|  8|  2|    |HABIS L¡SZL”                            |
-10|025|4|  8|  5|    |HORV¡TH M¡TY¡S                          |
-10|025|4|  8|  6|DR. |SIPOS MIH¡LY                            |
-10|025|4|  8|  4|    |FARKAS ZOLT¡N                           |
+09|063|5|  2|  7|    |T√ìTH FERENC                             |
+10|025|4|  4|  1|    |SNEIDER TAM√ÅS                           |
+10|025|4|  7|  7|    |J√ÅNOSI ZOLT√ÅN                           |
+10|025|4|  8|  1|DR. |L√ñFFLER ERZS√âBET                        |
+10|025|4|  8|  2|    |HABIS L√ÅSZL√ì                            |
+10|025|4|  8|  5|    |HORV√ÅTH M√ÅTY√ÅS                          |
+10|025|4|  8|  6|DR. |SIPOS MIH√ÅLY                            |
+10|025|4|  8|  4|    |FARKAS ZOLT√ÅN                           |
 10|025|4|  8|  3|    |NYERGES ANDOR                           |
-10|025|4|  8|  7|    |BOSS¡NYI L¡SZL”                         |
-10|025|4|  8|  8|    |K÷RTV…LYESSY FERENC                     |
-10|039|4|  5|  1|    |D…R ISTV¡N                              |
-10|039|4|  8|  1|DR. |SZ…K¡CS GY÷RGY D¡NIEL                   |
-10|039|4|  8|  2|    |REISZ ISTV¡N                            |
-10|039|4|  9|  1|    |KELEMEN M¡RTA                           |
-10|039|4| 11|  1|DR. |TAT¡R L¡SZL”                            |
-10|039|4| 11|  4|    |F”TOS D¡NIEL                            |
-10|039|4| 11|  3|    |TUZ¡N… DR. TAK¡CS ZSUZSANNA             |
-10|039|4| 11|  2|    |KERESZTES GY÷RGY                        |
-10|039|4| 12|  1|    |MATUS MIKL”S                            |
+10|025|4|  8|  7|    |BOSS√ÅNYI L√ÅSZL√ì                         |
+10|025|4|  8|  8|    |K√ñRTV√âLYESSY FERENC                     |
+10|039|4|  5|  1|    |D√âR ISTV√ÅN                              |
+10|039|4|  8|  1|DR. |SZ√âK√ÅCS GY√ñRGY D√ÅNIEL                   |
+10|039|4|  8|  2|    |REISZ ISTV√ÅN                            |
+10|039|4|  9|  1|    |KELEMEN M√ÅRTA                           |
+10|039|4| 11|  1|DR. |TAT√ÅR L√ÅSZL√ì                            |
+10|039|4| 11|  4|    |F√ìTOS D√ÅNIEL                            |
+10|039|4| 11|  3|    |TUZ√ÅN√â DR. TAK√ÅCS ZSUZSANNA             |
+10|039|4| 11|  2|    |KERESZTES GY√ñRGY                        |
+10|039|4| 12|  1|    |MATUS MIKL√ìS                            |
 10|039|5| 10|  1|    |LAKATOS ZSOLT                           |
-10|046|4|  1|  1|    |ZAVARK”N… HARGITAI KATALIN              |
-10|046|4|  1|  3|DR. |EPERJESI TAM¡S                          |
-10|046|4|  1|  2|    |FRIEDRICH T‹NDE                         |
-10|046|4|  2|  1|    |SZAB” ¡D¡M                              |
-10|046|4|  2|  2|    |SZINYEI ANDR¡S                          |
-10|046|4|  4|  1|    |BER…NYI K¡ROLY                          |
-10|046|4|  4|  2|    |SZAB” ZOLT¡N TIBOR                      |
-10|048|4|  3|  1|    |BUDAI ISTV¡N                            |
-10|048|4|  3|  2|    |BUDAI S¡NDOR                            |
+10|046|4|  1|  1|    |ZAVARK√ìN√â HARGITAI KATALIN              |
+10|046|4|  1|  3|DR. |EPERJESI TAM√ÅS                          |
+10|046|4|  1|  2|    |FRIEDRICH T√úNDE                         |
+10|046|4|  2|  1|    |SZAB√ì √ÅD√ÅM                              |
+10|046|4|  2|  2|    |SZINYEI ANDR√ÅS                          |
+10|046|4|  4|  1|    |BER√âNYI K√ÅROLY                          |
+10|046|4|  4|  2|    |SZAB√ì ZOLT√ÅN TIBOR                      |
+10|048|4|  3|  1|    |BUDAI ISTV√ÅN                            |
+10|048|4|  3|  2|    |BUDAI S√ÅNDOR                            |
 10|048|4|  4|  2|DR. |NAGY FERENC                             |
-10|048|4|  4|  4|    |S¡R¡NDI ISTV¡N                          |
-10|048|4|  6|  1|    |CS¡KI ZSIGMOND                          |
-10|048|4|  6|  2|    |KISS J”ZSEF                             |
-10|048|4|  6|  3|    |T÷R÷K J¡NOS                             |
-10|048|5|  2|  2|    |L”L… MIH¡LY                             |
-11|016|4|  4|  1|    |BALOGH B…LA                             |
-11|016|4|  4|  3|    |S¡RK÷ZY L¡SZL”                          |
-11|016|4|  4|  4|    |HLAVACSKA ANDR¡S                        |
-11|016|4|  6|  1|    |HAGY” TAM¡S                             |
-11|016|4|  6|  2|    |JUH¡SZ D¡NIEL                           |
-11|016|4|  6|  3|    |SZENTESI MIH¡LY                         |
-11|016|4|  8|  1|    |PAPP ISTV¡N                             |
-11|016|4|  9|  1|    |CSERTA ISTV¡NN…                         |
-11|016|4|  9|  3|    |SZAB” J”ZSEF                            |
-11|016|5|  3|  2|    |R¡CZ TAM¡S                              |
-11|027|4|  3|  4|    |KOV¡CS S¡NDOR                           |
-11|027|4|  4|  1|    |SZAB” S¡NDOR                            |
-11|027|4|  4|  4|DR. |KASUBA J¡NOS                            |
-11|027|4|  4|  3|    |NAGY M¡RIA                              |
-11|027|4|  4|  2|DR. |MOLN¡R S¡NDOR                           |
-11|027|4|  5|  1|    |KURUCZ ISTV¡N                           |
-11|027|4|  5|  3|DR. |KOV¡CS L¡SZL”                           |
+10|048|4|  4|  4|    |S√ÅR√ÅNDI ISTV√ÅN                          |
+10|048|4|  6|  1|    |CS√ÅKI ZSIGMOND                          |
+10|048|4|  6|  2|    |KISS J√ìZSEF                             |
+10|048|4|  6|  3|    |T√ñR√ñK J√ÅNOS                             |
+10|048|5|  2|  2|    |L√ìL√â MIH√ÅLY                             |
+11|016|4|  4|  1|    |BALOGH B√âLA                             |
+11|016|4|  4|  3|    |S√ÅRK√ñZY L√ÅSZL√ì                          |
+11|016|4|  4|  4|    |HLAVACSKA ANDR√ÅS                        |
+11|016|4|  6|  1|    |HAGY√ì TAM√ÅS                             |
+11|016|4|  6|  2|    |JUH√ÅSZ D√ÅNIEL                           |
+11|016|4|  6|  3|    |SZENTESI MIH√ÅLY                         |
+11|016|4|  8|  1|    |PAPP ISTV√ÅN                             |
+11|016|4|  9|  1|    |CSERTA ISTV√ÅNN√â                         |
+11|016|4|  9|  3|    |SZAB√ì J√ìZSEF                            |
+11|016|5|  3|  2|    |R√ÅCZ TAM√ÅS                              |
+11|027|4|  3|  4|    |KOV√ÅCS S√ÅNDOR                           |
+11|027|4|  4|  1|    |SZAB√ì S√ÅNDOR                            |
+11|027|4|  4|  4|DR. |KASUBA J√ÅNOS                            |
+11|027|4|  4|  3|    |NAGY M√ÅRIA                              |
+11|027|4|  4|  2|DR. |MOLN√ÅR S√ÅNDOR                           |
+11|027|4|  5|  1|    |KURUCZ ISTV√ÅN                           |
+11|027|4|  5|  3|DR. |KOV√ÅCS L√ÅSZL√ì                           |
 11|027|5|  6|  2|    |JOHAN ANNA                              |
-11|031|4|  1|  7|    |¡BRI LUK¡CSN…                           |
-11|031|4|  1|  8|    |ANDREKOVICS TAM¡SN…                     |
-11|031|4|  3|  1|    |NAGY J¡NOS                              |
-11|031|4|  4|  1|DR. |T”TH ALBERT                             |
-11|031|4|  4|  2|    |SZIL¡GYI LAJOS                          |
-11|031|4|  4|  3|    |MOLN¡R IMRE                             |
-11|031|4|  6|  1|    |S¡NTA G¡BOR ¡RP¡D                       |
-11|031|5|  8|  1|    |KOV¡CS J”ZSEFN…                         |
-11|040|4|  2|  1|    |SZ€CS LAJOS                             |
-11|040|4|  2|  3|    |JUH¡SZ B…LA L¡SZL”                      |
-11|040|4|  2|  4|    |SZAB” G¡BOR                             |
-11|040|4|  2|  5|    |GYARMATI ISTV¡N                         |
-11|040|4|  2|  7|    |PATK”S …VA                              |
-11|040|4|  2|  6|    |L…VAI S¡NDOR                            |
-11|040|4|  2|  2|    |KOZ¡K ZSOLT                             |
-11|052|4|  1|  1|    |BENCSIK MIH¡LY                          |
-11|052|4|  5|  2|    |TREFFLER TAM¡S                          |
-11|052|4|  6|  1|    |FODOR GY÷RGY                            |
-11|052|4|  6|  2|    |ERDEI P…TER                             |
+11|031|4|  1|  7|    |√ÅBRI LUK√ÅCSN√â                           |
+11|031|4|  1|  8|    |ANDREKOVICS TAM√ÅSN√â                     |
+11|031|4|  3|  1|    |NAGY J√ÅNOS                              |
+11|031|4|  4|  1|DR. |T√ìTH ALBERT                             |
+11|031|4|  4|  2|    |SZIL√ÅGYI LAJOS                          |
+11|031|4|  4|  3|    |MOLN√ÅR IMRE                             |
+11|031|4|  6|  1|    |S√ÅNTA G√ÅBOR √ÅRP√ÅD                       |
+11|031|5|  8|  1|    |KOV√ÅCS J√ìZSEFN√â                         |
+11|040|4|  2|  1|    |SZ≈∞CS LAJOS                             |
+11|040|4|  2|  3|    |JUH√ÅSZ B√âLA L√ÅSZL√ì                      |
+11|040|4|  2|  4|    |SZAB√ì G√ÅBOR                             |
+11|040|4|  2|  5|    |GYARMATI ISTV√ÅN                         |
+11|040|4|  2|  7|    |PATK√ìS √âVA                              |
+11|040|4|  2|  6|    |L√âVAI S√ÅNDOR                            |
+11|040|4|  2|  2|    |KOZ√ÅK ZSOLT                             |
+11|052|4|  1|  1|    |BENCSIK MIH√ÅLY                          |
+11|052|4|  5|  2|    |TREFFLER TAM√ÅS                          |
+11|052|4|  6|  1|    |FODOR GY√ñRGY                            |
+11|052|4|  6|  2|    |ERDEI P√âTER                             |
 11|052|4|  7|  1|    |SZALAY FERENC                           |
-11|052|4|  7|  3|    |HORV¡TH P…TER                           |
-11|052|4|  7|  4|DR. |CSO”R GY÷RGY                            |
-11|052|4|  7|  6|    |LITS L¡SZL”                             |
-11|052|4|  7|  7|    |M.ROM¡N B…LA                            |
-11|052|4|  7|  5|    |HEGMANN… NEMES S¡RA                     |
-11|052|4|  7|  2|    |BALLA GY÷RGY                            |
-11|056|4|  1|  1|    |FERENCZI GY÷RGY                         |
-11|056|4|  1|  2|DR. |BALOGH ISTV¡N                           |
-11|056|4|  5|  1|    |T”TH-KORCSM¡ROS B¡LINT                  |
-11|056|4|  5|  2|    |JUHOS MIH¡LY                            |
-11|056|4|  6|  2|    |K÷T…L ALBERT                            |
-11|056|4|  6|  3|    |MAGYAR MIH¡LY                           |
-11|056|4|  7|  1|    |OL¡H MIH¡LY                             |
+11|052|4|  7|  3|    |HORV√ÅTH P√âTER                           |
+11|052|4|  7|  4|DR. |CSO√ìR GY√ñRGY                            |
+11|052|4|  7|  6|    |LITS L√ÅSZL√ì                             |
+11|052|4|  7|  7|    |M.ROM√ÅN B√âLA                            |
+11|052|4|  7|  5|    |HEGMANN√â NEMES S√ÅRA                     |
+11|052|4|  7|  2|    |BALLA GY√ñRGY                            |
+11|056|4|  1|  1|    |FERENCZI GY√ñRGY                         |
+11|056|4|  1|  2|DR. |BALOGH ISTV√ÅN                           |
+11|056|4|  5|  1|    |T√ìTH-KORCSM√ÅROS B√ÅLINT                  |
+11|056|4|  5|  2|    |JUHOS MIH√ÅLY                            |
+11|056|4|  6|  2|    |K√ñT√âL ALBERT                            |
+11|056|4|  6|  3|    |MAGYAR MIH√ÅLY                           |
+11|056|4|  7|  1|    |OL√ÅH MIH√ÅLY                             |
 11|057|4|  1|  1|    |RENTE FERENC                            |
-11|057|4|  1|  3|    |KISS ISTV¡N                             |
-11|057|4|  1|  4|    |G¡SP¡R J”ZSEF TAM¡S                     |
-11|057|4|  1|  2|    |PECZE L¡SZL”N…                          |
-11|057|4|  3|  2|    |HAJDU ISTV¡N GY÷RGY                     |
-11|057|4|  4|  1|    |KORP¡S J¡NOS                            |
-11|057|4|  4|  2|    |MIHALA S¡NDOR                           |
-11|073|4|  1|  1|    |SERF’Z’ ISTV¡N                          |
-11|073|4|  1|  4|    |…VINGER M¡RIA MAGDOLNA                  |
-11|073|4|  1|  2|    |R…DAI J¡NOS                             |
-11|073|4|  1|  5|    |GUTTY¡N J”ZSEF                          |
-11|073|4|  5|  1|    |S¡NTA ALBERT ISTV¡N                     |
-11|073|4|  6|  1|    |SZIL¡GYI ANDR¡S                         |
-11|073|4|  9|  1|    |PIL¡R GY÷RGY                            |
-11|074|4|  1|  1|    |N…METH ISTV¡N                           |
-11|074|4|  3|  1|    |N¡DUDVARI ISTV¡N                        |
-11|074|4|  4|  1|    |K”RIZS ISTV¡NN… SO”S ZSUZSANNA          |
-11|074|4|  5|  4|    |TAK¡CS ATTILA                           |
-11|074|4|  7|  2|DR. |LOVASSYN… DR. N¡SZ ILDIK”               |
-11|074|4|  7|  3|    |S‹VEGES ISTV¡N                          |
-11|074|4|  9|  3|DR. |SAMU ISTV¡N                             |
-12|023|4|  1|  1|    |W¡GNER ZSOLT                            |
-12|023|4|  2|  2|    |BALOGH ZOLT¡N                           |
-12|023|4|  4|  1|    |CSELENY¡KN… CSERVENKA RITA              |
-12|023|4|  5|  2|    |DANK” J”ZSEF                            |
-12|023|4| 10|  1|    |BARANYAI L’RINC                         |
-12|023|4| 10|  2|    |P¡NTYA GY÷RGY                           |
-12|023|4| 11|  1|    |MOLN¡R ALBERT                           |
-12|023|5|  3|  1|    |PALK” G¡BOR P¡L                         |
-12|023|5|  8|  3|    |KOZ¡K OSZK¡R                            |
-12|028|4|  1|  2|    |KNAPP J¡NOS P¡L                         |
-12|028|4|  7|  1|DR. |MAGYAR GY÷RGY                           |
-12|028|4|  7|  2|DR. |KOLUMB¡N GY÷RGY                         |
-12|028|4|  9|  1|DR. |HALLER ZOLT¡N                           |
-12|028|4| 10|  1|DR. |VARGA GY’Z’                             |
-12|028|4| 12|  1|DR. |ANTALICS MIH¡LY                         |
-12|028|4| 13|  1|    |SCHILLER KERT…SZ TAM¡S                  |
-12|028|4| 13|  5|    |NAGY BE¡TA                              |
+11|057|4|  1|  3|    |KISS ISTV√ÅN                             |
+11|057|4|  1|  4|    |G√ÅSP√ÅR J√ìZSEF TAM√ÅS                     |
+11|057|4|  1|  2|    |PECZE L√ÅSZL√ìN√â                          |
+11|057|4|  3|  2|    |HAJDU ISTV√ÅN GY√ñRGY                     |
+11|057|4|  4|  1|    |KORP√ÅS J√ÅNOS                            |
+11|057|4|  4|  2|    |MIHALA S√ÅNDOR                           |
+11|073|4|  1|  1|    |SERF≈êZ≈ê ISTV√ÅN                          |
+11|073|4|  1|  4|    |√âVINGER M√ÅRIA MAGDOLNA                  |
+11|073|4|  1|  2|    |R√âDAI J√ÅNOS                             |
+11|073|4|  1|  5|    |GUTTY√ÅN J√ìZSEF                          |
+11|073|4|  5|  1|    |S√ÅNTA ALBERT ISTV√ÅN                     |
+11|073|4|  6|  1|    |SZIL√ÅGYI ANDR√ÅS                         |
+11|073|4|  9|  1|    |PIL√ÅR GY√ñRGY                            |
+11|074|4|  1|  1|    |N√âMETH ISTV√ÅN                           |
+11|074|4|  3|  1|    |N√ÅDUDVARI ISTV√ÅN                        |
+11|074|4|  4|  1|    |K√ìRIZS ISTV√ÅNN√â SO√ìS ZSUZSANNA          |
+11|074|4|  5|  4|    |TAK√ÅCS ATTILA                           |
+11|074|4|  7|  2|DR. |LOVASSYN√â DR. N√ÅSZ ILDIK√ì               |
+11|074|4|  7|  3|    |S√úVEGES ISTV√ÅN                          |
+11|074|4|  9|  3|DR. |SAMU ISTV√ÅN                             |
+12|023|4|  1|  1|    |W√ÅGNER ZSOLT                            |
+12|023|4|  2|  2|    |BALOGH ZOLT√ÅN                           |
+12|023|4|  4|  1|    |CSELENY√ÅKN√â CSERVENKA RITA              |
+12|023|4|  5|  2|    |DANK√ì J√ìZSEF                            |
+12|023|4| 10|  1|    |BARANYAI L≈êRINC                         |
+12|023|4| 10|  2|    |P√ÅNTYA GY√ñRGY                           |
+12|023|4| 11|  1|    |MOLN√ÅR ALBERT                           |
+12|023|5|  3|  1|    |PALK√ì G√ÅBOR P√ÅL                         |
+12|023|5|  8|  3|    |KOZ√ÅK OSZK√ÅR                            |
+12|028|4|  1|  2|    |KNAPP J√ÅNOS P√ÅL                         |
+12|028|4|  7|  1|DR. |MAGYAR GY√ñRGY                           |
+12|028|4|  7|  2|DR. |KOLUMB√ÅN GY√ñRGY                         |
+12|028|4|  9|  1|DR. |HALLER ZOLT√ÅN                           |
+12|028|4| 10|  1|DR. |VARGA GY≈êZ≈ê                             |
+12|028|4| 12|  1|DR. |ANTALICS MIH√ÅLY                         |
+12|028|4| 13|  1|    |SCHILLER KERT√âSZ TAM√ÅS                  |
+12|028|4| 13|  5|    |NAGY BE√ÅTA                              |
 12|028|4| 13|  4|    |NYIRI ATTILA                            |
-12|038|4|  1|  1|    |TAM¡S ISTV¡NN… KALINA IRMA              |
-12|038|4|  3|  1|    |NAGY P…TER                              |
-12|038|4|  4|  1|DR. |JUH¡SZN… DR. GORD¡N ILDIK”              |
-12|038|4|  4|  2|DR. |MOLN¡R ATTILA                           |
-12|038|4|  4|  3|    |BAG” IV¡N                               |
-12|038|4|  4|  4|    |POHLM‹LLNER TAM¡S                       |
-12|038|4|  5|  3|    |KOPP¡NY CSABA                           |
-12|051|4|  1|  1|    |L¡Z¡R M”ZES                             |
-12|051|4|  1|  2|    |TAK¡CS K¡ROLY                           |
+12|038|4|  1|  1|    |TAM√ÅS ISTV√ÅNN√â KALINA IRMA              |
+12|038|4|  3|  1|    |NAGY P√âTER                              |
+12|038|4|  4|  1|DR. |JUH√ÅSZN√â DR. GORD√ÅN ILDIK√ì              |
+12|038|4|  4|  2|DR. |MOLN√ÅR ATTILA                           |
+12|038|4|  4|  3|    |BAG√ì IV√ÅN                               |
+12|038|4|  4|  4|    |POHLM√úLLNER TAM√ÅS                       |
+12|038|4|  5|  3|    |KOPP√ÅNY CSABA                           |
+12|051|4|  1|  1|    |L√ÅZ√ÅR M√ìZES                             |
+12|051|4|  1|  2|    |TAK√ÅCS K√ÅROLY                           |
 12|051|4|  1|  3|    |HUBER ANTAL                             |
-12|051|4|  1|  5|    |VARG¡N… VOJN¡R KATALIN                  |
-12|051|4|  1|  4|    |HARTMANN J”ZSEF                         |
-12|051|4|  3|  1|    |KARDICS ISTV¡N                          |
-12|051|4|  4|  1|    |VARGA J¡NOS                             |
+12|051|4|  1|  5|    |VARG√ÅN√â VOJN√ÅR KATALIN                  |
+12|051|4|  1|  4|    |HARTMANN J√ìZSEF                         |
+12|051|4|  3|  1|    |KARDICS ISTV√ÅN                          |
+12|051|4|  4|  1|    |VARGA J√ÅNOS                             |
 12|064|4|  1|  2|    |PAPP GABRIELLA                          |
-12|064|4|  1|  3|    |S¡RK÷ZI J”ZSEF                          |
+12|064|4|  1|  3|    |S√ÅRK√ñZI J√ìZSEF                          |
 12|064|4|  2|  1|    |KERTI KATALIN                           |
-12|064|4|  3|  1|    |SZAPPANOS ISTV¡N                        |
-12|064|4|  5|  4|    |¡CS G¡BOR                               |
-12|064|4|  5|  5|    |BORS” TIBOR                             |
-12|064|4|  6|  1|    |SZAB” GYULA                             |
+12|064|4|  3|  1|    |SZAPPANOS ISTV√ÅN                        |
+12|064|4|  5|  4|    |√ÅCS G√ÅBOR                               |
+12|064|4|  5|  5|    |BORS√ì TIBOR                             |
+12|064|4|  6|  1|    |SZAB√ì GYULA                             |
 12|065|4|  1|  1|    |SZENTIRMAI FERENC                       |
-12|065|4|  2|  1|DR. |SZTRUH¡R GYULA                          |
+12|065|4|  2|  1|DR. |SZTRUH√ÅR GYULA                          |
 12|065|4|  2|  2|    |SCHMIDT CSABA                           |
-12|065|4|  2|  3|    |SZALAY ZOLT¡N                           |
-12|065|4|  2|  4|    |MAKL¡RY-SZALONTAI CSABA VILMOS          |
-12|065|4|  3|  1|    |LENGYEL P…TER                           |
+12|065|4|  2|  3|    |SZALAY ZOLT√ÅN                           |
+12|065|4|  2|  4|    |MAKL√ÅRY-SZALONTAI CSABA VILMOS          |
+12|065|4|  3|  1|    |LENGYEL P√âTER                           |
 12|065|4|  3|  3|    |TARNAI ENDRE                            |
-12|065|4|  5|  1|DR. |PETR¡SSY MIKL”S                         |
-12|065|4|  5|  2|    |HEGED€S CSABA                           |
-12|065|4|  5|  3|    |FENYVESI B…LA                           |
-12|065|4|  9|  1|    |L…VAI FERENC                            |
-12|065|5| 10|  2|    |KATZENBACH ¡D¡M                         |
-12|065|5| 11|  1|DR. |N…METH IMRE                             |
+12|065|4|  5|  1|DR. |PETR√ÅSSY MIKL√ìS                         |
+12|065|4|  5|  2|    |HEGED≈∞S CSABA                           |
+12|065|4|  5|  3|    |FENYVESI B√âLA                           |
+12|065|4|  9|  1|    |L√âVAI FERENC                            |
+12|065|5| 10|  2|    |KATZENBACH √ÅD√ÅM                         |
+12|065|5| 11|  1|DR. |N√âMETH IMRE                             |
 13|003|4|  1|  1|    |HERCZEG HAJNALKA                        |
-13|003|4|  1|  3|    |IBR¡NYI FERENC VINCE                    |
-13|003|4|  1|  4|    |T’ZS…R ZSOLT                            |
-13|003|4|  1|  2|    |CSACH G¡BOR L”R¡NT                      |
-13|003|4|  3|  1|    |L¡TK”CKI B¡LINT                         |
-13|003|4|  5|  1|    |SMITNYA S¡NDOR                          |
+13|003|4|  1|  3|    |IBR√ÅNYI FERENC VINCE                    |
+13|003|4|  1|  4|    |T≈êZS√âR ZSOLT                            |
+13|003|4|  1|  2|    |CSACH G√ÅBOR L√ìR√ÅNT                      |
+13|003|4|  3|  1|    |L√ÅTK√ìCKI B√ÅLINT                         |
+13|003|4|  5|  1|    |SMITNYA S√ÅNDOR                          |
 13|003|4|  5|  2|    |VIDA ATTILA                             |
-13|003|5|  6|  2|    |MOGYOR”SI GABRIELLA                     |
-13|006|4|  3|  1|    |KIS CSABA G…ZA                          |
-13|006|4|  3|  2|    |T”TH K¡ROLY                             |
-13|006|4|  3|  3|    |HORV¡TH MIH¡LY L¡SZL”                   |
-13|006|4|  4|  1|    |K÷VESI TIBOR DEZS’                      |
-13|006|4|  5|  1|    |NAGY MIH¡LY                             |
-13|006|4|  5|  3|    |PETRE LAJOSN…                           |
-13|006|4|  5|  2|    |HORV¡TH GY÷RGYN…                        |
-13|006|5|  1|  5|    |SZOMORA SZIL¡RD                         |
-13|097|4|  2|  2|    |BECS” K¡ROLY                            |
-13|097|4|  2|  3|    |KRISTON P…TER                           |
-13|097|4|  4|  1|    |K¡D¡RKUTI J”ZSEF                        |
-13|097|4|  4|  2|    |VOLEK GY÷RGY                            |
+13|003|5|  6|  2|    |MOGYOR√ìSI GABRIELLA                     |
+13|006|4|  3|  1|    |KIS CSABA G√âZA                          |
+13|006|4|  3|  2|    |T√ìTH K√ÅROLY                             |
+13|006|4|  3|  3|    |HORV√ÅTH MIH√ÅLY L√ÅSZL√ì                   |
+13|006|4|  4|  1|    |K√ñVESI TIBOR DEZS≈ê                      |
+13|006|4|  5|  1|    |NAGY MIH√ÅLY                             |
+13|006|4|  5|  3|    |PETRE LAJOSN√â                           |
+13|006|4|  5|  2|    |HORV√ÅTH GY√ñRGYN√â                        |
+13|006|5|  1|  5|    |SZOMORA SZIL√ÅRD                         |
+13|097|4|  2|  2|    |BECS√ì K√ÅROLY                            |
+13|097|4|  2|  3|    |KRISTON P√âTER                           |
+13|097|4|  4|  1|    |K√ÅD√ÅRKUTI J√ìZSEF                        |
+13|097|4|  4|  2|    |VOLEK GY√ñRGY                            |
 13|097|4|  6|  2|    |BALOGH TIBOR                            |
-13|097|4|  6|  5|    |PALATICZKY J¡NOS                        |
-13|097|4|  6|  3|    |MOLN¡R B…LA                             |
-13|097|5|  1|  1|    |JUSZTIN ISTV¡NN…                        |
-13|103|4|  2|  1|    |GUSZTOS P…TER                           |
-13|103|4|  2|  2|    |ERCS…NYI FERENC                         |
+13|097|4|  6|  5|    |PALATICZKY J√ÅNOS                        |
+13|097|4|  6|  3|    |MOLN√ÅR B√âLA                             |
+13|097|5|  1|  1|    |JUSZTIN ISTV√ÅNN√â                        |
+13|103|4|  2|  1|    |GUSZTOS P√âTER                           |
+13|103|4|  2|  2|    |ERCS√âNYI FERENC                         |
 13|103|4|  4|  1|    |NAGY ATTILA                             |
-13|103|4|  4|  2|    |T”TH ZOLT¡N                             |
-13|103|4|  6|  1|    |LANG¡R TAM¡S                            |
-13|103|4|  6|  4|    |L’RINCZ GYULA                           |
-13|103|4|  6|  5|    |TAT¡R CSABA                             |
-13|103|4|  6|  3|DR. |FENYVESI G¡BOR                          |
-13|103|4|  6|  2|DR. |BERCS…NYI LAJOS                         |
-13|103|5|  5|  8|    |OL¡H LAJOS                              |
-14|001|4|  1|  3|    |BENE L¡SZL”                             |
-14|001|4|  1|  4|    |VIR¡GN… LENDVAI ILONA                   |
-14|001|4|  2|  3|    |JAND¡CSIK ISTV¡N                        |
-14|001|4|  2|  5|    |B¡NN… HORNYIK M¡RIA                     |
-14|001|4|  4|  1|    |MUCS¡NYI TAM¡S                          |
-14|001|4|  4|  2|    |SZAB” FERENC                            |
-14|001|4|  6|  1|    |SZ€CS S¡NDOR                            |
-14|001|5|  3|  2|    |K¡LLAI ERN’                             |
-14|003|4|  1|  1|    |SZEBENSZKI J¡NOS                        |
+13|103|4|  4|  2|    |T√ìTH ZOLT√ÅN                             |
+13|103|4|  6|  1|    |LANG√ÅR TAM√ÅS                            |
+13|103|4|  6|  4|    |L≈êRINCZ GYULA                           |
+13|103|4|  6|  5|    |TAT√ÅR CSABA                             |
+13|103|4|  6|  3|DR. |FENYVESI G√ÅBOR                          |
+13|103|4|  6|  2|DR. |BERCS√âNYI LAJOS                         |
+13|103|5|  5|  8|    |OL√ÅH LAJOS                              |
+14|001|4|  1|  3|    |BENE L√ÅSZL√ì                             |
+14|001|4|  1|  4|    |VIR√ÅGN√â LENDVAI ILONA                   |
+14|001|4|  2|  3|    |JAND√ÅCSIK ISTV√ÅN                        |
+14|001|4|  2|  5|    |B√ÅNN√â HORNYIK M√ÅRIA                     |
+14|001|4|  4|  1|    |MUCS√ÅNYI TAM√ÅS                          |
+14|001|4|  4|  2|    |SZAB√ì FERENC                            |
+14|001|4|  6|  1|    |SZ≈∞CS S√ÅNDOR                            |
+14|001|5|  3|  2|    |K√ÅLLAI ERN≈ê                             |
+14|003|4|  1|  1|    |SZEBENSZKI J√ÅNOS                        |
 14|003|4|  3|  1|DR. |KISS TIBOR                              |
-14|003|4|  3|  2|    |KASSIK K¡ROLY                           |
+14|003|4|  3|  2|    |KASSIK K√ÅROLY                           |
 14|003|4|  5|  1|    |MAGYAR ATTILA                           |
-14|003|4|  5|  2|    |B…KI J”ZSEFN…                           |
-14|003|4|  6|  1|    |ELTER J¡NOS                             |
-14|003|4|  7|  1|    |SIPOSN… GY÷RE ZSUZSANNA                 |
-14|014|4|  1|  2|    |SOML”V¡RI J”ZSEFN…                      |
-14|014|4|  1|  3|    |GRƒFL L¡SZL”                            |
-14|014|4|  2|  1|    |S¡NDOR ZOLT¡N                           |
-14|014|4|  2|  3|    |KERT…SZ FERENC                          |
-14|014|4|  3|  1|    |ASZTALOS GYUL¡N…                        |
-14|014|4|  7|  2|    |LENDVAI ENDRE L¡SZL”                    |
-14|014|4|  9|  1|IFJ.|HEGED€S LOR¡NT                          |
-14|014|5|  5|  1|    |BECHTOLD G¡BOR                          |
-14|015|4|  2|  2|    |LUX L¡SZL”                              |
-14|015|4|  6|  1|    |WOLF G¡BOR                              |
-14|015|4|  6|  2|    |L…VAY ERN’                              |
-14|015|4|  7|  2|    |NAGY GY÷RGY                             |
-14|015|4| 12|  1|    |NAGY TAM¡S                              |
-14|015|4| 12|  2|    |DUD¡S L¡SZL”                            |
-14|015|4| 12|  3|    |L…VAY CSABA                             |
+14|003|4|  5|  2|    |B√âKI J√ìZSEFN√â                           |
+14|003|4|  6|  1|    |ELTER J√ÅNOS                             |
+14|003|4|  7|  1|    |SIPOSN√â GY√ñRE ZSUZSANNA                 |
+14|014|4|  1|  2|    |SOML√ìV√ÅRI J√ìZSEFN√â                      |
+14|014|4|  1|  3|    |GR√ÑFL L√ÅSZL√ì                            |
+14|014|4|  2|  1|    |S√ÅNDOR ZOLT√ÅN                           |
+14|014|4|  2|  3|    |KERT√âSZ FERENC                          |
+14|014|4|  3|  1|    |ASZTALOS GYUL√ÅN√â                        |
+14|014|4|  7|  2|    |LENDVAI ENDRE L√ÅSZL√ì                    |
+14|014|4|  9|  1|IFJ.|HEGED≈∞S LOR√ÅNT                          |
+14|014|5|  5|  1|    |BECHTOLD G√ÅBOR                          |
+14|015|4|  2|  2|    |LUX L√ÅSZL√ì                              |
+14|015|4|  6|  1|    |WOLF G√ÅBOR                              |
+14|015|4|  6|  2|    |L√âVAY ERN≈ê                              |
+14|015|4|  7|  2|    |NAGY GY√ñRGY                             |
+14|015|4| 12|  1|    |NAGY TAM√ÅS                              |
+14|015|4| 12|  2|    |DUD√ÅS L√ÅSZL√ì                            |
+14|015|4| 12|  3|    |L√âVAY CSABA                             |
 14|015|5|  8|  2|    |MEINCZINGER TIBOR                       |
-14|015|5|  9|  2|    |SZIDIROPULOSZ L¡SZL”                    |
-14|015|5| 10|  2|    |B¡NLAKI J”ZSEF                          |
-14|015|5| 11|  1|    |P…NZESN… V…GV¡RI ¡GNES                  |
-14|017|4|  1|  1|DR. |KECSKEM…TI MIH¡LY                       |
-14|017|4|  2|  1|    |HORV¡TH J”ZSEF                          |
-14|017|4|  2|  2|    |KECSKEM…TI M¡RIA                        |
-14|017|4|  3|  1|    |K¡ROLY TAM¡S                            |
-14|017|4|  5|  1|    |M¡RKUS J¡NOS                            |
-14|017|4|  6|  1|    |TAK¡TS L¡SZL”                           |
-14|017|4|  6|  2|    |KOV¡CS G¡BOR                            |
-14|017|4|  6|  3|    |SZUNYOGH L¡SZL”                         |
-14|017|4|  7|  3|DR. |HORV¡TH TIBORN…                         |
-14|025|4|  3|  1|    |SZAB” ISTV¡N                            |
-14|025|4|  6|  1|    |R¡CZ N¡NDOR                             |
-14|025|4|  6|  2|    |STRUPKA J”ZSEF                          |
-14|025|4|  7|  1|    |PRAUDA G¡BOR                            |
-14|025|4|  8|  1|DR. |G¡BOR FERENC                            |
-14|025|4|  8|  4|    |KR¡LL B…LA                              |
-14|025|4|  8|  3|    |VARGA L¡SZL”                            |
-14|025|5|  1|  1|    |LAKATOS S¡NDOR                          |
-14|025|5|  5|  1|    |ZADUNAJSZKI J”ZSEF                      |
-14|025|5|  9|  2|    |M…SZ¡ROS J¡NOS                          |
-14|025|5| 10|  2|    |KOSZTOL¡NYI ZOLT¡NN…                    |
+14|015|5|  9|  2|    |SZIDIROPULOSZ L√ÅSZL√ì                    |
+14|015|5| 10|  2|    |B√ÅNLAKI J√ìZSEF                          |
+14|015|5| 11|  1|    |P√âNZESN√â V√âGV√ÅRI √ÅGNES                  |
+14|017|4|  1|  1|DR. |KECSKEM√âTI MIH√ÅLY                       |
+14|017|4|  2|  1|    |HORV√ÅTH J√ìZSEF                          |
+14|017|4|  2|  2|    |KECSKEM√âTI M√ÅRIA                        |
+14|017|4|  3|  1|    |K√ÅROLY TAM√ÅS                            |
+14|017|4|  5|  1|    |M√ÅRKUS J√ÅNOS                            |
+14|017|4|  6|  1|    |TAK√ÅTS L√ÅSZL√ì                           |
+14|017|4|  6|  2|    |KOV√ÅCS G√ÅBOR                            |
+14|017|4|  6|  3|    |SZUNYOGH L√ÅSZL√ì                         |
+14|017|4|  7|  3|DR. |HORV√ÅTH TIBORN√â                         |
+14|025|4|  3|  1|    |SZAB√ì ISTV√ÅN                            |
+14|025|4|  6|  1|    |R√ÅCZ N√ÅNDOR                             |
+14|025|4|  6|  2|    |STRUPKA J√ìZSEF                          |
+14|025|4|  7|  1|    |PRAUDA G√ÅBOR                            |
+14|025|4|  8|  1|DR. |G√ÅBOR FERENC                            |
+14|025|4|  8|  4|    |KR√ÅLL B√âLA                              |
+14|025|4|  8|  3|    |VARGA L√ÅSZL√ì                            |
+14|025|5|  1|  1|    |LAKATOS S√ÅNDOR                          |
+14|025|5|  5|  1|    |ZADUNAJSZKI J√ìZSEF                      |
+14|025|5|  9|  2|    |M√âSZ√ÅROS J√ÅNOS                          |
+14|025|5| 10|  2|    |KOSZTOL√ÅNYI ZOLT√ÅNN√â                    |
 14|033|4|  2|  1|    |SZALAY LAJOS                            |
 14|033|4|  5|  1|    |SZLEKOVICS CSABA                        |
-14|033|4|  8|  2|    |LUTTENBERGER GUSZT¡V                    |
-14|033|4| 10|  1|    |OP¡NSZKI J”ZSEF                         |
-14|033|4| 11|  1|    |V÷R÷S ERZS…BET MAGDOLNA                 |
-14|033|4| 12|  1|    |F‹L÷P L¡SZL”                            |
-14|033|5|  6|  1|    |DROPPA B…LA                             |
-14|033|5|  7|  2|    |JAKAB ISTV¡N                            |
-14|034|4|  1|  1|    |SZAB” TAM¡S                             |
+14|033|4|  8|  2|    |LUTTENBERGER GUSZT√ÅV                    |
+14|033|4| 10|  1|    |OP√ÅNSZKI J√ìZSEF                         |
+14|033|4| 11|  1|    |V√ñR√ñS ERZS√âBET MAGDOLNA                 |
+14|033|4| 12|  1|    |F√úL√ñP L√ÅSZL√ì                            |
+14|033|5|  6|  1|    |DROPPA B√âLA                             |
+14|033|5|  7|  2|    |JAKAB ISTV√ÅN                            |
+14|034|4|  1|  1|    |SZAB√ì TAM√ÅS                             |
 14|034|4|  2|  4|    |STEHLIK FERENC                          |
-14|034|4|  3|  1|    |ERD…SZ ZOLT¡N                           |
-14|034|4|  3|  3|    |DI”SSI CSABA                            |
-14|034|4|  3|  4|    |K¡RP¡TI ZOLT¡N IMRE                     |
-14|034|4|  3|  2|    |SELTENREICH J”ZSEF                      |
-14|034|4|  4|  1|    |HALM¡GYI J”ZSEF                         |
-14|034|4|  7|  3|    |KOLL¡R ALBIN                            |
-14|034|4|  7|  5|    |BAUER M¡RTON                            |
-14|034|5|  8|  1|    |GY’RFI GY÷RGY                           |
-14|038|4|  1|  1|    |JAKAB B…LA                              |
-14|038|4|  4|  1|    |T.M…SZ¡ROS ANDR¡S J”ZSEF                |
-14|038|4|  4|  2|    |SEGESDI J¡NOS                           |
-14|038|4|  4|  3|    |K…RI MIH¡LY                             |
-14|038|4|  4|  4|    |SZAB” B…LA L¡SZL”                       |
-14|038|4|  4|  5|    |M”R¡S ZSOLT                             |
-14|038|4|  7|  1|    |KOCSIS B…LA                             |
-14|038|4|  8|  1|    |K¡D¡R KENESE                            |
-14|038|4| 12|  1|    |PATAKI J¡NOS                            |
-14|038|4| 12|  2|    |HANCSOVSZKI J¡NOS                       |
+14|034|4|  3|  1|    |ERD√âSZ ZOLT√ÅN                           |
+14|034|4|  3|  3|    |DI√ìSSI CSABA                            |
+14|034|4|  3|  4|    |K√ÅRP√ÅTI ZOLT√ÅN IMRE                     |
+14|034|4|  3|  2|    |SELTENREICH J√ìZSEF                      |
+14|034|4|  4|  1|    |HALM√ÅGYI J√ìZSEF                         |
+14|034|4|  7|  3|    |KOLL√ÅR ALBIN                            |
+14|034|4|  7|  5|    |BAUER M√ÅRTON                            |
+14|034|5|  8|  1|    |GY≈êRFI GY√ñRGY                           |
+14|038|4|  1|  1|    |JAKAB B√âLA                              |
+14|038|4|  4|  1|    |T.M√âSZ√ÅROS ANDR√ÅS J√ìZSEF                |
+14|038|4|  4|  2|    |SEGESDI J√ÅNOS                           |
+14|038|4|  4|  3|    |K√âRI MIH√ÅLY                             |
+14|038|4|  4|  4|    |SZAB√ì B√âLA L√ÅSZL√ì                       |
+14|038|4|  4|  5|    |M√ìR√ÅS ZSOLT                             |
+14|038|4|  7|  1|    |KOCSIS B√âLA                             |
+14|038|4|  8|  1|    |K√ÅD√ÅR KENESE                            |
+14|038|4| 12|  1|    |PATAKI J√ÅNOS                            |
+14|038|4| 12|  2|    |HANCSOVSZKI J√ÅNOS                       |
 14|038|5|  9|  2|    |FALUSI FERENC                           |
-14|041|4|  1|  1|    |D”RA LAJOS                              |
-14|041|4|  1|  2|    |POZDERKA G¡BOR                          |
-14|041|4|  3|  1|    |MISKA K¡ROLY                            |
-14|041|4|  3|  2|    |ADORJ¡N ANDR¡S IMR…N…                   |
-14|041|4|  4|  1|    |BUKTA ANDR¡S J¡NOS                      |
-14|041|4|  5|  1|    |VARG¡N… MADAR¡SZ ERZS…BET M¡RIA         |
-14|041|4|  5|  2|    |GUZSALY L¡SZL”N…                        |
-14|046|4|  1|  1|    |SZEGEDI S¡NDOR                          |
-14|046|4|  2|  1|    |B”DIN… R¡BAI ZITA B”DI ZITA             |
-14|046|4|  6|  1|DR. |L¡SZL” DOMOKOS                          |
-14|046|4|  7|  1|    |MUDRI J”ZSEF                            |
-14|046|4|  8|  3|    |SALAMON TAM¡S                           |
-14|046|4|  8|  4|    |ILY…S GIZELLA                           |
-14|046|4|  9|  1|DR. |BOGN¡R L¡SZL”                           |
-14|047|4|  2|  1|DR. |B‹KKFALVY BEATRIX                       |
+14|041|4|  1|  1|    |D√ìRA LAJOS                              |
+14|041|4|  1|  2|    |POZDERKA G√ÅBOR                          |
+14|041|4|  3|  1|    |MISKA K√ÅROLY                            |
+14|041|4|  3|  2|    |ADORJ√ÅN ANDR√ÅS IMR√âN√â                   |
+14|041|4|  4|  1|    |BUKTA ANDR√ÅS J√ÅNOS                      |
+14|041|4|  5|  1|    |VARG√ÅN√â MADAR√ÅSZ ERZS√âBET M√ÅRIA         |
+14|041|4|  5|  2|    |GUZSALY L√ÅSZL√ìN√â                        |
+14|046|4|  1|  1|    |SZEGEDI S√ÅNDOR                          |
+14|046|4|  2|  1|    |B√ìDIN√â R√ÅBAI ZITA B√ìDI ZITA             |
+14|046|4|  6|  1|DR. |L√ÅSZL√ì DOMOKOS                          |
+14|046|4|  7|  1|    |MUDRI J√ìZSEF                            |
+14|046|4|  8|  3|    |SALAMON TAM√ÅS                           |
+14|046|4|  8|  4|    |ILY√âS GIZELLA                           |
+14|046|4|  9|  1|DR. |BOGN√ÅR L√ÅSZL√ì                           |
+14|047|4|  2|  1|DR. |B√úKKFALVY BEATRIX                       |
 14|047|4|  4|  2|    |SIX EDIT                                |
-14|047|4|  4|  4|    |HAL¡SZ LEVENTE                          |
-14|047|4|  4|  5|DR. |SZ…KELY CSABA                           |
-14|047|4|  4|  6|    |G¡SP¡R J¡NOS                            |
-14|047|4|  5|  1|    |D¡VID L¡SZL”                            |
-14|047|4|  6|  4|    |KOV¡CS BARNAB¡S                         |
-14|047|4|  6|  5|    |PAPP ZOLT¡N                             |
-14|047|4|  6|  6|    |FISCHER ERN’                            |
-14|048|4|  2|  1|    |T”TH S¡NDOR                             |
-14|048|4|  3|  1|    |KOV¡CS ANTAL                            |
-14|048|4|  3|  6|    |L…VAI S¡NDOR J”ZSEF                     |
-14|048|4|  3|  4|    |V…GH TIBOR                              |
-14|048|4|  6|  2|    |P¡PAI MIH¡LY                            |
-14|048|4|  6|  4|    |GAZDIKN… KASA CSILLA                    |
+14|047|4|  4|  4|    |HAL√ÅSZ LEVENTE                          |
+14|047|4|  4|  5|DR. |SZ√âKELY CSABA                           |
+14|047|4|  4|  6|    |G√ÅSP√ÅR J√ÅNOS                            |
+14|047|4|  5|  1|    |D√ÅVID L√ÅSZL√ì                            |
+14|047|4|  6|  4|    |KOV√ÅCS BARNAB√ÅS                         |
+14|047|4|  6|  5|    |PAPP ZOLT√ÅN                             |
+14|047|4|  6|  6|    |FISCHER ERN≈ê                            |
+14|048|4|  2|  1|    |T√ìTH S√ÅNDOR                             |
+14|048|4|  3|  1|    |KOV√ÅCS ANTAL                            |
+14|048|4|  3|  6|    |L√âVAI S√ÅNDOR J√ìZSEF                     |
+14|048|4|  3|  4|    |V√âGH TIBOR                              |
+14|048|4|  6|  2|    |P√ÅPAI MIH√ÅLY                            |
+14|048|4|  6|  4|    |GAZDIKN√â KASA CSILLA                    |
 14|048|4|  6|  6|    |BADICS FERENC                           |
-14|049|4|  1|  1|    |SPAITS MIKL”S                           |
+14|049|4|  1|  1|    |SPAITS MIKL√ìS                           |
 14|049|4|  3|  1|    |HODRUSZKY LAJOS                         |
-14|049|4|  3|  2|    |BALOGH B…LA                             |
-14|049|4|  5|  3|    |SAS ZOLT¡N                              |
-14|049|4|  7|  1|    |NAGY TIBORN…                            |
-14|049|4|  7|  3|    |SZABADI L¡SZL”                          |
-14|049|4|  8|  1|    |GAR¡DI ISTV¡N B…LA                      |
-14|058|4|  1|  3|    |HOLL” J”ZSEF                            |
-14|058|4|  2|  1|    |MARKEL ISTV¡N                           |
-14|058|4|  2|  2|    |BARK”CZI J”ZSEFN…                       |
-14|058|4|  2|  3|    |G”DOR J”ZSEFN… BODROGI M¡RIA            |
-14|058|4|  4|  1|    |P…NZES J¡NOS                            |
-14|058|4|  4|  2|    |SZIL¡RDI L¡SZL”                         |
-14|058|4|  5|  1|    |M¡ZIK J”ZSEFN…                          |
-14|085|4|  1|  1|    |J¡VORSZKI GY÷RGY                        |
-14|085|4|  4|  1|    |Z¡TROK K¡ROLY                           |
-14|085|4|  4|  2|    |J¡NOSOVITS MIKL”S                       |
-14|085|4|  6|  1|    |VARGA JEN’                              |
-14|085|4|  6|  4|DR. |DOBOS GY÷RGY ISTV¡N                     |
-14|085|4|  6|  5|DR. |DUD¡S JEN’                              |
-14|085|4|  6|  2|    |HORV¡TH FERENC                          |
-14|087|4|  3|  1|    |SZAB” J¡NOS                             |
+14|049|4|  3|  2|    |BALOGH B√âLA                             |
+14|049|4|  5|  3|    |SAS ZOLT√ÅN                              |
+14|049|4|  7|  1|    |NAGY TIBORN√â                            |
+14|049|4|  7|  3|    |SZABADI L√ÅSZL√ì                          |
+14|049|4|  8|  1|    |GAR√ÅDI ISTV√ÅN B√âLA                      |
+14|058|4|  1|  3|    |HOLL√ì J√ìZSEF                            |
+14|058|4|  2|  1|    |MARKEL ISTV√ÅN                           |
+14|058|4|  2|  2|    |BARK√ìCZI J√ìZSEFN√â                       |
+14|058|4|  2|  3|    |G√ìDOR J√ìZSEFN√â BODROGI M√ÅRIA            |
+14|058|4|  4|  1|    |P√âNZES J√ÅNOS                            |
+14|058|4|  4|  2|    |SZIL√ÅRDI L√ÅSZL√ì                         |
+14|058|4|  5|  1|    |M√ÅZIK J√ìZSEFN√â                          |
+14|085|4|  1|  1|    |J√ÅVORSZKI GY√ñRGY                        |
+14|085|4|  4|  1|    |Z√ÅTROK K√ÅROLY                           |
+14|085|4|  4|  2|    |J√ÅNOSOVITS MIKL√ìS                       |
+14|085|4|  6|  1|    |VARGA JEN≈ê                              |
+14|085|4|  6|  4|DR. |DOBOS GY√ñRGY ISTV√ÅN                     |
+14|085|4|  6|  5|DR. |DUD√ÅS JEN≈ê                              |
+14|085|4|  6|  2|    |HORV√ÅTH FERENC                          |
+14|087|4|  3|  1|    |SZAB√ì J√ÅNOS                             |
 14|087|4|  5|  1|    |BAJDIK FERENC                           |
-14|087|4|  6|  1|DR. |SALIB¡N… PAP TER…ZIA                    |
-14|087|4|  6|  4|    |KELE ERN’                               |
-14|087|4|  6|  2|    |DORNER G¡BOR                            |
-14|087|4|  6|  3|DR. |TARI ISTV¡N                             |
+14|087|4|  6|  1|DR. |SALIB√ÅN√â PAP TER√âZIA                    |
+14|087|4|  6|  4|    |KELE ERN≈ê                               |
+14|087|4|  6|  2|    |DORNER G√ÅBOR                            |
+14|087|4|  6|  3|DR. |TARI ISTV√ÅN                             |
 14|087|4|  7|  1|    |RADICS IMRE                             |
-14|087|5|  1|  4|    |CSIK”S S¡NDOR                           |
-14|089|4|  1|  2|    |L¡SZL” FERENC                           |
-14|089|4|  1|  3|    |NYERGES ISTV¡N                          |
-14|089|4|  2|  1|DR. |KOLTAY ZOLT¡N                           |
-14|089|4|  4|  1|DR. |SZENCZI ¡RP¡D                           |
-14|089|4|  5|  1|    |D…NES D…NES                             |
-14|089|4|  6|  1|    |KOV¡CS ISTV¡N                           |
-14|089|4|  8|  1|    |K”SA S¡NDOR                             |
-14|089|4|  9|  2|    |KARSAY ISTV¡NN…                         |
-14|089|4|  9|  5|G   |KOV¡CS S¡NDOR                           |
-14|102|4|  1|  1|    |ZSOMBORI S¡NDOR                         |
-14|102|4|  4|  1|    |M¡RKUS J¡NOS                            |
-14|102|4|  5|  2|    |SARL”S IMRE                             |
-14|102|4|  7|  1|    |KUSZ¡K R”BERT                           |
-14|102|4|  7|  2|    |RIG” ZOLT¡N                             |
-14|102|4|  9|  2|    |SZ”LL¡TH CSAB¡N…                        |
-14|102|4| 12|  3|    |KISS MIKL”S                             |
-14|102|5|  8|  2|    |BURAI J¡NOS TIBOR                       |
+14|087|5|  1|  4|    |CSIK√ìS S√ÅNDOR                           |
+14|089|4|  1|  2|    |L√ÅSZL√ì FERENC                           |
+14|089|4|  1|  3|    |NYERGES ISTV√ÅN                          |
+14|089|4|  2|  1|DR. |KOLTAY ZOLT√ÅN                           |
+14|089|4|  4|  1|DR. |SZENCZI √ÅRP√ÅD                           |
+14|089|4|  5|  1|    |D√âNES D√âNES                             |
+14|089|4|  6|  1|    |KOV√ÅCS ISTV√ÅN                           |
+14|089|4|  8|  1|    |K√ìSA S√ÅNDOR                             |
+14|089|4|  9|  2|    |KARSAY ISTV√ÅNN√â                         |
+14|089|4|  9|  5|G   |KOV√ÅCS S√ÅNDOR                           |
+14|102|4|  1|  1|    |ZSOMBORI S√ÅNDOR                         |
+14|102|4|  4|  1|    |M√ÅRKUS J√ÅNOS                            |
+14|102|4|  5|  2|    |SARL√ìS IMRE                             |
+14|102|4|  7|  1|    |KUSZ√ÅK R√ìBERT                           |
+14|102|4|  7|  2|    |RIG√ì ZOLT√ÅN                             |
+14|102|4|  9|  2|    |SZ√ìLL√ÅTH CSAB√ÅN√â                        |
+14|102|4| 12|  3|    |KISS MIKL√ìS                             |
+14|102|5|  8|  2|    |BURAI J√ÅNOS TIBOR                       |
 14|104|4|  2|  1|    |MALA FERENC                             |
-14|104|4|  2|  2|    |SZAB” M¡RTON                            |
-14|104|4|  3|  2|    |MOLN¡RN… B¡RTFAI ANDREA                 |
-14|104|4|  4|  2|    |B¡NHEGYI FERENC                         |
-14|104|4|  4|  4|    |VEREB S¡NDORN…                          |
-14|104|4|  4|  6|    |MISI J”ZSEF                             |
-14|104|4|  5|  1|    |IMECS L¡SZL”                            |
-14|112|4|  1|  1|    |FALICS J¡NOS                            |
-14|112|4|  2|  1|    |KRUPP J¡NOS                             |
+14|104|4|  2|  2|    |SZAB√ì M√ÅRTON                            |
+14|104|4|  3|  2|    |MOLN√ÅRN√â B√ÅRTFAI ANDREA                 |
+14|104|4|  4|  2|    |B√ÅNHEGYI FERENC                         |
+14|104|4|  4|  4|    |VEREB S√ÅNDORN√â                          |
+14|104|4|  4|  6|    |MISI J√ìZSEF                             |
+14|104|4|  5|  1|    |IMECS L√ÅSZL√ì                            |
+14|112|4|  1|  1|    |FALICS J√ÅNOS                            |
+14|112|4|  2|  1|    |KRUPP J√ÅNOS                             |
 14|112|4|  5|  1|    |BRUCKNER KATALIN                        |
-14|112|4|  6|  2|    |P¡NDI G¡BOR                             |
-14|112|4|  6|  4|    |K”S BEATRIX                             |
-14|112|4|  7|  1|    |MOLN¡R S¡NDOR                           |
-14|112|4|  9|  1|    |M‹LLER J¡NOS                            |
-14|113|4|  1|  1|DR. |T”TH G¡BORN…                            |
-14|113|4|  1|  2|    |Z”LYOMI G¡BORN…                         |
-14|113|4| 11|  1|    |VICSI L¡SZL”                            |
+14|112|4|  6|  2|    |P√ÅNDI G√ÅBOR                             |
+14|112|4|  6|  4|    |K√ìS BEATRIX                             |
+14|112|4|  7|  1|    |MOLN√ÅR S√ÅNDOR                           |
+14|112|4|  9|  1|    |M√úLLER J√ÅNOS                            |
+14|113|4|  1|  1|DR. |T√ìTH G√ÅBORN√â                            |
+14|113|4|  1|  2|    |Z√ìLYOMI G√ÅBORN√â                         |
+14|113|4| 11|  1|    |VICSI L√ÅSZL√ì                            |
 14|113|4| 11|  2|    |ZSEBE ZSOLT                             |
-14|113|4| 11|  4|    |THURZ” L¡SZL”                           |
-14|113|4| 11|  3|    |DUR” IMR…N… K”SA ANIK”                  |
+14|113|4| 11|  4|    |THURZ√ì L√ÅSZL√ì                           |
+14|113|4| 11|  3|    |DUR√ì IMR√âN√â K√ìSA ANIK√ì                  |
 14|113|4| 12|  1|    |VAIZER ZSIGMOND                         |
-14|113|5|  3|  1|    |ERD…LYI S¡NDOR                          |
-14|113|5|  4|  1|    |CSABAI ERZS…BET                         |
-14|113|5|  5|  1|    |HORV¡TH ANDOR                           |
-14|113|5|  6|  1|    |NY¡RI IV¡N                              |
-14|113|5|  8|  1|    |FALICS B…LA                             |
-14|113|5| 13|  3|    |SZL¡VIK ISTV¡N                          |
-14|125|4|  1|  1|    |GABELICS TAM¡S                          |
-14|125|4|  1|  2|DR. |KORCSM¡ROS IV¡N                         |
+14|113|5|  3|  1|    |ERD√âLYI S√ÅNDOR                          |
+14|113|5|  4|  1|    |CSABAI ERZS√âBET                         |
+14|113|5|  5|  1|    |HORV√ÅTH ANDOR                           |
+14|113|5|  6|  1|    |NY√ÅRI IV√ÅN                              |
+14|113|5|  8|  1|    |FALICS B√âLA                             |
+14|113|5| 13|  3|    |SZL√ÅVIK ISTV√ÅN                          |
+14|125|4|  1|  1|    |GABELICS TAM√ÅS                          |
+14|125|4|  1|  2|DR. |KORCSM√ÅROS IV√ÅN                         |
 14|125|4|  3|  1|    |TORNAI TIBOR                            |
-14|125|4|  3|  2|    |BERN¡TH TIBOR ATTILA                    |
-14|125|4|  5|  1|    |SZIL¡GYI ISTV¡N                         |
-14|125|4|  8|  1|    |B¡NYAI P¡L                              |
-14|125|4|  8|  2|    |SZ…L P¡L                                |
-14|126|4|  1|  2|    |GULY¡S J”ZSEF                           |
+14|125|4|  3|  2|    |BERN√ÅTH TIBOR ATTILA                    |
+14|125|4|  5|  1|    |SZIL√ÅGYI ISTV√ÅN                         |
+14|125|4|  8|  1|    |B√ÅNYAI P√ÅL                              |
+14|125|4|  8|  2|    |SZ√âL P√ÅL                                |
+14|126|4|  1|  2|    |GULY√ÅS J√ìZSEF                           |
 14|126|4|  1|  4|    |MAGYAR JUDIT                            |
-14|126|4|  1|  5|    |BENKOVITS GY÷RGY                        |
-14|126|4|  1|  3|    |SIMONYI GY÷RGY                          |
-14|126|4|  4|  1|    |ZSIGMONDI …VA                           |
-14|126|4|  5|  1|    |HORV¡TH GUSZT¡V                         |
-14|126|4|  6|  1|DR. |P¡ZM¡NY ANNAM¡RIA                       |
-14|126|5|  7|  1|DR. |BINDORFFER GY÷RGYI                      |
+14|126|4|  1|  5|    |BENKOVITS GY√ñRGY                        |
+14|126|4|  1|  3|    |SIMONYI GY√ñRGY                          |
+14|126|4|  4|  1|    |ZSIGMONDI √âVA                           |
+14|126|4|  5|  1|    |HORV√ÅTH GUSZT√ÅV                         |
+14|126|4|  6|  1|DR. |P√ÅZM√ÅNY ANNAM√ÅRIA                       |
+14|126|5|  7|  1|DR. |BINDORFFER GY√ñRGYI                      |
 14|131|4|  2|  1|    |KUNGLI FERENC                           |
-14|131|4|  2|  2|    |BAL¡ZS MIKL”S                           |
-14|131|4|  3|  2|    |KOV¡CS GYULA                            |
+14|131|4|  2|  2|    |BAL√ÅZS MIKL√ìS                           |
+14|131|4|  3|  2|    |KOV√ÅCS GYULA                            |
 14|131|4|  3|  3|    |NAGY TIBOR                              |
-14|131|4|  3|  4|    |NAGY TIBORN…                            |
+14|131|4|  3|  4|    |NAGY TIBORN√â                            |
 14|131|4|  4|  1|    |FERENCZ EDIT                            |
-14|131|4|  4|  2|    |KEREPESI N¡NDOR                         |
-14|134|4|  1|  1|    |URB¡N SZAB” J”ZSEF                      |
-14|134|4|  2|  2|    |SZIL¡GYI ZOLT¡N                         |
-14|134|4|  2|  4|    |BALLA ¡KOS                              |
-14|134|4|  2|  3|    |SIMON P¡L                               |
-14|134|4|  3|  3|    |VIR¡G R”BERT                            |
-14|134|4|  3|  8|    |N¡DASDY ANDR¡S                          |
-14|134|4|  5|  1|    |GULY¡S LAJOS                            |
+14|131|4|  4|  2|    |KEREPESI N√ÅNDOR                         |
+14|134|4|  1|  1|    |URB√ÅN SZAB√ì J√ìZSEF                      |
+14|134|4|  2|  2|    |SZIL√ÅGYI ZOLT√ÅN                         |
+14|134|4|  2|  4|    |BALLA √ÅKOS                              |
+14|134|4|  2|  3|    |SIMON P√ÅL                               |
+14|134|4|  3|  3|    |VIR√ÅG R√ìBERT                            |
+14|134|4|  3|  8|    |N√ÅDASDY ANDR√ÅS                          |
+14|134|4|  5|  1|    |GULY√ÅS LAJOS                            |
 14|134|4|  7|  1|    |SZARVAS TIBOR                           |
-14|134|4|  7|  3|    |KOP¡CSI IBOLYA                          |
-14|158|4|  2|  3|    |SCHEIBLINGER P…TER                      |
-14|158|4|  2|  4|DR. |M¡TY¡SSY SZABOLCS                       |
+14|134|4|  7|  3|    |KOP√ÅCSI IBOLYA                          |
+14|158|4|  2|  3|    |SCHEIBLINGER P√âTER                      |
+14|158|4|  2|  4|DR. |M√ÅTY√ÅSSY SZABOLCS                       |
 14|158|4|  4|  2|    |HOCHBAUM PAUL                           |
-14|158|4|  5|  1|    |VERMESY S¡NDOR                          |
-14|158|4|  6|  1|    |S¡NDOR P…TER                            |
-14|158|4|  7|  1|    |PAPP B…LA                               |
-14|158|4|  7|  2|    |F€R…SZ J¡NOS                            |
-14|158|5|  1|  4|    |PEKK J”ZSEF                             |
+14|158|4|  5|  1|    |VERMESY S√ÅNDOR                          |
+14|158|4|  6|  1|    |S√ÅNDOR P√âTER                            |
+14|158|4|  7|  1|    |PAPP B√âLA                               |
+14|158|4|  7|  2|    |F≈∞R√âSZ J√ÅNOS                            |
+14|158|5|  1|  4|    |PEKK J√ìZSEF                             |
 14|169|4|  4|  1|    |IMRE ZSOLT                              |
-14|169|4|  4|  3|    |K’R÷SI CSABA                            |
-14|169|4|  4|  4|    |DEBRECENI J¡NOS                         |
-14|169|4|  4|  6|DR. |B…K…SI G¡BOR S¡NDOR                     |
-14|169|4|  5|  2|    |LUK¡CS ILONA                            |
-14|169|4|  6|  1|    |T”TH-ZSIGA MIKL”S                       |
-14|169|4|  7|  1|    |F÷RD’S ATTILA                           |
-14|169|4|  7|  2|    |MOK¡NSZKY ZOLT¡N                        |
-14|169|4|  8|  1|    |CSEREKLYE K¡ROLY                        |
-14|177|4|  2|  2|    |G¡L ISTV¡N                              |
-14|177|4|  2|  3|    |ALATTY¡NYI ISTV¡N                       |
-14|177|4|  4|  1|    |P¡VEL B…LA                              |
-14|177|4|  4|  2|    |GYUR¡KIN… S¡RDI KRISZTINA               |
-14|177|4|  5|  1|DR. |GERENCS…R BAL¡ZS                        |
-14|177|4|  5|  2|    |L’RINCZ FERENCN…                        |
-14|177|4|  6|  1|    |V…KONY FERENC                           |
-14|178|4|  1|  1|    |MORVAI L¡SZL”                           |
-14|178|4|  1|  2|    |SZAB” EDINA                             |
-14|178|4|  2|  1|    |GERH¡T IMRE                             |
+14|169|4|  4|  3|    |K≈êR√ñSI CSABA                            |
+14|169|4|  4|  4|    |DEBRECENI J√ÅNOS                         |
+14|169|4|  4|  6|DR. |B√âK√âSI G√ÅBOR S√ÅNDOR                     |
+14|169|4|  5|  2|    |LUK√ÅCS ILONA                            |
+14|169|4|  6|  1|    |T√ìTH-ZSIGA MIKL√ìS                       |
+14|169|4|  7|  1|    |F√ñRD≈êS ATTILA                           |
+14|169|4|  7|  2|    |MOK√ÅNSZKY ZOLT√ÅN                        |
+14|169|4|  8|  1|    |CSEREKLYE K√ÅROLY                        |
+14|177|4|  2|  2|    |G√ÅL ISTV√ÅN                              |
+14|177|4|  2|  3|    |ALATTY√ÅNYI ISTV√ÅN                       |
+14|177|4|  4|  1|    |P√ÅVEL B√âLA                              |
+14|177|4|  4|  2|    |GYUR√ÅKIN√â S√ÅRDI KRISZTINA               |
+14|177|4|  5|  1|DR. |GERENCS√âR BAL√ÅZS                        |
+14|177|4|  5|  2|    |L≈êRINCZ FERENCN√â                        |
+14|177|4|  6|  1|    |V√âKONY FERENC                           |
+14|178|4|  1|  1|    |MORVAI L√ÅSZL√ì                           |
+14|178|4|  1|  2|    |SZAB√ì EDINA                             |
+14|178|4|  2|  1|    |GERH√ÅT IMRE                             |
 14|178|4|  3|  2|    |FEKETE LENKE                            |
-14|178|4|  4|  1|    |MAKOVINYI MIH¡LYN…                      |
+14|178|4|  4|  1|    |MAKOVINYI MIH√ÅLYN√â                      |
 14|178|4|  4|  2|    |CZELLER KAROLIN                         |
-14|178|4|  6|  1|    |KOSIK J”ZSEF                            |
-14|178|5|  5|  1|    |BARANYI B…LA                            |
-15|020|4|  2|  1|    |KARVALICS OTT”                          |
-15|020|4|  2|  2|    |RACSEK J”ZSEF                           |
-15|020|4|  2|  3|    |SZALAI BAL¡ZS IMRE                      |
-15|020|4|  4|  1|    |HENGER J¡NOS                            |
-15|020|4|  4|  2|    |FODOR MIKL”S GYULA                      |
-15|020|4|  5|  1|    |KINCSEI J¡NOS                           |
-15|020|4|  8|  1|DR. |N…METH JEN’                             |
-15|020|5|  1|  1|    |HAGA FERENCN…                           |
-15|020|5|  7|  1|DR. |ILI¡SICS K¡ROLY                         |
+14|178|4|  6|  1|    |KOSIK J√ìZSEF                            |
+14|178|5|  5|  1|    |BARANYI B√âLA                            |
+15|020|4|  2|  1|    |KARVALICS OTT√ì                          |
+15|020|4|  2|  2|    |RACSEK J√ìZSEF                           |
+15|020|4|  2|  3|    |SZALAI BAL√ÅZS IMRE                      |
+15|020|4|  4|  1|    |HENGER J√ÅNOS                            |
+15|020|4|  4|  2|    |FODOR MIKL√ìS GYULA                      |
+15|020|4|  5|  1|    |KINCSEI J√ÅNOS                           |
+15|020|4|  8|  1|DR. |N√âMETH JEN≈ê                             |
+15|020|5|  1|  1|    |HAGA FERENCN√â                           |
+15|020|5|  7|  1|DR. |ILI√ÅSICS K√ÅROLY                         |
 15|020|5|  9|  1|    |BALOGH IMRE                             |
-15|091|4|  1|  1|    |PINT…R L”R¡ND                           |
-15|091|4|  5|  1|    |PINT…R ATTILA                           |
-15|091|4|  5|  3|    |POLY¡K J”ZSEF                           |
-15|091|4|  5|  2|    |SVAJDA J”ZSEF                           |
-15|091|4|  5|  4|    |HARJ¡N D¡VID                            |
-15|091|4|  5|  6|    |LAKI LUK¡CS LAJOSN…                     |
+15|091|4|  1|  1|    |PINT√âR L√ìR√ÅND                           |
+15|091|4|  5|  1|    |PINT√âR ATTILA                           |
+15|091|4|  5|  3|    |POLY√ÅK J√ìZSEF                           |
+15|091|4|  5|  2|    |SVAJDA J√ìZSEF                           |
+15|091|4|  5|  4|    |HARJ√ÅN D√ÅVID                            |
+15|091|4|  5|  6|    |LAKI LUK√ÅCS LAJOSN√â                     |
 15|091|4|  5|  8|    |CSORNAI FERENC                          |
-15|091|4|  5|  7|    |KURUCZ J¡NOS                            |
-15|091|4|  5|  5|    |HOFFMANN-N… HETESI NO…MI ADRIENN        |
-15|091|4|  7|  1|    |PUSK¡S B…LA                             |
-15|091|4|  7|  2|DR. |GYENESEI ISTV¡N                         |
+15|091|4|  5|  7|    |KURUCZ J√ÅNOS                            |
+15|091|4|  5|  5|    |HOFFMANN-N√â HETESI NO√âMI ADRIENN        |
+15|091|4|  7|  1|    |PUSK√ÅS B√âLA                             |
+15|091|4|  7|  2|DR. |GYENESEI ISTV√ÅN                         |
 15|123|4|  1|  1|    |KISS VINCE                              |
-15|123|4|  1|  2|    |HORV¡TH J”ZSEF                          |
-15|123|4|  3|  2|    |OLASZ ISTV¡NN…                          |
-15|123|4|  4|  1|    |MAJER ISTV¡N                            |
-15|123|4|  4|  2|DR. |HOR¡NYI FERENC                          |
-15|123|4|  4|  6|    |F¡NDLI P…TER                            |
-15|123|4|  4|  5|    |KIS-D÷RNYEI L¡SZL”                      |
-15|130|4|  1|  1|DR. |LUDAS L¡SZL”                            |
-15|130|4|  1|  2|    |BAKOS J”ZSEF                            |
-15|130|4|  3|  1|    |GARA ISTV¡N                             |
-15|130|4|  5|  1|    |R¡K”CZY ATTILA                          |
-15|130|4|  5|  3|    |CSENDESN… MUR¡NYI IBOLYA                |
-15|130|4|  7|  2|    |SASV¡RI TAM¡S                           |
+15|123|4|  1|  2|    |HORV√ÅTH J√ìZSEF                          |
+15|123|4|  3|  2|    |OLASZ ISTV√ÅNN√â                          |
+15|123|4|  4|  1|    |MAJER ISTV√ÅN                            |
+15|123|4|  4|  2|DR. |HOR√ÅNYI FERENC                          |
+15|123|4|  4|  6|    |F√ÅNDLI P√âTER                            |
+15|123|4|  4|  5|    |KIS-D√ñRNYEI L√ÅSZL√ì                      |
+15|130|4|  1|  1|DR. |LUDAS L√ÅSZL√ì                            |
+15|130|4|  1|  2|    |BAKOS J√ìZSEF                            |
+15|130|4|  3|  1|    |GARA ISTV√ÅN                             |
+15|130|4|  5|  1|    |R√ÅK√ìCZY ATTILA                          |
+15|130|4|  5|  3|    |CSENDESN√â MUR√ÅNYI IBOLYA                |
+15|130|4|  7|  2|    |SASV√ÅRI TAM√ÅS                           |
 15|130|4|  7|  3|DR. |NOVOTNY ZITA                            |
-15|130|5|  2|  3|    |ORS”S P…TER                             |
-15|175|4|  3|  1|    |KELEMEN P…TER                           |
+15|130|5|  2|  3|    |ORS√ìS P√âTER                             |
+15|175|4|  3|  1|    |KELEMEN P√âTER                           |
 15|175|4|  3|  2|    |SZENTE IMRE                             |
-15|175|4|  3|  5|    |STRANGLI J”ZSEFN…                       |
+15|175|4|  3|  5|    |STRANGLI J√ìZSEFN√â                       |
 15|175|4|  3|  4|    |SOMOGYI GYULA                           |
-15|175|4|  4|  2|    |CSORBA OTT”                             |
-15|175|4|  5|  1|    |HAMVAS P…TER                            |
-15|175|4|  5|  2|    |GYARMATI L¡SZL”                         |
-15|175|5|  6|  1|    |N…METH LAJOS                            |
-16|077|4|  3|  2|    |T”TH L¡SZL”                             |
-16|077|4|  3|  3|    |PODLOVICSN… LINZENBOLD MARIANN          |
+15|175|4|  4|  2|    |CSORBA OTT√ì                             |
+15|175|4|  5|  1|    |HAMVAS P√âTER                            |
+15|175|4|  5|  2|    |GYARMATI L√ÅSZL√ì                         |
+15|175|5|  6|  1|    |N√âMETH LAJOS                            |
+16|077|4|  3|  2|    |T√ìTH L√ÅSZL√ì                             |
+16|077|4|  3|  3|    |PODLOVICSN√â LINZENBOLD MARIANN          |
 16|077|4|  5|  1|    |GUBIK TIBOR                             |
-16|077|4|  6|  1|DR. |SESZT¡K MIKL”S                          |
-16|077|4|  8|  1|    |BORK” K¡ROLY                            |
-16|077|4|  9|  1|DR. |PAPIK TAM¡S FERENC                      |
-16|077|4| 10|  3|    |SIMONN… DR. BAR¡TH ANDREA               |
-16|077|5|  4|  5|ID. |LAKATOS ISTV¡N                          |
-16|094|4|  2|  1|    |F‹L÷P ISTV¡N                            |
-16|094|4|  4|  1|    |SERES MIKL”S                            |
-16|094|4|  9|  1|    |SZAB” ISTV¡N                            |
-16|094|4|  9|  4|    |NAGY MIKL”S                             |
-16|094|4|  9|  2|    |DANKAI TAM¡S                            |
-16|094|4| 14|  1|    |EMBER L¡SZL”                            |
-16|094|4| 15|  2|    |FEH…R J¡NOS                             |
-16|094|5| 11|  3|    |FARKAS S¡NDOR                           |
-16|094|5| 12|  2|DR. |T”TH ANDR¡S                             |
-16|106|4|  4|  1|    |HORV¡TH S¡NDOR                          |
-16|106|4|  5|  1|    |TREF¡N J¡NOSN…                          |
-16|106|4|  6|  1|    |PAPP L¡SZL”                             |
-16|106|4|  7|  2|    |KISS J”ZSEF                             |
-16|106|4|  8|  1|    |HORV¡TH K¡ROLY                          |
+16|077|4|  6|  1|DR. |SESZT√ÅK MIKL√ìS                          |
+16|077|4|  8|  1|    |BORK√ì K√ÅROLY                            |
+16|077|4|  9|  1|DR. |PAPIK TAM√ÅS FERENC                      |
+16|077|4| 10|  3|    |SIMONN√â DR. BAR√ÅTH ANDREA               |
+16|077|5|  4|  5|ID. |LAKATOS ISTV√ÅN                          |
+16|094|4|  2|  1|    |F√úL√ñP ISTV√ÅN                            |
+16|094|4|  4|  1|    |SERES MIKL√ìS                            |
+16|094|4|  9|  1|    |SZAB√ì ISTV√ÅN                            |
+16|094|4|  9|  4|    |NAGY MIKL√ìS                             |
+16|094|4|  9|  2|    |DANKAI TAM√ÅS                            |
+16|094|4| 14|  1|    |EMBER L√ÅSZL√ì                            |
+16|094|4| 15|  2|    |FEH√âR J√ÅNOS                             |
+16|094|5| 11|  3|    |FARKAS S√ÅNDOR                           |
+16|094|5| 12|  2|DR. |T√ìTH ANDR√ÅS                             |
+16|106|4|  4|  1|    |HORV√ÅTH S√ÅNDOR                          |
+16|106|4|  5|  1|    |TREF√ÅN J√ÅNOSN√â                          |
+16|106|4|  6|  1|    |PAPP L√ÅSZL√ì                             |
+16|106|4|  7|  2|    |KISS J√ìZSEF                             |
+16|106|4|  8|  1|    |HORV√ÅTH K√ÅROLY                          |
 16|106|4|  8|  3|    |BALOGH IMRE                             |
-16|106|4| 11|  1|    |OROSZN… DR. NAGY MATILD                 |
-16|106|5|  9|  2|    |DUKA K¡ROLY                             |
-16|112|4|  1|  1|    |T”TH ZOLT¡N                             |
-16|112|4|  1|  2|    |HORV¡TH R”BERTN…                        |
-16|112|4|  1|  3|    |TREF¡N LAJOS                            |
-16|112|4|  4|  2|    |TAPASZT” ANDR¡SN…                       |
-16|112|4|  5|  1|    |B¡THORI G¡BOR                           |
-16|112|4|  5|  2|DR. |GA¡LN… DR. J”ZSA BORB¡LA                |
-16|112|5|  6|  3|    |V¡RADI G¡BOR                            |
-16|119|4|  3|  1|    |TAPOLCAI ZOLT¡N                         |
-16|119|4|  3|  2|    |FARAG” P…TER                            |
-16|119|4|  4|  1|    |TUKACS ISTV¡N                           |
+16|106|4| 11|  1|    |OROSZN√â DR. NAGY MATILD                 |
+16|106|5|  9|  2|    |DUKA K√ÅROLY                             |
+16|112|4|  1|  1|    |T√ìTH ZOLT√ÅN                             |
+16|112|4|  1|  2|    |HORV√ÅTH R√ìBERTN√â                        |
+16|112|4|  1|  3|    |TREF√ÅN LAJOS                            |
+16|112|4|  4|  2|    |TAPASZT√ì ANDR√ÅSN√â                       |
+16|112|4|  5|  1|    |B√ÅTHORI G√ÅBOR                           |
+16|112|4|  5|  2|DR. |GA√ÅLN√â DR. J√ìZSA BORB√ÅLA                |
+16|112|5|  6|  3|    |V√ÅRADI G√ÅBOR                            |
+16|119|4|  3|  1|    |TAPOLCAI ZOLT√ÅN                         |
+16|119|4|  3|  2|    |FARAG√ì P√âTER                            |
+16|119|4|  4|  1|    |TUKACS ISTV√ÅN                           |
 16|119|4|  6|  1|    |FELBERMANN ENDRE                        |
-16|119|4|  6|  2|    |LENDVAI ISTV¡N                          |
-16|119|4|  7|  2|DR. |SOLT…SZ J¡NOS                           |
-16|119|4|  7|  6|    |B…RES J”ZSEF                            |
-16|119|4|  7|  3|    |F÷LDESI ISTV¡N                          |
-16|119|4| 12|  1|DR. |FAZEKAS J¡NOS                           |
-16|119|4| 12|  3|DR. |VINNAI GY’Z’                            |
-16|119|4| 12|  5|    |MARSALK” P¡L                            |
-16|119|4| 12|  6|    |SIPOS KUND K÷T÷NY                       |
-16|119|4| 12|  4|    |M¡RF÷LDI ISTV¡N                         |
-16|119|4| 12|  2|    |PARRAGH D…NES                           |
-16|204|4|  1|  1|    |PALL” S¡NDOR                            |
-16|204|4|  1|  2|    |SZ’KE ZOLT¡N                            |
-16|204|4|  3|  3|    |BALOGH L¡SZL”                           |
-16|204|4|  5|  2|    |KEREKESN… L…VAI ERIKA                   |
-16|204|4|  7|  1|DR. |LITKEI L¡SZL”                           |
-16|204|4|  7|  2|    |HANK” ANDR¡S                            |
-16|204|4|  8|  1|    |V¡RKONYI ISTV¡N                         |
-16|204|5|  9|  1|    |K”TI ERN’                               |
-16|217|4|  1|  1|    |GALAMBOS J¡NOS                          |
+16|119|4|  6|  2|    |LENDVAI ISTV√ÅN                          |
+16|119|4|  7|  2|DR. |SOLT√âSZ J√ÅNOS                           |
+16|119|4|  7|  6|    |B√âRES J√ìZSEF                            |
+16|119|4|  7|  3|    |F√ñLDESI ISTV√ÅN                          |
+16|119|4| 12|  1|DR. |FAZEKAS J√ÅNOS                           |
+16|119|4| 12|  3|DR. |VINNAI GY≈êZ≈ê                            |
+16|119|4| 12|  5|    |MARSALK√ì P√ÅL                            |
+16|119|4| 12|  6|    |SIPOS KUND K√ñT√ñNY                       |
+16|119|4| 12|  4|    |M√ÅRF√ñLDI ISTV√ÅN                         |
+16|119|4| 12|  2|    |PARRAGH D√âNES                           |
+16|204|4|  1|  1|    |PALL√ì S√ÅNDOR                            |
+16|204|4|  1|  2|    |SZ≈êKE ZOLT√ÅN                            |
+16|204|4|  3|  3|    |BALOGH L√ÅSZL√ì                           |
+16|204|4|  5|  2|    |KEREKESN√â L√âVAI ERIKA                   |
+16|204|4|  7|  1|DR. |LITKEI L√ÅSZL√ì                           |
+16|204|4|  7|  2|    |HANK√ì ANDR√ÅS                            |
+16|204|4|  8|  1|    |V√ÅRKONYI ISTV√ÅN                         |
+16|204|5|  9|  1|    |K√ìTI ERN≈ê                               |
+16|217|4|  1|  1|    |GALAMBOS J√ÅNOS                          |
 16|217|4|  2|  1|    |RICSKA ZSOLT                            |
-16|217|4|  2|  2|    |SZ…KELY J”ZSEF                          |
-16|217|4|  2|  3|    |SZIL¡GYI ANTALN…                        |
-16|217|4|  3|  1|    |FORR” ZOLT¡N                            |
-16|217|4|  4|  1|    |T”TH ANDR¡S                             |
+16|217|4|  2|  2|    |SZ√âKELY J√ìZSEF                          |
+16|217|4|  2|  3|    |SZIL√ÅGYI ANTALN√â                        |
+16|217|4|  3|  1|    |FORR√ì ZOLT√ÅN                            |
+16|217|4|  4|  1|    |T√ìTH ANDR√ÅS                             |
 16|217|4|  4|  2|DR. |VERES FERENC                            |
-17|011|4|  2|  2|    |VARGA SZIL¡RD MIH¡LY                    |
-17|011|4|  2|  5|    |HELFENBEIN P…TER                        |
-17|011|4|  3|  1|    |LOV¡SZ TIBOR                            |
-17|011|4|  3|  2|    |FREY J”ZSEF                             |
-17|011|4|  4|  1|    |POG¡TSA ALAJOS                          |
+17|011|4|  2|  2|    |VARGA SZIL√ÅRD MIH√ÅLY                    |
+17|011|4|  2|  5|    |HELFENBEIN P√âTER                        |
+17|011|4|  3|  1|    |LOV√ÅSZ TIBOR                            |
+17|011|4|  3|  2|    |FREY J√ìZSEF                             |
+17|011|4|  4|  1|    |POG√ÅTSA ALAJOS                          |
 17|011|4|  4|  3|    |MOSONYI GYULA                           |
 17|011|4|  4|  4|    |HAHNER FERENC                           |
 17|011|5|  1|  5|    |RITTINGER ANTAL                         |
-17|011|5|  5|  1|    |BABAI L¡SZL”                            |
-17|020|4|  1|  2|DR. |BERTA B¡LINT                            |
-17|020|4|  3|  1|    |FEH…RV¡RI TAM¡S                         |
-17|020|4|  3|  3|    |KERECS…NYI M¡RTON                       |
-17|020|4|  3|  2|    |HERBST J¡NOS                            |
-17|020|4|  5|  1|DR. |T”TH M¡RIA                              |
-17|020|4|  5|  2|    |SZENTKIR¡LYI ATTILA                     |
-17|020|4|  7|  1|DR. |SZ…KELY ATTILA                          |
-17|020|5|  4|  4|    |GLAUB J¡NOS                             |
-17|079|4|  1|  1|    |HERCZEG J”ZSEF                          |
-17|079|4|  2|  1|DR. |POTOCZKY IV¡N GYULA                     |
-17|079|4|  2|  2|    |KOV¡CS S¡NDOR                           |
-17|079|4|  3|  2|    |BARNAB¡S ISTV¡N                         |
-17|079|4|  4|  2|    |J¡RF¡S TAM¡S                            |
+17|011|5|  5|  1|    |BABAI L√ÅSZL√ì                            |
+17|020|4|  1|  2|DR. |BERTA B√ÅLINT                            |
+17|020|4|  3|  1|    |FEH√âRV√ÅRI TAM√ÅS                         |
+17|020|4|  3|  3|    |KERECS√âNYI M√ÅRTON                       |
+17|020|4|  3|  2|    |HERBST J√ÅNOS                            |
+17|020|4|  5|  1|DR. |T√ìTH M√ÅRIA                              |
+17|020|4|  5|  2|    |SZENTKIR√ÅLYI ATTILA                     |
+17|020|4|  7|  1|DR. |SZ√âKELY ATTILA                          |
+17|020|5|  4|  4|    |GLAUB J√ÅNOS                             |
+17|079|4|  1|  1|    |HERCZEG J√ìZSEF                          |
+17|079|4|  2|  1|DR. |POTOCZKY IV√ÅN GYULA                     |
+17|079|4|  2|  2|    |KOV√ÅCS S√ÅNDOR                           |
+17|079|4|  3|  2|    |BARNAB√ÅS ISTV√ÅN                         |
+17|079|4|  4|  2|    |J√ÅRF√ÅS TAM√ÅS                            |
 17|079|4|  5|  1|DR. |BENCSIK LAJOS                           |
 17|079|4|  6|  1|    |BOR IMRE                                |
-17|095|4|  2|  1|DR. |T”TH CSABA                              |
-17|095|4|  3|  1|    |LACK” L¡SZL”                            |
-17|095|4|  3|  3|DR. |HAAG …VA                                |
-17|095|4|  3|  2|    |LISZICZA ISTV¡N                         |
-17|095|4|  5|  1|    |N…METH ZOLT¡N                           |
-17|095|4|  5|  3|    |LIEBHAUSER J¡NOS                        |
-17|095|4|  5|  2|    |JOBBAN ZOLT¡N                           |
-17|095|4|  6|  1|    |HALMAI G¡BORN…                          |
-17|095|4|  7|  1|    |SZ’KE ISTV¡N                            |
+17|095|4|  2|  1|DR. |T√ìTH CSABA                              |
+17|095|4|  3|  1|    |LACK√ì L√ÅSZL√ì                            |
+17|095|4|  3|  3|DR. |HAAG √âVA                                |
+17|095|4|  3|  2|    |LISZICZA ISTV√ÅN                         |
+17|095|4|  5|  1|    |N√âMETH ZOLT√ÅN                           |
+17|095|4|  5|  3|    |LIEBHAUSER J√ÅNOS                        |
+17|095|4|  5|  2|    |JOBBAN ZOLT√ÅN                           |
+17|095|4|  6|  1|    |HALMAI G√ÅBORN√â                          |
+17|095|4|  7|  1|    |SZ≈êKE ISTV√ÅN                            |
 17|095|5|  8|  8|    |SZILY LAJOS                             |
-17|099|4|  1|  1|    |SZ…LES M¡RTONN…                         |
-17|099|4|  1|  2|    |SZAK¡LOS MIH¡LY                         |
-17|099|4|  2|  1|    |TAK¡CS ISTV¡N P¡L                       |
-17|099|4|  6|  1|    |TAK¡CS J¡NOS                            |
-17|099|4|  7|  1|    |PIRGI J”ZSEF                            |
-17|099|4|  7|  2|    |STYASZNY L¡SZL”                         |
-17|099|4|  7|  3|    |DOSZPOD L¡SZL”N…                        |
-17|099|5|  3|  1|    |HO”S ERN’                               |
-18|020|4|  1|  2|    |S÷PTEI J”ZSEFN…                         |
+17|099|4|  1|  1|    |SZ√âLES M√ÅRTONN√â                         |
+17|099|4|  1|  2|    |SZAK√ÅLOS MIH√ÅLY                         |
+17|099|4|  2|  1|    |TAK√ÅCS ISTV√ÅN P√ÅL                       |
+17|099|4|  6|  1|    |TAK√ÅCS J√ÅNOS                            |
+17|099|4|  7|  1|    |PIRGI J√ìZSEF                            |
+17|099|4|  7|  2|    |STYASZNY L√ÅSZL√ì                         |
+17|099|4|  7|  3|    |DOSZPOD L√ÅSZL√ìN√â                        |
+17|099|5|  3|  1|    |HO√ìS ERN≈ê                               |
+18|020|4|  1|  2|    |S√ñPTEI J√ìZSEFN√â                         |
 18|020|4|  1|  3|    |SOMOGYI GYULA                           |
-18|020|4|  3|  1|    |HET…NYI L¡SZL”                          |
-18|020|4|  5|  2|    |N…METH D…NES                            |
-18|020|4|  5|  3|DR. |KISS ANNAM¡RIA                          |
-18|020|4|  6|  1|    |HORV¡TH MELINDA                         |
-18|020|4|  6|  2|    |P’CZE ISTV¡NN…                          |
-18|095|4|  1|  1|    |GEOSICS L¡SZL”                          |
-18|095|4|  3|  1|    |BAK”CZAI-IHRIG GUSZT¡V                  |
-18|095|4|  4|  1|    |SZABADI ISTV¡N                          |
+18|020|4|  3|  1|    |HET√âNYI L√ÅSZL√ì                          |
+18|020|4|  5|  2|    |N√âMETH D√âNES                            |
+18|020|4|  5|  3|DR. |KISS ANNAM√ÅRIA                          |
+18|020|4|  6|  1|    |HORV√ÅTH MELINDA                         |
+18|020|4|  6|  2|    |P≈êCZE ISTV√ÅNN√â                          |
+18|095|4|  1|  1|    |GEOSICS L√ÅSZL√ì                          |
+18|095|4|  3|  1|    |BAK√ìCZAI-IHRIG GUSZT√ÅV                  |
+18|095|4|  4|  1|    |SZABADI ISTV√ÅN                          |
 18|095|4|  5|  1|DR. |STIPKOVITS FERENC                       |
-18|095|4|  5|  2|    |KOZ” J”ZSEF                             |
-18|095|4|  5|  3|    |B¡N MIKL”S                              |
+18|095|4|  5|  2|    |KOZ√ì J√ìZSEF                             |
+18|095|4|  5|  3|    |B√ÅN MIKL√ìS                              |
 18|095|4|  5|  4|    |EGYED GYULA                             |
-18|095|5|  6|  2|    |HORV¡TH S¡NDOR                          |
-18|096|4|  2|  1|    |KRUG GUSZT¡V                            |
-18|096|4|  2|  2|    |HORV¡TH FERENC                          |
-18|096|4|  3|  5|    |RAPOSA HELGA ERZS…BET                   |
-18|096|4|  4|  1|    |HAUER TAM¡S                             |
-18|096|4|  5|  1|    |BAKOS GY÷RGY                            |
-18|096|4|  6|  2|    |K¡LM¡N J”ZSEF                           |
-18|096|4|  6|  3|    |FEJ…R G¡BORN…                           |
-18|096|5|  1|  3|    |PETKOVITS S¡NDOR                        |
-18|167|4|  1|  1|    |PINT…R L¡SZL”                           |
-18|167|4|  3|  1|DR. |KOV¡CS GYULA                            |
-18|167|4|  3|  3|    |N…METH J”ZSEFN…                         |
-18|167|4|  3|  4|    |N…METH ISTV¡N                           |
+18|095|5|  6|  2|    |HORV√ÅTH S√ÅNDOR                          |
+18|096|4|  2|  1|    |KRUG GUSZT√ÅV                            |
+18|096|4|  2|  2|    |HORV√ÅTH FERENC                          |
+18|096|4|  3|  5|    |RAPOSA HELGA ERZS√âBET                   |
+18|096|4|  4|  1|    |HAUER TAM√ÅS                             |
+18|096|4|  5|  1|    |BAKOS GY√ñRGY                            |
+18|096|4|  6|  2|    |K√ÅLM√ÅN J√ìZSEF                           |
+18|096|4|  6|  3|    |FEJ√âR G√ÅBORN√â                           |
+18|096|5|  1|  3|    |PETKOVITS S√ÅNDOR                        |
+18|167|4|  1|  1|    |PINT√âR L√ÅSZL√ì                           |
+18|167|4|  3|  1|DR. |KOV√ÅCS GYULA                            |
+18|167|4|  3|  3|    |N√âMETH J√ìZSEFN√â                         |
+18|167|4|  3|  4|    |N√âMETH ISTV√ÅN                           |
 18|167|4|  3|  2|    |VARGA ZSOLT                             |
-18|167|4|  4|  1|DR. |SZAB” ISTV¡N                            |
-18|167|4|  7|  1|    |PAJOR ANDR¡S                            |
-18|186|4|  1|  1|    |GOMB¡S ENDRE                            |
-18|186|4|  2|  5|    |HORV¡TH GY÷RGY                          |
+18|167|4|  4|  1|DR. |SZAB√ì ISTV√ÅN                            |
+18|167|4|  7|  1|    |PAJOR ANDR√ÅS                            |
+18|186|4|  1|  1|    |GOMB√ÅS ENDRE                            |
+18|186|4|  2|  5|    |HORV√ÅTH GY√ñRGY                          |
 18|186|4|  2|  8|    |FEJES TIBOR                             |
-18|186|4|  2| 10|    |L¡SZL” GY’Z’                            |
-18|186|4|  5|  1|DR. |SZAB” G¡BOR                             |
-18|186|4|  5|  5|    |VIGH G¡BOR                              |
-18|186|4|  5|  4|    |¡GH P…TER                               |
+18|186|4|  2| 10|    |L√ÅSZL√ì GY≈êZ≈ê                            |
+18|186|4|  5|  1|DR. |SZAB√ì G√ÅBOR                             |
+18|186|4|  5|  5|    |VIGH G√ÅBOR                              |
+18|186|4|  5|  4|    |√ÅGH P√âTER                               |
 18|186|4|  5|  2|    |RETTEGI ATTILA                          |
-18|186|4|  5|  3|    |B÷R÷CZ MIKL”S                           |
+18|186|4|  5|  3|    |B√ñR√ñCZ MIKL√ìS                           |
 18|186|4|  6|  1|DR. |PRUGBERGER EMIL                         |
-18|186|4|  6|  2|    |MOLN¡R MIKL”S                           |
-18|186|5|  3|  7|    |ZIELBAUER GY÷RGY                        |
-19|003|4|  2|  1|DR. |SZAB” ISTV¡N                            |
-19|003|4|  5|  1|    |STOL¡R MIH¡LY                           |
-19|003|4|  5|  6|    |FENYVESI ZOLT¡N                         |
-19|003|4|  5|  5|    |H…J¡SSY FL”RI¡N                         |
-19|003|4|  5|  2|    |F‹L÷P ZOLT¡N                            |
-19|003|4|  5|  3|    |HORV¡TTH D¡NIEL                         |
-19|003|4|  5|  4|    |HELYES TAM¡S                            |
-19|003|4|  8|  1|    |MARITS J¡NOSN…                          |
-19|003|4|  8|  2|    |HARTMANN IV¡N                           |
-19|003|5|  3|  1|    |P¡KAI P…TER                             |
+18|186|4|  6|  2|    |MOLN√ÅR MIKL√ìS                           |
+18|186|5|  3|  7|    |ZIELBAUER GY√ñRGY                        |
+19|003|4|  2|  1|DR. |SZAB√ì ISTV√ÅN                            |
+19|003|4|  5|  1|    |STOL√ÅR MIH√ÅLY                           |
+19|003|4|  5|  6|    |FENYVESI ZOLT√ÅN                         |
+19|003|4|  5|  5|    |H√âJ√ÅSSY FL√ìRI√ÅN                         |
+19|003|4|  5|  2|    |F√úL√ñP ZOLT√ÅN                            |
+19|003|4|  5|  3|    |HORV√ÅTTH D√ÅNIEL                         |
+19|003|4|  5|  4|    |HELYES TAM√ÅS                            |
+19|003|4|  8|  1|    |MARITS J√ÅNOSN√â                          |
+19|003|4|  8|  2|    |HARTMANN IV√ÅN                           |
+19|003|5|  3|  1|    |P√ÅKAI P√âTER                             |
 19|026|4|  3|  1|    |FEKETE GYULA                            |
-19|026|4|  5|  1|    |NAGY JEN’                               |
-19|026|4|  5|  3|    |GEIPL MIKL”SN…                          |
-19|026|4|  5|  2|    |TAK¡CS MIKL”S                           |
-19|026|4|  6|  2|    |PETH’N… SCHULCZ ¡GNES                   |
+19|026|4|  5|  1|    |NAGY JEN≈ê                               |
+19|026|4|  5|  3|    |GEIPL MIKL√ìSN√â                          |
+19|026|4|  5|  2|    |TAK√ÅCS MIKL√ìS                           |
+19|026|4|  6|  2|    |PETH≈êN√â SCHULCZ √ÅGNES                   |
 19|026|4|  6|  3|    |CSIZMAZIA SZILVESZTER                   |
 19|026|4|  8|  1|    |STEIERLEIN ATTILA                       |
-19|153|4|  3|  1|DR. |N…METH M¡RTA                            |
-19|153|4|  3|  2|    |G’G÷S ZOLT¡N                            |
-19|153|4|  3|  3|    |P”CSIK ¡RP¡D                            |
-19|153|4|  3|  6|    |K÷V…R J”ZSEF                            |
-19|153|4|  3|  9|    |TULOK ANDR¡S                            |
+19|153|4|  3|  1|DR. |N√âMETH M√ÅRTA                            |
+19|153|4|  3|  2|    |G≈êG√ñS ZOLT√ÅN                            |
+19|153|4|  3|  3|    |P√ìCSIK √ÅRP√ÅD                            |
+19|153|4|  3|  6|    |K√ñV√âR J√ìZSEF                            |
+19|153|4|  3|  9|    |TULOK ANDR√ÅS                            |
 19|153|4|  3|  8|    |SZIRBEK RITA                            |
-19|153|4|  3|  4|    |PINGICZER S¡NDOR                        |
-19|153|4|  4| 11|    |TAK¡CS P¡L                              |
-19|153|4|  5|  1|    |SZAB” TIBOR                             |
-19|188|4|  3|  1|    |BOGD¡N TAM¡S                            |
+19|153|4|  3|  4|    |PINGICZER S√ÅNDOR                        |
+19|153|4|  4| 11|    |TAK√ÅCS P√ÅL                              |
+19|153|4|  5|  1|    |SZAB√ì TIBOR                             |
+19|188|4|  3|  1|    |BOGD√ÅN TAM√ÅS                            |
 19|188|4|  4|  1|    |BARBALICS ANTAL                         |
-19|188|4|  4|  5|    |L…VAI J”ZSEF                            |
-19|188|4|  4|  4|DR. |CSONKA L¡SZL”                           |
-19|188|4|  4|  2|    |SIBAK ANDR¡S                            |
-19|188|4|  4|  3|    |BAL¡ZSN… KISS …VA                       |
-19|188|4|  6|  1|    |LENGYEL J”ZSEF                          |
-19|201|4|  2|  2|    |T÷RZS÷K K¡ROLY                          |
-19|201|4|  3|  1|    |PADOS ZOLT¡NN…                          |
-19|201|4|  3|  2|DR. |SZ’KE L¡SZL”                            |
-19|201|4|  6|  1|    |LASSU TAM¡S                             |
-19|201|4|  6|  2|    |FAK¡SZ TAM¡S                            |
-19|201|4|  6|  3|    |CSISZ¡R ERN’                            |
+19|188|4|  4|  5|    |L√âVAI J√ìZSEF                            |
+19|188|4|  4|  4|DR. |CSONKA L√ÅSZL√ì                           |
+19|188|4|  4|  2|    |SIBAK ANDR√ÅS                            |
+19|188|4|  4|  3|    |BAL√ÅZSN√â KISS √âVA                       |
+19|188|4|  6|  1|    |LENGYEL J√ìZSEF                          |
+19|201|4|  2|  2|    |T√ñRZS√ñK K√ÅROLY                          |
+19|201|4|  3|  1|    |PADOS ZOLT√ÅNN√â                          |
+19|201|4|  3|  2|DR. |SZ≈êKE L√ÅSZL√ì                            |
+19|201|4|  6|  1|    |LASSU TAM√ÅS                             |
+19|201|4|  6|  2|    |FAK√ÅSZ TAM√ÅS                            |
+19|201|4|  6|  3|    |CSISZ√ÅR ERN≈ê                            |
 19|201|4|  6|  4|    |KATONA CSABA                            |
-19|201|5|  1|  1|    |MALOTA L¡SZL”                           |
-19|203|4|  1|  8|    |SZ…LESY K¡ROLY                          |
-19|203|4|  1|  9|    |Z…T…NYI P…TER                           |
-19|203|4|  3|  1|DR. |VARGA ZOLT¡N                            |
-19|203|4|  3|  2|    |P…TERN… R”ZSA M¡RIA                     |
-19|203|4|  7|  1|DR. |M¡TY¡S ISTV¡N                           |
-19|203|4|  7|  2|    |MIKL”S G¡BOR FERENC                     |
-19|203|4|  8|  3|DR. |SZALAY ANDR¡S                           |
-19|203|4|  9|  1|    |BERN¡TH ILDIK”                          |
-19|203|4|  9|  2|DR. |REDNIK ANDR¡S                           |
-19|203|4|  9|  4|    |MAROSY ANDR¡S                           |
+19|201|5|  1|  1|    |MALOTA L√ÅSZL√ì                           |
+19|203|4|  1|  8|    |SZ√âLESY K√ÅROLY                          |
+19|203|4|  1|  9|    |Z√âT√âNYI P√âTER                           |
+19|203|4|  3|  1|DR. |VARGA ZOLT√ÅN                            |
+19|203|4|  3|  2|    |P√âTERN√â R√ìZSA M√ÅRIA                     |
+19|203|4|  7|  1|DR. |M√ÅTY√ÅS ISTV√ÅN                           |
+19|203|4|  7|  2|    |MIKL√ìS G√ÅBOR FERENC                     |
+19|203|4|  8|  3|DR. |SZALAY ANDR√ÅS                           |
+19|203|4|  9|  1|    |BERN√ÅTH ILDIK√ì                          |
+19|203|4|  9|  2|DR. |REDNIK ANDR√ÅS                           |
+19|203|4|  9|  4|    |MAROSY ANDR√ÅS                           |
 19|203|5|  2|  1|DR. |ALBERT VENDEL                           |
-20|093|4|  2|  1|    |R”ZSAHEGYI GY÷RGY VILMOS                |
-20|093|4|  3|  1|    |MOLN¡R IMRE                             |
-20|093|4|  4|  2|    |SZAB” GY÷RGY J”ZSEF                     |
-20|093|4|  4|  3|    |KISS J”ZSEF J¡NOS                       |
-20|093|4|  5|  2|    |CS”T¡R ANDR¡S                           |
-20|093|4|  5|  6|    |KOM¡ROMI ISTV¡N                         |
-20|093|4|  6|  1|    |N¡DLER J”ZSEF MIH¡LY                    |
-20|134|4|  1|  1|    |CSERESNY…S P…TER                        |
-20|134|4|  1|  2|    |SCH¡B GY÷RGY                            |
-20|134|4|  1|  4|DR. |KOLONICS B¡LINT                         |
-20|134|4|  1|  5|DR. |CS¡KAI IV¡N                             |
-20|134|4|  1|  3|    |PAPP N¡NDOR                             |
-20|134|4|  3|  1|    |ZAK” L¡SZL”                             |
-20|134|4|  4|  1|    |GY÷RGY P¡L                              |
+20|093|4|  2|  1|    |R√ìZSAHEGYI GY√ñRGY VILMOS                |
+20|093|4|  3|  1|    |MOLN√ÅR IMRE                             |
+20|093|4|  4|  2|    |SZAB√ì GY√ñRGY J√ìZSEF                     |
+20|093|4|  4|  3|    |KISS J√ìZSEF J√ÅNOS                       |
+20|093|4|  5|  2|    |CS√ìT√ÅR ANDR√ÅS                           |
+20|093|4|  5|  6|    |KOM√ÅROMI ISTV√ÅN                         |
+20|093|4|  6|  1|    |N√ÅDLER J√ìZSEF MIH√ÅLY                    |
+20|134|4|  1|  1|    |CSERESNY√âS P√âTER                        |
+20|134|4|  1|  2|    |SCH√ÅB GY√ñRGY                            |
+20|134|4|  1|  4|DR. |KOLONICS B√ÅLINT                         |
+20|134|4|  1|  5|DR. |CS√ÅKAI IV√ÅN                             |
+20|134|4|  1|  3|    |PAPP N√ÅNDOR                             |
+20|134|4|  3|  1|    |ZAK√ì L√ÅSZL√ì                             |
+20|134|4|  4|  1|    |GY√ñRGY P√ÅL                              |
 20|134|4|  4|  2|    |CSERTI TIBOR                            |
-20|134|4|  5|  1|    |R÷ST J¡NOS                              |
-20|134|4|  5|  2|    |KERESKAI P…TER                          |
-20|134|5|  7|  5|    |J¡RNEC ISTV¡N                           |
-20|134|5|  8|  5|    |NAGY J”ZSEF GY÷RGY                      |
+20|134|4|  5|  1|    |R√ñST J√ÅNOS                              |
+20|134|4|  5|  2|    |KERESKAI P√âTER                          |
+20|134|5|  7|  5|    |J√ÅRNEC ISTV√ÅN                           |
+20|134|5|  8|  5|    |NAGY J√ìZSEF GY√ñRGY                      |
 20|231|4|  3|  1|    |GYUTAI CSABA                            |
-20|231|4|  3|  3|    |RIG” CSABA BAL¡ZS                       |
-20|231|4|  5|  1|DR. |RIBICZEY P¡L ANDR¡S                     |
-20|231|4|  5|  2|    |LUK¡CS TIBOR P…TER                      |
+20|231|4|  3|  3|    |RIG√ì CSABA BAL√ÅZS                       |
+20|231|4|  5|  1|DR. |RIBICZEY P√ÅL ANDR√ÅS                     |
+20|231|4|  5|  2|    |LUK√ÅCS TIBOR P√âTER                      |
 20|231|4|  6|  2|    |HERBERT FERENC                          |
-20|231|4|  6|  4|    |K¡R¡SZN… DR. R¡CZ LÕDIA                 |
-20|231|4|  6|  5|    |SZAB” KATALIN                           |
-20|231|4|  6|  6|    |DEVECSERN… ”V¡RI IBOLYA                 |
-20|231|4|  6|  8|    |HORV¡TH MIKL”S                          |
-20|231|4|  6|  9|    |BAL¡ZS ZSOLT                            |
-20|231|4|  7|  1|    |P÷LTL TIBOR ISTV¡N                      |
-20|231|5|  2|  2|    |BOGD¡N J¡NOS                            |
+20|231|4|  6|  4|    |K√ÅR√ÅSZN√â DR. R√ÅCZ L√çDIA                 |
+20|231|4|  6|  5|    |SZAB√ì KATALIN                           |
+20|231|4|  6|  6|    |DEVECSERN√â √ìV√ÅRI IBOLYA                 |
+20|231|4|  6|  8|    |HORV√ÅTH MIKL√ìS                          |
+20|231|4|  6|  9|    |BAL√ÅZS ZSOLT                            |
+20|231|4|  7|  1|    |P√ñLTL TIBOR ISTV√ÅN                      |
+20|231|5|  2|  2|    |BOGD√ÅN J√ÅNOS                            |

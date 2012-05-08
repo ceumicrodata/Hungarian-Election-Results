@@ -1,5 +1,5 @@
-  1|Dr.|Demszky G·bor                                                                             | 362289|  1|
-  2|   |Katona K·lm·n                                                                             |  46367|  0|
-  3|   |SzÈkely PÈter                                                                             |   4212|  0|
-  4|   |TarlÛs Istv·n                                                                             | 349412|  0|
-  5|   |Zsinka L·szlÛ                                                                             |  10791|  0|
+  1|Dr.|Demszky G√°bor                                                                             | 362289|  1|
+  2|   |Katona K√°lm√°n                                                                             |  46367|  0|
+  3|   |Sz√©kely P√©ter                                                                             |   4212|  0|
+  4|   |Tarl√≥s Istv√°n                                                                             | 349412|  0|
+  5|   |Zsinka L√°szl√≥                                                                             |  10791|  0|

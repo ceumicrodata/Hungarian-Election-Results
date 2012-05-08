@@ -1,41 +1,41 @@
 11|0|Nem / nincs / stb|
 11|1|Igen / van / stb|
-13|0|Nincs értékelve/nem volt vál.|A választás elmaradását jelzi
-13|1|Megsemmisített eredmény|A választási bizottság vagy bíróság az eredményt megsemmisítette
-13|2|Érvénytelen választás|
-13|4|Vál. érvényes, eredménytelen|A választás érvényes de eredménytelen (pl. szavazat egyenlõség miatt)
-13|5|Kis. vál. érvényes, eredményes|A kisebbségi választás érvényes és eredményes)
-13|6|Választás eredménytelen|
-13|7|Választás eredményes|
-16|0|Nem kisebbség|
-16|1|BOLGÁR|
+13|0|Nincs Ã©rtÃ©kelve/nem volt vÃ¡l.|A vÃ¡lasztÃ¡s elmaradÃ¡sÃ¡t jelzi
+13|1|MegsemmisÃ­tett eredmÃ©ny|A vÃ¡lasztÃ¡si bizottsÃ¡g vagy bÃ­rÃ³sÃ¡g az eredmÃ©nyt megsemmisÃ­tette
+13|2|Ã‰rvÃ©nytelen vÃ¡lasztÃ¡s|
+13|4|VÃ¡l. Ã©rvÃ©nyes, eredmÃ©nytelen|A vÃ¡lasztÃ¡s Ã©rvÃ©nyes de eredmÃ©nytelen (pl. szavazat egyenlÅ‘sÃ©g miatt)
+13|5|Kis. vÃ¡l. Ã©rvÃ©nyes, eredmÃ©nyes|A kisebbsÃ©gi vÃ¡lasztÃ¡s Ã©rvÃ©nyes Ã©s eredmÃ©nyes)
+13|6|VÃ¡lasztÃ¡s eredmÃ©nytelen|
+13|7|VÃ¡lasztÃ¡s eredmÃ©nyes|
+16|0|Nem kisebbsÃ©g|
+16|1|BOLGÃR|
 16|10|SZERB|
-16|11|SZLOVÁK|
-16|12|SZLOVÉN|
-16|13|UKRÁN|
-16|2|CIGÁNY|
-16|3|GÖRÖG|
-16|4|HORVÁT|
+16|11|SZLOVÃK|
+16|12|SZLOVÃ‰N|
+16|13|UKRÃN|
+16|2|CIGÃNY|
+16|3|GÃ–RÃ–G|
+16|4|HORVÃT|
 16|5|LENGYEL|
-16|6|NÉMET|
-16|7|ÖRMÉNY|
-16|8|ROMÁN|
+16|6|NÃ‰MET|
+16|7|Ã–RMÃ‰NY|
+16|8|ROMÃN|
 16|9|RUSZIN|
-25|1|Megyei lista 10e és alatti|A megyék 10000 és az alatti lakosú településeinek választókerületében állított lista, a megyei közgyûlés megválasztásához
-25|2|Megyei lista 10e feletti|A megyék 10000 feletti lakosú településeinek választókerületében állított lista, a megyei közgyûlés megválasztásához
-25|3|Fõvárosi közgyûlési lista|A fõváros kerületeinek választókerületében állított lista, a fõvárosi közgyûlés megválasztásához
-25|4|Kompenzációs lista|Vegyes választási rendszerben a 10000 lakosnál nagyobb településeken állított kompenzációs lista
-25|5|Kisebbségi kompenzációs lista|Vegyes választási rendszerben a 10000 lakosnál nagyobb településeken állított kisebbségi kompenzációs lista
-29|0|Nincs inf. mand.szám. nem tör.|Nincs információ mandátumszámítás még nem történt (rekord még nem érkezett be). 
-29|1|Mandátumot nyert|
-29|2|Kedvezményes mandátumot nyert|
-29|3|Nem nyert mandátumot|
-29|4|Nyert, de VB érvénytelenítette|
-29|5|Polgármester lett|
-29|6|Nyert, de lemondott mandról|
-29|7|Egyéni VK-ben nyert|Vegyes választási rendszerben a jelölt egyéni választókerületben mandátumhoz jutott, ezért a kompenzációs listán már nem juthat mandátumhoz
-29|9|Szavazategyenlõség áll fenn|
-57|0|Párt|
-57|1|Társadalmi szervezet|
-57|2|Kisebbségi szervezet|
-57|4|Független jelölt|
+25|1|Megyei lista 10e Ã©s alatti|A megyÃ©k 10000 Ã©s az alatti lakosÃº telepÃ¼lÃ©seinek vÃ¡lasztÃ³kerÃ¼letÃ©ben Ã¡llÃ­tott lista, a megyei kÃ¶zgyÅ±lÃ©s megvÃ¡lasztÃ¡sÃ¡hoz
+25|2|Megyei lista 10e feletti|A megyÃ©k 10000 feletti lakosÃº telepÃ¼lÃ©seinek vÃ¡lasztÃ³kerÃ¼letÃ©ben Ã¡llÃ­tott lista, a megyei kÃ¶zgyÅ±lÃ©s megvÃ¡lasztÃ¡sÃ¡hoz
+25|3|FÅ‘vÃ¡rosi kÃ¶zgyÅ±lÃ©si lista|A fÅ‘vÃ¡ros kerÃ¼leteinek vÃ¡lasztÃ³kerÃ¼letÃ©ben Ã¡llÃ­tott lista, a fÅ‘vÃ¡rosi kÃ¶zgyÅ±lÃ©s megvÃ¡lasztÃ¡sÃ¡hoz
+25|4|KompenzÃ¡ciÃ³s lista|Vegyes vÃ¡lasztÃ¡si rendszerben a 10000 lakosnÃ¡l nagyobb telepÃ¼lÃ©seken Ã¡llÃ­tott kompenzÃ¡ciÃ³s lista
+25|5|KisebbsÃ©gi kompenzÃ¡ciÃ³s lista|Vegyes vÃ¡lasztÃ¡si rendszerben a 10000 lakosnÃ¡l nagyobb telepÃ¼lÃ©seken Ã¡llÃ­tott kisebbsÃ©gi kompenzÃ¡ciÃ³s lista
+29|0|Nincs inf. mand.szÃ¡m. nem tÃ¶r.|Nincs informÃ¡ciÃ³ mandÃ¡tumszÃ¡mÃ­tÃ¡s mÃ©g nem tÃ¶rtÃ©nt (rekord mÃ©g nem Ã©rkezett be). 
+29|1|MandÃ¡tumot nyert|
+29|2|KedvezmÃ©nyes mandÃ¡tumot nyert|
+29|3|Nem nyert mandÃ¡tumot|
+29|4|Nyert, de VB Ã©rvÃ©nytelenÃ­tette|
+29|5|PolgÃ¡rmester lett|
+29|6|Nyert, de lemondott mandrÃ³l|
+29|7|EgyÃ©ni VK-ben nyert|Vegyes vÃ¡lasztÃ¡si rendszerben a jelÃ¶lt egyÃ©ni vÃ¡lasztÃ³kerÃ¼letben mandÃ¡tumhoz jutott, ezÃ©rt a kompenzÃ¡ciÃ³s listÃ¡n mÃ¡r nem juthat mandÃ¡tumhoz
+29|9|SzavazategyenlÅ‘sÃ©g Ã¡ll fenn|
+57|0|PÃ¡rt|
+57|1|TÃ¡rsadalmi szervezet|
+57|2|KisebbsÃ©gi szervezet|
+57|4|FÃ¼ggetlen jelÃ¶lt|

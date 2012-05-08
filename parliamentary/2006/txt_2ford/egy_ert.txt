@@ -1,245 +1,245 @@
-01|01| 1|Dr.|KÛka                                              |J·nos                                   |0015379|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-01|01| 4|Dr.|Nagy                                              |G·bor Tam·s                             |0016880|02|FIDESZ,KDNP                                                 
-01|01| 5|Dr.|Vaskor                                            |L·szlÛ                                  |0000762|01|MDF                                                         
-01|02| 3|Dr.|Balsai                                            |Istv·n                                  |0020986|02|FIDESZ,KDNP                                                 
-01|02| 4|   |Horv·th                                           |Csaba                                   |0019178|01|MSZP                                                        
-01|03| 2|   |Menczer                                           |ErzsÈbet                                |0012633|02|FIDESZ,KDNP                                                 
-01|03| 3|Dr.|Orosz                                             |S·ndor                                  |0019390|01|MSZP                                                        
-01|04| 2|   |B˙s                                               |Bal·zs                                  |0016806|02|FIDESZ,KDNP                                                 
-01|04| 3|   |Don·th                                            |L·szlÛ                                  |0023760|01|MSZP                                                        
-01|07| 2|Dr.|Petı                                              |Iv·n                                    |0012828|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-01|07| 3|   |Rog·n                                             |Antal                                   |0010470|02|FIDESZ,KDNP                                                 
-01|08| 4|Dr.|IllÈs                                             |Zolt·n                                  |0009546|02|FIDESZ,KDNP                                                 
-01|08| 5|Dr.|KÈkesi                                            |Tibor                                   |0011772|01|MSZP                                                        
-01|09| 1|   |FillÛ                                             |P·l                                     |0012650|01|MSZP                                                        
-01|09| 2|Dr.|KecskÈs                                           |Guszt·v                                 |0008600|02|FIDESZ,KDNP                                                 
-01|10| 1|Dr.|FÛnagy                                            |J·nos                                   |0008153|02|FIDESZ,KDNP                                                 
-01|10| 3|Dr.|SzabÛ                                             |Zolt·n                                  |0010924|01|MSZP                                                        
-01|11| 2|   |Beke                                              |P·l                                     |0009053|02|FIDESZ,KDNP                                                 
-01|11| 5|   |H·rs                                              |G·bor                                   |0013368|01|MSZP                                                        
-01|12| 1|Dr.|Gegesy                                            |Ferenc                                  |0010981|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-01|12| 5|   |Zombory                                           |MiklÛs                                  |0008592|02|FIDESZ,KDNP                                                 
-01|15| 2|   |De·k                                              |Andr·s                                  |0013066|02|FIDESZ,KDNP                                                 
-01|15| 6|   |SzabÛ                                             |Vilmos                                  |0011883|01|MSZP                                                        
-01|16| 3|   |KristÛf                                           |JÛzsef                                  |0012391|02|FIDESZ,KDNP                                                 
-01|16| 4|   |Moln·r                                            |Gyula                                   |0017565|01|MSZP                                                        
-01|17| 2|Dr.|JÛzsa                                             |Istv·n                                  |0014019|01|MSZP                                                        
-01|17| 3|Dr.|Kupper                                            |Andr·s                                  |0012786|02|FIDESZ,KDNP                                                 
-01|18| 1|   |HagyÛ                                             |MiklÛs                                  |0017384|01|MSZP                                                        
-01|18| 3|   |Pokorni                                           |Zolt·n                                  |0020971|02|FIDESZ,KDNP                                                 
-01|19| 2|Dr.|Kosztol·nyi                                       |DÈnes                                   |0008283|02|FIDESZ,KDNP                                                 
+01|01| 1|Dr.|K√≥ka                                              |J√°nos                                   |0015379|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+01|01| 4|Dr.|Nagy                                              |G√°bor Tam√°s                             |0016880|02|FIDESZ,KDNP                                                 
+01|01| 5|Dr.|Vaskor                                            |L√°szl√≥                                  |0000762|01|MDF                                                         
+01|02| 3|Dr.|Balsai                                            |Istv√°n                                  |0020986|02|FIDESZ,KDNP                                                 
+01|02| 4|   |Horv√°th                                           |Csaba                                   |0019178|01|MSZP                                                        
+01|03| 2|   |Menczer                                           |Erzs√©bet                                |0012633|02|FIDESZ,KDNP                                                 
+01|03| 3|Dr.|Orosz                                             |S√°ndor                                  |0019390|01|MSZP                                                        
+01|04| 2|   |B√∫s                                               |Bal√°zs                                  |0016806|02|FIDESZ,KDNP                                                 
+01|04| 3|   |Don√°th                                            |L√°szl√≥                                  |0023760|01|MSZP                                                        
+01|07| 2|Dr.|Pet≈ë                                              |Iv√°n                                    |0012828|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+01|07| 3|   |Rog√°n                                             |Antal                                   |0010470|02|FIDESZ,KDNP                                                 
+01|08| 4|Dr.|Ill√©s                                             |Zolt√°n                                  |0009546|02|FIDESZ,KDNP                                                 
+01|08| 5|Dr.|K√©kesi                                            |Tibor                                   |0011772|01|MSZP                                                        
+01|09| 1|   |Fill√≥                                             |P√°l                                     |0012650|01|MSZP                                                        
+01|09| 2|Dr.|Kecsk√©s                                           |Guszt√°v                                 |0008600|02|FIDESZ,KDNP                                                 
+01|10| 1|Dr.|F√≥nagy                                            |J√°nos                                   |0008153|02|FIDESZ,KDNP                                                 
+01|10| 3|Dr.|Szab√≥                                             |Zolt√°n                                  |0010924|01|MSZP                                                        
+01|11| 2|   |Beke                                              |P√°l                                     |0009053|02|FIDESZ,KDNP                                                 
+01|11| 5|   |H√°rs                                              |G√°bor                                   |0013368|01|MSZP                                                        
+01|12| 1|Dr.|Gegesy                                            |Ferenc                                  |0010981|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+01|12| 5|   |Zombory                                           |Mikl√≥s                                  |0008592|02|FIDESZ,KDNP                                                 
+01|15| 2|   |De√°k                                              |Andr√°s                                  |0013066|02|FIDESZ,KDNP                                                 
+01|15| 6|   |Szab√≥                                             |Vilmos                                  |0011883|01|MSZP                                                        
+01|16| 3|   |Krist√≥f                                           |J√≥zsef                                  |0012391|02|FIDESZ,KDNP                                                 
+01|16| 4|   |Moln√°r                                            |Gyula                                   |0017565|01|MSZP                                                        
+01|17| 2|Dr.|J√≥zsa                                             |Istv√°n                                  |0014019|01|MSZP                                                        
+01|17| 3|Dr.|Kupper                                            |Andr√°s                                  |0012786|02|FIDESZ,KDNP                                                 
+01|18| 1|   |Hagy√≥                                             |Mikl√≥s                                  |0017384|01|MSZP                                                        
+01|18| 3|   |Pokorni                                           |Zolt√°n                                  |0020971|02|FIDESZ,KDNP                                                 
+01|19| 2|Dr.|Kosztol√°nyi                                       |D√©nes                                   |0008283|02|FIDESZ,KDNP                                                 
 01|19| 4|Dr.|Szanyi                                            |Tibor                                   |0017766|01|MSZP                                                        
-01|21| 1|Dr.|Bar·th                                            |Etele                                   |0018192|01|MSZP                                                        
-01|21| 3|   |R·tonyi                                           |G·bor                                   |0013768|02|FIDESZ,KDNP                                                 
+01|21| 1|Dr.|Bar√°th                                            |Etele                                   |0018192|01|MSZP                                                        
+01|21| 3|   |R√°tonyi                                           |G√°bor                                   |0013768|02|FIDESZ,KDNP                                                 
 01|22| 2|Dr.|Csiha                                             |Judit                                   |0021417|01|MSZP                                                        
-01|22| 4|   |Kulcs·r                                           |JÛzsef                                  |0012517|02|FIDESZ,KDNP                                                 
-01|24| 3|   |Tirts                                             |Tam·s                                   |0018770|02|FIDESZ,KDNP                                                 
-01|24| 4|Dr.|VidornÈ Dr. SzabÛ                                 |Gyˆrgyi                                 |0022520|01|MSZP                                                        
-01|25| 1|   |Alexa                                             |Gyˆrgy                                  |0026048|01|MSZP                                                        
+01|22| 4|   |Kulcs√°r                                           |J√≥zsef                                  |0012517|02|FIDESZ,KDNP                                                 
+01|24| 3|   |Tirts                                             |Tam√°s                                   |0018770|02|FIDESZ,KDNP                                                 
+01|24| 4|Dr.|Vidorn√© Dr. Szab√≥                                 |Gy√∂rgyi                                 |0022520|01|MSZP                                                        
+01|25| 1|   |Alexa                                             |Gy√∂rgy                                  |0026048|01|MSZP                                                        
 01|25| 7|   |Riz                                               |Levente                                 |0018641|02|FIDESZ,KDNP                                                 
-01|32| 2|   |Lendvai                                           |IldikÛ                                  |0016600|01|MSZP                                                        
-01|32| 3|   |NÈmeth                                            |Zolt·n                                  |0013622|02|FIDESZ,KDNP                                                 
-02|01| 2|   |BÛkay                                             |Endre                                   |0018690|01|MSZP                                                        
-02|01| 5|Dr.|P·va                                              |Zsolt                                   |0013650|02|FIDESZ,KDNP                                                 
-02|05| 3|Dr.|Hargitai                                          |J·nos                                   |0018003|02|FIDESZ,KDNP                                                 
-02|05| 5|Dr.|Nyul                                              |Istv·n                                  |0014251|01|MSZP                                                        
-02|06| 4|   |KÈkkıi                                            |Zolt·n JÛzsef                           |0013545|02|FIDESZ,KDNP                                                 
-02|06| 5|   |Kocsi                                             |L·szlÛ                                  |0014369|01|MSZP                                                        
-02|07| 2|   |Paizs                                             |JÛzsef                                  |0012767|01|MSZP                                                        
+01|32| 2|   |Lendvai                                           |Ildik√≥                                  |0016600|01|MSZP                                                        
+01|32| 3|   |N√©meth                                            |Zolt√°n                                  |0013622|02|FIDESZ,KDNP                                                 
+02|01| 2|   |B√≥kay                                             |Endre                                   |0018690|01|MSZP                                                        
+02|01| 5|Dr.|P√°va                                              |Zsolt                                   |0013650|02|FIDESZ,KDNP                                                 
+02|05| 3|Dr.|Hargitai                                          |J√°nos                                   |0018003|02|FIDESZ,KDNP                                                 
+02|05| 5|Dr.|Nyul                                              |Istv√°n                                  |0014251|01|MSZP                                                        
+02|06| 4|   |K√©kk≈ëi                                            |Zolt√°n J√≥zsef                           |0013545|02|FIDESZ,KDNP                                                 
+02|06| 5|   |Kocsi                                             |L√°szl√≥                                  |0014369|01|MSZP                                                        
+02|07| 2|   |Paizs                                             |J√≥zsef                                  |0012767|01|MSZP                                                        
 02|07| 4|   |Pichler                                           |Imre                                    |0009712|02|FIDESZ,KDNP                                                 
-03|01| 1|Dr.|Balogh                                            |L·szlÛ                                  |0014922|02|MSZP,SZDSZ-A MAGYAR LIBER¡LIS P¡RT                          
-03|01| 2|   |Gavaldi                                           |Istv·n                                  |0000918|01|MDF                                                         
-03|01| 4|   |Nyitray                                           |Andr·s                                  |0015769|02|FIDESZ,KDNP                                                 
-03|02| 1|Dr.|Gyˆrfi                                            |Attila G·bor                            |0000647|01|MDF                                                         
-03|02| 2|Dr.|Horv·th                                           |Zsolt                                   |0011356|02|FIDESZ,KDNP                                                 
-03|02| 3|Dr.|SzÈcsi                                            |G·bor                                   |0011162|02|SZDSZ-A MAGYAR LIBER¡LIS P¡RT,MSZP                          
-03|05| 2|   |Endre                                             |S·ndor                                  |0011922|02|FIDESZ,KDNP                                                 
-03|05| 4|Dr.|Garai                                             |Istv·n Levente                          |0011996|01|MSZP                                                        
-03|07| 1|   |Alfˆldi                                           |Albert                                  |0013531|01|MSZP                                                        
-03|07| 4|Dr.|SemjÈn                                            |Zsolt                                   |0014887|02|FIDESZ,KDNP                                                 
-03|08| 4|Dr.|SzabÛ                                             |Erika                                   |0012357|02|FIDESZ,KDNP                                                 
-03|08| 6|   |V·radi                                            |Kriszti·n                               |0011652|01|MSZP                                                        
-03|09| 8|   |SzÈll                                             |PÈter                                   |0014322|01|MSZP                                                        
-03|09| 9|   |ZsigÛ                                             |RÛbert                                  |0016184|02|FIDESZ,KDNP                                                 
-03|10| 1|   |B·nyai                                            |G·bor                                   |0011733|02|FIDESZ,KDNP                                                 
-03|10| 3|   |Karsai                                            |PÈter                                   |0000653|01|MDF                                                         
-03|10| 4|   |M·rfai                                            |PÈter                                   |0010385|01|MSZP                                                        
-04|01| 3|   |Moln·r                                            |L·szlÛ                                  |0017258|01|MSZP                                                        
+03|01| 1|Dr.|Balogh                                            |L√°szl√≥                                  |0014922|02|MSZP,SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                          
+03|01| 2|   |Gavaldi                                           |Istv√°n                                  |0000918|01|MDF                                                         
+03|01| 4|   |Nyitray                                           |Andr√°s                                  |0015769|02|FIDESZ,KDNP                                                 
+03|02| 1|Dr.|Gy√∂rfi                                            |Attila G√°bor                            |0000647|01|MDF                                                         
+03|02| 2|Dr.|Horv√°th                                           |Zsolt                                   |0011356|02|FIDESZ,KDNP                                                 
+03|02| 3|Dr.|Sz√©csi                                            |G√°bor                                   |0011162|02|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT,MSZP                          
+03|05| 2|   |Endre                                             |S√°ndor                                  |0011922|02|FIDESZ,KDNP                                                 
+03|05| 4|Dr.|Garai                                             |Istv√°n Levente                          |0011996|01|MSZP                                                        
+03|07| 1|   |Alf√∂ldi                                           |Albert                                  |0013531|01|MSZP                                                        
+03|07| 4|Dr.|Semj√©n                                            |Zsolt                                   |0014887|02|FIDESZ,KDNP                                                 
+03|08| 4|Dr.|Szab√≥                                             |Erika                                   |0012357|02|FIDESZ,KDNP                                                 
+03|08| 6|   |V√°radi                                            |Kriszti√°n                               |0011652|01|MSZP                                                        
+03|09| 8|   |Sz√©ll                                             |P√©ter                                   |0014322|01|MSZP                                                        
+03|09| 9|   |Zsig√≥                                             |R√≥bert                                  |0016184|02|FIDESZ,KDNP                                                 
+03|10| 1|   |B√°nyai                                            |G√°bor                                   |0011733|02|FIDESZ,KDNP                                                 
+03|10| 3|   |Karsai                                            |P√©ter                                   |0000653|01|MDF                                                         
+03|10| 4|   |M√°rfai                                            |P√©ter                                   |0010385|01|MSZP                                                        
+04|01| 3|   |Moln√°r                                            |L√°szl√≥                                  |0017258|01|MSZP                                                        
 04|01| 6|   |Vantara                                           |Gyula                                   |0016572|02|FIDESZ,KDNP                                                 
-04|02| 6|Dr.|PerjÈsi                                           |Kl·ra                                   |0015975|01|MSZP                                                        
-04|02| 9|   |TÛth                                              |Imre                                    |0014685|02|FIDESZ,KDNP                                                 
-04|03| 1|   |Erdıs                                             |Norbert                                 |0012072|02|FIDESZ,KDNP                                                 
-04|03| 4|   |Valentinyi                                        |K·roly                                  |0001371|01|MDF                                                         
-04|03| 5|   |Varga                                             |Zolt·n                                  |0009869|01|MSZP                                                        
-04|04| 8|   |Veress                                            |JÛzsef                                  |0011974|01|MSZP                                                        
-04|04| 9|   |VÌgh                                              |Ilona                                   |0010899|02|FIDESZ,KDNP                                                 
-04|06| 1|Dr.|DancsÛ                                            |JÛzsef                                  |0014835|02|FIDESZ,KDNP                                                 
-04|06| 3|   |Fetser                                            |J·nos                                   |0016663|01|MSZP                                                        
-04|07| 1|Dr.|Karsai                                            |JÛzsef                                  |0012918|01|MSZP                                                        
-04|07| 4|Dr.|Spi·k                                             |Ibolya                                  |0010287|02|FIDESZ,KDNP                                                 
-05|08| 2|   |G˙r                                               |N·ndor                                  |0011871|01|MSZP                                                        
-05|08| 3|   |Moln·r                                            |Oszk·r                                  |0011868|02|FIDESZ,KDNP                                                 
+04|02| 6|Dr.|Perj√©si                                           |Kl√°ra                                   |0015975|01|MSZP                                                        
+04|02| 9|   |T√≥th                                              |Imre                                    |0014685|02|FIDESZ,KDNP                                                 
+04|03| 1|   |Erd≈ës                                             |Norbert                                 |0012072|02|FIDESZ,KDNP                                                 
+04|03| 4|   |Valentinyi                                        |K√°roly                                  |0001371|01|MDF                                                         
+04|03| 5|   |Varga                                             |Zolt√°n                                  |0009869|01|MSZP                                                        
+04|04| 8|   |Veress                                            |J√≥zsef                                  |0011974|01|MSZP                                                        
+04|04| 9|   |V√≠gh                                              |Ilona                                   |0010899|02|FIDESZ,KDNP                                                 
+04|06| 1|Dr.|Dancs√≥                                            |J√≥zsef                                  |0014835|02|FIDESZ,KDNP                                                 
+04|06| 3|   |Fetser                                            |J√°nos                                   |0016663|01|MSZP                                                        
+04|07| 1|Dr.|Karsai                                            |J√≥zsef                                  |0012918|01|MSZP                                                        
+04|07| 4|Dr.|Spi√°k                                             |Ibolya                                  |0010287|02|FIDESZ,KDNP                                                 
+05|08| 2|   |G√∫r                                               |N√°ndor                                  |0011871|01|MSZP                                                        
+05|08| 3|   |Moln√°r                                            |Oszk√°r                                  |0011868|02|FIDESZ,KDNP                                                 
 05|08| 4|   |Veres                                             |Edit                                    |0000287|01|MDF                                                         
-05|10| 3|Dr.|Hırcsik                                           |Rich·rd                                 |0014763|02|FIDESZ,KDNP                                                 
-05|10| 4|Dr.|J·nosde·k                                         |G·bor                                   |0000541|01|MDF                                                         
-05|10| 5|   |VÈcsi                                             |Istv·n                                  |0012801|01|MSZP                                                        
+05|10| 3|Dr.|H≈ërcsik                                           |Rich√°rd                                 |0014763|02|FIDESZ,KDNP                                                 
+05|10| 4|Dr.|J√°nosde√°k                                         |G√°bor                                   |0000541|01|MDF                                                         
+05|10| 5|   |V√©csi                                             |Istv√°n                                  |0012801|01|MSZP                                                        
 05|11| 2|   |Koncz                                             |Ferenc                                  |0013355|02|FIDESZ,KDNP                                                 
-05|11| 6|   |SzabÛ                                             |Gyˆrgy                                  |0015840|01|MSZP                                                        
-06|02| 1|   |Balogh                                            |L·szlÛ                                  |0018736|02|FIDESZ,KDNP                                                 
-06|02| 4|Dr.|S·ndor                                            |Kl·ra                                   |0019460|02|SZDSZ-A MAGYAR LIBER¡LIS P¡RT,MSZP                          
-06|06| 2|   |Balogh                                            |J·nosnÈ                                 |0013598|00|F¸ggetlen jelˆlt                                            
-06|06| 9|Dr.|L·z·r                                             |J·nos                                   |0016366|02|FIDESZ,KDNP                                                 
-07|02| 4|Dr.|GÛgl                                              |¡rp·d                                   |0017568|02|FIDESZ,KDNP                                                 
-07|02| 5|   |Moln·r                                            |Albert                                  |0016646|01|MSZP                                                        
+05|11| 6|   |Szab√≥                                             |Gy√∂rgy                                  |0015840|01|MSZP                                                        
+06|02| 1|   |Balogh                                            |L√°szl√≥                                  |0018736|02|FIDESZ,KDNP                                                 
+06|02| 4|Dr.|S√°ndor                                            |Kl√°ra                                   |0019460|02|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT,MSZP                          
+06|06| 2|   |Balogh                                            |J√°nosn√©                                 |0013598|00|F√ºggetlen jel√∂lt                                            
+06|06| 9|Dr.|L√°z√°r                                             |J√°nos                                   |0016366|02|FIDESZ,KDNP                                                 
+07|02| 4|Dr.|G√≥gl                                              |√Årp√°d                                   |0017568|02|FIDESZ,KDNP                                                 
+07|02| 5|   |Moln√°r                                            |Albert                                  |0016646|01|MSZP                                                        
 07|03| 1|Dr.|Dorkota                                           |Lajos                                   |0008828|02|FIDESZ,KDNP                                                 
-07|03| 2|Dr.|K·lm·n                                            |Andr·s                                  |0016400|01|MSZP                                                        
-07|04| 2|   |Ecsıdi                                            |L·szlÛ                                  |0018679|01|MSZP                                                        
-07|04| 5|   |RÈdli                                             |L·szlÛ                                  |0014492|02|FIDESZ,KDNP                                                 
-07|04| 6|   |Tak·cs                                            |J·nos                                   |0000973|01|MDF                                                         
-07|06| 1|   |Haraszti·nÈ Terner                                |IrÈn                                    |0000645|01|MDF                                                         
-07|06| 2|   |Lengyel                                           |Zolt·n                                  |0013988|02|FIDESZ,KDNP                                                 
-07|06| 4|Dr.|Szabadkai                                         |Tam·s                                   |0012620|01|MSZP                                                        
+07|03| 2|Dr.|K√°lm√°n                                            |Andr√°s                                  |0016400|01|MSZP                                                        
+07|04| 2|   |Ecs≈ëdi                                            |L√°szl√≥                                  |0018679|01|MSZP                                                        
+07|04| 5|   |R√©dli                                             |L√°szl√≥                                  |0014492|02|FIDESZ,KDNP                                                 
+07|04| 6|   |Tak√°cs                                            |J√°nos                                   |0000973|01|MDF                                                         
+07|06| 1|   |Haraszti√°n√© Terner                                |Ir√©n                                    |0000645|01|MDF                                                         
+07|06| 2|   |Lengyel                                           |Zolt√°n                                  |0013988|02|FIDESZ,KDNP                                                 
+07|06| 4|Dr.|Szabadkai                                         |Tam√°s                                   |0012620|01|MSZP                                                        
 07|07| 1|Dr.|Berecz                                            |Botond                                  |0000731|01|MDF                                                         
-07|07| 3|Dr.|Kelemen                                           |Andr·s                                  |0015701|02|FIDESZ,KDNP                                                 
-07|07| 5|   |Sz·ntÛ                                            |J·nos                                   |0013510|01|MSZP                                                        
-08|02| 4|Dr.|Moln·r                                            |Csaba                                   |0017099|01|MSZP                                                        
-08|02| 6|Dr.|Szak·cs                                           |Imre                                    |0017512|02|FIDESZ,KDNP                                                 
-08|03| 1|   |Balogh                                            |JÛzsef                                  |0016832|01|MSZP                                                        
-08|03| 4|   |SzabÛ                                             |JÛzsef                                  |0000826|01|MDF                                                         
-08|03| 5|   |Szijj·rtÛ                                         |PÈter                                   |0016705|02|FIDESZ,KDNP                                                 
-08|04| 1|Dr.|Pap                                               |J·nos                                   |0014828|02|FIDESZ,KDNP                                                 
-08|04| 5|   |TÛth                                              |TibornÈ dr.                             |0017108|01|MSZP                                                        
-08|07| 1|   |FIRTL                                             |M¡TY¡S                                  |0018039|02|FIDESZ,KDNP                                                 
-08|07| 4|   |KR¡NITZ                                           |L¡SZL”                                  |0016217|01|MSZP                                                        
-09|04| 3|Dr.|Juh·sznÈ LÈvai                                    |Katalin                                 |0013384|01|MSZP                                                        
-09|04| 5|   |Komor                                             |S·ndor                                  |0000477|01|MDF                                                         
-09|04| 7|   |TasÛ                                              |L·szlÛ                                  |0015486|02|FIDESZ,KDNP                                                 
-09|05| 4|   |Gyula                                             |FerencnÈ                                |0014165|01|MSZP                                                        
-09|05| 7|Dr.|Vit·nyi                                           |Istv·n                                  |0012856|02|FIDESZ,KDNP                                                 
-09|06| 1|   |ArnÛth                                            |S·ndor                                  |0012391|02|FIDESZ,KDNP                                                 
-09|06| 2|   |Csontos                                           |J·nos                                   |0012776|01|MSZP                                                        
-09|08| 6|Dr.|Tiba                                              |Istv·n                                  |0011342|02|FIDESZ,KDNP                                                 
-09|08| 7|   |TÛth                                              |JÛzsef                                  |0011873|01|MSZP                                                        
+07|07| 3|Dr.|Kelemen                                           |Andr√°s                                  |0015701|02|FIDESZ,KDNP                                                 
+07|07| 5|   |Sz√°nt√≥                                            |J√°nos                                   |0013510|01|MSZP                                                        
+08|02| 4|Dr.|Moln√°r                                            |Csaba                                   |0017099|01|MSZP                                                        
+08|02| 6|Dr.|Szak√°cs                                           |Imre                                    |0017512|02|FIDESZ,KDNP                                                 
+08|03| 1|   |Balogh                                            |J√≥zsef                                  |0016832|01|MSZP                                                        
+08|03| 4|   |Szab√≥                                             |J√≥zsef                                  |0000826|01|MDF                                                         
+08|03| 5|   |Szijj√°rt√≥                                         |P√©ter                                   |0016705|02|FIDESZ,KDNP                                                 
+08|04| 1|Dr.|Pap                                               |J√°nos                                   |0014828|02|FIDESZ,KDNP                                                 
+08|04| 5|   |T√≥th                                              |Tiborn√© dr.                             |0017108|01|MSZP                                                        
+08|07| 1|   |FIRTL                                             |M√ÅTY√ÅS                                  |0018039|02|FIDESZ,KDNP                                                 
+08|07| 4|   |KR√ÅNITZ                                           |L√ÅSZL√ì                                  |0016217|01|MSZP                                                        
+09|04| 3|Dr.|Juh√°szn√© L√©vai                                    |Katalin                                 |0013384|01|MSZP                                                        
+09|04| 5|   |Komor                                             |S√°ndor                                  |0000477|01|MDF                                                         
+09|04| 7|   |Tas√≥                                              |L√°szl√≥                                  |0015486|02|FIDESZ,KDNP                                                 
+09|05| 4|   |Gyula                                             |Ferencn√©                                |0014165|01|MSZP                                                        
+09|05| 7|Dr.|Vit√°nyi                                           |Istv√°n                                  |0012856|02|FIDESZ,KDNP                                                 
+09|06| 1|   |Arn√≥th                                            |S√°ndor                                  |0012391|02|FIDESZ,KDNP                                                 
+09|06| 2|   |Csontos                                           |J√°nos                                   |0012776|01|MSZP                                                        
+09|08| 6|Dr.|Tiba                                              |Istv√°n                                  |0011342|02|FIDESZ,KDNP                                                 
+09|08| 7|   |T√≥th                                              |J√≥zsef                                  |0011873|01|MSZP                                                        
 09|09| 2|   |Kiss                                              |Attila                                  |0014069|02|FIDESZ,KDNP                                                 
-09|09| 6|Dr.|Nagy                                              |S·ndor                                  |0013748|01|MSZP                                                        
+09|09| 6|Dr.|Nagy                                              |S√°ndor                                  |0013748|01|MSZP                                                        
 10|01| 2|   |Demeter                                           |Ervin                                   |0015898|02|FIDESZ,KDNP                                                 
 10|01| 7|Dr.|Nagy                                              |Imre                                    |0018330|01|MSZP                                                        
-10|02| 1|   |Asztalos                                          |DezsınÈ                                 |0010038|02|FIDESZ,KDNP                                                 
-10|02| 5|   |Iv·dy                                             |G·bor                                   |0000524|01|MDF                                                         
-10|02| 6|   |SÛs                                               |Tam·s                                   |0012380|01|MSZP                                                        
-10|03| 4|Dr.|MAGDA                                             |S¡NDOR                                  |0019218|01|MSZP                                                        
-10|03| 7|   |TUZ¡N… DR. TAK¡CS                                 |ZSUZSANNA                               |0013170|02|FIDESZ,KDNP                                                 
-10|06| 4|   |Herman                                            |Istv·n                                  |0009947|02|FIDESZ,KDNP                                                 
-10|06| 5|   |KorÛzs                                            |Lajos                                   |0012294|01|MSZP                                                        
-11|01| 2|Dr.|Gedei                                             |JÛzsef                                  |0012239|01|MSZP                                                        
-11|01| 4|   |Sz·dv·ri                                          |G·bor                                   |0009145|02|FIDESZ,KDNP                                                 
-11|02| 3|   |J·rv·s                                            |Istv·n                                  |0008976|02|FIDESZ,KDNP                                                 
+10|02| 1|   |Asztalos                                          |Dezs≈ën√©                                 |0010038|02|FIDESZ,KDNP                                                 
+10|02| 5|   |Iv√°dy                                             |G√°bor                                   |0000524|01|MDF                                                         
+10|02| 6|   |S√≥s                                               |Tam√°s                                   |0012380|01|MSZP                                                        
+10|03| 4|Dr.|MAGDA                                             |S√ÅNDOR                                  |0019218|01|MSZP                                                        
+10|03| 7|   |TUZ√ÅN√â DR. TAK√ÅCS                                 |ZSUZSANNA                               |0013170|02|FIDESZ,KDNP                                                 
+10|06| 4|   |Herman                                            |Istv√°n                                  |0009947|02|FIDESZ,KDNP                                                 
+10|06| 5|   |Kor√≥zs                                            |Lajos                                   |0012294|01|MSZP                                                        
+11|01| 2|Dr.|Gedei                                             |J√≥zsef                                  |0012239|01|MSZP                                                        
+11|01| 4|   |Sz√°dv√°ri                                          |G√°bor                                   |0009145|02|FIDESZ,KDNP                                                 
+11|02| 3|   |J√°rv√°s                                            |Istv√°n                                  |0008976|02|FIDESZ,KDNP                                                 
 11|02| 5|Dr.|Szekeres                                          |Imre                                    |0009707|01|MSZP                                                        
-11|03| 2|   |Botka                                             |LajosnÈ                                 |0016442|01|MSZP                                                        
+11|03| 2|   |Botka                                             |Lajosn√©                                 |0016442|01|MSZP                                                        
 11|03| 5|   |Szalay                                            |Ferenc                                  |0013102|02|FIDESZ,KDNP                                                 
-11|04| 2|   |Iv·ncsik                                          |Imre                                    |0017532|01|MSZP                                                        
-11|04| 3|Dr.|Kov·cs                                            |L·szlÛ                                  |0011864|02|FIDESZ,KDNP                                                 
-11|07| 1|   |FejÈr                                             |Andor                                   |0011265|02|FIDESZ,KDNP                                                 
-11|07| 2|   |Herb·ly                                           |Imre                                    |0012918|01|MSZP                                                        
-11|07| 3|   |Mezı                                              |JÛzsef                                  |0000750|01|MDF                                                         
-12|02| 2|   |Michl                                             |JÛzsef                                  |0015660|02|FIDESZ,KDNP                                                 
-12|02| 4|   |Tatai-TÛth                                        |Andr·s                                  |0016419|01|MSZP                                                        
-12|04| 4|Dr.|Vˆlner                                            |P·l                                     |0014126|02|FIDESZ,KDNP                                                 
-12|04| 5|   |ZatykÛ                                            |J·nos                                   |0018143|01|MSZP                                                        
-12|05| 2|   |Meggyes                                           |Tam·s                                   |0015084|02|FIDESZ,KDNP                                                 
-12|05| 3|Dr.|Tittmann                                          |J·nos                                   |0017056|01|MSZP                                                        
-13|01| 2|   |BecsÛ                                             |Zsolt                                   |0011166|02|FIDESZ,KDNP                                                 
-13|01| 3|   |Boldvai                                           |L·szlÛ                                  |0015982|01|MSZP                                                        
-13|02| 5|   |Juh·sz                                            |G·bor                                   |0015803|01|MSZP                                                        
-13|02|10|   |Sis·k                                             |Imre J·nos                              |0011503|03|MDF,FIDESZ,KDNP                                             
+11|04| 2|   |Iv√°ncsik                                          |Imre                                    |0017532|01|MSZP                                                        
+11|04| 3|Dr.|Kov√°cs                                            |L√°szl√≥                                  |0011864|02|FIDESZ,KDNP                                                 
+11|07| 1|   |Fej√©r                                             |Andor                                   |0011265|02|FIDESZ,KDNP                                                 
+11|07| 2|   |Herb√°ly                                           |Imre                                    |0012918|01|MSZP                                                        
+11|07| 3|   |Mez≈ë                                              |J√≥zsef                                  |0000750|01|MDF                                                         
+12|02| 2|   |Michl                                             |J√≥zsef                                  |0015660|02|FIDESZ,KDNP                                                 
+12|02| 4|   |Tatai-T√≥th                                        |Andr√°s                                  |0016419|01|MSZP                                                        
+12|04| 4|Dr.|V√∂lner                                            |P√°l                                     |0014126|02|FIDESZ,KDNP                                                 
+12|04| 5|   |Zatyk√≥                                            |J√°nos                                   |0018143|01|MSZP                                                        
+12|05| 2|   |Meggyes                                           |Tam√°s                                   |0015084|02|FIDESZ,KDNP                                                 
+12|05| 3|Dr.|Tittmann                                          |J√°nos                                   |0017056|01|MSZP                                                        
+13|01| 2|   |Becs√≥                                             |Zsolt                                   |0011166|02|FIDESZ,KDNP                                                 
+13|01| 3|   |Boldvai                                           |L√°szl√≥                                  |0015982|01|MSZP                                                        
+13|02| 5|   |Juh√°sz                                            |G√°bor                                   |0015803|01|MSZP                                                        
+13|02|10|   |Sis√°k                                             |Imre J√°nos                              |0011503|03|MDF,FIDESZ,KDNP                                             
 13|03| 1|   |Borenszki                                         |Ervin                                   |0011013|01|MSZP                                                        
 13|03| 5|Dr.|Nagy                                              |Andor                                   |0013053|02|FIDESZ,KDNP                                                 
-13|04| 1|   |Balla                                             |Mih·ly                                  |0015910|02|FIDESZ,KDNP                                                 
-13|04| 6|   |Lombos                                            |Istv·n                                  |0013192|01|MSZP                                                        
-14|01| 2|   |Harrach                                           |PÈter                                   |0017037|02|FIDESZ,KDNP                                                 
-14|01| 3|   |K·rp·ti                                           |Zsuzsa                                  |0014357|01|MSZP                                                        
-14|02| 2|Dr.|BÛth                                              |J·nos Istv·n                            |0016081|01|MSZP                                                        
+13|04| 1|   |Balla                                             |Mih√°ly                                  |0015910|02|FIDESZ,KDNP                                                 
+13|04| 6|   |Lombos                                            |Istv√°n                                  |0013192|01|MSZP                                                        
+14|01| 2|   |Harrach                                           |P√©ter                                   |0017037|02|FIDESZ,KDNP                                                 
+14|01| 3|   |K√°rp√°ti                                           |Zsuzsa                                  |0014357|01|MSZP                                                        
+14|02| 2|Dr.|B√≥th                                              |J√°nos Istv√°n                            |0016081|01|MSZP                                                        
 14|02| 3|   |Imre                                              |Zsolt                                   |0013914|02|FIDESZ,KDNP                                                 
-14|03| 1|   |ErdÈsz                                            |Zolt·n                                  |0016080|02|FIDESZ,KDNP                                                 
-14|03| 3|   |TÛth                                              |Andr·s                                  |0019476|01|MSZP                                                        
-14|04| 2|   |FogarasinÈ De·k                                   |ValÈria Eszter                          |0021753|01|MSZP                                                        
-14|04| 3|Dr.|GÈmesi                                            |Gyˆrgy                                  |0021526|03|MDF,FIDESZ,KDNP                                             
-14|05| 3|   |SzabÛ                                             |Imre                                    |0012630|01|MSZP                                                        
-14|05| 4|   |TÛth                                              |G·bor                                   |0012958|02|FIDESZ,KDNP                                                 
-14|06| 2|   |Czerv·n                                           |Gyˆrgy                                  |0017851|02|FIDESZ,KDNP                                                 
-14|06| 5|Dr.|NÈmeth                                            |Imre                                    |0015821|01|MSZP                                                        
-14|07| 1|Dr.|G·l                                               |Zolt·n                                  |0021430|01|MSZP                                                        
-14|07| 4|   |Pog·cs·s                                          |Tibor                                   |0018904|02|FIDESZ,KDNP                                                 
-14|08| 1|Dr.|Aradszki                                          |Andr·s                                  |0019699|02|FIDESZ,KDNP                                                 
-14|08| 3|Dr.|J·nosi                                            |Gyˆrgy                                  |0025510|01|MSZP                                                        
-14|09| 1|   |Csenger-Zal·n                                     |Zsolt                                   |0018209|02|FIDESZ,KDNP                                                 
-14|09| 2|   |Keller                                            |L·szlÛ                                  |0019184|01|MSZP                                                        
-14|10| 3|   |Guly·s                                            |DÈnes                                   |0022853|02|FIDESZ,KDNP                                                 
-14|10| 4|   |Laboda                                            |G·bor                                   |0021120|01|MSZP                                                        
-14|11| 1|   |B·rsony                                           |Andr·s                                  |0018478|01|MSZP                                                        
-14|11| 4|   |Hadh·zy                                           |S·ndor                                  |0021632|02|FIDESZ,KDNP                                                 
-14|12| 2|   |Hoffman                                           |P·l                                     |0016609|02|FIDESZ,KDNP                                                 
-14|12| 4|   |Kuncze                                            |G·bor                                   |0025313|01|SZDSZ-A MAGYAR LIBER¡LIS P¡RT                               
-14|13| 2|   |P·nczÈl                                           |K·roly                                  |0017953|02|FIDESZ,KDNP                                                 
-14|13| 5|   |VÈgh                                              |Tibor                                   |0020277|01|MSZP                                                        
+14|03| 1|   |Erd√©sz                                            |Zolt√°n                                  |0016080|02|FIDESZ,KDNP                                                 
+14|03| 3|   |T√≥th                                              |Andr√°s                                  |0019476|01|MSZP                                                        
+14|04| 2|   |Fogarasin√© De√°k                                   |Val√©ria Eszter                          |0021753|01|MSZP                                                        
+14|04| 3|Dr.|G√©mesi                                            |Gy√∂rgy                                  |0021526|03|MDF,FIDESZ,KDNP                                             
+14|05| 3|   |Szab√≥                                             |Imre                                    |0012630|01|MSZP                                                        
+14|05| 4|   |T√≥th                                              |G√°bor                                   |0012958|02|FIDESZ,KDNP                                                 
+14|06| 2|   |Czerv√°n                                           |Gy√∂rgy                                  |0017851|02|FIDESZ,KDNP                                                 
+14|06| 5|Dr.|N√©meth                                            |Imre                                    |0015821|01|MSZP                                                        
+14|07| 1|Dr.|G√°l                                               |Zolt√°n                                  |0021430|01|MSZP                                                        
+14|07| 4|   |Pog√°cs√°s                                          |Tibor                                   |0018904|02|FIDESZ,KDNP                                                 
+14|08| 1|Dr.|Aradszki                                          |Andr√°s                                  |0019699|02|FIDESZ,KDNP                                                 
+14|08| 3|Dr.|J√°nosi                                            |Gy√∂rgy                                  |0025510|01|MSZP                                                        
+14|09| 1|   |Csenger-Zal√°n                                     |Zsolt                                   |0018209|02|FIDESZ,KDNP                                                 
+14|09| 2|   |Keller                                            |L√°szl√≥                                  |0019184|01|MSZP                                                        
+14|10| 3|   |Guly√°s                                            |D√©nes                                   |0022853|02|FIDESZ,KDNP                                                 
+14|10| 4|   |Laboda                                            |G√°bor                                   |0021120|01|MSZP                                                        
+14|11| 1|   |B√°rsony                                           |Andr√°s                                  |0018478|01|MSZP                                                        
+14|11| 4|   |Hadh√°zy                                           |S√°ndor                                  |0021632|02|FIDESZ,KDNP                                                 
+14|12| 2|   |Hoffman                                           |P√°l                                     |0016609|02|FIDESZ,KDNP                                                 
+14|12| 4|   |Kuncze                                            |G√°bor                                   |0025313|01|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                               
+14|13| 2|   |P√°ncz√©l                                           |K√°roly                                  |0017953|02|FIDESZ,KDNP                                                 
+14|13| 5|   |V√©gh                                              |Tibor                                   |0020277|01|MSZP                                                        
 14|15| 1|Dr.|Czinege                                           |Imre                                    |0016434|01|MSZP                                                        
-14|15| 3|   |Fˆldi                                             |L·szlÛ                                  |0016335|02|FIDESZ,KDNP                                                 
-14|16| 1|   |Barab·s                                           |Ferenc                                  |0000792|01|MDF                                                         
+14|15| 3|   |F√∂ldi                                             |L√°szl√≥                                  |0016335|02|FIDESZ,KDNP                                                 
+14|16| 1|   |Barab√°s                                           |Ferenc                                  |0000792|01|MDF                                                         
 14|16| 2|Dr.|Czira                                             |Szabolcs                                |0012394|02|FIDESZ,KDNP                                                 
-14|16| 5|   |TÛbi·s                                            |JÛzsef                                  |0011230|01|MSZP                                                        
-15|02| 2|Dr.|Kolber                                            |Istv·n                                  |0016628|01|MSZP                                                        
-15|02| 6|Dr.|SzabÛ                                             |JÛzsef Andor                            |0014397|02|FIDESZ,KDNP                                                 
+14|16| 5|   |T√≥bi√°s                                            |J√≥zsef                                  |0011230|01|MSZP                                                        
+15|02| 2|Dr.|Kolber                                            |Istv√°n                                  |0016628|01|MSZP                                                        
+15|02| 6|Dr.|Szab√≥                                             |J√≥zsef Andor                            |0014397|02|FIDESZ,KDNP                                                 
 15|03| 2|Dr.|Gruber                                            |Attila                                  |0015733|02|FIDESZ,KDNP                                                 
-15|03| 5|   |Vˆlgyi                                            |Lajos                                   |0013777|01|MSZP                                                        
-15|04| 1|   |HerÈnyi                                           |K·roly                                  |0001017|01|MDF                                                         
+15|03| 5|   |V√∂lgyi                                            |Lajos                                   |0013777|01|MSZP                                                        
+15|04| 1|   |Her√©nyi                                           |K√°roly                                  |0001017|01|MDF                                                         
 15|04| 2|   |Kollmann                                          |Gergely Ferenc                          |0012346|01|MSZP                                                        
-15|04| 4|   |MÛring                                            |JÛzsef Attila                           |0014505|02|FIDESZ,KDNP                                                 
-15|06| 1|Dr.|Gyenesei                                          |Istv·n                                  |0013801|01|SOMOGY…RT                                                   
-15|06| 2|   |Kuzma                                             |L·szlÛ                                  |0010058|02|FIDESZ,KDNP                                                 
-16|04| 1|   |Demendi                                           |L·szlÛ                                  |0011505|01|MSZP                                                        
-16|04| 2|   |Juh·sz                                            |Zolt·n                                  |0002984|02|MDF,÷SSZEFOG¡S MEGY…NK…RT                                   
-16|04| 7|   |TÛth                                              |Andr·s                                  |0011112|02|FIDESZ,KDNP                                                 
-16|05| 3|   |Gazda                                             |L·szlÛ                                  |0015881|01|MSZP                                                        
-16|05| 6|   |Papcs·k                                           |Ferenc                                  |0013346|02|FIDESZ,KDNP                                                 
-16|06| 3|Dr.|Kossuth                                           |Lajos                                   |0000231|01|MI…P-Jobbik                                                 
-16|06| 6|Dr.|Simon                                             |MiklÛs                                  |0013656|02|FIDESZ,KDNP                                                 
-16|06| 7|Dr.|Veres                                             |J·nos                                   |0015110|01|MSZP                                                        
-16|07| 5|Dr.|Ol·h                                              |Albert                                  |0012715|02|FIDESZ,KDNP                                                 
-16|07| 7|Dr.|SzÈp                                              |BÈla                                    |0014307|01|MSZP                                                        
-16|09| 3|   |F¸lˆp                                             |Istv·n                                  |0014203|02|FIDESZ,KDNP                                                 
-16|09| 4|   |K·rp·ti                                           |Tibor                                   |0012193|01|MSZP                                                        
-16|09| 5|Dr.|Szil·gyi                                          |DÈnes                                   |0000449|01|MDF                                                         
-16|10| 1|   |Aranyosi                                          |L·szlÛ                                  |0011509|01|MSZP                                                        
-16|10| 3|   |Erdıs                                             |Tam·s                                   |0000656|02|MDF,÷SSZEFOG¡S MEGY…NK…RT                                   
+15|04| 4|   |M√≥ring                                            |J√≥zsef Attila                           |0014505|02|FIDESZ,KDNP                                                 
+15|06| 1|Dr.|Gyenesei                                          |Istv√°n                                  |0013801|01|SOMOGY√âRT                                                   
+15|06| 2|   |Kuzma                                             |L√°szl√≥                                  |0010058|02|FIDESZ,KDNP                                                 
+16|04| 1|   |Demendi                                           |L√°szl√≥                                  |0011505|01|MSZP                                                        
+16|04| 2|   |Juh√°sz                                            |Zolt√°n                                  |0002984|02|MDF,√ñSSZEFOG√ÅS MEGY√âNK√âRT                                   
+16|04| 7|   |T√≥th                                              |Andr√°s                                  |0011112|02|FIDESZ,KDNP                                                 
+16|05| 3|   |Gazda                                             |L√°szl√≥                                  |0015881|01|MSZP                                                        
+16|05| 6|   |Papcs√°k                                           |Ferenc                                  |0013346|02|FIDESZ,KDNP                                                 
+16|06| 3|Dr.|Kossuth                                           |Lajos                                   |0000231|01|MI√âP-Jobbik                                                 
+16|06| 6|Dr.|Simon                                             |Mikl√≥s                                  |0013656|02|FIDESZ,KDNP                                                 
+16|06| 7|Dr.|Veres                                             |J√°nos                                   |0015110|01|MSZP                                                        
+16|07| 5|Dr.|Ol√°h                                              |Albert                                  |0012715|02|FIDESZ,KDNP                                                 
+16|07| 7|Dr.|Sz√©p                                              |B√©la                                    |0014307|01|MSZP                                                        
+16|09| 3|   |F√ºl√∂p                                             |Istv√°n                                  |0014203|02|FIDESZ,KDNP                                                 
+16|09| 4|   |K√°rp√°ti                                           |Tibor                                   |0012193|01|MSZP                                                        
+16|09| 5|Dr.|Szil√°gyi                                          |D√©nes                                   |0000449|01|MDF                                                         
+16|10| 1|   |Aranyosi                                          |L√°szl√≥                                  |0011509|01|MSZP                                                        
+16|10| 3|   |Erd≈ës                                             |Tam√°s                                   |0000656|02|MDF,√ñSSZEFOG√ÅS MEGY√âNK√âRT                                   
 16|10| 7|Dr.|Tilki                                             |Attila                                  |0012957|02|FIDESZ,KDNP                                                 
-17|01| 1|Dr.|Braun                                             |M·rton                                  |0017391|02|FIDESZ,KDNP                                                 
-17|01| 2|   |Halmai                                            |G·bornÈ                                 |0016815|01|MSZP                                                        
-17|02| 3|   |Kom·romi                                          |Lilla                                   |0000795|01|MDF                                                         
-17|02| 4|   |Moln·r                                            |JÛzsef                                  |0012895|01|MSZP                                                        
-17|02| 7|   |TÛth                                              |Ferenc                                  |0015561|02|FIDESZ,KDNP                                                 
-17|04| 1|   |FehÈrv·ri                                         |Tam·s                                   |0007910|02|FIDESZ,KDNP                                                 
-17|04| 4|   |TÛth                                              |Gyula                                   |0009629|01|MSZP                                                        
-17|05| 1|Dr.|D·vid                                             |Ibolya                                  |0000982|01|MDF                                                         
-17|05| 2|   |FranknÈ Dr. Kov·cs                                |Szilvia                                 |0008948|01|MSZP                                                        
+17|01| 1|Dr.|Braun                                             |M√°rton                                  |0017391|02|FIDESZ,KDNP                                                 
+17|01| 2|   |Halmai                                            |G√°born√©                                 |0016815|01|MSZP                                                        
+17|02| 3|   |Kom√°romi                                          |Lilla                                   |0000795|01|MDF                                                         
+17|02| 4|   |Moln√°r                                            |J√≥zsef                                  |0012895|01|MSZP                                                        
+17|02| 7|   |T√≥th                                              |Ferenc                                  |0015561|02|FIDESZ,KDNP                                                 
+17|04| 1|   |Feh√©rv√°ri                                         |Tam√°s                                   |0007910|02|FIDESZ,KDNP                                                 
+17|04| 4|   |T√≥th                                              |Gyula                                   |0009629|01|MSZP                                                        
+17|05| 1|Dr.|D√°vid                                             |Ibolya                                  |0000982|01|MDF                                                         
+17|05| 2|   |Frankn√© Dr. Kov√°cs                                |Szilvia                                 |0008948|01|MSZP                                                        
 17|05| 3|   |Hirt                                              |Ferenc                                  |0010606|02|FIDESZ,KDNP                                                 
-18|01| 1|Dr.|HankÛ FaragÛ                                      |MiklÛs                                  |0014195|02|SZDSZ-A MAGYAR LIBER¡LIS P¡RT,MSZP                          
-18|01| 2|Dr.|Pusk·s                                            |Tivadar                                 |0012698|02|FIDESZ,KDNP                                                 
-18|02| 2|   |Ga·l                                              |Angelika                                |0013063|02|MSZP,SZDSZ-A MAGYAR LIBER¡LIS P¡RT                          
+18|01| 1|Dr.|Hank√≥ Farag√≥                                      |Mikl√≥s                                  |0014195|02|SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT,MSZP                          
+18|01| 2|Dr.|Pusk√°s                                            |Tivadar                                 |0012698|02|FIDESZ,KDNP                                                 
+18|02| 2|   |Ga√°l                                              |Angelika                                |0013063|02|MSZP,SZDSZ-A MAGYAR LIBER√ÅLIS P√ÅRT                          
 18|02| 3|Dr.|Hende                                             |Csaba                                   |0013460|02|FIDESZ,KDNP                                                 
-19|01| 2|   |Schwartz                                          |BÈla                                    |0014906|01|MSZP                                                        
-19|01| 3|   |Stol·r                                            |Mih·ly                                  |0013027|02|FIDESZ,KDNP                                                 
+19|01| 2|   |Schwartz                                          |B√©la                                    |0014906|01|MSZP                                                        
+19|01| 3|   |Stol√°r                                            |Mih√°ly                                  |0013027|02|FIDESZ,KDNP                                                 
 19|01| 4|   |Tamaga                                            |Ferenc                                  |0000744|01|MDF                                                         
-19|05| 2|   |De·k                                              |Istv·nnÈ                                |0015702|01|MSZP                                                        
-19|05| 4|   |TalabÈr                                           |M·rta                                   |0014195|02|FIDESZ,KDNP                                                 
-19|06| 1|Dr.|Bense                                             |L·szlÛ Erik                             |0000636|01|MDF                                                         
-19|06| 2|Dr.|Horv·th                                           |Bal·zs                                  |0009670|02|FIDESZ,KDNP                                                 
-19|06| 3|   |Katanics                                          |S·ndor                                  |0007497|01|MSZP                                                        
+19|05| 2|   |De√°k                                              |Istv√°nn√©                                |0015702|01|MSZP                                                        
+19|05| 4|   |Talab√©r                                           |M√°rta                                   |0014195|02|FIDESZ,KDNP                                                 
+19|06| 1|Dr.|Bense                                             |L√°szl√≥ Erik                             |0000636|01|MDF                                                         
+19|06| 2|Dr.|Horv√°th                                           |Bal√°zs                                  |0009670|02|FIDESZ,KDNP                                                 
+19|06| 3|   |Katanics                                          |S√°ndor                                  |0007497|01|MSZP                                                        
 19|07| 1|   |Kuti                                              |Csaba                                   |0000844|01|MDF                                                         
 19|07| 2|Dr.|Navracsics                                        |Tibor                                   |0011403|02|FIDESZ,KDNP                                                 
-19|07| 3|   |P·l                                               |BÈla                                    |0014173|01|MSZP                                                        
+19|07| 3|   |P√°l                                               |B√©la                                    |0014173|01|MSZP                                                        
 20|01| 2|Dr.|Gyimesi                                           |Endre                                   |0016952|02|FIDESZ,KDNP                                                 
 20|01| 3|   |Kiss                                              |Ferenc                                  |0014441|01|MSZP                                                        
-20|02| 1|   |CseresnyÈs                                        |PÈter                                   |0013598|02|FIDESZ,KDNP                                                 
-20|02| 2|   |Gˆndˆr                                            |Istv·n                                  |0016345|01|MSZP                                                        
-20|05| 1|   |Baracskai                                         |JÛzsef                                  |0010679|01|MSZP                                                        
-20|05| 7|   |Vigh                                              |L·szlÛ Gyızı                            |0017546|02|FIDESZ,KDNP                                                 
+20|02| 1|   |Cseresny√©s                                        |P√©ter                                   |0013598|02|FIDESZ,KDNP                                                 
+20|02| 2|   |G√∂nd√∂r                                            |Istv√°n                                  |0016345|01|MSZP                                                        
+20|05| 1|   |Baracskai                                         |J√≥zsef                                  |0010679|01|MSZP                                                        
+20|05| 7|   |Vigh                                              |L√°szl√≥ Gy≈ëz≈ë                            |0017546|02|FIDESZ,KDNP                                                 

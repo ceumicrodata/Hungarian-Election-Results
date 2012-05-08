@@ -1,18 +1,18 @@
-13|0|Választás eredménytelen|
-13|1|Választás eredményes|
-13|2|Megsemmisített eredmény|A választási bizottság vagy bíróság az eredményt megsemmisítette
-13|3|Érvénytelen választás|
-25|A|Megyei lista 10e és alatti|A megyék 10000 és az alatti lakosú településeinek választókerületében állított lista, a megyei közgyûlés megválasztásához
-25|F|Megyei lista 10e feletti|A megyék 10000 feletti lakosú településeinek választókerületében állított lista, a megyei közgyûlés megválasztásához
-25|B|Fõvárosi közgyûlési lista|A fõváros kerületeinek választókerületében állított lista, a fõvárosi közgyûlés megválasztásához
-29|1|Mandátumot nyert|
-29|2|Kedvezményes mandátumot nyert|
-29|3|Nem nyert mandátumot|
-29|4|Nyert, de VB érvénytelenítette|
-29|5|Polgármester, fõpolgármester lett|
-29|6|Nyert, de lemondott mandátumáról|
-29|7|Egyéni VK-ben nyert|Vegyes választási rendszerben a jelölt egyéni választókerületben mandátumhoz jutott, ezért a kompenzációs listán már nem juthat mandátumhoz
-57|1|Párt, pártcsoport|
-57|1|Társadalmi szervezet, szervezetcsoport|
-57|2|Kisebbségi szervezet, szervezetcsoport|
-57|4|Független jelölt|
+13|0|VÃ¡lasztÃ¡s eredmÃ©nytelen|
+13|1|VÃ¡lasztÃ¡s eredmÃ©nyes|
+13|2|MegsemmisÃ­tett eredmÃ©ny|A vÃ¡lasztÃ¡si bizottsÃ¡g vagy bÃ­rÃ³sÃ¡g az eredmÃ©nyt megsemmisÃ­tette
+13|3|Ã‰rvÃ©nytelen vÃ¡lasztÃ¡s|
+25|A|Megyei lista 10e Ã©s alatti|A megyÃ©k 10000 Ã©s az alatti lakosÃº telepÃ¼lÃ©seinek vÃ¡lasztÃ³kerÃ¼letÃ©ben Ã¡llÃ­tott lista, a megyei kÃ¶zgyÅ±lÃ©s megvÃ¡lasztÃ¡sÃ¡hoz
+25|F|Megyei lista 10e feletti|A megyÃ©k 10000 feletti lakosÃº telepÃ¼lÃ©seinek vÃ¡lasztÃ³kerÃ¼letÃ©ben Ã¡llÃ­tott lista, a megyei kÃ¶zgyÅ±lÃ©s megvÃ¡lasztÃ¡sÃ¡hoz
+25|B|FÅ‘vÃ¡rosi kÃ¶zgyÅ±lÃ©si lista|A fÅ‘vÃ¡ros kerÃ¼leteinek vÃ¡lasztÃ³kerÃ¼letÃ©ben Ã¡llÃ­tott lista, a fÅ‘vÃ¡rosi kÃ¶zgyÅ±lÃ©s megvÃ¡lasztÃ¡sÃ¡hoz
+29|1|MandÃ¡tumot nyert|
+29|2|KedvezmÃ©nyes mandÃ¡tumot nyert|
+29|3|Nem nyert mandÃ¡tumot|
+29|4|Nyert, de VB Ã©rvÃ©nytelenÃ­tette|
+29|5|PolgÃ¡rmester, fÅ‘polgÃ¡rmester lett|
+29|6|Nyert, de lemondott mandÃ¡tumÃ¡rÃ³l|
+29|7|EgyÃ©ni VK-ben nyert|Vegyes vÃ¡lasztÃ¡si rendszerben a jelÃ¶lt egyÃ©ni vÃ¡lasztÃ³kerÃ¼letben mandÃ¡tumhoz jutott, ezÃ©rt a kompenzÃ¡ciÃ³s listÃ¡n mÃ¡r nem juthat mandÃ¡tumhoz
+57|1|PÃ¡rt, pÃ¡rtcsoport|
+57|1|TÃ¡rsadalmi szervezet, szervezetcsoport|
+57|2|KisebbsÃ©gi szervezet, szervezetcsoport|
+57|4|FÃ¼ggetlen jelÃ¶lt|

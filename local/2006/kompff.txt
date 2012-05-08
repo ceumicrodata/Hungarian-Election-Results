@@ -1,165 +1,165 @@
-01|BUDAPEST                 |001|BUDAPEST I.ker.          |7|V·laszt·s eredmÈnyes          |  9|  0|
-01|BUDAPEST                 |002|BUDAPEST II.ker.         |7|V·laszt·s eredmÈnyes          | 12|  0|
-01|BUDAPEST                 |003|BUDAPEST III.ker.        |7|V·laszt·s eredmÈnyes          | 14|  0|
-01|BUDAPEST                 |004|BUDAPEST IV.ker.         |7|V·laszt·s eredmÈnyes          | 13|  0|
-01|BUDAPEST                 |005|BUDAPEST V.ker.          |7|V·laszt·s eredmÈnyes          |  9|  0|
-01|BUDAPEST                 |006|BUDAPEST VI.ker.         |7|V·laszt·s eredmÈnyes          |  9|  0|
-01|BUDAPEST                 |007|BUDAPEST VII.ker.        |7|V·laszt·s eredmÈnyes          | 10|  0|
-01|BUDAPEST                 |008|BUDAPEST VIII.ker.       |7|V·laszt·s eredmÈnyes          | 11|  0|
-01|BUDAPEST                 |009|BUDAPEST IX.ker.         |7|V·laszt·s eredmÈnyes          | 10|  0|
-01|BUDAPEST                 |010|BUDAPEST X.ker.          |7|V·laszt·s eredmÈnyes          | 11|  0|
-01|BUDAPEST                 |011|BUDAPEST XI.ker.         |7|V·laszt·s eredmÈnyes          | 15|  0|
-01|BUDAPEST                 |012|BUDAPEST XII.ker.        |7|V·laszt·s eredmÈnyes          | 11|  0|
-01|BUDAPEST                 |013|BUDAPEST XIII.ker.       |7|V·laszt·s eredmÈnyes          | 13|  0|
-01|BUDAPEST                 |014|BUDAPEST XIV.ker.        |7|V·laszt·s eredmÈnyes          | 13|  0|
-01|BUDAPEST                 |015|BUDAPEST XV.ker.         |7|V·laszt·s eredmÈnyes          | 11|  0|
-01|BUDAPEST                 |016|BUDAPEST XVI.ker.        |7|V·laszt·s eredmÈnyes          | 11|  0|
-01|BUDAPEST                 |017|BUDAPEST XVII.ker.       |7|V·laszt·s eredmÈnyes          | 11|  0|
-01|BUDAPEST                 |018|BUDAPEST XVIII.ker.      |7|V·laszt·s eredmÈnyes          | 12|  0|
-01|BUDAPEST                 |019|BUDAPEST XIX.ker.        |7|V·laszt·s eredmÈnyes          | 11|  0|
-01|BUDAPEST                 |020|BUDAPEST XX.ker.         |7|V·laszt·s eredmÈnyes          | 11|  0|
-01|BUDAPEST                 |021|BUDAPEST XXI.ker.        |7|V·laszt·s eredmÈnyes          | 11|  0|
-01|BUDAPEST                 |022|BUDAPEST XXII.ker.       |7|V·laszt·s eredmÈnyes          | 10|  0|
-01|BUDAPEST                 |023|BUDAPEST XXIII.ker.      |7|V·laszt·s eredmÈnyes          |  7|  0|
-02|BARANYA                  |137|KOML”                    |7|V·laszt·s eredmÈnyes          |  9|  0|
-02|BARANYA                  |181|MOH¡CS                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-02|BARANYA                  |217|P…CS                     |7|V·laszt·s eredmÈnyes          | 16|  0|
-02|BARANYA                  |234|SIKL”S                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-02|BARANYA                  |263|SZIGETV¡R                |7|V·laszt·s eredmÈnyes          |  7|  0|
-03|B¡CS-KISKUN              |004|BAJA                     |7|V·laszt·s eredmÈnyes          |  9|  0|
-03|B¡CS-KISKUN              |056|KALOCSA                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-03|B¡CS-KISKUN              |060|KECSKEM…T                |7|V·laszt·s eredmÈnyes          | 13|  0|
-03|B¡CS-KISKUN              |064|KISK’R÷S                 |7|V·laszt·s eredmÈnyes          |  7|  0|
-03|B¡CS-KISKUN              |065|KISKUNF…LEGYH¡ZA         |7|V·laszt·s eredmÈnyes          |  9|  0|
-03|B¡CS-KISKUN              |066|KISKUNHALAS              |7|V·laszt·s eredmÈnyes          |  9|  0|
-03|B¡CS-KISKUN              |067|KISKUNMAJSA              |7|V·laszt·s eredmÈnyes          |  7|  0|
-03|B¡CS-KISKUN              |078|LAJOSMIZSE               |7|V·laszt·s eredmÈnyes          |  7|  0|
-03|B¡CS-KISKUN              |111|TISZAK…CSKE              |7|V·laszt·s eredmÈnyes          |  7|  0|
-04|B…K…S                    |003|B…K…S                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-04|B…K…S                    |004|B…K…SCSABA               |7|V·laszt·s eredmÈnyes          | 11|  0|
-04|B…K…S                    |025|GYOMAENDR’D              |7|V·laszt·s eredmÈnyes          |  7|  0|
-04|B…K…S                    |026|GYULA                    |7|V·laszt·s eredmÈnyes          |  9|  0|
-04|B…K…S                    |049|MEZ’BER…NY               |7|V·laszt·s eredmÈnyes          |  7|  0|
-04|B…K…S                    |059|OROSH¡ZA                 |7|V·laszt·s eredmÈnyes          |  9|  0|
-04|B…K…S                    |063|SARKAD                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-04|B…K…S                    |066|SZARVAS                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-04|B…K…S                    |067|SZEGHALOM                |7|V·laszt·s eredmÈnyes          |  7|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |075|EDEL…NY                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |153|KAZINCBARCIKA            |7|V·laszt·s eredmÈnyes          |  9|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |196|MEZ’K÷VESD               |7|V·laszt·s eredmÈnyes          |  7|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |202|MISKOLC                  |7|V·laszt·s eredmÈnyes          | 18|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |226|”ZD                      |7|V·laszt·s eredmÈnyes          |  9|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |268|SAJ”SZENTP…TER           |7|V·laszt·s eredmÈnyes          |  7|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |274|S¡ROSPATAK               |7|V·laszt·s eredmÈnyes          |  7|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |276|S¡TORALJA⁄JHELY          |7|V·laszt·s eredmÈnyes          |  7|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |294|SZERENCS                 |7|V·laszt·s eredmÈnyes          |  7|  0|
-05|BORSOD-ABA⁄J-ZEMPL…N     |326|TISZA⁄JV¡ROS             |7|V·laszt·s eredmÈnyes          |  7|  0|
-06|CSONGR¡D                 |013|CSONGR¡D                 |7|V·laszt·s eredmÈnyes          |  7|  0|
-06|CSONGR¡D                 |024|H”DMEZ’V¡S¡RHELY         |7|V·laszt·s eredmÈnyes          |  9|  0|
-06|CSONGR¡D                 |032|MAK”                     |7|V·laszt·s eredmÈnyes          |  9|  0|
-06|CSONGR¡D                 |051|SZEGED                   |7|V·laszt·s eredmÈnyes          | 17|  0|
-06|CSONGR¡D                 |053|SZENTES                  |7|V·laszt·s eredmÈnyes          |  9|  0|
-07|FEJ…R                    |013|BICSKE                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-07|FEJ…R                    |024|DUNA⁄JV¡ROS              |7|V·laszt·s eredmÈnyes          | 10|  0|
-07|FEJ…R                    |061|M”R                      |7|V·laszt·s eredmÈnyes          |  7|  0|
-07|FEJ…R                    |078|S¡RBOG¡RD                |7|V·laszt·s eredmÈnyes          |  7|  0|
-07|FEJ…R                    |094|SZ…KESFEH…RV¡R           |7|V·laszt·s eredmÈnyes          | 13|  0|
-08|GY’R-MOSON-SOPRON        |027|CSORNA                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-08|GY’R-MOSON-SOPRON        |059|GY’R                     |7|V·laszt·s eredmÈnyes          | 14|  0|
-08|GY’R-MOSON-SOPRON        |081|KAPUV¡R                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-08|GY’R-MOSON-SOPRON        |104|MOSONMAGYAR”V¡R          |7|V·laszt·s eredmÈnyes          |  9|  0|
-08|GY’R-MOSON-SOPRON        |150|SOPRON                   |7|V·laszt·s eredmÈnyes          | 10|  0|
-09|HAJD⁄-BIHAR              |005|BALMAZ⁄JV¡ROS            |7|V·laszt·s eredmÈnyes          |  7|  0|
-09|HAJD⁄-BIHAR              |009|BERETTY”⁄JFALU           |7|V·laszt·s eredmÈnyes          |  7|  0|
-09|HAJD⁄-BIHAR              |018|DEBRECEN                 |7|V·laszt·s eredmÈnyes          | 20|  0|
-09|HAJD⁄-BIHAR              |030|HAJD⁄B÷SZ÷RM…NY          |7|V·laszt·s eredmÈnyes          |  9|  0|
-09|HAJD⁄-BIHAR              |032|HAJD⁄HADH¡Z              |7|V·laszt·s eredmÈnyes          |  7|  0|
-09|HAJD⁄-BIHAR              |033|HAJD⁄N¡N¡S               |7|V·laszt·s eredmÈnyes          |  7|  0|
-09|HAJD⁄-BIHAR              |034|HAJD⁄S¡MSON              |7|V·laszt·s eredmÈnyes          |  7|  0|
-09|HAJD⁄-BIHAR              |035|HAJD⁄SZOBOSZL”           |7|V·laszt·s eredmÈnyes          |  7|  0|
-09|HAJD⁄-BIHAR              |063|P‹SP÷KLAD¡NY             |7|V·laszt·s eredmÈnyes          |  7|  0|
-10|HEVES                    |025|EGER                     |7|V·laszt·s eredmÈnyes          | 10|  0|
-10|HEVES                    |039|GY÷NGY÷S                 |7|V·laszt·s eredmÈnyes          |  9|  0|
-10|HEVES                    |046|HATVAN                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-10|HEVES                    |048|HEVES                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-11|J¡SZ-NAGYKUN-SZOLNOK     |016|J¡SZBER…NY               |7|V·laszt·s eredmÈnyes          |  9|  0|
-11|J¡SZ-NAGYKUN-SZOLNOK     |027|KARCAG                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-11|J¡SZ-NAGYKUN-SZOLNOK     |031|KIS⁄JSZ¡LL¡S             |7|V·laszt·s eredmÈnyes          |  7|  0|
-11|J¡SZ-NAGYKUN-SZOLNOK     |040|MEZ’T⁄R                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-11|J¡SZ-NAGYKUN-SZOLNOK     |052|SZOLNOK                  |7|V·laszt·s eredmÈnyes          | 11|  0|
-11|J¡SZ-NAGYKUN-SZOLNOK     |056|TISZAF÷LDV¡R             |7|V·laszt·s eredmÈnyes          |  7|  0|
-11|J¡SZ-NAGYKUN-SZOLNOK     |057|TISZAF‹RED               |7|V·laszt·s eredmÈnyes          |  7|  0|
-11|J¡SZ-NAGYKUN-SZOLNOK     |073|T÷R÷KSZENTMIKL”S         |7|V·laszt·s eredmÈnyes          |  7|  0|
-12|KOM¡ROM-ESZTERGOM        |023|DOROG                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-12|KOM¡ROM-ESZTERGOM        |028|ESZTERGOM                |7|V·laszt·s eredmÈnyes          |  9|  0|
-12|KOM¡ROM-ESZTERGOM        |038|KOM¡ROM                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-12|KOM¡ROM-ESZTERGOM        |051|OROSZL¡NY                |7|V·laszt·s eredmÈnyes          |  7|  0|
-12|KOM¡ROM-ESZTERGOM        |064|TATA                     |7|V·laszt·s eredmÈnyes          |  7|  0|
-12|KOM¡ROM-ESZTERGOM        |065|TATAB¡NYA                |7|V·laszt·s eredmÈnyes          | 11|  0|
-13|N”GR¡D                   |003|BALASSAGYARMAT           |7|V·laszt·s eredmÈnyes          |  7|  0|
-13|N”GR¡D                   |006|B¡TONYTERENYE            |7|V·laszt·s eredmÈnyes          |  7|  0|
-13|N”GR¡D                   |103|SALG”TARJ¡N              |7|V·laszt·s eredmÈnyes          |  9|  0|
-14|PEST                     |001|ABONY                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |003|ALBERTIRSA               |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |013|BUDAKAL¡SZ               |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |014|BUDAKESZI                |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |015|BUDA÷RS                  |7|V·laszt·s eredmÈnyes          |  9|  0|
-14|PEST                     |017|CEGL…D                   |7|V·laszt·s eredmÈnyes          |  9|  0|
-14|PEST                     |025|DABAS                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |033|DUNAHARASZTI             |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |034|DUNAKESZI                |7|V·laszt·s eredmÈnyes          |  9|  0|
-14|PEST                     |038|…RD                      |7|V·laszt·s eredmÈnyes          | 11|  0|
-14|PEST                     |041|F”T                      |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |046|G÷D                      |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |047|G÷D÷LL’                  |7|V·laszt·s eredmÈnyes          |  9|  0|
-14|PEST                     |048|GY¡L                     |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |049|GY÷MR’                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |058|ISASZEG                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |078|MAGL”D                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |085|MONOR                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |087|NAGYK¡TA                 |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |089|NAGYK’R÷S                |7|V·laszt·s eredmÈnyes          |  9|  0|
-14|PEST                     |102|P…CEL                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |104|PILIS                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |112|PILISV÷R÷SV¡R            |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |113|POM¡Z                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |125|SZ¡ZHALOMBATTA           |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |126|SZENTENDRE               |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |131|SZIGETHALOM              |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |134|SZIGETSZENTMIKL”S        |7|V·laszt·s eredmÈnyes          |  9|  0|
-14|PEST                     |158|T÷R÷KB¡LINT              |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |165|‹LL’                     |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |169|V¡C                      |7|V·laszt·s eredmÈnyes          |  9|  0|
-14|PEST                     |177|VECS…S                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-14|PEST                     |178|VERESEGYH¡Z              |7|V·laszt·s eredmÈnyes          |  7|  0|
-15|SOMOGY                   |020|BARCS                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-15|SOMOGY                   |091|KAPOSV¡R                 |7|V·laszt·s eredmÈnyes          | 11|  0|
-15|SOMOGY                   |123|MARCALI                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-15|SOMOGY                   |130|NAGYAT¡D                 |7|V·laszt·s eredmÈnyes          |  7|  0|
-15|SOMOGY                   |175|SI”FOK                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-16|SZABOLCS-SZATM¡R-BEREG   |077|KISV¡RDA                 |7|V·laszt·s eredmÈnyes          |  7|  0|
-16|SZABOLCS-SZATM¡R-BEREG   |094|M¡T…SZALKA               |7|V·laszt·s eredmÈnyes          |  7|  0|
-16|SZABOLCS-SZATM¡R-BEREG   |106|NAGYK¡LL”                |7|V·laszt·s eredmÈnyes          |  7|  0|
-16|SZABOLCS-SZATM¡R-BEREG   |112|NYÕRB¡TOR                |7|V·laszt·s eredmÈnyes          |  7|  0|
-16|SZABOLCS-SZATM¡R-BEREG   |119|NYÕREGYH¡ZA              |7|V·laszt·s eredmÈnyes          | 14|  0|
-16|SZABOLCS-SZATM¡R-BEREG   |204|TISZAVASV¡RI             |7|V·laszt·s eredmÈnyes          |  7|  0|
-16|SZABOLCS-SZATM¡R-BEREG   |217|⁄JFEH…RT”                |7|V·laszt·s eredmÈnyes          |  7|  0|
-17|TOLNA                    |011|BONYH¡D                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-17|TOLNA                    |020|DOMB”V¡R                 |7|V·laszt·s eredmÈnyes          |  7|  0|
-17|TOLNA                    |079|PAKS                     |7|V·laszt·s eredmÈnyes          |  7|  0|
-17|TOLNA                    |095|SZEKSZ¡RD                |7|V·laszt·s eredmÈnyes          |  9|  0|
-17|TOLNA                    |099|TOLNA                    |7|V·laszt·s eredmÈnyes          |  7|  0|
-18|VAS                      |020|CELLD÷M÷LK               |7|V·laszt·s eredmÈnyes          |  7|  0|
-18|VAS                      |095|K÷RMEND                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-18|VAS                      |096|K’SZEG                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-18|VAS                      |167|S¡RV¡R                   |7|V·laszt·s eredmÈnyes          |  7|  0|
-18|VAS                      |186|SZOMBATHELY              |7|V·laszt·s eredmÈnyes          | 11|  0|
-19|VESZPR…M                 |003|AJKA                     |7|V·laszt·s eredmÈnyes          |  9|  0|
-19|VESZPR…M                 |026|BALATONF‹RED             |7|V·laszt·s eredmÈnyes          |  7|  0|
-19|VESZPR…M                 |153|P¡PA                     |7|V·laszt·s eredmÈnyes          |  9|  0|
-19|VESZPR…M                 |188|TAPOLCA                  |7|V·laszt·s eredmÈnyes          |  7|  0|
-19|VESZPR…M                 |201|V¡RPALOTA                |7|V·laszt·s eredmÈnyes          |  7|  0|
-19|VESZPR…M                 |203|VESZPR…M                 |7|V·laszt·s eredmÈnyes          | 10|  0|
-20|ZALA                     |093|KESZTHELY                |7|V·laszt·s eredmÈnyes          |  7|  0|
-20|ZALA                     |134|NAGYKANIZSA              |7|V·laszt·s eredmÈnyes          | 10|  0|
-20|ZALA                     |231|ZALAEGERSZEG             |7|V·laszt·s eredmÈnyes          | 11|  0|
+01|BUDAPEST                 |001|BUDAPEST I.ker.          |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+01|BUDAPEST                 |002|BUDAPEST II.ker.         |7|V√°laszt√°s eredm√©nyes          | 12|  0|
+01|BUDAPEST                 |003|BUDAPEST III.ker.        |7|V√°laszt√°s eredm√©nyes          | 14|  0|
+01|BUDAPEST                 |004|BUDAPEST IV.ker.         |7|V√°laszt√°s eredm√©nyes          | 13|  0|
+01|BUDAPEST                 |005|BUDAPEST V.ker.          |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+01|BUDAPEST                 |006|BUDAPEST VI.ker.         |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+01|BUDAPEST                 |007|BUDAPEST VII.ker.        |7|V√°laszt√°s eredm√©nyes          | 10|  0|
+01|BUDAPEST                 |008|BUDAPEST VIII.ker.       |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+01|BUDAPEST                 |009|BUDAPEST IX.ker.         |7|V√°laszt√°s eredm√©nyes          | 10|  0|
+01|BUDAPEST                 |010|BUDAPEST X.ker.          |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+01|BUDAPEST                 |011|BUDAPEST XI.ker.         |7|V√°laszt√°s eredm√©nyes          | 15|  0|
+01|BUDAPEST                 |012|BUDAPEST XII.ker.        |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+01|BUDAPEST                 |013|BUDAPEST XIII.ker.       |7|V√°laszt√°s eredm√©nyes          | 13|  0|
+01|BUDAPEST                 |014|BUDAPEST XIV.ker.        |7|V√°laszt√°s eredm√©nyes          | 13|  0|
+01|BUDAPEST                 |015|BUDAPEST XV.ker.         |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+01|BUDAPEST                 |016|BUDAPEST XVI.ker.        |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+01|BUDAPEST                 |017|BUDAPEST XVII.ker.       |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+01|BUDAPEST                 |018|BUDAPEST XVIII.ker.      |7|V√°laszt√°s eredm√©nyes          | 12|  0|
+01|BUDAPEST                 |019|BUDAPEST XIX.ker.        |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+01|BUDAPEST                 |020|BUDAPEST XX.ker.         |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+01|BUDAPEST                 |021|BUDAPEST XXI.ker.        |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+01|BUDAPEST                 |022|BUDAPEST XXII.ker.       |7|V√°laszt√°s eredm√©nyes          | 10|  0|
+01|BUDAPEST                 |023|BUDAPEST XXIII.ker.      |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+02|BARANYA                  |137|KOML√ì                    |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+02|BARANYA                  |181|MOH√ÅCS                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+02|BARANYA                  |217|P√âCS                     |7|V√°laszt√°s eredm√©nyes          | 16|  0|
+02|BARANYA                  |234|SIKL√ìS                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+02|BARANYA                  |263|SZIGETV√ÅR                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+03|B√ÅCS-KISKUN              |004|BAJA                     |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+03|B√ÅCS-KISKUN              |056|KALOCSA                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+03|B√ÅCS-KISKUN              |060|KECSKEM√âT                |7|V√°laszt√°s eredm√©nyes          | 13|  0|
+03|B√ÅCS-KISKUN              |064|KISK≈êR√ñS                 |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+03|B√ÅCS-KISKUN              |065|KISKUNF√âLEGYH√ÅZA         |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+03|B√ÅCS-KISKUN              |066|KISKUNHALAS              |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+03|B√ÅCS-KISKUN              |067|KISKUNMAJSA              |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+03|B√ÅCS-KISKUN              |078|LAJOSMIZSE               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+03|B√ÅCS-KISKUN              |111|TISZAK√âCSKE              |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+04|B√âK√âS                    |003|B√âK√âS                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+04|B√âK√âS                    |004|B√âK√âSCSABA               |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+04|B√âK√âS                    |025|GYOMAENDR≈êD              |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+04|B√âK√âS                    |026|GYULA                    |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+04|B√âK√âS                    |049|MEZ≈êBER√âNY               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+04|B√âK√âS                    |059|OROSH√ÅZA                 |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+04|B√âK√âS                    |063|SARKAD                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+04|B√âK√âS                    |066|SZARVAS                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+04|B√âK√âS                    |067|SZEGHALOM                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |075|EDEL√âNY                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |153|KAZINCBARCIKA            |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |196|MEZ≈êK√ñVESD               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |202|MISKOLC                  |7|V√°laszt√°s eredm√©nyes          | 18|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |226|√ìZD                      |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |268|SAJ√ìSZENTP√âTER           |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |274|S√ÅROSPATAK               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |276|S√ÅTORALJA√öJHELY          |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |294|SZERENCS                 |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+05|BORSOD-ABA√öJ-ZEMPL√âN     |326|TISZA√öJV√ÅROS             |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+06|CSONGR√ÅD                 |013|CSONGR√ÅD                 |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+06|CSONGR√ÅD                 |024|H√ìDMEZ≈êV√ÅS√ÅRHELY         |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+06|CSONGR√ÅD                 |032|MAK√ì                     |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+06|CSONGR√ÅD                 |051|SZEGED                   |7|V√°laszt√°s eredm√©nyes          | 17|  0|
+06|CSONGR√ÅD                 |053|SZENTES                  |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+07|FEJ√âR                    |013|BICSKE                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+07|FEJ√âR                    |024|DUNA√öJV√ÅROS              |7|V√°laszt√°s eredm√©nyes          | 10|  0|
+07|FEJ√âR                    |061|M√ìR                      |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+07|FEJ√âR                    |078|S√ÅRBOG√ÅRD                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+07|FEJ√âR                    |094|SZ√âKESFEH√âRV√ÅR           |7|V√°laszt√°s eredm√©nyes          | 13|  0|
+08|GY≈êR-MOSON-SOPRON        |027|CSORNA                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+08|GY≈êR-MOSON-SOPRON        |059|GY≈êR                     |7|V√°laszt√°s eredm√©nyes          | 14|  0|
+08|GY≈êR-MOSON-SOPRON        |081|KAPUV√ÅR                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+08|GY≈êR-MOSON-SOPRON        |104|MOSONMAGYAR√ìV√ÅR          |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+08|GY≈êR-MOSON-SOPRON        |150|SOPRON                   |7|V√°laszt√°s eredm√©nyes          | 10|  0|
+09|HAJD√ö-BIHAR              |005|BALMAZ√öJV√ÅROS            |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+09|HAJD√ö-BIHAR              |009|BERETTY√ì√öJFALU           |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+09|HAJD√ö-BIHAR              |018|DEBRECEN                 |7|V√°laszt√°s eredm√©nyes          | 20|  0|
+09|HAJD√ö-BIHAR              |030|HAJD√öB√ñSZ√ñRM√âNY          |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+09|HAJD√ö-BIHAR              |032|HAJD√öHADH√ÅZ              |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+09|HAJD√ö-BIHAR              |033|HAJD√öN√ÅN√ÅS               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+09|HAJD√ö-BIHAR              |034|HAJD√öS√ÅMSON              |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+09|HAJD√ö-BIHAR              |035|HAJD√öSZOBOSZL√ì           |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+09|HAJD√ö-BIHAR              |063|P√úSP√ñKLAD√ÅNY             |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+10|HEVES                    |025|EGER                     |7|V√°laszt√°s eredm√©nyes          | 10|  0|
+10|HEVES                    |039|GY√ñNGY√ñS                 |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+10|HEVES                    |046|HATVAN                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+10|HEVES                    |048|HEVES                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |016|J√ÅSZBER√âNY               |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |027|KARCAG                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |031|KIS√öJSZ√ÅLL√ÅS             |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |040|MEZ≈êT√öR                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |052|SZOLNOK                  |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |056|TISZAF√ñLDV√ÅR             |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |057|TISZAF√úRED               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+11|J√ÅSZ-NAGYKUN-SZOLNOK     |073|T√ñR√ñKSZENTMIKL√ìS         |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+12|KOM√ÅROM-ESZTERGOM        |023|DOROG                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+12|KOM√ÅROM-ESZTERGOM        |028|ESZTERGOM                |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+12|KOM√ÅROM-ESZTERGOM        |038|KOM√ÅROM                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+12|KOM√ÅROM-ESZTERGOM        |051|OROSZL√ÅNY                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+12|KOM√ÅROM-ESZTERGOM        |064|TATA                     |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+12|KOM√ÅROM-ESZTERGOM        |065|TATAB√ÅNYA                |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+13|N√ìGR√ÅD                   |003|BALASSAGYARMAT           |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+13|N√ìGR√ÅD                   |006|B√ÅTONYTERENYE            |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+13|N√ìGR√ÅD                   |103|SALG√ìTARJ√ÅN              |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+14|PEST                     |001|ABONY                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |003|ALBERTIRSA               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |013|BUDAKAL√ÅSZ               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |014|BUDAKESZI                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |015|BUDA√ñRS                  |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+14|PEST                     |017|CEGL√âD                   |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+14|PEST                     |025|DABAS                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |033|DUNAHARASZTI             |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |034|DUNAKESZI                |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+14|PEST                     |038|√âRD                      |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+14|PEST                     |041|F√ìT                      |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |046|G√ñD                      |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |047|G√ñD√ñLL≈ê                  |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+14|PEST                     |048|GY√ÅL                     |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |049|GY√ñMR≈ê                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |058|ISASZEG                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |078|MAGL√ìD                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |085|MONOR                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |087|NAGYK√ÅTA                 |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |089|NAGYK≈êR√ñS                |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+14|PEST                     |102|P√âCEL                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |104|PILIS                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |112|PILISV√ñR√ñSV√ÅR            |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |113|POM√ÅZ                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |125|SZ√ÅZHALOMBATTA           |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |126|SZENTENDRE               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |131|SZIGETHALOM              |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |134|SZIGETSZENTMIKL√ìS        |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+14|PEST                     |158|T√ñR√ñKB√ÅLINT              |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |165|√úLL≈ê                     |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |169|V√ÅC                      |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+14|PEST                     |177|VECS√âS                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+14|PEST                     |178|VERESEGYH√ÅZ              |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+15|SOMOGY                   |020|BARCS                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+15|SOMOGY                   |091|KAPOSV√ÅR                 |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+15|SOMOGY                   |123|MARCALI                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+15|SOMOGY                   |130|NAGYAT√ÅD                 |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+15|SOMOGY                   |175|SI√ìFOK                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+16|SZABOLCS-SZATM√ÅR-BEREG   |077|KISV√ÅRDA                 |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+16|SZABOLCS-SZATM√ÅR-BEREG   |094|M√ÅT√âSZALKA               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+16|SZABOLCS-SZATM√ÅR-BEREG   |106|NAGYK√ÅLL√ì                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+16|SZABOLCS-SZATM√ÅR-BEREG   |112|NY√çRB√ÅTOR                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+16|SZABOLCS-SZATM√ÅR-BEREG   |119|NY√çREGYH√ÅZA              |7|V√°laszt√°s eredm√©nyes          | 14|  0|
+16|SZABOLCS-SZATM√ÅR-BEREG   |204|TISZAVASV√ÅRI             |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+16|SZABOLCS-SZATM√ÅR-BEREG   |217|√öJFEH√âRT√ì                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+17|TOLNA                    |011|BONYH√ÅD                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+17|TOLNA                    |020|DOMB√ìV√ÅR                 |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+17|TOLNA                    |079|PAKS                     |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+17|TOLNA                    |095|SZEKSZ√ÅRD                |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+17|TOLNA                    |099|TOLNA                    |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+18|VAS                      |020|CELLD√ñM√ñLK               |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+18|VAS                      |095|K√ñRMEND                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+18|VAS                      |096|K≈êSZEG                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+18|VAS                      |167|S√ÅRV√ÅR                   |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+18|VAS                      |186|SZOMBATHELY              |7|V√°laszt√°s eredm√©nyes          | 11|  0|
+19|VESZPR√âM                 |003|AJKA                     |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+19|VESZPR√âM                 |026|BALATONF√úRED             |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+19|VESZPR√âM                 |153|P√ÅPA                     |7|V√°laszt√°s eredm√©nyes          |  9|  0|
+19|VESZPR√âM                 |188|TAPOLCA                  |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+19|VESZPR√âM                 |201|V√ÅRPALOTA                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+19|VESZPR√âM                 |203|VESZPR√âM                 |7|V√°laszt√°s eredm√©nyes          | 10|  0|
+20|ZALA                     |093|KESZTHELY                |7|V√°laszt√°s eredm√©nyes          |  7|  0|
+20|ZALA                     |134|NAGYKANIZSA              |7|V√°laszt√°s eredm√©nyes          | 10|  0|
+20|ZALA                     |231|ZALAEGERSZEG             |7|V√°laszt√°s eredm√©nyes          | 11|  0|

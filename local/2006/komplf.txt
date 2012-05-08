@@ -1,1069 +1,1069 @@
-01|001|4|Kompenz·ciÛs lista            |  1|MSZP-SZDSZ                    |  8|  0|
-01|001|4|Kompenz·ciÛs lista            |  2|MDF                           |  1|  0|
-01|001|4|Kompenz·ciÛs lista            |  3|VLSZ                          |  0|  0|
-01|001|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-01|001|4|Kompenz·ciÛs lista            |  5|MI…P                          |  0|  0|
-01|002|4|Kompenz·ciÛs lista            |  1|MI…P                          |  0|  0|
-01|002|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  1|  0|
-01|002|4|Kompenz·ciÛs lista            |  3|MSZP-SZDSZ                    | 10|  0|
-01|002|4|Kompenz·ciÛs lista            |  4|MDF                           |  1|  0|
-01|002|4|Kompenz·ciÛs lista            |  5|MVSZ                          |  0|  0|
-01|002|4|Kompenz·ciÛs lista            |  6|BUDAPEST T¡RS.                |  0|  0|
-01|002|4|Kompenz·ciÛs lista            |  7|HUMANISTA P¡RT                |  0|  0|
-01|003|4|Kompenz·ciÛs lista            |  1|”CKE                          |  0|  0|
-01|003|4|Kompenz·ciÛs lista            |  2|CENTRUM                       |  0|  0|
-01|003|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  3|  0|
-01|003|4|Kompenz·ciÛs lista            |  4|OBE                           |  1|  0|
-01|003|4|Kompenz·ciÛs lista            |  5|MDF                           |  1|  0|
-01|003|4|Kompenz·ciÛs lista            |  6|HUMANISTA P¡RT                |  0|  0|
-01|003|4|Kompenz·ciÛs lista            |  7|MI…P                          |  0|  0|
-01|003|4|Kompenz·ciÛs lista            |  8|MSZP                          |  5|  0|
-01|003|4|Kompenz·ciÛs lista            |  9|FIDESZ                        |  2|  0|
-01|003|4|Kompenz·ciÛs lista            | 10|BUDAPEST T¡RS.                |  0|  0|
-01|003|4|Kompenz·ciÛs lista            | 11|KDNP                          |  2|  0|
-01|003|4|Kompenz·ciÛs lista            | 12|JOBBIK                        |  0|  0|
-01|004|4|Kompenz·ciÛs lista            |  1|MSZP                          |  2|  0|
-01|004|4|Kompenz·ciÛs lista            |  2|⁄jpestÈrt E.                  |  5|  0|
-01|004|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-01|004|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT                    |  0|  0|
-01|004|4|Kompenz·ciÛs lista            |  5|⁄SZR                          |  0|  0|
-01|004|4|Kompenz·ciÛs lista            |  6|MI…P                          |  0|  0|
-01|004|4|Kompenz·ciÛs lista            |  7|FIDESZ                        |  5|  0|
-01|005|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  3|  0|
-01|005|4|Kompenz·ciÛs lista            |  2|BLPE                          |  0|  0|
-01|005|4|Kompenz·ciÛs lista            |  3|RENDP¡RTI EGYES‹LET           |  0|  0|
-01|005|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  0|  0|
-01|005|4|Kompenz·ciÛs lista            |  5|MDF                           |  0|  0|
-01|005|4|Kompenz·ciÛs lista            |  6|BELVAR.J÷V.EGYES‹L.-NYUGD.P¡RT|  1|  0|
-01|005|4|Kompenz·ciÛs lista            |  7|MSZP-SZDSZ                    |  5|  0|
-01|006|4|Kompenz·ciÛs lista            |  1|HUMANISTA P¡RT                |  0|  0|
-01|006|4|Kompenz·ciÛs lista            |  2|MDF                           |  1|  0|
-01|006|4|Kompenz·ciÛs lista            |  3|TERE                          |  0|  0|
-01|006|4|Kompenz·ciÛs lista            |  4|MI…P                          |  0|  0|
-01|006|4|Kompenz·ciÛs lista            |  5|MSZP-SZDSZ                    |  1|  0|
-01|006|4|Kompenz·ciÛs lista            |  6|BUDAPEST T¡RS.                |  0|  0|
-01|006|4|Kompenz·ciÛs lista            |  7|FIDESZ-KDNP                   |  7|  0|
-01|007|4|Kompenz·ciÛs lista            |  1|HUMANISTA P¡RT                |  0|  0|
-01|007|4|Kompenz·ciÛs lista            |  2|MI…P-JOBBIK                   |  0|  0|
-01|007|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  2|  0|
-01|007|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  4|  0|
-01|007|4|Kompenz·ciÛs lista            |  5|MSZP                          |  3|  0|
-01|007|4|Kompenz·ciÛs lista            |  6|MDF                           |  1|  0|
-01|008|4|Kompenz·ciÛs lista            |  1|MUNK¡SP¡RT                    |  0|  0|
-01|008|4|Kompenz·ciÛs lista            |  2|EJE                           |  0|  0|
-01|008|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  2|  0|
-01|008|4|Kompenz·ciÛs lista            |  4|MSZP                          |  5|  0|
-01|008|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  3|  0|
-01|008|4|Kompenz·ciÛs lista            |  6|MI…P                          |  0|  0|
-01|008|4|Kompenz·ciÛs lista            |  7|MDF                           |  1|  0|
-01|009|4|Kompenz·ciÛs lista            |  1|CENTRUM                       |  0|  0|
-01|009|4|Kompenz·ciÛs lista            |  2|MI…P                          |  0|  0|
-01|009|4|Kompenz·ciÛs lista            |  3|FePSZ                         |  0|  0|
-01|009|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  4|  0|
-01|009|4|Kompenz·ciÛs lista            |  5|MSZDP                         |  0|  0|
-01|009|4|Kompenz·ciÛs lista            |  6|MSZP                          |  0|  0|
-01|009|4|Kompenz·ciÛs lista            |  7|MDF                           |  1|  0|
-01|009|4|Kompenz·ciÛs lista            |  8|SZDSZ                         |  1|  0|
-01|009|4|Kompenz·ciÛs lista            |  9|MSZP-SZDSZ                    |  4|  0|
-01|009|4|Kompenz·ciÛs lista            | 10|MUNK¡SP¡RT                    |  0|  0|
-01|010|4|Kompenz·ciÛs lista            |  1|MDF                           |  0|  0|
-01|010|4|Kompenz·ciÛs lista            |  2|MUNK¡SP¡RT                    |  0|  0|
-01|010|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  2|  0|
-01|010|4|Kompenz·ciÛs lista            |  4|CENTRUM                       |  0|  0|
-01|010|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  5|  0|
-01|010|4|Kompenz·ciÛs lista            |  6|MSZP                          |  4|  0|
-01|011|4|Kompenz·ciÛs lista            |  1|MSZP                          |  3|  0|
-01|011|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  6|  0|
-01|011|4|Kompenz·ciÛs lista            |  3|MUNK¡SP¡RT                    |  0|  0|
-01|011|4|Kompenz·ciÛs lista            |  4|Z÷LD DEMOKRAT¡K               |  0|  0|
-01|011|4|Kompenz·ciÛs lista            |  5|MDF                           |  2|  0|
-01|011|4|Kompenz·ciÛs lista            |  6|MI…P-JOBBIK                   |  1|  0|
-01|011|4|Kompenz·ciÛs lista            |  7|SZDSZ                         |  3|  0|
-01|011|4|Kompenz·ciÛs lista            |  8|BUDAPEST T¡RS.                |  0|  0|
-01|012|4|Kompenz·ciÛs lista            |  1|BUDAPEST T¡RS.                |  0|  0|
-01|012|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  4|  0|
-01|012|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-01|012|4|Kompenz·ciÛs lista            |  4|MI…P                          |  0|  0|
-01|012|4|Kompenz·ciÛs lista            |  5|MDF                           |  1|  0|
-01|012|4|Kompenz·ciÛs lista            |  6|MSZP                          |  6|  0|
-01|013|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-01|013|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  3|  0|
-01|013|4|Kompenz·ciÛs lista            |  3|VP                            |  0|  0|
-01|013|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT                    |  0|  0|
-01|013|4|Kompenz·ciÛs lista            |  5|BUDAPEST T¡RS.                |  0|  0|
-01|013|4|Kompenz·ciÛs lista            |  6|HUMANISTA P¡RT                |  0|  0|
-01|013|4|Kompenz·ciÛs lista            |  7|MDF                           |  1|  0|
-01|013|4|Kompenz·ciÛs lista            |  8|FIDESZ-KDNP                   |  8|  0|
-01|013|4|Kompenz·ciÛs lista            |  9|MI…P                          |  0|  0|
-01|014|4|Kompenz·ciÛs lista            |  1|MDF                           |  1|  0|
-01|014|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  7|  0|
-01|014|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-01|014|4|Kompenz·ciÛs lista            |  4|ZUPE                          |  1|  0|
-01|014|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  3|  0|
-01|014|4|Kompenz·ciÛs lista            |  6|ZBPK                          |  0|  0|
-01|014|4|Kompenz·ciÛs lista            |  7|MI…P-JOBBIK-MNF               |  0|  0|
-01|014|4|Kompenz·ciÛs lista            |  8|MUNK¡SP¡RT                    |  0|  0|
-01|015|4|Kompenz·ciÛs lista            |  1|VP                            |  2|  0|
-01|015|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  2|  0|
-01|015|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-01|015|4|Kompenz·ciÛs lista            |  4|MDF                           |  1|  0|
-01|015|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-01|015|4|Kompenz·ciÛs lista            |  6|MSZMP                         |  1|  0|
-01|015|4|Kompenz·ciÛs lista            |  7|MI…P-FKGP                     |  1|  0|
-01|015|4|Kompenz·ciÛs lista            |  8|KDNP                          |  1|  0|
-01|016|4|Kompenz·ciÛs lista            |  1|FIDESZ-MDF-MI…P-VP            |  0|  0|
-01|016|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  2|  0|
-01|016|4|Kompenz·ciÛs lista            |  3|Polg·rmesterKlub              |  0|  0|
-01|016|4|Kompenz·ciÛs lista            |  4|F¸ggetlenekEgyl.              |  0|  0|
-01|016|4|Kompenz·ciÛs lista            |  5|P·rtf¸ggetlen                 |  2|  0|
-01|016|4|Kompenz·ciÛs lista            |  6|MSZP                          |  7|  0|
-01|017|4|Kompenz·ciÛs lista            |  1|FPSZ 17                       |  0|  0|
-01|017|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-01|017|4|Kompenz·ciÛs lista            |  3|Aranyhegyi Szˆv.              |  0|  0|
-01|017|4|Kompenz·ciÛs lista            |  4|MSZP-SZDSZ                    |  6|  0|
-01|017|4|Kompenz·ciÛs lista            |  5|CENTRUM                       |  0|  0|
-01|017|4|Kompenz·ciÛs lista            |  6|PANEL EGYES‹LET               |  0|  0|
-01|017|4|Kompenz·ciÛs lista            |  7|Itthon                        |  2|  0|
-01|017|4|Kompenz·ciÛs lista            |  8|FIDESZ-KDNP                   |  3|  0|
-01|018|4|Kompenz·ciÛs lista            |  1|MSZP                          |  6|  0|
-01|018|4|Kompenz·ciÛs lista            |  2|NPE-XVIII                     |  0|  0|
-01|018|4|Kompenz·ciÛs lista            |  3|MI…P                          |  0|  0|
-01|018|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  2|  0|
-01|018|4|Kompenz·ciÛs lista            |  5|CENTRUM-EMU                   |  0|  0|
-01|018|4|Kompenz·ciÛs lista            |  6|FIDESZ                        |  1|  0|
-01|018|4|Kompenz·ciÛs lista            |  7|MDF                           |  1|  0|
-01|018|4|Kompenz·ciÛs lista            |  8|KDNP                          |  1|  0|
-01|018|4|Kompenz·ciÛs lista            |  9|MKDSZ                         |  1|  0|
-01|019|4|Kompenz·ciÛs lista            |  1|MDF-FKGP-C…FKE                |  1|  0|
-01|019|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-01|019|4|Kompenz·ciÛs lista            |  3|ZD. Z÷LD DEMOKRA-CENTRUM-KDP  |  0|  0|
-01|019|4|Kompenz·ciÛs lista            |  4|MI…P-JOBBIK                   |  0|  0|
-01|019|4|Kompenz·ciÛs lista            |  5|HUMANISTA P¡RT                |  0|  0|
-01|019|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  1|  0|
-01|019|4|Kompenz·ciÛs lista            |  7|KispestÈrt                    |  1|  0|
-01|019|4|Kompenz·ciÛs lista            |  8|FIDESZ-KDNP                   |  7|  0|
-01|020|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  7|  0|
-01|020|4|Kompenz·ciÛs lista            |  2|MDF                           |  1|  0|
-01|020|4|Kompenz·ciÛs lista            |  3|Polg·rırsÈg                   |  0|  0|
-01|020|4|Kompenz·ciÛs lista            |  4|CENTRUM                       |  0|  0|
-01|020|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-01|020|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  1|  0|
-01|020|4|Kompenz·ciÛs lista            |  7|KDNP                          |  0|  0|
-01|020|4|Kompenz·ciÛs lista            |  8|MI…P                          |  0|  0|
-01|021|4|Kompenz·ciÛs lista            |  1|L…T…SZ                        |  0|  0|
-01|021|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  3|  0|
-01|021|4|Kompenz·ciÛs lista            |  3|MDF                           |  1|  0|
-01|021|4|Kompenz·ciÛs lista            |  4|KDNP                          |  3|  0|
-01|021|4|Kompenz·ciÛs lista            |  5|BUDAPEST T¡RS.                |  0|  0|
-01|021|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  0|  0|
-01|021|4|Kompenz·ciÛs lista            |  7|MUNK¡SP¡RT                    |  0|  0|
-01|021|4|Kompenz·ciÛs lista            |  8|MSZP                          |  1|  0|
-01|021|4|Kompenz·ciÛs lista            |  9|SZDSZ                         |  2|  0|
-01|021|4|Kompenz·ciÛs lista            | 10|CENTRUM                       |  1|  0|
-01|022|4|Kompenz·ciÛs lista            |  1|MDF                           |  0|  0|
-01|022|4|Kompenz·ciÛs lista            |  2|MSZP-SZDSZ                    |  5|  0|
-01|022|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  2|  0|
-01|022|4|Kompenz·ciÛs lista            |  4|BAR¡TI K÷R÷K                  |  2|  0|
-01|022|4|Kompenz·ciÛs lista            |  5|IPARTEST‹LET 22.              |  0|  0|
-01|022|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-01|023|4|Kompenz·ciÛs lista            |  1|MSZP-SZDSZ                    |  2|  0|
-01|023|4|Kompenz·ciÛs lista            |  2|S.C.SZ.                       |  1|  0|
-01|023|4|Kompenz·ciÛs lista            |  3|Egy¸tt Soroks·r               |  0|  0|
-01|023|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  4|  0|
-01|023|4|Kompenz·ciÛs lista            |  5|MDF                           |  0|  0|
-01|023|4|Kompenz·ciÛs lista            |  6|KDNP                          |  0|  0|
-02|137|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  3|  0|
-02|137|4|Kompenz·ciÛs lista            |  2|Hon. Vsz. Egy.                |  2|  0|
-02|137|4|Kompenz·ciÛs lista            |  3|KOML”I PK                     |  1|  0|
-02|137|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT 2006               |  0|  0|
-02|137|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-02|137|4|Kompenz·ciÛs lista            |  6|MDF                           |  0|  0|
-02|137|4|Kompenz·ciÛs lista            |  7|SZDSZ                         |  1|  0|
-02|137|4|Kompenz·ciÛs lista            |  8|KOML”…RT EGY.                 |  0|  0|
-02|181|4|Kompenz·ciÛs lista            |  1|MI…P                          |  0|  0|
-02|181|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-02|181|4|Kompenz·ciÛs lista            |  3|MSZP                          |  3|  0|
-02|181|4|Kompenz·ciÛs lista            |  4|CK÷ BM. SZ÷V.                 |  0|  0|
-02|181|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  3|  0|
-02|181|4|Kompenz·ciÛs lista            |  6|MCF                           |  0|  0|
-02|181|4|Kompenz·ciÛs lista            |  7|Sokackˆr                      |  0|  0|
-02|181|4|Kompenz·ciÛs lista            |  8|MDF-CENTRUM                   |  1|  0|
-02|181|4|Kompenz·ciÛs lista            |  9|MUNK¡SP¡RT                    |  0|  0|
-02|217|4|Kompenz·ciÛs lista            |  1|MUNK¡SP¡RT 2006               |  0|  0|
-02|217|4|Kompenz·ciÛs lista            |  2|÷P…E                          |  1|  0|
-02|217|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  2|  0|
-02|217|4|Kompenz·ciÛs lista            |  4|MSZP                          |  7|  0|
-02|217|4|Kompenz·ciÛs lista            |  5|PKP                           |  0|  0|
-02|217|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  5|  0|
-02|217|4|Kompenz·ciÛs lista            |  7|MDF                           |  1|  0|
-02|234|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP-KPE               |  3|  0|
-02|234|4|Kompenz·ciÛs lista            |  2|SVE                           |  2|  0|
-02|234|4|Kompenz·ciÛs lista            |  3|MSZP-SZDSZ                    |  0|  0|
-02|234|4|Kompenz·ciÛs lista            |  4|MDF                           |  1|  0|
-02|234|4|Kompenz·ciÛs lista            |  5|SRK                           |  0|  0|
-02|234|4|Kompenz·ciÛs lista            |  6|KOBAK                         |  1|  0|
-02|263|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  3|  0|
-02|263|4|Kompenz·ciÛs lista            |  2|MUNK¡SP¡RT 2006               |  0|  0|
-02|263|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-02|263|4|Kompenz·ciÛs lista            |  4|M NY P                        |  0|  0|
-02|263|4|Kompenz·ciÛs lista            |  5|KDNP-JOBBIK                   |  0|  0|
-02|263|4|Kompenz·ciÛs lista            |  6|MSZP                          |  0|  0|
-02|263|4|Kompenz·ciÛs lista            |  7|RPM                           |  0|  0|
-02|263|4|Kompenz·ciÛs lista            |  8|PKSZ                          |  3|  0|
-03|004|4|Kompenz·ciÛs lista            |  1|MDF                           |  1|  0|
-03|004|4|Kompenz·ciÛs lista            |  2|FKNP                          |  0|  0|
-03|004|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-03|004|4|Kompenz·ciÛs lista            |  4|V¡LTOZ¡S BAJ¡…RT              |  1|  0|
-03|004|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  3|  0|
-03|004|4|Kompenz·ciÛs lista            |  6|MSZP                          |  4|  0|
-03|056|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  1|  0|
-03|056|4|Kompenz·ciÛs lista            |  2|MCF                           |  0|  0|
-03|056|4|Kompenz·ciÛs lista            |  3|KVE-MDF                       |  1|  0|
-03|056|4|Kompenz·ciÛs lista            |  4|÷.K.E.                        |  4|  0|
-03|056|4|Kompenz·ciÛs lista            |  5|FKGP                          |  0|  0|
-03|056|4|Kompenz·ciÛs lista            |  6|MSZP                          |  1|  0|
-03|056|4|Kompenz·ciÛs lista            |  7|MI…P                          |  0|  0|
-03|060|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  5|  0|
-03|060|4|Kompenz·ciÛs lista            |  2|CDU-MVPP                      |  0|  0|
-03|060|4|Kompenz·ciÛs lista            |  3|MDF                           |  1|  0|
-03|060|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  1|  0|
-03|060|4|Kompenz·ciÛs lista            |  5|MSZP                          |  6|  0|
-03|060|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  0|  0|
-03|060|4|Kompenz·ciÛs lista            |  7|KELE                          |  0|  0|
-03|060|4|Kompenz·ciÛs lista            |  8|MUNK¡SP¡RT                    |  0|  0|
-03|060|4|Kompenz·ciÛs lista            |  9|KLSE                          |  0|  0|
-03|064|4|Kompenz·ciÛs lista            |  1|KPCSZ                         |  1|  0|
-03|064|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-03|064|4|Kompenz·ciÛs lista            |  3|MCF                           |  0|  0|
-03|064|4|Kompenz·ciÛs lista            |  4|Szlov·kok                     |  1|  0|
-03|064|4|Kompenz·ciÛs lista            |  5|MI…P                          |  0|  0|
-03|064|4|Kompenz·ciÛs lista            |  6|÷KF                           |  0|  0|
-03|064|4|Kompenz·ciÛs lista            |  7|MSZP-CENTRUM                  |  3|  0|
-03|064|4|Kompenz·ciÛs lista            |  8|IPARTEST‹LET†                 |  2|  0|
-03|065|4|Kompenz·ciÛs lista            |  1|MDF                           |  1|  0|
-03|065|4|Kompenz·ciÛs lista            |  2|FKGP                          |  0|  0|
-03|065|4|Kompenz·ciÛs lista            |  3|MAVEP                         |  0|  0|
-03|065|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  1|  0|
-03|065|4|Kompenz·ciÛs lista            |  5|MSZP                          |  4|  0|
-03|065|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  3|  0|
-03|066|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  2|  0|
-03|066|4|Kompenz·ciÛs lista            |  2|SzPK-SZDSZ                    |  2|  0|
-03|066|4|Kompenz·ciÛs lista            |  3|MDF-CENTRUM                   |  1|  0|
-03|066|4|Kompenz·ciÛs lista            |  4|MSZP-SHT                      |  4|  0|
-03|066|4|Kompenz·ciÛs lista            |  5|ES…LY CMK                     |  0|  0|
-03|066|4|Kompenz·ciÛs lista            |  6|MCF                           |  0|  0|
-03|067|4|Kompenz·ciÛs lista            |  1|MCF                           |  0|  0|
-03|067|4|Kompenz·ciÛs lista            |  2|MSZP-KVSZ-CENTRUM             |  2|  0|
-03|067|4|Kompenz·ciÛs lista            |  3|EKE                           |  3|  0|
-03|067|4|Kompenz·ciÛs lista            |  4|FIDESZ-MDF-KDNP               |  2|  0|
-03|067|4|Kompenz·ciÛs lista            |  5|MCFE                          |  0|  0|
-03|078|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-03|078|4|Kompenz·ciÛs lista            |  2|GAZDAK÷R L.MIZSE              |  2|  0|
-03|078|4|Kompenz·ciÛs lista            |  3|ELJ÷                          |  1|  0|
-03|078|4|Kompenz·ciÛs lista            |  4|K÷ZBIZTONS¡G                  |  1|  0|
-03|078|4|Kompenz·ciÛs lista            |  5|LP÷                           |  2|  0|
-03|078|4|Kompenz·ciÛs lista            |  6|LPK                           |  0|  0|
-03|078|4|Kompenz·ciÛs lista            |  7|FIDESZ-KDNP-LVE-NF            |  0|  0|
-03|078|4|Kompenz·ciÛs lista            |  8|FKGP                          |  0|  0|
-03|111|4|Kompenz·ciÛs lista            |  1|TGK                           |  1|  0|
-03|111|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-03|111|4|Kompenz·ciÛs lista            |  3|VP                            |  2|  0|
-03|111|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  0|  0|
-03|111|4|Kompenz·ciÛs lista            |  5|MSZP                          |  4|  0|
-04|003|4|Kompenz·ciÛs lista            |  1|MSZP-SZDSZ                    |  5|  0|
-04|003|4|Kompenz·ciÛs lista            |  2|CENTRUM                       |  0|  0|
-04|003|4|Kompenz·ciÛs lista            |  3|MUNK¡SP¡RT                    |  0|  0|
-04|003|4|Kompenz·ciÛs lista            |  4|B…K…SI IPARTEST‹LET           |  2|  0|
-04|003|4|Kompenz·ciÛs lista            |  5|FIDESZ-JOBBOLDALI ÷SSZE       |  0|  0|
-04|004|4|Kompenz·ciÛs lista            |  1|MSZP                          |  7|  0|
-04|004|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP-VP                |  0|  0|
-04|004|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  2|  0|
-04|004|4|Kompenz·ciÛs lista            |  4|MDF                           |  1|  0|
-04|004|4|Kompenz·ciÛs lista            |  5|EBE                           |  1|  0|
-04|025|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP-Gazdakˆrˆk        |  2|  0|
-04|025|4|Kompenz·ciÛs lista            |  2|GYOMAENDR’D VFE.              |  1|  0|
-04|025|4|Kompenz·ciÛs lista            |  3|MUNK¡SP¡RT                    |  0|  0|
-04|025|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-04|025|4|Kompenz·ciÛs lista            |  5|K÷R÷S÷K V                     |  2|  0|
-04|025|4|Kompenz·ciÛs lista            |  6|MOZGKORL…SHADIRE              |  0|  0|
-04|026|4|Kompenz·ciÛs lista            |  1|Ipartest¸let                  |  1|  0|
-04|026|4|Kompenz·ciÛs lista            |  2|MSZP                          |  3|  0|
-04|026|4|Kompenz·ciÛs lista            |  3|MUNK¡SP¡RT                    |  0|  0|
-04|026|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP-MDF               |  1|  0|
-04|026|4|Kompenz·ciÛs lista            |  5|HGKERTBAR¡TK÷R-GAZDAK÷R-FKGP  |  0|  0|
-04|026|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  1|  0|
-04|026|4|Kompenz·ciÛs lista            |  7|V·rosbar·tok                  |  2|  0|
-04|026|4|Kompenz·ciÛs lista            |  8|÷GYE                          |  1|  0|
-04|049|4|Kompenz·ciÛs lista            |  1|÷.M.E.                        |  1|  0|
-04|049|4|Kompenz·ciÛs lista            |  2|NHE                           |  0|  0|
-04|049|4|Kompenz·ciÛs lista            |  3|MB-I V¡ROSV…D’K               |  2|  0|
-04|049|4|Kompenz·ciÛs lista            |  4|LUNGO DROM                    |  0|  0|
-04|049|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-04|049|4|Kompenz·ciÛs lista            |  6|MCE                           |  0|  0|
-04|049|4|Kompenz·ciÛs lista            |  7|MDF                           |  1|  0|
-04|049|4|Kompenz·ciÛs lista            |  8|FIDESZ-KDNP                   |  1|  0|
-04|049|4|Kompenz·ciÛs lista            |  9|MBSZSZ                        |  0|  0|
-04|059|4|Kompenz·ciÛs lista            |  1|MUNK¡SP¡RT                    |  0|  0|
-04|059|4|Kompenz·ciÛs lista            |  2|NEO Orosh·za                  |  0|  0|
-04|059|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  0|  0|
-04|059|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  1|  0|
-04|059|4|Kompenz·ciÛs lista            |  5|FIDESZ-MDF                    |  2|  0|
-04|059|4|Kompenz·ciÛs lista            |  6|MSZP                          |  6|  0|
-04|063|4|Kompenz·ciÛs lista            |  1|CVSE                          |  2|  0|
-04|063|4|Kompenz·ciÛs lista            |  2|NyugdÌjas Egy-FIDESZ-MDF-KPE  |  0|  0|
-04|063|4|Kompenz·ciÛs lista            |  3|MSZP                          |  4|  0|
-04|063|4|Kompenz·ciÛs lista            |  4|Sarkadi Ipartest              |  1|  0|
-04|066|4|Kompenz·ciÛs lista            |  1|SZDSZ-NYUGDÕJASOK             |  0|  0|
-04|066|4|Kompenz·ciÛs lista            |  2|FIDESZ-FKGP-NF                |  0|  0|
-04|066|4|Kompenz·ciÛs lista            |  3|SZ‹L’F÷LD‹NK                  |  1|  0|
-04|066|4|Kompenz·ciÛs lista            |  4|MSZP                          |  4|  0|
-04|066|4|Kompenz·ciÛs lista            |  5|NACSETSKBMSZESZVKE            |  2|  0|
-04|067|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  4|  0|
-04|067|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  1|  0|
-04|067|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-05|075|4|Kompenz·ciÛs lista            |  1|MSZP                          |  5|  0|
-05|075|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-05|075|4|Kompenz·ciÛs lista            |  3|T⁄L AZ ”PERENCI¡              |  2|  0|
-05|075|4|Kompenz·ciÛs lista            |  4|MDF                           |  0|  0|
-05|153|4|Kompenz·ciÛs lista            |  1|MSZP                          |  0|  0|
-05|153|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  2|  0|
-05|153|4|Kompenz·ciÛs lista            |  3|KVFE                          |  2|  0|
-05|153|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT 2006               |  0|  0|
-05|153|4|Kompenz·ciÛs lista            |  5|TKTSZ                         |  1|  0|
-05|153|4|Kompenz·ciÛs lista            |  6|÷BE                           |  2|  0|
-05|153|4|Kompenz·ciÛs lista            |  7|SZDSZ                         |  2|  0|
-05|196|4|Kompenz·ciÛs lista            |  1|MDF                           |  1|  0|
-05|196|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP-NF                |  0|  0|
-05|196|4|Kompenz·ciÛs lista            |  3|MSZP                          |  6|  0|
-05|202|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   | 12|  0|
-05|202|4|Kompenz·ciÛs lista            |  2|FME-MOST                      |  1|  0|
-05|202|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-05|202|4|Kompenz·ciÛs lista            |  4|RPM                           |  0|  0|
-05|202|4|Kompenz·ciÛs lista            |  5|MUNK¡SP¡RT                    |  0|  0|
-05|202|4|Kompenz·ciÛs lista            |  6|MDF                           |  1|  0|
-05|202|4|Kompenz·ciÛs lista            |  7|SZDSZ                         |  2|  0|
-05|226|4|Kompenz·ciÛs lista            |  1|MI…P                          |  0|  0|
-05|226|4|Kompenz·ciÛs lista            |  2|CENTRUM                       |  0|  0|
-05|226|4|Kompenz·ciÛs lista            |  3|MDF-MDCHSZ                    |  0|  0|
-05|226|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT                    |  0|  0|
-05|226|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-05|226|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  0|  0|
-05|226|4|Kompenz·ciÛs lista            |  7|SZ”                           |  2|  0|
-05|226|4|Kompenz·ciÛs lista            |  8|F‹GGETLENEK V.E.              |  1|  0|
-05|226|4|Kompenz·ciÛs lista            |  9|FIDESZ-KDNP                   |  5|  0|
-05|268|4|Kompenz·ciÛs lista            |  1|TESSZ                         |  1|  0|
-05|268|4|Kompenz·ciÛs lista            |  2|MDF                           |  1|  0|
-05|268|4|Kompenz·ciÛs lista            |  3|S.PÈteri Zˆldek-SZDSZ         |  2|  0|
-05|268|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  2|  0|
-05|268|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-05|268|4|Kompenz·ciÛs lista            |  6|MI…P                          |  0|  0|
-05|274|4|Kompenz·ciÛs lista            |  1|SPLOKPAT                      |  2|  0|
-05|274|4|Kompenz·ciÛs lista            |  2|FSPE                          |  2|  0|
-05|274|4|Kompenz·ciÛs lista            |  3|MSZP                          |  3|  0|
-05|274|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP-NF                |  0|  0|
-05|276|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-05|276|4|Kompenz·ciÛs lista            |  2|HEGYALJA EGYES‹LET            |  0|  0|
-05|276|4|Kompenz·ciÛs lista            |  3|MI…P                          |  0|  0|
-05|276|4|Kompenz·ciÛs lista            |  4|MSZP                          |  6|  0|
-05|276|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-05|276|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  0|  0|
-05|276|4|Kompenz·ciÛs lista            |  7|RPM                           |  0|  0|
-05|294|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP-VP-KPE-SZVKE      |  2|  0|
-05|294|4|Kompenz·ciÛs lista            |  2|BOCSKAI                       |  1|  0|
-05|294|4|Kompenz·ciÛs lista            |  3|MSZP                          |  3|  0|
-05|294|4|Kompenz·ciÛs lista            |  4|KDP                           |  1|  0|
-05|326|4|Kompenz·ciÛs lista            |  1|MUNK¡SP¡RT                    |  0|  0|
-05|326|4|Kompenz·ciÛs lista            |  2|VE                            |  2|  0|
-05|326|4|Kompenz·ciÛs lista            |  3|MDF                           |  0|  0|
-05|326|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  3|  0|
-05|326|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  2|  0|
-05|326|4|Kompenz·ciÛs lista            |  6|MSZP                          |  0|  0|
-05|326|4|Kompenz·ciÛs lista            |  7|ETE                           |  0|  0|
-06|013|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-06|013|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  3|  0|
-06|013|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  0|  0|
-06|013|4|Kompenz·ciÛs lista            |  4|÷SSZEFOG.CSONG.E-KDNP         |  2|  0|
-06|013|4|Kompenz·ciÛs lista            |  5|JCSE                          |  1|  0|
-06|024|4|Kompenz·ciÛs lista            |  1|PSZV                          |  0|  0|
-06|024|4|Kompenz·ciÛs lista            |  2|MSZP-HVDSZ                    |  5|  0|
-06|024|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  2|  0|
-06|024|4|Kompenz·ciÛs lista            |  4|FIDESZ-MDF                    |  0|  0|
-06|024|4|Kompenz·ciÛs lista            |  5|MI…P                          |  2|  0|
-06|032|4|Kompenz·ciÛs lista            |  1|JME                           |  2|  0|
-06|032|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  0|  0|
-06|032|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  3|  0|
-06|032|4|Kompenz·ciÛs lista            |  4|PSZM                          |  1|  0|
-06|032|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-06|032|4|Kompenz·ciÛs lista            |  6|V¡ROS…PÕT’K                   |  1|  0|
-06|032|4|Kompenz·ciÛs lista            |  7|CENTRUM-FKSZ                  |  0|  0|
-06|032|4|Kompenz·ciÛs lista            |  8|MCF                           |  0|  0|
-06|032|4|Kompenz·ciÛs lista            |  9|MUNK¡SP¡RT                    |  0|  0|
-06|032|4|Kompenz·ciÛs lista            | 10|MIPARTEST‹LET-MAROSMENTI VSZ  |  0|  0|
-06|051|4|Kompenz·ciÛs lista            |  1|MDF-E SZ E                    |  3|  0|
-06|051|4|Kompenz·ciÛs lista            |  2|MSZDP-FCF                     |  1|  0|
-06|051|4|Kompenz·ciÛs lista            |  3|FVSZ-MAGYAR EGY.              |  1|  0|
-06|051|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  0|  0|
-06|051|4|Kompenz·ciÛs lista            |  5|SzegedÈrt                     |  1|  0|
-06|051|4|Kompenz·ciÛs lista            |  6|CENTRUM                       |  0|  0|
-06|051|4|Kompenz·ciÛs lista            |  7|FIDESZ-KDNP                   |  9|  0|
-06|051|4|Kompenz·ciÛs lista            |  8|MSZP                          |  2|  0|
-06|051|4|Kompenz·ciÛs lista            |  9|JOBBIK-MFP                    |  0|  0|
-06|051|4|Kompenz·ciÛs lista            | 10|F‹GGETLENEK                   |  0|  0|
-06|053|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  4|  0|
-06|053|4|Kompenz·ciÛs lista            |  2|MSZP-SZDSZ                    |  2|  0|
-06|053|4|Kompenz·ciÛs lista            |  3|MUNK¡SP¡RT                    |  0|  0|
-06|053|4|Kompenz·ciÛs lista            |  4|EGY‹TTSZENTES…RT              |  1|  0|
-06|053|4|Kompenz·ciÛs lista            |  5|SZENTES FELEMELK              |  2|  0|
-07|013|4|Kompenz·ciÛs lista            |  1|MCF                           |  0|  0|
-07|013|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-07|013|4|Kompenz·ciÛs lista            |  3|÷SSZEBI                       |  3|  0|
-07|013|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  0|  0|
-07|013|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  2|  0|
-07|024|4|Kompenz·ciÛs lista            |  1|MSZP                          |  3|  0|
-07|024|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-07|024|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-07|024|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  3|  0|
-07|024|4|Kompenz·ciÛs lista            |  5|DCSZ-DJE-L…SZ                 |  3|  0|
-07|024|4|Kompenz·ciÛs lista            |  6|MUNK¡SP¡RT 2006               |  0|  0|
-07|061|4|Kompenz·ciÛs lista            |  1|SZMVE                         |  1|  0|
-07|061|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  1|  0|
-07|061|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-07|061|4|Kompenz·ciÛs lista            |  4|MVJE                          |  3|  0|
-07|078|4|Kompenz·ciÛs lista            |  1|KAPOCS Egyes¸let              |  1|  0|
-07|078|4|Kompenz·ciÛs lista            |  2|MSZP                          |  3|  0|
-07|078|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-07|078|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP-NF                |  2|  0|
-07|094|4|Kompenz·ciÛs lista            |  1|MDF                           |  1|  0|
-07|094|4|Kompenz·ciÛs lista            |  2|MUNK¡SP¡RT                    |  0|  0|
-07|094|4|Kompenz·ciÛs lista            |  3|MI…P                          |  0|  0|
-07|094|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP-JOBBIK            |  7|  0|
-07|094|4|Kompenz·ciÛs lista            |  5|MSZP-SZDSZ-FPE                |  4|  0|
-07|094|4|Kompenz·ciÛs lista            |  6|V¡LASZ                        |  1|  0|
-08|027|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  1|  0|
-08|027|4|Kompenz·ciÛs lista            |  2|KDNP                          |  0|  0|
-08|027|4|Kompenz·ciÛs lista            |  3|MSZP                          |  3|  0|
-08|027|4|Kompenz·ciÛs lista            |  4|MNYLVE                        |  1|  0|
-08|027|4|Kompenz·ciÛs lista            |  5|SZ‹L’F÷LD‹NK…RT               |  2|  0|
-08|027|4|Kompenz·ciÛs lista            |  6|FIDESZ                        |  0|  0|
-08|059|4|Kompenz·ciÛs lista            |  1|PRO URBE                      |  2|  0|
-08|059|4|Kompenz·ciÛs lista            |  2|MDF                           |  1|  0|
-08|059|4|Kompenz·ciÛs lista            |  3|Z÷LD DEMOKRAT¡K               |  0|  0|
-08|059|4|Kompenz·ciÛs lista            |  4|MSZP                          |  9|  0|
-08|059|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  1|  0|
-08|059|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  1|  0|
-08|081|4|Kompenz·ciÛs lista            |  1|VP                            |  1|  0|
-08|081|4|Kompenz·ciÛs lista            |  2|KE                            |  3|  0|
-08|081|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP-FIDELITAS-KPT     |  0|  0|
-08|081|4|Kompenz·ciÛs lista            |  4|MI…P                          |  0|  0|
-08|081|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-08|081|4|Kompenz·ciÛs lista            |  6|MDF                           |  1|  0|
-08|104|4|Kompenz·ciÛs lista            |  1|CIVIL F”RUM M.E.              |  0|  0|
-08|104|4|Kompenz·ciÛs lista            |  2|V¡ROS…RT                      |  0|  0|
-08|104|4|Kompenz·ciÛs lista            |  3|MSZP                          |  5|  0|
-08|104|4|Kompenz·ciÛs lista            |  4|KDNP-FKGP-MI…P                |  0|  0|
-08|104|4|Kompenz·ciÛs lista            |  5|LABE                          |  0|  0|
-08|104|4|Kompenz·ciÛs lista            |  6|FIDESZ-MDF                    |  0|  0|
-08|104|4|Kompenz·ciÛs lista            |  7|MOCISZ                        |  0|  0|
-08|104|4|Kompenz·ciÛs lista            |  8|MVE                           |  2|  0|
-08|104|4|Kompenz·ciÛs lista            |  9|SZDSZ                         |  2|  0|
-08|150|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  1|  0|
-08|150|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-08|150|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  2|  0|
-08|150|4|Kompenz·ciÛs lista            |  4|V…DEGYLET-SZ÷VETS…G SOPRON…RT |  2|  0|
-08|150|4|Kompenz·ciÛs lista            |  5|MDF                           |  1|  0|
-09|005|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  4|  0|
-09|005|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-09|005|4|Kompenz·ciÛs lista            |  3|KBE                           |  0|  0|
-09|005|4|Kompenz·ciÛs lista            |  4|FBE                           |  1|  0|
-09|005|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  0|  0|
-09|009|4|Kompenz·ciÛs lista            |  1|MI…P-MVPP                     |  0|  0|
-09|009|4|Kompenz·ciÛs lista            |  2|MSZP                          |  3|  0|
-09|009|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-09|009|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  2|  0|
-09|009|4|Kompenz·ciÛs lista            |  5|BU J÷V’J……RT E                |  1|  0|
-09|018|4|Kompenz·ciÛs lista            |  1|FFE                           |  1|  0|
-09|018|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  2|  0|
-09|018|4|Kompenz·ciÛs lista            |  3|CENTRUM                       |  0|  0|
-09|018|4|Kompenz·ciÛs lista            |  4|MDF                           |  2|  0|
-09|018|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  0|  0|
-09|018|4|Kompenz·ciÛs lista            |  6|FDE                           |  1|  0|
-09|018|4|Kompenz·ciÛs lista            |  7|V¡ROSV…D’K-LOK¡LPATRI”T¡K     |  1|  0|
-09|018|4|Kompenz·ciÛs lista            |  8|KDNP-JOBBIK                   |  1|  0|
-09|018|4|Kompenz·ciÛs lista            |  9|MSZP                          | 12|  0|
-09|030|4|Kompenz·ciÛs lista            |  1|MDF                           |  2|  0|
-09|030|4|Kompenz·ciÛs lista            |  2|Civilek HB Egyes              |  1|  0|
-09|030|4|Kompenz·ciÛs lista            |  3|POLG¡RI SZ÷VETS…G             |  0|  0|
-09|030|4|Kompenz·ciÛs lista            |  4|HBFE                          |  1|  0|
-09|030|4|Kompenz·ciÛs lista            |  5|MSZP-SZDSZ                    |  5|  0|
-09|030|4|Kompenz·ciÛs lista            |  6|Z÷LD K÷R                      |  0|  0|
-09|032|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  2|  0|
-09|032|4|Kompenz·ciÛs lista            |  2|Egy¸ttm˚kˆdÈs HE              |  1|  0|
-09|032|4|Kompenz·ciÛs lista            |  3|FBTE                          |  2|  0|
-09|032|4|Kompenz·ciÛs lista            |  4|MDF                           |  1|  0|
-09|032|4|Kompenz·ciÛs lista            |  5|HADH¡Z…RT KHE.                |  0|  0|
-09|032|4|Kompenz·ciÛs lista            |  6|HADH¡ZI IPARTEST              |  0|  0|
-09|032|4|Kompenz·ciÛs lista            |  7|MSZP                          |  1|  0|
-09|032|4|Kompenz·ciÛs lista            |  8|HH POLG¡RI K÷R                |  0|  0|
-09|032|4|Kompenz·ciÛs lista            |  9|SZDSZ                         |  0|  0|
-09|033|4|Kompenz·ciÛs lista            |  1|HESZE                         |  1|  0|
-09|033|4|Kompenz·ciÛs lista            |  2|IPOS2                         |  0|  0|
-09|033|4|Kompenz·ciÛs lista            |  3|HTFE                          |  2|  0|
-09|033|4|Kompenz·ciÛs lista            |  4|MSZP                          |  3|  0|
-09|033|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP-Polg·ri Kˆ2       |  1|  0|
-09|034|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  1|  0|
-09|034|4|Kompenz·ciÛs lista            |  2|HVE                           |  1|  0|
-09|034|4|Kompenz·ciÛs lista            |  3|ESHE                          |  1|  0|
-09|034|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  0|  0|
-09|034|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-09|034|4|Kompenz·ciÛs lista            |  6|HSE                           |  1|  0|
-09|034|4|Kompenz·ciÛs lista            |  7|H.F.E                         |  2|  0|
-09|034|4|Kompenz·ciÛs lista            |  8|PONT AZ EGY.                  |  0|  0|
-09|035|4|Kompenz·ciÛs lista            |  1|MSZP                          |  3|  0|
-09|035|4|Kompenz·ciÛs lista            |  2|÷sszefog·s-MDF                |  2|  0|
-09|035|4|Kompenz·ciÛs lista            |  3|MI…P-MVPP                     |  0|  0|
-09|035|4|Kompenz·ciÛs lista            |  4|CIVIL V¡LASZT¡SI SZ÷VETS…G    |  1|  0|
-09|035|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP-MAGOSZ            |  0|  0|
-09|035|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  1|  0|
-09|063|4|Kompenz·ciÛs lista            |  1|FˆGE                          |  1|  0|
-09|063|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-09|063|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  0|  0|
-09|063|4|Kompenz·ciÛs lista            |  4|MI…P-MVPP                     |  0|  0|
-09|063|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  1|  0|
-09|063|4|Kompenz·ciÛs lista            |  6|MSZP                          |  4|  0|
-09|063|4|Kompenz·ciÛs lista            |  7|MCDSZ                         |  0|  0|
-09|063|4|Kompenz·ciÛs lista            |  8|VVSZE                         |  1|  0|
-10|025|4|Kompenz·ciÛs lista            |  1|MDF                           |  1|  0|
-10|025|4|Kompenz·ciÛs lista            |  2|MUNK¡SP¡RT 2006               |  0|  0|
-10|025|4|Kompenz·ciÛs lista            |  3|ELE                           |  2|  0|
-10|025|4|Kompenz·ciÛs lista            |  4|MSZP-SZDSZ                    |  3|  0|
-10|025|4|Kompenz·ciÛs lista            |  5|JOBB EgerÈrt                  |  1|  0|
-10|025|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP-VP-JOBBIK         |  3|  0|
-10|025|4|Kompenz·ciÛs lista            |  7|NF                            |  0|  0|
-10|039|4|Kompenz·ciÛs lista            |  1|V¡LLALKOZ”K EGY.              |  0|  0|
-10|039|4|Kompenz·ciÛs lista            |  2|MUNK¡SP¡RT 2006               |  0|  0|
-10|039|4|Kompenz·ciÛs lista            |  3|MI…P                          |  0|  0|
-10|039|4|Kompenz·ciÛs lista            |  4|V¡ROSSZ…PÕT’ EGY              |  0|  0|
-10|039|4|Kompenz·ciÛs lista            |  5|LOK¡LPATRI”TA GY              |  2|  0|
-10|039|4|Kompenz·ciÛs lista            |  6|FIDESZ                        |  6|  0|
-10|039|4|Kompenz·ciÛs lista            |  7|SZDSZ                         |  1|  0|
-10|039|4|Kompenz·ciÛs lista            |  8|MSZP                          |  0|  0|
-10|046|4|Kompenz·ciÛs lista            |  1|MSZP                          |  0|  0|
-10|046|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  0|  0|
-10|046|4|Kompenz·ciÛs lista            |  3|MDF                           |  0|  0|
-10|046|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  4|  0|
-10|046|4|Kompenz·ciÛs lista            |  5|LOK¡LPATRI”T¡K H              |  1|  0|
-10|046|4|Kompenz·ciÛs lista            |  6|÷HE                           |  2|  0|
-10|048|4|Kompenz·ciÛs lista            |  1|MDF-KDNP                      |  1|  0|
-10|048|4|Kompenz·ciÛs lista            |  2|MSZP                          |  3|  0|
-10|048|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  0|  0|
-10|048|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  1|  0|
-10|048|4|Kompenz·ciÛs lista            |  5|÷HVE                          |  2|  0|
-11|016|4|Kompenz·ciÛs lista            |  1|CENTRUM                       |  0|  0|
-11|016|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-11|016|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  2|  0|
-11|016|4|Kompenz·ciÛs lista            |  4|KDNP                          |  2|  0|
-11|016|4|Kompenz·ciÛs lista            |  5|MSZP                          |  3|  0|
-11|016|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  2|  0|
-11|027|4|Kompenz·ciÛs lista            |  1|KG. IPARTEST‹LET              |  3|  0|
-11|027|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-11|027|4|Kompenz·ciÛs lista            |  3|MDF                           |  0|  0|
-11|027|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-11|027|4|Kompenz·ciÛs lista            |  5|MUNK¡SP¡RT                    |  0|  0|
-11|031|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  1|  0|
-11|031|4|Kompenz·ciÛs lista            |  2|MUNK¡SP¡RT                    |  0|  0|
-11|031|4|Kompenz·ciÛs lista            |  3|MSZP                          |  6|  0|
-11|031|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT 2006               |  0|  0|
-11|031|4|Kompenz·ciÛs lista            |  5|NAGYKUN POLG.K÷R              |  0|  0|
-11|040|4|Kompenz·ciÛs lista            |  1|MSZP-SZDSZ                    |  4|  0|
-11|040|4|Kompenz·ciÛs lista            |  2|MDF                           |  1|  0|
-11|040|4|Kompenz·ciÛs lista            |  3|FIDESZ-NF                     |  2|  0|
-11|052|4|Kompenz·ciÛs lista            |  1|MUNK¡SP¡RT                    |  0|  0|
-11|052|4|Kompenz·ciÛs lista            |  2|MUNK¡SP¡RT 2006               |  0|  0|
-11|052|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  2|  0|
-11|052|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  3|  0|
-11|052|4|Kompenz·ciÛs lista            |  5|MDF                           |  1|  0|
-11|052|4|Kompenz·ciÛs lista            |  6|V·rosvÈdı Egyes¸letek         |  1|  0|
-11|052|4|Kompenz·ciÛs lista            |  7|MSZP                          |  4|  0|
-11|056|4|Kompenz·ciÛs lista            |  1|FIDESZ-KISGAZDA.PE-KDNP       |  2|  0|
-11|056|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  0|  0|
-11|056|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-11|056|4|Kompenz·ciÛs lista            |  4|MDF                           |  0|  0|
-11|056|4|Kompenz·ciÛs lista            |  5|V¡ROSV…D’ P.E.                |  2|  0|
-11|056|4|Kompenz·ciÛs lista            |  6|Fˆldv·ri Szˆv.                |  1|  0|
-11|057|4|Kompenz·ciÛs lista            |  1|POLG¡R’RS…G TF‹               |  1|  0|
-11|057|4|Kompenz·ciÛs lista            |  2|MSZP                          |  3|  0|
-11|057|4|Kompenz·ciÛs lista            |  3|T⁄L…L…S 98                    |  0|  0|
-11|057|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  1|  0|
-11|057|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  2|  0|
-11|073|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP-MDF-KPE           |  2|  0|
-11|073|4|Kompenz·ciÛs lista            |  2|LOK¡LPATRI”TA E.              |  2|  0|
-11|073|4|Kompenz·ciÛs lista            |  3|TMIKL”SI HE                   |  1|  0|
-11|073|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT                    |  0|  0|
-11|073|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-11|073|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  0|  0|
-12|023|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-12|023|4|Kompenz·ciÛs lista            |  2|KˆrnyezetvÈdık                |  2|  0|
-12|023|4|Kompenz·ciÛs lista            |  3|D…VE                          |  0|  0|
-12|023|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  3|  0|
-12|023|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  0|  0|
-12|023|4|Kompenz·ciÛs lista            |  6|DVBE                          |  1|  0|
-12|023|4|Kompenz·ciÛs lista            |  7|ROSZE                         |  0|  0|
-12|028|4|Kompenz·ciÛs lista            |  1|3E-RSZT-HEE-NVE               |  2|  0|
-12|028|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-12|028|4|Kompenz·ciÛs lista            |  3|MDF                           |  2|  0|
-12|028|4|Kompenz·ciÛs lista            |  4|SZDE                          |  0|  0|
-12|028|4|Kompenz·ciÛs lista            |  5|VP                            |  2|  0|
-12|028|4|Kompenz·ciÛs lista            |  6|MSZP-SZDSZ                    |  3|  0|
-12|028|4|Kompenz·ciÛs lista            |  7|EN…KE                         |  0|  0|
-12|038|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  0|  0|
-12|038|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  2|  0|
-12|038|4|Kompenz·ciÛs lista            |  3|MSZP                          |  5|  0|
-12|038|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT 2006               |  0|  0|
-12|038|4|Kompenz·ciÛs lista            |  5|MDF                           |  0|  0|
-12|051|4|Kompenz·ciÛs lista            |  1|RODOSZ                        |  0|  0|
-12|051|4|Kompenz·ciÛs lista            |  2|MDF-CENTRUM                   |  1|  0|
-12|051|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-12|051|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  4|  0|
-12|051|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-12|064|4|Kompenz·ciÛs lista            |  1|VP-PKTSZ                      |  0|  0|
-12|064|4|Kompenz·ciÛs lista            |  2|MSZP-SZDSZ                    |  6|  0|
-12|064|4|Kompenz·ciÛs lista            |  3|TKE                           |  1|  0|
-12|064|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-12|064|4|Kompenz·ciÛs lista            |  5|MDF                           |  0|  0|
-12|065|4|Kompenz·ciÛs lista            |  1|MSZP                          |  3|  0|
-12|065|4|Kompenz·ciÛs lista            |  2|MUNK¡SP¡RT                    |  0|  0|
-12|065|4|Kompenz·ciÛs lista            |  3|MCF                           |  0|  0|
-12|065|4|Kompenz·ciÛs lista            |  4|TTE                           |  0|  0|
-12|065|4|Kompenz·ciÛs lista            |  5|C÷TE                          |  0|  0|
-12|065|4|Kompenz·ciÛs lista            |  6|FIDESZ                        |  5|  0|
-12|065|4|Kompenz·ciÛs lista            |  7|SZDSZ                         |  1|  0|
-12|065|4|Kompenz·ciÛs lista            |  8|VÈdegylet                     |  2|  0|
-12|065|4|Kompenz·ciÛs lista            |  9|KSZ                           |  0|  0|
-13|003|4|Kompenz·ciÛs lista            |  1|MUNK¡SP¡RT                    |  0|  0|
-13|003|4|Kompenz·ciÛs lista            |  2|MSZP-SZDSZ                    |  6|  0|
-13|003|4|Kompenz·ciÛs lista            |  3|÷SSZEFOG¡S P¡RT               |  0|  0|
-13|003|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP-MDF               |  1|  0|
-13|003|4|Kompenz·ciÛs lista            |  5|FSZPEB                        |  0|  0|
-13|006|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-13|006|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-13|006|4|Kompenz·ciÛs lista            |  3|BBK                           |  2|  0|
-13|006|4|Kompenz·ciÛs lista            |  4|FKSZ                          |  0|  0|
-13|006|4|Kompenz·ciÛs lista            |  5|Z÷LD CENTRUM                  |  0|  0|
-13|006|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  3|  0|
-13|006|4|Kompenz·ciÛs lista            |  7|MUNK¡SP¡RT                    |  0|  0|
-13|006|4|Kompenz·ciÛs lista            |  8|MUNK¡SP¡RT 2006               |  1|  0|
-13|103|4|Kompenz·ciÛs lista            |  1|MUNK¡SP¡RT                    |  0|  0|
-13|103|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-13|103|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-13|103|4|Kompenz·ciÛs lista            |  4|SZ¡ZSZORSZEBB-MDF             |  1|  0|
-13|103|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  3|  0|
-14|001|4|Kompenz·ciÛs lista            |  1|LUNGO DROM                    |  0|  0|
-14|001|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-14|001|4|Kompenz·ciÛs lista            |  3|VFE                           |  2|  0|
-14|001|4|Kompenz·ciÛs lista            |  4|PMTE                          |  0|  0|
-14|001|4|Kompenz·ciÛs lista            |  5|ATURHE                        |  2|  0|
-14|001|4|Kompenz·ciÛs lista            |  6|MCF                           |  0|  0|
-14|001|4|Kompenz·ciÛs lista            |  7|FIDESZ-KPE                    |  0|  0|
-14|001|4|Kompenz·ciÛs lista            |  8|…L’L¡NC                       |  1|  0|
-14|003|4|Kompenz·ciÛs lista            |  1|MSZP                          |  2|  0|
-14|003|4|Kompenz·ciÛs lista            |  2|MDF-JOBBIK                    |  1|  0|
-14|003|4|Kompenz·ciÛs lista            |  3|POLKA                         |  1|  0|
-14|003|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP-V¡LASZT¡SI SZ÷V.  |  2|  0|
-14|003|4|Kompenz·ciÛs lista            |  5|APO                           |  1|  0|
-14|013|4|Kompenz·ciÛs lista            |  1|BuVÈd                         |  1|  0|
-14|013|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-14|013|4|Kompenz·ciÛs lista            |  3|B B K                         |  3|  0|
-14|013|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  0|  0|
-14|013|4|Kompenz·ciÛs lista            |  5|MSZP-SZDSZ                    |  3|  0|
-14|014|4|Kompenz·ciÛs lista            |  1|BFE                           |  1|  0|
-14|014|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-14|014|4|Kompenz·ciÛs lista            |  3|KESZIK÷R-V¡LLALKOZ”K EGYES‹LET|  3|  0|
-14|014|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  2|  0|
-14|014|4|Kompenz·ciÛs lista            |  5|MDF                           |  0|  0|
-14|014|4|Kompenz·ciÛs lista            |  6|MSZP                          |  1|  0|
-14|015|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  3|  0|
-14|015|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-14|015|4|Kompenz·ciÛs lista            |  3|BVE                           |  2|  0|
-14|015|4|Kompenz·ciÛs lista            |  4|MSZP-SZDSZ                    |  4|  0|
-14|015|4|Kompenz·ciÛs lista            |  5|MI…P-JOBBIK                   |  0|  0|
-14|017|4|Kompenz·ciÛs lista            |  1|MDF                           |  2|  0|
-14|017|4|Kompenz·ciÛs lista            |  2|SZCPE                         |  0|  0|
-14|017|4|Kompenz·ciÛs lista            |  3|CFE                           |  2|  0|
-14|017|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-14|017|4|Kompenz·ciÛs lista            |  5|MSZP                          |  3|  0|
-14|017|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  0|  0|
-14|017|4|Kompenz·ciÛs lista            |  7|FIDESZ-KDNP                   |  1|  0|
-14|025|4|Kompenz·ciÛs lista            |  1|PATRI”TA                      |  3|  0|
-14|025|4|Kompenz·ciÛs lista            |  2|KDNP-MI…P-NF                  |  2|  0|
-14|025|4|Kompenz·ciÛs lista            |  3|RFTE-MSZP                     |  2|  0|
-14|025|4|Kompenz·ciÛs lista            |  4|DAFI-FIDESZ                   |  0|  0|
-14|033|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-14|033|4|Kompenz·ciÛs lista            |  2|FHE-DVE.-DH IPOSZ             |  1|  0|
-14|033|4|Kompenz·ciÛs lista            |  3|DSE                           |  1|  0|
-14|033|4|Kompenz·ciÛs lista            |  4|MDF                           |  0|  0|
-14|033|4|Kompenz·ciÛs lista            |  5|DH POLG¡RI K÷R                |  1|  0|
-14|033|4|Kompenz·ciÛs lista            |  6|LUNGO DROM                    |  0|  0|
-14|033|4|Kompenz·ciÛs lista            |  7|MI…P                          |  0|  0|
-14|033|4|Kompenz·ciÛs lista            |  8|SZDSZ                         |  0|  0|
-14|033|4|Kompenz·ciÛs lista            |  9|FIDESZ-KDNP                   |  3|  0|
-14|034|4|Kompenz·ciÛs lista            |  1|DL…E                          |  0|  0|
-14|034|4|Kompenz·ciÛs lista            |  2| DAKE                         |  0|  0|
-14|034|4|Kompenz·ciÛs lista            |  3|MSZP-SZDSZ                    |  3|  0|
-14|034|4|Kompenz·ciÛs lista            |  4|MDF-CENTRUM                   |  0|  0|
-14|034|4|Kompenz·ciÛs lista            |  5|TI…D                          |  1|  0|
-14|034|4|Kompenz·ciÛs lista            |  6|PILSUDSKI TT                  |  0|  0|
-14|034|4|Kompenz·ciÛs lista            |  7|FIDESZ-KDNP                   |  3|  0|
-14|034|4|Kompenz·ciÛs lista            |  8|KONZERVATÕV SZ÷V              |  0|  0|
-14|034|4|Kompenz·ciÛs lista            |  9|Lok·lpatriÛtakˆr              |  2|  0|
-14|038|4|Kompenz·ciÛs lista            |  1|MSZP                          |  7|  0|
-14|038|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  2|  0|
-14|038|4|Kompenz·ciÛs lista            |  3|MDF                           |  0|  0|
-14|038|4|Kompenz·ciÛs lista            |  4|…RDI IP TEST                  |  0|  0|
-14|038|4|Kompenz·ciÛs lista            |  5|CENTRUM                       |  0|  0|
-14|038|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  1|  0|
-14|038|4|Kompenz·ciÛs lista            |  7|MI…P-JOBBIK                   |  0|  0|
-14|038|4|Kompenz·ciÛs lista            |  8|CIVIL …RDEK-C…L               |  1|  0|
-14|041|4|Kompenz·ciÛs lista            |  1|K÷Z÷S J÷V’NK EGY              |  1|  0|
-14|041|4|Kompenz·ciÛs lista            |  2|F”TI ESE                      |  0|  0|
-14|041|4|Kompenz·ciÛs lista            |  3|ISZSE F”T                     |  0|  0|
-14|041|4|Kompenz·ciÛs lista            |  4|F‹GGETLENEK SZ÷V              |  0|  0|
-14|041|4|Kompenz·ciÛs lista            |  5|OFE                           |  0|  0|
-14|041|4|Kompenz·ciÛs lista            |  6|FIDESZ                        |  2|  0|
-14|041|4|Kompenz·ciÛs lista            |  7|MSZP-SZDSZ-CVE-FISZSZ         |  2|  0|
-14|041|4|Kompenz·ciÛs lista            |  8|KDNP                          |  0|  0|
-14|041|4|Kompenz·ciÛs lista            |  9|MI…P                          |  0|  0|
-14|041|4|Kompenz·ciÛs lista            | 10|C÷F                           |  2|  0|
-14|046|4|Kompenz·ciÛs lista            |  1|MI…P                          |  0|  0|
-14|046|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-14|046|4|Kompenz·ciÛs lista            |  3|VVE                           |  2|  0|
-14|046|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  1|  0|
-14|046|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP-V¡LLALKOZ”K P¡RTJA|  0|  0|
-14|046|4|Kompenz·ciÛs lista            |  6|MSZP                          |  3|  0|
-14|046|4|Kompenz·ciÛs lista            |  7|GVE                           |  1|  0|
-14|047|4|Kompenz·ciÛs lista            |  1|MSZP                          |  5|  0|
-14|047|4|Kompenz·ciÛs lista            |  2|K÷Z…RDEK€ EGYES‹LET - SZDSZ   |  1|  0|
-14|047|4|Kompenz·ciÛs lista            |  3|FIDESZ-NEMZETI F”RUM-KPE-GPSZ |  3|  0|
-14|047|4|Kompenz·ciÛs lista            |  4|GLK-KDNP-MDF                  |  0|  0|
-14|047|4|Kompenz·ciÛs lista            |  5|MI…P                          |  0|  0|
-14|047|4|Kompenz·ciÛs lista            |  6|LOK¡LPATRI”T¡KE               |  0|  0|
-14|047|4|Kompenz·ciÛs lista            |  7|VP                            |  0|  0|
-14|048|4|Kompenz·ciÛs lista            |  1|MSZP                          |  6|  0|
-14|048|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-14|048|4|Kompenz·ciÛs lista            |  3|VP                            |  1|  0|
-14|048|4|Kompenz·ciÛs lista            |  4|CIKE                          |  0|  0|
-14|048|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  0|  0|
-14|049|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  3|  0|
-14|049|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-14|049|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-14|049|4|Kompenz·ciÛs lista            |  4|GY÷MR’ 2000 K÷R               |  0|  0|
-14|049|4|Kompenz·ciÛs lista            |  5|GYCSZ                         |  0|  0|
-14|049|4|Kompenz·ciÛs lista            |  6|MDF                           |  1|  0|
-14|058|4|Kompenz·ciÛs lista            |  1|¡PRILIS 6. K÷R                |  2|  0|
-14|058|4|Kompenz·ciÛs lista            |  2|F‹GGETLEN K…PV. SZ÷V.-CENTRUM |  1|  0|
-14|058|4|Kompenz·ciÛs lista            |  3|IPK                           |  2|  0|
-14|058|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-14|078|4|Kompenz·ciÛs lista            |  1|MAGL”DI KSK                   |  2|  0|
-14|078|4|Kompenz·ciÛs lista            |  2|MAB€PO                        |  2|  0|
-14|078|4|Kompenz·ciÛs lista            |  3|MSZP                          |  3|  0|
-14|078|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  0|  0|
-14|085|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  0|  0|
-14|085|4|Kompenz·ciÛs lista            |  2|Monori Gazdakˆr               |  0|  0|
-14|085|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-14|085|4|Kompenz·ciÛs lista            |  4|LUNGO DROM                    |  0|  0|
-14|085|4|Kompenz·ciÛs lista            |  5|K÷RME                         |  1|  0|
-14|085|4|Kompenz·ciÛs lista            |  6|MSE                           |  2|  0|
-14|085|4|Kompenz·ciÛs lista            |  7|MSZP                          |  4|  0|
-14|087|4|Kompenz·ciÛs lista            |  1|MI…P                          |  0|  0|
-14|087|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-14|087|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  0|  0|
-14|087|4|Kompenz·ciÛs lista            |  4|BDE                           |  1|  0|
-14|087|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-14|087|4|Kompenz·ciÛs lista            |  6|MCF                           |  0|  0|
-14|087|4|Kompenz·ciÛs lista            |  7|CENTRUM                       |  0|  0|
-14|087|4|Kompenz·ciÛs lista            |  8|T¡PI”MENTI IPART              |  2|  0|
-14|087|4|Kompenz·ciÛs lista            |  9|FKSZ                          |  2|  0|
-14|089|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  1|  0|
-14|089|4|Kompenz·ciÛs lista            |  2|FIDESZ-FIDELITAS-KDNP-NKPE    |  1|  0|
-14|089|4|Kompenz·ciÛs lista            |  3|Z÷LD P¡RT                     |  1|  0|
-14|089|4|Kompenz·ciÛs lista            |  4|MI…P                          |  0|  0|
-14|089|4|Kompenz·ciÛs lista            |  5|MDF                           |  1|  0|
-14|089|4|Kompenz·ciÛs lista            |  6|MSZP                          |  4|  0|
-14|089|4|Kompenz·ciÛs lista            |  7|NagykırˆsÈrt                  |  1|  0|
-14|102|4|Kompenz·ciÛs lista            |  1|MI…P                          |  0|  0|
-14|102|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-14|102|4|Kompenz·ciÛs lista            |  3|FPSZ                          |  1|  0|
-14|102|4|Kompenz·ciÛs lista            |  4|MCF                           |  0|  0|
-14|102|4|Kompenz·ciÛs lista            |  5|PKE                           |  2|  0|
-14|102|4|Kompenz·ciÛs lista            |  6|FIDESZ                        |  2|  0|
-14|102|4|Kompenz·ciÛs lista            |  7|SZDSZ                         |  1|  0|
-14|102|4|Kompenz·ciÛs lista            |  8|PBK                           |  0|  0|
-14|102|4|Kompenz·ciÛs lista            |  9|MSZP                          |  1|  0|
-14|102|4|Kompenz·ciÛs lista            | 10|CENTRUM                       |  0|  0|
-14|102|4|Kompenz·ciÛs lista            | 11|KDNP                          |  0|  0|
-14|104|4|Kompenz·ciÛs lista            |  1|pds                           |  0|  0|
-14|104|4|Kompenz·ciÛs lista            |  2|MSZP                          |  3|  0|
-14|104|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  1|  0|
-14|104|4|Kompenz·ciÛs lista            |  4|PIHE                          |  1|  0|
-14|104|4|Kompenz·ciÛs lista            |  5|MI…P                          |  0|  0|
-14|104|4|Kompenz·ciÛs lista            |  6|PIPE                          |  2|  0|
-14|112|4|Kompenz·ciÛs lista            |  1|SZDSZ-VIV…K                   |  2|  0|
-14|112|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-14|112|4|Kompenz·ciÛs lista            |  3|HEIMATVEREIN                  |  0|  0|
-14|112|4|Kompenz·ciÛs lista            |  4|FIVE                          |  2|  0|
-14|112|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-14|112|4|Kompenz·ciÛs lista            |  6|IPOSZ                         |  1|  0|
-14|113|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-14|113|4|Kompenz·ciÛs lista            |  2|NOE                           |  1|  0|
-14|113|4|Kompenz·ciÛs lista            |  3|LUNGO DROM                    |  0|  0|
-14|113|4|Kompenz·ciÛs lista            |  4|Hajr· Pom·z                   |  2|  0|
-14|113|4|Kompenz·ciÛs lista            |  5|MSZP-SZDSZ                    |  3|  0|
-14|113|4|Kompenz·ciÛs lista            |  6|DETI                          |  1|  0|
-14|113|4|Kompenz·ciÛs lista            |  7|PNNKE                         |  0|  0|
-14|125|4|Kompenz·ciÛs lista            |  1|NAPOS OLDAL                   |  0|  0|
-14|125|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP-MDF               |  3|  0|
-14|125|4|Kompenz·ciÛs lista            |  3|FBI                           |  0|  0|
-14|125|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  0|  0|
-14|125|4|Kompenz·ciÛs lista            |  5|÷SZKE                         |  0|  0|
-14|125|4|Kompenz·ciÛs lista            |  6|MSZP                          |  2|  0|
-14|125|4|Kompenz·ciÛs lista            |  7|…SZKE                         |  2|  0|
-14|126|4|Kompenz·ciÛs lista            |  1|SZDSZ-KˆzÈleti K. Egy.        |  2|  0|
-14|126|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-14|126|4|Kompenz·ciÛs lista            |  3|JOBBIK-NKK                    |  0|  0|
-14|126|4|Kompenz·ciÛs lista            |  4|EGY‹TT                        |  1|  0|
-14|126|4|Kompenz·ciÛs lista            |  5|DUNAKANYAR KPE.               |  0|  0|
-14|126|4|Kompenz·ciÛs lista            |  6|Polg·ri KoalÌciÛ              |  0|  0|
-14|131|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  2|  0|
-14|131|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  2|  0|
-14|131|4|Kompenz·ciÛs lista            |  3|MDF                           |  0|  0|
-14|131|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-14|131|4|Kompenz·ciÛs lista            |  5|Szigethalmi PK                |  1|  0|
-14|134|4|Kompenz·ciÛs lista            |  1|CSAL¡DISZ÷VETS…G-V¡LASZT”POLG¡|  0|  0|
-14|134|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  1|  0|
-14|134|4|Kompenz·ciÛs lista            |  3|MSZP                          |  4|  0|
-14|134|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP-POLG¡RI K÷R       |  2|  0|
-14|134|4|Kompenz·ciÛs lista            |  5|MI…P                          |  0|  0|
-14|134|4|Kompenz·ciÛs lista            |  6|MNF                           |  0|  0|
-14|134|4|Kompenz·ciÛs lista            |  7|MDF                           |  0|  0|
-14|134|4|Kompenz·ciÛs lista            |  8|SZ÷-SZI                       |  2|  0|
-14|158|4|Kompenz·ciÛs lista            |  1|MDF                           |  0|  0|
-14|158|4|Kompenz·ciÛs lista            |  2|HOM                           |  0|  0|
-14|158|4|Kompenz·ciÛs lista            |  3|SZENT FL”RI¡N E               |  2|  0|
-14|158|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  1|  0|
-14|158|4|Kompenz·ciÛs lista            |  5|T÷R÷K B¡LINT E                |  0|  0|
-14|158|4|Kompenz·ciÛs lista            |  6|MSZP-CIF                      |  4|  0|
-14|165|4|Kompenz·ciÛs lista            |  1|EGY‹TTM€                      |  2|  0|
-14|165|4|Kompenz·ciÛs lista            |  2|IPARTEST                      |  0|  0|
-14|165|4|Kompenz·ciÛs lista            |  3|LOKPATR‹LL’…RT                |  1|  0|
-14|165|4|Kompenz·ciÛs lista            |  4|POLG.K÷R                      |  2|  0|
-14|165|4|Kompenz·ciÛs lista            |  5|FIDESZ MPSZ-÷SZ‹              |  0|  0|
-14|165|4|Kompenz·ciÛs lista            |  6|‹LL’I DSE                     |  0|  0|
-14|165|4|Kompenz·ciÛs lista            |  7|MSZP                          |  2|  0|
-14|169|4|Kompenz·ciÛs lista            |  1|Z÷LDEK                        |  0|  0|
-14|169|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-14|169|4|Kompenz·ciÛs lista            |  3|MUNK¡SP¡RT                    |  0|  0|
-14|169|4|Kompenz·ciÛs lista            |  4|MDF                           |  0|  0|
-14|169|4|Kompenz·ciÛs lista            |  5|V.V.V.E.                      |  1|  0|
-14|169|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  0|  0|
-14|169|4|Kompenz·ciÛs lista            |  7|FIDESZ-KDNP                   |  4|  0|
-14|177|4|Kompenz·ciÛs lista            |  1|MSZP-SZDSZ                    |  5|  0|
-14|177|4|Kompenz·ciÛs lista            |  2|FKSZ                          |  1|  0|
-14|177|4|Kompenz·ciÛs lista            |  3|FIDESZ-MDF-KDNP               |  0|  0|
-14|177|4|Kompenz·ciÛs lista            |  4|MI…P                          |  0|  0|
-14|177|4|Kompenz·ciÛs lista            |  5|VVSZ                          |  1|  0|
-14|177|4|Kompenz·ciÛs lista            |  6|Lok·lpatriÛt·k V              |  0|  0|
-14|178|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  1|  0|
-14|178|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-14|178|4|Kompenz·ciÛs lista            |  3|FIDESZ-MDF-MI…P-KDNP-VJJE     |  0|  0|
-14|178|4|Kompenz·ciÛs lista            |  4|TTTE                          |  0|  0|
-14|178|4|Kompenz·ciÛs lista            |  5|SZOVE                         |  3|  0|
-14|178|4|Kompenz·ciÛs lista            |  6|VLKE                          |  0|  0|
-14|178|4|Kompenz·ciÛs lista            |  7|TAVIR”ZSA                     |  1|  0|
-15|020|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  1|  0|
-15|020|4|Kompenz·ciÛs lista            |  2|DCKSZ                         |  0|  0|
-15|020|4|Kompenz·ciÛs lista            |  3|EVE                           |  2|  0|
-15|020|4|Kompenz·ciÛs lista            |  4|MSZP                          |  3|  0|
-15|020|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  1|  0|
-15|091|4|Kompenz·ciÛs lista            |  1|MSZP-KSE                      |  8|  0|
-15|091|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  3|  0|
-15|091|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-15|091|4|Kompenz·ciÛs lista            |  4|MDF                           |  0|  0|
-15|123|4|Kompenz·ciÛs lista            |  1|MarcaliÈrt                    |  2|  0|
-15|123|4|Kompenz·ciÛs lista            |  2|Ipartest¸let.                 |  0|  0|
-15|123|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  0|  0|
-15|123|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  3|  0|
-15|123|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-15|130|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  4|  0|
-15|130|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-15|130|4|Kompenz·ciÛs lista            |  3|NAGYAT¡D…RT                   |  1|  0|
-15|130|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  0|  0|
-15|130|4|Kompenz·ciÛs lista            |  5|SMRE                          |  0|  0|
-15|175|4|Kompenz·ciÛs lista            |  1|ESE                           |  2|  0|
-15|175|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  0|  0|
-15|175|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-15|175|4|Kompenz·ciÛs lista            |  4|MSZP                          |  5|  0|
-16|077|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  2|  0|
-16|077|4|Kompenz·ciÛs lista            |  2|÷fKE                          |  2|  0|
-16|077|4|Kompenz·ciÛs lista            |  3|MDF-CENTRUM                   |  0|  0|
-16|077|4|Kompenz·ciÛs lista            |  4|MKDSZ                         |  1|  0|
-16|077|4|Kompenz·ciÛs lista            |  5|MUNK¡SP¡RT                    |  0|  0|
-16|077|4|Kompenz·ciÛs lista            |  6|FKE                           |  2|  0|
-16|077|4|Kompenz·ciÛs lista            |  7|MSZP                          |  0|  0|
-16|077|4|Kompenz·ciÛs lista            |  8|KIFO                          |  0|  0|
-16|094|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  1|  0|
-16|094|4|Kompenz·ciÛs lista            |  2|M NY P                        |  0|  0|
-16|094|4|Kompenz·ciÛs lista            |  3|MSZP                          |  4|  0|
-16|094|4|Kompenz·ciÛs lista            |  4|TESZ.                         |  0|  0|
-16|094|4|Kompenz·ciÛs lista            |  5|FIDESZ-Vˆrˆsmarty Kˆr         |  0|  0|
-16|094|4|Kompenz·ciÛs lista            |  6|MDF                           |  0|  0|
-16|094|4|Kompenz·ciÛs lista            |  7|M.E.                          |  1|  0|
-16|094|4|Kompenz·ciÛs lista            |  8|V…E                           |  1|  0|
-16|106|4|Kompenz·ciÛs lista            |  1|MSZP                          |  2|  0|
-16|106|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  0|  0|
-16|106|4|Kompenz·ciÛs lista            |  3|V…K                           |  0|  0|
-16|106|4|Kompenz·ciÛs lista            |  4|MCF                           |  0|  0|
-16|106|4|Kompenz·ciÛs lista            |  5|VP                            |  1|  0|
-16|106|4|Kompenz·ciÛs lista            |  6|MDF                           |  2|  0|
-16|106|4|Kompenz·ciÛs lista            |  7|FIDESZ                        |  2|  0|
-16|112|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  2|  0|
-16|112|4|Kompenz·ciÛs lista            |  2|MSZP                          |  3|  0|
-16|112|4|Kompenz·ciÛs lista            |  3|KDNP                          |  1|  0|
-16|112|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  1|  0|
-16|112|4|Kompenz·ciÛs lista            |  5|MDF                           |  0|  0|
-16|119|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  0|  0|
-16|119|4|Kompenz·ciÛs lista            |  2|FE                            |  3|  0|
-16|119|4|Kompenz·ciÛs lista            |  3|MDF                           |  1|  0|
-16|119|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  1|  0|
-16|119|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  5|  0|
-16|119|4|Kompenz·ciÛs lista            |  6|MSZP                          |  4|  0|
-16|204|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  2|  0|
-16|204|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-16|204|4|Kompenz·ciÛs lista            |  3|F‹GGETLENEK VE                |  1|  0|
-16|204|4|Kompenz·ciÛs lista            |  4|SZAPE                         |  0|  0|
-16|204|4|Kompenz·ciÛs lista            |  5|MDF-÷SSZEFOG¡S MEGY…NK…RT     |  1|  0|
-16|204|4|Kompenz·ciÛs lista            |  6|TISZAVASV¡RI NE               |  1|  0|
-16|217|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  0|  0|
-16|217|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  0|  0|
-16|217|4|Kompenz·ciÛs lista            |  3|MDF                           |  0|  0|
-16|217|4|Kompenz·ciÛs lista            |  4|÷SSZEFOG¡S ⁄JF.               |  2|  0|
-16|217|4|Kompenz·ciÛs lista            |  5|FKGP-MAGOSZ                   |  0|  0|
-16|217|4|Kompenz·ciÛs lista            |  6|LA…T                          |  1|  0|
-16|217|4|Kompenz·ciÛs lista            |  7|FIDESZ                        |  2|  0|
-16|217|4|Kompenz·ciÛs lista            |  8|MSZP                          |  2|  0|
-17|011|4|Kompenz·ciÛs lista            |  1|MDF                           |  1|  0|
-17|011|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-17|011|4|Kompenz·ciÛs lista            |  3|MSZP-SZDSZ                    |  5|  0|
-17|011|4|Kompenz·ciÛs lista            |  4|MCF                           |  0|  0|
-17|011|4|Kompenz·ciÛs lista            |  5|TM-i F‹ROCE                   |  0|  0|
-17|011|4|Kompenz·ciÛs lista            |  6|V÷LGYS…GI IPART               |  1|  0|
-17|020|4|Kompenz·ciÛs lista            |  1|MDF                           |  1|  0|
-17|020|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  3|  0|
-17|020|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-17|020|4|Kompenz·ciÛs lista            |  4|SZDSZ                         |  0|  0|
-17|020|4|Kompenz·ciÛs lista            |  5|SzˆvetsÈg DombÛv·rÈrt         |  1|  0|
-17|079|4|Kompenz·ciÛs lista            |  1|PAKS V¡ROS…RT MOZGALOM        |  1|  0|
-17|079|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP-KISGAZDA PE       |  0|  0|
-17|079|4|Kompenz·ciÛs lista            |  3|PAKSI LOK¡LPATRI”T¡K          |  2|  0|
-17|079|4|Kompenz·ciÛs lista            |  4|MSZP-SZDSZ                    |  4|  0|
-17|095|4|Kompenz·ciÛs lista            |  1|MSZP                          |  4|  0|
-17|095|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  2|  0|
-17|095|4|Kompenz·ciÛs lista            |  3|SZD-I V…DEGYLET EGYES‹LET     |  1|  0|
-17|095|4|Kompenz·ciÛs lista            |  4|MDF                           |  0|  0|
-17|095|4|Kompenz·ciÛs lista            |  5|N…MET NEMZ. EGY.-⁄JV.RK.T¡RS.K|  1|  0|
-17|095|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  1|  0|
-17|099|4|Kompenz·ciÛs lista            |  1|TNNBK                         |  0|  0|
-17|099|4|Kompenz·ciÛs lista            |  2|CIVIL VOKS                    |  2|  0|
-17|099|4|Kompenz·ciÛs lista            |  3|MSZP                          |  3|  0|
-17|099|4|Kompenz·ciÛs lista            |  4|LUNGO DROM                    |  0|  0|
-17|099|4|Kompenz·ciÛs lista            |  5|SZDSZ                         |  1|  0|
-17|099|4|Kompenz·ciÛs lista            |  6|MDF                           |  0|  0|
-17|099|4|Kompenz·ciÛs lista            |  7|MCIVE                         |  0|  0|
-17|099|4|Kompenz·ciÛs lista            |  8|FIDESZ-KDNP                   |  1|  0|
-18|020|4|Kompenz·ciÛs lista            |  1|FIDESZ-NF                     |  1|  0|
-18|020|4|Kompenz·ciÛs lista            |  2|KDNP                          |  1|  0|
-18|020|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  0|  0|
-18|020|4|Kompenz·ciÛs lista            |  4|ECVE                          |  2|  0|
-18|020|4|Kompenz·ciÛs lista            |  5|MDF-MVPP                      |  0|  0|
-18|020|4|Kompenz·ciÛs lista            |  6|MSZP                          |  3|  0|
-18|095|4|Kompenz·ciÛs lista            |  1|MSZP                          |  5|  0|
-18|095|4|Kompenz·ciÛs lista            |  2|EurÛpa 2000                   |  0|  0|
-18|095|4|Kompenz·ciÛs lista            |  3|Polg. ÷sszefog·s-FIDESZ-KDNP-M|  0|  0|
-18|095|4|Kompenz·ciÛs lista            |  4|RPFE                          |  2|  0|
-18|096|4|Kompenz·ciÛs lista            |  1|KKE                           |  1|  0|
-18|096|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  1|  0|
-18|096|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  1|  0|
-18|096|4|Kompenz·ciÛs lista            |  4|KBK                           |  0|  0|
-18|096|4|Kompenz·ciÛs lista            |  5|÷KE                           |  0|  0|
-18|096|4|Kompenz·ciÛs lista            |  6|Ipartest¸let Kg.              |  2|  0|
-18|096|4|Kompenz·ciÛs lista            |  7|POLG¡R’RS…G KG.-GYERMEKEK…RT K|  0|  0|
-18|096|4|Kompenz·ciÛs lista            |  8|MDF                           |  1|  0|
-18|096|4|Kompenz·ciÛs lista            |  9|MSZP                          |  1|  0|
-18|167|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-18|167|4|Kompenz·ciÛs lista            |  2|V÷E                           |  0|  0|
-18|167|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  0|  0|
-18|167|4|Kompenz·ciÛs lista            |  4|MSZP                          |  4|  0|
-18|167|4|Kompenz·ciÛs lista            |  5|HÕD A J÷V’NK…RT EGYES‹LET     |  2|  0|
-18|167|4|Kompenz·ciÛs lista            |  6|MDF-MVPP                      |  0|  0|
-18|167|4|Kompenz·ciÛs lista            |  7|S¡RV¡R…RT E-SV IPARTEST‹LET   |  1|  0|
-18|186|4|Kompenz·ciÛs lista            |  1|Pro Savaria                   |  0|  0|
-18|186|4|Kompenz·ciÛs lista            |  2|SZ÷SZO                        |  0|  0|
-18|186|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  3|  0|
-18|186|4|Kompenz·ciÛs lista            |  4|ESZE                          |  1|  0|
-18|186|4|Kompenz·ciÛs lista            |  5|MSZP-SZDSZ                    |  6|  0|
-18|186|4|Kompenz·ciÛs lista            |  6|MDF                           |  1|  0|
-19|003|4|Kompenz·ciÛs lista            |  1|MDF                           |  0|  0|
-19|003|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  4|  0|
-19|003|4|Kompenz·ciÛs lista            |  3|SZDSZ                         |  1|  0|
-19|003|4|Kompenz·ciÛs lista            |  4|VPE                           |  1|  0|
-19|003|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-19|003|4|Kompenz·ciÛs lista            |  6|PLAN…TA EGYES‹LE              |  1|  0|
-19|026|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP-MDF               |  0|  0|
-19|026|4|Kompenz·ciÛs lista            |  2|BFVE                          |  1|  0|
-19|026|4|Kompenz·ciÛs lista            |  3|MSZP-SZDSZ                    |  5|  0|
-19|026|4|Kompenz·ciÛs lista            |  4|BPE                           |  1|  0|
-19|153|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-19|153|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  0|  0|
-19|153|4|Kompenz·ciÛs lista            |  3|KDP-POLG¡RI SZ÷VETS.          |  0|  0|
-19|153|4|Kompenz·ciÛs lista            |  4|MSZP                          |  8|  0|
-19|153|4|Kompenz·ciÛs lista            |  5|P¡PAFEJL’D…S……RT              |  0|  0|
-19|153|4|Kompenz·ciÛs lista            |  6|MDF                           |  1|  0|
-19|188|4|Kompenz·ciÛs lista            |  1|V·rosÈrt Egy.                 |  0|  0|
-19|188|4|Kompenz·ciÛs lista            |  2|MSZP                          |  5|  0|
-19|188|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-19|188|4|Kompenz·ciÛs lista            |  4|VTKE                          |  1|  0|
-19|188|4|Kompenz·ciÛs lista            |  5|MDF-MVPP                      |  1|  0|
-19|188|4|Kompenz·ciÛs lista            |  6|SZDSZ                         |  0|  0|
-19|188|4|Kompenz·ciÛs lista            |  7|MI…P                          |  0|  0|
-19|201|4|Kompenz·ciÛs lista            |  1|SZDSZ                         |  1|  0|
-19|201|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-19|201|4|Kompenz·ciÛs lista            |  3|MSZP                          |  5|  0|
-19|201|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-19|201|4|Kompenz·ciÛs lista            |  5|VVVE                          |  1|  0|
-19|203|4|Kompenz·ciÛs lista            |  1|MDF                           |  1|  0|
-19|203|4|Kompenz·ciÛs lista            |  2|SZDSZ                         |  3|  0|
-19|203|4|Kompenz·ciÛs lista            |  3|Z÷LDEK                        |  0|  0|
-19|203|4|Kompenz·ciÛs lista            |  4|SZ÷VETS…G VP-…RT              |  1|  0|
-19|203|4|Kompenz·ciÛs lista            |  5|LOK¡LPATRIOT¡K                |  1|  0|
-19|203|4|Kompenz·ciÛs lista            |  6|V…DEGYLET VP-…RT              |  0|  0|
-19|203|4|Kompenz·ciÛs lista            |  7|FIDESZ-KDNP                   |  1|  0|
-19|203|4|Kompenz·ciÛs lista            |  8|MSZP                          |  3|  0|
-20|093|4|Kompenz·ciÛs lista            |  1|KESZT. IPARTEST.              |  0|  0|
-20|093|4|Kompenz·ciÛs lista            |  2|K¡V…                          |  0|  0|
-20|093|4|Kompenz·ciÛs lista            |  3|SZKE                          |  2|  0|
-20|093|4|Kompenz·ciÛs lista            |  4|MDF                           |  0|  0|
-20|093|4|Kompenz·ciÛs lista            |  5|MSZP-SZDSZ                    |  5|  0|
-20|093|4|Kompenz·ciÛs lista            |  6|HELIKONI P. E.                |  0|  0|
-20|093|4|Kompenz·ciÛs lista            |  7|FIDESZ-KDNP                   |  0|  0|
-20|134|4|Kompenz·ciÛs lista            |  1|MSZP                          |  4|  0|
-20|134|4|Kompenz·ciÛs lista            |  2|MSZDP                         |  2|  0|
-20|134|4|Kompenz·ciÛs lista            |  3|Nk-i V·rosvÈdı                |  1|  0|
-20|134|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  1|  0|
-20|134|4|Kompenz·ciÛs lista            |  5|MI…P                          |  0|  0|
-20|134|4|Kompenz·ciÛs lista            |  6|MDF                           |  0|  0|
-20|134|4|Kompenz·ciÛs lista            |  7|SZDSZ                         |  2|  0|
-20|134|4|Kompenz·ciÛs lista            |  8|DRVSZ                         |  0|  0|
-20|231|4|Kompenz·ciÛs lista            |  1|R÷SZ-F I R O S Z              |  0|  0|
-20|231|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP-NF                |  0|  0|
-20|231|4|Kompenz·ciÛs lista            |  3|EZE                           |  1|  0|
-20|231|4|Kompenz·ciÛs lista            |  4|MDF                           |  1|  0|
-20|231|4|Kompenz·ciÛs lista            |  5|MSZP-SZDSZ                    |  8|  0|
-20|231|4|Kompenz·ciÛs lista            |  6|SZ÷ZEG                        |  1|  0|
+01|001|4|Kompenz√°ci√≥s lista            |  1|MSZP-SZDSZ                    |  8|  0|
+01|001|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  1|  0|
+01|001|4|Kompenz√°ci√≥s lista            |  3|VLSZ                          |  0|  0|
+01|001|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+01|001|4|Kompenz√°ci√≥s lista            |  5|MI√âP                          |  0|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  1|MI√âP                          |  0|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  1|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  3|MSZP-SZDSZ                    | 10|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  1|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  5|MVSZ                          |  0|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  6|BUDAPEST T√ÅRS.                |  0|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  7|HUMANISTA P√ÅRT                |  0|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  1|√ìCKE                          |  0|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  2|CENTRUM                       |  0|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  3|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  4|OBE                           |  1|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  1|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  6|HUMANISTA P√ÅRT                |  0|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  7|MI√âP                          |  0|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  8|MSZP                          |  5|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  9|FIDESZ                        |  2|  0|
+01|003|4|Kompenz√°ci√≥s lista            | 10|BUDAPEST T√ÅRS.                |  0|  0|
+01|003|4|Kompenz√°ci√≥s lista            | 11|KDNP                          |  2|  0|
+01|003|4|Kompenz√°ci√≥s lista            | 12|JOBBIK                        |  0|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  2|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  2|√öjpest√©rt E.                  |  5|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT                    |  0|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  5|√öSZR                          |  0|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  6|MI√âP                          |  0|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  7|FIDESZ                        |  5|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  3|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  2|BLPE                          |  0|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  3|RENDP√ÅRTI EGYES√úLET           |  0|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  0|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  0|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  6|BELVAR.J√ñV.EGYES√úL.-NYUGD.P√ÅRT|  1|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  7|MSZP-SZDSZ                    |  5|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  1|HUMANISTA P√ÅRT                |  0|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  1|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  3|TERE                          |  0|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  4|MI√âP                          |  0|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  5|MSZP-SZDSZ                    |  1|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  6|BUDAPEST T√ÅRS.                |  0|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  7|FIDESZ-KDNP                   |  7|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  1|HUMANISTA P√ÅRT                |  0|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  2|MI√âP-JOBBIK                   |  0|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  2|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  4|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  3|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  1|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  1|MUNK√ÅSP√ÅRT                    |  0|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  2|EJE                           |  0|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  2|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  5|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  3|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  6|MI√âP                          |  0|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  7|MDF                           |  1|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  1|CENTRUM                       |  0|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  2|MI√âP                          |  0|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  3|FePSZ                         |  0|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  4|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  5|MSZDP                         |  0|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  0|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  7|MDF                           |  1|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  8|SZDSZ                         |  1|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  9|MSZP-SZDSZ                    |  4|  0|
+01|009|4|Kompenz√°ci√≥s lista            | 10|MUNK√ÅSP√ÅRT                    |  0|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  0|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  2|MUNK√ÅSP√ÅRT                    |  0|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  2|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  4|CENTRUM                       |  0|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  5|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  4|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  3|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  6|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  3|MUNK√ÅSP√ÅRT                    |  0|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  4|Z√ñLD DEMOKRAT√ÅK               |  0|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  2|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  6|MI√âP-JOBBIK                   |  1|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  7|SZDSZ                         |  3|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  8|BUDAPEST T√ÅRS.                |  0|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  1|BUDAPEST T√ÅRS.                |  0|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  4|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  4|MI√âP                          |  0|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  1|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  6|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  3|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  3|VP                            |  0|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT                    |  0|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  5|BUDAPEST T√ÅRS.                |  0|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  6|HUMANISTA P√ÅRT                |  0|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  7|MDF                           |  1|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  8|FIDESZ-KDNP                   |  8|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  9|MI√âP                          |  0|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  1|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  7|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  4|ZUPE                          |  1|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  3|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  6|ZBPK                          |  0|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  7|MI√âP-JOBBIK-MNF               |  0|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  8|MUNK√ÅSP√ÅRT                    |  0|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  1|VP                            |  2|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  2|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  1|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  6|MSZMP                         |  1|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  7|MI√âP-FKGP                     |  1|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  8|KDNP                          |  1|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-MDF-MI√âP-VP            |  0|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  2|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  3|Polg√°rmesterKlub              |  0|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  4|F√ºggetlenekEgyl.              |  0|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  5|P√°rtf√ºggetlen                 |  2|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  7|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  1|FPSZ 17                       |  0|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  3|Aranyhegyi Sz√∂v.              |  0|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  4|MSZP-SZDSZ                    |  6|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  5|CENTRUM                       |  0|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  6|PANEL EGYES√úLET               |  0|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  7|Itthon                        |  2|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  8|FIDESZ-KDNP                   |  3|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  6|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  2|NPE-XVIII                     |  0|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  3|MI√âP                          |  0|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  2|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  5|CENTRUM-EMU                   |  0|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  6|FIDESZ                        |  1|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  7|MDF                           |  1|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  8|KDNP                          |  1|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  9|MKDSZ                         |  1|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  1|MDF-FKGP-C√âFKE                |  1|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  3|ZD. Z√ñLD DEMOKRA-CENTRUM-KDP  |  0|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  4|MI√âP-JOBBIK                   |  0|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  5|HUMANISTA P√ÅRT                |  0|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  1|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  7|Kispest√©rt                    |  1|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  8|FIDESZ-KDNP                   |  7|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  7|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  1|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  3|Polg√°r≈ërs√©g                   |  0|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  4|CENTRUM                       |  0|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  1|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  7|KDNP                          |  0|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  8|MI√âP                          |  0|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  1|L√âT√âSZ                        |  0|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  3|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  1|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  4|KDNP                          |  3|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  5|BUDAPEST T√ÅRS.                |  0|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  0|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  7|MUNK√ÅSP√ÅRT                    |  0|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  8|MSZP                          |  1|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  9|SZDSZ                         |  2|  0|
+01|021|4|Kompenz√°ci√≥s lista            | 10|CENTRUM                       |  1|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  0|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  2|MSZP-SZDSZ                    |  5|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  2|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  4|BAR√ÅTI K√ñR√ñK                  |  2|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  5|IPARTEST√úLET 22.              |  0|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  1|MSZP-SZDSZ                    |  2|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  2|S.C.SZ.                       |  1|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  3|Egy√ºtt Soroks√°r               |  0|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  4|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  0|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  6|KDNP                          |  0|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  3|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  2|Hon. Vsz. Egy.                |  2|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  3|KOML√ìI PK                     |  1|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  0|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  7|SZDSZ                         |  1|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  8|KOML√ì√âRT EGY.                 |  0|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  1|MI√âP                          |  0|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  3|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  4|CK√ñ BM. SZ√ñV.                 |  0|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  3|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  6|MCF                           |  0|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  7|Sokack√∂r                      |  0|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  8|MDF-CENTRUM                   |  1|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  9|MUNK√ÅSP√ÅRT                    |  0|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  1|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  2|√ñP√âE                          |  1|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  2|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  7|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  5|PKP                           |  0|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  5|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  7|MDF                           |  1|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP-KPE               |  3|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  2|SVE                           |  2|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  3|MSZP-SZDSZ                    |  0|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  1|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  5|SRK                           |  0|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  6|KOBAK                         |  1|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  3|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  2|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  4|M NY P                        |  0|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  5|KDNP-JOBBIK                   |  0|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  0|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  7|RPM                           |  0|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  8|PKSZ                          |  3|  0|
+03|004|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  1|  0|
+03|004|4|Kompenz√°ci√≥s lista            |  2|FKNP                          |  0|  0|
+03|004|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+03|004|4|Kompenz√°ci√≥s lista            |  4|V√ÅLTOZ√ÅS BAJ√Å√âRT              |  1|  0|
+03|004|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  3|  0|
+03|004|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  4|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  1|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  2|MCF                           |  0|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  3|KVE-MDF                       |  1|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  4|√ñ.K.E.                        |  4|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  5|FKGP                          |  0|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  1|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  7|MI√âP                          |  0|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  5|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  2|CDU-MVPP                      |  0|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  1|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  1|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  6|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  0|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  7|KELE                          |  0|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  8|MUNK√ÅSP√ÅRT                    |  0|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  9|KLSE                          |  0|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  1|KPCSZ                         |  1|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  3|MCF                           |  0|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  4|Szlov√°kok                     |  1|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  5|MI√âP                          |  0|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  6|√ñKF                           |  0|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  7|MSZP-CENTRUM                  |  3|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  8|IPARTEST√úLET¬†                 |  2|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  1|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  2|FKGP                          |  0|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  3|MAVEP                         |  0|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  1|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  4|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  3|  0|
+03|066|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  2|  0|
+03|066|4|Kompenz√°ci√≥s lista            |  2|SzPK-SZDSZ                    |  2|  0|
+03|066|4|Kompenz√°ci√≥s lista            |  3|MDF-CENTRUM                   |  1|  0|
+03|066|4|Kompenz√°ci√≥s lista            |  4|MSZP-SHT                      |  4|  0|
+03|066|4|Kompenz√°ci√≥s lista            |  5|ES√âLY CMK                     |  0|  0|
+03|066|4|Kompenz√°ci√≥s lista            |  6|MCF                           |  0|  0|
+03|067|4|Kompenz√°ci√≥s lista            |  1|MCF                           |  0|  0|
+03|067|4|Kompenz√°ci√≥s lista            |  2|MSZP-KVSZ-CENTRUM             |  2|  0|
+03|067|4|Kompenz√°ci√≥s lista            |  3|EKE                           |  3|  0|
+03|067|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-MDF-KDNP               |  2|  0|
+03|067|4|Kompenz√°ci√≥s lista            |  5|MCFE                          |  0|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  2|GAZDAK√ñR L.MIZSE              |  2|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  3|ELJ√ñ                          |  1|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  4|K√ñZBIZTONS√ÅG                  |  1|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  5|LP√ñ                           |  2|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  6|LPK                           |  0|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  7|FIDESZ-KDNP-LVE-NF            |  0|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  8|FKGP                          |  0|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  1|TGK                           |  1|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  3|VP                            |  2|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  0|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  4|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  1|MSZP-SZDSZ                    |  5|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  2|CENTRUM                       |  0|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  3|MUNK√ÅSP√ÅRT                    |  0|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  4|B√âK√âSI IPARTEST√úLET           |  2|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-JOBBOLDALI √ñSSZE       |  0|  0|
+04|004|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  7|  0|
+04|004|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP-VP                |  0|  0|
+04|004|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  2|  0|
+04|004|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  1|  0|
+04|004|4|Kompenz√°ci√≥s lista            |  5|EBE                           |  1|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP-Gazdak√∂r√∂k        |  2|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  2|GYOMAENDR≈êD VFE.              |  1|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  3|MUNK√ÅSP√ÅRT                    |  0|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  5|K√ñR√ñS√ñK V                     |  2|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  6|MOZGKORL√âSHADIRE              |  0|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  1|Ipartest√ºlet                  |  1|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  3|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  3|MUNK√ÅSP√ÅRT                    |  0|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP-MDF               |  1|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  5|HGKERTBAR√ÅTK√ñR-GAZDAK√ñR-FKGP  |  0|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  1|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  7|V√°rosbar√°tok                  |  2|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  8|√ñGYE                          |  1|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  1|√ñ.M.E.                        |  1|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  2|NHE                           |  0|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  3|MB-I V√ÅROSV√âD≈êK               |  2|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  4|LUNGO DROM                    |  0|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  6|MCE                           |  0|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  7|MDF                           |  1|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  8|FIDESZ-KDNP                   |  1|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  9|MBSZSZ                        |  0|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  1|MUNK√ÅSP√ÅRT                    |  0|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  2|NEO Orosh√°za                  |  0|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  0|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  1|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-MDF                    |  2|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  6|  0|
+04|063|4|Kompenz√°ci√≥s lista            |  1|CVSE                          |  2|  0|
+04|063|4|Kompenz√°ci√≥s lista            |  2|Nyugd√≠jas Egy-FIDESZ-MDF-KPE  |  0|  0|
+04|063|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  4|  0|
+04|063|4|Kompenz√°ci√≥s lista            |  4|Sarkadi Ipartest              |  1|  0|
+04|066|4|Kompenz√°ci√≥s lista            |  1|SZDSZ-NYUGD√çJASOK             |  0|  0|
+04|066|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-FKGP-NF                |  0|  0|
+04|066|4|Kompenz√°ci√≥s lista            |  3|SZ√úL≈êF√ñLD√úNK                  |  1|  0|
+04|066|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  4|  0|
+04|066|4|Kompenz√°ci√≥s lista            |  5|NACSETSKBMSZESZVKE            |  2|  0|
+04|067|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  4|  0|
+04|067|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  1|  0|
+04|067|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+05|075|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  5|  0|
+05|075|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+05|075|4|Kompenz√°ci√≥s lista            |  3|T√öL AZ √ìPERENCI√Å              |  2|  0|
+05|075|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  0|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  0|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  2|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  3|KVFE                          |  2|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  5|TKTSZ                         |  1|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  6|√ñBE                           |  2|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  7|SZDSZ                         |  2|  0|
+05|196|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  1|  0|
+05|196|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP-NF                |  0|  0|
+05|196|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  6|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   | 12|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  2|FME-MOST                      |  1|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  4|RPM                           |  0|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  5|MUNK√ÅSP√ÅRT                    |  0|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  1|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  7|SZDSZ                         |  2|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  1|MI√âP                          |  0|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  2|CENTRUM                       |  0|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  3|MDF-MDCHSZ                    |  0|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT                    |  0|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  0|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  7|SZ√ì                           |  2|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  8|F√úGGETLENEK V.E.              |  1|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  9|FIDESZ-KDNP                   |  5|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  1|TESSZ                         |  1|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  1|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  3|S.P√©teri Z√∂ldek-SZDSZ         |  2|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  2|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  6|MI√âP                          |  0|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  1|SPLOKPAT                      |  2|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  2|FSPE                          |  2|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  3|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP-NF                |  0|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  2|HEGYALJA EGYES√úLET            |  0|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  3|MI√âP                          |  0|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  6|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  0|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  7|RPM                           |  0|  0|
+05|294|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP-VP-KPE-SZVKE      |  2|  0|
+05|294|4|Kompenz√°ci√≥s lista            |  2|BOCSKAI                       |  1|  0|
+05|294|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  3|  0|
+05|294|4|Kompenz√°ci√≥s lista            |  4|KDP                           |  1|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  1|MUNK√ÅSP√ÅRT                    |  0|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  2|VE                            |  2|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  0|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  3|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  2|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  0|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  7|ETE                           |  0|  0|
+06|013|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+06|013|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  3|  0|
+06|013|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  0|  0|
+06|013|4|Kompenz√°ci√≥s lista            |  4|√ñSSZEFOG.CSONG.E-KDNP         |  2|  0|
+06|013|4|Kompenz√°ci√≥s lista            |  5|JCSE                          |  1|  0|
+06|024|4|Kompenz√°ci√≥s lista            |  1|PSZV                          |  0|  0|
+06|024|4|Kompenz√°ci√≥s lista            |  2|MSZP-HVDSZ                    |  5|  0|
+06|024|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  2|  0|
+06|024|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-MDF                    |  0|  0|
+06|024|4|Kompenz√°ci√≥s lista            |  5|MI√âP                          |  2|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  1|JME                           |  2|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  0|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  3|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  4|PSZM                          |  1|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  6|V√ÅROS√âP√çT≈êK                   |  1|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  7|CENTRUM-FKSZ                  |  0|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  8|MCF                           |  0|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  9|MUNK√ÅSP√ÅRT                    |  0|  0|
+06|032|4|Kompenz√°ci√≥s lista            | 10|MIPARTEST√úLET-MAROSMENTI VSZ  |  0|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  1|MDF-E SZ E                    |  3|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  2|MSZDP-FCF                     |  1|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  3|FVSZ-MAGYAR EGY.              |  1|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  0|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  5|Szeged√©rt                     |  1|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  6|CENTRUM                       |  0|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  7|FIDESZ-KDNP                   |  9|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  8|MSZP                          |  2|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  9|JOBBIK-MFP                    |  0|  0|
+06|051|4|Kompenz√°ci√≥s lista            | 10|F√úGGETLENEK                   |  0|  0|
+06|053|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  4|  0|
+06|053|4|Kompenz√°ci√≥s lista            |  2|MSZP-SZDSZ                    |  2|  0|
+06|053|4|Kompenz√°ci√≥s lista            |  3|MUNK√ÅSP√ÅRT                    |  0|  0|
+06|053|4|Kompenz√°ci√≥s lista            |  4|EGY√úTTSZENTES√âRT              |  1|  0|
+06|053|4|Kompenz√°ci√≥s lista            |  5|SZENTES FELEMELK              |  2|  0|
+07|013|4|Kompenz√°ci√≥s lista            |  1|MCF                           |  0|  0|
+07|013|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+07|013|4|Kompenz√°ci√≥s lista            |  3|√ñSSZEBI                       |  3|  0|
+07|013|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  0|  0|
+07|013|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  2|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  3|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  3|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  5|DCSZ-DJE-L√âSZ                 |  3|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  6|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+07|061|4|Kompenz√°ci√≥s lista            |  1|SZMVE                         |  1|  0|
+07|061|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  1|  0|
+07|061|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+07|061|4|Kompenz√°ci√≥s lista            |  4|MVJE                          |  3|  0|
+07|078|4|Kompenz√°ci√≥s lista            |  1|KAPOCS Egyes√ºlet              |  1|  0|
+07|078|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  3|  0|
+07|078|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+07|078|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP-NF                |  2|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  1|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  2|MUNK√ÅSP√ÅRT                    |  0|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  3|MI√âP                          |  0|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP-JOBBIK            |  7|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  5|MSZP-SZDSZ-FPE                |  4|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  6|V√ÅLASZ                        |  1|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  1|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  2|KDNP                          |  0|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  3|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  4|MNYLVE                        |  1|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  5|SZ√úL≈êF√ñLD√úNK√âRT               |  2|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  6|FIDESZ                        |  0|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  1|PRO URBE                      |  2|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  1|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  3|Z√ñLD DEMOKRAT√ÅK               |  0|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  9|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  1|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  1|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  1|VP                            |  1|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  2|KE                            |  3|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP-FIDELITAS-KPT     |  0|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  4|MI√âP                          |  0|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  1|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  1|CIVIL F√ìRUM M.E.              |  0|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  2|V√ÅROS√âRT                      |  0|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  5|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  4|KDNP-FKGP-MI√âP                |  0|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  5|LABE                          |  0|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-MDF                    |  0|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  7|MOCISZ                        |  0|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  8|MVE                           |  2|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  9|SZDSZ                         |  2|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  1|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  2|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  4|V√âDEGYLET-SZ√ñVETS√âG SOPRON√âRT |  2|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  1|  0|
+09|005|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  4|  0|
+09|005|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+09|005|4|Kompenz√°ci√≥s lista            |  3|KBE                           |  0|  0|
+09|005|4|Kompenz√°ci√≥s lista            |  4|FBE                           |  1|  0|
+09|005|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  0|  0|
+09|009|4|Kompenz√°ci√≥s lista            |  1|MI√âP-MVPP                     |  0|  0|
+09|009|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  3|  0|
+09|009|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+09|009|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  2|  0|
+09|009|4|Kompenz√°ci√≥s lista            |  5|BU J√ñV≈êJ√â√âRT E                |  1|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  1|FFE                           |  1|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  2|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  3|CENTRUM                       |  0|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  2|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  0|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  6|FDE                           |  1|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  7|V√ÅROSV√âD≈êK-LOK√ÅLPATRI√ìT√ÅK     |  1|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  8|KDNP-JOBBIK                   |  1|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  9|MSZP                          | 12|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  2|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  2|Civilek HB Egyes              |  1|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  3|POLG√ÅRI SZ√ñVETS√âG             |  0|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  4|HBFE                          |  1|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  5|MSZP-SZDSZ                    |  5|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  6|Z√ñLD K√ñR                      |  0|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  2|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  2|Egy√ºttm≈±k√∂d√©s HE              |  1|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  3|FBTE                          |  2|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  1|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  5|HADH√ÅZ√âRT KHE.                |  0|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  6|HADH√ÅZI IPARTEST              |  0|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  7|MSZP                          |  1|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  8|HH POLG√ÅRI K√ñR                |  0|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  9|SZDSZ                         |  0|  0|
+09|033|4|Kompenz√°ci√≥s lista            |  1|HESZE                         |  1|  0|
+09|033|4|Kompenz√°ci√≥s lista            |  2|IPOS2                         |  0|  0|
+09|033|4|Kompenz√°ci√≥s lista            |  3|HTFE                          |  2|  0|
+09|033|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  3|  0|
+09|033|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP-Polg√°ri K√∂2       |  1|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  1|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  2|HVE                           |  1|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  3|ESHE                          |  1|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  0|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  6|HSE                           |  1|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  7|H.F.E                         |  2|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  8|PONT AZ EGY.                  |  0|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  3|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  2|√ñsszefog√°s-MDF                |  2|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  3|MI√âP-MVPP                     |  0|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  4|CIVIL V√ÅLASZT√ÅSI SZ√ñVETS√âG    |  1|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP-MAGOSZ            |  0|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  1|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  1|F√∂GE                          |  1|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  0|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  4|MI√âP-MVPP                     |  0|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  1|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  4|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  7|MCDSZ                         |  0|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  8|VVSZE                         |  1|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  1|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  2|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  3|ELE                           |  2|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  4|MSZP-SZDSZ                    |  3|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  5|JOBB Eger√©rt                  |  1|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP-VP-JOBBIK         |  3|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  7|NF                            |  0|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  1|V√ÅLLALKOZ√ìK EGY.              |  0|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  2|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  3|MI√âP                          |  0|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  4|V√ÅROSSZ√âP√çT≈ê EGY              |  0|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  5|LOK√ÅLPATRI√ìTA GY              |  2|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  6|FIDESZ                        |  6|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  7|SZDSZ                         |  1|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  8|MSZP                          |  0|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  0|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  0|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  0|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  4|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  5|LOK√ÅLPATRI√ìT√ÅK H              |  1|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  6|√ñHE                           |  2|  0|
+10|048|4|Kompenz√°ci√≥s lista            |  1|MDF-KDNP                      |  1|  0|
+10|048|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  3|  0|
+10|048|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  0|  0|
+10|048|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  1|  0|
+10|048|4|Kompenz√°ci√≥s lista            |  5|√ñHVE                          |  2|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  1|CENTRUM                       |  0|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  2|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  4|KDNP                          |  2|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  3|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  2|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  1|KG. IPARTEST√úLET              |  3|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  0|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  5|MUNK√ÅSP√ÅRT                    |  0|  0|
+11|031|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  1|  0|
+11|031|4|Kompenz√°ci√≥s lista            |  2|MUNK√ÅSP√ÅRT                    |  0|  0|
+11|031|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  6|  0|
+11|031|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+11|031|4|Kompenz√°ci√≥s lista            |  5|NAGYKUN POLG.K√ñR              |  0|  0|
+11|040|4|Kompenz√°ci√≥s lista            |  1|MSZP-SZDSZ                    |  4|  0|
+11|040|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  1|  0|
+11|040|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-NF                     |  2|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  1|MUNK√ÅSP√ÅRT                    |  0|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  2|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  2|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  3|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  1|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  6|V√°rosv√©d≈ë Egyes√ºletek         |  1|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  7|MSZP                          |  4|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KISGAZDA.PE-KDNP       |  2|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  0|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  0|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  5|V√ÅROSV√âD≈ê P.E.                |  2|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  6|F√∂ldv√°ri Sz√∂v.                |  1|  0|
+11|057|4|Kompenz√°ci√≥s lista            |  1|POLG√ÅR≈êRS√âG TF√ú               |  1|  0|
+11|057|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  3|  0|
+11|057|4|Kompenz√°ci√≥s lista            |  3|T√öL√âL√âS 98                    |  0|  0|
+11|057|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  1|  0|
+11|057|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  2|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP-MDF-KPE           |  2|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  2|LOK√ÅLPATRI√ìTA E.              |  2|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  3|TMIKL√ìSI HE                   |  1|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT                    |  0|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  0|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  2|K√∂rnyezetv√©d≈ëk                |  2|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  3|D√âVE                          |  0|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  3|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  0|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  6|DVBE                          |  1|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  7|ROSZE                         |  0|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  1|3E-RSZT-HEE-NVE               |  2|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  2|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  4|SZDE                          |  0|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  5|VP                            |  2|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  6|MSZP-SZDSZ                    |  3|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  7|EN√âKE                         |  0|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  0|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  2|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  5|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT 2006               |  0|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  0|  0|
+12|051|4|Kompenz√°ci√≥s lista            |  1|RODOSZ                        |  0|  0|
+12|051|4|Kompenz√°ci√≥s lista            |  2|MDF-CENTRUM                   |  1|  0|
+12|051|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+12|051|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  4|  0|
+12|051|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  1|VP-PKTSZ                      |  0|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  2|MSZP-SZDSZ                    |  6|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  3|TKE                           |  1|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  0|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  3|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  2|MUNK√ÅSP√ÅRT                    |  0|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  3|MCF                           |  0|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  4|TTE                           |  0|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  5|C√ñTE                          |  0|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  6|FIDESZ                        |  5|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  7|SZDSZ                         |  1|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  8|V√©degylet                     |  2|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  9|KSZ                           |  0|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  1|MUNK√ÅSP√ÅRT                    |  0|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  2|MSZP-SZDSZ                    |  6|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  3|√ñSSZEFOG√ÅS P√ÅRT               |  0|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP-MDF               |  1|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  5|FSZPEB                        |  0|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  3|BBK                           |  2|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  4|FKSZ                          |  0|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  5|Z√ñLD CENTRUM                  |  0|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  3|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  7|MUNK√ÅSP√ÅRT                    |  0|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  8|MUNK√ÅSP√ÅRT 2006               |  1|  0|
+13|103|4|Kompenz√°ci√≥s lista            |  1|MUNK√ÅSP√ÅRT                    |  0|  0|
+13|103|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+13|103|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+13|103|4|Kompenz√°ci√≥s lista            |  4|SZ√ÅZSZORSZEBB-MDF             |  1|  0|
+13|103|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  3|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  1|LUNGO DROM                    |  0|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  3|VFE                           |  2|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  4|PMTE                          |  0|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  5|ATURHE                        |  2|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  6|MCF                           |  0|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  7|FIDESZ-KPE                    |  0|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  8|√âL≈êL√ÅNC                       |  1|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  2|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  2|MDF-JOBBIK                    |  1|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  3|POLKA                         |  1|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP-V√ÅLASZT√ÅSI SZ√ñV.  |  2|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  5|APO                           |  1|  0|
+14|013|4|Kompenz√°ci√≥s lista            |  1|BuV√©d                         |  1|  0|
+14|013|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+14|013|4|Kompenz√°ci√≥s lista            |  3|B B K                         |  3|  0|
+14|013|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  0|  0|
+14|013|4|Kompenz√°ci√≥s lista            |  5|MSZP-SZDSZ                    |  3|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  1|BFE                           |  1|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  3|KESZIK√ñR-V√ÅLLALKOZ√ìK EGYES√úLET|  3|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  2|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  0|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  1|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  3|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  3|BVE                           |  2|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  4|MSZP-SZDSZ                    |  4|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  5|MI√âP-JOBBIK                   |  0|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  2|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  2|SZCPE                         |  0|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  3|CFE                           |  2|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  3|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  0|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  7|FIDESZ-KDNP                   |  1|  0|
+14|025|4|Kompenz√°ci√≥s lista            |  1|PATRI√ìTA                      |  3|  0|
+14|025|4|Kompenz√°ci√≥s lista            |  2|KDNP-MI√âP-NF                  |  2|  0|
+14|025|4|Kompenz√°ci√≥s lista            |  3|RFTE-MSZP                     |  2|  0|
+14|025|4|Kompenz√°ci√≥s lista            |  4|DAFI-FIDESZ                   |  0|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  2|FHE-DVE.-DH IPOSZ             |  1|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  3|DSE                           |  1|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  0|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  5|DH POLG√ÅRI K√ñR                |  1|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  6|LUNGO DROM                    |  0|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  7|MI√âP                          |  0|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  8|SZDSZ                         |  0|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  9|FIDESZ-KDNP                   |  3|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  1|DL√âE                          |  0|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  2| DAKE                         |  0|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  3|MSZP-SZDSZ                    |  3|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  4|MDF-CENTRUM                   |  0|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  5|TI√âD                          |  1|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  6|PILSUDSKI TT                  |  0|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  7|FIDESZ-KDNP                   |  3|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  8|KONZERVAT√çV SZ√ñV              |  0|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  9|Lok√°lpatri√≥tak√∂r              |  2|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  7|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  2|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  0|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  4|√âRDI IP TEST                  |  0|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  5|CENTRUM                       |  0|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  1|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  7|MI√âP-JOBBIK                   |  0|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  8|CIVIL √âRDEK-C√âL               |  1|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  1|K√ñZ√ñS J√ñV≈êNK EGY              |  1|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  2|F√ìTI ESE                      |  0|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  3|ISZSE F√ìT                     |  0|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  4|F√úGGETLENEK SZ√ñV              |  0|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  5|OFE                           |  0|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  6|FIDESZ                        |  2|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  7|MSZP-SZDSZ-CVE-FISZSZ         |  2|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  8|KDNP                          |  0|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  9|MI√âP                          |  0|  0|
+14|041|4|Kompenz√°ci√≥s lista            | 10|C√ñF                           |  2|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  1|MI√âP                          |  0|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  3|VVE                           |  2|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  1|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP-V√ÅLLALKOZ√ìK P√ÅRTJA|  0|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  3|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  7|GVE                           |  1|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  5|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  2|K√ñZ√âRDEK≈∞ EGYES√úLET - SZDSZ   |  1|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-NEMZETI F√ìRUM-KPE-GPSZ |  3|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  4|GLK-KDNP-MDF                  |  0|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  5|MI√âP                          |  0|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  6|LOK√ÅLPATRI√ìT√ÅKE               |  0|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  7|VP                            |  0|  0|
+14|048|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  6|  0|
+14|048|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+14|048|4|Kompenz√°ci√≥s lista            |  3|VP                            |  1|  0|
+14|048|4|Kompenz√°ci√≥s lista            |  4|CIKE                          |  0|  0|
+14|048|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  0|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  3|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  4|GY√ñMR≈ê 2000 K√ñR               |  0|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  5|GYCSZ                         |  0|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  1|  0|
+14|058|4|Kompenz√°ci√≥s lista            |  1|√ÅPRILIS 6. K√ñR                |  2|  0|
+14|058|4|Kompenz√°ci√≥s lista            |  2|F√úGGETLEN K√âPV. SZ√ñV.-CENTRUM |  1|  0|
+14|058|4|Kompenz√°ci√≥s lista            |  3|IPK                           |  2|  0|
+14|058|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+14|078|4|Kompenz√°ci√≥s lista            |  1|MAGL√ìDI KSK                   |  2|  0|
+14|078|4|Kompenz√°ci√≥s lista            |  2|MAB≈∞PO                        |  2|  0|
+14|078|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  3|  0|
+14|078|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  0|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  0|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  2|Monori Gazdak√∂r               |  0|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  4|LUNGO DROM                    |  0|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  5|K√ñRME                         |  1|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  6|MSE                           |  2|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  7|MSZP                          |  4|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  1|MI√âP                          |  0|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  0|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  4|BDE                           |  1|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  6|MCF                           |  0|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  7|CENTRUM                       |  0|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  8|T√ÅPI√ìMENTI IPART              |  2|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  9|FKSZ                          |  2|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  1|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-FIDELITAS-KDNP-NKPE    |  1|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  3|Z√ñLD P√ÅRT                     |  1|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  4|MI√âP                          |  0|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  1|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  4|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  7|Nagyk≈ër√∂s√©rt                  |  1|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  1|MI√âP                          |  0|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  3|FPSZ                          |  1|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  4|MCF                           |  0|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  5|PKE                           |  2|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  6|FIDESZ                        |  2|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  7|SZDSZ                         |  1|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  8|PBK                           |  0|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  9|MSZP                          |  1|  0|
+14|102|4|Kompenz√°ci√≥s lista            | 10|CENTRUM                       |  0|  0|
+14|102|4|Kompenz√°ci√≥s lista            | 11|KDNP                          |  0|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  1|pds                           |  0|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  3|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  1|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  4|PIHE                          |  1|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  5|MI√âP                          |  0|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  6|PIPE                          |  2|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  1|SZDSZ-VIV√âK                   |  2|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  3|HEIMATVEREIN                  |  0|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  4|FIVE                          |  2|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  6|IPOSZ                         |  1|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  2|NOE                           |  1|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  3|LUNGO DROM                    |  0|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  4|Hajr√° Pom√°z                   |  2|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  5|MSZP-SZDSZ                    |  3|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  6|DETI                          |  1|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  7|PNNKE                         |  0|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  1|NAPOS OLDAL                   |  0|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP-MDF               |  3|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  3|FBI                           |  0|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  0|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  5|√ñSZKE                         |  0|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  2|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  7|√âSZKE                         |  2|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  1|SZDSZ-K√∂z√©leti K. Egy.        |  2|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  3|JOBBIK-NKK                    |  0|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  4|EGY√úTT                        |  1|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  5|DUNAKANYAR KPE.               |  0|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  6|Polg√°ri Koal√≠ci√≥              |  0|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  2|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  2|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  0|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  5|Szigethalmi PK                |  1|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  1|CSAL√ÅDISZ√ñVETS√âG-V√ÅLASZT√ìPOLG√Å|  0|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  1|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  4|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP-POLG√ÅRI K√ñR       |  2|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  5|MI√âP                          |  0|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  6|MNF                           |  0|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  7|MDF                           |  0|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  8|SZ√ñ-SZI                       |  2|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  0|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  2|HOM                           |  0|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  3|SZENT FL√ìRI√ÅN E               |  2|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  1|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  5|T√ñR√ñK B√ÅLINT E                |  0|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  6|MSZP-CIF                      |  4|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  1|EGY√úTTM≈∞                      |  2|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  2|IPARTEST                      |  0|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  3|LOKPATR√úLL≈ê√âRT                |  1|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  4|POLG.K√ñR                      |  2|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  5|FIDESZ MPSZ-√ñSZ√ú              |  0|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  6|√úLL≈êI DSE                     |  0|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  7|MSZP                          |  2|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  1|Z√ñLDEK                        |  0|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  3|MUNK√ÅSP√ÅRT                    |  0|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  0|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  5|V.V.V.E.                      |  1|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  0|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  7|FIDESZ-KDNP                   |  4|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  1|MSZP-SZDSZ                    |  5|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  2|FKSZ                          |  1|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-MDF-KDNP               |  0|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  4|MI√âP                          |  0|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  5|VVSZ                          |  1|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  6|Lok√°lpatri√≥t√°k V              |  0|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  1|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-MDF-MI√âP-KDNP-VJJE     |  0|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  4|TTTE                          |  0|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  5|SZOVE                         |  3|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  6|VLKE                          |  0|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  7|TAVIR√ìZSA                     |  1|  0|
+15|020|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  1|  0|
+15|020|4|Kompenz√°ci√≥s lista            |  2|DCKSZ                         |  0|  0|
+15|020|4|Kompenz√°ci√≥s lista            |  3|EVE                           |  2|  0|
+15|020|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  3|  0|
+15|020|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  1|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  1|MSZP-KSE                      |  8|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  3|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  0|  0|
+15|123|4|Kompenz√°ci√≥s lista            |  1|Marcali√©rt                    |  2|  0|
+15|123|4|Kompenz√°ci√≥s lista            |  2|Ipartest√ºlet.                 |  0|  0|
+15|123|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  0|  0|
+15|123|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  3|  0|
+15|123|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+15|130|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  4|  0|
+15|130|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+15|130|4|Kompenz√°ci√≥s lista            |  3|NAGYAT√ÅD√âRT                   |  1|  0|
+15|130|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  0|  0|
+15|130|4|Kompenz√°ci√≥s lista            |  5|SMRE                          |  0|  0|
+15|175|4|Kompenz√°ci√≥s lista            |  1|ESE                           |  2|  0|
+15|175|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  0|  0|
+15|175|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+15|175|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  5|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  2|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  2|√ñfKE                          |  2|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  3|MDF-CENTRUM                   |  0|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  4|MKDSZ                         |  1|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  5|MUNK√ÅSP√ÅRT                    |  0|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  6|FKE                           |  2|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  7|MSZP                          |  0|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  8|KIFO                          |  0|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  1|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  2|M NY P                        |  0|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  4|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  4|TESZ.                         |  0|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-V√∂r√∂smarty K√∂r         |  0|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  0|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  7|M.E.                          |  1|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  8|V√âE                           |  1|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  2|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  0|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  3|V√âK                           |  0|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  4|MCF                           |  0|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  5|VP                            |  1|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  2|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  7|FIDESZ                        |  2|  0|
+16|112|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  2|  0|
+16|112|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  3|  0|
+16|112|4|Kompenz√°ci√≥s lista            |  3|KDNP                          |  1|  0|
+16|112|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  1|  0|
+16|112|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  0|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  0|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  2|FE                            |  3|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  1|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  1|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  5|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  4|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  2|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  3|F√úGGETLENEK VE                |  1|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  4|SZAPE                         |  0|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  5|MDF-√ñSSZEFOG√ÅS MEGY√âNK√âRT     |  1|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  6|TISZAVASV√ÅRI NE               |  1|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  0|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  0|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  0|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  4|√ñSSZEFOG√ÅS √öJF.               |  2|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  5|FKGP-MAGOSZ                   |  0|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  6|LA√âT                          |  1|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  7|FIDESZ                        |  2|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  8|MSZP                          |  2|  0|
+17|011|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  1|  0|
+17|011|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+17|011|4|Kompenz√°ci√≥s lista            |  3|MSZP-SZDSZ                    |  5|  0|
+17|011|4|Kompenz√°ci√≥s lista            |  4|MCF                           |  0|  0|
+17|011|4|Kompenz√°ci√≥s lista            |  5|TM-i F√úROCE                   |  0|  0|
+17|011|4|Kompenz√°ci√≥s lista            |  6|V√ñLGYS√âGI IPART               |  1|  0|
+17|020|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  1|  0|
+17|020|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  3|  0|
+17|020|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+17|020|4|Kompenz√°ci√≥s lista            |  4|SZDSZ                         |  0|  0|
+17|020|4|Kompenz√°ci√≥s lista            |  5|Sz√∂vets√©g Domb√≥v√°r√©rt         |  1|  0|
+17|079|4|Kompenz√°ci√≥s lista            |  1|PAKS V√ÅROS√âRT MOZGALOM        |  1|  0|
+17|079|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP-KISGAZDA PE       |  0|  0|
+17|079|4|Kompenz√°ci√≥s lista            |  3|PAKSI LOK√ÅLPATRI√ìT√ÅK          |  2|  0|
+17|079|4|Kompenz√°ci√≥s lista            |  4|MSZP-SZDSZ                    |  4|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  4|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  2|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  3|SZD-I V√âDEGYLET EGYES√úLET     |  1|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  0|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  5|N√âMET NEMZ. EGY.-√öJV.RK.T√ÅRS.K|  1|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  1|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  1|TNNBK                         |  0|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  2|CIVIL VOKS                    |  2|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  3|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  4|LUNGO DROM                    |  0|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  5|SZDSZ                         |  1|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  0|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  7|MCIVE                         |  0|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  8|FIDESZ-KDNP                   |  1|  0|
+18|020|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-NF                     |  1|  0|
+18|020|4|Kompenz√°ci√≥s lista            |  2|KDNP                          |  1|  0|
+18|020|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  0|  0|
+18|020|4|Kompenz√°ci√≥s lista            |  4|ECVE                          |  2|  0|
+18|020|4|Kompenz√°ci√≥s lista            |  5|MDF-MVPP                      |  0|  0|
+18|020|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  3|  0|
+18|095|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  5|  0|
+18|095|4|Kompenz√°ci√≥s lista            |  2|Eur√≥pa 2000                   |  0|  0|
+18|095|4|Kompenz√°ci√≥s lista            |  3|Polg. √ñsszefog√°s-FIDESZ-KDNP-M|  0|  0|
+18|095|4|Kompenz√°ci√≥s lista            |  4|RPFE                          |  2|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  1|KKE                           |  1|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  1|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  1|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  4|KBK                           |  0|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  5|√ñKE                           |  0|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  6|Ipartest√ºlet Kg.              |  2|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  7|POLG√ÅR≈êRS√âG KG.-GYERMEKEK√âRT K|  0|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  8|MDF                           |  1|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  9|MSZP                          |  1|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  2|V√ñE                           |  0|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  0|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  4|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  5|H√çD A J√ñV≈êNK√âRT EGYES√úLET     |  2|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  6|MDF-MVPP                      |  0|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  7|S√ÅRV√ÅR√âRT E-SV IPARTEST√úLET   |  1|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  1|Pro Savaria                   |  0|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  2|SZ√ñSZO                        |  0|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  3|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  4|ESZE                          |  1|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  5|MSZP-SZDSZ                    |  6|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  1|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  0|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  4|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  3|SZDSZ                         |  1|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  4|VPE                           |  1|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  6|PLAN√âTA EGYES√úLE              |  1|  0|
+19|026|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP-MDF               |  0|  0|
+19|026|4|Kompenz√°ci√≥s lista            |  2|BFVE                          |  1|  0|
+19|026|4|Kompenz√°ci√≥s lista            |  3|MSZP-SZDSZ                    |  5|  0|
+19|026|4|Kompenz√°ci√≥s lista            |  4|BPE                           |  1|  0|
+19|153|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+19|153|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  0|  0|
+19|153|4|Kompenz√°ci√≥s lista            |  3|KDP-POLG√ÅRI SZ√ñVETS.          |  0|  0|
+19|153|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  8|  0|
+19|153|4|Kompenz√°ci√≥s lista            |  5|P√ÅPAFEJL≈êD√âS√â√âRT              |  0|  0|
+19|153|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  1|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  1|V√°ros√©rt Egy.                 |  0|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  5|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  4|VTKE                          |  1|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  5|MDF-MVPP                      |  1|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  6|SZDSZ                         |  0|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  7|MI√âP                          |  0|  0|
+19|201|4|Kompenz√°ci√≥s lista            |  1|SZDSZ                         |  1|  0|
+19|201|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+19|201|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  5|  0|
+19|201|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+19|201|4|Kompenz√°ci√≥s lista            |  5|VVVE                          |  1|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  1|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  2|SZDSZ                         |  3|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  3|Z√ñLDEK                        |  0|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  4|SZ√ñVETS√âG VP-√âRT              |  1|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  5|LOK√ÅLPATRIOT√ÅK                |  1|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  6|V√âDEGYLET VP-√âRT              |  0|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  7|FIDESZ-KDNP                   |  1|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  8|MSZP                          |  3|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  1|KESZT. IPARTEST.              |  0|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  2|K√ÅV√â                          |  0|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  3|SZKE                          |  2|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  0|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  5|MSZP-SZDSZ                    |  5|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  6|HELIKONI P. E.                |  0|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  7|FIDESZ-KDNP                   |  0|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  4|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  2|MSZDP                         |  2|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  3|Nk-i V√°rosv√©d≈ë                |  1|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  1|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  5|MI√âP                          |  0|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  6|MDF                           |  0|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  7|SZDSZ                         |  2|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  8|DRVSZ                         |  0|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  1|R√ñSZ-F I R O S Z              |  0|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP-NF                |  0|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  3|EZE                           |  1|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  1|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  5|MSZP-SZDSZ                    |  8|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  6|SZ√ñZEG                        |  1|  0|

@@ -1,33 +1,33 @@
-01|3|  1|  1|   |J·vor Benedek                                                                             |
-01|3|  1|  2|Dr.|Kaltenbach Jenı ¡d·m                                                                      |
-01|3|  1|  3|   |Somfai ¡gnes                                                                              |
-01|3|  2|  2|   |Pokorni Zolt·n                                                                            |
+01|3|  1|  1|   |J√°vor Benedek                                                                             |
+01|3|  1|  2|Dr.|Kaltenbach Jen≈ë √Åd√°m                                                                      |
+01|3|  1|  3|   |Somfai √Ågnes                                                                              |
+01|3|  2|  2|   |Pokorni Zolt√°n                                                                            |
 01|3|  2|  3|Dr.|Pesti Imre                                                                                |
-01|3|  2|  4|   |Rog·n Antal                                                                               |
-01|3|  2|  5|Dr.|Gyˆrgy Istv·n                                                                             |
-01|3|  2|  6|   |NÈmeth Szil·rd                                                                            |
-01|3|  2|  7|   |CsomÛs MiklÛs                                                                             |
-01|3|  2|  8|Dr.|Bagdy G·bor JÛzsef                                                                        |
-01|3|  2|  9|   |Nagy Istv·n                                                                               |
-01|3|  2| 10|   |Szentkir·lyi Alexandra …va                                                                |
+01|3|  2|  4|   |Rog√°n Antal                                                                               |
+01|3|  2|  5|Dr.|Gy√∂rgy Istv√°n                                                                             |
+01|3|  2|  6|   |N√©meth Szil√°rd                                                                            |
+01|3|  2|  7|   |Csom√≥s Mikl√≥s                                                                             |
+01|3|  2|  8|Dr.|Bagdy G√°bor J√≥zsef                                                                        |
+01|3|  2|  9|   |Nagy Istv√°n                                                                               |
+01|3|  2| 10|   |Szentkir√°lyi Alexandra √âva                                                                |
 01|3|  2| 11|   |Ughy Attila                                                                               |
-01|3|  2| 12|   |NÈmeth Zolt·n                                                                             |
+01|3|  2| 12|   |N√©meth Zolt√°n                                                                             |
 01|3|  2| 13|   |Wintermantel Zsolt                                                                        |
-01|3|  2| 14|   |Zsolnai JÛzsef                                                                            |
-01|3|  2| 15|Dr.|Szentes Tam·s                                                                             |
-01|3|  2| 16|   |Szatm·rynÈ J‰hl AngÈla                                                                    |
-01|3|  2| 17|   |Raduly JÛzsef                                                                             |
-01|3|  2| 18|   |Orb·n Gyˆngyi                                                                             |
-01|3|  3|  1|Dr.|Staudt G·bor                                                                              |
-01|3|  3|  2|   |CzeglÈdi J·nos                                                                            |
-01|3|  3|  3|   |SzabÛ Gyˆrgy                                                                              |
-01|3|  4|  1|   |Horv·th Csaba                                                                             |
-01|3|  4|  2|Dr.|Steiner P·l                                                                               |
-01|3|  4|  3|   |T¸ttı Kata Zsuzsanna                                                                      |
-01|3|  4|  4|   |Gajda PÈter                                                                               |
-01|3|  4|  5|   |Szabados ¡kos                                                                             |
-01|3|  4|  6|   |Moln·r Gyula                                                                              |
-01|3|  4|  7|   |AndÛ S·ndor                                                                               |
-01|3|  4|  8|Dr.|Havas SzÛfia                                                                              |
-01|3|  4|  9|   |B·ns·ghi Tam·s                                                                            |
+01|3|  2| 14|   |Zsolnai J√≥zsef                                                                            |
+01|3|  2| 15|Dr.|Szentes Tam√°s                                                                             |
+01|3|  2| 16|   |Szatm√°ryn√© J√§hl Ang√©la                                                                    |
+01|3|  2| 17|   |Raduly J√≥zsef                                                                             |
+01|3|  2| 18|   |Orb√°n Gy√∂ngyi                                                                             |
+01|3|  3|  1|Dr.|Staudt G√°bor                                                                              |
+01|3|  3|  2|   |Czegl√©di J√°nos                                                                            |
+01|3|  3|  3|   |Szab√≥ Gy√∂rgy                                                                              |
+01|3|  4|  1|   |Horv√°th Csaba                                                                             |
+01|3|  4|  2|Dr.|Steiner P√°l                                                                               |
+01|3|  4|  3|   |T√ºtt≈ë Kata Zsuzsanna                                                                      |
+01|3|  4|  4|   |Gajda P√©ter                                                                               |
+01|3|  4|  5|   |Szabados √Åkos                                                                             |
+01|3|  4|  6|   |Moln√°r Gyula                                                                              |
+01|3|  4|  7|   |And√≥ S√°ndor                                                                               |
+01|3|  4|  8|Dr.|Havas Sz√≥fia                                                                              |
+01|3|  4|  9|   |B√°ns√°ghi Tam√°s                                                                            |
 01|3|  4| 10|Dr.|Trippon Norbert                                                                           |

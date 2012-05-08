@@ -1,901 +1,901 @@
-01|3|  4|  1|   |TarlÛs Istv·n                                                                             |
-01|3|  4|  2|Dr.|FÛnagy J·nos Vilmos                                                                       |
-01|3|  4|  3|   |Pokorni Zolt·n                                                                            |
+01|3|  4|  1|   |Tarl√≥s Istv√°n                                                                             |
+01|3|  4|  2|Dr.|F√≥nagy J√°nos Vilmos                                                                       |
+01|3|  4|  3|   |Pokorni Zolt√°n                                                                            |
 01|3|  4|  4|   |Wintermantel Zsolt                                                                        |
-01|3|  4|  5|Dr.|Bagdy G·bor JÛzsef                                                                        |
-01|3|  4|  6|   |Szatm·rynÈ J‰hl AngÈla                                                                    |
-01|3|  4|  7|   |CsallÛkˆzi Zolt·n Tam·s                                                                   |
+01|3|  4|  5|Dr.|Bagdy G√°bor J√≥zsef                                                                        |
+01|3|  4|  6|   |Szatm√°ryn√© J√§hl Ang√©la                                                                    |
+01|3|  4|  7|   |Csall√≥k√∂zi Zolt√°n Tam√°s                                                                   |
 01|3|  4|  8|Dr.|Pesti Imre                                                                                |
-01|3|  4|  9|   |Ughy Attila G·bor                                                                         |
-01|3|  4| 10|   |NÈmeth Szil·rd Istv·n                                                                     |
-01|3|  4| 11|Dr.|Kosztol·nyi DÈnes Ferenc                                                                  |
-01|3|  4| 12|   |Papcs·k Ferenc                                                                            |
-01|3|  4| 13|Dr.|EndrÈdy Istv·n                                                                            |
-01|3|  4| 14|Dr.|Gyˆrgy Istv·n                                                                             |
-01|3|  4| 15|   |CsomÛs MiklÛs                                                                             |
-01|3|  4| 16|   |Kov·cs Bal·zs                                                                             |
+01|3|  4|  9|   |Ughy Attila G√°bor                                                                         |
+01|3|  4| 10|   |N√©meth Szil√°rd Istv√°n                                                                     |
+01|3|  4| 11|Dr.|Kosztol√°nyi D√©nes Ferenc                                                                  |
+01|3|  4| 12|   |Papcs√°k Ferenc                                                                            |
+01|3|  4| 13|Dr.|Endr√©dy Istv√°n                                                                            |
+01|3|  4| 14|Dr.|Gy√∂rgy Istv√°n                                                                             |
+01|3|  4| 15|   |Csom√≥s Mikl√≥s                                                                             |
+01|3|  4| 16|   |Kov√°cs Bal√°zs                                                                             |
 01|3|  4| 17|   |Formanek Gyula                                                                            |
 01|3|  4| 18|   |Riz Levente                                                                               |
-01|3|  4| 19|Dr.|Kocsis M·tÈ S·ndor                                                                        |
-01|3|  4| 20|   |NÈmeth Zolt·n                                                                             |
+01|3|  4| 19|Dr.|Kocsis M√°t√© S√°ndor                                                                        |
+01|3|  4| 20|   |N√©meth Zolt√°n                                                                             |
 01|3|  4| 21|   |Szikora Linda                                                                             |
-01|3|  4| 22|   |Fˆldesi Gyula                                                                             |
-01|3|  4| 23|   |Wert·n Zsolt Zolt·n                                                                       |
-01|3|  4| 24|   |Orb·n Gyˆngyi                                                                             |
-01|3|  4| 25|Dr.|KecskÈs Guszt·v                                                                           |
-01|3|  4| 26|   |R·tonyi G·bor                                                                             |
-01|3|  4| 27|   |L·szlÛ Zolt·n                                                                             |
-01|3|  4| 28|Dr.|Schneller M·rton Domonkos                                                                 |
-01|3|  4| 29|Dr.|RÈtv·ri Bence                                                                             |
-01|3|  4| 30|Dr.|TerÈk Attila                                                                              |
-01|3|  6|  1|Dr.|Demszky G·bor                                                                             |
-01|3|  6|  2|   |Rajk L·szlÛ                                                                               |
-01|3|  6|  3|   |Ikvai-SzabÛ Imre                                                                          |
-01|3|  6|  4|Dr.|Bıhm Andr·s Henrik                                                                        |
-01|3|  6|  5|   |Boj·r Iv·n                                                                                |
+01|3|  4| 22|   |F√∂ldesi Gyula                                                                             |
+01|3|  4| 23|   |Wert√°n Zsolt Zolt√°n                                                                       |
+01|3|  4| 24|   |Orb√°n Gy√∂ngyi                                                                             |
+01|3|  4| 25|Dr.|Kecsk√©s Guszt√°v                                                                           |
+01|3|  4| 26|   |R√°tonyi G√°bor                                                                             |
+01|3|  4| 27|   |L√°szl√≥ Zolt√°n                                                                             |
+01|3|  4| 28|Dr.|Schneller M√°rton Domonkos                                                                 |
+01|3|  4| 29|Dr.|R√©tv√°ri Bence                                                                             |
+01|3|  4| 30|Dr.|Ter√©k Attila                                                                              |
+01|3|  6|  1|Dr.|Demszky G√°bor                                                                             |
+01|3|  6|  2|   |Rajk L√°szl√≥                                                                               |
+01|3|  6|  3|   |Ikvai-Szab√≥ Imre                                                                          |
+01|3|  6|  4|Dr.|B≈ëhm Andr√°s Henrik                                                                        |
+01|3|  6|  5|   |Boj√°r Iv√°n                                                                                |
 01|3|  6|  6|   |Lakos Imre                                                                                |
 01|3|  6|  7|Dr.|Szolnoki Andrea                                                                           |
-01|3|  6|  8|   |Halm·gyi Judit Erika                                                                      |
+01|3|  6|  8|   |Halm√°gyi Judit Erika                                                                      |
 01|3|  6|  9|   |John Emese Orsolya                                                                        |
-01|3|  7|  1|   |Katona K·lm·n                                                                             |
-01|3|  7|  2|   |Hock Zolt·n                                                                               |
-01|3|  7|  3|Dr.|Vaskor L·szlÛ J·nos                                                                       |
-01|3|  9|  1|   |Moln·r Gyula                                                                              |
-01|3|  9|  2|   |Gy. NÈmeth ErzsÈbet                                                                       |
-01|3|  9|  3|   |Horv·th Csaba                                                                             |
-01|3|  9|  4|Dr.|Steiner P·l                                                                               |
-01|3|  9|  5|   |Hunvald Gyˆrgy                                                                            |
-01|3|  9|  6|   |HagyÛ MiklÛs                                                                              |
+01|3|  7|  1|   |Katona K√°lm√°n                                                                             |
+01|3|  7|  2|   |Hock Zolt√°n                                                                               |
+01|3|  7|  3|Dr.|Vaskor L√°szl√≥ J√°nos                                                                       |
+01|3|  9|  1|   |Moln√°r Gyula                                                                              |
+01|3|  9|  2|   |Gy. N√©meth Erzs√©bet                                                                       |
+01|3|  9|  3|   |Horv√°th Csaba                                                                             |
+01|3|  9|  4|Dr.|Steiner P√°l                                                                               |
+01|3|  9|  5|   |Hunvald Gy√∂rgy                                                                            |
+01|3|  9|  6|   |Hagy√≥ Mikl√≥s                                                                              |
 01|3|  9|  7|Dr.|Bakonyi Tibor                                                                             |
-01|3|  9|  8|   |SzaniszlÛ S·ndor                                                                          |
-01|3|  9|  9|   |SomlyÛdy Csaba                                                                            |
-01|3|  9| 10|Dr.|Havas SzÛfia                                                                              |
-01|3|  9| 11|   |Germ·nnÈ Dr. Vastag Gyˆrgyi                                                               |
-01|3|  9| 12|   |T¸ttı Kata Zsuzsanna                                                                      |
-01|3|  9| 13|   |B·ns·ghi Tam·s                                                                            |
-01|3|  9| 14|Dr.|Balogh P·l                                                                                |
-01|3|  9| 15|   |G·bor JÛzsef Gyˆrgy                                                                       |
-01|3|  9| 16|   |Danielisz BÈla                                                                            |
-01|3|  9| 17|   |Kolozs Andr·s                                                                             |
-01|3|  9| 18|   |Horv·th Gyula                                                                             |
-01|3|  9| 19|   |Wieszt J·nos                                                                              |
-01|3|  9| 20|   |Dev·nszkinÈ Dr. Moln·r Katalin                                                            |
-01|3|  9| 21|   |AndÛ S·ndor                                                                               |
-01|3|  9| 22|   |Egerfai JÛzsef K·roly                                                                     |
+01|3|  9|  8|   |Szaniszl√≥ S√°ndor                                                                          |
+01|3|  9|  9|   |Somly√≥dy Csaba                                                                            |
+01|3|  9| 10|Dr.|Havas Sz√≥fia                                                                              |
+01|3|  9| 11|   |Germ√°nn√© Dr. Vastag Gy√∂rgyi                                                               |
+01|3|  9| 12|   |T√ºtt≈ë Kata Zsuzsanna                                                                      |
+01|3|  9| 13|   |B√°ns√°ghi Tam√°s                                                                            |
+01|3|  9| 14|Dr.|Balogh P√°l                                                                                |
+01|3|  9| 15|   |G√°bor J√≥zsef Gy√∂rgy                                                                       |
+01|3|  9| 16|   |Danielisz B√©la                                                                            |
+01|3|  9| 17|   |Kolozs Andr√°s                                                                             |
+01|3|  9| 18|   |Horv√°th Gyula                                                                             |
+01|3|  9| 19|   |Wieszt J√°nos                                                                              |
+01|3|  9| 20|   |Dev√°nszkin√© Dr. Moln√°r Katalin                                                            |
+01|3|  9| 21|   |And√≥ S√°ndor                                                                               |
+01|3|  9| 22|   |Egerfai J√≥zsef K√°roly                                                                     |
 01|3|  9| 23|   |Mitus Zsuzsanna                                                                           |
-01|3|  9| 24|   |Szalkai Istv·n L·szlÛ                                                                     |
-02|1|  1|  1|   |Bokor BÈla                                                                                |
-02|1|  1|  2|   |Weisz PÈter                                                                               |
-02|1|  2|  1|Dr.|Hargitai J·nos                                                                            |
-02|1|  2|  2|   |BÈdy Istv·n                                                                               |
-02|1|  2|  3|   |KÈkkıi Zolt·n                                                                             |
-02|1|  2|  4|   |Polics JÛzsef                                                                             |
-02|1|  2|  5|   |P·vkovics G·bor                                                                           |
+01|3|  9| 24|   |Szalkai Istv√°n L√°szl√≥                                                                     |
+02|1|  1|  1|   |Bokor B√©la                                                                                |
+02|1|  1|  2|   |Weisz P√©ter                                                                               |
+02|1|  2|  1|Dr.|Hargitai J√°nos                                                                            |
+02|1|  2|  2|   |B√©dy Istv√°n                                                                               |
+02|1|  2|  3|   |K√©kk≈ëi Zolt√°n                                                                             |
+02|1|  2|  4|   |Polics J√≥zsef                                                                             |
+02|1|  2|  5|   |P√°vkovics G√°bor                                                                           |
 02|1|  2|  6|   |Kustos Roland                                                                             |
-02|1|  2|  7|   |RÛzs·s PÈter                                                                              |
-02|1|  2|  8|   |SzÈkely G·bor                                                                             |
-02|1|  2|  9|   |Prettl J·nos                                                                              |
-02|1|  2| 10|   |R·cs Zolt·n                                                                               |
-02|1|  2| 11|   |Horv·th Zolt·n                                                                            |
-02|1|  2| 12|   |MiklÛs JÛzsef                                                                             |
-02|1|  2| 13|   |Szatyor Gyızı                                                                             |
+02|1|  2|  7|   |R√≥zs√°s P√©ter                                                                              |
+02|1|  2|  8|   |Sz√©kely G√°bor                                                                             |
+02|1|  2|  9|   |Prettl J√°nos                                                                              |
+02|1|  2| 10|   |R√°cs Zolt√°n                                                                               |
+02|1|  2| 11|   |Horv√°th Zolt√°n                                                                            |
+02|1|  2| 12|   |Mikl√≥s J√≥zsef                                                                             |
+02|1|  2| 13|   |Szatyor Gy≈ëz≈ë                                                                             |
 02|1|  2| 14|   |Kiss Ferenc                                                                               |
-02|1|  2| 15|   |Kov·cs Istv·n                                                                             |
-02|1|  2| 16|   |B·nkuti Ferenc                                                                            |
-02|1|  3|  1|   |Tasn·di PÈter                                                                             |
-02|1|  3|  2|Dr.|KÈkes Ferenc                                                                              |
-02|1|  3|  3|Dr.|Csˆrnyei L·szlÛ                                                                           |
-02|1|  3|  4|   |Ny˙lnÈ Z·tonyi Zita                                                                       |
-02|1|  3|  5|   |F·bos P·l                                                                                 |
+02|1|  2| 15|   |Kov√°cs Istv√°n                                                                             |
+02|1|  2| 16|   |B√°nkuti Ferenc                                                                            |
+02|1|  3|  1|   |Tasn√°di P√©ter                                                                             |
+02|1|  3|  2|Dr.|K√©kes Ferenc                                                                              |
+02|1|  3|  3|Dr.|Cs√∂rnyei L√°szl√≥                                                                           |
+02|1|  3|  4|   |Ny√∫ln√© Z√°tonyi Zita                                                                       |
+02|1|  3|  5|   |F√°bos P√°l                                                                                 |
 02|1|  3|  6|Dr.|Temesi Erika                                                                              |
-02|1|  3|  7|   |Szubotics MiklÛs                                                                          |
-02|1|  3|  8|   |Sohonyai Istv·n                                                                           |
-02|1|  3|  9|   |Czigler J·nos                                                                             |
-02|1|  3| 10|   |Horv·th S·ndornÈ                                                                          |
-02|1|  3| 11|   |M¸ller G·bor                                                                              |
-02|2|  1|  1|   |SzekÛ JÛzsef                                                                              |
-02|2|  1|  2|Dr.|Tusn·di Tam·s                                                                             |
-02|2|  1|  3|Dr.|Tern·k G·bor                                                                              |
-02|2|  1|  4|   |Szalai OttÛ                                                                               |
+02|1|  3|  7|   |Szubotics Mikl√≥s                                                                          |
+02|1|  3|  8|   |Sohonyai Istv√°n                                                                           |
+02|1|  3|  9|   |Czigler J√°nos                                                                             |
+02|1|  3| 10|   |Horv√°th S√°ndorn√©                                                                          |
+02|1|  3| 11|   |M√ºller G√°bor                                                                              |
+02|2|  1|  1|   |Szek√≥ J√≥zsef                                                                              |
+02|2|  1|  2|Dr.|Tusn√°di Tam√°s                                                                             |
+02|2|  1|  3|Dr.|Tern√°k G√°bor                                                                              |
+02|2|  1|  4|   |Szalai Ott√≥                                                                               |
 02|2|  1|  5|   |Rang Henriett                                                                             |
-02|2|  4|  1|Dr.|Marenics J·nos                                                                            |
+02|2|  4|  1|Dr.|Marenics J√°nos                                                                            |
 02|2|  6|  1|   |Gonda Tibor                                                                               |
-02|2|  6|  2|   |NÈmeth M·ria                                                                              |
-02|2|  6|  3|Dr.|Guly·s Emil                                                                               |
-02|2|  6|  4|   |Maretics JÛzsef                                                                           |
-02|2|  6|  5|   |Bogn·r S·ndor                                                                             |
-03|1|  3|  1|   |Rapcs·k Andr·s                                                                            |
-03|1|  5|  1|   |Font S·ndor                                                                               |
-03|1|  5|  2|   |Kov·cs Ernı                                                                               |
-03|1|  5|  3|   |Kalm·r P·l                                                                                |
+02|2|  6|  2|   |N√©meth M√°ria                                                                              |
+02|2|  6|  3|Dr.|Guly√°s Emil                                                                               |
+02|2|  6|  4|   |Maretics J√≥zsef                                                                           |
+02|2|  6|  5|   |Bogn√°r S√°ndor                                                                             |
+03|1|  3|  1|   |Rapcs√°k Andr√°s                                                                            |
+03|1|  5|  1|   |Font S√°ndor                                                                               |
+03|1|  5|  2|   |Kov√°cs Ern≈ë                                                                               |
+03|1|  5|  3|   |Kalm√°r P√°l                                                                                |
 03|1|  5|  4|   |Nagy Ferenc                                                                               |
-03|1|  5|  5|   |Vˆrˆsmarty Attila                                                                         |
+03|1|  5|  5|   |V√∂r√∂smarty Attila                                                                         |
 03|1|  5|  6|   |Temerini Ferenc                                                                           |
-03|1|  5|  7|   |Felfˆldi Zolt·n                                                                           |
-03|1|  5|  8|   |Fercs·k RÛbert                                                                            |
-03|1|  5|  9|   |Bencsik Tibor S·ndornÈ                                                                    |
-03|1|  5| 10|   |Kapus Kriszti·n                                                                           |
-03|1|  5| 11|   |Rideg L·szlÛ K·lm·n                                                                       |
-03|1|  5| 12|   |Sz·ntÛ Istv·n                                                                             |
-03|1|  5| 13|   |LÛgÛ Andr·s                                                                               |
-03|1|  5| 14|   |Pusk·s Lajos                                                                              |
-03|1|  5| 15|Dr.|Kelemen M·rk Csaba                                                                        |
+03|1|  5|  7|   |Felf√∂ldi Zolt√°n                                                                           |
+03|1|  5|  8|   |Fercs√°k R√≥bert                                                                            |
+03|1|  5|  9|   |Bencsik Tibor S√°ndorn√©                                                                    |
+03|1|  5| 10|   |Kapus Kriszti√°n                                                                           |
+03|1|  5| 11|   |Rideg L√°szl√≥ K√°lm√°n                                                                       |
+03|1|  5| 12|   |Sz√°nt√≥ Istv√°n                                                                             |
+03|1|  5| 13|   |L√≥g√≥ Andr√°s                                                                               |
+03|1|  5| 14|   |Pusk√°s Lajos                                                                              |
+03|1|  5| 15|Dr.|Kelemen M√°rk Csaba                                                                        |
 03|1|  5| 16|   |Bedi Gyula                                                                                |
-03|1|  5| 17|Dr.|Krammer Bal·zs                                                                            |
-03|1|  6|  1|   |Karsai PÈter                                                                              |
-03|1|  7|  1|Dr.|Balogh L·szlÛ                                                                             |
-03|1|  7|  2|   |M·rfai PÈter                                                                              |
-03|1|  7|  3|   |Alfˆldi Albert                                                                            |
-03|1|  7|  4|   |Schindler J·nos Antal                                                                     |
-03|1|  7|  5|   |Flisz·r K·roly Gyˆrgy                                                                     |
-03|1|  7|  6|   |Zuschlag J·nos L·szlÛ                                                                     |
-03|1|  7|  7|   |Andr·s Istv·n                                                                             |
+03|1|  5| 17|Dr.|Krammer Bal√°zs                                                                            |
+03|1|  6|  1|   |Karsai P√©ter                                                                              |
+03|1|  7|  1|Dr.|Balogh L√°szl√≥                                                                             |
+03|1|  7|  2|   |M√°rfai P√©ter                                                                              |
+03|1|  7|  3|   |Alf√∂ldi Albert                                                                            |
+03|1|  7|  4|   |Schindler J√°nos Antal                                                                     |
+03|1|  7|  5|   |Flisz√°r K√°roly Gy√∂rgy                                                                     |
+03|1|  7|  6|   |Zuschlag J√°nos L√°szl√≥                                                                     |
+03|1|  7|  7|   |Andr√°s Istv√°n                                                                             |
 03|1|  7|  8|   |Katus Ferenc                                                                              |
-03|2|  3|  1|   |B·nyai G·bor                                                                              |
-03|2|  3|  2|Dr.|BagÛ Zolt·n                                                                               |
-03|2|  3|  3|   |Rausch S·ndor                                                                             |
-03|2|  3|  4|   |Endre S·ndor                                                                              |
-03|2|  3|  5|   |Ivanics Istv·n                                                                            |
+03|2|  3|  1|   |B√°nyai G√°bor                                                                              |
+03|2|  3|  2|Dr.|Bag√≥ Zolt√°n                                                                               |
+03|2|  3|  3|   |Rausch S√°ndor                                                                             |
+03|2|  3|  4|   |Endre S√°ndor                                                                              |
+03|2|  3|  5|   |Ivanics Istv√°n                                                                            |
 03|2|  3|  6|   |Varga Nelli                                                                               |
-03|2|  3|  7|   |SzÈl Istv·n                                                                               |
-03|2|  3|  8|   |Luk·cs L·szlÛ                                                                             |
-03|2|  3|  9|   |SzabÛ S·ndor                                                                              |
-03|2|  3| 10|   |Frick JÛzsef                                                                              |
-03|2|  3| 11|   |Aradszky L·szlÛ Andr·snÈ                                                                  |
-03|2|  5|  1|   |Tˆrˆk Guszt·v Andor                                                                       |
-03|2|  5|  2|   |FicsÛr JÛzsef                                                                             |
-03|2|  7|  1|   |SzÈll PÈter                                                                               |
-03|2|  7|  2|Dr.|Garai Istv·n Levente                                                                      |
-03|2|  7|  3|Dr.|Moln·r G·bor Tam·s                                                                        |
-03|2|  7|  4|   |V·radi Kriszti·n Gyula                                                                    |
-03|2|  7|  5|   |SzabÛ K·roly                                                                              |
-03|2|  7|  6|   |Bella L·szlÛ                                                                              |
-04|1|  3|  1|   |TÛth Imre                                                                                 |
-04|1|  3|  2|   |DankÛ BÈla                                                                                |
-04|1|  3|  3|Dr.|Mieczynszky Ernı                                                                          |
-04|1|  3|  4|Dr.|S·nta Endre                                                                               |
-04|1|  3|  5|   |Tak·cs Ferenc                                                                             |
-04|1|  3|  6|   |Hamza Zolt·n G·bor                                                                        |
-04|1|  3|  7|   |Balogh JÛzsef                                                                             |
-04|1|  3|  8|   |Simon Istv·n Tam·s                                                                        |
-04|1|  3|  9|Dr.|Kulcs·r L·szlÛ Istv·n                                                                     |
-04|1|  3| 10|   |GÈcs L·szlÛ Ferenc                                                                        |
-04|1|  3| 11|   |Fodor JÛzsef                                                                              |
-04|1|  3| 12|   |Brl·s J·nos                                                                               |
-04|1|  3| 13|   |TurÛczy Andr·s                                                                            |
-04|1|  5|  1|Dr.|Nagy BÈla                                                                                 |
-04|1|  8|  1|   |Szil·gyi MenyhÈrt                                                                         |
-04|1|  8|  2|   |Kaszai J·nos                                                                              |
-04|1|  8|  3|   |Kreszta Traj·n                                                                            |
-04|1|  8|  4|   |Nagy Mih·ly                                                                               |
-04|1|  8|  5|   |S·ndor Csaba                                                                              |
-04|1|  8|  6|   |TÛth S·ndor Lajos                                                                         |
-04|1|  8|  7|   |Zsura Zolt·n J·nos                                                                        |
-04|1|  8|  8|   |Sinka JÛzsef                                                                              |
-04|2|  9|  1|   |Varga Zolt·n                                                                              |
+03|2|  3|  7|   |Sz√©l Istv√°n                                                                               |
+03|2|  3|  8|   |Luk√°cs L√°szl√≥                                                                             |
+03|2|  3|  9|   |Szab√≥ S√°ndor                                                                              |
+03|2|  3| 10|   |Frick J√≥zsef                                                                              |
+03|2|  3| 11|   |Aradszky L√°szl√≥ Andr√°sn√©                                                                  |
+03|2|  5|  1|   |T√∂r√∂k Guszt√°v Andor                                                                       |
+03|2|  5|  2|   |Fics√≥r J√≥zsef                                                                             |
+03|2|  7|  1|   |Sz√©ll P√©ter                                                                               |
+03|2|  7|  2|Dr.|Garai Istv√°n Levente                                                                      |
+03|2|  7|  3|Dr.|Moln√°r G√°bor Tam√°s                                                                        |
+03|2|  7|  4|   |V√°radi Kriszti√°n Gyula                                                                    |
+03|2|  7|  5|   |Szab√≥ K√°roly                                                                              |
+03|2|  7|  6|   |Bella L√°szl√≥                                                                              |
+04|1|  3|  1|   |T√≥th Imre                                                                                 |
+04|1|  3|  2|   |Dank√≥ B√©la                                                                                |
+04|1|  3|  3|Dr.|Mieczynszky Ern≈ë                                                                          |
+04|1|  3|  4|Dr.|S√°nta Endre                                                                               |
+04|1|  3|  5|   |Tak√°cs Ferenc                                                                             |
+04|1|  3|  6|   |Hamza Zolt√°n G√°bor                                                                        |
+04|1|  3|  7|   |Balogh J√≥zsef                                                                             |
+04|1|  3|  8|   |Simon Istv√°n Tam√°s                                                                        |
+04|1|  3|  9|Dr.|Kulcs√°r L√°szl√≥ Istv√°n                                                                     |
+04|1|  3| 10|   |G√©cs L√°szl√≥ Ferenc                                                                        |
+04|1|  3| 11|   |Fodor J√≥zsef                                                                              |
+04|1|  3| 12|   |Brl√°s J√°nos                                                                               |
+04|1|  3| 13|   |Tur√≥czy Andr√°s                                                                            |
+04|1|  5|  1|Dr.|Nagy B√©la                                                                                 |
+04|1|  8|  1|   |Szil√°gyi Menyh√©rt                                                                         |
+04|1|  8|  2|   |Kaszai J√°nos                                                                              |
+04|1|  8|  3|   |Kreszta Traj√°n                                                                            |
+04|1|  8|  4|   |Nagy Mih√°ly                                                                               |
+04|1|  8|  5|   |S√°ndor Csaba                                                                              |
+04|1|  8|  6|   |T√≥th S√°ndor Lajos                                                                         |
+04|1|  8|  7|   |Zsura Zolt√°n J√°nos                                                                        |
+04|1|  8|  8|   |Sinka J√≥zsef                                                                              |
+04|2|  9|  1|   |Varga Zolt√°n                                                                              |
 04|2|  9|  2|Dr.|Gosztolya Ferenc                                                                          |
-04|2|  9|  3|   |Macs·ri JÛzsef                                                                            |
-04|2|  9|  4|   |Koz·k ImrÈnÈ                                                                              |
-04|2|  9|  5|Dr.|Csaba Istv·n                                                                              |
-04|2|  9|  6|   |SÛki Krisztina                                                                            |
-04|2|  9|  7|   |Guly·s JÛzsef Imre                                                                        |
-04|2| 12|  1|   |Domokos L·szlÛ                                                                            |
-04|2| 12|  2|   |Tolnai PÈter                                                                              |
-04|2| 12|  3|   |Gajda Mih·ly                                                                              |
-04|2| 12|  4|   |Harmati L·szlÛ                                                                            |
-04|2| 12|  5|   |Z·voda Ferenc                                                                             |
-04|2| 12|  6|   |Moln·r BÈla                                                                               |
-04|2| 12|  7|   |Cs·sz·rnÈ Gyuricza …va Magdolna                                                           |
-04|2| 12|  8|   |LadÛ Bal·zs                                                                               |
-04|2| 12|  9|   |Farkas Zolt·n                                                                             |
-04|2| 12| 10|   |BaranyÛ GÈza                                                                              |
-04|2| 12| 11|   |IzsÛ G·bor Lajos                                                                          |
-05|1|  5|  1|   |Kormos DÈnes                                                                              |
-05|1|  5|  2|   |G˙r N·ndor                                                                                |
-05|1|  5|  3|   |Luk·cs Andr·s                                                                             |
-05|1|  5|  4|   |Juh·sz Istv·n                                                                             |
-05|1|  5|  5|   |NyakÛ Istv·n                                                                              |
-05|1|  5|  6|   |÷rdˆg Jakab                                                                               |
+04|2|  9|  3|   |Macs√°ri J√≥zsef                                                                            |
+04|2|  9|  4|   |Koz√°k Imr√©n√©                                                                              |
+04|2|  9|  5|Dr.|Csaba Istv√°n                                                                              |
+04|2|  9|  6|   |S√≥ki Krisztina                                                                            |
+04|2|  9|  7|   |Guly√°s J√≥zsef Imre                                                                        |
+04|2| 12|  1|   |Domokos L√°szl√≥                                                                            |
+04|2| 12|  2|   |Tolnai P√©ter                                                                              |
+04|2| 12|  3|   |Gajda Mih√°ly                                                                              |
+04|2| 12|  4|   |Harmati L√°szl√≥                                                                            |
+04|2| 12|  5|   |Z√°voda Ferenc                                                                             |
+04|2| 12|  6|   |Moln√°r B√©la                                                                               |
+04|2| 12|  7|   |Cs√°sz√°rn√© Gyuricza √âva Magdolna                                                           |
+04|2| 12|  8|   |Lad√≥ Bal√°zs                                                                               |
+04|2| 12|  9|   |Farkas Zolt√°n                                                                             |
+04|2| 12| 10|   |Barany√≥ G√©za                                                                              |
+04|2| 12| 11|   |Izs√≥ G√°bor Lajos                                                                          |
+05|1|  5|  1|   |Kormos D√©nes                                                                              |
+05|1|  5|  2|   |G√∫r N√°ndor                                                                                |
+05|1|  5|  3|   |Luk√°cs Andr√°s                                                                             |
+05|1|  5|  4|   |Juh√°sz Istv√°n                                                                             |
+05|1|  5|  5|   |Nyak√≥ Istv√°n                                                                              |
+05|1|  5|  6|   |√ñrd√∂g Jakab                                                                               |
 05|1|  5|  7|Dr.|Kormos Imre                                                                               |
-05|1|  5|  8|   |Varg·nÈ KerÈkgy·rtÛ IldikÛ                                                                |
-05|1|  5|  9|   |Galuska L·szlÛ                                                                            |
+05|1|  5|  8|   |Varg√°n√© Ker√©kgy√°rt√≥ Ildik√≥                                                                |
+05|1|  5|  9|   |Galuska L√°szl√≥                                                                            |
 05|1|  5| 10|   |Nyitrai Tibor                                                                             |
-05|1|  5| 11|Dr.|Kolesz·r Lajos                                                                            |
-05|1|  5| 12|   |TÛth Zolt·n                                                                               |
+05|1|  5| 11|Dr.|Kolesz√°r Lajos                                                                            |
+05|1|  5| 12|   |T√≥th Zolt√°n                                                                               |
 05|1|  5| 13|   |Csabai Gyula                                                                              |
-05|1|  5| 14|   |Balogh Attila ¡goston                                                                     |
-05|1|  5| 15|   |Szvoboda L·szlÛ                                                                           |
-05|1|  5| 16|   |MÈsz·ros Barnab·s                                                                         |
-05|1|  5| 17|   |Moln·r Magdolna                                                                           |
-05|1|  7|  1|Dr.|”dor Ferenc                                                                               |
+05|1|  5| 14|   |Balogh Attila √Ågoston                                                                     |
+05|1|  5| 15|   |Szvoboda L√°szl√≥                                                                           |
+05|1|  5| 16|   |M√©sz√°ros Barnab√°s                                                                         |
+05|1|  5| 17|   |Moln√°r Magdolna                                                                           |
+05|1|  7|  1|Dr.|√ìdor Ferenc                                                                               |
 05|1|  7|  2|   |Koncz Ferenc                                                                              |
-05|1|  7|  3|Dr.|SzabÛ Csaba                                                                               |
-05|1|  7|  4|   |Tam·s Barnab·s                                                                            |
-05|1|  7|  5|   |Demeter Zolt·n                                                                            |
-05|1|  7|  6|Dr.|SÛja Szabolcs                                                                             |
+05|1|  7|  3|Dr.|Szab√≥ Csaba                                                                               |
+05|1|  7|  4|   |Tam√°s Barnab√°s                                                                            |
+05|1|  7|  5|   |Demeter Zolt√°n                                                                            |
+05|1|  7|  6|Dr.|S√≥ja Szabolcs                                                                             |
 05|1|  7|  7|   |Gergely Zsolt                                                                             |
-05|1|  7|  8|   |Baricska Istv·n J·nosnÈ                                                                   |
-05|1|  7|  9|   |Panyik JÛzsef                                                                             |
-05|1|  7| 10|   |Bihari M·rta                                                                              |
-05|1|  7| 11|   |Mil·nkovich Ernı                                                                          |
-05|1|  7| 12|   |Marton PÈter                                                                              |
-05|1|  7| 13|   |Szeles Andr·s                                                                             |
-05|1|  7| 14|   |Gˆrcsˆs Ferenc                                                                            |
-05|1|  7| 15|   |Hajd˙ Andr·s                                                                              |
-05|1|  7| 16|   |RitÛ L·szlÛnÈ                                                                             |
-05|1|  7| 17|   |LehÛczki Istv·n                                                                           |
-05|1|  7| 18|   |Bodn·r L·szlÛ                                                                             |
-05|1|  7| 19|   |CzeglÈdi S·ndor                                                                           |
+05|1|  7|  8|   |Baricska Istv√°n J√°nosn√©                                                                   |
+05|1|  7|  9|   |Panyik J√≥zsef                                                                             |
+05|1|  7| 10|   |Bihari M√°rta                                                                              |
+05|1|  7| 11|   |Mil√°nkovich Ern≈ë                                                                          |
+05|1|  7| 12|   |Marton P√©ter                                                                              |
+05|1|  7| 13|   |Szeles Andr√°s                                                                             |
+05|1|  7| 14|   |G√∂rcs√∂s Ferenc                                                                            |
+05|1|  7| 15|   |Hajd√∫ Andr√°s                                                                              |
+05|1|  7| 16|   |Rit√≥ L√°szl√≥n√©                                                                             |
+05|1|  7| 17|   |Leh√≥czki Istv√°n                                                                           |
+05|1|  7| 18|   |Bodn√°r L√°szl√≥                                                                             |
+05|1|  7| 19|   |Czegl√©di S√°ndor                                                                           |
 05|1|  7| 20|   |Nyerges Tibor                                                                             |
-05|1|  7| 21|   |Aros J·nos                                                                                |
-05|1|  7| 22|   |Moln·r J·nos                                                                              |
-05|1|  7| 23|   |V·mos Zolt·n                                                                              |
-05|2|  3|  1|   |T·llai Andr·s                                                                             |
-05|2|  3|  2|   |Szamosvˆlgyi PÈter                                                                        |
-05|2|  3|  3|   |Riz G·bor                                                                                 |
-05|2|  3|  4|   |Moln·r Oszk·r                                                                             |
-05|2|  3|  5|Dr.|Csiba G·bor                                                                               |
-05|2|  3|  6|   |SteinernÈ Vasv·ri …va                                                                     |
-05|2|  3|  7|   |Erdıs Tam·s                                                                               |
-05|2|  3|  8|   |Budai ErzsÈbet                                                                            |
-05|2|  3|  9|   |Farkas FÈlix                                                                              |
-05|2|  4|  1|   |Gy·rf·s IldikÛ                                                                            |
-05|2|  4|  2|   |SzabÛ Gyˆrgy                                                                              |
-05|2|  4|  3|   |KoscsÛ Lajos S·ndor                                                                       |
-05|2|  4|  4|   |Benedek Mih·ly                                                                            |
-05|2|  4|  5|   |Szitka PÈter                                                                              |
-05|2|  4|  6|   |HutkainÈ Nov·k M·rta                                                                      |
-05|2|  4|  7|   |Sztup·k PÈter                                                                             |
-05|2|  4|  8|Dr.|SoÛs Gyızı                                                                                |
-05|2|  4|  9|   |Mih·lyi Helga                                                                             |
-05|2|  4| 10|   |VÈcsi Istv·n                                                                              |
-06|1|  5|  1|   |NÛgr·di Zolt·n                                                                            |
-06|1|  5|  2|   |PetrÛ Ferenc                                                                              |
-06|1|  5|  3|Dr.|Ny·rinÈ Tajti Anna                                                                        |
-06|1|  7|  1|   |Simicz JÛzsef                                                                             |
-06|1|  7|  2|Dr.|Kozma JÛzsef                                                                              |
-06|1|  7|  3|Dr.|Piri JÛzsef                                                                               |
-06|1|  7|  4|Dr.|ZsÛtÈr Istv·n                                                                             |
+05|1|  7| 21|   |Aros J√°nos                                                                                |
+05|1|  7| 22|   |Moln√°r J√°nos                                                                              |
+05|1|  7| 23|   |V√°mos Zolt√°n                                                                              |
+05|2|  3|  1|   |T√°llai Andr√°s                                                                             |
+05|2|  3|  2|   |Szamosv√∂lgyi P√©ter                                                                        |
+05|2|  3|  3|   |Riz G√°bor                                                                                 |
+05|2|  3|  4|   |Moln√°r Oszk√°r                                                                             |
+05|2|  3|  5|Dr.|Csiba G√°bor                                                                               |
+05|2|  3|  6|   |Steinern√© Vasv√°ri √âva                                                                     |
+05|2|  3|  7|   |Erd≈ës Tam√°s                                                                               |
+05|2|  3|  8|   |Budai Erzs√©bet                                                                            |
+05|2|  3|  9|   |Farkas F√©lix                                                                              |
+05|2|  4|  1|   |Gy√°rf√°s Ildik√≥                                                                            |
+05|2|  4|  2|   |Szab√≥ Gy√∂rgy                                                                              |
+05|2|  4|  3|   |Koscs√≥ Lajos S√°ndor                                                                       |
+05|2|  4|  4|   |Benedek Mih√°ly                                                                            |
+05|2|  4|  5|   |Szitka P√©ter                                                                              |
+05|2|  4|  6|   |Hutkain√© Nov√°k M√°rta                                                                      |
+05|2|  4|  7|   |Sztup√°k P√©ter                                                                             |
+05|2|  4|  8|Dr.|So√≥s Gy≈ëz≈ë                                                                                |
+05|2|  4|  9|   |Mih√°lyi Helga                                                                             |
+05|2|  4| 10|   |V√©csi Istv√°n                                                                              |
+06|1|  5|  1|   |N√≥gr√°di Zolt√°n                                                                            |
+06|1|  5|  2|   |Petr√≥ Ferenc                                                                              |
+06|1|  5|  3|Dr.|Ny√°rin√© Tajti Anna                                                                        |
+06|1|  7|  1|   |Simicz J√≥zsef                                                                             |
+06|1|  7|  2|Dr.|Kozma J√≥zsef                                                                              |
+06|1|  7|  3|Dr.|Piri J√≥zsef                                                                               |
+06|1|  7|  4|Dr.|Zs√≥t√©r Istv√°n                                                                             |
 06|1|  7|  5|Dr.|Demeter Attila                                                                            |
-06|1|  7|  6|   |SzaniszlÛ JÛzsef                                                                          |
-06|1|  7|  7|   |Kov·cs S·ndor                                                                             |
-06|1|  7|  8|Dr.|Bertalan Zolt·n                                                                           |
-06|1|  7|  9|   |Magyari L·szlÛ                                                                            |
-06|1| 12|  1|   |BodÛ Imre                                                                                 |
-06|1| 12|  2|   |¡dÛk J·nos                                                                                |
-06|1| 12|  3|   |Cs·nyi L·szlÛ                                                                             |
-06|1| 12|  4|   |S·ndor Attila                                                                             |
-06|1| 12|  5|   |VidovicsnÈ SzabÛ T¸nde                                                                    |
-06|1| 12|  6|   |Csıke Attila                                                                              |
-06|1| 12|  7|Dr.|Gonda J·nos                                                                               |
-06|1| 12|  8|Dr.|B·nfi Tam·s                                                                               |
-06|1| 12|  9|   |Zakar PÈter                                                                               |
-06|1| 12| 10|   |Ozgyin Mih·ly                                                                             |
-06|1| 12| 11|Dr.|Bal·spiri Csaba L·szlÛ                                                                    |
-06|1| 12| 12|   |K·rolyi S·ndor                                                                            |
-06|1| 12| 13|   |Magyar Anna M·ria                                                                         |
+06|1|  7|  6|   |Szaniszl√≥ J√≥zsef                                                                          |
+06|1|  7|  7|   |Kov√°cs S√°ndor                                                                             |
+06|1|  7|  8|Dr.|Bertalan Zolt√°n                                                                           |
+06|1|  7|  9|   |Magyari L√°szl√≥                                                                            |
+06|1| 12|  1|   |Bod√≥ Imre                                                                                 |
+06|1| 12|  2|   |√Åd√≥k J√°nos                                                                                |
+06|1| 12|  3|   |Cs√°nyi L√°szl√≥                                                                             |
+06|1| 12|  4|   |S√°ndor Attila                                                                             |
+06|1| 12|  5|   |Vidovicsn√© Szab√≥ T√ºnde                                                                    |
+06|1| 12|  6|   |Cs≈ëke Attila                                                                              |
+06|1| 12|  7|Dr.|Gonda J√°nos                                                                               |
+06|1| 12|  8|Dr.|B√°nfi Tam√°s                                                                               |
+06|1| 12|  9|   |Zakar P√©ter                                                                               |
+06|1| 12| 10|   |Ozgyin Mih√°ly                                                                             |
+06|1| 12| 11|Dr.|Bal√°spiri Csaba L√°szl√≥                                                                    |
+06|1| 12| 12|   |K√°rolyi S√°ndor                                                                            |
+06|1| 12| 13|   |Magyar Anna M√°ria                                                                         |
 06|2|  4|  1|Dr.|Pap Gabriella                                                                             |
-06|2|  4|  2|   |Halmai L·szlÛ Imre                                                                        |
-06|2|  4|  3|Dr.|Martonosi Gyˆrgy S·ndor                                                                   |
-06|2|  4|  4|Dr.|Kov·cs K·lm·n JÛzsef                                                                      |
-06|2|  4|  5|   |SzabÛ S·ndor JÛzsef                                                                       |
-06|2|  4|  6|   |Kov·cs J·nos                                                                              |
-06|2|  4|  7|   |Gyovai G·sp·r                                                                             |
+06|2|  4|  2|   |Halmai L√°szl√≥ Imre                                                                        |
+06|2|  4|  3|Dr.|Martonosi Gy√∂rgy S√°ndor                                                                   |
+06|2|  4|  4|Dr.|Kov√°cs K√°lm√°n J√≥zsef                                                                      |
+06|2|  4|  5|   |Szab√≥ S√°ndor J√≥zsef                                                                       |
+06|2|  4|  6|   |Kov√°cs J√°nos                                                                              |
+06|2|  4|  7|   |Gyovai G√°sp√°r                                                                             |
 06|2|  6|  1|   |Szirbik Imre                                                                              |
-06|2|  6|  2|Dr.|Buz·s PÈter                                                                               |
-06|2|  6|  3|   |Sz˚cs Lajos F·bi·n                                                                        |
-06|2|  6|  4|   |Gazdag J·nos                                                                              |
-06|2|  6|  5|   |Bedı Tam·s                                                                                |
-06|2|  6|  6|   |Moln·r JÛzsef                                                                             |
-06|2|  6|  7|   |Varga ¡rp·d                                                                               |
-06|2| 11|  1|   |Marosv·ri Attila                                                                          |
+06|2|  6|  2|Dr.|Buz√°s P√©ter                                                                               |
+06|2|  6|  3|   |Sz≈±cs Lajos F√°bi√°n                                                                        |
+06|2|  6|  4|   |Gazdag J√°nos                                                                              |
+06|2|  6|  5|   |Bed≈ë Tam√°s                                                                                |
+06|2|  6|  6|   |Moln√°r J√≥zsef                                                                             |
+06|2|  6|  7|   |Varga √Årp√°d                                                                               |
+06|2| 11|  1|   |Marosv√°ri Attila                                                                          |
 07|1|  1|  1|   |Kossa Lajos                                                                               |
-07|1|  1|  2|   |Macher P·l                                                                                |
-07|1|  3|  1|   |Balsay Istv·n                                                                             |
-07|1|  3|  2|   |Hrabovszky L·szlÛ                                                                         |
-07|1|  3|  3|   |Nagy S·ndor                                                                               |
-07|1|  3|  4|   |Varga G·bor                                                                               |
-07|1|  3|  5|   |BorbÈly Istv·n                                                                            |
+07|1|  1|  2|   |Macher P√°l                                                                                |
+07|1|  3|  1|   |Balsay Istv√°n                                                                             |
+07|1|  3|  2|   |Hrabovszky L√°szl√≥                                                                         |
+07|1|  3|  3|   |Nagy S√°ndor                                                                               |
+07|1|  3|  4|   |Varga G√°bor                                                                               |
+07|1|  3|  5|   |Borb√©ly Istv√°n                                                                            |
 07|1|  3|  6|   |Baricza Andrea                                                                            |
-07|1|  3|  7|   |Simon L·szlÛ                                                                              |
+07|1|  3|  7|   |Simon L√°szl√≥                                                                              |
 07|1|  3|  8|   |Antal Lajos                                                                               |
-07|1|  3|  9|   |Merkatz L·szlÛ                                                                            |
-07|1|  3| 10|   |Balogh Gyˆrgy                                                                             |
-07|1|  3| 11|   |Tessely Zolt·n                                                                            |
+07|1|  3|  9|   |Merkatz L√°szl√≥                                                                            |
+07|1|  3| 10|   |Balogh Gy√∂rgy                                                                             |
+07|1|  3| 11|   |Tessely Zolt√°n                                                                            |
 07|1|  3| 12|   |Pleiser Lajos                                                                             |
-07|1|  3| 13|   |TÛth Erika                                                                                |
-07|1|  3| 14|   |Giesz J·nos                                                                               |
-07|1|  3| 15|   |CsombÛk P·l                                                                               |
-07|1|  3| 16|   |Simon L·szlÛ                                                                              |
-07|1|  3| 17|   |Kiss Istv·n                                                                               |
-07|1|  3| 18|   |M¸ller S·ndor                                                                             |
-07|1|  3| 19|   |Petes JÛzsef                                                                              |
-07|1|  5|  1|   |Schrick Istv·n                                                                            |
-07|1|  5|  2|   |Moln·r Tibor                                                                              |
-07|1|  7|  1|   |SzabÛ G·bor                                                                               |
-07|1|  7|  2|   |Ecsıdi L·szlÛ                                                                             |
+07|1|  3| 13|   |T√≥th Erika                                                                                |
+07|1|  3| 14|   |Giesz J√°nos                                                                               |
+07|1|  3| 15|   |Csomb√≥k P√°l                                                                               |
+07|1|  3| 16|   |Simon L√°szl√≥                                                                              |
+07|1|  3| 17|   |Kiss Istv√°n                                                                               |
+07|1|  3| 18|   |M√ºller S√°ndor                                                                             |
+07|1|  3| 19|   |Petes J√≥zsef                                                                              |
+07|1|  5|  1|   |Schrick Istv√°n                                                                            |
+07|1|  5|  2|   |Moln√°r Tibor                                                                              |
+07|1|  7|  1|   |Szab√≥ G√°bor                                                                               |
+07|1|  7|  2|   |Ecs≈ëdi L√°szl√≥                                                                             |
 07|1|  7|  3|   |Besztercei Zsolt                                                                          |
-07|1|  7|  4|Dr.|Szabadkai Tam·s                                                                           |
-07|1|  7|  5|Dr.|M·rton Roland                                                                             |
-07|1|  7|  6|   |Nagy JÛzsef ÷dˆn                                                                          |
-07|1|  7|  7|   |TÛth ¡rp·dnÈ                                                                              |
-07|1|  7|  8|   |Balogi M·ria …va                                                                          |
-07|1|  7|  9|   |Horv·th Andr·s                                                                            |
-07|1|  7| 10|   |Rohonczi S·ndor                                                                           |
-07|1|  7| 11|   |Kis Gyˆrgy                                                                                |
-07|2|  6|  1|   |Iv·n J·nos                                                                                |
-07|2|  6|  2|   |Szabados Tam·s                                                                            |
-07|2|  6|  3|   |Hetlinger Zolt·n                                                                          |
-07|2|  7|  1|   |GombaszˆginÈ Dr. Balogh Ibolya                                                            |
-07|2|  7|  2|   |Tˆrı G·bor                                                                                |
-07|2|  7|  3|Dr.|Tiborcz PÈter                                                                             |
-08|1|  1|  1|   |SzabÛ MiklÛs                                                                              |
-08|1|  1|  2|   |MecsÈri Lajos                                                                             |
-08|1|  4|  1|Dr.|Moln·r Csaba                                                                              |
-08|1|  4|  2|   |SzÈplaki Tam·s                                                                            |
-08|1|  4|  3|   |HordÛs Istv·n                                                                             |
+07|1|  7|  4|Dr.|Szabadkai Tam√°s                                                                           |
+07|1|  7|  5|Dr.|M√°rton Roland                                                                             |
+07|1|  7|  6|   |Nagy J√≥zsef √ñd√∂n                                                                          |
+07|1|  7|  7|   |T√≥th √Årp√°dn√©                                                                              |
+07|1|  7|  8|   |Balogi M√°ria √âva                                                                          |
+07|1|  7|  9|   |Horv√°th Andr√°s                                                                            |
+07|1|  7| 10|   |Rohonczi S√°ndor                                                                           |
+07|1|  7| 11|   |Kis Gy√∂rgy                                                                                |
+07|2|  6|  1|   |Iv√°n J√°nos                                                                                |
+07|2|  6|  2|   |Szabados Tam√°s                                                                            |
+07|2|  6|  3|   |Hetlinger Zolt√°n                                                                          |
+07|2|  7|  1|   |Gombasz√∂gin√© Dr. Balogh Ibolya                                                            |
+07|2|  7|  2|   |T√∂r≈ë G√°bor                                                                                |
+07|2|  7|  3|Dr.|Tiborcz P√©ter                                                                             |
+08|1|  1|  1|   |Szab√≥ Mikl√≥s                                                                              |
+08|1|  1|  2|   |Mecs√©ri Lajos                                                                             |
+08|1|  4|  1|Dr.|Moln√°r Csaba                                                                              |
+08|1|  4|  2|   |Sz√©plaki Tam√°s                                                                            |
+08|1|  4|  3|   |Hord√≥s Istv√°n                                                                             |
 08|1|  4|  4|   |Aller Imre                                                                                |
-08|1|  4|  5|   |Tam·s LırincnÈ                                                                            |
-08|1|  4|  6|   |Kr·nitz L·szlÛ                                                                            |
-08|1|  4|  7|Dr.|Krisch RÛbert                                                                             |
-08|1|  4|  8|   |SzalainÈ Gl·zer TÌmea                                                                     |
-08|1|  4|  9|   |Bajorfi Tam·s                                                                             |
-08|1|  6|  1|Dr.|Szak·cs Imre                                                                              |
-08|1|  6|  2|   |Firtl M·ty·s                                                                              |
-08|1|  6|  3|   |Kara ¡kos                                                                                 |
-08|1|  6|  4|   |SzÈles S·ndor                                                                             |
-08|1|  6|  5|   |KÛcz·n Zolt·n                                                                             |
-08|1|  6|  6|   |Gyop·ros Alp·r                                                                            |
-08|1|  6|  7|   |Moln·r Rita                                                                               |
-08|1|  6|  8|   |Fenyıh·zi Tibor                                                                           |
-08|1|  6|  9|   |Nagy Istv·n                                                                               |
-08|1|  6| 10|   |NÈmethnÈ F¸lˆp TerÈzia                                                                    |
-08|1|  6| 11|   |MÈri Attila                                                                               |
-08|1|  6| 12|   |Horv·th Ferenc                                                                            |
+08|1|  4|  5|   |Tam√°s L≈ërincn√©                                                                            |
+08|1|  4|  6|   |Kr√°nitz L√°szl√≥                                                                            |
+08|1|  4|  7|Dr.|Krisch R√≥bert                                                                             |
+08|1|  4|  8|   |Szalain√© Gl√°zer T√≠mea                                                                     |
+08|1|  4|  9|   |Bajorfi Tam√°s                                                                             |
+08|1|  6|  1|Dr.|Szak√°cs Imre                                                                              |
+08|1|  6|  2|   |Firtl M√°ty√°s                                                                              |
+08|1|  6|  3|   |Kara √Åkos                                                                                 |
+08|1|  6|  4|   |Sz√©les S√°ndor                                                                             |
+08|1|  6|  5|   |K√≥cz√°n Zolt√°n                                                                             |
+08|1|  6|  6|   |Gyop√°ros Alp√°r                                                                            |
+08|1|  6|  7|   |Moln√°r Rita                                                                               |
+08|1|  6|  8|   |Feny≈ëh√°zi Tibor                                                                           |
+08|1|  6|  9|   |Nagy Istv√°n                                                                               |
+08|1|  6| 10|   |N√©methn√© F√ºl√∂p Ter√©zia                                                                    |
+08|1|  6| 11|   |M√©ri Attila                                                                               |
+08|1|  6| 12|   |Horv√°th Ferenc                                                                            |
 08|1|  6| 13|   |Szalay Imre                                                                               |
-08|1|  6| 15|   |ValiczkÛ Mih·ly                                                                           |
+08|1|  6| 15|   |Valiczk√≥ Mih√°ly                                                                           |
 08|1|  6| 16|   |Magyar Attila                                                                             |
-08|1|  6| 17|   |MajthÈnyi Tam·s                                                                           |
-08|1|  6| 18|   |Gyˆkeres TÌmea                                                                            |
-08|1|  6| 19|   |Bogd·n Piroska                                                                            |
-08|1|  6| 20|Dr.|Turi Gyˆrgy                                                                               |
-08|1|  6| 21|   |Horv·th Tibor                                                                             |
-08|1|  8|  1|Dr.|Medgyasszay L·szlÛ                                                                        |
-08|2|  1|  1|Dr.|Guly·s Zolt·n                                                                             |
-08|2|  1|  2|   |H·mori Gyˆrgy                                                                             |
-08|2|  1|  3|Dr.|Pap J·nos                                                                                 |
-08|2|  1|  4|Dr.|Iv·ncsics J·nos                                                                           |
-08|2|  1|  5|   |Baranyai Tam·s                                                                            |
-08|2|  1|  6|   |K·roli Tibor                                                                              |
-08|2|  3|  1|   |Stipkovits P·l                                                                            |
-08|2|  3|  2|Dr.|Horv·th Ferenc                                                                            |
-08|2|  3|  3|   |Stinner S·ndor                                                                            |
-09|1|  1|  1|   |K·lm·nnÈ SzabÛ Katalin                                                                    |
-09|1|  4|  1|Dr.|Ol·h Lajos                                                                                |
-09|1|  4|  2|Dr.|Forg·cs Barna                                                                             |
-09|1|  4|  3|   |GurzÛ L·szlÛ                                                                              |
-09|1|  4|  4|   |Arany S·ndor                                                                              |
-09|1|  4|  5|   |Csige Tam·s                                                                               |
-09|1|  4|  6|   |Titi …va                                                                                  |
-09|1|  4|  7|   |SzÈcsi Tam·s                                                                              |
+08|1|  6| 17|   |Majth√©nyi Tam√°s                                                                           |
+08|1|  6| 18|   |Gy√∂keres T√≠mea                                                                            |
+08|1|  6| 19|   |Bogd√°n Piroska                                                                            |
+08|1|  6| 20|Dr.|Turi Gy√∂rgy                                                                               |
+08|1|  6| 21|   |Horv√°th Tibor                                                                             |
+08|1|  8|  1|Dr.|Medgyasszay L√°szl√≥                                                                        |
+08|2|  1|  1|Dr.|Guly√°s Zolt√°n                                                                             |
+08|2|  1|  2|   |H√°mori Gy√∂rgy                                                                             |
+08|2|  1|  3|Dr.|Pap J√°nos                                                                                 |
+08|2|  1|  4|Dr.|Iv√°ncsics J√°nos                                                                           |
+08|2|  1|  5|   |Baranyai Tam√°s                                                                            |
+08|2|  1|  6|   |K√°roli Tibor                                                                              |
+08|2|  3|  1|   |Stipkovits P√°l                                                                            |
+08|2|  3|  2|Dr.|Horv√°th Ferenc                                                                            |
+08|2|  3|  3|   |Stinner S√°ndor                                                                            |
+09|1|  1|  1|   |K√°lm√°nn√© Szab√≥ Katalin                                                                    |
+09|1|  4|  1|Dr.|Ol√°h Lajos                                                                                |
+09|1|  4|  2|Dr.|Forg√°cs Barna                                                                             |
+09|1|  4|  3|   |Gurz√≥ L√°szl√≥                                                                              |
+09|1|  4|  4|   |Arany S√°ndor                                                                              |
+09|1|  4|  5|   |Csige Tam√°s                                                                               |
+09|1|  4|  6|   |Titi √âva                                                                                  |
+09|1|  4|  7|   |Sz√©csi Tam√°s                                                                              |
 09|1|  4|  8|   |Moczok Gyula                                                                              |
-09|1| 10|  1|   |R·cz RÛbert                                                                               |
-09|1| 10|  2|   |Tim·r Zolt·n                                                                              |
-09|1| 10|  3|   |MÈnes Andrea                                                                              |
-09|1| 10|  4|   |BerÈnyi Andr·s                                                                            |
-09|1| 10|  5|   |BodÛ S·ndor                                                                               |
-09|1| 10|  6|   |Tasi S·ndor                                                                               |
-09|1| 10|  7|   |TÛth Mih·ly                                                                               |
-09|1| 10|  8|   |Bulcs˙ L·szlÛ                                                                             |
-09|1| 10|  9|   |Bern·th L·szlÛ                                                                            |
-09|1| 10| 10|   |Aba-Horv·th Istv·n                                                                        |
-09|1| 10| 11|   |SzabÛ S·ndor                                                                              |
-09|1| 10| 12|   |Jantyik Zsolt Istv·n                                                                      |
-09|1| 10| 13|Dr.|L·z·r Imre                                                                                |
-09|1| 10| 14|   |Kov·cs MiklÛsnÈ                                                                           |
-09|1| 10| 15|   |Gyıri Bal·zs                                                                              |
-09|2|  2|  1|   |ArnÛth S·ndor                                                                             |
-09|2|  2|  2|Dr.|Tiba Istv·n                                                                               |
-09|2|  2|  3|   |Kocsis RÛbert                                                                             |
-09|2|  2|  4|   |Kov·cs Zolt·n                                                                             |
-09|2|  2|  5|   |M·thÈ Attila Gyula                                                                        |
-09|2|  2|  6|   |Post·nÈ KecskÈs Ilona                                                                     |
-09|2|  2|  7|   |BuczkÛ JÛzsef                                                                             |
-09|2|  2|  8|   |Kiss S·ndor M·ty·s                                                                        |
-09|2|  4|  1|   |KathinÈ Juh·sz IldikÛ                                                                     |
-09|2|  6|  1|   |Gadus Istv·n J·nos                                                                        |
-09|2|  7|  1|Dr.|Moln·r L·szlÛ                                                                             |
-09|2|  7|  2|   |KˆvÈr MÛnika                                                                              |
-09|2|  7|  3|   |P·ntya Gyˆrgy                                                                             |
-09|2|  7|  4|   |KırˆsinÈ BÛdi Judit                                                                       |
-09|2|  7|  5|   |Csige JÛzsef                                                                              |
+09|1| 10|  1|   |R√°cz R√≥bert                                                                               |
+09|1| 10|  2|   |Tim√°r Zolt√°n                                                                              |
+09|1| 10|  3|   |M√©nes Andrea                                                                              |
+09|1| 10|  4|   |Ber√©nyi Andr√°s                                                                            |
+09|1| 10|  5|   |Bod√≥ S√°ndor                                                                               |
+09|1| 10|  6|   |Tasi S√°ndor                                                                               |
+09|1| 10|  7|   |T√≥th Mih√°ly                                                                               |
+09|1| 10|  8|   |Bulcs√∫ L√°szl√≥                                                                             |
+09|1| 10|  9|   |Bern√°th L√°szl√≥                                                                            |
+09|1| 10| 10|   |Aba-Horv√°th Istv√°n                                                                        |
+09|1| 10| 11|   |Szab√≥ S√°ndor                                                                              |
+09|1| 10| 12|   |Jantyik Zsolt Istv√°n                                                                      |
+09|1| 10| 13|Dr.|L√°z√°r Imre                                                                                |
+09|1| 10| 14|   |Kov√°cs Mikl√≥sn√©                                                                           |
+09|1| 10| 15|   |Gy≈ëri Bal√°zs                                                                              |
+09|2|  2|  1|   |Arn√≥th S√°ndor                                                                             |
+09|2|  2|  2|Dr.|Tiba Istv√°n                                                                               |
+09|2|  2|  3|   |Kocsis R√≥bert                                                                             |
+09|2|  2|  4|   |Kov√°cs Zolt√°n                                                                             |
+09|2|  2|  5|   |M√°th√© Attila Gyula                                                                        |
+09|2|  2|  6|   |Post√°n√© Kecsk√©s Ilona                                                                     |
+09|2|  2|  7|   |Buczk√≥ J√≥zsef                                                                             |
+09|2|  2|  8|   |Kiss S√°ndor M√°ty√°s                                                                        |
+09|2|  4|  1|   |Kathin√© Juh√°sz Ildik√≥                                                                     |
+09|2|  6|  1|   |Gadus Istv√°n J√°nos                                                                        |
+09|2|  7|  1|Dr.|Moln√°r L√°szl√≥                                                                             |
+09|2|  7|  2|   |K√∂v√©r M√≥nika                                                                              |
+09|2|  7|  3|   |P√°ntya Gy√∂rgy                                                                             |
+09|2|  7|  4|   |K≈ër√∂sin√© B√≥di Judit                                                                       |
+09|2|  7|  5|   |Csige J√≥zsef                                                                              |
 09|2|  9|  1|   |Makay Zsolt                                                                               |
-10|1|  4|  1|   |SÛs Tam·s                                                                                 |
-10|1|  4|  2|Dr.|FehÈr Oszk·r                                                                              |
-10|1|  4|  3|   |SzabÛ Gyula                                                                               |
-10|1|  4|  4|   |TÛbi J·nos                                                                                |
-10|1|  4|  5|   |S·rosi K·roly                                                                             |
-10|1|  4|  6|   |B·tka L·szlÛ                                                                              |
-10|1|  4|  7|   |Hud·k Tam·s                                                                               |
-10|1|  4|  8|Dr.|LÈn·rt Andr·s                                                                             |
-10|1|  4|  9|   |Hangr·d Lajos                                                                             |
-10|1|  4| 10|   |Sasi K·rolynÈ                                                                             |
-10|1|  4| 11|   |Buda S·ndornÈ                                                                             |
-10|1|  4| 12|   |Beer FerencnÈ                                                                             |
-10|1|  4| 13|   |Vince J·nos                                                                               |
-10|1|  4| 14|   |Fekete L·szlÛ                                                                             |
-10|1|  6|  1|   |Herman Istv·n                                                                             |
-10|1|  6|  2|   |Asztalos DezsınÈ                                                                          |
-10|1|  6|  3|   |Tˆrˆk Margit                                                                              |
-10|1|  6|  4|   |Bal·zs JÛzsef                                                                             |
-10|1|  6|  5|   |Ambrus Zolt·n                                                                             |
-10|1|  6|  6|Dr.|Tat·r L·szlÛ                                                                              |
-10|1|  6|  7|   |Tuza G·bor                                                                                |
-10|1|  6|  8|   |LaminÈ Antal …va                                                                          |
-10|1|  6|  9|   |Kov·cs JÛzsef                                                                             |
+10|1|  4|  1|   |S√≥s Tam√°s                                                                                 |
+10|1|  4|  2|Dr.|Feh√©r Oszk√°r                                                                              |
+10|1|  4|  3|   |Szab√≥ Gyula                                                                               |
+10|1|  4|  4|   |T√≥bi J√°nos                                                                                |
+10|1|  4|  5|   |S√°rosi K√°roly                                                                             |
+10|1|  4|  6|   |B√°tka L√°szl√≥                                                                              |
+10|1|  4|  7|   |Hud√°k Tam√°s                                                                               |
+10|1|  4|  8|Dr.|L√©n√°rt Andr√°s                                                                             |
+10|1|  4|  9|   |Hangr√°d Lajos                                                                             |
+10|1|  4| 10|   |Sasi K√°rolyn√©                                                                             |
+10|1|  4| 11|   |Buda S√°ndorn√©                                                                             |
+10|1|  4| 12|   |Beer Ferencn√©                                                                             |
+10|1|  4| 13|   |Vince J√°nos                                                                               |
+10|1|  4| 14|   |Fekete L√°szl√≥                                                                             |
+10|1|  6|  1|   |Herman Istv√°n                                                                             |
+10|1|  6|  2|   |Asztalos Dezs≈ën√©                                                                          |
+10|1|  6|  3|   |T√∂r√∂k Margit                                                                              |
+10|1|  6|  4|   |Bal√°zs J√≥zsef                                                                             |
+10|1|  6|  5|   |Ambrus Zolt√°n                                                                             |
+10|1|  6|  6|Dr.|Tat√°r L√°szl√≥                                                                              |
+10|1|  6|  7|   |Tuza G√°bor                                                                                |
+10|1|  6|  8|   |Lamin√© Antal √âva                                                                          |
+10|1|  6|  9|   |Kov√°cs J√≥zsef                                                                             |
 10|1|  6| 10|   |Karsai Ferenc                                                                             |
-10|1|  6| 11|   |Barna L·szlÛ                                                                              |
+10|1|  6| 11|   |Barna L√°szl√≥                                                                              |
 10|1|  6| 12|   |Ferencz Ervin                                                                             |
-10|1|  6| 13|   |Danyi S·ndor                                                                              |
-10|1|  6| 14|   |KÛm·r JÛzsef                                                                              |
-10|1|  6| 15|   |FÛtos D·niel                                                                              |
-10|1|  6| 16|   |VerebÈlyi Gyˆrgy                                                                          |
-10|2|  1|  1|   |Merczel JÛzsef                                                                            |
-10|2|  1|  2|   |Hiesz Gyˆrgy                                                                              |
+10|1|  6| 13|   |Danyi S√°ndor                                                                              |
+10|1|  6| 14|   |K√≥m√°r J√≥zsef                                                                              |
+10|1|  6| 15|   |F√≥tos D√°niel                                                                              |
+10|1|  6| 16|   |Vereb√©lyi Gy√∂rgy                                                                          |
+10|2|  1|  1|   |Merczel J√≥zsef                                                                            |
+10|2|  1|  2|   |Hiesz Gy√∂rgy                                                                              |
 10|2|  1|  3|   |Kontra Gyula                                                                              |
-10|2|  1|  4|   |Barab·snÈ Czˆvek ¡gnes                                                                    |
+10|2|  1|  4|   |Barab√°sn√© Cz√∂vek √Ågnes                                                                    |
 10|2|  1|  5|   |Szombati Lajos                                                                            |
-10|2|  1|  6|   |Oroszl·n LajosnÈ                                                                          |
-10|2|  8|  1|   |Cs·ki Zsigmond                                                                            |
-10|2|  8|  2|   |Tuz·nÈ Dr. Tak·cs Zsuzsanna                                                               |
-10|2|  8|  3|   |SzabÛ ¡d·m                                                                                |
-10|2|  8|  4|   |DeÈ Andr·s                                                                                |
-11|1|  1|  1|   |FejÈr Andor                                                                               |
-11|1|  1|  2|   |Kiss J·nos                                                                                |
-11|1|  1|  3|   |Boldog Istv·n                                                                             |
-11|1|  1|  4|   |RÛzsa Lajos                                                                               |
-11|1|  1|  5|Dr.|Wirth Istv·n                                                                              |
-11|1|  1|  6|   |Farkas Andr·s Andor                                                                       |
-11|1|  1|  7|   |Vadas S·ndor                                                                              |
-11|1|  1|  8|   |Krokavecz L·szlÛ                                                                          |
-11|1|  1|  9|   |S·gi Istv·n                                                                               |
-11|1|  1| 10|   |SebestyÈn Ferenc                                                                          |
-11|1|  1| 11|   |SzabÛ L·szlÛ                                                                              |
-11|1|  1| 12|   |Fˆldv·rinÈ Greiz ¡gnes                                                                    |
-11|1|  2|  1|   |TokajinÈ Demecs Katalin                                                                   |
-11|1|  2|  2|   |LÛczi MiklÛs                                                                              |
-11|1|  2|  3|   |SzabÛ Zsigmond                                                                            |
-11|1|  2|  4|   |Katona JÛzsef                                                                             |
-11|1|  2|  5|Dr.|Jernei Zolt·n                                                                             |
-11|1|  2|  6|   |Elek S·ndor                                                                               |
-11|1|  2|  7|   |K·ntornÈ BirÛ EmÌlia                                                                      |
-11|1|  2|  8|   |Urb·n Csaba                                                                               |
-11|1|  6|  1|Dr.|Czuczi Mih·ly                                                                             |
-11|1| 10|  1|   |Bord·s Imre                                                                               |
-11|2|  1|  1|   |Petrony·k L·szlÛ                                                                          |
-11|2|  2|  1|   |Tok·r Istv·n                                                                              |
+10|2|  1|  6|   |Oroszl√°n Lajosn√©                                                                          |
+10|2|  8|  1|   |Cs√°ki Zsigmond                                                                            |
+10|2|  8|  2|   |Tuz√°n√© Dr. Tak√°cs Zsuzsanna                                                               |
+10|2|  8|  3|   |Szab√≥ √Åd√°m                                                                                |
+10|2|  8|  4|   |De√© Andr√°s                                                                                |
+11|1|  1|  1|   |Fej√©r Andor                                                                               |
+11|1|  1|  2|   |Kiss J√°nos                                                                                |
+11|1|  1|  3|   |Boldog Istv√°n                                                                             |
+11|1|  1|  4|   |R√≥zsa Lajos                                                                               |
+11|1|  1|  5|Dr.|Wirth Istv√°n                                                                              |
+11|1|  1|  6|   |Farkas Andr√°s Andor                                                                       |
+11|1|  1|  7|   |Vadas S√°ndor                                                                              |
+11|1|  1|  8|   |Krokavecz L√°szl√≥                                                                          |
+11|1|  1|  9|   |S√°gi Istv√°n                                                                               |
+11|1|  1| 10|   |Sebesty√©n Ferenc                                                                          |
+11|1|  1| 11|   |Szab√≥ L√°szl√≥                                                                              |
+11|1|  1| 12|   |F√∂ldv√°rin√© Greiz √Ågnes                                                                    |
+11|1|  2|  1|   |Tokajin√© Demecs Katalin                                                                   |
+11|1|  2|  2|   |L√≥czi Mikl√≥s                                                                              |
+11|1|  2|  3|   |Szab√≥ Zsigmond                                                                            |
+11|1|  2|  4|   |Katona J√≥zsef                                                                             |
+11|1|  2|  5|Dr.|Jernei Zolt√°n                                                                             |
+11|1|  2|  6|   |Elek S√°ndor                                                                               |
+11|1|  2|  7|   |K√°ntorn√© Bir√≥ Em√≠lia                                                                      |
+11|1|  2|  8|   |Urb√°n Csaba                                                                               |
+11|1|  6|  1|Dr.|Czuczi Mih√°ly                                                                             |
+11|1| 10|  1|   |Bord√°s Imre                                                                               |
+11|2|  1|  1|   |Petrony√°k L√°szl√≥                                                                          |
+11|2|  2|  1|   |Tok√°r Istv√°n                                                                              |
 11|2|  2|  2|   |Zachar Ferenc                                                                             |
-11|2|  2|  3|   |Buz·s S·ndor                                                                              |
-11|2|  2|  4|   |Balogh BÈla Tibor                                                                         |
-11|2|  2|  5|   |Guly·s Adrienn                                                                            |
+11|2|  2|  3|   |Buz√°s S√°ndor                                                                              |
+11|2|  2|  4|   |Balogh B√©la Tibor                                                                         |
+11|2|  2|  5|   |Guly√°s Adrienn                                                                            |
 11|2|  2|  6|   |Rente Ferenc                                                                              |
 11|2|  3|  1|Dr.|Magyar Levente                                                                            |
-11|2|  4|  1|Dr.|Fazekas S·ndor                                                                            |
-11|2|  4|  2|Dr.|Juh·sz Enikı                                                                              |
-11|2|  4|  3|   |Sz·dv·ri G·bor                                                                            |
-11|2|  4|  4|   |Dobos L·szlÛ                                                                              |
-11|2|  4|  5|   |B˙si Lajos                                                                                |
-11|2|  4|  6|   |SzÛr·d RÛbert                                                                             |
-11|2|  4|  7|   |Vida Tam·s                                                                                |
-11|2|  4|  8|   |Barcza G·bor                                                                              |
-11|2|  4|  9|   |Moln·r Imre                                                                               |
-11|2|  4| 10|   |Sz˚cs Lajos                                                                               |
-12|1|  4|  1|   |AgÛcs Istv·n                                                                              |
-12|1|  4|  2|   |Schiller-KertÈsz Tam·s                                                                    |
+11|2|  4|  1|Dr.|Fazekas S√°ndor                                                                            |
+11|2|  4|  2|Dr.|Juh√°sz Enik≈ë                                                                              |
+11|2|  4|  3|   |Sz√°dv√°ri G√°bor                                                                            |
+11|2|  4|  4|   |Dobos L√°szl√≥                                                                              |
+11|2|  4|  5|   |B√∫si Lajos                                                                                |
+11|2|  4|  6|   |Sz√≥r√°d R√≥bert                                                                             |
+11|2|  4|  7|   |Vida Tam√°s                                                                                |
+11|2|  4|  8|   |Barcza G√°bor                                                                              |
+11|2|  4|  9|   |Moln√°r Imre                                                                               |
+11|2|  4| 10|   |Sz≈±cs Lajos                                                                               |
+12|1|  4|  1|   |Ag√≥cs Istv√°n                                                                              |
+12|1|  4|  2|   |Schiller-Kert√©sz Tam√°s                                                                    |
 12|1|  4|  3|   |Kerekes Tibor                                                                             |
-12|1|  4|  4|   |Talabira J·nosnÈ                                                                          |
+12|1|  4|  4|   |Talabira J√°nosn√©                                                                          |
 12|1|  4|  5|Dr.|Bozori Endre                                                                              |
-12|1|  4|  6|   |SzaniszlÛ Zolt·n                                                                          |
+12|1|  4|  6|   |Szaniszl√≥ Zolt√°n                                                                          |
 12|1|  4|  7|Dr.|Konczer Erik                                                                              |
-12|1|  4|  8|   |Vasas Mih·ly                                                                              |
-12|1|  7|  1|   |L·z·r MÛzes                                                                               |
-12|1|  7|  2|Dr.|Vˆlner P·l                                                                                |
-12|1|  7|  3|   |SzarvasnÈ Dr. Udvardi ErzsÈbet                                                            |
-12|1|  7|  4|   |Ruchti RÛbert                                                                             |
-12|1|  7|  5|   |SztanyÛ Imre                                                                              |
-12|1|  7|  6|   |P·lmai JÛzsef                                                                             |
-12|1|  7|  7|   |Simon GÈza                                                                                |
+12|1|  4|  8|   |Vasas Mih√°ly                                                                              |
+12|1|  7|  1|   |L√°z√°r M√≥zes                                                                               |
+12|1|  7|  2|Dr.|V√∂lner P√°l                                                                                |
+12|1|  7|  3|   |Szarvasn√© Dr. Udvardi Erzs√©bet                                                            |
+12|1|  7|  4|   |Ruchti R√≥bert                                                                             |
+12|1|  7|  5|   |Sztany√≥ Imre                                                                              |
+12|1|  7|  6|   |P√°lmai J√≥zsef                                                                             |
+12|1|  7|  7|   |Simon G√©za                                                                                |
 12|1|  7|  8|   |Szenes Lajos                                                                              |
-12|1|  7|  9|Dr.|Hidas J·nos                                                                               |
-12|1|  7| 10|   |Rohonczi L·szlÛ                                                                           |
-12|1|  7| 11|   |TÛth Gyızı                                                                                |
-12|1|  7| 12|Dr.|Borb·s Zolt·n                                                                             |
-12|1|  9|  1|   |MaszlavÈr Istv·n                                                                          |
+12|1|  7|  9|Dr.|Hidas J√°nos                                                                               |
+12|1|  7| 10|   |Rohonczi L√°szl√≥                                                                           |
+12|1|  7| 11|   |T√≥th Gy≈ëz≈ë                                                                                |
+12|1|  7| 12|Dr.|Borb√°s Zolt√°n                                                                             |
+12|1|  9|  1|   |Maszlav√©r Istv√°n                                                                          |
 12|1|  9|  2|   |Schunder Tibor                                                                            |
-12|2|  2|  1|Dr.|JÛn·s L·szlÛ                                                                              |
+12|2|  2|  1|Dr.|J√≥n√°s L√°szl√≥                                                                              |
 12|2|  7|  1|   |Kerti Katalin                                                                             |
-12|2|  8|  1|   |SzÈkely Antal                                                                             |
-12|2|  8|  2|   |S·rkˆzi Krisztina                                                                         |
-12|2|  8|  3|   |Baranyai Lırinc                                                                           |
-12|2|  8|  4|   |Gyıri Istv·n                                                                              |
-12|2|  8|  5|   |Papp K·roly                                                                               |
-12|2|  8|  6|Dr.|MÈsz·ros Gyula                                                                            |
-12|2|  8|  7|   |B·rsony L·szlÛ                                                                            |
-12|2| 11|  1|   |Michl JÛzsef                                                                              |
-12|2| 11|  2|Dr.|Moln·r Attila                                                                             |
+12|2|  8|  1|   |Sz√©kely Antal                                                                             |
+12|2|  8|  2|   |S√°rk√∂zi Krisztina                                                                         |
+12|2|  8|  3|   |Baranyai L≈ërinc                                                                           |
+12|2|  8|  4|   |Gy≈ëri Istv√°n                                                                              |
+12|2|  8|  5|   |Papp K√°roly                                                                               |
+12|2|  8|  6|Dr.|M√©sz√°ros Gyula                                                                            |
+12|2|  8|  7|   |B√°rsony L√°szl√≥                                                                            |
+12|2| 11|  1|   |Michl J√≥zsef                                                                              |
+12|2| 11|  2|Dr.|Moln√°r Attila                                                                             |
 12|2| 11|  3|   |Sipos Imre                                                                                |
-12|2| 11|  4|   |Turi B·lint                                                                               |
-12|2| 11|  5|   |Popovics Gyˆrgy                                                                           |
-12|2| 11|  6|Dr.|Balogh Zolt·n L·szlÛ                                                                      |
-12|2| 11|  7|Dr.|Laky Zolt·n                                                                               |
-12|2| 11|  8|   |S·rfy PÈter                                                                               |
-12|2| 11|  9|   |Kov·cs Attila                                                                             |
-13|1|  2|  1|   |Moln·r Katalin                                                                            |
-13|1|  2|  2|   |Moln·r Zolt·n                                                                             |
+12|2| 11|  4|   |Turi B√°lint                                                                               |
+12|2| 11|  5|   |Popovics Gy√∂rgy                                                                           |
+12|2| 11|  6|Dr.|Balogh Zolt√°n L√°szl√≥                                                                      |
+12|2| 11|  7|Dr.|Laky Zolt√°n                                                                               |
+12|2| 11|  8|   |S√°rfy P√©ter                                                                               |
+12|2| 11|  9|   |Kov√°cs Attila                                                                             |
+13|1|  2|  1|   |Moln√°r Katalin                                                                            |
+13|1|  2|  2|   |Moln√°r Zolt√°n                                                                             |
 13|1|  2|  3|   |Borenszki Ervin                                                                           |
-13|1|  2|  4|   |Reviczki L·szlÛ                                                                           |
-13|1|  2|  5|   |ZsÈdely Lajos                                                                             |
-13|1|  2|  6|   |Babj·k Andrea                                                                             |
-13|1|  2|  7|   |SajgÛ Ferenc                                                                              |
+13|1|  2|  4|   |Reviczki L√°szl√≥                                                                           |
+13|1|  2|  5|   |Zs√©dely Lajos                                                                             |
+13|1|  2|  6|   |Babj√°k Andrea                                                                             |
+13|1|  2|  7|   |Sajg√≥ Ferenc                                                                              |
 13|1|  2|  8|   |Nagy Attila                                                                               |
-13|1|  2|  9|Dr.|Egyed Ferdin·nd                                                                           |
-13|1|  2| 10|   |Beck P·l JÛzsef                                                                           |
-13|1|  2| 11|Dr.|Rozgonyi JÛzsef                                                                           |
-13|1|  3|  1|   |BecsÛ Zsolt                                                                               |
-13|1|  3|  2|   |Varga BÈla                                                                                |
-13|1|  3|  3|   |Barna J·nos                                                                               |
-13|1|  3|  4|   |Kov·cs G·bor                                                                              |
-13|1|  3|  5|   |Kriston PÈter                                                                             |
-13|1|  3|  6|   |Szandai JÛzsef                                                                            |
-13|1|  3|  7|   |Skuczi N·ndor                                                                             |
+13|1|  2|  9|Dr.|Egyed Ferdin√°nd                                                                           |
+13|1|  2| 10|   |Beck P√°l J√≥zsef                                                                           |
+13|1|  2| 11|Dr.|Rozgonyi J√≥zsef                                                                           |
+13|1|  3|  1|   |Becs√≥ Zsolt                                                                               |
+13|1|  3|  2|   |Varga B√©la                                                                                |
+13|1|  3|  3|   |Barna J√°nos                                                                               |
+13|1|  3|  4|   |Kov√°cs G√°bor                                                                              |
+13|1|  3|  5|   |Kriston P√©ter                                                                             |
+13|1|  3|  6|   |Szandai J√≥zsef                                                                            |
+13|1|  3|  7|   |Skuczi N√°ndor                                                                             |
 13|1|  3|  8|   |Velenczei Norbert                                                                         |
 13|1|  3|  9|   |Varga Krisztina                                                                           |
 13|1|  3| 10|   |Percsina Norbert                                                                          |
 13|1|  3| 11|   |Kolosi Tibor                                                                              |
-13|1|  3| 12|   |KıszeginÈ K·rp·ti MÛnika                                                                  |
-13|1|  3| 13|   |Dud·s Vilmos                                                                              |
-13|1|  3| 14|   |SzabÛ Csaba                                                                               |
-13|1|  3| 15|   |JÛn·s G·bor                                                                               |
-13|1|  3| 16|   |BÌrÛ M·rk                                                                                 |
+13|1|  3| 12|   |K≈ëszegin√© K√°rp√°ti M√≥nika                                                                  |
+13|1|  3| 13|   |Dud√°s Vilmos                                                                              |
+13|1|  3| 14|   |Szab√≥ Csaba                                                                               |
+13|1|  3| 15|   |J√≥n√°s G√°bor                                                                               |
+13|1|  3| 16|   |B√≠r√≥ M√°rk                                                                                 |
 13|1|  3| 17|   |Tisza Attila                                                                              |
-13|1|  5|  1|   |Sis·k Imre J·nos                                                                          |
-13|1|  5|  2|   |Tomka Istv·n                                                                              |
-13|2|  1|  1|Dr.|Bal·zs OttÛ                                                                               |
-13|2|  1|  2|   |L·tkÛczki B·lint                                                                          |
-13|2|  1|  3|   |Kov·cs G·bor                                                                              |
-13|2|  1|  4|   |Bal·zs P·l                                                                                |
-13|2|  1|  5|   |Vajda J˙lia                                                                               |
-13|2|  8|  1|   |Csach G·bor                                                                               |
-13|2|  8|  2|   |Horv·th Tibor                                                                             |
-13|2|  8|  3|   |Fazekas J·nos                                                                             |
+13|1|  5|  1|   |Sis√°k Imre J√°nos                                                                          |
+13|1|  5|  2|   |Tomka Istv√°n                                                                              |
+13|2|  1|  1|Dr.|Bal√°zs Ott√≥                                                                               |
+13|2|  1|  2|   |L√°tk√≥czki B√°lint                                                                          |
+13|2|  1|  3|   |Kov√°cs G√°bor                                                                              |
+13|2|  1|  4|   |Bal√°zs P√°l                                                                                |
+13|2|  1|  5|   |Vajda J√∫lia                                                                               |
+13|2|  8|  1|   |Csach G√°bor                                                                               |
+13|2|  8|  2|   |Horv√°th Tibor                                                                             |
+13|2|  8|  3|   |Fazekas J√°nos                                                                             |
 13|2|  8|  4|   |Melo Ferenc                                                                               |
-13|2|  8|  5|   |Lenkey G·bor                                                                              |
-14|1|  2|  1|   |Bukovszky Istv·n                                                                          |
-14|1|  2|  2|   |Zsad·nyi L·szlÛnÈ                                                                         |
-14|1|  2|  3|   |Kˆrˆsfıi L·szlÛ Alad·r                                                                    |
-14|1|  2|  4|   |Kov·cs Istv·n                                                                             |
-14|1|  2|  5|Dr.|Samu J·nos                                                                                |
-14|1|  2|  6|   |K·rp·ti Zsuzsanna                                                                         |
-14|1|  2|  7|   |Sz·szik K·roly                                                                            |
-14|1|  2|  8|   |Kov·cs L·szlÛ                                                                             |
-14|1|  2|  9|   |P·link·s Szilvia                                                                          |
-14|1|  2| 10|   |Moln·r Tibor                                                                              |
-14|1|  2| 11|Dr.|Lakos L·szlÛ                                                                              |
+13|2|  8|  5|   |Lenkey G√°bor                                                                              |
+14|1|  2|  1|   |Bukovszky Istv√°n                                                                          |
+14|1|  2|  2|   |Zsad√°nyi L√°szl√≥n√©                                                                         |
+14|1|  2|  3|   |K√∂r√∂sf≈ëi L√°szl√≥ Alad√°r                                                                    |
+14|1|  2|  4|   |Kov√°cs Istv√°n                                                                             |
+14|1|  2|  5|Dr.|Samu J√°nos                                                                                |
+14|1|  2|  6|   |K√°rp√°ti Zsuzsanna                                                                         |
+14|1|  2|  7|   |Sz√°szik K√°roly                                                                            |
+14|1|  2|  8|   |Kov√°cs L√°szl√≥                                                                             |
+14|1|  2|  9|   |P√°link√°s Szilvia                                                                          |
+14|1|  2| 10|   |Moln√°r Tibor                                                                              |
+14|1|  2| 11|Dr.|Lakos L√°szl√≥                                                                              |
 14|1|  2| 12|   |Sass Szabolcs                                                                             |
-14|1|  2| 13|   |Papp ¡kos Zolt·n                                                                          |
-14|1|  3|  1|Dr.|Cs·ky Andr·s                                                                              |
-14|1|  3|  2|   |Horv·th Istv·n Attila                                                                     |
-14|1|  4|  1|   |Sz˚cs Lajos                                                                               |
+14|1|  2| 13|   |Papp √Åkos Zolt√°n                                                                          |
+14|1|  3|  1|Dr.|Cs√°ky Andr√°s                                                                              |
+14|1|  3|  2|   |Horv√°th Istv√°n Attila                                                                     |
+14|1|  4|  1|   |Sz≈±cs Lajos                                                                               |
 14|1|  4|  2|   |Wentzel Ferenc                                                                            |
-14|1|  4|  3|   |Edelman Gyˆrgy                                                                            |
-14|1|  4|  4|   |Obrecz·n Ferenc                                                                           |
-14|1|  4|  5|   |Szerenka Tibor JÛzsef                                                                     |
+14|1|  4|  3|   |Edelman Gy√∂rgy                                                                            |
+14|1|  4|  4|   |Obrecz√°n Ferenc                                                                           |
+14|1|  4|  5|   |Szerenka Tibor J√≥zsef                                                                     |
 14|1|  4|  6|   |Bazan Tibor                                                                               |
-14|1|  4|  7|   |Bodn·r Andr·s                                                                             |
-14|1|  4|  8|   |LÈgr·di Tibor                                                                             |
-14|1|  4|  9|   |Szent-Iv·nyi GÈza                                                                         |
-14|1|  4| 10|   |TÛth J·nos                                                                                |
-14|1|  4| 11|   |Sinkovicz L·szlÛ Zolt·n                                                                   |
-14|1|  4| 12|   |Vicsi L·szlÛ                                                                              |
-14|1|  4| 13|   |GazdiknÈ Kasa Csilla                                                                      |
-14|1|  4| 14|   |GÛdor Andr·s                                                                              |
-14|1|  4| 15|   |Tˆrˆk Istv·n                                                                              |
-14|1|  4| 16|   |Radics Ernı                                                                               |
-14|1|  4| 17|   |EdˆcsÈny Andr·s L·szlÛ                                                                    |
+14|1|  4|  7|   |Bodn√°r Andr√°s                                                                             |
+14|1|  4|  8|   |L√©gr√°di Tibor                                                                             |
+14|1|  4|  9|   |Szent-Iv√°nyi G√©za                                                                         |
+14|1|  4| 10|   |T√≥th J√°nos                                                                                |
+14|1|  4| 11|   |Sinkovicz L√°szl√≥ Zolt√°n                                                                   |
+14|1|  4| 12|   |Vicsi L√°szl√≥                                                                              |
+14|1|  4| 13|   |Gazdikn√© Kasa Csilla                                                                      |
+14|1|  4| 14|   |G√≥dor Andr√°s                                                                              |
+14|1|  4| 15|   |T√∂r√∂k Istv√°n                                                                              |
+14|1|  4| 16|   |Radics Ern≈ë                                                                               |
+14|1|  4| 17|   |Ed√∂cs√©ny Andr√°s L√°szl√≥                                                                    |
 14|1|  4| 18|   |Manger Henrik                                                                             |
-14|1|  4| 19|   |Kun Szil·rd                                                                               |
-14|1|  4| 20|   |D·vid L·szlÛ                                                                              |
-14|1|  4| 21|   |Horv·th Tam·s Ferenc                                                                      |
-14|1|  8|  1|   |GrÛsznÈ Krupp ErzsÈbet M·ria                                                              |
-14|1|  8|  2|   |Tolnai J·nosnÈ                                                                            |
-14|2|  1|  1|   |Guly·s JÛzsef                                                                             |
-14|2|  1|  2|   |Wittinghoff Tam·s                                                                         |
-14|2|  1|  3|   |Bodrogi GyˆrgynÈ                                                                          |
-14|2|  4|  1|   |SzabÛ Imre                                                                                |
-14|2|  4|  2|   |VÈgh Tibor                                                                                |
-14|2|  4|  3|   |F·bry BÈla                                                                                |
-14|2|  4|  4|   |SzabÛ Attila                                                                              |
-14|2|  4|  5|   |G·ldi Gyˆrgy                                                                              |
-14|2|  4|  6|   |Varga Jenı                                                                                |
-14|2|  4|  7|   |FehÈr Istv·n                                                                              |
-14|2|  4|  8|   |Kov·cs Barnab·s                                                                           |
-14|2|  4|  9|   |L·szlÛ Ferenc                                                                             |
-14|2|  4| 10|   |PÛczik Anita                                                                              |
+14|1|  4| 19|   |Kun Szil√°rd                                                                               |
+14|1|  4| 20|   |D√°vid L√°szl√≥                                                                              |
+14|1|  4| 21|   |Horv√°th Tam√°s Ferenc                                                                      |
+14|1|  8|  1|   |Gr√≥szn√© Krupp Erzs√©bet M√°ria                                                              |
+14|1|  8|  2|   |Tolnai J√°nosn√©                                                                            |
+14|2|  1|  1|   |Guly√°s J√≥zsef                                                                             |
+14|2|  1|  2|   |Wittinghoff Tam√°s                                                                         |
+14|2|  1|  3|   |Bodrogi Gy√∂rgyn√©                                                                          |
+14|2|  4|  1|   |Szab√≥ Imre                                                                                |
+14|2|  4|  2|   |V√©gh Tibor                                                                                |
+14|2|  4|  3|   |F√°bry B√©la                                                                                |
+14|2|  4|  4|   |Szab√≥ Attila                                                                              |
+14|2|  4|  5|   |G√°ldi Gy√∂rgy                                                                              |
+14|2|  4|  6|   |Varga Jen≈ë                                                                                |
+14|2|  4|  7|   |Feh√©r Istv√°n                                                                              |
+14|2|  4|  8|   |Kov√°cs Barnab√°s                                                                           |
+14|2|  4|  9|   |L√°szl√≥ Ferenc                                                                             |
+14|2|  4| 10|   |P√≥czik Anita                                                                              |
 14|2|  4| 11|   |Radics Imre                                                                               |
-14|2|  4| 12|Dr.|Kisfalvi PÈter Tibor                                                                      |
-14|2|  4| 13|   |Vaizer Zsigmond GÈza                                                                      |
-14|2|  4| 14|   |Mezei Tibor K·roly                                                                        |
-14|2|  4| 15|   |Szil·gyi Zolt·n                                                                           |
-14|2|  7|  1|Dr.|Boross PÈter Gyˆrgy                                                                       |
-14|2|  7|  2|Dr.|Dragon P·l                                                                                |
-14|2|  8|  1|   |Pog·cs·s Tibor J·nos                                                                      |
-14|2|  8|  2|   |Hoffman P·l                                                                               |
-14|2|  8|  3|   |P·pai Mih·ly                                                                              |
-14|2|  8|  4|   |Tak·ts L·szlÛ                                                                             |
-14|2|  8|  5|Dr.|Egedy Zsolt Mih·ly                                                                        |
-14|2|  8|  6|   |Szandhofer J·nos JÛzsef                                                                   |
-14|2|  8|  7|   |TÛth Csaba                                                                                |
-14|2|  8|  8|   |Csenger-Zal·n Zsolt                                                                       |
-14|2|  8|  9|   |Pap MiklÛs                                                                                |
+14|2|  4| 12|Dr.|Kisfalvi P√©ter Tibor                                                                      |
+14|2|  4| 13|   |Vaizer Zsigmond G√©za                                                                      |
+14|2|  4| 14|   |Mezei Tibor K√°roly                                                                        |
+14|2|  4| 15|   |Szil√°gyi Zolt√°n                                                                           |
+14|2|  7|  1|Dr.|Boross P√©ter Gy√∂rgy                                                                       |
+14|2|  7|  2|Dr.|Dragon P√°l                                                                                |
+14|2|  8|  1|   |Pog√°cs√°s Tibor J√°nos                                                                      |
+14|2|  8|  2|   |Hoffman P√°l                                                                               |
+14|2|  8|  3|   |P√°pai Mih√°ly                                                                              |
+14|2|  8|  4|   |Tak√°ts L√°szl√≥                                                                             |
+14|2|  8|  5|Dr.|Egedy Zsolt Mih√°ly                                                                        |
+14|2|  8|  6|   |Szandhofer J√°nos J√≥zsef                                                                   |
+14|2|  8|  7|   |T√≥th Csaba                                                                                |
+14|2|  8|  8|   |Csenger-Zal√°n Zsolt                                                                       |
+14|2|  8|  9|   |Pap Mikl√≥s                                                                                |
 14|2|  8| 10|   |Zsebe Zsolt                                                                               |
-14|2|  8| 11|   |SzabÛ Istv·n                                                                              |
-14|2|  8| 12|   |SzabÛ JÛzsef                                                                              |
-14|2|  8| 13|   |Kocsi J·nos                                                                               |
-14|2|  8| 14|Dr.|V·ntsa Botond Zolt·n                                                                      |
-14|2|  8| 15|   |G·sp·r Szilvia                                                                            |
-14|2|  8| 16|   |Szakszon JÛzsef                                                                           |
-14|2|  8| 17|   |Hadnagy Zsolt BÈla                                                                        |
-14|2|  8| 18|   |Solymosi S·ndor                                                                           |
-14|2|  8| 19|   |Husz·rnÈ Szirm·k Eszter                                                                   |
-14|2|  8| 20|   |Fˆldi L·szlÛ                                                                              |
-14|2|  8| 21|   |Kerepesi N·ndor                                                                           |
-14|2|  8| 22|   |Krizsovenszki Lajos Zolt·n                                                                |
-15|1|  1|  1|Dr.|Gyenesei Istv·n                                                                           |
-15|1|  1|  2|   |Verkman JÛzsef                                                                            |
-15|1|  1|  3|Dr.|Jakab JÛzsef                                                                              |
-15|1|  1|  4|   |Farkas L·szlÛ                                                                             |
-15|1|  1|  5|   |NÈmeth Lajos                                                                              |
+14|2|  8| 11|   |Szab√≥ Istv√°n                                                                              |
+14|2|  8| 12|   |Szab√≥ J√≥zsef                                                                              |
+14|2|  8| 13|   |Kocsi J√°nos                                                                               |
+14|2|  8| 14|Dr.|V√°ntsa Botond Zolt√°n                                                                      |
+14|2|  8| 15|   |G√°sp√°r Szilvia                                                                            |
+14|2|  8| 16|   |Szakszon J√≥zsef                                                                           |
+14|2|  8| 17|   |Hadnagy Zsolt B√©la                                                                        |
+14|2|  8| 18|   |Solymosi S√°ndor                                                                           |
+14|2|  8| 19|   |Husz√°rn√© Szirm√°k Eszter                                                                   |
+14|2|  8| 20|   |F√∂ldi L√°szl√≥                                                                              |
+14|2|  8| 21|   |Kerepesi N√°ndor                                                                           |
+14|2|  8| 22|   |Krizsovenszki Lajos Zolt√°n                                                                |
+15|1|  1|  1|Dr.|Gyenesei Istv√°n                                                                           |
+15|1|  1|  2|   |Verkman J√≥zsef                                                                            |
+15|1|  1|  3|Dr.|Jakab J√≥zsef                                                                              |
+15|1|  1|  4|   |Farkas L√°szl√≥                                                                             |
+15|1|  1|  5|   |N√©meth Lajos                                                                              |
 15|1|  1|  6|   |Papszt Lajos                                                                              |
-15|1|  1|  7|   |BiharinÈ AsbÛth Emıke                                                                     |
-15|1|  1|  8|   |Moln·r ¡rp·d                                                                              |
-15|1|  1|  9|Dr.|Kov·cs MiklÛs                                                                             |
-15|1|  2|  1|   |GelencsÈr Attila                                                                          |
-15|1|  2|  2|   |Majer Istv·n                                                                              |
-15|1|  2|  3|   |Csorba OttÛ                                                                               |
-15|1|  2|  4|Dr.|Csord·s Endre JÛzsef                                                                      |
-15|1|  2|  5|   |HidvÈgi JÛzsef                                                                            |
-15|1|  2|  6|   |JakÛ Gergely                                                                              |
-15|1|  2|  7|   |Schmidt Jenı                                                                              |
-15|1|  2|  8|   |Tengerdi Gyızı                                                                            |
-15|1|  2|  9|   |BerÈnyi L·szlÛ                                                                            |
-15|1|  2| 10|   |SzabÛ Tam·s                                                                               |
-15|1|  2| 11|   |JankÛ Szabolcs                                                                            |
+15|1|  1|  7|   |Biharin√© Asb√≥th Em≈ëke                                                                     |
+15|1|  1|  8|   |Moln√°r √Årp√°d                                                                              |
+15|1|  1|  9|Dr.|Kov√°cs Mikl√≥s                                                                             |
+15|1|  2|  1|   |Gelencs√©r Attila                                                                          |
+15|1|  2|  2|   |Majer Istv√°n                                                                              |
+15|1|  2|  3|   |Csorba Ott√≥                                                                               |
+15|1|  2|  4|Dr.|Csord√°s Endre J√≥zsef                                                                      |
+15|1|  2|  5|   |Hidv√©gi J√≥zsef                                                                            |
+15|1|  2|  6|   |Jak√≥ Gergely                                                                              |
+15|1|  2|  7|   |Schmidt Jen≈ë                                                                              |
+15|1|  2|  8|   |Tengerdi Gy≈ëz≈ë                                                                            |
+15|1|  2|  9|   |Ber√©nyi L√°szl√≥                                                                            |
+15|1|  2| 10|   |Szab√≥ Tam√°s                                                                               |
+15|1|  2| 11|   |Jank√≥ Szabolcs                                                                            |
 15|1|  2| 12|   |Lelovics Ferenc                                                                           |
-15|1|  2| 13|   |Bene S·ndor                                                                               |
-15|1|  2| 14|   |NÈmeth Lajos                                                                              |
-15|1|  2| 15|   |Balogh Istv·n                                                                             |
-15|1|  7|  1|Dr.|Kolber Istv·n                                                                             |
-15|1|  7|  2|   |S·rdi ¡rp·d                                                                               |
-15|1|  7|  3|Dr.|MÈzes …va Adrienne                                                                        |
-15|1|  7|  4|   |LırincznÈ Kiss Ilona                                                                      |
+15|1|  2| 13|   |Bene S√°ndor                                                                               |
+15|1|  2| 14|   |N√©meth Lajos                                                                              |
+15|1|  2| 15|   |Balogh Istv√°n                                                                             |
+15|1|  7|  1|Dr.|Kolber Istv√°n                                                                             |
+15|1|  7|  2|   |S√°rdi √Årp√°d                                                                               |
+15|1|  7|  3|Dr.|M√©zes √âva Adrienne                                                                        |
+15|1|  7|  4|   |L≈ërinczn√© Kiss Ilona                                                                      |
 15|1|  7|  5|   |Kollmann Gergely Ferenc                                                                   |
-15|1|  7|  6|   |Horv·th Istv·n                                                                            |
-15|1|  7|  7|Dr.|Klujber L·szlÛ                                                                            |
-15|2|  2|  1|   |Ormai Istv·n                                                                              |
+15|1|  7|  6|   |Horv√°th Istv√°n                                                                            |
+15|1|  7|  7|Dr.|Klujber L√°szl√≥                                                                            |
+15|2|  2|  1|   |Ormai Istv√°n                                                                              |
 15|2|  3|  1|   |Feigli Ferenc                                                                             |
-15|2|  3|  2|Dr.|S¸tı L·szlÛ                                                                               |
-15|2|  3|  3|   |Boros B·lint                                                                              |
-15|2|  6|  1|Dr.|Bal·zs ¡rp·d                                                                              |
-15|2|  6|  2|   |Karvalics OttÛ                                                                            |
-15|2|  6|  3|   |¡goston G·bor                                                                             |
-15|2|  6|  4|   |Bakos JÛzsef                                                                              |
-15|2|  6|  5|   |Varga M·ria                                                                               |
-16|1|  6|  1|   |Gazda L·szlÛ                                                                              |
-16|1|  6|  2|   |Csabai L·szlÛnÈ                                                                           |
-16|1|  6|  3|Dr.|Kapolyi L·szlÛ                                                                            |
-16|1|  6|  4|Dr.|Vad·sz M·ria                                                                              |
-16|1|  6|  5|   |Szabados JÛzsef                                                                           |
-16|1|  6|  6|   |Marj·nnÈ Rinyu Ilona                                                                      |
-16|1|  6|  7|   |Berencsi BÈla                                                                             |
-16|1|  6|  8|   |TÛth Viktor                                                                               |
-16|1|  6|  9|   |Halmi JÛzsef                                                                              |
-16|1|  6| 10|Dr.|Kiss G·bor                                                                                |
-16|1|  6| 11|Dr.|SzÈp BÈla                                                                                 |
-16|1|  6| 12|   |Gul·csi Mih·ly                                                                            |
-16|1|  6| 13|   |Magyar L·szlÛ                                                                             |
-16|1|  8|  1|   |Czomba S·ndor                                                                             |
-16|1|  8|  2|   |Kov·cs S·ndor                                                                             |
-16|1|  8|  3|Dr.|Simon MiklÛs                                                                              |
+15|2|  3|  2|Dr.|S√ºt≈ë L√°szl√≥                                                                               |
+15|2|  3|  3|   |Boros B√°lint                                                                              |
+15|2|  6|  1|Dr.|Bal√°zs √Årp√°d                                                                              |
+15|2|  6|  2|   |Karvalics Ott√≥                                                                            |
+15|2|  6|  3|   |√Ågoston G√°bor                                                                             |
+15|2|  6|  4|   |Bakos J√≥zsef                                                                              |
+15|2|  6|  5|   |Varga M√°ria                                                                               |
+16|1|  6|  1|   |Gazda L√°szl√≥                                                                              |
+16|1|  6|  2|   |Csabai L√°szl√≥n√©                                                                           |
+16|1|  6|  3|Dr.|Kapolyi L√°szl√≥                                                                            |
+16|1|  6|  4|Dr.|Vad√°sz M√°ria                                                                              |
+16|1|  6|  5|   |Szabados J√≥zsef                                                                           |
+16|1|  6|  6|   |Marj√°nn√© Rinyu Ilona                                                                      |
+16|1|  6|  7|   |Berencsi B√©la                                                                             |
+16|1|  6|  8|   |T√≥th Viktor                                                                               |
+16|1|  6|  9|   |Halmi J√≥zsef                                                                              |
+16|1|  6| 10|Dr.|Kiss G√°bor                                                                                |
+16|1|  6| 11|Dr.|Sz√©p B√©la                                                                                 |
+16|1|  6| 12|   |Gul√°csi Mih√°ly                                                                            |
+16|1|  6| 13|   |Magyar L√°szl√≥                                                                             |
+16|1|  8|  1|   |Czomba S√°ndor                                                                             |
+16|1|  8|  2|   |Kov√°cs S√°ndor                                                                             |
+16|1|  8|  3|Dr.|Simon Mikl√≥s                                                                              |
 16|1|  8|  4|Dr.|Tilki Attila                                                                              |
-16|1|  8|  5|Dr.|KarakÛ L·szlÛ                                                                             |
-16|1|  8|  6|   |Lipık S·ndor                                                                              |
-16|1|  8|  7|   |Kozma PÈter                                                                               |
-16|1|  8|  8|   |Seszt·k Oszk·r                                                                            |
-16|1|  8|  9|   |Lengyel J·nos                                                                             |
-16|1|  8| 10|   |Rom·n Istv·n                                                                              |
+16|1|  8|  5|Dr.|Karak√≥ L√°szl√≥                                                                             |
+16|1|  8|  6|   |Lip≈ëk S√°ndor                                                                              |
+16|1|  8|  7|   |Kozma P√©ter                                                                               |
+16|1|  8|  8|   |Seszt√°k Oszk√°r                                                                            |
+16|1|  8|  9|   |Lengyel J√°nos                                                                             |
+16|1|  8| 10|   |Rom√°n Istv√°n                                                                              |
 16|1|  8| 11|   |Jakab Ferenc                                                                              |
-16|1|  8| 12|   |Forj·n Zsolt                                                                              |
-16|1|  8| 13|   |BorkÛ K·roly                                                                              |
-16|1|  8| 14|   |DankunÈ Dr. Somogyi IldikÛ                                                                |
-16|1|  8| 15|   |Lakatos Istv·n                                                                            |
+16|1|  8| 12|   |Forj√°n Zsolt                                                                              |
+16|1|  8| 13|   |Bork√≥ K√°roly                                                                              |
+16|1|  8| 14|   |Dankun√© Dr. Somogyi Ildik√≥                                                                |
+16|1|  8| 15|   |Lakatos Istv√°n                                                                            |
 16|1|  8| 16|   |Mata Elek                                                                                 |
-16|1|  8| 17|Dr.|Lenti Istv·n                                                                              |
-16|1|  8| 18|   |P·losi L·szlÛ                                                                             |
-16|1|  8| 19|   |Jenei S·ndor                                                                              |
-16|1|  8| 20|   |SzabÛ J·nos                                                                               |
+16|1|  8| 17|Dr.|Lenti Istv√°n                                                                              |
+16|1|  8| 18|   |P√°losi L√°szl√≥                                                                             |
+16|1|  8| 19|   |Jenei S√°ndor                                                                              |
+16|1|  8| 20|   |Szab√≥ J√°nos                                                                               |
 16|1|  8| 21|   |Balogh Albert                                                                             |
-16|1|  8| 22|   |Vitkovics BÈla                                                                            |
-16|1|  9|  1|Dr.|Helmeczy L·szlÛ                                                                           |
-16|1|  9|  2|   |Bokor L·szlÛ                                                                              |
-16|1|  9|  3|   |Bardi BÈla                                                                                |
-16|1|  9|  4|   |Kov·cs Lajos                                                                              |
-16|2|  4|  1|   |Juh·sz Zolt·n                                                                             |
-16|2| 10|  1|   |F¸lˆp Istv·n                                                                              |
-16|2| 10|  2|Dr.|Seszt·k MiklÛs                                                                            |
-16|2| 10|  3|   |TÛth Andr·s                                                                               |
-16|2| 10|  4|   |TÛth Imre                                                                                 |
-16|2| 11|  1|Dr.|Veres J·nos                                                                               |
-16|2| 11|  2|   |Sulyok JÛzsef                                                                             |
-16|2| 11|  3|   |Balla J·nosnÈ                                                                             |
-16|2| 11|  4|   |Nagy S·ndor                                                                               |
+16|1|  8| 22|   |Vitkovics B√©la                                                                            |
+16|1|  9|  1|Dr.|Helmeczy L√°szl√≥                                                                           |
+16|1|  9|  2|   |Bokor L√°szl√≥                                                                              |
+16|1|  9|  3|   |Bardi B√©la                                                                                |
+16|1|  9|  4|   |Kov√°cs Lajos                                                                              |
+16|2|  4|  1|   |Juh√°sz Zolt√°n                                                                             |
+16|2| 10|  1|   |F√ºl√∂p Istv√°n                                                                              |
+16|2| 10|  2|Dr.|Seszt√°k Mikl√≥s                                                                            |
+16|2| 10|  3|   |T√≥th Andr√°s                                                                               |
+16|2| 10|  4|   |T√≥th Imre                                                                                 |
+16|2| 11|  1|Dr.|Veres J√°nos                                                                               |
+16|2| 11|  2|   |Sulyok J√≥zsef                                                                             |
+16|2| 11|  3|   |Balla J√°nosn√©                                                                             |
+16|2| 11|  4|   |Nagy S√°ndor                                                                               |
 17|1|  1|  1|   |Hirt Ferenc                                                                               |
-17|1|  1|  2|   |Koltai Tam·s                                                                              |
-17|1|  1|  3|Dr.|Pusk·s Imre                                                                               |
-17|1|  1|  4|   |Tak·cs Zolt·n                                                                             |
-17|1|  1|  5|   |Kapit·ny Zsolt                                                                            |
-17|1|  1|  6|   |RÈger Bal·zs                                                                              |
-17|1|  1|  7|   |Schranz Istv·nnÈ                                                                          |
-17|1|  1|  8|   |Csike Gyˆrgy                                                                              |
-17|1|  1|  9|   |KristÛf K·roly                                                                            |
-17|1|  1| 10|   |Kal·nyos J·nos                                                                            |
-17|1|  1| 11|   |De·k S·ndor                                                                               |
-17|1|  1| 12|   |Kov·cs Istv·n                                                                             |
+17|1|  1|  2|   |Koltai Tam√°s                                                                              |
+17|1|  1|  3|Dr.|Pusk√°s Imre                                                                               |
+17|1|  1|  4|   |Tak√°cs Zolt√°n                                                                             |
+17|1|  1|  5|   |Kapit√°ny Zsolt                                                                            |
+17|1|  1|  6|   |R√©ger Bal√°zs                                                                              |
+17|1|  1|  7|   |Schranz Istv√°nn√©                                                                          |
+17|1|  1|  8|   |Csike Gy√∂rgy                                                                              |
+17|1|  1|  9|   |Krist√≥f K√°roly                                                                            |
+17|1|  1| 10|   |Kal√°nyos J√°nos                                                                            |
+17|1|  1| 11|   |De√°k S√°ndor                                                                               |
+17|1|  1| 12|   |Kov√°cs Istv√°n                                                                             |
 17|1|  1| 13|   |Tar Csaba                                                                                 |
-17|1|  1| 14|   |Kishonti J·nos                                                                            |
-17|1|  1| 15|   |SzÈles Andr·s                                                                             |
-17|1|  1| 16|   |Kalocsa Jenı                                                                              |
-17|1|  3|  1|   |FranknÈ Dr. Kov·cs Szilvia                                                                |
-17|1|  3|  2|   |Pr·vics JÛzsef                                                                            |
-17|1|  3|  3|   |Moln·r JÛzsef                                                                             |
-17|1|  3|  4|   |SzabÛ Lor·nd                                                                              |
-17|1|  3|  5|   |SzebÈnyi GÈza                                                                             |
-17|1|  3|  6|   |BakÛ BÈla                                                                                 |
-17|1|  3|  7|Dr.|HarangozÛ Tam·s                                                                           |
-17|1|  3|  8|   |Horv·th Zsolt                                                                             |
-17|1|  6|  1|Dr.|D·vid Ibolya                                                                              |
-17|1|  6|  2|   |Horv·th Istv·n                                                                            |
-17|2|  1|  1|   |Pot·pi ¡rp·d                                                                              |
-17|2|  1|  2|   |KerecsÈnyi M·rton                                                                         |
-17|2|  1|  3|Dr.|P·los MiklÛs                                                                              |
-17|2|  1|  4|Dr.|Hadh·zy ¡rp·d                                                                             |
-17|2|  1|  5|   |V·rkonyi Zolt·n                                                                           |
-17|2|  1|  6|   |FilÛnÈ Ferencz Ibolya                                                                     |
-17|2|  1|  7|   |Bord·cs JÛzsef                                                                            |
-17|2|  1|  8|Dr.|S¸megi Zolt·n                                                                             |
-17|2|  1|  9|Dr.|SzÈchenyi Attila                                                                          |
-17|2|  3|  1|   |TÛth Gyula                                                                                |
-17|2|  3|  2|   |Pog·tsa Alajos                                                                            |
-17|2|  3|  3|Dr.|Vˆrˆss EndrÈnÈ                                                                            |
-17|2|  3|  4|   |NÈber Tibor                                                                               |
+17|1|  1| 14|   |Kishonti J√°nos                                                                            |
+17|1|  1| 15|   |Sz√©les Andr√°s                                                                             |
+17|1|  1| 16|   |Kalocsa Jen≈ë                                                                              |
+17|1|  3|  1|   |Frankn√© Dr. Kov√°cs Szilvia                                                                |
+17|1|  3|  2|   |Pr√°vics J√≥zsef                                                                            |
+17|1|  3|  3|   |Moln√°r J√≥zsef                                                                             |
+17|1|  3|  4|   |Szab√≥ Lor√°nd                                                                              |
+17|1|  3|  5|   |Szeb√©nyi G√©za                                                                             |
+17|1|  3|  6|   |Bak√≥ B√©la                                                                                 |
+17|1|  3|  7|Dr.|Harangoz√≥ Tam√°s                                                                           |
+17|1|  3|  8|   |Horv√°th Zsolt                                                                             |
+17|1|  6|  1|Dr.|D√°vid Ibolya                                                                              |
+17|1|  6|  2|   |Horv√°th Istv√°n                                                                            |
+17|2|  1|  1|   |Pot√°pi √Årp√°d                                                                              |
+17|2|  1|  2|   |Kerecs√©nyi M√°rton                                                                         |
+17|2|  1|  3|Dr.|P√°los Mikl√≥s                                                                              |
+17|2|  1|  4|Dr.|Hadh√°zy √Årp√°d                                                                             |
+17|2|  1|  5|   |V√°rkonyi Zolt√°n                                                                           |
+17|2|  1|  6|   |Fil√≥n√© Ferencz Ibolya                                                                     |
+17|2|  1|  7|   |Bord√°cs J√≥zsef                                                                            |
+17|2|  1|  8|Dr.|S√ºmegi Zolt√°n                                                                             |
+17|2|  1|  9|Dr.|Sz√©chenyi Attila                                                                          |
+17|2|  3|  1|   |T√≥th Gyula                                                                                |
+17|2|  3|  2|   |Pog√°tsa Alajos                                                                            |
+17|2|  3|  3|Dr.|V√∂r√∂ss Endr√©n√©                                                                            |
+17|2|  3|  4|   |N√©ber Tibor                                                                               |
 17|2|  3|  5|   |Knopf Attila                                                                              |
 17|2|  3|  6|Dr.|Radochay Imre                                                                             |
-18|1|  2|  1|   |NÈmeth Zsolt                                                                              |
+18|1|  2|  1|   |N√©meth Zsolt                                                                              |
 18|1|  2|  2|   |Marton Ferenc                                                                             |
-18|1|  2|  3|   |Pados RÛbert                                                                              |
-18|1|  2|  4|   |Gˆrcz Gyula Csaba                                                                         |
-18|1|  2|  5|   |Horv·thnÈ Stukics ErzsÈbet                                                                |
-18|1|  2|  6|   |Szlama JÛzsef                                                                             |
-18|1|  2|  7|   |Horv·th Csaba                                                                             |
-18|1|  2|  8|   |Sıre Zolt·n                                                                               |
-18|1|  2|  9|   |MajthÈnyi L·szlÛ                                                                          |
-18|1|  2| 10|   |Kov·cs Endre                                                                              |
-18|1|  2| 11|   |Pajor Andr·s                                                                              |
-18|1|  2| 12|   |Szij·rtÛ L·szlÛ                                                                           |
-18|1|  2| 13|   |R·cz K·roly                                                                               |
-18|1|  2| 14|   |Csirkovics D·vid                                                                          |
-18|1|  2| 15|   |B·nÛ Zolt·n                                                                               |
-18|1|  2| 16|   |Tausz Istv·n BÈla                                                                         |
-18|1|  2| 17|   |Szak·cs Marcell                                                                           |
-18|1|  2| 18|   |H·romi Jenı J·nos                                                                         |
-18|1|  3|  1|   |Sz¸cs G·bor                                                                               |
-18|1|  3|  2|   |FÛdi K·roly                                                                               |
+18|1|  2|  3|   |Pados R√≥bert                                                                              |
+18|1|  2|  4|   |G√∂rcz Gyula Csaba                                                                         |
+18|1|  2|  5|   |Horv√°thn√© Stukics Erzs√©bet                                                                |
+18|1|  2|  6|   |Szlama J√≥zsef                                                                             |
+18|1|  2|  7|   |Horv√°th Csaba                                                                             |
+18|1|  2|  8|   |S≈ëre Zolt√°n                                                                               |
+18|1|  2|  9|   |Majth√©nyi L√°szl√≥                                                                          |
+18|1|  2| 10|   |Kov√°cs Endre                                                                              |
+18|1|  2| 11|   |Pajor Andr√°s                                                                              |
+18|1|  2| 12|   |Szij√°rt√≥ L√°szl√≥                                                                           |
+18|1|  2| 13|   |R√°cz K√°roly                                                                               |
+18|1|  2| 14|   |Csirkovics D√°vid                                                                          |
+18|1|  2| 15|   |B√°n√≥ Zolt√°n                                                                               |
+18|1|  2| 16|   |Tausz Istv√°n B√©la                                                                         |
+18|1|  2| 17|   |Szak√°cs Marcell                                                                           |
+18|1|  2| 18|   |H√°romi Jen≈ë J√°nos                                                                         |
+18|1|  3|  1|   |Sz√ºcs G√°bor                                                                               |
+18|1|  3|  2|   |F√≥di K√°roly                                                                               |
 18|1|  3|  3|   |Nagy Antal                                                                                |
-18|1|  3|  4|   |SzabÛ JÛzsef                                                                              |
-18|1|  3|  5|   |Ga·l Angelika                                                                             |
-18|1|  3|  6|   |Horv·th AntalnÈ                                                                           |
-18|1|  3|  7|   |Kov·cs J·nos                                                                              |
+18|1|  3|  4|   |Szab√≥ J√≥zsef                                                                              |
+18|1|  3|  5|   |Ga√°l Angelika                                                                             |
+18|1|  3|  6|   |Horv√°th Antaln√©                                                                           |
+18|1|  3|  7|   |Kov√°cs J√°nos                                                                              |
 18|1|  6|  1|   |Varga Gyula                                                                               |
-18|1|  6|  2|Dr.|NÈmeth K·lm·n                                                                             |
-18|1|  7|  1|   |Patyi ElemÈr                                                                              |
-18|1|  7|  2|   |Bauer K·roly                                                                              |
-18|2|  2|  1|   |FehÈr L·szlÛ                                                                              |
-18|2|  2|  2|   |SzabÛ Lajos                                                                               |
-18|2|  2|  3|   |T·ncsics PÈter                                                                            |
+18|1|  6|  2|Dr.|N√©meth K√°lm√°n                                                                             |
+18|1|  7|  1|   |Patyi Elem√©r                                                                              |
+18|1|  7|  2|   |Bauer K√°roly                                                                              |
+18|2|  2|  1|   |Feh√©r L√°szl√≥                                                                              |
+18|2|  2|  2|   |Szab√≥ Lajos                                                                               |
+18|2|  2|  3|   |T√°ncsics P√©ter                                                                            |
 18|2|  2|  4|Dr.|Stipkovits Ferenc                                                                         |
-18|2|  6|  1|   |Kov·cs Ferenc                                                                             |
-18|2|  6|  2|Dr.|DÈnes Tibor                                                                               |
-18|2|  6|  3|   |Nagy G·bor                                                                                |
-18|2|  6|  4|   |B·sthy BÈla                                                                               |
-18|2|  6|  5|   |Kiniczky Istv·n                                                                           |
-18|2|  6|  6|   |S·gi JÛzsef                                                                               |
-18|2|  6|  7|   |MÈsz·ros ¡rp·d                                                                            |
-19|1|  2|  1|Dr.|Zongor G·bor                                                                              |
-19|1|  2|  2|   |Horv·th L·szlÛ                                                                            |
-19|1|  2|  3|   |Pusztai Istv·n                                                                            |
-19|1|  2|  4|   |Bebesi Istv·n                                                                             |
+18|2|  6|  1|   |Kov√°cs Ferenc                                                                             |
+18|2|  6|  2|Dr.|D√©nes Tibor                                                                               |
+18|2|  6|  3|   |Nagy G√°bor                                                                                |
+18|2|  6|  4|   |B√°sthy B√©la                                                                               |
+18|2|  6|  5|   |Kiniczky Istv√°n                                                                           |
+18|2|  6|  6|   |S√°gi J√≥zsef                                                                               |
+18|2|  6|  7|   |M√©sz√°ros √Årp√°d                                                                            |
+19|1|  2|  1|Dr.|Zongor G√°bor                                                                              |
+19|1|  2|  2|   |Horv√°th L√°szl√≥                                                                            |
+19|1|  2|  3|   |Pusztai Istv√°n                                                                            |
+19|1|  2|  4|   |Bebesi Istv√°n                                                                             |
 19|1|  2|  5|   |Pandur Ferenc                                                                             |
-19|1|  2|  6|   |Boros DÈnes                                                                               |
-19|1|  2|  7|   |Farkas BÈla                                                                               |
-19|1|  2|  8|   |PintÈr Ferenc                                                                             |
+19|1|  2|  6|   |Boros D√©nes                                                                               |
+19|1|  2|  7|   |Farkas B√©la                                                                               |
+19|1|  2|  8|   |Pint√©r Ferenc                                                                             |
 19|1|  3|  1|   |Kuti Csaba                                                                                |
-19|1|  3|  2|   |M·hl Ferenc                                                                               |
-19|1|  5|  1|   |Lasztovicza Jenı                                                                          |
-19|1|  5|  2|   |TalabÈr M·rta                                                                             |
-19|1|  5|  3|   |Tak·cs Szabolcs                                                                           |
-19|1|  5|  4|   |Szedl·k Attila                                                                            |
-19|1|  5|  5|   |Polg·rdy Imre                                                                             |
-19|1|  5|  6|   |Bik·di L·szlÛ K·roly                                                                      |
-19|1|  5|  7|   |Kˆnnyid Istv·n                                                                            |
-19|1|  5|  8|Dr.|Hermann Istv·n                                                                            |
-19|1|  5|  9|   |Papp Tam·s                                                                                |
+19|1|  3|  2|   |M√°hl Ferenc                                                                               |
+19|1|  5|  1|   |Lasztovicza Jen≈ë                                                                          |
+19|1|  5|  2|   |Talab√©r M√°rta                                                                             |
+19|1|  5|  3|   |Tak√°cs Szabolcs                                                                           |
+19|1|  5|  4|   |Szedl√°k Attila                                                                            |
+19|1|  5|  5|   |Polg√°rdy Imre                                                                             |
+19|1|  5|  6|   |Bik√°di L√°szl√≥ K√°roly                                                                      |
+19|1|  5|  7|   |K√∂nnyid Istv√°n                                                                            |
+19|1|  5|  8|Dr.|Hermann Istv√°n                                                                            |
+19|1|  5|  9|   |Papp Tam√°s                                                                                |
 19|1|  5| 10|   |Trosits Bernadett                                                                         |
-19|1|  5| 11|   |Ga·lnÈ Vˆrˆsmarty …va                                                                     |
-19|1|  5| 12|   |Kropf MiklÛs                                                                              |
-19|1|  5| 13|   |M·rton Szabolcs                                                                           |
-19|1|  5| 14|   |Kov·cs JÛzsef                                                                             |
-19|2|  1|  1|   |P·l BÈla                                                                                  |
+19|1|  5| 11|   |Ga√°ln√© V√∂r√∂smarty √âva                                                                     |
+19|1|  5| 12|   |Kropf Mikl√≥s                                                                              |
+19|1|  5| 13|   |M√°rton Szabolcs                                                                           |
+19|1|  5| 14|   |Kov√°cs J√≥zsef                                                                             |
+19|2|  1|  1|   |P√°l B√©la                                                                                  |
 19|2|  1|  2|   |Leszkovszki Tibor                                                                         |
-19|2|  1|  3|   |Baky Gyˆrgy                                                                               |
-19|2|  1|  4|Dr.|NÈmeth M·rta                                                                              |
-19|2|  1|  5|   |Kov·cs Zolt·n J·nos                                                                       |
-19|2|  1|  6|   |Geipl MiklÛsnÈ                                                                            |
-19|2|  1|  7|   |LÈvai JÛzsef                                                                              |
-19|2|  2|  1|Dr.|Kov·cs Zolt·n                                                                             |
-19|2|  2|  2|   |¡cs J·nos                                                                                 |
-19|2|  2|  3|   |Stol·r Mih·ly                                                                             |
-19|2|  2|  4|   |H·ri Lenke                                                                                |
+19|2|  1|  3|   |Baky Gy√∂rgy                                                                               |
+19|2|  1|  4|Dr.|N√©meth M√°rta                                                                              |
+19|2|  1|  5|   |Kov√°cs Zolt√°n J√°nos                                                                       |
+19|2|  1|  6|   |Geipl Mikl√≥sn√©                                                                            |
+19|2|  1|  7|   |L√©vai J√≥zsef                                                                              |
+19|2|  2|  1|Dr.|Kov√°cs Zolt√°n                                                                             |
+19|2|  2|  2|   |√Åcs J√°nos                                                                                 |
+19|2|  2|  3|   |Stol√°r Mih√°ly                                                                             |
+19|2|  2|  4|   |H√°ri Lenke                                                                                |
 19|2|  2|  5|   |Galambos Szilvia                                                                          |
-19|2|  2|  6|   |F¸lˆp Zolt·n                                                                              |
-19|2|  2|  7|Dr.|¡ldozÛ Tam·s                                                                              |
-19|2|  2|  8|   |P·lfy S·ndor                                                                              |
-19|2|  2|  9|   |Judi JÛzsef                                                                               |
-20|1|  1|  1|   |Kiss BÛdog Zolt·n                                                                         |
-20|1|  1|  2|   |Garamvˆlgyi Gyˆrgy                                                                        |
-20|1|  3|  1|   |Varga L·szlÛ                                                                              |
-20|1|  3|  2|   |GÛra Bal·zs                                                                               |
-20|1|  3|  3|   |Baracskai JÛzsef                                                                          |
+19|2|  2|  6|   |F√ºl√∂p Zolt√°n                                                                              |
+19|2|  2|  7|Dr.|√Åldoz√≥ Tam√°s                                                                              |
+19|2|  2|  8|   |P√°lfy S√°ndor                                                                              |
+19|2|  2|  9|   |Judi J√≥zsef                                                                               |
+20|1|  1|  1|   |Kiss B√≥dog Zolt√°n                                                                         |
+20|1|  1|  2|   |Garamv√∂lgyi Gy√∂rgy                                                                        |
+20|1|  3|  1|   |Varga L√°szl√≥                                                                              |
+20|1|  3|  2|   |G√≥ra Bal√°zs                                                                               |
+20|1|  3|  3|   |Baracskai J√≥zsef                                                                          |
 20|1|  3|  4|Dr.|Fodor Csaba                                                                               |
-20|1|  3|  5|   |Horv·th Csaba                                                                             |
-20|1|  3|  6|Dr.|SzabÛ Bal·zs                                                                              |
-20|1|  3|  7|   |TÛth L·szlÛ                                                                               |
-20|1|  3|  8|Dr.|Balogh MiklÛs                                                                             |
-20|1|  3|  9|   |Szıke Gyˆrgy                                                                              |
-20|1|  4|  1|   |Manninger Jenı Vilmos                                                                     |
-20|1|  4|  2|Dr.|P·l Attila Ferenc                                                                         |
-20|1|  4|  3|   |Nagy K·lm·n                                                                               |
-20|1|  4|  4|   |Kov·cs J·nos                                                                              |
-20|1|  4|  5|   |BÈcs RÛbert                                                                               |
-20|1|  4|  6|   |Gecse L·szlÛ                                                                              |
-20|1|  4|  7|   |Zsupp·nyi G·bor                                                                           |
-20|1|  4|  8|   |P·csonyi Imre                                                                             |
-20|1|  4|  9|   |Horv·th Zolt·n                                                                            |
-20|1|  4| 10|   |Fertig Istv·n                                                                             |
-20|1|  4| 11|   |Nagy Tam·s                                                                                |
-20|1|  4| 12|   |BorbirÛ Frigyes Lajos                                                                     |
-20|1|  4| 13|   |PintÈr L·szlÛ                                                                             |
-20|1|  4| 14|   |Vajda L·szlÛ                                                                              |
-20|1|  4| 15|   |Laki JÛzsef                                                                               |
-20|1|  4| 16|Dr.|Fekete Zolt·n                                                                             |
-20|1|  4| 17|Dr.|Sch¸schletz S·ndor                                                                        |
-20|1|  4| 18|   |Varga MiklÛs                                                                              |
-20|1|  4| 19|Dr.|Horv·th Mariann                                                                           |
-20|1|  4| 20|   |Cs·sz·r JÛzsef                                                                            |
-20|1|  4| 21|   |Vincze J˙lia                                                                              |
-20|1|  4| 22|   |Nagy JÛzsef Gyˆrgy                                                                        |
+20|1|  3|  5|   |Horv√°th Csaba                                                                             |
+20|1|  3|  6|Dr.|Szab√≥ Bal√°zs                                                                              |
+20|1|  3|  7|   |T√≥th L√°szl√≥                                                                               |
+20|1|  3|  8|Dr.|Balogh Mikl√≥s                                                                             |
+20|1|  3|  9|   |Sz≈ëke Gy√∂rgy                                                                              |
+20|1|  4|  1|   |Manninger Jen≈ë Vilmos                                                                     |
+20|1|  4|  2|Dr.|P√°l Attila Ferenc                                                                         |
+20|1|  4|  3|   |Nagy K√°lm√°n                                                                               |
+20|1|  4|  4|   |Kov√°cs J√°nos                                                                              |
+20|1|  4|  5|   |B√©cs R√≥bert                                                                               |
+20|1|  4|  6|   |Gecse L√°szl√≥                                                                              |
+20|1|  4|  7|   |Zsupp√°nyi G√°bor                                                                           |
+20|1|  4|  8|   |P√°csonyi Imre                                                                             |
+20|1|  4|  9|   |Horv√°th Zolt√°n                                                                            |
+20|1|  4| 10|   |Fertig Istv√°n                                                                             |
+20|1|  4| 11|   |Nagy Tam√°s                                                                                |
+20|1|  4| 12|   |Borbir√≥ Frigyes Lajos                                                                     |
+20|1|  4| 13|   |Pint√©r L√°szl√≥                                                                             |
+20|1|  4| 14|   |Vajda L√°szl√≥                                                                              |
+20|1|  4| 15|   |Laki J√≥zsef                                                                               |
+20|1|  4| 16|Dr.|Fekete Zolt√°n                                                                             |
+20|1|  4| 17|Dr.|Sch√ºschletz S√°ndor                                                                        |
+20|1|  4| 18|   |Varga Mikl√≥s                                                                              |
+20|1|  4| 19|Dr.|Horv√°th Mariann                                                                           |
+20|1|  4| 20|   |Cs√°sz√°r J√≥zsef                                                                            |
+20|1|  4| 21|   |Vincze J√∫lia                                                                              |
+20|1|  4| 22|   |Nagy J√≥zsef Gy√∂rgy                                                                        |
 20|1| 10|  1|Dr.|Boros Imre                                                                                |
-20|1| 10|  2|   |Kˆcse Tibor                                                                               |
-20|2|  3|  1|   |P·link·s RÛbert                                                                           |
-20|2|  3|  2|   |S·ringer-Kenyeres Tam·s J·nos                                                             |
-20|2|  3|  3|   |SzalÛki Jenı                                                                              |
-20|2|  4|  1|   |VeÈr MiklÛs                                                                               |
-20|2|  4|  2|   |KallÛ Zolt·n Istv·n                                                                       |
+20|1| 10|  2|   |K√∂cse Tibor                                                                               |
+20|2|  3|  1|   |P√°link√°s R√≥bert                                                                           |
+20|2|  3|  2|   |S√°ringer-Kenyeres Tam√°s J√°nos                                                             |
+20|2|  3|  3|   |Szal√≥ki Jen≈ë                                                                              |
+20|2|  4|  1|   |Ve√©r Mikl√≥s                                                                               |
+20|2|  4|  2|   |Kall√≥ Zolt√°n Istv√°n                                                                       |

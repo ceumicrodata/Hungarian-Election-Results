@@ -1,797 +1,797 @@
-01|001|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-01|001|4|Kompenz·ciÛs lista            |  2|LMP                           |  1|  0|
-01|001|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-01|001|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-01|002|4|Kompenz·ciÛs lista            |  1|MSZP                          |  3|  0|
-01|002|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-01|002|4|Kompenz·ciÛs lista            |  3|LMP                           |  2|  0|
-01|002|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-01|003|4|Kompenz·ciÛs lista            |  1|ITT …L‹NK EGYES‹LET           |  1|  0|
-01|003|4|Kompenz·ciÛs lista            |  2|LMP                           |  1|  0|
-01|003|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-01|003|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-01|003|4|Kompenz·ciÛs lista            |  5|MSZP                          |  3|  0|
-01|004|4|Kompenz·ciÛs lista            |  1|LMP                           |  1|  0|
-01|004|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-01|004|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-01|004|4|Kompenz·ciÛs lista            |  4|FIDESZ-UE                     |  0|  0|
-01|005|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-01|005|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-01|005|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-01|005|4|Kompenz·ciÛs lista            |  4|LMP                           |  1|  0|
-01|006|4|Kompenz·ciÛs lista            |  1|MSZP                          |  2|  0|
-01|006|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-01|006|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-01|006|4|Kompenz·ciÛs lista            |  4|LMP                           |  1|  0|
-01|007|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-01|007|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-01|007|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-01|007|4|Kompenz·ciÛs lista            |  4|SZEM                          |  1|  0|
-01|007|4|Kompenz·ciÛs lista            |  5|LMP                           |  1|  0|
-01|007|4|Kompenz·ciÛs lista            |  6|F‹GE                          |  0|  0|
-01|008|4|Kompenz·ciÛs lista            |  1|LMP                           |  1|  0|
-01|008|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-01|008|4|Kompenz·ciÛs lista            |  3|MDF                           |  0|  0|
-01|008|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-01|008|4|Kompenz·ciÛs lista            |  5|MSZP                          |  3|  0|
-01|009|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-01|009|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-01|009|4|Kompenz·ciÛs lista            |  3|LMP                           |  1|  0|
-01|009|4|Kompenz·ciÛs lista            |  4|FLE                           |  1|  0|
-01|009|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-01|009|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-01|010|4|Kompenz·ciÛs lista            |  1|LMP                           |  1|  0|
-01|010|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-01|010|4|Kompenz·ciÛs lista            |  3|MSZDP                         |  0|  0|
-01|010|4|Kompenz·ciÛs lista            |  4|MSZP                          |  3|  0|
-01|010|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  0|  0|
-01|011|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-01|011|4|Kompenz·ciÛs lista            |  2|LMP                           |  2|  0|
-01|011|4|Kompenz·ciÛs lista            |  3|MSZP                          |  4|  0|
-01|011|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-01|012|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-01|012|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-01|012|4|Kompenz·ciÛs lista            |  3|LMP                           |  2|  0|
-01|012|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-01|013|4|Kompenz·ciÛs lista            |  1|LMP                           |  1|  0|
-01|013|4|Kompenz·ciÛs lista            |  2|MSZP                          |  0|  0|
-01|013|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  4|  0|
-01|013|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-01|014|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-01|014|4|Kompenz·ciÛs lista            |  2|LMP                           |  1|  0|
-01|014|4|Kompenz·ciÛs lista            |  3|Z…K EGYES‹LET                 |  1|  0|
-01|014|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-01|014|4|Kompenz·ciÛs lista            |  5|MSZP                          |  3|  0|
-01|015|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-01|015|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-01|015|4|Kompenz·ciÛs lista            |  3|CIVIL MOZGALOM                |  0|  0|
-01|015|4|Kompenz·ciÛs lista            |  4|R¡TE                          |  2|  0|
-01|015|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-01|015|4|Kompenz·ciÛs lista            |  6|LMP                           |  1|  0|
-01|016|4|Kompenz·ciÛs lista            |  1|F’VE EGYES‹LET                |  0|  0|
-01|016|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-01|016|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-01|016|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-01|016|4|Kompenz·ciÛs lista            |  5|CIVIL MOZGALOM                |  1|  0|
-01|016|4|Kompenz·ciÛs lista            |  6|LMP                           |  1|  0|
-01|017|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-01|017|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-01|017|4|Kompenz·ciÛs lista            |  3|MSZP                          |  3|  0|
-01|017|4|Kompenz·ciÛs lista            |  4|ITTHON                        |  2|  0|
-01|018|4|Kompenz·ciÛs lista            |  1|MSZP                          |  4|  0|
-01|018|4|Kompenz·ciÛs lista            |  2|LMP                           |  1|  0|
-01|018|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-01|018|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-01|018|4|Kompenz·ciÛs lista            |  5|CIVIL MOZGALOM                |  0|  0|
-01|019|4|Kompenz·ciÛs lista            |  1|MDF                           |  0|  0|
-01|019|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-01|019|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-01|019|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  1|  0|
-01|019|4|Kompenz·ciÛs lista            |  5|LMP                           |  1|  0|
-01|020|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-01|020|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-01|020|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  1|  0|
-01|020|4|Kompenz·ciÛs lista            |  4|LMP                           |  1|  0|
-01|020|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-01|021|4|Kompenz·ciÛs lista            |  1|MUNK¡SP¡RT                    |  0|  0|
-01|021|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-01|021|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-01|021|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-01|021|4|Kompenz·ciÛs lista            |  5|CIVIL MOZGALOM                |  0|  0|
-01|021|4|Kompenz·ciÛs lista            |  6|LMP                           |  1|  0|
-01|022|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-01|022|4|Kompenz·ciÛs lista            |  2|IPARTEST‹LET                  |  1|  0|
-01|022|4|Kompenz·ciÛs lista            |  3|BAR¡TI K÷R÷K                  |  1|  0|
-01|022|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-01|022|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-01|023|4|Kompenz·ciÛs lista            |  1|LMP                           |  0|  0|
-01|023|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  1|  0|
-01|023|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  0|  0|
-01|023|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-01|023|4|Kompenz·ciÛs lista            |  5|Civil Egyes¸let               |  1|  0|
-02|137|4|Kompenz·ciÛs lista            |  1|Z÷LD BALOLDAL                 |  0|  0|
-02|137|4|Kompenz·ciÛs lista            |  2|KPK                           |  1|  0|
-02|137|4|Kompenz·ciÛs lista            |  3|CITE                          |  0|  0|
-02|137|4|Kompenz·ciÛs lista            |  4|HONISMERETI …S V¡ROSSZ…PÕT’ E.|  1|  0|
-02|137|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  0|  0|
-02|137|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-02|137|4|Kompenz·ciÛs lista            |  7|MSZP                          |  1|  0|
-02|181|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-02|181|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-02|181|4|Kompenz·ciÛs lista            |  3|MUNK¡SP¡RT                    |  0|  0|
-02|181|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  2|  0|
-02|217|4|Kompenz·ciÛs lista            |  1|LMP                           |  2|  0|
-02|217|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-02|217|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  2|  0|
-02|217|4|Kompenz·ciÛs lista            |  4|MSZP                          |  4|  0|
-02|234|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-02|234|4|Kompenz·ciÛs lista            |  2|KAPOCS                        |  1|  0|
-02|234|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  0|  0|
-02|234|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-02|234|4|Kompenz·ciÛs lista            |  5|SiklÛsÈrt Egyes¸let           |  1|  0|
-02|263|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-02|263|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  0|  0|
-02|263|4|Kompenz·ciÛs lista            |  3|CIVIL MOZGALOM                |  0|  0|
-02|263|4|Kompenz·ciÛs lista            |  4|Munk·sp·rt 2006               |  0|  0|
-02|263|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  1|  0|
-02|263|4|Kompenz·ciÛs lista            |  6|Szigetv·ri EmberekÈrt         |  1|  0|
-03|004|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-03|004|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-03|004|4|Kompenz·ciÛs lista            |  3|CM MSZP SZEMA-÷SSZEFOG¡S 2010 |  3|  0|
-03|056|4|Kompenz·ciÛs lista            |  1|LMP                           |  0|  0|
-03|056|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-03|056|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-03|056|4|Kompenz·ciÛs lista            |  4|KSZPE                         |  2|  0|
-03|060|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-03|060|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-03|060|4|Kompenz·ciÛs lista            |  3|LMP                           |  2|  0|
-03|064|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-03|064|4|Kompenz·ciÛs lista            |  2|Kiskırˆsi Szlov·kok Szervezete|  0|  0|
-03|064|4|Kompenz·ciÛs lista            |  3|Kiskırˆsi Gazdak-Ipartest¸let |  1|  0|
-03|064|4|Kompenz·ciÛs lista            |  4|KPCSZ                         |  1|  0|
-03|064|4|Kompenz·ciÛs lista            |  5|MSz                           |  0|  0|
-03|064|4|Kompenz·ciÛs lista            |  6|"Aroma" Egyes¸let             |  0|  0|
-03|064|4|Kompenz·ciÛs lista            |  7|MSZP                          |  1|  0|
-03|065|4|Kompenz·ciÛs lista            |  1|MDF                           |  0|  0|
-03|065|4|Kompenz·ciÛs lista            |  2|LMP                           |  0|  0|
-03|065|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-03|065|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-03|065|4|Kompenz·ciÛs lista            |  5|CIVIL MOZGALOM                |  1|  0|
-03|065|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-03|066|4|Kompenz·ciÛs lista            |  1|Jˆvınk Halas Egyes¸let        |  2|  0|
-03|066|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  1|  0|
-03|066|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-03|067|4|Kompenz·ciÛs lista            |  1|EKE-KVSZ                      |  1|  0|
-03|067|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  1|  0|
-03|067|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  0|  0|
-03|067|4|Kompenz·ciÛs lista            |  4|PSZM                          |  1|  0|
-03|078|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  1|  0|
-03|078|4|Kompenz·ciÛs lista            |  2|MSZP                          |  0|  0|
-03|078|4|Kompenz·ciÛs lista            |  3|IPARTEST‹LET LAJOSMIZSE       |  1|  0|
-03|078|4|Kompenz·ciÛs lista            |  4|GAZDAK÷R                      |  1|  0|
-03|111|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-03|111|4|Kompenz·ciÛs lista            |  2|MSz                           |  0|  0|
-03|111|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-03|111|4|Kompenz·ciÛs lista            |  4|MAGYAR V¡LLALKOZ” EGYS…GP¡RT  |  0|  0|
-03|111|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  0|  0|
-03|111|4|Kompenz·ciÛs lista            |  6|NEMZETI F”RUM                 |  1|  0|
-04|003|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  0|  0|
-04|003|4|Kompenz·ciÛs lista            |  2|B…K…SI KISGAZDAK÷R            |  0|  0|
-04|003|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  2|  0|
-04|003|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-04|003|4|Kompenz·ciÛs lista            |  5|JOBBOLDALI ÷SSZEFOG¡S         |  0|  0|
-04|003|4|Kompenz·ciÛs lista            |  6|B…K…SI IPARTEST‹LET           |  0|  0|
-04|004|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  2|  0|
-04|004|4|Kompenz·ciÛs lista            |  2|LMP                           |  1|  0|
-04|004|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-04|004|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-04|025|4|Kompenz·ciÛs lista            |  1|MSZP                          |  0|  0|
-04|025|4|Kompenz·ciÛs lista            |  2|Kˆrˆsˆk VidÈkÈÈrt Egyes¸let   |  1|  0|
-04|025|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-04|025|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  1|  0|
-04|026|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-04|026|4|Kompenz·ciÛs lista            |  2|V¡ROSBAR¡TOK                  |  2|  0|
-04|026|4|Kompenz·ciÛs lista            |  3|Kˆrˆsˆk Vˆlgye                |  1|  0|
-04|026|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  0|  0|
-04|026|4|Kompenz·ciÛs lista            |  5|GYULAI IPOSZ-÷GYE             |  1|  0|
-04|049|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-04|049|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  1|  0|
-04|049|4|Kompenz·ciÛs lista            |  3|V·rosszÈpÌtı Ès V·rosvÈdı Egye|  0|  0|
-04|049|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-04|059|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-04|059|4|Kompenz·ciÛs lista            |  2|MSZP                          |  3|  0|
-04|059|4|Kompenz·ciÛs lista            |  3|MUNK¡SP¡RT                    |  0|  0|
-04|059|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-04|059|4|Kompenz·ciÛs lista            |  5|OH NYUGDÕJASOK                |  0|  0|
-04|063|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-04|063|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-04|063|4|Kompenz·ciÛs lista            |  3|"Ipartest¸let"                |  1|  0|
-04|063|4|Kompenz·ciÛs lista            |  4|NyugdÌjas Egy.-FIDESZ         |  0|  0|
-04|063|4|Kompenz·ciÛs lista            |  5|ROD…                          |  0|  0|
-04|066|4|Kompenz·ciÛs lista            |  1|NACSE                         |  1|  0|
-04|066|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-04|066|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-04|066|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-05|075|4|Kompenz·ciÛs lista            |  1|T˙l az ”perenci·n             |  1|  0|
-05|075|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  1|  0|
-05|075|4|Kompenz·ciÛs lista            |  3|MSZP                          |  0|  0|
-05|075|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  0|  0|
-05|075|4|Kompenz·ciÛs lista            |  5|V·ltoz·s EdelÈny              |  1|  0|
-05|153|4|Kompenz·ciÛs lista            |  1|FKE                           |  0|  0|
-05|153|4|Kompenz·ciÛs lista            |  2|CIVIL MOZGALOM                |  0|  0|
-05|153|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  2|  0|
-05|153|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-05|153|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-05|153|4|Kompenz·ciÛs lista            |  6|LMP                           |  0|  0|
-05|196|4|Kompenz·ciÛs lista            |  1|MSZP                          |  2|  0|
-05|196|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-05|196|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-05|202|4|Kompenz·ciÛs lista            |  1|SZEME                         |  0|  0|
-05|202|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-05|202|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  1|  0|
-05|202|4|Kompenz·ciÛs lista            |  4|LMP                           |  0|  0|
-05|202|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  3|  0|
-05|226|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-05|226|4|Kompenz·ciÛs lista            |  2|F¸ggetlenek V.E.              |  0|  0|
-05|226|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  1|  0|
-05|226|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT                    |  0|  0|
-05|226|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  2|  0|
-05|226|4|Kompenz·ciÛs lista            |  6|…KE                           |  0|  0|
-05|268|4|Kompenz·ciÛs lista            |  1|MDF                           |  0|  0|
-05|268|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-05|268|4|Kompenz·ciÛs lista            |  3|CKDP                          |  0|  0|
-05|268|4|Kompenz·ciÛs lista            |  4|T E S Z                       |  0|  0|
-05|268|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  1|  0|
-05|268|4|Kompenz·ciÛs lista            |  6|SP…TERI Z÷LDEK                |  1|  0|
-05|268|4|Kompenz·ciÛs lista            |  7|JOBBIK                        |  0|  0|
-05|274|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-05|274|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  0|  0|
-05|274|4|Kompenz·ciÛs lista            |  3|S·rospataki Lok·lpatriÛt·k    |  1|  0|
-05|274|4|Kompenz·ciÛs lista            |  4|Bodrogparti AthÈn S·rospatak  |  1|  0|
-05|274|4|Kompenz·ciÛs lista            |  5|F‹GGETLENEK S¡ROSPATAK…RT EGY.|  1|  0|
-05|274|4|Kompenz·ciÛs lista            |  6|MSZP                          |  0|  0|
-05|276|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-05|276|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-05|276|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-05|326|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  1|  0|
-05|326|4|Kompenz·ciÛs lista            |  2|V·rosÈrt Egyes¸let            |  1|  0|
-05|326|4|Kompenz·ciÛs lista            |  3|MSZP                          |  0|  0|
-05|326|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-05|326|4|Kompenz·ciÛs lista            |  5|MUNK¡SP¡RT                    |  0|  0|
-06|013|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-06|013|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-06|013|4|Kompenz·ciÛs lista            |  3|÷SSZEFOG¡S CSONGR¡D…RT EGY.   |  0|  0|
-06|013|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-06|024|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-06|024|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-06|024|4|Kompenz·ciÛs lista            |  3|Z÷LD BALOLDAL                 |  1|  0|
-06|024|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  2|  0|
-06|032|4|Kompenz·ciÛs lista            |  1|V·rosÈpÌtık T·rsas·ga         |  1|  0|
-06|032|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  0|  0|
-06|032|4|Kompenz·ciÛs lista            |  3|MSZP                          |  0|  0|
-06|032|4|Kompenz·ciÛs lista            |  4|MUNK¡SP¡RT                    |  0|  0|
-06|032|4|Kompenz·ciÛs lista            |  5|PSZM MAK”                     |  1|  0|
-06|032|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  1|  0|
-06|051|4|Kompenz·ciÛs lista            |  1|MSZP-÷SSZEFOG¡S SZEGED…RT     |  3|  0|
-06|051|4|Kompenz·ciÛs lista            |  2|LMP                           |  1|  0|
-06|051|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-06|051|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  3|  0|
-06|051|4|Kompenz·ciÛs lista            |  5|Z÷LD BALOLDAL                 |  0|  0|
-06|053|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-06|053|4|Kompenz·ciÛs lista            |  2|P·lm·sok SzˆvetsÈge           |  1|  0|
-06|053|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  1|  0|
-06|053|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-07|013|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-07|013|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-07|013|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-07|024|4|Kompenz·ciÛs lista            |  1|LMP                           |  1|  0|
-07|024|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-07|024|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-07|024|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-07|061|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  0|  0|
-07|061|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-07|061|4|Kompenz·ciÛs lista            |  3|MVJE                          |  2|  0|
-07|061|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  0|  0|
-07|078|4|Kompenz·ciÛs lista            |  1|F‹GGETLEN BALOLDALI EGYES‹LET |  1|  0|
-07|078|4|Kompenz·ciÛs lista            |  2|Mozdulj a v·rosÈrt Egyes¸let  |  1|  0|
-07|078|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-07|078|4|Kompenz·ciÛs lista            |  4|KAPOCS Egyes¸let              |  0|  0|
-07|078|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-07|094|4|Kompenz·ciÛs lista            |  1|V¡LASZ                        |  1|  0|
-07|094|4|Kompenz·ciÛs lista            |  2|CIVIL MOZGALOM                |  1|  0|
-07|094|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-07|094|4|Kompenz·ciÛs lista            |  4|MDF                           |  0|  0|
-07|094|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  1|  0|
-07|094|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-08|027|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  1|  0|
-08|027|4|Kompenz·ciÛs lista            |  2|CSORNAI POLG¡RI EGYES‹LET     |  1|  0|
-08|027|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-08|027|4|Kompenz·ciÛs lista            |  4|SZ‹L’F÷LD‹NK…RT EGYES‹LET     |  0|  0|
-08|059|4|Kompenz·ciÛs lista            |  1|PRO URBE GY’R                 |  1|  0|
-08|059|4|Kompenz·ciÛs lista            |  2|MSZP                          |  4|  0|
-08|059|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-08|059|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  2|  0|
-08|081|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-08|081|4|Kompenz·ciÛs lista            |  2|KE                            |  1|  0|
-08|081|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-08|081|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-08|104|4|Kompenz·ciÛs lista            |  1|MSZP                          |  2|  0|
-08|104|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-08|104|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-08|104|4|Kompenz·ciÛs lista            |  4|MPKE                          |  1|  0|
-08|150|4|Kompenz·ciÛs lista            |  1|MSZP                          |  3|  0|
-08|150|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-08|150|4|Kompenz·ciÛs lista            |  3|LMP                           |  1|  0|
-08|150|4|Kompenz·ciÛs lista            |  4|V·rosvÈdık                    |  0|  0|
-08|150|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  0|  0|
-09|005|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-09|005|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  3|  0|
-09|009|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  1|  0|
-09|009|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-09|009|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-09|018|4|Kompenz·ciÛs lista            |  1|DISZ                          |  2|  0|
-09|018|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  4|  0|
-09|018|4|Kompenz·ciÛs lista            |  3|Civil FÛrum Debrecen Egyes¸let|  1|  0|
-09|018|4|Kompenz·ciÛs lista            |  4|MSZP                          |  3|  0|
-09|018|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  0|  0|
-09|030|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  1|  0|
-09|030|4|Kompenz·ciÛs lista            |  2|MDF                           |  0|  0|
-09|030|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-09|030|4|Kompenz·ciÛs lista            |  4|MSZDP                         |  0|  0|
-09|030|4|Kompenz·ciÛs lista            |  5|Civilek LakÛhelyÈrt Egyes¸let |  1|  0|
-09|030|4|Kompenz·ciÛs lista            |  6|MSZP                          |  1|  0|
-09|032|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-09|032|4|Kompenz·ciÛs lista            |  2|V·rosvÈdık HE                 |  1|  0|
-09|032|4|Kompenz·ciÛs lista            |  3|MSz                           |  0|  0|
-09|032|4|Kompenz·ciÛs lista            |  4|MSZP                          |  0|  0|
-09|032|4|Kompenz·ciÛs lista            |  5|KOE                           |  0|  0|
-09|032|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-09|032|4|Kompenz·ciÛs lista            |  7|FBT Egyes¸let                 |  1|  0|
-09|032|4|Kompenz·ciÛs lista            |  8|K÷Z÷SS…GI H¡Z KHE             |  0|  0|
-09|033|4|Kompenz·ciÛs lista            |  1|HESZE                         |  1|  0|
-09|033|4|Kompenz·ciÛs lista            |  2|HTFE-MSZP                     |  1|  0|
-09|033|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-09|033|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  0|  0|
-09|034|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  2|  0|
-09|034|4|Kompenz·ciÛs lista            |  2|ESHE                          |  1|  0|
-09|034|4|Kompenz·ciÛs lista            |  3|HFE                           |  0|  0|
-09|034|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  0|  0|
-09|035|4|Kompenz·ciÛs lista            |  1|Civilek Hajd˙szoboszlÛÈrt     |  1|  0|
-09|035|4|Kompenz·ciÛs lista            |  2|LMP                           |  0|  0|
-09|035|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-09|035|4|Kompenz·ciÛs lista            |  4|MSZP                          |  0|  0|
-09|035|4|Kompenz·ciÛs lista            |  5|÷sszefog·s Hajd˙szoboszlÛÈrt  |  1|  0|
-09|035|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-09|063|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  2|  0|
-09|063|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-09|063|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-10|025|4|Kompenz·ciÛs lista            |  1|MSz                           |  0|  0|
-10|025|4|Kompenz·ciÛs lista            |  2|LMP                           |  1|  0|
-10|025|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-10|025|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-10|025|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  2|  0|
-10|025|4|Kompenz·ciÛs lista            |  6|EGY‹TT A FEJL’D’ V¡ROSUNK…RT  |  0|  0|
-10|039|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-10|039|4|Kompenz·ciÛs lista            |  2|Munk·sp·rt 2006               |  0|  0|
-10|039|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  1|  0|
-10|039|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-10|039|4|Kompenz·ciÛs lista            |  5|Civilek GyˆngyˆsÈrt Egyes¸let |  1|  0|
-10|046|4|Kompenz·ciÛs lista            |  1|Egy¸tt HatvanÈrt Egyes¸letMSZP|  2|  0|
-10|046|4|Kompenz·ciÛs lista            |  2|P·lhidy Mih·ly Hagyom·nyırzı E|  0|  0|
-10|046|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-10|046|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  0|  0|
-10|046|4|Kompenz·ciÛs lista            |  5|Hatvani Lok·lpatriÛt·k        |  0|  0|
-10|048|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-10|048|4|Kompenz·ciÛs lista            |  2|÷HVE                          |  1|  0|
-10|048|4|Kompenz·ciÛs lista            |  3|FIDESZ - KDNP                 |  0|  0|
-10|048|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-11|016|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-11|016|4|Kompenz·ciÛs lista            |  2|÷SSZEFOG¡S J¡SZBER…NY…RT      |  1|  0|
-11|016|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-11|016|4|Kompenz·ciÛs lista            |  4|EJJE                          |  1|  0|
-11|016|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-11|027|4|Kompenz·ciÛs lista            |  1|KARCAGI IPARTEST‹LET          |  1|  0|
-11|027|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  2|  0|
-11|027|4|Kompenz·ciÛs lista            |  3|CIVIL F”RUM                   |  0|  0|
-11|027|4|Kompenz·ciÛs lista            |  4|MSZP                          |  0|  0|
-11|027|4|Kompenz·ciÛs lista            |  5|MUNK¡SP¡RT                    |  0|  0|
-11|027|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  0|  0|
-11|031|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-11|031|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP-N.POLG.K÷R        |  0|  0|
-11|031|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-11|031|4|Kompenz·ciÛs lista            |  4|KjPolg·rırsÈg                 |  1|  0|
-11|040|4|Kompenz·ciÛs lista            |  1|CIVIL MOZGALOM                |  0|  0|
-11|040|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-11|040|4|Kompenz·ciÛs lista            |  3|MLE                           |  1|  0|
-11|040|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-11|040|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  0|  0|
-11|052|4|Kompenz·ciÛs lista            |  1|MSZP                          |  3|  0|
-11|052|4|Kompenz·ciÛs lista            |  2|MUNK¡SP¡RT                    |  0|  0|
-11|052|4|Kompenz·ciÛs lista            |  3|LMP                           |  0|  0|
-11|052|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  2|  0|
-11|052|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  0|  0|
-11|052|4|Kompenz·ciÛs lista            |  6|SZOLNOKIAK SZOLNOK…RT         |  0|  0|
-11|056|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-11|056|4|Kompenz·ciÛs lista            |  2|CIVIL EGYS…G TISZAF÷LDV¡R…RT  |  0|  0|
-11|056|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  1|  0|
-11|056|4|Kompenz·ciÛs lista            |  4|V¡ROSV…D’ POLG¡RI EGYES‹LET   |  1|  0|
-11|056|4|Kompenz·ciÛs lista            |  5|MSZP                          |  0|  0|
-11|057|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-11|057|4|Kompenz·ciÛs lista            |  2|POLG. SZ÷V. TISZAF‹RED        |  1|  0|
-11|057|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  1|  0|
-11|073|4|Kompenz·ciÛs lista            |  1|MUNK¡SP¡RT                    |  0|  0|
-11|073|4|Kompenz·ciÛs lista            |  2|T÷R÷KSZENTMIKL”SI HORG¡SZ E.  |  0|  0|
-11|073|4|Kompenz·ciÛs lista            |  3|WASS ALBERT POLG¡RI K÷R       |  1|  0|
-11|073|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  0|  0|
-11|073|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-11|073|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-12|023|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-12|023|4|Kompenz·ciÛs lista            |  2|MSZP                          |  0|  0|
-12|023|4|Kompenz·ciÛs lista            |  3|MSZDP                         |  0|  0|
-12|023|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  1|  0|
-12|023|4|Kompenz·ciÛs lista            |  5|Bar·ti Egyes¸let              |  1|  0|
-12|028|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-12|028|4|Kompenz·ciÛs lista            |  2|VP                            |  1|  0|
-12|028|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-12|028|4|Kompenz·ciÛs lista            |  4|LMP                           |  1|  0|
-12|028|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-12|038|4|Kompenz·ciÛs lista            |  1|FCKE                          |  1|  0|
-12|038|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-12|038|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-12|038|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  0|  0|
-12|038|4|Kompenz·ciÛs lista            |  5|LMP                           |  0|  0|
-12|051|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-12|051|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  1|  0|
-12|051|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-12|064|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-12|064|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-12|064|4|Kompenz·ciÛs lista            |  3|MDF                           |  0|  0|
-12|064|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-12|064|4|Kompenz·ciÛs lista            |  5|TISZTA K÷Z…LET…RT EGYES‹LET   |  1|  0|
-12|065|4|Kompenz·ciÛs lista            |  1|LMP                           |  0|  0|
-12|065|4|Kompenz·ciÛs lista            |  2|TTE                           |  0|  0|
-12|065|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  1|  0|
-12|065|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-12|065|4|Kompenz·ciÛs lista            |  5|MSZP                          |  3|  0|
-13|003|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-13|003|4|Kompenz·ciÛs lista            |  2|SzˆvetsÈg a JˆvıÈrt Mozgalom  |  0|  0|
-13|003|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-13|003|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-13|003|4|Kompenz·ciÛs lista            |  5|MUNK¡SP¡RT                    |  0|  0|
-13|006|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  1|  0|
-13|006|4|Kompenz·ciÛs lista            |  2|BBK                           |  0|  0|
-13|006|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-13|006|4|Kompenz·ciÛs lista            |  4|Munk·sp·rt 2006               |  0|  0|
-13|006|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-13|103|4|Kompenz·ciÛs lista            |  1|MSZP-TVE                      |  3|  0|
-13|103|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  1|  0|
-13|103|4|Kompenz·ciÛs lista            |  3|MUNK¡SP¡RT                    |  0|  0|
-14|001|4|Kompenz·ciÛs lista            |  1|KDNP                          |  1|  0|
-14|001|4|Kompenz·ciÛs lista            |  2|MSz                           |  0|  0|
-14|001|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-14|001|4|Kompenz·ciÛs lista            |  4|441                           |  0|  0|
-14|001|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-14|001|4|Kompenz·ciÛs lista            |  6|MSZP                          |  1|  0|
-14|003|4|Kompenz·ciÛs lista            |  1|POLKA                         |  1|  0|
-14|003|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  0|  0|
-14|003|4|Kompenz·ciÛs lista            |  3|MSZP                          |  0|  0|
-14|003|4|Kompenz·ciÛs lista            |  4|FAE                           |  0|  0|
-14|003|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  1|  0|
-14|003|4|Kompenz·ciÛs lista            |  6|KDNP                          |  0|  0|
-14|003|4|Kompenz·ciÛs lista            |  7|APO                           |  1|  0|
-14|003|4|Kompenz·ciÛs lista            |  8|LMP                           |  0|  0|
-14|011|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  0|  0|
-14|011|4|Kompenz·ciÛs lista            |  2|MSZP                          |  0|  0|
-14|011|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  1|  0|
-14|011|4|Kompenz·ciÛs lista            |  4|SzˆvetsÈg Biatorb·gyÈrt E.    |  1|  0|
-14|011|4|Kompenz·ciÛs lista            |  5|KDNP                          |  1|  0|
-14|013|4|Kompenz·ciÛs lista            |  1|BUDAKAL¡SZI NEMZETI F”RUM     |  1|  0|
-14|013|4|Kompenz·ciÛs lista            |  2|MSZP                          |  0|  0|
-14|013|4|Kompenz·ciÛs lista            |  3|BUDAKAL¡SZ…RT  V…DEGYLET      |  1|  0|
-14|013|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  1|  0|
-14|014|4|Kompenz·ciÛs lista            |  1|KESZI K÷R EGYES‹LET           |  0|  0|
-14|014|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-14|014|4|Kompenz·ciÛs lista            |  3|B.F.E.                        |  1|  0|
-14|014|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-14|014|4|Kompenz·ciÛs lista            |  5|LMP                           |  1|  0|
-14|015|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-14|015|4|Kompenz·ciÛs lista            |  2|BUDA÷RS FEJL’D…S……RT EGYES‹LET|  2|  0|
-14|015|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-14|015|4|Kompenz·ciÛs lista            |  4|BUDA÷RSI V¡LLALKOZ”K EGYES‹LET|  0|  0|
-14|015|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-14|017|4|Kompenz·ciÛs lista            |  1|CFE                           |  1|  0|
-14|017|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-14|017|4|Kompenz·ciÛs lista            |  3|LMP                           |  1|  0|
-14|017|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-14|017|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-14|025|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-14|025|4|Kompenz·ciÛs lista            |  2|KDNP-NEMZETI F”RUM            |  1|  0|
-14|025|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-14|025|4|Kompenz·ciÛs lista            |  4|LMP                           |  0|  0|
-14|025|4|Kompenz·ciÛs lista            |  5|DAFI-FIDESZ                   |  0|  0|
-14|033|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-14|033|4|Kompenz·ciÛs lista            |  2|CIVIL MOZGALOM                |  0|  0|
-14|033|4|Kompenz·ciÛs lista            |  3|Lok·lpatriÛt·k DunaharasztiÈrt|  0|  0|
-14|033|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  2|  0|
-14|034|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-14|034|4|Kompenz·ciÛs lista            |  2|LMP                           |  1|  0|
-14|034|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-14|034|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-14|038|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-14|038|4|Kompenz·ciÛs lista            |  2|…rdi Ipartest¸let             |  0|  0|
-14|038|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-14|038|4|Kompenz·ciÛs lista            |  4|CIVIL …RDEK                   |  1|  0|
-14|038|4|Kompenz·ciÛs lista            |  5|K÷Z…RDEK-MSZP                 |  2|  0|
-14|038|4|Kompenz·ciÛs lista            |  6|2030 EGYES‹LET                |  1|  0|
-14|041|4|Kompenz·ciÛs lista            |  1|Civil ÷sszefog·s a FÛtiakÈrt  |  1|  0|
-14|041|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-14|041|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-14|041|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-14|046|4|Kompenz·ciÛs lista            |  1|MSZDP                         |  0|  0|
-14|046|4|Kompenz·ciÛs lista            |  2|JOBBIK-MNF                    |  1|  0|
-14|046|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-14|046|4|Kompenz·ciÛs lista            |  4|V.V.E.                        |  1|  0|
-14|046|4|Kompenz·ciÛs lista            |  5|LMP                           |  1|  0|
-14|047|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-14|047|4|Kompenz·ciÛs lista            |  2|LMP                           |  0|  0|
-14|047|4|Kompenz·ciÛs lista            |  3|G÷D÷LL’I LOK¡LPATRI”TA KLUB   |  0|  0|
-14|047|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  2|  0|
-14|047|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-14|048|4|Kompenz·ciÛs lista            |  1|MVMP                          |  0|  0|
-14|048|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-14|048|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-14|048|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-14|049|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-14|049|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  1|  0|
-14|049|4|Kompenz·ciÛs lista            |  3|MSZP                          |  0|  0|
-14|049|4|Kompenz·ciÛs lista            |  4|GY÷MR’I T¡RSASK÷R             |  1|  0|
-14|049|4|Kompenz·ciÛs lista            |  5|GY÷MR’ 2000 K÷R               |  0|  0|
-14|058|4|Kompenz·ciÛs lista            |  1|MSZP                          |  2|  0|
-14|058|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-14|058|4|Kompenz·ciÛs lista            |  3|Fidesz - ¡prilis 6 Kˆr        |  0|  0|
-14|064|4|Kompenz·ciÛs lista            |  1|÷sszefog·sKerepesÈrt Egyes¸let|  0|  0|
-14|064|4|Kompenz·ciÛs lista            |  2|ECKE                          |  1|  0|
-14|064|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  0|  0|
-14|064|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  1|  0|
-14|064|4|Kompenz·ciÛs lista            |  5|Szilasligeti Teleh·z Egyes¸let|  1|  0|
-14|064|4|Kompenz·ciÛs lista            |  6|MSZP                          |  0|  0|
-14|069|4|Kompenz·ciÛs lista            |  1|Szilasligeti Teleh·z Egyes¸let|  0|  0|
-14|069|4|Kompenz·ciÛs lista            |  2|M-…RT…K PEDAG”GUSOK EGYES‹LETE|  0|  0|
-14|069|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-14|069|4|Kompenz·ciÛs lista            |  4|Kistarcsa V·rosÈrt Egyes¸let  |  1|  0|
-14|069|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-14|069|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  0|  0|
-14|069|4|Kompenz·ciÛs lista            |  7|Kt. V·llakozÛk                |  0|  0|
-14|078|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-14|078|4|Kompenz·ciÛs lista            |  2|CKE MaglÛd                    |  0|  0|
-14|078|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  0|  0|
-14|078|4|Kompenz·ciÛs lista            |  4|MaglÛdi Polg·ri Kˆr           |  0|  0|
-14|078|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  2|  0|
-14|085|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-14|085|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-14|085|4|Kompenz·ciÛs lista            |  3|MSE                           |  1|  0|
-14|085|4|Kompenz·ciÛs lista            |  4|K÷RME                         |  0|  0|
-14|085|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-14|087|4|Kompenz·ciÛs lista            |  1|T¡PI”MENTI IPARTEST‹LET       |  1|  0|
-14|087|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-14|087|4|Kompenz·ciÛs lista            |  3|EVT                           |  1|  0|
-14|087|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  0|  0|
-14|089|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-14|089|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-14|089|4|Kompenz·ciÛs lista            |  3|CIVIL MOZGALOM                |  1|  0|
-14|089|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-14|102|4|Kompenz·ciÛs lista            |  1|KDNP                          |  0|  0|
-14|102|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-14|102|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-14|102|4|Kompenz·ciÛs lista            |  4|P…CELI K÷Z…RDEK€ EGYES‹LET    |  0|  0|
-14|102|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  1|  0|
-14|104|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-14|104|4|Kompenz·ciÛs lista            |  2|Pilisi Polg·rır Egyes¸let     |  1|  0|
-14|104|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-14|104|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-14|112|4|Kompenz·ciÛs lista            |  1|CIVIL EGYES‹LET PILISV÷R÷SV¡R |  1|  0|
-14|112|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  1|  0|
-14|112|4|Kompenz·ciÛs lista            |  3|VKE                           |  0|  0|
-14|112|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-14|113|4|Kompenz·ciÛs lista            |  1|PLE                           |  1|  0|
-14|113|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-14|113|4|Kompenz·ciÛs lista            |  3|MSz                           |  0|  0|
-14|113|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-14|113|4|Kompenz·ciÛs lista            |  5|MDF                           |  0|  0|
-14|113|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-14|121|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-14|121|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-14|121|4|Kompenz·ciÛs lista            |  3|LMP                           |  1|  0|
-14|121|4|Kompenz·ciÛs lista            |  4|SKE                           |  1|  0|
-14|125|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  1|  0|
-14|125|4|Kompenz·ciÛs lista            |  2|LMP                           |  0|  0|
-14|125|4|Kompenz·ciÛs lista            |  3|SZVJKE-NAPOS OLDAL            |  0|  0|
-14|125|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  0|  0|
-14|125|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-14|125|4|Kompenz·ciÛs lista            |  6|…SZKE                         |  1|  0|
-14|126|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-14|126|4|Kompenz·ciÛs lista            |  2|Ipartest¸let-                 |  0|  0|
-14|126|4|Kompenz·ciÛs lista            |  3|TESZ                          |  2|  0|
-14|126|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-14|126|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  0|  0|
-14|131|4|Kompenz·ciÛs lista            |  1|T÷RT…NELMI SZ÷VETS…G          |  0|  0|
-14|131|4|Kompenz·ciÛs lista            |  2|SZLE                          |  1|  0|
-14|131|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-14|131|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-14|131|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-14|134|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-14|134|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-14|134|4|Kompenz·ciÛs lista            |  3|C.K.O.E.                      |  0|  0|
-14|134|4|Kompenz·ciÛs lista            |  4|SZ÷-SZI EGYES‹LET             |  1|  0|
-14|134|4|Kompenz·ciÛs lista            |  5|LMP                           |  1|  0|
-14|134|4|Kompenz·ciÛs lista            |  6|FIDESZ KDNP                   |  0|  0|
-14|157|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  3|  0|
-14|157|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-14|158|4|Kompenz·ciÛs lista            |  1|LMP                           |  1|  0|
-14|158|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  0|  0|
-14|158|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-14|158|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  0|  0|
-14|158|4|Kompenz·ciÛs lista            |  5|F‹GGETLEN PLATFORM EGYES‹LET  |  1|  0|
-14|165|4|Kompenz·ciÛs lista            |  1|MSz                           |  0|  0|
-14|165|4|Kompenz·ciÛs lista            |  2|‹llıi Polg·ri Kˆr             |  1|  0|
-14|165|4|Kompenz·ciÛs lista            |  3|‹llıi ¡ltal·nos Ipartest¸let  |  1|  0|
-14|165|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  1|  0|
-14|165|4|Kompenz·ciÛs lista            |  5|Meg˙jul·s                     |  0|  0|
-14|169|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-14|169|4|Kompenz·ciÛs lista            |  2|KDNP                          |  1|  0|
-14|169|4|Kompenz·ciÛs lista            |  3|MRPP                          |  0|  0|
-14|169|4|Kompenz·ciÛs lista            |  4|FIDESZ                        |  1|  0|
-14|169|4|Kompenz·ciÛs lista            |  5|V·cÈrt Lok·lpatriÛta Egyes¸let|  0|  0|
-14|169|4|Kompenz·ciÛs lista            |  6|MSZP                          |  1|  0|
-14|177|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-14|177|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-14|177|4|Kompenz·ciÛs lista            |  3|Meg˙jul·s                     |  0|  0|
-14|177|4|Kompenz·ciÛs lista            |  4|LMP-F¸ggetlenek               |  0|  0|
-14|177|4|Kompenz·ciÛs lista            |  5|VVE                           |  1|  0|
-14|177|4|Kompenz·ciÛs lista            |  6|JOBBIK                        |  1|  0|
-14|178|4|Kompenz·ciÛs lista            |  1|LMP                           |  0|  0|
-14|178|4|Kompenz·ciÛs lista            |  2|VJJE                          |  0|  0|
-14|178|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-14|178|4|Kompenz·ciÛs lista            |  4|… V E                         |  0|  0|
-14|178|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP                   |  2|  0|
-14|178|4|Kompenz·ciÛs lista            |  6|SZOVE                         |  0|  0|
-14|178|4|Kompenz·ciÛs lista            |  7|MSZP                          |  0|  0|
-15|020|4|Kompenz·ciÛs lista            |  1|FIDESZ                        |  0|  0|
-15|020|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-15|020|4|Kompenz·ciÛs lista            |  3|"Civil ÷sszefog·s BarcsÈrt"   |  2|  0|
-15|091|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-15|091|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-15|091|4|Kompenz·ciÛs lista            |  3|KAPOSV¡RI SOMOGY…RT           |  1|  0|
-15|091|4|Kompenz·ciÛs lista            |  4|LMP                           |  1|  0|
-15|091|4|Kompenz·ciÛs lista            |  5|MSZP                          |  2|  0|
-15|091|4|Kompenz·ciÛs lista            |  6|Polg·ri Szabads·g Platform    |  0|  0|
-15|123|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  1|  0|
-15|123|4|Kompenz·ciÛs lista            |  2|MARCALI AZ OTTHONUNK EGYES‹LET|  2|  0|
-15|123|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  0|  0|
-15|130|4|Kompenz·ciÛs lista            |  1|NAGYAT¡D…RT                   |  1|  0|
-15|130|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  1|  0|
-15|130|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-15|175|4|Kompenz·ciÛs lista            |  1|EGY‹TT SI”FOK…RT EGYES‹LET    |  1|  0|
-15|175|4|Kompenz·ciÛs lista            |  2|MSZP                          |  1|  0|
-15|175|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-15|175|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-16|077|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-16|077|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-16|077|4|Kompenz·ciÛs lista            |  3|FIKISZ                        |  0|  0|
-16|077|4|Kompenz·ciÛs lista            |  4|F¸ggetlenek Kisv·rd·Èrt       |  1|  0|
-16|077|4|Kompenz·ciÛs lista            |  5|FIDESZ                        |  0|  0|
-16|094|4|Kompenz·ciÛs lista            |  1|CIVIL MOZGALOM                |  1|  0|
-16|094|4|Kompenz·ciÛs lista            |  2|÷P                            |  0|  0|
-16|094|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-16|094|4|Kompenz·ciÛs lista            |  4|MSZP                          |  1|  0|
-16|094|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-16|106|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-16|106|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  1|  0|
-16|106|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-16|106|4|Kompenz·ciÛs lista            |  4|FEJL’D’ NAGYK¡LL”             |  0|  0|
-16|112|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-16|112|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-16|112|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  1|  0|
-16|119|4|Kompenz·ciÛs lista            |  1|LMP                           |  0|  0|
-16|119|4|Kompenz·ciÛs lista            |  2|…ljen NyÌregyh·za             |  0|  0|
-16|119|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  2|  0|
-16|119|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-16|119|4|Kompenz·ciÛs lista            |  5|MSZP                          |  3|  0|
-16|119|4|Kompenz·ciÛs lista            |  6|F¸ggetlenek Egyes¸lete        |  1|  0|
-16|204|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  1|  0|
-16|204|4|Kompenz·ciÛs lista            |  2|TV NAGYCSAL¡DOSOK EGYES‹LETE  |  1|  0|
-16|204|4|Kompenz·ciÛs lista            |  3|CIVIL MOZGALOM                |  0|  0|
-16|204|4|Kompenz·ciÛs lista            |  4|MSZP                          |  0|  0|
-16|204|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-16|217|4|Kompenz·ciÛs lista            |  1|÷SSZEFOG¡S ⁄JFEH…RT”…RT       |  0|  0|
-16|217|4|Kompenz·ciÛs lista            |  2|GENER¡CI”K SZ÷VETS…GE         |  1|  0|
-16|217|4|Kompenz·ciÛs lista            |  3|FE⁄                           |  0|  0|
-16|217|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  1|  0|
-16|217|4|Kompenz·ciÛs lista            |  5|FIDESZ-KDNP-H¡HE-⁄AG          |  0|  0|
-16|217|4|Kompenz·ciÛs lista            |  6|EGY‹TT EGYM¡S…RT              |  1|  0|
-17|011|4|Kompenz·ciÛs lista            |  1|MSZP                          |  2|  0|
-17|011|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-17|011|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-17|020|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-17|020|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-17|020|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-17|079|4|Kompenz·ciÛs lista            |  1|PAKS V¡ROS…RT MOZGALOM        |  1|  0|
-17|079|4|Kompenz·ciÛs lista            |  2|MSZP-VJE                      |  1|  0|
-17|079|4|Kompenz·ciÛs lista            |  3|FIDESZ                        |  0|  0|
-17|079|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  0|  0|
-17|079|4|Kompenz·ciÛs lista            |  5|PAKSI LOK¡LPATRI”T¡K          |  1|  0|
-17|095|4|Kompenz·ciÛs lista            |  1|LMP                           |  1|  0|
-17|095|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  0|  0|
-17|095|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-17|095|4|Kompenz·ciÛs lista            |  4|JOBBIK-SZEKSZ¡RDI V…DEGYLET   |  1|  0|
-17|099|4|Kompenz·ciÛs lista            |  1|DRVSZ                         |  0|  0|
-17|099|4|Kompenz·ciÛs lista            |  2|FIDESZ                        |  1|  0|
-17|099|4|Kompenz·ciÛs lista            |  3|MˆzsÈrt civil Egyes¸let       |  0|  0|
-17|099|4|Kompenz·ciÛs lista            |  4|Civil Voks Tolnai Egyes¸lete  |  0|  0|
-17|099|4|Kompenz·ciÛs lista            |  5|JOBBIK                        |  1|  0|
-17|099|4|Kompenz·ciÛs lista            |  6|MSZP                          |  1|  0|
-18|020|4|Kompenz·ciÛs lista            |  1|Cselekvı ÷sszef. CelldˆmˆlkÈrt|  0|  0|
-18|020|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  3|  0|
-18|020|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  0|  0|
-18|095|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-18|095|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-18|095|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-18|095|4|Kompenz·ciÛs lista            |  4|PRO K÷RMEND                   |  0|  0|
-18|095|4|Kompenz·ciÛs lista            |  5|RPF                           |  1|  0|
-18|096|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-18|096|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-18|096|4|Kompenz·ciÛs lista            |  3|÷SSZEFOG¡S K’SZEG…RT EGYES‹LET|  0|  0|
-18|096|4|Kompenz·ciÛs lista            |  4|CIVIL MOZGALOM                |  1|  0|
-18|096|4|Kompenz·ciÛs lista            |  5|ALPOKALJA Z÷LDEK              |  0|  0|
-18|096|4|Kompenz·ciÛs lista            |  6|FIDESZ-KDNP                   |  0|  0|
-18|167|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-18|167|4|Kompenz·ciÛs lista            |  2|S¡RV¡R…RT EGYES‹LET           |  0|  0|
-18|167|4|Kompenz·ciÛs lista            |  3|HÕD A J÷V’NK…RT EGYES‹LET     |  1|  0|
-18|167|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-18|167|4|Kompenz·ciÛs lista            |  5|MSZP                          |  1|  0|
-18|167|4|Kompenz·ciÛs lista            |  6|LMP                           |  0|  0|
-18|186|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-18|186|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  1|  0|
-18|186|4|Kompenz·ciÛs lista            |  3|ESZE                          |  0|  0|
-18|186|4|Kompenz·ciÛs lista            |  4|LMP                           |  1|  0|
-18|186|4|Kompenz·ciÛs lista            |  5|MSZP-SZTKE                    |  3|  0|
-19|003|4|Kompenz·ciÛs lista            |  1|MSZP                          |  1|  0|
-19|003|4|Kompenz·ciÛs lista            |  2|FIDESZ-KDNP                   |  2|  0|
-19|003|4|Kompenz·ciÛs lista            |  3|VPE                           |  1|  0|
-19|003|4|Kompenz·ciÛs lista            |  4|JOBBIK                        |  0|  0|
-19|026|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-19|026|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-19|026|4|Kompenz·ciÛs lista            |  3|JOBBIK                        |  1|  0|
-19|153|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-19|153|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-19|153|4|Kompenz·ciÛs lista            |  3|MSZP                          |  3|  0|
-19|188|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-19|188|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  2|  0|
-19|188|4|Kompenz·ciÛs lista            |  3|MSZP                          |  1|  0|
-19|188|4|Kompenz·ciÛs lista            |  4|TKVE                          |  0|  0|
-19|201|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-19|201|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-19|201|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-19|203|4|Kompenz·ciÛs lista            |  1|LMP                           |  1|  0|
-19|203|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  1|  0|
-19|203|4|Kompenz·ciÛs lista            |  3|FIDESZ-KDNP                   |  0|  0|
-19|203|4|Kompenz·ciÛs lista            |  4|MSZP                          |  2|  0|
-19|203|4|Kompenz·ciÛs lista            |  5|Lok·lpatriÛt·kVP              |  1|  0|
-20|093|4|Kompenz·ciÛs lista            |  1|JOBBIK                        |  1|  0|
-20|093|4|Kompenz·ciÛs lista            |  2|MSZP                          |  2|  0|
-20|093|4|Kompenz·ciÛs lista            |  3|Keszthely V·rosÈrt Egyes¸let  |  0|  0|
-20|093|4|Kompenz·ciÛs lista            |  4|FIDESZ-KDNP                   |  0|  0|
-20|093|4|Kompenz·ciÛs lista            |  5|Keszthelyi Ipartest¸let       |  0|  0|
-20|093|4|Kompenz·ciÛs lista            |  6|LMP                           |  0|  0|
-20|134|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-20|134|4|Kompenz·ciÛs lista            |  2|V·rosvÈdı Egyes¸let           |  0|  0|
-20|134|4|Kompenz·ciÛs lista            |  3|MSZP-MSZDP KANIZS¡…RT         |  2|  0|
-20|134|4|Kompenz·ciÛs lista            |  4|C÷NE                          |  1|  0|
-20|134|4|Kompenz·ciÛs lista            |  5|Kanizs·Èrt KE                 |  1|  0|
-20|134|4|Kompenz·ciÛs lista            |  6|⁄J P”LUS                      |  0|  0|
-20|134|4|Kompenz·ciÛs lista            |  7|JOBBIK                        |  1|  0|
-20|231|4|Kompenz·ciÛs lista            |  1|FIDESZ-KDNP                   |  0|  0|
-20|231|4|Kompenz·ciÛs lista            |  2|JOBBIK                        |  2|  0|
-20|231|4|Kompenz·ciÛs lista            |  3|MSZP                          |  2|  0|
-20|231|4|Kompenz·ciÛs lista            |  4|LMP                           |  0|  0|
-20|231|4|Kompenz·ciÛs lista            |  5|EZE                           |  1|  0|
+01|001|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+01|001|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  1|  0|
+01|001|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+01|001|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  3|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  3|LMP                           |  2|  0|
+01|002|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  1|ITT √âL√úNK EGYES√úLET           |  1|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  1|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+01|003|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  3|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  1|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+01|004|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-UE                     |  0|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+01|005|4|Kompenz√°ci√≥s lista            |  4|LMP                           |  1|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  2|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+01|006|4|Kompenz√°ci√≥s lista            |  4|LMP                           |  1|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  4|SZEM                          |  1|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  5|LMP                           |  1|  0|
+01|007|4|Kompenz√°ci√≥s lista            |  6|F√úGE                          |  0|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  1|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  0|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+01|008|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  3|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  3|LMP                           |  1|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  4|FLE                           |  1|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+01|009|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  1|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  3|MSZDP                         |  0|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  3|  0|
+01|010|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  0|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  2|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  4|  0|
+01|011|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  3|LMP                           |  2|  0|
+01|012|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  1|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  0|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  4|  0|
+01|013|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  1|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  3|Z√âK EGYES√úLET                 |  1|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+01|014|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  3|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  3|CIVIL MOZGALOM                |  0|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  4|R√ÅTE                          |  2|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+01|015|4|Kompenz√°ci√≥s lista            |  6|LMP                           |  1|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  1|F≈êVE EGYES√úLET                |  0|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  5|CIVIL MOZGALOM                |  1|  0|
+01|016|4|Kompenz√°ci√≥s lista            |  6|LMP                           |  1|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  3|  0|
+01|017|4|Kompenz√°ci√≥s lista            |  4|ITTHON                        |  2|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  4|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  1|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+01|018|4|Kompenz√°ci√≥s lista            |  5|CIVIL MOZGALOM                |  0|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  0|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  1|  0|
+01|019|4|Kompenz√°ci√≥s lista            |  5|LMP                           |  1|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  1|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  4|LMP                           |  1|  0|
+01|020|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  1|MUNK√ÅSP√ÅRT                    |  0|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  5|CIVIL MOZGALOM                |  0|  0|
+01|021|4|Kompenz√°ci√≥s lista            |  6|LMP                           |  1|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  2|IPARTEST√úLET                  |  1|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  3|BAR√ÅTI K√ñR√ñK                  |  1|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+01|022|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  0|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  1|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  0|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+01|023|4|Kompenz√°ci√≥s lista            |  5|Civil Egyes√ºlet               |  1|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  1|Z√ñLD BALOLDAL                 |  0|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  2|KPK                           |  1|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  3|CITE                          |  0|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  4|HONISMERETI √âS V√ÅROSSZ√âP√çT≈ê E.|  1|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  0|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+02|137|4|Kompenz√°ci√≥s lista            |  7|MSZP                          |  1|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  3|MUNK√ÅSP√ÅRT                    |  0|  0|
+02|181|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  2|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  2|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  2|  0|
+02|217|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  4|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  2|KAPOCS                        |  1|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  0|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+02|234|4|Kompenz√°ci√≥s lista            |  5|Sikl√≥s√©rt Egyes√ºlet           |  1|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  0|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  3|CIVIL MOZGALOM                |  0|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  4|Munk√°sp√°rt 2006               |  0|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  1|  0|
+02|263|4|Kompenz√°ci√≥s lista            |  6|Szigetv√°ri Emberek√©rt         |  1|  0|
+03|004|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+03|004|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+03|004|4|Kompenz√°ci√≥s lista            |  3|CM MSZP SZEMA-√ñSSZEFOG√ÅS 2010 |  3|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  0|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+03|056|4|Kompenz√°ci√≥s lista            |  4|KSZPE                         |  2|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+03|060|4|Kompenz√°ci√≥s lista            |  3|LMP                           |  2|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  2|Kisk≈ër√∂si Szlov√°kok Szervezete|  0|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  3|Kisk≈ër√∂si Gazdak-Ipartest√ºlet |  1|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  4|KPCSZ                         |  1|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  5|MSz                           |  0|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  6|"Aroma" Egyes√ºlet             |  0|  0|
+03|064|4|Kompenz√°ci√≥s lista            |  7|MSZP                          |  1|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  0|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  0|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  5|CIVIL MOZGALOM                |  1|  0|
+03|065|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+03|066|4|Kompenz√°ci√≥s lista            |  1|J√∂v≈ënk Halas Egyes√ºlet        |  2|  0|
+03|066|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  1|  0|
+03|066|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+03|067|4|Kompenz√°ci√≥s lista            |  1|EKE-KVSZ                      |  1|  0|
+03|067|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  1|  0|
+03|067|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  0|  0|
+03|067|4|Kompenz√°ci√≥s lista            |  4|PSZM                          |  1|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  1|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  0|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  3|IPARTEST√úLET LAJOSMIZSE       |  1|  0|
+03|078|4|Kompenz√°ci√≥s lista            |  4|GAZDAK√ñR                      |  1|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  2|MSz                           |  0|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  4|MAGYAR V√ÅLLALKOZ√ì EGYS√âGP√ÅRT  |  0|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  0|  0|
+03|111|4|Kompenz√°ci√≥s lista            |  6|NEMZETI F√ìRUM                 |  1|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  0|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  2|B√âK√âSI KISGAZDAK√ñR            |  0|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  2|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  5|JOBBOLDALI √ñSSZEFOG√ÅS         |  0|  0|
+04|003|4|Kompenz√°ci√≥s lista            |  6|B√âK√âSI IPARTEST√úLET           |  0|  0|
+04|004|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  2|  0|
+04|004|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  1|  0|
+04|004|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+04|004|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  0|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  2|K√∂r√∂s√∂k Vid√©k√©√©rt Egyes√ºlet   |  1|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+04|025|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  1|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  2|V√ÅROSBAR√ÅTOK                  |  2|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  3|K√∂r√∂s√∂k V√∂lgye                |  1|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  0|  0|
+04|026|4|Kompenz√°ci√≥s lista            |  5|GYULAI IPOSZ-√ñGYE             |  1|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  1|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  3|V√°rossz√©p√≠t≈ë √©s V√°rosv√©d≈ë Egye|  0|  0|
+04|049|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  3|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  3|MUNK√ÅSP√ÅRT                    |  0|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+04|059|4|Kompenz√°ci√≥s lista            |  5|OH NYUGD√çJASOK                |  0|  0|
+04|063|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+04|063|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+04|063|4|Kompenz√°ci√≥s lista            |  3|"Ipartest√ºlet"                |  1|  0|
+04|063|4|Kompenz√°ci√≥s lista            |  4|Nyugd√≠jas Egy.-FIDESZ         |  0|  0|
+04|063|4|Kompenz√°ci√≥s lista            |  5|ROD√â                          |  0|  0|
+04|066|4|Kompenz√°ci√≥s lista            |  1|NACSE                         |  1|  0|
+04|066|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+04|066|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+04|066|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+05|075|4|Kompenz√°ci√≥s lista            |  1|T√∫l az √ìperenci√°n             |  1|  0|
+05|075|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  1|  0|
+05|075|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  0|  0|
+05|075|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  0|  0|
+05|075|4|Kompenz√°ci√≥s lista            |  5|V√°ltoz√°s Edel√©ny              |  1|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  1|FKE                           |  0|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  2|CIVIL MOZGALOM                |  0|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  2|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+05|153|4|Kompenz√°ci√≥s lista            |  6|LMP                           |  0|  0|
+05|196|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  2|  0|
+05|196|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+05|196|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  1|SZEME                         |  0|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  1|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  4|LMP                           |  0|  0|
+05|202|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  3|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  2|F√ºggetlenek V.E.              |  0|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  1|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT                    |  0|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  2|  0|
+05|226|4|Kompenz√°ci√≥s lista            |  6|√âKE                           |  0|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  1|MDF                           |  0|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  3|CKDP                          |  0|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  4|T E S Z                       |  0|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  1|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  6|SP√âTERI Z√ñLDEK                |  1|  0|
+05|268|4|Kompenz√°ci√≥s lista            |  7|JOBBIK                        |  0|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  0|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  3|S√°rospataki Lok√°lpatri√≥t√°k    |  1|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  4|Bodrogparti Ath√©n S√°rospatak  |  1|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  5|F√úGGETLENEK S√ÅROSPATAK√âRT EGY.|  1|  0|
+05|274|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  0|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+05|276|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  1|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  2|V√°ros√©rt Egyes√ºlet            |  1|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  0|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+05|326|4|Kompenz√°ci√≥s lista            |  5|MUNK√ÅSP√ÅRT                    |  0|  0|
+06|013|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+06|013|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+06|013|4|Kompenz√°ci√≥s lista            |  3|√ñSSZEFOG√ÅS CSONGR√ÅD√âRT EGY.   |  0|  0|
+06|013|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+06|024|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+06|024|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+06|024|4|Kompenz√°ci√≥s lista            |  3|Z√ñLD BALOLDAL                 |  1|  0|
+06|024|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  2|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  1|V√°ros√©p√≠t≈ëk T√°rsas√°ga         |  1|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  0|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  0|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  4|MUNK√ÅSP√ÅRT                    |  0|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  5|PSZM MAK√ì                     |  1|  0|
+06|032|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  1|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  1|MSZP-√ñSSZEFOG√ÅS SZEGED√âRT     |  3|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  1|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  3|  0|
+06|051|4|Kompenz√°ci√≥s lista            |  5|Z√ñLD BALOLDAL                 |  0|  0|
+06|053|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+06|053|4|Kompenz√°ci√≥s lista            |  2|P√°lm√°sok Sz√∂vets√©ge           |  1|  0|
+06|053|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  1|  0|
+06|053|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+07|013|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+07|013|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+07|013|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  1|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+07|024|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+07|061|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  0|  0|
+07|061|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+07|061|4|Kompenz√°ci√≥s lista            |  3|MVJE                          |  2|  0|
+07|061|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  0|  0|
+07|078|4|Kompenz√°ci√≥s lista            |  1|F√úGGETLEN BALOLDALI EGYES√úLET |  1|  0|
+07|078|4|Kompenz√°ci√≥s lista            |  2|Mozdulj a v√°ros√©rt Egyes√ºlet  |  1|  0|
+07|078|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+07|078|4|Kompenz√°ci√≥s lista            |  4|KAPOCS Egyes√ºlet              |  0|  0|
+07|078|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  1|V√ÅLASZ                        |  1|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  2|CIVIL MOZGALOM                |  1|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  4|MDF                           |  0|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  1|  0|
+07|094|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  1|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  2|CSORNAI POLG√ÅRI EGYES√úLET     |  1|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+08|027|4|Kompenz√°ci√≥s lista            |  4|SZ√úL≈êF√ñLD√úNK√âRT EGYES√úLET     |  0|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  1|PRO URBE GY≈êR                 |  1|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  4|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+08|059|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  2|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  2|KE                            |  1|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+08|081|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  2|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+08|104|4|Kompenz√°ci√≥s lista            |  4|MPKE                          |  1|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  3|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  3|LMP                           |  1|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  4|V√°rosv√©d≈ëk                    |  0|  0|
+08|150|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  0|  0|
+09|005|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+09|005|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  3|  0|
+09|009|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  1|  0|
+09|009|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+09|009|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  1|DISZ                          |  2|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  4|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  3|Civil F√≥rum Debrecen Egyes√ºlet|  1|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  3|  0|
+09|018|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  0|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  1|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  2|MDF                           |  0|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  4|MSZDP                         |  0|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  5|Civilek Lak√≥hely√©rt Egyes√ºlet |  1|  0|
+09|030|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  1|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  2|V√°rosv√©d≈ëk HE                 |  1|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  3|MSz                           |  0|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  0|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  5|KOE                           |  0|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  7|FBT Egyes√ºlet                 |  1|  0|
+09|032|4|Kompenz√°ci√≥s lista            |  8|K√ñZ√ñSS√âGI H√ÅZ KHE             |  0|  0|
+09|033|4|Kompenz√°ci√≥s lista            |  1|HESZE                         |  1|  0|
+09|033|4|Kompenz√°ci√≥s lista            |  2|HTFE-MSZP                     |  1|  0|
+09|033|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+09|033|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  0|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  2|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  2|ESHE                          |  1|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  3|HFE                           |  0|  0|
+09|034|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  0|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  1|Civilek Hajd√∫szoboszl√≥√©rt     |  1|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  0|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  0|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  5|√ñsszefog√°s Hajd√∫szoboszl√≥√©rt  |  1|  0|
+09|035|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  2|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+09|063|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  1|MSz                           |  0|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  1|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  2|  0|
+10|025|4|Kompenz√°ci√≥s lista            |  6|EGY√úTT A FEJL≈êD≈ê V√ÅROSUNK√âRT  |  0|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  2|Munk√°sp√°rt 2006               |  0|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  1|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+10|039|4|Kompenz√°ci√≥s lista            |  5|Civilek Gy√∂ngy√∂s√©rt Egyes√ºlet |  1|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  1|Egy√ºtt Hatvan√©rt Egyes√ºletMSZP|  2|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  2|P√°lhidy Mih√°ly Hagyom√°ny≈ërz≈ë E|  0|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  0|  0|
+10|046|4|Kompenz√°ci√≥s lista            |  5|Hatvani Lok√°lpatri√≥t√°k        |  0|  0|
+10|048|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+10|048|4|Kompenz√°ci√≥s lista            |  2|√ñHVE                          |  1|  0|
+10|048|4|Kompenz√°ci√≥s lista            |  3|FIDESZ - KDNP                 |  0|  0|
+10|048|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  2|√ñSSZEFOG√ÅS J√ÅSZBER√âNY√âRT      |  1|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  4|EJJE                          |  1|  0|
+11|016|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  1|KARCAGI IPARTEST√úLET          |  1|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  2|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  3|CIVIL F√ìRUM                   |  0|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  0|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  5|MUNK√ÅSP√ÅRT                    |  0|  0|
+11|027|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  0|  0|
+11|031|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+11|031|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP-N.POLG.K√ñR        |  0|  0|
+11|031|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+11|031|4|Kompenz√°ci√≥s lista            |  4|KjPolg√°r≈ërs√©g                 |  1|  0|
+11|040|4|Kompenz√°ci√≥s lista            |  1|CIVIL MOZGALOM                |  0|  0|
+11|040|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+11|040|4|Kompenz√°ci√≥s lista            |  3|MLE                           |  1|  0|
+11|040|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+11|040|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  0|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  3|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  2|MUNK√ÅSP√ÅRT                    |  0|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  3|LMP                           |  0|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  2|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  0|  0|
+11|052|4|Kompenz√°ci√≥s lista            |  6|SZOLNOKIAK SZOLNOK√âRT         |  0|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  2|CIVIL EGYS√âG TISZAF√ñLDV√ÅR√âRT  |  0|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  1|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  4|V√ÅROSV√âD≈ê POLG√ÅRI EGYES√úLET   |  1|  0|
+11|056|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  0|  0|
+11|057|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+11|057|4|Kompenz√°ci√≥s lista            |  2|POLG. SZ√ñV. TISZAF√úRED        |  1|  0|
+11|057|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  1|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  1|MUNK√ÅSP√ÅRT                    |  0|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  2|T√ñR√ñKSZENTMIKL√ìSI HORG√ÅSZ E.  |  0|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  3|WASS ALBERT POLG√ÅRI K√ñR       |  1|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  0|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+11|073|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  0|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  3|MSZDP                         |  0|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  1|  0|
+12|023|4|Kompenz√°ci√≥s lista            |  5|Bar√°ti Egyes√ºlet              |  1|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  2|VP                            |  1|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  4|LMP                           |  1|  0|
+12|028|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  1|FCKE                          |  1|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  0|  0|
+12|038|4|Kompenz√°ci√≥s lista            |  5|LMP                           |  0|  0|
+12|051|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+12|051|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  1|  0|
+12|051|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  3|MDF                           |  0|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+12|064|4|Kompenz√°ci√≥s lista            |  5|TISZTA K√ñZ√âLET√âRT EGYES√úLET   |  1|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  0|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  2|TTE                           |  0|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  1|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+12|065|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  3|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  2|Sz√∂vets√©g a J√∂v≈ë√©rt Mozgalom  |  0|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+13|003|4|Kompenz√°ci√≥s lista            |  5|MUNK√ÅSP√ÅRT                    |  0|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  1|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  2|BBK                           |  0|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  4|Munk√°sp√°rt 2006               |  0|  0|
+13|006|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+13|103|4|Kompenz√°ci√≥s lista            |  1|MSZP-TVE                      |  3|  0|
+13|103|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  1|  0|
+13|103|4|Kompenz√°ci√≥s lista            |  3|MUNK√ÅSP√ÅRT                    |  0|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  1|KDNP                          |  1|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  2|MSz                           |  0|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  4|441                           |  0|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+14|001|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  1|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  1|POLKA                         |  1|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  0|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  0|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  4|FAE                           |  0|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  1|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  6|KDNP                          |  0|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  7|APO                           |  1|  0|
+14|003|4|Kompenz√°ci√≥s lista            |  8|LMP                           |  0|  0|
+14|011|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  0|  0|
+14|011|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  0|  0|
+14|011|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  1|  0|
+14|011|4|Kompenz√°ci√≥s lista            |  4|Sz√∂vets√©g Biatorb√°gy√©rt E.    |  1|  0|
+14|011|4|Kompenz√°ci√≥s lista            |  5|KDNP                          |  1|  0|
+14|013|4|Kompenz√°ci√≥s lista            |  1|BUDAKAL√ÅSZI NEMZETI F√ìRUM     |  1|  0|
+14|013|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  0|  0|
+14|013|4|Kompenz√°ci√≥s lista            |  3|BUDAKAL√ÅSZ√âRT  V√âDEGYLET      |  1|  0|
+14|013|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  1|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  1|KESZI K√ñR EGYES√úLET           |  0|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  3|B.F.E.                        |  1|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+14|014|4|Kompenz√°ci√≥s lista            |  5|LMP                           |  1|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  2|BUDA√ñRS FEJL≈êD√âS√â√âRT EGYES√úLET|  2|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  4|BUDA√ñRSI V√ÅLLALKOZ√ìK EGYES√úLET|  0|  0|
+14|015|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  1|CFE                           |  1|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  3|LMP                           |  1|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+14|017|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+14|025|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+14|025|4|Kompenz√°ci√≥s lista            |  2|KDNP-NEMZETI F√ìRUM            |  1|  0|
+14|025|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+14|025|4|Kompenz√°ci√≥s lista            |  4|LMP                           |  0|  0|
+14|025|4|Kompenz√°ci√≥s lista            |  5|DAFI-FIDESZ                   |  0|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  2|CIVIL MOZGALOM                |  0|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  3|Lok√°lpatri√≥t√°k Dunaharaszti√©rt|  0|  0|
+14|033|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  2|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  1|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+14|034|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  2|√ârdi Ipartest√ºlet             |  0|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  4|CIVIL √âRDEK                   |  1|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  5|K√ñZ√âRDEK-MSZP                 |  2|  0|
+14|038|4|Kompenz√°ci√≥s lista            |  6|2030 EGYES√úLET                |  1|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  1|Civil √ñsszefog√°s a F√≥tiak√©rt  |  1|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+14|041|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  1|MSZDP                         |  0|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  2|JOBBIK-MNF                    |  1|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  4|V.V.E.                        |  1|  0|
+14|046|4|Kompenz√°ci√≥s lista            |  5|LMP                           |  1|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  0|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  3|G√ñD√ñLL≈êI LOK√ÅLPATRI√ìTA KLUB   |  0|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  2|  0|
+14|047|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+14|048|4|Kompenz√°ci√≥s lista            |  1|MVMP                          |  0|  0|
+14|048|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+14|048|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+14|048|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  1|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  0|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  4|GY√ñMR≈êI T√ÅRSASK√ñR             |  1|  0|
+14|049|4|Kompenz√°ci√≥s lista            |  5|GY√ñMR≈ê 2000 K√ñR               |  0|  0|
+14|058|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  2|  0|
+14|058|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+14|058|4|Kompenz√°ci√≥s lista            |  3|Fidesz - √Åprilis 6 K√∂r        |  0|  0|
+14|064|4|Kompenz√°ci√≥s lista            |  1|√ñsszefog√°sKerepes√©rt Egyes√ºlet|  0|  0|
+14|064|4|Kompenz√°ci√≥s lista            |  2|ECKE                          |  1|  0|
+14|064|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  0|  0|
+14|064|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  1|  0|
+14|064|4|Kompenz√°ci√≥s lista            |  5|Szilasligeti Teleh√°z Egyes√ºlet|  1|  0|
+14|064|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  0|  0|
+14|069|4|Kompenz√°ci√≥s lista            |  1|Szilasligeti Teleh√°z Egyes√ºlet|  0|  0|
+14|069|4|Kompenz√°ci√≥s lista            |  2|M-√âRT√âK PEDAG√ìGUSOK EGYES√úLETE|  0|  0|
+14|069|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+14|069|4|Kompenz√°ci√≥s lista            |  4|Kistarcsa V√°ros√©rt Egyes√ºlet  |  1|  0|
+14|069|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+14|069|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  0|  0|
+14|069|4|Kompenz√°ci√≥s lista            |  7|Kt. V√°llakoz√≥k                |  0|  0|
+14|078|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+14|078|4|Kompenz√°ci√≥s lista            |  2|CKE Magl√≥d                    |  0|  0|
+14|078|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  0|  0|
+14|078|4|Kompenz√°ci√≥s lista            |  4|Magl√≥di Polg√°ri K√∂r           |  0|  0|
+14|078|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  2|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  3|MSE                           |  1|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  4|K√ñRME                         |  0|  0|
+14|085|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  1|T√ÅPI√ìMENTI IPARTEST√úLET       |  1|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  3|EVT                           |  1|  0|
+14|087|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  0|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  3|CIVIL MOZGALOM                |  1|  0|
+14|089|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  1|KDNP                          |  0|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  4|P√âCELI K√ñZ√âRDEK≈∞ EGYES√úLET    |  0|  0|
+14|102|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  1|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  2|Pilisi Polg√°r≈ër Egyes√ºlet     |  1|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+14|104|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  1|CIVIL EGYES√úLET PILISV√ñR√ñSV√ÅR |  1|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  1|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  3|VKE                           |  0|  0|
+14|112|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  1|PLE                           |  1|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  3|MSz                           |  0|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  5|MDF                           |  0|  0|
+14|113|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+14|121|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+14|121|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+14|121|4|Kompenz√°ci√≥s lista            |  3|LMP                           |  1|  0|
+14|121|4|Kompenz√°ci√≥s lista            |  4|SKE                           |  1|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  1|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  2|LMP                           |  0|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  3|SZVJKE-NAPOS OLDAL            |  0|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  0|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+14|125|4|Kompenz√°ci√≥s lista            |  6|√âSZKE                         |  1|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  2|Ipartest√ºlet-                 |  0|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  3|TESZ                          |  2|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+14|126|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  0|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  1|T√ñRT√âNELMI SZ√ñVETS√âG          |  0|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  2|SZLE                          |  1|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+14|131|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  3|C.K.O.E.                      |  0|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  4|SZ√ñ-SZI EGYES√úLET             |  1|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  5|LMP                           |  1|  0|
+14|134|4|Kompenz√°ci√≥s lista            |  6|FIDESZ KDNP                   |  0|  0|
+14|157|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  3|  0|
+14|157|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  1|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  0|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  0|  0|
+14|158|4|Kompenz√°ci√≥s lista            |  5|F√úGGETLEN PLATFORM EGYES√úLET  |  1|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  1|MSz                           |  0|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  2|√úll≈ëi Polg√°ri K√∂r             |  1|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  3|√úll≈ëi √Åltal√°nos Ipartest√ºlet  |  1|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  1|  0|
+14|165|4|Kompenz√°ci√≥s lista            |  5|Meg√∫jul√°s                     |  0|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  2|KDNP                          |  1|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  3|MRPP                          |  0|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  4|FIDESZ                        |  1|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  5|V√°c√©rt Lok√°lpatri√≥ta Egyes√ºlet|  0|  0|
+14|169|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  1|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  3|Meg√∫jul√°s                     |  0|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  4|LMP-F√ºggetlenek               |  0|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  5|VVE                           |  1|  0|
+14|177|4|Kompenz√°ci√≥s lista            |  6|JOBBIK                        |  1|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  0|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  2|VJJE                          |  0|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  4|√â V E                         |  0|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP                   |  2|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  6|SZOVE                         |  0|  0|
+14|178|4|Kompenz√°ci√≥s lista            |  7|MSZP                          |  0|  0|
+15|020|4|Kompenz√°ci√≥s lista            |  1|FIDESZ                        |  0|  0|
+15|020|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+15|020|4|Kompenz√°ci√≥s lista            |  3|"Civil √ñsszefog√°s Barcs√©rt"   |  2|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  3|KAPOSV√ÅRI SOMOGY√âRT           |  1|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  4|LMP                           |  1|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  2|  0|
+15|091|4|Kompenz√°ci√≥s lista            |  6|Polg√°ri Szabads√°g Platform    |  0|  0|
+15|123|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  1|  0|
+15|123|4|Kompenz√°ci√≥s lista            |  2|MARCALI AZ OTTHONUNK EGYES√úLET|  2|  0|
+15|123|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  0|  0|
+15|130|4|Kompenz√°ci√≥s lista            |  1|NAGYAT√ÅD√âRT                   |  1|  0|
+15|130|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  1|  0|
+15|130|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+15|175|4|Kompenz√°ci√≥s lista            |  1|EGY√úTT SI√ìFOK√âRT EGYES√úLET    |  1|  0|
+15|175|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  1|  0|
+15|175|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+15|175|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  3|FIKISZ                        |  0|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  4|F√ºggetlenek Kisv√°rd√°√©rt       |  1|  0|
+16|077|4|Kompenz√°ci√≥s lista            |  5|FIDESZ                        |  0|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  1|CIVIL MOZGALOM                |  1|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  2|√ñP                            |  0|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  1|  0|
+16|094|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  1|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+16|106|4|Kompenz√°ci√≥s lista            |  4|FEJL≈êD≈ê NAGYK√ÅLL√ì             |  0|  0|
+16|112|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+16|112|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+16|112|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  1|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  0|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  2|√âljen Ny√≠regyh√°za             |  0|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  2|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  3|  0|
+16|119|4|Kompenz√°ci√≥s lista            |  6|F√ºggetlenek Egyes√ºlete        |  1|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  1|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  2|TV NAGYCSAL√ÅDOSOK EGYES√úLETE  |  1|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  3|CIVIL MOZGALOM                |  0|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  0|  0|
+16|204|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  1|√ñSSZEFOG√ÅS √öJFEH√âRT√ì√âRT       |  0|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  2|GENER√ÅCI√ìK SZ√ñVETS√âGE         |  1|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  3|FE√ö                           |  0|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  1|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  5|FIDESZ-KDNP-H√ÅHE-√öAG          |  0|  0|
+16|217|4|Kompenz√°ci√≥s lista            |  6|EGY√úTT EGYM√ÅS√âRT              |  1|  0|
+17|011|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  2|  0|
+17|011|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+17|011|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+17|020|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+17|020|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+17|020|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+17|079|4|Kompenz√°ci√≥s lista            |  1|PAKS V√ÅROS√âRT MOZGALOM        |  1|  0|
+17|079|4|Kompenz√°ci√≥s lista            |  2|MSZP-VJE                      |  1|  0|
+17|079|4|Kompenz√°ci√≥s lista            |  3|FIDESZ                        |  0|  0|
+17|079|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  0|  0|
+17|079|4|Kompenz√°ci√≥s lista            |  5|PAKSI LOK√ÅLPATRI√ìT√ÅK          |  1|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  1|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  0|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+17|095|4|Kompenz√°ci√≥s lista            |  4|JOBBIK-SZEKSZ√ÅRDI V√âDEGYLET   |  1|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  1|DRVSZ                         |  0|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  2|FIDESZ                        |  1|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  3|M√∂zs√©rt civil Egyes√ºlet       |  0|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  4|Civil Voks Tolnai Egyes√ºlete  |  0|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  5|JOBBIK                        |  1|  0|
+17|099|4|Kompenz√°ci√≥s lista            |  6|MSZP                          |  1|  0|
+18|020|4|Kompenz√°ci√≥s lista            |  1|Cselekv≈ë √ñsszef. Celld√∂m√∂lk√©rt|  0|  0|
+18|020|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  3|  0|
+18|020|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  0|  0|
+18|095|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+18|095|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+18|095|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+18|095|4|Kompenz√°ci√≥s lista            |  4|PRO K√ñRMEND                   |  0|  0|
+18|095|4|Kompenz√°ci√≥s lista            |  5|RPF                           |  1|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  3|√ñSSZEFOG√ÅS K≈êSZEG√âRT EGYES√úLET|  0|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  4|CIVIL MOZGALOM                |  1|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  5|ALPOKALJA Z√ñLDEK              |  0|  0|
+18|096|4|Kompenz√°ci√≥s lista            |  6|FIDESZ-KDNP                   |  0|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  2|S√ÅRV√ÅR√âRT EGYES√úLET           |  0|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  3|H√çD A J√ñV≈êNK√âRT EGYES√úLET     |  1|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  5|MSZP                          |  1|  0|
+18|167|4|Kompenz√°ci√≥s lista            |  6|LMP                           |  0|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  1|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  3|ESZE                          |  0|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  4|LMP                           |  1|  0|
+18|186|4|Kompenz√°ci√≥s lista            |  5|MSZP-SZTKE                    |  3|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  1|MSZP                          |  1|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  2|FIDESZ-KDNP                   |  2|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  3|VPE                           |  1|  0|
+19|003|4|Kompenz√°ci√≥s lista            |  4|JOBBIK                        |  0|  0|
+19|026|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+19|026|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+19|026|4|Kompenz√°ci√≥s lista            |  3|JOBBIK                        |  1|  0|
+19|153|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+19|153|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+19|153|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  3|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  2|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  1|  0|
+19|188|4|Kompenz√°ci√≥s lista            |  4|TKVE                          |  0|  0|
+19|201|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+19|201|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+19|201|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  1|LMP                           |  1|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  1|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  3|FIDESZ-KDNP                   |  0|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  4|MSZP                          |  2|  0|
+19|203|4|Kompenz√°ci√≥s lista            |  5|Lok√°lpatri√≥t√°kVP              |  1|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  1|JOBBIK                        |  1|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  2|MSZP                          |  2|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  3|Keszthely V√°ros√©rt Egyes√ºlet  |  0|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  4|FIDESZ-KDNP                   |  0|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  5|Keszthelyi Ipartest√ºlet       |  0|  0|
+20|093|4|Kompenz√°ci√≥s lista            |  6|LMP                           |  0|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  2|V√°rosv√©d≈ë Egyes√ºlet           |  0|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  3|MSZP-MSZDP KANIZS√Å√âRT         |  2|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  4|C√ñNE                          |  1|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  5|Kanizs√°√©rt KE                 |  1|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  6|√öJ P√ìLUS                      |  0|  0|
+20|134|4|Kompenz√°ci√≥s lista            |  7|JOBBIK                        |  1|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  1|FIDESZ-KDNP                   |  0|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  2|JOBBIK                        |  2|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  3|MSZP                          |  2|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  4|LMP                           |  0|  0|
+20|231|4|Kompenz√°ci√≥s lista            |  5|EZE                           |  1|  0|

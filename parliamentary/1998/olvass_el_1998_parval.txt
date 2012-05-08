@@ -1,156 +1,156 @@
-1998. Èvi orsz·ggy˚lÈsi v·laszt·sok szavazÛkˆri jegyzıkˆnyv adatai
+1998. √©vi orsz√°ggy≈±l√©si v√°laszt√°sok szavaz√≥k√∂ri jegyz≈ëk√∂nyv adatai
 ------------------------------------------------------------------
 
-A jegyzıkˆnyvek "fej" adatai egysÈges szerkezetben tal·lhatÛk,
-v·laszt·sonkÈnt az 1.,2. fordulÛ, egyÈni Ès list·s v·laszt·s 
-egy ·llom·nyban. 
+A jegyz≈ëk√∂nyvek "fej" adatai egys√©ges szerkezetben tal√°lhat√≥k,
+v√°laszt√°sonk√©nt az 1.,2. fordul√≥, egy√©ni √©s list√°s v√°laszt√°s 
+egy √°llom√°nyban. 
 
-SzavazÛkˆri "fej" adatokat tartalmazÛ ·llom·ny neve: szkf.txt
+Szavaz√≥k√∂ri "fej" adatokat tartalmaz√≥ √°llom√°ny neve: szkf.txt
                                                      ********
 Szerkezete:
-   TIPUS     CHAR(6)     -- V·laszt·s tÌpus (egyÈni/list·s)
-   FORD      CHAR(1)     -- V·laszt·si fordulÛ sz·ma
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   TAZ       CHAR(3)     -- Telep¸lÈs azonosÌtÛ
-   SORSZ     CHAR(3)     -- SzavazÛkˆr sorsz·ma telep¸lÈsen bel¸l
-   MNEV      CHAR(25)    -- MegyenÈv
-   TELEP     CHAR(27)    -- Telep¸lÈsnÈv
-   OEVK      CHAR(2)     -- OEVK sorsz·ma megyÈn bel¸l
-   A         NUMBER(7)   -- Jegyzıkˆnyv 'A' mezı
-                            Elızı nap 16 Ûr·ig a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   B         NUMBER(7)   -- Jegyzıkˆnyv 'B' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   C         NUMBER(7)   -- Jegyzıkˆnyv 'C' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbıl 
-                            tˆrˆlt v·lasztÛpolg·rok sz·ma
-   D         NUMBER(7)   -- Jegyzıkˆnyv 'D' mezı
-                            V·l.polg·rok sz·ma a nÈvjegyzÈkben 
-                            a v·laszt·s befejezÈsekor
-   F         NUMBER(7)   -- Jegyzıkˆnyv 'F' mezı 
-                            SzavazÛkÈnt megjelentek sz·ma
-   G         NUMBER(7)   -- Jegyzıkˆnyv 'G' mezı
-                            Urn·ban lÈvı szavazÛlapok sz·ma
-   H         NUMBER(8)   -- Jegyzıkˆnyv 'H' mezı
-                            EltÈrÈs a szavazÛk sz·m·tÛl (G-F, tˆbblet +, hi·ny -)
-   I         NUMBER(7)   -- Jegyzıkˆnyv 'I' mezı
-                            …rvÈnytelen szavazatok sz·ma
-   J         NUMBER(7)   -- Jegyzıkˆnyv 'J' mezı
-                            …rvÈnyes szavazatok sz·ma
+   TIPUS     CHAR(6)     -- V√°laszt√°s t√≠pus (egy√©ni/list√°s)
+   FORD      CHAR(1)     -- V√°laszt√°si fordul√≥ sz√°ma
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   TAZ       CHAR(3)     -- Telep√ºl√©s azonos√≠t√≥
+   SORSZ     CHAR(3)     -- Szavaz√≥k√∂r sorsz√°ma telep√ºl√©sen bel√ºl
+   MNEV      CHAR(25)    -- Megyen√©v
+   TELEP     CHAR(27)    -- Telep√ºl√©sn√©v
+   OEVK      CHAR(2)     -- OEVK sorsz√°ma megy√©n bel√ºl
+   A         NUMBER(7)   -- Jegyz≈ëk√∂nyv 'A' mez≈ë
+                            El≈ëz≈ë nap 16 √≥r√°ig a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   B         NUMBER(7)   -- Jegyz≈ëk√∂nyv 'B' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   C         NUMBER(7)   -- Jegyz≈ëk√∂nyv 'C' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kb≈ël 
+                            t√∂r√∂lt v√°laszt√≥polg√°rok sz√°ma
+   D         NUMBER(7)   -- Jegyz≈ëk√∂nyv 'D' mez≈ë
+                            V√°l.polg√°rok sz√°ma a n√©vjegyz√©kben 
+                            a v√°laszt√°s befejez√©sekor
+   F         NUMBER(7)   -- Jegyz≈ëk√∂nyv 'F' mez≈ë 
+                            Szavaz√≥k√©nt megjelentek sz√°ma
+   G         NUMBER(7)   -- Jegyz≈ëk√∂nyv 'G' mez≈ë
+                            Urn√°ban l√©v≈ë szavaz√≥lapok sz√°ma
+   H         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'H' mez≈ë
+                            Elt√©r√©s a szavaz√≥k sz√°m√°t√≥l (G-F, t√∂bblet +, hi√°ny -)
+   I         NUMBER(7)   -- Jegyz≈ëk√∂nyv 'I' mez≈ë
+                            √ârv√©nytelen szavazatok sz√°ma
+   J         NUMBER(7)   -- Jegyz≈ëk√∂nyv 'J' mez≈ë
+                            √ârv√©nyes szavazatok sz√°ma
   
-A jegyzıkˆnyvek "tÈtel" adatai egyÈni Ès list·s v·laszt·s esetÈn 
-eltÈrı szerkezetben tal·lhatÛk, mÌg az 1.,2. fordulÛ adatai egy ·llom·nyban.   
+A jegyz≈ëk√∂nyvek "t√©tel" adatai egy√©ni √©s list√°s v√°laszt√°s eset√©n 
+elt√©r≈ë szerkezetben tal√°lhat√≥k, m√≠g az 1.,2. fordul√≥ adatai egy √°llom√°nyban.   
   
-SzavazÛkˆri "tÈtel" adatokat tartalmazÛ ·llom·ny neve egyÈni v·laszt·s esetÈn: egy_szkt.txt
+Szavaz√≥k√∂ri "t√©tel" adatokat tartalmaz√≥ √°llom√°ny neve egy√©ni v√°laszt√°s eset√©n: egy_szkt.txt
                                                                                ************
 Szerkezete:
-   FORD      CHAR(1)     -- V·laszt·si fordulÛ sz·ma
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   TAZ       CHAR(3)     -- Telep¸lÈs azonosÌtÛ
-   SORSZ     CHAR(3)     -- SzavazÛkˆr sorsz·ma telep¸lÈsen bel¸l
-   SOR       CHAR(3)     -- Jelˆlt sorsz·ma
-   NEVDR     CHAR(4)     -- NÈv jelzı (pl. Dr. Ifj. ÷zv. stb. )
-   NEV       CHAR(60)    -- Jelˆlt neve
-   SZAV      NUMBER(7)   -- Kapott ÈrvÈnyes szavazat
-   TAMSZ     CHAR(30)    -- T·mogatÛ p·rtok neve
+   FORD      CHAR(1)     -- V√°laszt√°si fordul√≥ sz√°ma
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   TAZ       CHAR(3)     -- Telep√ºl√©s azonos√≠t√≥
+   SORSZ     CHAR(3)     -- Szavaz√≥k√∂r sorsz√°ma telep√ºl√©sen bel√ºl
+   SOR       CHAR(3)     -- Jel√∂lt sorsz√°ma
+   NEVDR     CHAR(4)     -- N√©v jelz≈ë (pl. Dr. Ifj. √ñzv. stb. )
+   NEV       CHAR(60)    -- Jel√∂lt neve
+   SZAV      NUMBER(7)   -- Kapott √©rv√©nyes szavazat
+   TAMSZ     CHAR(30)    -- T√°mogat√≥ p√°rtok neve
 
-SzavazÛkˆri "tÈtel" adatokat tartalmazÛ ·llom·ny neve list·s v·laszt·s esetÈn: lis_szkt.txt
+Szavaz√≥k√∂ri "t√©tel" adatokat tartalmaz√≥ √°llom√°ny neve list√°s v√°laszt√°s eset√©n: lis_szkt.txt
                                                                                ************ 
 Szerkezete:
-   FORD      CHAR(1)     -- V·laszt·si fordulÛ sz·ma
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   TAZ       CHAR(3)     -- Telep¸lÈs azonosÌtÛ
-   SORSZ     CHAR(3)     -- SzavazÛkˆr sorsz·ma telep¸lÈsen bel¸l
-   SOR       CHAR(3)     -- Lista sorsz·ma
+   FORD      CHAR(1)     -- V√°laszt√°si fordul√≥ sz√°ma
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   TAZ       CHAR(3)     -- Telep√ºl√©s azonos√≠t√≥
+   SORSZ     CHAR(3)     -- Szavaz√≥k√∂r sorsz√°ma telep√ºl√©sen bel√ºl
+   SOR       CHAR(3)     -- Lista sorsz√°ma
    LISTA     CHAR(30)    -- Lista neve
-   SZAV      NUMBER(7)   -- Kapott ÈrvÈnyes szavazat
+   SZAV      NUMBER(7)   -- Kapott √©rv√©nyes szavazat
 
 
-EgyÈni v·lasztÛker¸leti v·laszt·s OEVK eredmÈny "Fej" adatok : evkfej.txt
+Egy√©ni v√°laszt√≥ker√ºleti v√°laszt√°s OEVK eredm√©ny "Fej" adatok : evkfej.txt
 							       **********	
 Szerkezete:
-   FORD      CHAR(1)     -- V·laszt·si fordulÛ sz·ma
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   MNEV      CHAR(10)    -- Megye rˆvid neve
-   OEVK      CHAR(2)     -- OEVK sorsz·ma megyÈn bel¸l
-   A         NUMBER(8)   -- Jegyzıkˆnyv 'A' mezı
-                            Elızı nap 16 Ûr·ig a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   B         NUMBER(8)   -- Jegyzıkˆnyv 'B' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   C         NUMBER(8)   -- Jegyzıkˆnyv 'C' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbıl 
-                            tˆrˆlt v·lasztÛpolg·rok sz·ma
-   D         NUMBER(8)   -- Jegyzıkˆnyv 'D' mezı
-                            V·l.polg·rok sz·ma a nÈvjegyzÈkben 
-                            a v·laszt·s befejezÈsekor
-   F         NUMBER(8)   -- Jegyzıkˆnyv 'F' mezı 
-                            SzavazÛkÈnt megjelentek sz·ma
-   G         NUMBER(8)   -- Jegyzıkˆnyv 'G' mezı
-                            Urn·ban lÈvı szavazÛlapok sz·ma
-   H         NUMBER(8)   -- Jegyzıkˆnyv 'H' mezı
-                            EltÈrÈs a szavazÛk sz·m·tÛl (G-F, tˆbblet +, hi·ny -)
-   I         NUMBER(8)   -- Jegyzıkˆnyv 'I' mezı
-                            …rvÈnytelen szavazatok sz·ma
-   J         NUMBER(8)   -- Jegyzıkˆnyv 'J' mezı
-                            …rvÈnyes szavazatok sz·ma
+   FORD      CHAR(1)     -- V√°laszt√°si fordul√≥ sz√°ma
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   MNEV      CHAR(10)    -- Megye r√∂vid neve
+   OEVK      CHAR(2)     -- OEVK sorsz√°ma megy√©n bel√ºl
+   A         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'A' mez≈ë
+                            El≈ëz≈ë nap 16 √≥r√°ig a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   B         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'B' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   C         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'C' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kb≈ël 
+                            t√∂r√∂lt v√°laszt√≥polg√°rok sz√°ma
+   D         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'D' mez≈ë
+                            V√°l.polg√°rok sz√°ma a n√©vjegyz√©kben 
+                            a v√°laszt√°s befejez√©sekor
+   F         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'F' mez≈ë 
+                            Szavaz√≥k√©nt megjelentek sz√°ma
+   G         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'G' mez≈ë
+                            Urn√°ban l√©v≈ë szavaz√≥lapok sz√°ma
+   H         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'H' mez≈ë
+                            Elt√©r√©s a szavaz√≥k sz√°m√°t√≥l (G-F, t√∂bblet +, hi√°ny -)
+   I         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'I' mez≈ë
+                            √ârv√©nytelen szavazatok sz√°ma
+   J         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'J' mez≈ë
+                            √ârv√©nyes szavazatok sz√°ma
 
-EgyÈni v·lasztÛker¸leti v·laszt·s OEVK eredmÈny "TÈtel" adatok: evktet.txt
+Egy√©ni v√°laszt√≥ker√ºleti v√°laszt√°s OEVK eredm√©ny "T√©tel" adatok: evktet.txt
 								**********
 Szerkezete:
-   FORD      CHAR(1)     -- V·laszt·si fordulÛ sz·ma
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   MNEV      CHAR(10)    -- Megye rˆvid neve
-   OEVK      CHAR(2)     -- OEVK sorsz·ma megyÈn bel¸l
-   SOR       CHAR(2)     -- Lista sorsz·ma
-   NEVDR     CHAR(4)     -- NÈv jelzı (pl. Dr. Ifj. ÷zv. stb. )
-   NEV       CHAR(36)    -- Jelˆlt neve
-   SZAV      NUMBER(8)   -- Kapott ÈrvÈnyes szavazat
-   TAMSZ     CHAR(74)    -- T·mogatÛ p·rtok neve
+   FORD      CHAR(1)     -- V√°laszt√°si fordul√≥ sz√°ma
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   MNEV      CHAR(10)    -- Megye r√∂vid neve
+   OEVK      CHAR(2)     -- OEVK sorsz√°ma megy√©n bel√ºl
+   SOR       CHAR(2)     -- Lista sorsz√°ma
+   NEVDR     CHAR(4)     -- N√©v jelz≈ë (pl. Dr. Ifj. √ñzv. stb. )
+   NEV       CHAR(36)    -- Jel√∂lt neve
+   SZAV      NUMBER(8)   -- Kapott √©rv√©nyes szavazat
+   TAMSZ     CHAR(74)    -- T√°mogat√≥ p√°rtok neve
 
 
-Ter¸leti  v·lasztÛker¸leti v·laszt·s eredmÈny "Fej" adatok: terfej.txt
+Ter√ºleti  v√°laszt√≥ker√ºleti v√°laszt√°s eredm√©ny "Fej" adatok: terfej.txt
 							    **********
 							    
 Szerkezete:
-   FORD      CHAR(1)     -- V·laszt·si fordulÛ sz·ma
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   MNEV      CHAR(10)    -- Megye rˆvid neve
-   A         NUMBER(8)   -- Jegyzıkˆnyv 'A' mezı
-                            Elızı nap 16 Ûr·ig a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   B         NUMBER(8)   -- Jegyzıkˆnyv 'B' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbe 
-                            felvett v·lasztÛpolg·rok sz·ma
-   C         NUMBER(8)   -- Jegyzıkˆnyv 'C' mezı
-                            A szavaz·s napj·n a nÈvjegyzÈkbıl 
-                            tˆrˆlt v·lasztÛpolg·rok sz·ma
-   D         NUMBER(8)   -- Jegyzıkˆnyv 'D' mezı
-                            V·l.polg·rok sz·ma a nÈvjegyzÈkben 
-                            a v·laszt·s befejezÈsekor
-   F         NUMBER(8)   -- Jegyzıkˆnyv 'F' mezı 
-                            SzavazÛkÈnt megjelentek sz·ma
-   G         NUMBER(8)   -- Jegyzıkˆnyv 'G' mezı
-                            Urn·ban lÈvı szavazÛlapok sz·ma
-   H         NUMBER(8)   -- Jegyzıkˆnyv 'H' mezı
-                            EltÈrÈs a szavazÛk sz·m·tÛl (G-F, tˆbblet +, hi·ny -)
-   I         NUMBER(8)   -- Jegyzıkˆnyv 'I' mezı
-                            …rvÈnytelen szavazatok sz·ma
-   J         NUMBER(8)   -- Jegyzıkˆnyv 'J' mezı
-                            …rvÈnyes szavazatok sz·ma
+   FORD      CHAR(1)     -- V√°laszt√°si fordul√≥ sz√°ma
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   MNEV      CHAR(10)    -- Megye r√∂vid neve
+   A         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'A' mez≈ë
+                            El≈ëz≈ë nap 16 √≥r√°ig a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   B         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'B' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kbe 
+                            felvett v√°laszt√≥polg√°rok sz√°ma
+   C         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'C' mez≈ë
+                            A szavaz√°s napj√°n a n√©vjegyz√©kb≈ël 
+                            t√∂r√∂lt v√°laszt√≥polg√°rok sz√°ma
+   D         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'D' mez≈ë
+                            V√°l.polg√°rok sz√°ma a n√©vjegyz√©kben 
+                            a v√°laszt√°s befejez√©sekor
+   F         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'F' mez≈ë 
+                            Szavaz√≥k√©nt megjelentek sz√°ma
+   G         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'G' mez≈ë
+                            Urn√°ban l√©v≈ë szavaz√≥lapok sz√°ma
+   H         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'H' mez≈ë
+                            Elt√©r√©s a szavaz√≥k sz√°m√°t√≥l (G-F, t√∂bblet +, hi√°ny -)
+   I         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'I' mez≈ë
+                            √ârv√©nytelen szavazatok sz√°ma
+   J         NUMBER(8)   -- Jegyz≈ëk√∂nyv 'J' mez≈ë
+                            √ârv√©nyes szavazatok sz√°ma
 
-Ter¸leti  v·lasztÛker¸leti v·laszt·s eredmÈny "TÈtel" adatok: tertet.txt
+Ter√ºleti  v√°laszt√≥ker√ºleti v√°laszt√°s eredm√©ny "T√©tel" adatok: tertet.txt
 							      **********
 
 Szerkezete:
-   FORD      CHAR(1)     -- V·laszt·si fordulÛ sz·ma
-   MAZ       CHAR(2)     -- Megye azonosÌtÛ
-   MNEV      CHAR(10)    -- Megye rˆvid neve
-   SOR       CHAR(2)     -- Lista sorsz·ma
+   FORD      CHAR(1)     -- V√°laszt√°si fordul√≥ sz√°ma
+   MAZ       CHAR(2)     -- Megye azonos√≠t√≥
+   MNEV      CHAR(10)    -- Megye r√∂vid neve
+   SOR       CHAR(2)     -- Lista sorsz√°ma
    LISTA     CHAR(30)    -- Lista neve
-   SZAV      NUMBER(8)   -- Kapott ÈrvÈnyes szavazat
+   SZAV      NUMBER(8)   -- Kapott √©rv√©nyes szavazat
 
 
 

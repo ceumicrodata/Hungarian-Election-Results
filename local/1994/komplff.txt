@@ -1,162 +1,162 @@
-01|BUDAPEST  |001|BUDAPEST          01|1|eredmÈnyes
-01|BUDAPEST  |002|BUDAPEST          02|1|eredmÈnyes
-01|BUDAPEST  |003|BUDAPEST          03|1|eredmÈnyes
-01|BUDAPEST  |004|BUDAPEST          04|1|eredmÈnyes
-01|BUDAPEST  |005|BUDAPEST          05|1|eredmÈnyes
-01|BUDAPEST  |006|BUDAPEST          06|1|eredmÈnyes
-01|BUDAPEST  |007|BUDAPEST          07|1|eredmÈnyes
-01|BUDAPEST  |008|BUDAPEST          08|1|eredmÈnyes
-01|BUDAPEST  |009|BUDAPEST          09|1|eredmÈnyes
-01|BUDAPEST  |010|BUDAPEST          10|1|eredmÈnyes
-01|BUDAPEST  |011|BUDAPEST          11|1|eredmÈnyes
-01|BUDAPEST  |012|BUDAPEST          12|1|eredmÈnyes
-01|BUDAPEST  |013|BUDAPEST          13|1|eredmÈnyes
-01|BUDAPEST  |014|BUDAPEST          14|1|eredmÈnyes
-01|BUDAPEST  |015|BUDAPEST          15|1|eredmÈnyes
-01|BUDAPEST  |016|BUDAPEST          16|1|eredmÈnyes
-01|BUDAPEST  |017|BUDAPEST          17|1|eredmÈnyes
-01|BUDAPEST  |018|BUDAPEST          18|1|eredmÈnyes
-01|BUDAPEST  |019|BUDAPEST          19|1|eredmÈnyes
-01|BUDAPEST  |020|BUDAPEST          20|1|eredmÈnyes
-01|BUDAPEST  |021|BUDAPEST          21|1|eredmÈnyes
-01|BUDAPEST  |022|BUDAPEST          22|1|eredmÈnyes
-01|BUDAPEST  |023|BUDAPEST          23|1|eredmÈnyes
-02|BARANYA   |138|KOML”               |1|eredmÈnyes
-02|BARANYA   |182|MOH¡CS              |1|eredmÈnyes
-02|BARANYA   |218|P…CS                |1|eredmÈnyes
-02|BARANYA   |235|SIKL”S              |1|eredmÈnyes
-02|BARANYA   |264|SZIGETV¡R           |1|eredmÈnyes
-03|B¡CS-KISK.|004|BAJA                |1|eredmÈnyes
-03|B¡CS-KISK.|053|J¡NOSHALMA          |1|eredmÈnyes
-03|B¡CS-KISK.|055|KALOCSA             |1|eredmÈnyes
-03|B¡CS-KISK.|059|KECSKEM…T           |1|eredmÈnyes
-03|B¡CS-KISK.|063|KISK’R÷S            |1|eredmÈnyes
-03|B¡CS-KISK.|064|KISKUNF…LEGYH¡ZA    |1|eredmÈnyes
-03|B¡CS-KISK.|065|KISKUNHALAS         |1|eredmÈnyes
-03|B¡CS-KISK.|066|KISKUNMAJSA         |1|eredmÈnyes
-03|B¡CS-KISK.|077|LAJOSMIZSE          |1|eredmÈnyes
-03|B¡CS-KISK.|110|TISZAK…CSKE         |1|eredmÈnyes
-04|B…K…S     |003|B…K…S               |1|eredmÈnyes
-04|B…K…S     |004|B…K…SCSABA          |1|eredmÈnyes
-04|B…K…S     |025|GYOMAENDR’D         |1|eredmÈnyes
-04|B…K…S     |026|GYULA               |1|eredmÈnyes
-04|B…K…S     |049|MEZ’BER…NY          |1|eredmÈnyes
-04|B…K…S     |059|OROSH¡ZA            |1|eredmÈnyes
-04|B…K…S     |063|SARKAD              |1|eredmÈnyes
-04|B…K…S     |066|SZARVAS             |1|eredmÈnyes
-04|B…K…S     |067|SZEGHALOM           |1|eredmÈnyes
-05|BORSOD-A-Z|072|EDEL…NY             |1|eredmÈnyes
-05|BORSOD-A-Z|151|KAZINCBARCIKA       |1|eredmÈnyes
-05|BORSOD-A-Z|195|MEZ’K÷VESD          |1|eredmÈnyes
-05|BORSOD-A-Z|201|MISKOLC             |1|eredmÈnyes
-05|BORSOD-A-Z|225|”ZD                 |1|eredmÈnyes
-05|BORSOD-A-Z|266|SAJ”SZENTP…TER      |1|eredmÈnyes
-05|BORSOD-A-Z|272|S¡ROSPATAK          |1|eredmÈnyes
-05|BORSOD-A-Z|274|S¡TORALJA⁄JHELY     |1|eredmÈnyes
-05|BORSOD-A-Z|292|SZERENCS            |1|eredmÈnyes
-05|BORSOD-A-Z|324|TISZA⁄JV¡ROS        |1|eredmÈnyes
-06|CSONGR¡D  |012|CSONGR¡D            |1|eredmÈnyes
-06|CSONGR¡D  |023|H”DMEZ’V¡S¡RHELY    |1|eredmÈnyes
-06|CSONGR¡D  |031|MAK”                |1|eredmÈnyes
-06|CSONGR¡D  |050|SZEGED              |1|eredmÈnyes
-06|CSONGR¡D  |052|SZENTES             |1|eredmÈnyes
-07|FEJ…R     |013|BICSKE              |1|eredmÈnyes
-07|FEJ…R     |024|DUNA⁄JV¡ROS         |1|eredmÈnyes
-07|FEJ…R     |060|M”R                 |1|eredmÈnyes
-07|FEJ…R     |077|S¡RBOG¡RD           |1|eredmÈnyes
-07|FEJ…R     |094|SZ…KESFEH…RV¡R      |1|eredmÈnyes
-08|GY’R-M-S  |024|CSORNA              |1|eredmÈnyes
-08|GY’R-M-S  |055|GY’R                |1|eredmÈnyes
-08|GY’R-M-S  |077|KAPUV¡R             |1|eredmÈnyes
-08|GY’R-M-S  |099|MOSONMAGYAR”V¡R     |1|eredmÈnyes
-08|GY’R-M-S  |143|SOPRON              |1|eredmÈnyes
-09|HAJD⁄-B   |005|BALMAZ⁄JV¡ROS       |1|eredmÈnyes
-09|HAJD⁄-B   |009|BERETTY”⁄JFALU      |1|eredmÈnyes
-09|HAJD⁄-B   |018|DEBRECEN            |1|eredmÈnyes
-09|HAJD⁄-B   |030|HAJD⁄B÷SZ÷RM…NY     |1|eredmÈnyes
-09|HAJD⁄-B   |032|HAJD⁄HADH¡Z         |1|eredmÈnyes
-09|HAJD⁄-B   |033|HAJD⁄N¡N¡S          |1|eredmÈnyes
-09|HAJD⁄-B   |035|HAJD⁄SZOBOSZL”      |1|eredmÈnyes
-09|HAJD⁄-B   |063|P‹SP÷KLAD¡NY        |1|eredmÈnyes
-10|HEVES     |025|EGER                |1|eredmÈnyes
-10|HEVES     |039|GY÷NGY÷S            |1|eredmÈnyes
-10|HEVES     |046|HATVAN              |1|eredmÈnyes
-10|HEVES     |048|HEVES               |1|eredmÈnyes
-11|J¡SZ-NK-SZ|015|J¡SZBER…NY          |1|eredmÈnyes
-11|J¡SZ-NK-SZ|026|KARCAG              |1|eredmÈnyes
-11|J¡SZ-NK-SZ|030|KIS⁄JSZ¡LL¡S        |1|eredmÈnyes
-11|J¡SZ-NK-SZ|035|KUNSZENTM¡RTON      |1|eredmÈnyes
-11|J¡SZ-NK-SZ|039|MEZ’T⁄R             |1|eredmÈnyes
-11|J¡SZ-NK-SZ|052|SZOLNOK             |1|eredmÈnyes
-11|J¡SZ-NK-SZ|056|TISZAF÷LDV¡R        |1|eredmÈnyes
-11|J¡SZ-NK-SZ|057|TISZAF‹RED          |1|eredmÈnyes
-11|J¡SZ-NK-SZ|074|T÷R÷KSZENTMIKL”S    |1|eredmÈnyes
-11|J¡SZ-NK-SZ|075|T⁄RKEVE             |1|eredmÈnyes
-12|KOM¡ROM-E |022|DOROG               |1|eredmÈnyes
-12|KOM¡ROM-E |027|ESZTERGOM           |1|eredmÈnyes
-12|KOM¡ROM-E |037|KOM¡ROM             |1|eredmÈnyes
-12|KOM¡ROM-E |050|OROSZL¡NY           |1|eredmÈnyes
-12|KOM¡ROM-E |062|TATA                |1|eredmÈnyes
-12|KOM¡ROM-E |063|TATAB¡NYA           |1|eredmÈnyes
-13|N”GR¡D    |003|BALASSAGYARMAT      |1|eredmÈnyes
-13|N”GR¡D    |006|B¡TONYTERENYE       |1|eredmÈnyes
-13|N”GR¡D    |096|P¡SZT”              |1|eredmÈnyes
-13|N”GR¡D    |103|SALG”TARJ¡N         |1|eredmÈnyes
-14|PEST      |001|ABONY               |1|eredmÈnyes
-14|PEST      |003|ALBERTIRSA          |1|eredmÈnyes
-14|PEST      |014|BUDAKESZI           |1|eredmÈnyes
-14|PEST      |015|BUDA÷RS             |1|eredmÈnyes
-14|PEST      |017|CEGL…D              |1|eredmÈnyes
-14|PEST      |025|DABAS               |1|eredmÈnyes
-14|PEST      |033|DUNAHARASZTI        |1|eredmÈnyes
-14|PEST      |034|DUNAKESZI           |1|eredmÈnyes
-14|PEST      |038|…RD                 |1|eredmÈnyes
-14|PEST      |041|F”T                 |1|eredmÈnyes
-14|PEST      |046|G÷D                 |1|eredmÈnyes
-14|PEST      |047|G÷D÷LL’             |1|eredmÈnyes
-14|PEST      |048|GY¡L                |1|eredmÈnyes
-14|PEST      |049|GY÷MR’              |1|eredmÈnyes
-14|PEST      |085|MONOR               |1|eredmÈnyes
-14|PEST      |087|NAGYK¡TA            |1|eredmÈnyes
-14|PEST      |089|NAGYK’R÷S           |1|eredmÈnyes
-14|PEST      |102|P…CEL               |1|eredmÈnyes
-14|PEST      |112|PILISV÷R÷SV¡R       |1|eredmÈnyes
-14|PEST      |113|POM¡Z               |1|eredmÈnyes
-14|PEST      |125|SZ¡ZHALOMBATTA      |1|eredmÈnyes
-14|PEST      |126|SZENTENDRE          |1|eredmÈnyes
-14|PEST      |131|SZIGETHALOM         |1|eredmÈnyes
-14|PEST      |134|SZIGETSZENTMIKL”S   |1|eredmÈnyes
-14|PEST      |169|V¡C                 |1|eredmÈnyes
-14|PEST      |177|VECS…S              |1|eredmÈnyes
-15|SOMOGY    |019|BARCS               |1|eredmÈnyes
-15|SOMOGY    |091|KAPOSV¡R            |1|eredmÈnyes
-15|SOMOGY    |122|MARCALI             |1|eredmÈnyes
-15|SOMOGY    |129|NAGYAT¡D            |1|eredmÈnyes
-15|SOMOGY    |174|SI”FOK              |1|eredmÈnyes
-16|SZABOLCS  |077|KISV¡RDA            |1|eredmÈnyes
-16|SZABOLCS  |094|M¡T…SZALKA          |1|eredmÈnyes
-16|SZABOLCS  |106|NAGYK¡LL”           |1|eredmÈnyes
-16|SZABOLCS  |112|NYÕRB¡TOR           |1|eredmÈnyes
-16|SZABOLCS  |119|NYÕREGYH¡ZA         |1|eredmÈnyes
-16|SZABOLCS  |204|TISZAVASV¡RI        |1|eredmÈnyes
-16|SZABOLCS  |217|⁄JFEH…RT”           |1|eredmÈnyes
-17|TOLNA     |011|BONYH¡D             |1|eredmÈnyes
-17|TOLNA     |020|DOMB”V¡R            |1|eredmÈnyes
-17|TOLNA     |079|PAKS                |1|eredmÈnyes
-17|TOLNA     |095|SZEKSZ¡RD           |1|eredmÈnyes
-17|TOLNA     |096|TAM¡SI              |1|eredmÈnyes
-17|TOLNA     |099|TOLNA               |1|eredmÈnyes
-18|VAS       |020|CELLD÷M÷LK          |1|eredmÈnyes
-18|VAS       |095|K÷RMEND             |1|eredmÈnyes
-18|VAS       |096|K’SZEG              |1|eredmÈnyes
-18|VAS       |167|S¡RV¡R              |1|eredmÈnyes
-18|VAS       |186|SZOMBATHELY         |1|eredmÈnyes
-19|VESZPR…M  |003|AJKA                |1|eredmÈnyes
-19|VESZPR…M  |029|BALATONF‹RED        |1|eredmÈnyes
-19|VESZPR…M  |158|P¡PA                |1|eredmÈnyes
-19|VESZPR…M  |194|TAPOLCA             |1|eredmÈnyes
-19|VESZPR…M  |206|V¡RPALOTA           |1|eredmÈnyes
-19|VESZPR…M  |208|VESZPR…M            |1|eredmÈnyes
-20|ZALA      |093|KESZTHELY           |1|eredmÈnyes
-20|ZALA      |134|NAGYKANIZSA         |1|eredmÈnyes
-20|ZALA      |231|ZALAEGERSZEG        |1|eredmÈnyes
+01|BUDAPEST  |001|BUDAPEST          01|1|eredm√©nyes
+01|BUDAPEST  |002|BUDAPEST          02|1|eredm√©nyes
+01|BUDAPEST  |003|BUDAPEST          03|1|eredm√©nyes
+01|BUDAPEST  |004|BUDAPEST          04|1|eredm√©nyes
+01|BUDAPEST  |005|BUDAPEST          05|1|eredm√©nyes
+01|BUDAPEST  |006|BUDAPEST          06|1|eredm√©nyes
+01|BUDAPEST  |007|BUDAPEST          07|1|eredm√©nyes
+01|BUDAPEST  |008|BUDAPEST          08|1|eredm√©nyes
+01|BUDAPEST  |009|BUDAPEST          09|1|eredm√©nyes
+01|BUDAPEST  |010|BUDAPEST          10|1|eredm√©nyes
+01|BUDAPEST  |011|BUDAPEST          11|1|eredm√©nyes
+01|BUDAPEST  |012|BUDAPEST          12|1|eredm√©nyes
+01|BUDAPEST  |013|BUDAPEST          13|1|eredm√©nyes
+01|BUDAPEST  |014|BUDAPEST          14|1|eredm√©nyes
+01|BUDAPEST  |015|BUDAPEST          15|1|eredm√©nyes
+01|BUDAPEST  |016|BUDAPEST          16|1|eredm√©nyes
+01|BUDAPEST  |017|BUDAPEST          17|1|eredm√©nyes
+01|BUDAPEST  |018|BUDAPEST          18|1|eredm√©nyes
+01|BUDAPEST  |019|BUDAPEST          19|1|eredm√©nyes
+01|BUDAPEST  |020|BUDAPEST          20|1|eredm√©nyes
+01|BUDAPEST  |021|BUDAPEST          21|1|eredm√©nyes
+01|BUDAPEST  |022|BUDAPEST          22|1|eredm√©nyes
+01|BUDAPEST  |023|BUDAPEST          23|1|eredm√©nyes
+02|BARANYA   |138|KOML√ì               |1|eredm√©nyes
+02|BARANYA   |182|MOH√ÅCS              |1|eredm√©nyes
+02|BARANYA   |218|P√âCS                |1|eredm√©nyes
+02|BARANYA   |235|SIKL√ìS              |1|eredm√©nyes
+02|BARANYA   |264|SZIGETV√ÅR           |1|eredm√©nyes
+03|B√ÅCS-KISK.|004|BAJA                |1|eredm√©nyes
+03|B√ÅCS-KISK.|053|J√ÅNOSHALMA          |1|eredm√©nyes
+03|B√ÅCS-KISK.|055|KALOCSA             |1|eredm√©nyes
+03|B√ÅCS-KISK.|059|KECSKEM√âT           |1|eredm√©nyes
+03|B√ÅCS-KISK.|063|KISK≈êR√ñS            |1|eredm√©nyes
+03|B√ÅCS-KISK.|064|KISKUNF√âLEGYH√ÅZA    |1|eredm√©nyes
+03|B√ÅCS-KISK.|065|KISKUNHALAS         |1|eredm√©nyes
+03|B√ÅCS-KISK.|066|KISKUNMAJSA         |1|eredm√©nyes
+03|B√ÅCS-KISK.|077|LAJOSMIZSE          |1|eredm√©nyes
+03|B√ÅCS-KISK.|110|TISZAK√âCSKE         |1|eredm√©nyes
+04|B√âK√âS     |003|B√âK√âS               |1|eredm√©nyes
+04|B√âK√âS     |004|B√âK√âSCSABA          |1|eredm√©nyes
+04|B√âK√âS     |025|GYOMAENDR≈êD         |1|eredm√©nyes
+04|B√âK√âS     |026|GYULA               |1|eredm√©nyes
+04|B√âK√âS     |049|MEZ≈êBER√âNY          |1|eredm√©nyes
+04|B√âK√âS     |059|OROSH√ÅZA            |1|eredm√©nyes
+04|B√âK√âS     |063|SARKAD              |1|eredm√©nyes
+04|B√âK√âS     |066|SZARVAS             |1|eredm√©nyes
+04|B√âK√âS     |067|SZEGHALOM           |1|eredm√©nyes
+05|BORSOD-A-Z|072|EDEL√âNY             |1|eredm√©nyes
+05|BORSOD-A-Z|151|KAZINCBARCIKA       |1|eredm√©nyes
+05|BORSOD-A-Z|195|MEZ≈êK√ñVESD          |1|eredm√©nyes
+05|BORSOD-A-Z|201|MISKOLC             |1|eredm√©nyes
+05|BORSOD-A-Z|225|√ìZD                 |1|eredm√©nyes
+05|BORSOD-A-Z|266|SAJ√ìSZENTP√âTER      |1|eredm√©nyes
+05|BORSOD-A-Z|272|S√ÅROSPATAK          |1|eredm√©nyes
+05|BORSOD-A-Z|274|S√ÅTORALJA√öJHELY     |1|eredm√©nyes
+05|BORSOD-A-Z|292|SZERENCS            |1|eredm√©nyes
+05|BORSOD-A-Z|324|TISZA√öJV√ÅROS        |1|eredm√©nyes
+06|CSONGR√ÅD  |012|CSONGR√ÅD            |1|eredm√©nyes
+06|CSONGR√ÅD  |023|H√ìDMEZ≈êV√ÅS√ÅRHELY    |1|eredm√©nyes
+06|CSONGR√ÅD  |031|MAK√ì                |1|eredm√©nyes
+06|CSONGR√ÅD  |050|SZEGED              |1|eredm√©nyes
+06|CSONGR√ÅD  |052|SZENTES             |1|eredm√©nyes
+07|FEJ√âR     |013|BICSKE              |1|eredm√©nyes
+07|FEJ√âR     |024|DUNA√öJV√ÅROS         |1|eredm√©nyes
+07|FEJ√âR     |060|M√ìR                 |1|eredm√©nyes
+07|FEJ√âR     |077|S√ÅRBOG√ÅRD           |1|eredm√©nyes
+07|FEJ√âR     |094|SZ√âKESFEH√âRV√ÅR      |1|eredm√©nyes
+08|GY≈êR-M-S  |024|CSORNA              |1|eredm√©nyes
+08|GY≈êR-M-S  |055|GY≈êR                |1|eredm√©nyes
+08|GY≈êR-M-S  |077|KAPUV√ÅR             |1|eredm√©nyes
+08|GY≈êR-M-S  |099|MOSONMAGYAR√ìV√ÅR     |1|eredm√©nyes
+08|GY≈êR-M-S  |143|SOPRON              |1|eredm√©nyes
+09|HAJD√ö-B   |005|BALMAZ√öJV√ÅROS       |1|eredm√©nyes
+09|HAJD√ö-B   |009|BERETTY√ì√öJFALU      |1|eredm√©nyes
+09|HAJD√ö-B   |018|DEBRECEN            |1|eredm√©nyes
+09|HAJD√ö-B   |030|HAJD√öB√ñSZ√ñRM√âNY     |1|eredm√©nyes
+09|HAJD√ö-B   |032|HAJD√öHADH√ÅZ         |1|eredm√©nyes
+09|HAJD√ö-B   |033|HAJD√öN√ÅN√ÅS          |1|eredm√©nyes
+09|HAJD√ö-B   |035|HAJD√öSZOBOSZL√ì      |1|eredm√©nyes
+09|HAJD√ö-B   |063|P√úSP√ñKLAD√ÅNY        |1|eredm√©nyes
+10|HEVES     |025|EGER                |1|eredm√©nyes
+10|HEVES     |039|GY√ñNGY√ñS            |1|eredm√©nyes
+10|HEVES     |046|HATVAN              |1|eredm√©nyes
+10|HEVES     |048|HEVES               |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|015|J√ÅSZBER√âNY          |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|026|KARCAG              |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|030|KIS√öJSZ√ÅLL√ÅS        |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|035|KUNSZENTM√ÅRTON      |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|039|MEZ≈êT√öR             |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|052|SZOLNOK             |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|056|TISZAF√ñLDV√ÅR        |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|057|TISZAF√úRED          |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|074|T√ñR√ñKSZENTMIKL√ìS    |1|eredm√©nyes
+11|J√ÅSZ-NK-SZ|075|T√öRKEVE             |1|eredm√©nyes
+12|KOM√ÅROM-E |022|DOROG               |1|eredm√©nyes
+12|KOM√ÅROM-E |027|ESZTERGOM           |1|eredm√©nyes
+12|KOM√ÅROM-E |037|KOM√ÅROM             |1|eredm√©nyes
+12|KOM√ÅROM-E |050|OROSZL√ÅNY           |1|eredm√©nyes
+12|KOM√ÅROM-E |062|TATA                |1|eredm√©nyes
+12|KOM√ÅROM-E |063|TATAB√ÅNYA           |1|eredm√©nyes
+13|N√ìGR√ÅD    |003|BALASSAGYARMAT      |1|eredm√©nyes
+13|N√ìGR√ÅD    |006|B√ÅTONYTERENYE       |1|eredm√©nyes
+13|N√ìGR√ÅD    |096|P√ÅSZT√ì              |1|eredm√©nyes
+13|N√ìGR√ÅD    |103|SALG√ìTARJ√ÅN         |1|eredm√©nyes
+14|PEST      |001|ABONY               |1|eredm√©nyes
+14|PEST      |003|ALBERTIRSA          |1|eredm√©nyes
+14|PEST      |014|BUDAKESZI           |1|eredm√©nyes
+14|PEST      |015|BUDA√ñRS             |1|eredm√©nyes
+14|PEST      |017|CEGL√âD              |1|eredm√©nyes
+14|PEST      |025|DABAS               |1|eredm√©nyes
+14|PEST      |033|DUNAHARASZTI        |1|eredm√©nyes
+14|PEST      |034|DUNAKESZI           |1|eredm√©nyes
+14|PEST      |038|√âRD                 |1|eredm√©nyes
+14|PEST      |041|F√ìT                 |1|eredm√©nyes
+14|PEST      |046|G√ñD                 |1|eredm√©nyes
+14|PEST      |047|G√ñD√ñLL≈ê             |1|eredm√©nyes
+14|PEST      |048|GY√ÅL                |1|eredm√©nyes
+14|PEST      |049|GY√ñMR≈ê              |1|eredm√©nyes
+14|PEST      |085|MONOR               |1|eredm√©nyes
+14|PEST      |087|NAGYK√ÅTA            |1|eredm√©nyes
+14|PEST      |089|NAGYK≈êR√ñS           |1|eredm√©nyes
+14|PEST      |102|P√âCEL               |1|eredm√©nyes
+14|PEST      |112|PILISV√ñR√ñSV√ÅR       |1|eredm√©nyes
+14|PEST      |113|POM√ÅZ               |1|eredm√©nyes
+14|PEST      |125|SZ√ÅZHALOMBATTA      |1|eredm√©nyes
+14|PEST      |126|SZENTENDRE          |1|eredm√©nyes
+14|PEST      |131|SZIGETHALOM         |1|eredm√©nyes
+14|PEST      |134|SZIGETSZENTMIKL√ìS   |1|eredm√©nyes
+14|PEST      |169|V√ÅC                 |1|eredm√©nyes
+14|PEST      |177|VECS√âS              |1|eredm√©nyes
+15|SOMOGY    |019|BARCS               |1|eredm√©nyes
+15|SOMOGY    |091|KAPOSV√ÅR            |1|eredm√©nyes
+15|SOMOGY    |122|MARCALI             |1|eredm√©nyes
+15|SOMOGY    |129|NAGYAT√ÅD            |1|eredm√©nyes
+15|SOMOGY    |174|SI√ìFOK              |1|eredm√©nyes
+16|SZABOLCS  |077|KISV√ÅRDA            |1|eredm√©nyes
+16|SZABOLCS  |094|M√ÅT√âSZALKA          |1|eredm√©nyes
+16|SZABOLCS  |106|NAGYK√ÅLL√ì           |1|eredm√©nyes
+16|SZABOLCS  |112|NY√çRB√ÅTOR           |1|eredm√©nyes
+16|SZABOLCS  |119|NY√çREGYH√ÅZA         |1|eredm√©nyes
+16|SZABOLCS  |204|TISZAVASV√ÅRI        |1|eredm√©nyes
+16|SZABOLCS  |217|√öJFEH√âRT√ì           |1|eredm√©nyes
+17|TOLNA     |011|BONYH√ÅD             |1|eredm√©nyes
+17|TOLNA     |020|DOMB√ìV√ÅR            |1|eredm√©nyes
+17|TOLNA     |079|PAKS                |1|eredm√©nyes
+17|TOLNA     |095|SZEKSZ√ÅRD           |1|eredm√©nyes
+17|TOLNA     |096|TAM√ÅSI              |1|eredm√©nyes
+17|TOLNA     |099|TOLNA               |1|eredm√©nyes
+18|VAS       |020|CELLD√ñM√ñLK          |1|eredm√©nyes
+18|VAS       |095|K√ñRMEND             |1|eredm√©nyes
+18|VAS       |096|K≈êSZEG              |1|eredm√©nyes
+18|VAS       |167|S√ÅRV√ÅR              |1|eredm√©nyes
+18|VAS       |186|SZOMBATHELY         |1|eredm√©nyes
+19|VESZPR√âM  |003|AJKA                |1|eredm√©nyes
+19|VESZPR√âM  |029|BALATONF√úRED        |1|eredm√©nyes
+19|VESZPR√âM  |158|P√ÅPA                |1|eredm√©nyes
+19|VESZPR√âM  |194|TAPOLCA             |1|eredm√©nyes
+19|VESZPR√âM  |206|V√ÅRPALOTA           |1|eredm√©nyes
+19|VESZPR√âM  |208|VESZPR√âM            |1|eredm√©nyes
+20|ZALA      |093|KESZTHELY           |1|eredm√©nyes
+20|ZALA      |134|NAGYKANIZSA         |1|eredm√©nyes
+20|ZALA      |231|ZALAEGERSZEG        |1|eredm√©nyes
