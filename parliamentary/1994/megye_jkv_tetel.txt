@@ -1,0 +1,259 @@
+1|01|BUDAPEST  |01|KÖZTÁRSASÁG PÁRT              |00053291                                                                                         
+1|01|BUDAPEST  |02|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00062537                                                                                         
+1|01|BUDAPEST  |03|MUNKÁSPÁRT                    |00029458                                                                                         
+1|01|BUDAPEST  |04|MAGYAR SZOCIALISTA PÁRT       |00391548                                                                                         
+1|01|BUDAPEST  |05|FIDESZ                        |00068509                                                                                         
+1|01|BUDAPEST  |06|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00231368                                                                                         
+1|01|BUDAPEST  |07|MDF                           |00166433                                                                                         
+1|01|BUDAPEST  |08|FÜGGETLEN KISGAZDAPÁRT        |00051242                                                                                         
+1|01|BUDAPEST  |09|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00039869                                                                                         
+1|01|BUDAPEST  |10|AGRÁRSZÖVETSÉG                |00019610                                                                                         
+1|02|BARANYA   |01|MAGYAR SZOCIALISTA PÁRT       |00070748                                                                                         
+1|02|BARANYA   |02|KÖZTÁRSASÁG PÁRT              |00007376                                                                                         
+1|02|BARANYA   |03|MSZDP                         |00003517                                                                                         
+1|02|BARANYA   |04|MAGYARORSZÁGI ZÖLD PÁRT       |00001181                                                                                         
+1|02|BARANYA   |05|AGRÁRSZÖVETSÉG                |00005086                                                                                         
+1|02|BARANYA   |06|FÜGGETLEN KISGAZDAPÁRT        |00018692                                                                                         
+1|02|BARANYA   |07|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00047936                                                                                         
+1|02|BARANYA   |08|FIDESZ                        |00014550                                                                                         
+1|02|BARANYA   |09|MDF                           |00023955                                                                                         
+1|02|BARANYA   |10|EGYESÜLT KISGAZDA PÁRT        |00001696                                                                                         
+1|02|BARANYA   |11|NEMZETI DEMOKRATÁK            |00001595                                                                                         
+1|02|BARANYA   |12|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00013882                                                                                         
+1|02|BARANYA   |13|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00003320                                                                                         
+1|02|BARANYA   |14|MUNKÁSPÁRT                    |00006906                                                                                         
+1|03|BÁCS      |01|MDF                           |00033068                                                                                         
+1|03|BÁCS      |02|NEMZETI DEMOKRATÁK            |00001950                                                                                         
+1|03|BÁCS      |03|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00004127                                                                                         
+1|03|BÁCS      |04|EGYESÜLT KISGAZDA PÁRT        |00004978                                                                                         
+1|03|BÁCS      |05|FIDESZ                        |00016948                                                                                         
+1|03|BÁCS      |06|AGRÁRSZÖVETSÉG                |00008726                                                                                         
+1|03|BÁCS      |07|MAGYAR SZOCIALISTA PÁRT       |00068883                                                                                         
+1|03|BÁCS      |08|LPSZ VÁLLALKOZÓK PÁRTJA       |00004865                                                                                         
+1|03|BÁCS      |09|FÜGGETLEN KISGAZDAPÁRT        |00031903                                                                                         
+1|03|BÁCS      |10|MUNKÁSPÁRT                    |00007739                                                                                         
+1|03|BÁCS      |11|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00019687                                                                                         
+1|03|BÁCS      |12|MAGYARORSZÁGI ZÖLD PÁRT       |00001461                                                                                         
+1|03|BÁCS      |13|KÖZTÁRSASÁG PÁRT              |00004837                                                                                         
+1|03|BÁCS      |14|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00046628                                                                                         
+1|03|BÁCS      |15|MSZDP                         |00002236                                                                                         
+1|04|BÉKÉS     |01|MUNKÁSPÁRT                    |00011647                                                                                         
+1|04|BÉKÉS     |02|MAGYARORSZÁGI ZÖLD PÁRT       |00001590                                                                                         
+1|04|BÉKÉS     |03|MDF                           |00020801                                                                                         
+1|04|BÉKÉS     |04|KONZERVATÍV PÁRT              |00000714                                                                                         
+1|04|BÉKÉS     |05|FÜGGETLEN KISGAZDAPÁRT        |00026466                                                                                         
+1|04|BÉKÉS     |06|AGRÁRSZÖVETSÉG                |00004420                                                                                         
+1|04|BÉKÉS     |07|EGYESÜLT KISGAZDA PÁRT        |00006345                                                                                         
+1|04|BÉKÉS     |08|FIDESZ                        |00012773                                                                                         
+1|04|BÉKÉS     |09|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00041283                                                                                         
+1|04|BÉKÉS     |10|MSZDP                         |00003663                                                                                         
+1|04|BÉKÉS     |11|MAGYAR SZOCIALISTA PÁRT       |00068128                                                                                         
+1|04|BÉKÉS     |12|KÖZTÁRSASÁG PÁRT              |00007086                                                                                         
+1|04|BÉKÉS     |13|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00008467                                                                                         
+1|05|BORSOD    |01|LPSZ VÁLLALKOZÓK PÁRTJA       |00002160                                                                                         
+1|05|BORSOD    |02|MAGYAR SZOCIALISTA PÁRT       |00158646                                                                                         
+1|05|BORSOD    |03|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00064286                                                                                         
+1|05|BORSOD    |04|NEMZETI DEMOKRATÁK            |00004615                                                                                         
+1|05|BORSOD    |05|FIDESZ                        |00027464                                                                                         
+1|05|BORSOD    |06|AGRÁRSZÖVETSÉG                |00008462                                                                                         
+1|05|BORSOD    |07|KÖZTÁRSASÁG PÁRT              |00007079                                                                                         
+1|05|BORSOD    |08|EGYESÜLT KISGAZDA PÁRT        |00005100                                                                                         
+1|05|BORSOD    |09|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00035168                                                                                         
+1|05|BORSOD    |10|MUNKÁSPÁRT                    |00017052                                                                                         
+1|05|BORSOD    |11|FÜGGETLEN KISGAZDAPÁRT        |00027383                                                                                         
+1|05|BORSOD    |12|MDF                           |00037976                                                                                         
+1|06|CSONGRÁD  |01|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00015535                                                                                         
+1|06|CSONGRÁD  |02|LPSZ VÁLLALKOZÓK PÁRTJA       |00003026                                                                                         
+1|06|CSONGRÁD  |03|KONZERVATÍV PÁRT              |00000677                                                                                         
+1|06|CSONGRÁD  |04|AGRÁRSZÖVETSÉG                |00006181                                                                                         
+1|06|CSONGRÁD  |05|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00044531                                                                                         
+1|06|CSONGRÁD  |06|FÜGGETLEN KISGAZDAPÁRT        |00024543                                                                                         
+1|06|CSONGRÁD  |07|MUNKÁSPÁRT                    |00007492                                                                                         
+1|06|CSONGRÁD  |08|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00004359                                                                                         
+1|06|CSONGRÁD  |09|MAGYAR SZOCIALISTA PÁRT       |00057980                                                                                         
+1|06|CSONGRÁD  |10|FIDESZ                        |00014922                                                                                         
+1|06|CSONGRÁD  |11|KÖZTÁRSASÁG PÁRT              |00005698                                                                                         
+1|06|CSONGRÁD  |12|MDF                           |00022956                                                                                         
+1|06|CSONGRÁD  |13|EGYESÜLT KISGAZDA PÁRT        |00003413                                                                                         
+1|06|CSONGRÁD  |14|MSZDP                         |00004424                                                                                         
+1|07|FEJÉR     |01|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00003404                                                                                         
+1|07|FEJÉR     |02|AGRÁRSZÖVETSÉG                |00004339                                                                                         
+1|07|FEJÉR     |03|MUNKÁSPÁRT                    |00005634                                                                                         
+1|07|FEJÉR     |04|MDF                           |00021110                                                                                         
+1|07|FEJÉR     |05|MAGYAR SZOCIALISTA PÁRT       |00071481                                                                                         
+1|07|FEJÉR     |06|MSZDP                         |00002569                                                                                         
+1|07|FEJÉR     |07|KÖZTÁRSASÁG PÁRT              |00006178                                                                                         
+1|07|FEJÉR     |08|FÜGGETLEN KISGAZDAPÁRT        |00022318                                                                                         
+1|07|FEJÉR     |09|FIDESZ                        |00021447                                                                                         
+1|07|FEJÉR     |10|LPSZ VÁLLALKOZÓK PÁRTJA       |00001259                                                                                         
+1|07|FEJÉR     |11|PIACPÁRT                      |00000635                                                                                         
+1|07|FEJÉR     |12|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00012049                                                                                         
+1|07|FEJÉR     |13|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00041814                                                                                         
+1|08|GYÕR      |01|MDF                           |00030183                                                                                         
+1|08|GYÕR      |02|FÜGGETLEN KISGAZDAPÁRT        |00025919                                                                                         
+1|08|GYÕR      |03|NEMZETI DEMOKRATÁK            |00003223                                                                                         
+1|08|GYÕR      |04|AGRÁRSZÖVETSÉG                |00003846                                                                                         
+1|08|GYÕR      |05|KÖZTÁRSASÁG PÁRT              |00006386                                                                                         
+1|08|GYÕR      |06|LPSZ VÁLLALKOZÓK PÁRTJA       |00001612                                                                                         
+1|08|GYÕR      |07|MSZDP                         |00003235                                                                                         
+1|08|GYÕR      |08|EGYESÜLT KISGAZDA PÁRT        |00002511                                                                                         
+1|08|GYÕR      |09|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00019489                                                                                         
+1|08|GYÕR      |10|MAGYAR SZOCIALISTA PÁRT       |00063706                                                                                         
+1|08|GYÕR      |11|MUNKÁSPÁRT                    |00004592                                                                                         
+1|08|GYÕR      |12|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00052880                                                                                         
+1|08|GYÕR      |13|FIDESZ                        |00019318                                                                                         
+1|08|GYÕR      |14|MAGYARORSZÁGI ZÖLD PÁRT       |00001211                                                                                         
+1|09|HAJDÚ     |01|KIEGYEZÉS KISGAZDAPÁRT        |00003303                                                                                         
+1|09|HAJDÚ     |02|LPSZ VÁLLALKOZÓK PÁRTJA       |00001662                                                                                         
+1|09|HAJDÚ     |03|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00045723                                                                                         
+1|09|HAJDÚ     |04|AGRÁRSZÖVETSÉG                |00006370                                                                                         
+1|09|HAJDÚ     |05|MSZDP                         |00004256                                                                                         
+1|09|HAJDÚ     |06|FÜGGETLEN KISGAZDAPÁRT        |00025902                                                                                         
+1|09|HAJDÚ     |07|NEMZETI DEMOKRATÁK            |00003959                                                                                         
+1|09|HAJDÚ     |08|KÖZTÁRSASÁG PÁRT              |00004166                                                                                         
+1|09|HAJDÚ     |09|FIDESZ                        |00021018                                                                                         
+1|09|HAJDÚ     |10|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00005981                                                                                         
+1|09|HAJDÚ     |11|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00012474                                                                                         
+1|09|HAJDÚ     |12|MAGYAR SZOCIALISTA PÁRT       |00092698                                                                                         
+1|09|HAJDÚ     |13|MDF                           |00027422                                                                                         
+1|09|HAJDÚ     |14|MUNKÁSPÁRT                    |00006431                                                                                         
+1|10|HEVES     |01|NEMZETI DEMOKRATÁK            |00002081                                                                                         
+1|10|HEVES     |02|MAGYAR SZOCIALISTA PÁRT       |00062708                                                                                         
+1|10|HEVES     |03|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00015882                                                                                         
+1|10|HEVES     |04|MSZDP                         |00002723                                                                                         
+1|10|HEVES     |05|KÖZTÁRSASÁG PÁRT              |00002451                                                                                         
+1|10|HEVES     |06|MDF                           |00017533                                                                                         
+1|10|HEVES     |07|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00037755                                                                                         
+1|10|HEVES     |08|MUNKÁSPÁRT                    |00008527                                                                                         
+1|10|HEVES     |09|MAGYARORSZÁGI ZÖLD PÁRT       |00001119                                                                                         
+1|10|HEVES     |10|FÜGGETLEN KISGAZDAPÁRT        |00013505                                                                                         
+1|10|HEVES     |11|FIDESZ                        |00010202                                                                                         
+1|10|HEVES     |12|EGYESÜLT KISGAZDA PÁRT        |00000988                                                                                         
+1|10|HEVES     |13|AGRÁRSZÖVETSÉG                |00003128                                                                                         
+1|10|HEVES     |14|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00002604                                                                                         
+1|11|SZOLNOK   |01|MSZDP                         |00003443                                                                                         
+1|11|SZOLNOK   |02|FÜGGETLEN KISGAZDAPÁRT        |00022442                                                                                         
+1|11|SZOLNOK   |03|FIDESZ                        |00016181                                                                                         
+1|11|SZOLNOK   |04|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00011188                                                                                         
+1|11|SZOLNOK   |05|KÖZTÁRSASÁG PÁRT              |00003554                                                                                         
+1|11|SZOLNOK   |06|LPSZ VÁLLALKOZÓK PÁRTJA       |00003136                                                                                         
+1|11|SZOLNOK   |07|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00042352                                                                                         
+1|11|SZOLNOK   |08|MUNKÁSPÁRT                    |00010354                                                                                         
+1|11|SZOLNOK   |09|MDF                           |00020896                                                                                         
+1|11|SZOLNOK   |10|EGYESÜLT KISGAZDA PÁRT        |00002772                                                                                         
+1|11|SZOLNOK   |11|MAGYAR SZOCIALISTA PÁRT       |00076392                                                                                         
+1|11|SZOLNOK   |12|NEMZETI DEMOKRATÁK            |00001312                                                                                         
+1|11|SZOLNOK   |13|AGRÁRSZÖVETSÉG                |00004423                                                                                         
+1|12|KOMÁROM   |01|MSZDP                         |00002445                                                                                         
+1|12|KOMÁROM   |02|AGRÁRSZÖVETSÉG                |00002820                                                                                         
+1|12|KOMÁROM   |03|FIDESZ                        |00010612                                                                                         
+1|12|KOMÁROM   |04|MUNKÁSPÁRT                    |00005655                                                                                         
+1|12|KOMÁROM   |05|EGYESÜLT KISGAZDA PÁRT        |00001641                                                                                         
+1|12|KOMÁROM   |06|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00038184                                                                                         
+1|12|KOMÁROM   |07|NEMZETI DEMOKRATÁK            |00001785                                                                                         
+1|12|KOMÁROM   |08|MDF                           |00014406                                                                                         
+1|12|KOMÁROM   |09|FÜGGETLEN KISGAZDAPÁRT        |00013961                                                                                         
+1|12|KOMÁROM   |10|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00010706                                                                                         
+1|12|KOMÁROM   |11|MAGYAR SZOCIALISTA PÁRT       |00064598                                                                                         
+1|13|NÓGRÁD    |01|FÜGGETLEN KISGAZDAPÁRT        |00007580                                                                                         
+1|13|NÓGRÁD    |02|EGYESÜLT KISGAZDA PÁRT        |00000864                                                                                         
+1|13|NÓGRÁD    |03|MUNKÁSPÁRT                    |00012907                                                                                         
+1|13|NÓGRÁD    |04|ZÖLD ALTERNATÍVA              |00000849                                                                                         
+1|13|NÓGRÁD    |05|LPSZ VÁLLALKOZÓK PÁRTJA       |00001202                                                                                         
+1|13|NÓGRÁD    |06|AGRÁRSZÖVETSÉG                |00002057                                                                                         
+1|13|NÓGRÁD    |07|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00020216                                                                                         
+1|13|NÓGRÁD    |08|MAGYAR SZOCIALISTA PÁRT       |00042359                                                                                         
+1|13|NÓGRÁD    |09|MDF                           |00012744                                                                                         
+1|13|NÓGRÁD    |10|FIDESZ                        |00007908                                                                                         
+1|13|NÓGRÁD    |11|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00013058                                                                                         
+1|14|PEST      |01|FÜGGETLEN KISGAZDAPÁRT        |00047128                                                                                         
+1|14|PEST      |02|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00012207                                                                                         
+1|14|PEST      |03|KÖZTÁRSASÁG PÁRT              |00015647                                                                                         
+1|14|PEST      |04|LPSZ VÁLLALKOZÓK PÁRTJA       |00003933                                                                                         
+1|14|PEST      |05|MUNKÁSPÁRT                    |00010716                                                                                         
+1|14|PEST      |06|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00101365                                                                                         
+1|14|PEST      |07|MSZDP                         |00007748                                                                                         
+1|14|PEST      |08|MDF                           |00058808                                                                                         
+1|14|PEST      |09|EGYESÜLT KISGAZDA PÁRT        |00005793                                                                                         
+1|14|PEST      |10|AGRÁRSZÖVETSÉG                |00008115                                                                                         
+1|14|PEST      |11|MAGYAR SZOCIALISTA PÁRT       |00146413                                                                                         
+1|14|PEST      |12|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00037717                                                                                         
+1|14|PEST      |13|FIDESZ                        |00034367                                                                                         
+1|15|SOMOGY    |01|FÜGGETLEN KISGAZDAPÁRT        |00022024                                                                                         
+1|15|SOMOGY    |02|NEMZETI DEMOKRATÁK            |00001476                                                                                         
+1|15|SOMOGY    |03|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00011559                                                                                         
+1|15|SOMOGY    |04|KÖZTÁRSASÁG PÁRT              |00002230                                                                                         
+1|15|SOMOGY    |05|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00027453                                                                                         
+1|15|SOMOGY    |06|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00002705                                                                                         
+1|15|SOMOGY    |07|AGRÁRSZÖVETSÉG                |00003992                                                                                         
+1|15|SOMOGY    |08|MAGYAR SZOCIALISTA PÁRT       |00072273                                                                                         
+1|15|SOMOGY    |09|LPSZ VÁLLALKOZÓK PÁRTJA       |00001483                                                                                         
+1|15|SOMOGY    |10|MDF                           |00016081                                                                                         
+1|15|SOMOGY    |11|FIDESZ                        |00013203                                                                                         
+1|15|SOMOGY    |12|MUNKÁSPÁRT                    |00003317                                                                                         
+1|15|SOMOGY    |13|KONZERVATÍV PÁRT              |00000235                                                                                         
+1|16|SZABOLCS  |01|MSZDP                         |00004224                                                                                         
+1|16|SZABOLCS  |02|MAGYARORSZÁGI ZÖLD PÁRT       |00001560                                                                                         
+1|16|SZABOLCS  |03|KIEGYEZÉS KISGAZDAPÁRT        |00002615                                                                                         
+1|16|SZABOLCS  |04|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00042165                                                                                         
+1|16|SZABOLCS  |05|FÜGGETLEN KISGAZDAPÁRT        |00022823                                                                                         
+1|16|SZABOLCS  |06|FIDESZ                        |00019761                                                                                         
+1|16|SZABOLCS  |07|MUNKÁSPÁRT                    |00009199                                                                                         
+1|16|SZABOLCS  |08|LPSZ VÁLLALKOZÓK PÁRTJA       |00003091                                                                                         
+1|16|SZABOLCS  |09|KÖZTÁRSASÁG PÁRT              |00004102                                                                                         
+1|16|SZABOLCS  |10|MAGYAR SZOCIALISTA PÁRT       |00084708                                                                                         
+1|16|SZABOLCS  |11|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00004463                                                                                         
+1|16|SZABOLCS  |12|NEMZETI DEMOKRATÁK            |00002072                                                                                         
+1|16|SZABOLCS  |13|AGRÁRSZÖVETSÉG                |00005003                                                                                         
+1|16|SZABOLCS  |14|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00020342                                                                                         
+1|16|SZABOLCS  |15|MDF                           |00031146                                                                                         
+1|16|SZABOLCS  |16|EGYESÜLT KISGAZDA PÁRT        |00002243                                                                                         
+1|17|TOLNA     |01|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00011491                                                                                         
+1|17|TOLNA     |02|MSZDP                         |00001728                                                                                         
+1|17|TOLNA     |03|KÖZTÁRSASÁG PÁRT              |00002643                                                                                         
+1|17|TOLNA     |04|FÜGGETLEN KISGAZDAPÁRT        |00010668                                                                                         
+1|17|TOLNA     |05|NEMZETI DEMOKRATÁK            |00001397                                                                                         
+1|17|TOLNA     |06|FIDESZ                        |00010248                                                                                         
+1|17|TOLNA     |07|MAGYAR SZOCIALISTA PÁRT       |00040416                                                                                         
+1|17|TOLNA     |08|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA |00002698                                                                                         
+1|17|TOLNA     |09|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00023380                                                                                         
+1|17|TOLNA     |10|EGYESÜLT KISGAZDA PÁRT        |00002167                                                                                         
+1|17|TOLNA     |11|AGRÁRSZÖVETSÉG                |00005401                                                                                         
+1|17|TOLNA     |12|MUNKÁSPÁRT                    |00003344                                                                                         
+1|17|TOLNA     |13|MDF                           |00013770                                                                                         
+1|18|VAS       |01|AGRÁRSZÖVETSÉG                |00004029                                                                                         
+1|18|VAS       |02|KÖZTÁRSASÁG PÁRT              |00002235                                                                                         
+1|18|VAS       |03|MDF                           |00019059                                                                                         
+1|18|VAS       |04|FIDESZ                        |00010812                                                                                         
+1|18|VAS       |05|MAGYAR SZOCIALISTA PÁRT       |00039976                                                                                         
+1|18|VAS       |06|LPSZ VÁLLALKOZÓK PÁRTJA       |00001155                                                                                         
+1|18|VAS       |07|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00039677                                                                                         
+1|18|VAS       |08|MUNKÁSPÁRT                    |00003330                                                                                         
+1|18|VAS       |09|MAGYARORSZÁGI ZÖLD PÁRT       |00000687                                                                                         
+1|18|VAS       |10|FÜGGETLEN KISGAZDAPÁRT        |00017516                                                                                         
+1|18|VAS       |11|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00016309                                                                                         
+1|19|VESZPRÉM  |01|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00046217                                                                                         
+1|19|VESZPRÉM  |02|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00016040                                                                                         
+1|19|VESZPRÉM  |03|FÜGGETLEN KISGAZDAPÁRT        |00021635                                                                                         
+1|19|VESZPRÉM  |04|AGRÁRSZÖVETSÉG                |00004022                                                                                         
+1|19|VESZPRÉM  |05|EGYESÜLT KISGAZDA PÁRT        |00002451                                                                                         
+1|19|VESZPRÉM  |06|NEMZETI DEMOKRATÁK            |00002610                                                                                         
+1|19|VESZPRÉM  |07|LPSZ VÁLLALKOZÓK PÁRTJA       |00002288                                                                                         
+1|19|VESZPRÉM  |08|MUNKÁSPÁRT                    |00004341                                                                                         
+1|19|VESZPRÉM  |09|KÖZTÁRSASÁG PÁRT              |00002602                                                                                         
+1|19|VESZPRÉM  |10|MSZDP                         |00002487                                                                                         
+1|19|VESZPRÉM  |11|MDF                           |00025348                                                                                         
+1|19|VESZPRÉM  |12|MAGYAR SZOCIALISTA PÁRT       |00060092                                                                                         
+1|19|VESZPRÉM  |13|FIDESZ                        |00016649                                                                                         
+1|19|VESZPRÉM  |14|KONZERVATÍV PÁRT              |00000420                                                                                         
+1|20|ZALA      |01|FIDESZ                        |00012452                                                                                         
+1|20|ZALA      |02|AGRÁRSZÖVETSÉG                |00003354                                                                                         
+1|20|ZALA      |03|KERESZTÉNYDEMOKRATA NÉPPÁRT   |00015943                                                                                         
+1|20|ZALA      |04|MSZDP                         |00002412                                                                                         
+1|20|ZALA      |05|LPSZ VÁLLALKOZÓK PÁRTJA       |00002495                                                                                         
+1|20|ZALA      |06|FÜGGETLEN KISGAZDAPÁRT        |00022622                                                                                         
+1|20|ZALA      |07|MDF                           |00020075                                                                                         
+1|20|ZALA      |08|MAGYAR SZOCIALISTA PÁRT       |00047751                                                                                         
+1|20|ZALA      |09|MUNKÁSPÁRT                    |00003468                                                                                         
+1|20|ZALA      |10|SZABAD DEMOKRATÁK SZÖVETSÉGE  |00030676                                                                                         
+1|20|ZALA      |11|EGYESÜLT KISGAZDA PÁRT        |00001330                                                                                         

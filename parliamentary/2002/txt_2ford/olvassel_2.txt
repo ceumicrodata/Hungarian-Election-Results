@@ -1,0 +1,251 @@
+
+
+      Szavazóköri és eredmény jegyzõkönyv állományok
+
+       2. forduló végleges adatai 
+       
+       Készült: 2002.05.06
+------------------------------------------------------------------
+Egyéni szavazóköri:
+------------------------------------------------------------------
+
+EGY_SZKF.TXT
+   MAZ       CHAR(2)     -- Megye azonosító
+   TAZ       CHAR(3)     -- Település azonosító
+   SORSZ     CHAR(4)     -- Szavazókör sorszáma megyén, 
+                            településen belül
+   MNEV      CHAR(25)    -- Megyenév
+   TELEP     CHAR(27)    -- Településnév
+   OEVK      CHAR(2)     -- OEVK sorszáma megyén belül
+   A         NUMBER(10)  -- Jegyzõkönyv 'A' mezõ
+                            Elõzõ nap 16 óráig a névjegyzékbe 
+                            felvett választópolgárok száma
+   B         NUMBER(10)  -- Jegyzõkönyv 'B' mezõ
+                            A szavazás napján a névjegyzékbe 
+                            felvett választópolgárok száma
+   C         NUMBER(10)  -- Jegyzõkönyv 'C' mezõ
+                            A szavazás napján a névjegyzékbõl 
+                            törölt választópolgárok száma
+   D         NUMBER(10)  -- Jegyzõkönyv 'D' mezõ
+                            Vál.polgárok száma a névjegyzékben 
+                            a választás befejezésekor
+   E         NUMBER(10)  -- Jegyzõkönyv 'E' mezõ
+                            Visszautasított választópolgárok száma
+   F         NUMBER(10)  -- Jegyzõkönyv 'F' mezõ 
+                            Szavazóként megjelentek száma
+   G         NUMBER(10)  -- Jegyzõkönyv 'G' mezõ
+                            Urnában lévõ szavazólapok száma
+   H         NUMBER(10)  -- Jegyzõkönyv 'H' mezõ
+                            Eltérés a szavazók számától (G-F)
+   I         NUMBER(10)  -- Jegyzõkönyv 'I' mezõ
+                            Érvénytelen szavazatok száma
+   J         NUMBER(10)  -- Jegyzõkönyv 'J' mezõ
+                            Érvényes szavazatok száma
+   MEGS      CHAR(12)    -- Megsemmisítés ténye, vagy üres
+
+Egyedi kulcs:
+   MAZ,TAZ,SORSZ
+
+
+EGY_SZKT.TXT
+   MAZ       CHAR(2)     -- Megye azonosító
+   TAZ       CHAR(3)     -- Település azonosító
+   SORSZ     CHAR(4)     -- Szavazókör sorszáma megyén, 
+                            településen belül
+   SOR       CHAR(2)     -- Jelölt sorszáma
+   NEVDR     CHAR(4)     -- Név jelzõ (pl. Dr. Ifj. Özv. stb. )
+   NEV       CHAR(60)    -- Jelölt neve
+   SZAV      NUMBER(10)  -- Kapott érvényes szavazat
+   TAMSZAM   CHAR(2)     -- Támogató pártok száma 
+                            (a következõ mezõ ennyiszer ismétlõdik)
+   TAMi      CHAR(30)    -- i. támogató párt
+
+Egyedi kulcs:
+   MAZ,TAZ,SORSZ,SOR
+
+Kapcsolat 1-n típusú:
+   MAZ,TAZ,SORSZ
+
+
+------------------------------------------------------------------
+Egyéni eredmény:
+------------------------------------------------------------------
+
+EGY_ERF.TXT
+   MAZ       CHAR(2)     -- Megye azonosító
+   OEVK      CHAR(2)     -- OEVK sorszáma megyén belül
+   MNEV      CHAR(25)    -- Megyenév
+   TELEP     CHAR(27)    -- Az OEVK székhely településének neve
+   A         NUMBER(10)  -- Jegyzõkönyv 'A' mezõ
+                            Elõzõ nap 16 óráig a névjegyzékbe 
+                            felvett választópolgárok száma
+   B         NUMBER(10)  -- Jegyzõkönyv 'B' mezõ
+                            A szavazás napján a névjegyzékbe 
+                            felvett választópolgárok száma
+   C         NUMBER(10)  -- Jegyzõkönyv 'C' mezõ
+                            A szavazás napján a névjegyzékbõl 
+                            törölt választópolgárok száma
+   D         NUMBER(10)  -- Jegyzõkönyv 'D' mezõ
+                            Vál.polgárok száma a névjegyzékben 
+                            a választás befejezésekor
+   E         NUMBER(10)  -- Jegyzõkönyv 'E' mezõ
+                            Visszautasított választópolgárok száma
+   F         NUMBER(10)  -- Jegyzõkönyv 'F' mezõ 
+                            Szavazóként megjelentek száma
+   G         NUMBER(10)  -- Jegyzõkönyv 'G' mezõ
+                            Urnában lévõ szavazólapok száma
+   H         NUMBER(10)  -- Jegyzõkönyv 'H' mezõ
+                            Eltérés a szavazók számától (G-F)
+   I         NUMBER(10)  -- Jegyzõkönyv 'I' mezõ
+                            Érvénytelen szavazatok száma
+   J         NUMBER(10)  -- Jegyzõkönyv 'J' mezõ
+                            Érvényes szavazatok száma
+   EREDM     CHAR(26)    -- Az eredmény értékelése
+                            érvényesség/eredményesség
+   MEGS      CHAR(12)    -- Megsemmisítés ténye, vagy üres
+   KAZON     CHAR(3)     -- Képviselõ azonosítója
+                            üres a NEVDR és NEV adattal együtt,
+                            ha a választás 
+                            - érvénytelen, vagy 
+                            - érvényes, de eredménytelen
+   NEVDR     CHAR(4)     -- Név jelzõ (pl. Dr. Ifj. Özv. stb.)
+   NEV       CHAR(60)    -- Képviselõ neve
+
+Egyedi kulcs:
+   MAZ,OEVK
+
+
+EGY_ERT.TXT
+   MAZ       CHAR(2)     -- Megye azonosító
+   OEVK      CHAR(2)     -- OEVK sorszáma megyén belül
+   SOR       CHAR(2)     -- Jelölt sorszáma, vagy
+                            üres ha csak a töredékszavazatai miatt
+                            szerepel a jelölt
+   NEVDR     CHAR(4)     -- Név jelzõ (pl. Dr. Ifj. Özv. stb. )
+   NEV       CHAR(60)    -- Jelölt neve
+   SZAV      CHAR(10)    -- Kapott érvényes szavazat, vagy
+                            üres ha csak a töredékszavazatai miatt
+                            szerepel a jelölt
+   TAMSZAM   CHAR(2)     -- Támogató pártok száma 
+                            (a következõ mezõ ennyiszer ismétlõdik)
+   TAMi      CHAR(30)    -- i. támogató párt
+   
+Egyedi kulcs:
+   MAZ,OEVK
+
+Kapcsolat 1-n típusú:
+   MAZ,OEVK
+
+
+------------------------------------------------------------------
+Listás szavazóköri:
+------------------------------------------------------------------
+
+LIS_SZKF.TXT
+   MAZ       CHAR(2)     -- Megye azonosító
+   TAZ       CHAR(3)     -- Település azonosító
+   SORSZ     CHAR(4)     -- Szavazókör sorszám megyén,
+                            településen belül
+   MNEV      CHAR(25)    -- Megyenév
+   TELEP     CHAR(27)    -- Településnév
+   OEVK      CHAR(2)     -- OEVK sorszáma megyén belül
+   A         NUMBER(10)  -- Jegyzõkönyv 'A' mezõ
+                            Elõzõ nap 16 óráig a névjegyzékbe 
+                            felvett választópolgárok száma
+   B         NUMBER(10)  -- Jegyzõkönyv 'B' mezõ
+                            A szavazás napján a névjegyzékbe 
+                            felvett választópolgárok száma
+   C         NUMBER(10)  -- Jegyzõkönyv 'C' mezõ
+                            A szavazás napján a névjegyzékbõl 
+                            törölt választópolgárok száma
+   D         NUMBER(10)  -- Jegyzõkönyv 'D' mezõ
+                            Vál.polgárok száma a névjegyzékben 
+                            a választás befejezésekor
+   E         NUMBER(10)  -- Jegyzõkönyv 'E' mezõ
+                            Visszautasított választópolgárok száma
+   F         NUMBER(10)  -- Jegyzõkönyv 'F' mezõ 
+                            Szavazóként megjelentek száma
+   G         NUMBER(10)  -- Jegyzõkönyv 'G' mezõ
+                            Urnában lévõ szavazólapok száma
+   H         NUMBER(10)  -- Jegyzõkönyv 'H' mezõ
+                            Eltérés a szavazók számától (G-F)
+   I         NUMBER(10)  -- Jegyzõkönyv 'I' mezõ
+                            Érvénytelen szavazatok száma
+   J         NUMBER(10)  -- Jegyzõkönyv 'J' mezõ
+                            Érvényes szavazatok száma
+   MEGS      CHAR(12)    -- Megsemmisítés ténye, vagy üres
+
+Egyedi kulcs:
+   MAZ,TAZ,SORSZ
+
+
+LIS_SZKT.TXT
+   MAZ       CHAR(2)     -- Megye azonosító
+   TAZ       CHAR(3)     -- Település azonosító
+   SORSZ     CHAR(4)     -- Szavazókör sorszáma megyén,
+                            településen belül
+   SOR       NUMBER(10)  -- Lista sorszáma
+   LNEV      CHAR(92)    -- Lista neve
+   SZAV      NUMBER(10)  -- Kapott érvényes szavazat
+
+Egyedi kulcs:
+   MAZ,TAZ,SORSZ,SOR
+
+Kapcsolat 1-n típusú :
+   MAZ,TAZ,SORSZ
+
+------------------------------------------------------------------
+Listás eredmény I.:
+------------------------------------------------------------------
+
+LIS_ERF.TXT
+   MAZ       CHAR(2)     -- Megye azonosító
+   MNEV      CHAR(25)    -- Megyenév
+   TELEP     CHAR(27)    -- Megye székhely település neve
+   A         NUMBER(10)  -- Jegyzõkönyv 'A' mezõ
+                            Elõzõ nap 16 óráig a névjegyzékbe 
+                            felvett választópolgárok száma
+   B         NUMBER(10)  -- Jegyzõkönyv 'B' mezõ
+                            A szavazás napján a névjegyzékbe 
+                            felvett választópolgárok száma
+   C         NUMBER(10)  -- Jegyzõkönyv 'C' mezõ
+                            A szavazás napján a névjegyzékbõl 
+                            törölt választópolgárok száma
+   D         NUMBER(10)  -- Jegyzõkönyv 'D' mezõ
+                            Vál.polgárok száma a névjegyzékben 
+                            a választás befejezésekor
+   E         NUMBER(10)  -- Jegyzõkönyv 'E' mezõ
+                            Visszautasított választópolgárok száma
+   F         NUMBER(10)  -- Jegyzõkönyv 'F' mezõ 
+                            Szavazóként megjelentek száma
+   G         NUMBER(10)  -- Jegyzõkönyv 'G' mezõ
+                            Urnában lévõ szavazólapok száma
+   H         NUMBER(10)  -- Jegyzõkönyv 'H' mezõ
+                            Eltérés a szavazók számától (G-F)
+   I         NUMBER(10)  -- Jegyzõkönyv 'I' mezõ
+                            Érvénytelen szavazatok száma
+   J         NUMBER(10)  -- Jegyzõkönyv 'J' mezõ
+                            Érvényes szavazatok száma
+   EREDM     CHAR(26)    -- Az eredmény értékelése
+                            érvényesség/eredményesség
+   MEGS      CHAR(12)    -- Megsemmisítés ténye, vagy üres
+
+Egyedi kulcs:
+   MAZ
+
+
+LIS_ERT.TXT
+   MAZ       CHAR(2)     -- Megye azonosító
+   SOR       NUMBER(10)  -- Lista sorszáma
+   LNEV      CHAR(92)    -- Lista neve
+   SZAV      NUMBER(10)  -- Kapott érvényes szavazat
+
+Egyedi kulcs:
+   MAZ
+
+Kapcsolat 1-n típusú :
+   MAZ
+
+
+
+

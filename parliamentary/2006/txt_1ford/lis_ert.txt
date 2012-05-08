@@ -1,0 +1,153 @@
+01| 1|FIDESZ-Magyar Polgári Szövetség Kereszténydemokrata Néppárt                                 |0356982|02|FIDESZ,KDNP                                                 
+01| 2|MAGYAR SZOCIALISTA PÁRT                                                                     |0445059|01|MSZP                                                        
+01| 3|MIÉP-Jobbik a Harmadik Út                                                                   |0029506|01|MIÉP-Jobbik                                                 
+01| 4|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                                |0006327|01|MUNKÁSPÁRT                                                  
+01| 5|SZABAD DEMOKRATÁK SZÖVETSÉGE A MAGYAR LIBERÁLIS PÁRT                                        |0124887|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+01| 6|MAGYAR DEMOKRATA FÓRUM                                                                      |0053908|01|MDF                                                         
+02| 1|SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT                                       |0012368|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+02| 2|MAGYAR SZOCIALISTA PÁRT                                                                     |0104865|01|MSZP                                                        
+02| 3|MAGYAR DEMOKRATA FÓRUM                                                                      |0011069|01|MDF                                                         
+02| 4|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                                |0000344|01|MVPP                                                        
+02| 5|FIDESZ-Magyar Polgári Szövetség Kereszténydemokrata Néppárt                                 |0083132|02|FIDESZ,KDNP                                                 
+02| 6|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                                |0000881|01|MUNKÁSPÁRT                                                  
+02| 7|KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS                             |0000316|01|KERESZTÉNYDEMOKRATAPÁRT                                     
+02| 8|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                    |0000697|01|MCF ROMA ÖSSZEFOGÁS PÁRT                                    
+02| 9|MAGYARORSZÁGI MUNKÁSPÁRT 2006                                                               |0000556|01|MUNKÁSPÁRT 2006                                             
+02|10|MIÉP-Jobbik a Harmadik Út                                                                   |0002783|01|MIÉP-Jobbik                                                 
+03| 1|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                    |0000955|01|MCF ROMA ÖSSZEFOGÁS PÁRT                                    
+03| 2|  MAGYAR SZOCIALISTA PÁRT                                                                   |0101502|01|MSZP                                                        
+03| 3|MAGYAR DEMOKRATA FÓRUM                                                                      |0014017|01|MDF                                                         
+03| 4|FIDESZ MAGYAR POLGÁRISZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT                                  |0136252|02|FIDESZ,KDNP                                                 
+03| 5|FÜGGETLEN KISGAZDA-, NEMZETI EGYSÉG PÁRT                                                    |0000445|01|FÜGGETLEN KISGAZDA NEMZETI E.P                              
+03| 6|MIÉP-Jobbik a Harmadik Út                                                                   |0005142|01|MIÉP-Jobbik                                                 
+03| 7|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                          |0001833|01|CENTRUM                                                     
+03| 8|SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT                                       |0013501|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+04| 1|FIDESZ-Magyar Polgári Szövetség Kereszténydemokrata Néppárt                                 |0085144|02|FIDESZ,KDNP                                                 
+04| 2|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                                |0002127|01|MUNKÁSPÁRT                                                  
+04| 3|KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS                             |0000131|01|KERESZTÉNYDEMOKRATAPÁRT                                     
+04| 4|MAGYAR SZOCIALISTA PÁRT                                                                     |0086679|01|MSZP                                                        
+04| 5|SZABAD DEMOKRATÁK SZÖVETSÉGE-A MAGYAR LIBERÁLIS PÁRT                                        |0008856|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+04| 6|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                          |0001700|01|CENTRUM                                                     
+04| 7|MAGYAR DEMOKRATA FÓRUM                                                                      |0009607|01|MDF                                                         
+04| 8|FÜGGETLEN KISGAZDA, FÖLDMUNKÁS ÉS POLGÁRI PÁRT                                              |0000517|01|FÜGGETLEN KISGAZDAPÁRT                                      
+04| 9|MIÉP-Jobbik a Harmadik Út                                                                   |0003236|01|MIÉP-Jobbik                                                 
+04|10|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                                |0000212|01|MVPP                                                        
+05| 1|MIÉP-Jobbik a Harmadik Út                                                                   |0008325|01|MIÉP-Jobbik                                                 
+05| 2|FIDESZ-MagyarPolgári Szövetség Kereszténydemokrata Néppárt                                  |0138058|02|FIDESZ,KDNP                                                 
+05| 3|MAGYAR SZOCIALISTA PÁRT                                                                     |0184166|01|MSZP                                                        
+05| 4|CENTRUM Összefogás Magyarországért                                                          |0002413|01|CENTRUM                                                     
+05| 5|SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT                                       |0013986|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+05| 6|MAGYAR DEMOKRATA FÓRUM                                                                      |0013865|01|MDF                                                         
+05| 7|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                                |0000745|01|MVPP                                                        
+06| 1|MAGYAR SZOCIALISTA PÁRT                                                                     |0097772|01|MSZP                                                        
+06| 2|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                                |0001750|01|MUNKÁSPÁRT                                                  
+06| 3|MAGYAR DEMOKRATA FÓRUM                                                                      |0010782|01|MDF                                                         
+06| 4|MIÉP-Jobbik a Harmadik Út                                                                   |0003591|01|MIÉP-Jobbik                                                 
+06| 5| FIDESZ- Magyar Polgári Szövetség KERESZTÉNYDEMOKRATA NÉPPÁRT                               |0092628|02|FIDESZ,KDNP                                                 
+06| 6|ZÖLDEK PÁRTJA                                                                               |0001400|01|ZÖLDEK PÁRTJA                                               
+06| 7|SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT                                      |0011722|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+06| 8|CENTRUM Összefogás Magyarországért                                                          |0001777|01|CENTRUM                                                     
+07| 1|Független Kisgazda-, Nemzeti Egység Párt                                                    |0000291|01|FÜGGETLEN KISGAZDA NEMZETI E.P                              
+07| 2|Magyar Demokrata Fórum                                                                      |0012465|01|MDF                                                         
+07| 3|SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT                                      |0013465|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+07| 4|Magyar Kommunista Munkáspárt                                                                |0001489|01|MUNKÁSPÁRT                                                  
+07| 5|MIÉP-Jobbik a Harmadik Út                                                                   |0004294|01|MIÉP-Jobbik                                                 
+07| 6|MAGYAR SZOCIALISTA PÁRT                                                                     |0098202|01|MSZP                                                        
+07| 7|Fidesz-Magyar Polgári Szövetség Kereszténydemokrata Néppárt                                 |0097199|02|FIDESZ,KDNP                                                 
+08| 1|MIÉP-Jobbik a Harmadik Út                                                                   |0004775|01|MIÉP-Jobbik                                                 
+08| 2|SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT                                      |0012198|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+08| 3|MAGYAR DEMOKRATA FÓRUM                                                                      |0013957|01|MDF                                                         
+08| 4|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                                |0001346|01|MUNKÁSPÁRT                                                  
+08| 5|  MAGYAR SZOCIALISTA PÁRT                                                                   |0093360|01|MSZP                                                        
+08| 6|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                                |0000538|01|MVPP                                                        
+08| 7|KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS                             |0000381|01|KERESZTÉNYDEMOKRATAPÁRT                                     
+08| 8|FIDESZ-MAGYAR POLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT                                 |0121603|02|FIDESZ,KDNP                                                 
+09| 1|FIDESZ-MAGYARPOLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT                                  |0131592|02|FIDESZ,KDNP                                                 
+09| 2|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                                |0000413|01|MVPP                                                        
+09| 3|MIÉP-JOBBIK A HARMADIK ÚT                                                                   |0005628|01|MIÉP-Jobbik                                                 
+09| 4|ZÖLDEK PÁRTJA                                                                               |0000820|01|ZÖLDEK PÁRTJA                                               
+09| 5|KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS                             |0000158|01|KERESZTÉNYDEMOKRATAPÁRT                                     
+09| 6|MAGYAR SZOCIALISTA PÁRT                                                                     |0109561|01|MSZP                                                        
+09| 7|SZABAD DEMOKRATÁK SZÖVETSÉGE A MAGYAR LIBERÁLIS PÁRT                                        |0010891|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+09| 8|MAGYAR DEMOKRATA FÓRUM                                                                      |0014830|01|MDF                                                         
+09| 9|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                          |0001635|01|CENTRUM                                                     
+09|10|FÜGGETLEN KISGAZDA FÖLDMUNKÁS ÉS POLGÁRI PÁRT                                               |0000321|01|FÜGGETLEN KISGAZDAPÁRT                                      
+10| 1|KERESZTÉNYDEMOKRATAPÁRT KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS                              |0000280|01|KERESZTÉNYDEMOKRATAPÁRT                                     
+10| 2|ZÖLDEK PÁRTJA                                                                               |0000650|01|ZÖLDEK PÁRTJA                                               
+10| 3|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                                |0000227|01|MVPP                                                        
+10| 4|SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT                                      |0008736|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+10| 5|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                    |0000546|01|MCF ROMA ÖSSZEFOGÁS PÁRT                                    
+10| 6|FÜGGETLEN KISGAZDA -, NEMZETI EGYSÉG PÁRT                                                   |0000153|01|FÜGGETLEN KISGAZDA NEMZETI E.P                              
+10| 7|MAGYAR SZOCIALISTA PÁRT                                                                     |0083814|01|MSZP                                                        
+10| 8|FIDESZ-MagyarPolgári Szövetség KERESZTÉNYDEMOKRATA NÉPPÁRT                                  |0063320|02|FIDESZ,KDNP                                                 
+10| 9|MAGYAR DEMOKRATA FÓRUM                                                                      |0007560|01|MDF                                                         
+10|10|MIÉP-JOBBIK A HARMADIK ÚT                                                                   |0005115|01|MIÉP-Jobbik                                                 
+11| 1|FIDESZ-Magyar Polgári Szövetség KERESZTÉNYDEMOKRATA NÉPPÁRT                                 |0080373|02|FIDESZ,KDNP                                                 
+11| 2|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                    |0000224|01|MCF ROMA ÖSSZEFOGÁS PÁRT                                    
+11| 3|MAGYAR SZOCIALISTA PÁRT                                                                     |0095042|01|MSZP                                                        
+11| 4|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                                |0002640|01|MUNKÁSPÁRT                                                  
+11| 5|MAGYAR DEMOKRATA FÓRUM                                                                      |0010003|01|MDF                                                         
+11| 6|SZABAD DEMOKRATÁK SZÖVETSÉGE A MAGYAR LIBERÁLIS PÁRT                                        |0009761|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+11| 7|MIÉP-Jobbik a Harmadik Út                                                                   |0004183|01|MIÉP-Jobbik                                                 
+12| 1|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                                |0001212|01|MUNKÁSPÁRT                                                  
+12| 2|MAGYAR DEMOKRATA FÓRUM                                                                      |0007512|01|MDF                                                         
+12| 3|FIDESZ-MAGYARPOLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT                                  |0064094|02|FIDESZ,KDNP                                                 
+12| 4|MIÉP-JOBBIK A HARMADIK ÚT                                                                   |0002526|01|MIÉP-Jobbik                                                 
+12| 5|SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT                                       |0010560|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+12| 6|MAGYAR SZOCIALISTA PÁRT                                                                     |0082836|01|MSZP                                                        
+13| 1|FIDESZ - MAGYAR POLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT                               |0046902|02|FIDESZ,KDNP                                                 
+13| 2|SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT                                      |0004900|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+13| 3|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                                |0001809|01|MUNKÁSPÁRT                                                  
+13| 4|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                    |0001053|01|MCF ROMA ÖSSZEFOGÁS PÁRT                                    
+13| 5|KERESZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS                             |0000241|01|KERESZTÉNYDEMOKRATAPÁRT                                     
+13| 6|MAGYAR DEMOKRATA FÓRUM                                                                      |0005369|01|MDF                                                         
+13| 7|MIÉP - JOBBIK A HARMADIK ÚT                                                                 |0002466|01|MIÉP-Jobbik                                                 
+13| 8|MAGYAR SZOCIALISTA PÁRT                                                                     |0050732|01|MSZP                                                        
+13| 9|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                          |0000753|01|CENTRUM                                                     
+14| 1|CENTRUM Összefogás Magyarországért                                                          |0006302|01|CENTRUM                                                     
+14| 2|FIDESZ Magyar Polgári Szövetség Kersztény Demokrata Néppárt                                 |0258007|02|FIDESZ,KDNP                                                 
+14| 3|MAGYAR DEMOKRATA FORUM                                                                      |0031937|01|MDF                                                         
+14| 4|Szabad Demokraták Szövetsége                                                                |0045562|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+14| 5|Magyar Szocialista Párt                                                                     |0253588|01|MSZP                                                        
+14| 6|MIÉP-Jobbik a Harmadik Út                                                                   |0018074|01|MIÉP-Jobbik                                                 
+15| 1|SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT                                      |0006929|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+15| 2|MAGYAR DEMOKRATA FÓRUM                                                                      |0007168|01|MDF                                                         
+15| 3|MIÉP-Jobbik a Harmadik Út                                                                   |0002811|01|MIÉP-Jobbik                                                 
+15| 4|MAGYAR KOMMUNISTA MUNKÁSPÁRT                                                                |0001166|01|MUNKÁSPÁRT                                                  
+15| 5|MAGYAR SZOCIALISTA PÁRT                                                                     |0073388|01|MSZP                                                        
+15| 6|FIDESZ-MagyarPolgári Szövetség Kereszténydemokrata Néppárt                                  |0080260|02|FIDESZ,KDNP                                                 
+16| 1|MAGYAROK EGYMÁSÉRT SZÖVETSÉGE                                                               |0000767|01|MESZ                                                        
+16| 2|MIÉP-Jobbik a Harmadik Út                                                                   |0004735|01|MIÉP-Jobbik                                                 
+16| 3|MAGYAR DEMOKRATA FÓRUM                                                                      |0011947|01|MDF                                                         
+16| 4| MAGYAR SZOCIALISTA PÁRT                                                                    |0130555|01|MSZP                                                        
+16| 5|MCF ROMA ÖSSZEFOGÁS PÁRT                                                                    |0000430|01|MCF ROMA ÖSSZEFOGÁS PÁRT                                    
+16| 6|FIDESZ-Magyar Polgári Szövetség Kereszténydemokrata Néppárt                                 |0127641|02|FIDESZ,KDNP                                                 
+16| 7|KERESSZTÉNYDEMOKRATAPÁRT- KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS                            |0000281|01|KERESZTÉNYDEMOKRATAPÁRT                                     
+16| 8|SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT                                      |0009455|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+16| 9|MAGYAR VIDÉK ÉS POLGÁRI PÁRT                                                                |0000310|01|MVPP                                                        
+16|11|CENTRUM ÖSSZEFOGÁS MAGYARORSZÁGÉRT                                                          |0001018|01|CENTRUM                                                     
+17| 1|MCF Roma Összefogás Párt                                                                    |0000355|01|MCF ROMA ÖSSZEFOGÁS PÁRT                                    
+17| 2|Szabad Demokraták Szövetsége- a Magyar Liberális Párt                                       |0005966|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+17| 3|Magyar Szocialista Párt                                                                     |0052643|01|MSZP                                                        
+17| 4|MIÉP- Jobbik a Harmadik Út                                                                  |0002383|01|MIÉP-Jobbik                                                 
+17| 5|Magyar Demokrata Fórum                                                                      |0007751|01|MDF                                                         
+17| 6|FIDESZ-Magyar Polgári Szövetség Kereszténydemokrata Néppárt                                 |0060592|02|FIDESZ,KDNP                                                 
+17| 7|Kereszténydemokratapárt Keresztényszociális Centrum Összefogás                              |0000270|01|KERESZTÉNYDEMOKRATAPÁRT                                     
+18| 1|SZABAD DEMOKRATÁK SZÖVETSÉGE- A MAGYAR LIBERÁLIS PÁRT                                       |0008437|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+18| 2|Magyar Szocialista Párt                                                                     |0052749|01|MSZP                                                        
+18| 3|FIDESZ-MAGYAR POLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA  NÉPPÁRT                                |0075239|02|FIDESZ,KDNP                                                 
+18| 4|MAGYAR DEMOKRATA FÓRUM                                                                      |0008554|01|MDF                                                         
+18| 5|MIÉP-JOBBIK A HARMADIK ÚT                                                                   |0002697|01|MIÉP-Jobbik                                                 
+18| 6|KERESZTÉNYDEMOKRATAPÁRT - KERESZTÉNYSZOCIÁLIS CENTRUM ÖSSZEFOGÁS                            |0000304|01|KERESZTÉNYDEMOKRATAPÁRT                                     
+19| 1|MAGYAR SZOCIALISTA PÁRT                                                                     |0080545|01|MSZP                                                        
+19| 2|FIDESZ- MAGYAR POLGÁRI SZÖVETSÉG KERESZTÉNYDEMOKRATA NÉPPÁRT                                |0094437|02|FIDESZ,KDNP                                                 
+19| 3|SZABAD DEMOKRATÁK SZÖVETSÉGE - A MAGYAR LIBERÁLIS PÁRT                                      |0011301|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+19| 4|Magyar Demokrata Fórum                                                                      |0011206|01|MDF                                                         
+19| 5|MIÉP-Jobbik a Harmadik Út                                                                   |0003461|01|MIÉP-Jobbik                                                 
+19| 6|Magyar Kommunista Munkáspárt                                                                |0001208|01|MUNKÁSPÁRT                                                  
+20| 1|MIÉP-Jobbik a Harmadik Út                                                                   |0003276|01|MIÉP-Jobbik                                                 
+20| 2|Magyar Demokrata Fórum                                                                      |0009324|01|MDF                                                         
+20| 3|Magyar Szocialista Párt                                                                     |0059647|01|MSZP                                                        
+20| 4|MCF Roma Összefogás Párt                                                                    |0000199|01|MCF ROMA ÖSSZEFOGÁS PÁRT                                    
+20| 5|Szabad Demokraták Szövetsége a Magyar Liberális Párt                                        |0008131|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+20| 6|FIDESZ - Magyar Polgári Szövetség Kereszténydemokrata Néppárt                               |0079524|02|FIDESZ,KDNP                                                 

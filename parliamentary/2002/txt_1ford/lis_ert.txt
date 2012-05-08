@@ -1,0 +1,155 @@
+01|         4|MSZP                                                                                        |    482323
+01|         7|FIDESZ MDF                                                                                  |    345181
+01|         5|SZDSZ                                                                                       |    104474
+01|         6|MIÉP                                                                                        |     76063
+01|         2|CENTRUM                                                                                     |     62563
+01|         3|MUNKÁSPÁRT                                                                                  |     19636
+01|         1|FÜGGETLEN KISGAZDAPÁRT                                                                      |      2954
+02|         4|MSZP                                                                                        |    107584
+02|         5|FIDESZ-MDF                                                                                  |     88856
+02|         1|SZABAD DEMOKRATÁK SZÖVETSÉGE                                                                |     11693
+02|         3|CENTRUM                                                                                     |      7827
+02|         2|MIÉP                                                                                        |      7113
+02|         6|MUNKÁSPÁRT                                                                                  |      5665
+02|         7|FÜGGETLEN KISGAZDAPÁRT                                                                      |      1505
+03|         4|FIDESZ-MDF                                                                                  |    138356
+03|         2|MSZP                                                                                        |     98827
+03|         5|SZDSZ                                                                                       |     12154
+03|         6|MIÉP                                                                                        |     10038
+03|         1|CENTRUM                                                                                     |      8692
+03|         7|MUNKÁSPÁRT                                                                                  |      5404
+03|         3|FÜGGETLEN KISGAZDAPÁRT                                                                      |      4154
+04|         6|MSZP                                                                                        |     88795
+04|         1|FIDESZ-MDF                                                                                  |     85712
+04|         3|SZDSZ                                                                                       |      9122
+04|         5|MIÉP                                                                                        |      7688
+04|         2|MUNKÁSPÁRT                                                                                  |      7498
+04|         4|CENTRUM                                                                                     |      7364
+04|         7|FÜGGETLEN KISGAZDAPÁRT                                                                      |      2976
+05|         6|MAGYAR SZOCIALISTA PÁRT                                                                     |    186183
+05|         3|FIDESZ-MDF                                                                                  |    147055
+05|         4|CENTRUM                                                                                     |     14483
+05|         5|MAGYAR IGAZSÁG ÉS ÉLET PÁRJA                                                                |     14294
+05|         2|SZABAD DEMOKRATÁK SZÖVETSÉGE                                                                |     13678
+05|         1|MUNKÁSPÁRT                                                                                  |     10437
+05|         8|FÜGGETLEN KISGAZDAPÁRT                                                                      |      1826
+05|         9|ÚJ-BAL                                                                                      |       574
+05|         7|REFORM KISGAZDAPÁRT                                                                         |       454
+06|         7|FIDESZ-MDF                                                                                  |     97143
+06|         1|MAGYAR SZOCIALISTA PÁRT                                                                     |     91164
+06|         2|CENTRUM                                                                                     |     10322
+06|         3|SZABAD DEMOKRATÁK SZÖVETSÉGE                                                                |     10087
+06|         6|MIÉP                                                                                        |      8258
+06|         8|MUNKÁSPÁRT                                                                                  |      5457
+06|         4|FÜGGETLEN KISGAZDAPÁRT                                                                      |      2338
+06|         5|MAVEP                                                                                       |       318
+07|         7|FIDESZ-MDF                                                                                  |    100835
+07|         5|MAGYAR  SZOCIALISTA PÁRT                                                                    |     98050
+07|         6|SZDSZ                                                                                       |     11145
+07|         2|CENTRUM                                                                                     |      8971
+07|         4|MIÉP                                                                                        |      7805
+07|         3|MUNKÁSPÁRT                                                                                  |      4417
+07|         1|FÜGGETLEN KISGAZDAPÁRT                                                                      |      1145
+08|         5|FIDESZ-MDF                                                                                  |    130618
+08|         1|MSZP                                                                                        |     92538
+08|         6|SZDSZ                                                                                       |     10459
+08|         2|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                               |      8337
+08|         4|CENTRUM                                                                                     |      8246
+08|         7|MUNKÁSPÁRT                                                                                  |      3820
+08|         3|FÜGGETLEN KISGAZDAPÁRT                                                                      |      1356
+09|         4|FIDESZ-MDF                                                                                  |    133453
+09|         5|MSZP                                                                                        |    110581
+09|         6|SZABAD DEMOKRATÁK SZÖVETSÉGE                                                                |     10505
+09|         3|MIÉP                                                                                        |      9102
+09|         8|CENTRUM                                                                                     |      7092
+09|         2|MUNKÁSPÁRT                                                                                  |      5013
+09|         1|FÜGGETLEN KISGAZDAPÁRT                                                                      |      3521
+09|         9|ÚJ-BAL                                                                                      |       416
+10|         2|MAGYAR SZOCIALISTA PÁRT                                                                     |     85483
+10|         7|FIDESZ-MDF                                                                                  |     66394
+10|         1|SZDSZ                                                                                       |      8893
+10|         8|MIÉP                                                                                        |      8007
+10|         3|MUNKÁSPÁRT                                                                                  |      5722
+10|         6|CENTRUM                                                                                     |      4732
+10|         4|FÜGGETLEN KISGAZDAPÁRT                                                                      |      1199
+10|         5|ÚJ BALOLDAL                                                                                 |       515
+11|         3|MSZP                                                                                        |    100256
+11|         2|FIDESZ-MDF                                                                                  |     82467
+11|         5|SZDSZ                                                                                       |      9580
+11|         1|MUNKÁSPÁRT                                                                                  |      8123
+11|         6|MIÉP                                                                                        |      8000
+11|         7|CENTRUM                                                                                     |      5827
+11|         4|FÜGGETLEN KISGAZDAPÁRT                                                                      |      2987
+12|         8|MSZP                                                                                        |     86711
+12|         2|FIDESZ-MDF                                                                                  |     63889
+12|         6|SZDSZ                                                                                       |      8867
+12|         9|CENTRUM                                                                                     |      5642
+12|         7|MIÉP                                                                                        |      5452
+12|         1|MUNKÁSPÁRT                                                                                  |      3811
+12|         4|FÜGGETLEN KISGAZDAPÁRT                                                                      |       984
+12|         5|REFORM KISGAZDAPÁRT                                                                         |       290
+12|         3|ÚJ BALOLDAL                                                                                 |       127
+13|         5|MSZP                                                                                        |     52106
+13|         8|FIDESZ-MDF                                                                                  |     46870
+13|         4|MUNKÁSPÁRT                                                                                  |      7996
+13|         1|SZDSZ                                                                                       |      4658
+13|         6|MIÉP                                                                                        |      4014
+13|         7|CENTRUM                                                                                     |      3076
+13|         3|FÜGGETLEN KISGAZDAPÁRT                                                                      |       577
+13|         9|ÚJ BALOLDAL                                                                                 |       332
+13|         2|RKGP                                                                                        |       154
+14|         4|FIDESZ-MDF                                                                                  |    243567
+14|         7|MAGYAR SZOCIALISTA PÁRT                                                                     |    239008
+14|         5|SZDSZ                                                                                       |     39468
+14|         8|MIÉP                                                                                        |     33559
+14|         3|CENTRUM                                                                                     |     23468
+14|         2|MUNKÁSPÁRT                                                                                  |      9356
+14|         1|FÜGGETLEN KISGAZDAPÁRT                                                                      |      4102
+14|         6|ÚJ-BAL                                                                                      |      1002
+15|         5|FIDESZ-MDF                                                                                  |     78954
+15|         7|MAGYAR SZOCIALISTA PÁRT                                                                     |     74494
+15|         3|CENTRUM                                                                                     |      8023
+15|         2|SZABAD DEMOKRATÁK SZÖVETSÉGE                                                                |      6581
+15|         6|MIÉP                                                                                        |      6042
+15|         1|MUNKÁSPÁRT                                                                                  |      3508
+15|         4|FÜGGETLEN KISGAZDAPÁRT                                                                      |      2011
+16|         2|FIDESZ-MDF                                                                                  |    129086
+16|         9|MSZP                                                                                        |    122292
+16|         4|CENTRUM                                                                                     |      9891
+16|         8|MIÉP                                                                                        |      8057
+16|         5|SZABAD DEMOKRATÁK SZÖVETSÉGE                                                                |      7822
+16|         6|MUNKÁSPÁRT                                                                                  |      4136
+16|        10|FÜGGETLEN KISGAZDAPÁRT                                                                      |      3979
+16|         3|SZOCIÁLDEMOKRATA PÁRT                                                                       |       912
+16|         1|MRP                                                                                         |       745
+17|         7|FIDESZ-MDF                                                                                  |     59410
+17|         1|MAGYAR SZOCIALISTA PÁRT                                                                     |     55162
+17|         4|SZABAD DEMOKRATÁK SZÖVETSÉGE                                                                |      6794
+17|         5|MIÉP                                                                                        |      5280
+17|         6|CENTRUM                                                                                     |      3817
+17|         2|MUNKÁSPÁRT                                                                                  |      2998
+17|         3|FÜGGETLEN KISGAZDAPÁRT                                                                      |      1030
+18|         2|FIDESZ-MDF                                                                                  |     84090
+18|         7|MAGYAR SZOCIALISTA PÁRT                                                                     |     50919
+18|         6|SZDSZ                                                                                       |      8503
+18|         5|CENTRUM                                                                                     |      5639
+18|         4|MAGYAR IGAZSÁG ÉS ÉLET PÁRTJA                                                               |      4817
+18|         8|MUNKÁSPÁRT                                                                                  |      1915
+18|         1|FÜGGETLEN KISGAZDAPÁRT                                                                      |      1153
+18|         3|REFORM KISGAZDAPÁRT                                                                         |       188
+19|         9|FIDESZ-MDF                                                                                  |    101902
+19|         8|MAGYAR SZOCIALISTA PÁRT                                                                     |     78417
+19|         3|SZDSZ                                                                                       |     11117
+19|         5|CENTRUM                                                                                     |      7918
+19|         4|MIÉP                                                                                        |      7105
+19|         6|MUNKÁSPÁRT                                                                                  |      3773
+19|         1|FÜGGETLEN KISGAZDAPÁRT                                                                      |      1040
+19|         2|KISGAZDAPÁRT                                                                                |       451
+19|         7|ÚJ BAL                                                                                      |       232
+20|         6|FIDESZ-MDF                                                                                  |     82925
+20|         7|MSZP                                                                                        |     61104
+20|         5|SZDSZ                                                                                       |      7484
+20|         4|MIÉP                                                                                        |      6295
+20|         2|CENTRUM                                                                                     |      5436
+20|         1|MUNKÁSPÁRT                                                                                  |      2818
+20|         3|FÜGGETLEN KISGAZDAPÁRT                                                                      |      1501

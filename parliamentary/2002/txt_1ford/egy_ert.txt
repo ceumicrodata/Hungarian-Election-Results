@@ -1,0 +1,1245 @@
+01|01| 6|DR. |NAGY GÁBOR TAMÁS                                            |     14164| 2|FIDESZ                        |MDF
+01|01| 3|    |HEGYI GYULA                                                 |     10465| 1|MSZP
+01|01| 5|    |MÉCS IMRE                                                   |      6295| 1|SZDSZ
+01|01| 1|DR. |BÁNOVICS TAMÁS ZOLTÁN                                       |      3541| 1|MIÉP
+01|01| 2|    |FELFÖLDI ANNA ANIKÓ                                         |      1925| 1|CENTRUM
+01|01| 4|    |JÓNÁS FERENCNÉ                                              |       424| 1|MUNKÁSPÁRT
+01|02| 2|DR. |BALSAI ISTVÁN                                               |     17003| 2|FIDESZ                        |MDF
+01|02| 5|    |HORVÁTH CSABA                                               |     13454| 1|MSZP
+01|02| 4|DR. |EÖRSI MÁTYÁS                                                |      6057| 1|SZDSZ
+01|02| 1|    |BALCZÓ ZOLTÁN                                               |      4547| 1|MIÉP
+01|02| 3|    |BÉRES GYÖRGYNÉ NAGY ILDIKÓ                                  |      2398| 1|CENTRUM
+01|02| 6|    |SERBÁN ZOLTÁN                                               |       388| 1|MUNKÁSPÁRT
+01|03| 4|DR. |OROSZ SÁNDOR                                                |     16757| 1|MSZP
+01|03| 6|    |TARLÓS ISTVÁN                                               |     13992| 2|FIDESZ                        |MDF
+01|03| 5|    |SZÁSZ DOMOKOS                                               |      4302| 1|SZDSZ
+01|03| 1|    |BARABÁS LAJOS                                               |      2209| 1|MIÉP
+01|03| 2|    |BARANYAI LÁSZLÓ                                             |       702| 1|MUNKÁSPÁRT
+01|03| 3|DR. |BÉRES BÉLA                                                  |       154| 1|FÜGGETLEN KISGAZDAPÁRT
+01|04| 2|    |DONÁTH LÁSZLÓ                                               |     19771| 1|MSZP
+01|04| 3|    |GYÜRK ANDRÁS                                                |     13408| 2|FIDESZ                        |MDF
+01|04| 1|    |CSIRE JÁNOS                                                 |      4823| 1|SZDSZ
+01|04| 6|    |ROZGONYI ERNÕ                                               |      3365| 1|MIÉP
+01|04| 7|DR. |SZÁNTAY GÁBOR                                               |      3343| 1|CENTRUM
+01|04| 5|    |MÉSZÁROS GYÖRGY                                             |       704| 1|MUNKÁSPÁRT
+01|04| 4|DR. |KÕRÖSI ZSOLT                                                |       175| 1|FÜGGETLEN KISGAZDAPÁRT
+01|05| 4|    |CSIZMÁR GÁBOR                                               |     23232| 1|MSZP
+01|05| 5|    |HOCK ZOLTÁN                                                 |     15456| 2|FIDESZ                        |MDF
+01|05| 3|    |BORUZS ANDRÁS                                               |      3883| 1|SZDSZ
+01|05| 7|DR. |OLÁH LAJOS                                                  |      2294| 1|MIÉP
+01|05| 6|    |KEREKES ZOLTÁN                                              |       837| 1|MUNKÁSPÁRT
+01|05| 1|    |ALBRECHT PÉTER KÁROLY                                       |       257| 1|ÚJ BALOLDAL
+01|05| 2|    |ANTALICZ MIKLÓS                                             |       155| 1|FÜGGETLEN KISGAZDAPÁRT
+01|06| 4|    |KISS PÉTER                                                  |     15745| 1|MSZP
+01|06| 7|    |WINTERMANTEL ZSOLT                                          |      9242| 2|FIDESZ                        |MDF
+01|06| 2|    |ERKEL TIBOR                                                 |      2290| 1|MIÉP
+01|06| 6|    |ÓNODY TAMÁS MIKLÓS                                          |      2124| 1|SZDSZ
+01|06| 5|    |LIGETI IMRE                                                 |      1919| 1|CENTRUM
+01|06| 1|    |CSABA ELEMÉR                                                |       612| 1|MAGYAR SZOCIALISTA MUNKÁSPÁRT
+01|06| 3|    |GERGÁCZ JÓZSEFNÉ                                            |       518| 1|MUNKÁSPÁRT
+01|07| 3|DR. |RUBOVSZKY GYÖRGY                                            |      9543| 2|FIDESZ                        |MDF
+01|07| 4|DR. |STEINER PÁL                                                 |      8887| 1|MSZP
+01|07| 2|DR. |PETÕ IVÁN                                                   |      6885| 1|SZDSZ
+01|07| 5|    |TÓTH LAJOS                                                  |      2284| 1|MIÉP
+01|07| 1|    |BARABÁS GYÖRGY                                              |       476| 1|MUNKÁSPÁRT
+01|08| 5|    |KÉKESI TIBOR                                                |      9974| 1|MSZP
+01|08| 3|DR. |ILLÉS ZOLTÁN                                                |      8895| 2|FIDESZ                        |MDF
+01|08| 1|    |BÉKI GABRIELLA                                              |      3876| 1|SZDSZ
+01|08| 2|    |HEGEDÛS ZSUZSANNA                                           |      2045| 1|MIÉP
+01|08| 6|    |LÁZI FERENC                                                 |      1623| 1|CENTRUM
+01|08| 4|    |KARACS LAJOSNÉ                                              |       457| 1|MUNKÁSPÁRT
+01|09| 3|    |FILLÓ PÁL                                                   |     11341| 1|MSZP
+01|09| 2|DR. |DEUTSCH TAMÁS                                               |      7415| 2|FIDESZ                        |MDF
+01|09| 5|    |MOLNÁR ISTVÁN                                               |      3227| 1|SZDSZ
+01|09| 6|    |ZSICHLA LÁSZLÓ                                              |      1876| 1|MIÉP
+01|09| 1|    |BÉRCZY ANTAL                                                |      1307| 1|CENTRUM
+01|09| 4|    |KOVÁCS KÁROLY                                               |       445| 1|MUNKÁSPÁRT
+01|10| 5|DR. |SZABÓ ZOLTÁN                                                |     10206| 1|MSZP
+01|10| 4|    |ROCKENBAUER ZOLTÁN                                          |      7665| 2|FIDESZ                        |MDF
+01|10| 6|    |VARGA ZOLTÁN KRISTÓF                                        |      2638| 1|SZDSZ
+01|10| 2|    |KLEMENT TIBOR                                               |      1726| 1|MIÉP
+01|10| 3|    |PERITY LÁSZLÓ                                               |      1362| 1|CENTRUM
+01|10| 1|    |BARICSKA PÁL                                                |       362| 1|MUNKÁSPÁRT
+01|11| 2|    |HÁRS GÁBOR                                                  |     10284| 1|MSZP
+01|11| 3|DR. |JUHAROS RÓBERT                                              |      8347| 2|FIDESZ                        |MDF
+01|11| 1|    |CSÉCSEI BÉLA                                                |      5746| 1|SZDSZ
+01|11| 5|    |MEDVECZKY ATTILA MÁTÉ                                       |      1850| 1|MIÉP
+01|11| 4|    |LÁNCZKY LÁSZLÓNÉ                                            |      1170| 1|CENTRUM
+01|11| 6|    |PÁL TIBOR                                                   |       554| 1|MUNKÁSPÁRT
+01|12| 2|DR. |KÖKÉNY MIHÁLY                                               |      9211| 1|MSZP
+01|12| 4|    |TIRTS TAMÁS                                                 |      7878| 2|FIDESZ                        |MDF
+01|12| 5|    |ZWACK PÉTER                                                 |      3436| 1|SZDSZ
+01|12| 3|    |SCHUSTER LÓRÁNT                                             |      1814| 1|MIÉP
+01|12| 1|    |KOVÁCS BÉLA                                                 |      1437| 1|CENTRUM
+01|13| 3|    |PÁL TIBOR                                                   |     14365| 1|MSZP
+01|13| 4|    |ROGÁN ANTAL                                                 |      7091| 2|FIDESZ                        |MDF
+01|13| 5|DR. |SZOLNOKI ANDREA                                             |      2206| 1|SZDSZ
+01|13| 1|DR. |BOGNÁR LÁSZLÓ                                               |      1590| 1|MIÉP
+01|13| 2|DR. |FÜZESSY TIBOR                                               |      1346| 1|CENTRUM
+01|13| 6|    |TÁNCZOS IMRE                                                |       537| 1|MUNKÁSPÁRT
+01|14| 1|DR. |CSICSAY CLAUDIUS IVÁN                                       |     16115| 1|MSZP
+01|14| 3|    |GYÖRGY ISTVÁN                                               |     10302| 2|FIDESZ                        |MDF
+01|14| 6|    |LÕRINCZ ISTVÁN LÁSZLÓ                                       |      2104| 1|SZDSZ
+01|14| 2|    |DOBOS LÁSZLÓ                                                |      2024| 1|CENTRUM
+01|14| 4|    |JAJESNICA RÓBERT ISTVÁN                                     |      1549| 1|MIÉP
+01|14| 5|    |KAJLI BÉLA                                                  |       669| 1|MUNKÁSPÁRT
+01|15| 2|DR. |CSAPODY MIKLÓS                                              |     12265| 2|FIDESZ                        |MDF
+01|15| 5|    |SZABÓ VILMOS                                                |      9416| 1|MSZP
+01|15| 1|DR. |BÕHM ANDRÁS                                                 |      2977| 1|SZDSZ
+01|15| 4|DR. |MESTYANEK ÖDÖN                                              |      2207| 1|MIÉP
+01|15| 6|    |SZEGEDI FERENC                                              |      1613| 1|CENTRUM
+01|15| 3|    |FARKAS FERENC                                               |       537| 1|MUNKÁSPÁRT
+01|16| 5|    |MOLNÁR GYULA                                                |     16355| 1|MSZP
+01|16| 2|    |DEÁK ANDRÁS                                                 |     11399| 2|FIDESZ                        |MDF
+01|16| 1|    |BALÁZS GYULA LÁSZLÓ                                         |      3134| 1|SZDSZ
+01|16| 3|DR. |FENYVESSY ZOLTÁN                                            |      2962| 1|MIÉP
+01|16| 4|    |KOCSIS SÁNDOR                                               |       815| 1|MUNKÁSPÁRT
+01|17| 3|DR. |JÓZSA ISTVÁN                                                |     11042| 1|MSZP
+01|17| 5|    |SASVÁRI SZILÁRD                                             |     10366| 2|FIDESZ                        |MDF
+01|17| 4|    |LAKOS IMRE                                                  |      3172| 1|SZDSZ
+01|17| 1|DR. |CSATH MAGDOLNA                                              |      2442| 1|MIÉP
+01|17| 6|DR. |TÓTH LÁSZLÓ                                                 |      2021| 1|CENTRUM
+01|17| 2|DR. |DEÁK JÓZSEF                                                 |        95| 1|FÜGGETLEN KISGAZDAPÁRT
+01|18| 5|    |POKORNI ZOLTÁN                                              |     17892| 2|FIDESZ                        |MDF
+01|18| 1|    |BAKONYI TIBOR                                               |     12089| 1|MSZP
+01|18| 6|DR. |SZENT-IVÁNYI ISTVÁN                                         |      6533| 1|SZDSZ
+01|18| 4|DR. |LENTNER CSABA                                               |      4102| 1|MIÉP
+01|18| 2|    |DROPPA GYÖRGY                                               |      2135| 1|CENTRUM
+01|18| 3|    |KALÓ GYÖRGY                                                 |       557| 1|MUNKÁSPÁRT
+01|19| 4|DR. |SZANYI TIBOR                                                |     15948| 1|MSZP
+01|19| 6|DR. |WESZELOVSZKY ZOLTÁN                                         |      8203| 2|FIDESZ                        |MDF
+01|19| 1|    |DOROGI GABRIELLA                                            |      4463| 1|SZDSZ
+01|19| 2|    |OLÁH JÁNOS JÓZSEF                                           |      1941| 1|MIÉP
+01|19| 5|    |VAJDA JÁNOS                                                 |       780| 1|MUNKÁSPÁRT
+01|19| 3|DR. |PATAKI ANDRÁS                                               |       115| 1|FÜGGETLEN KISGAZDAPÁRT
+01|20| 6|DR. |TÓTH JÓZSEF                                                 |     16245| 1|MSZP
+01|20| 3|    |NÉMETH TIBOR                                                |      6608| 2|FIDESZ                        |MDF
+01|20| 1|    |DANCSECS GYÖRGY                                             |      2115| 1|MIÉP
+01|20| 5|    |SZEDERKÉNYI ANDRÁS                                          |      1845| 1|SZDSZ
+01|20| 4|    |SZABÓ MIKLÓS                                                |      1420| 1|CENTRUM
+01|20| 2|    |KOLLÁT PÁL                                                  |       611| 1|MUNKÁSPÁRT
+01|21| 1|DR. |BARÁTH ETELE                                                |     13807| 1|MSZP
+01|21| 5|DR. |ÕRY CSABA                                                   |     11652| 2|FIDESZ                        |MDF
+01|21| 3|DR. |MAGYAR BÁLINT                                               |      6301| 1|SZDSZ
+01|21| 6|    |SZABÓ PÉTER                                                 |      2562| 1|MIÉP
+01|21| 2|    |GERENCSÉRNÉ LOVAS EDIT                                      |      1795| 1|CENTRUM
+01|21| 4|    |MAJERCSIK ZSUZSANNA                                         |       718| 1|MUNKÁSPÁRT
+01|21| 7|    |SZALAY FERENC                                               |       145| 1|FÜGGETLEN KISGAZDAPÁRT
+01|22| 2|DR. |CSIHA JUDIT                                                 |     17710| 1|MSZP
+01|22| 7|    |RÁTONYI GÁBOR                                               |     10922| 2|FIDESZ                        |MDF
+01|22| 4|    |KUTALIKNÉ DR. KARDOS ZSUZSANNA                              |      5679| 1|SZDSZ
+01|22| 1|    |BAKOS BATU                                                  |      2369| 1|MIÉP
+01|22| 6|    |NÉMETH JÁNOS                                                |      2040| 1|CENTRUM
+01|22| 3|    |CSIKÁNY JÓZSEFNÉ                                            |       729| 1|MUNKÁSPÁRT
+01|22| 5|DR. |MÁDLY ZSOLT                                                 |       130| 1|FÜGGETLEN KISGAZDAPÁRT
+01|23| 1|    |HAJDU LÁSZLÓ                                                |     20342| 1|MSZP
+01|23| 5|DR. |TROMBITÁS ZOLTÁN KÁROLY                                     |      8515| 2|FIDESZ                        |MDF
+01|23| 3|DR. |JORDÁN ÉVA ILONA                                            |      2614| 1|MIÉP
+01|23| 2|    |HORN GÁBOR                                                  |      2484| 1|SZDSZ
+01|23| 4|    |KERESKÉNYI JÁNOS                                            |      1703| 1|CENTRUM
+01|23| 6|    |VÁSÁRHELYI ÁRPÁD                                            |       614| 1|MUNKÁSPÁRT
+01|24| 7|DR. |VIDORNÉ DR. SZABÓ GYÖRGYI                                   |     18635| 1|MSZP
+01|24| 2|    |GLATTFELDER BÉLA                                            |     15592| 2|FIDESZ                        |MDF
+01|24| 8|    |ZSINKA LÁSZLÓ                                               |      3942| 1|MIÉP
+01|24| 1|DR. |BAJÁK GYULA                                                 |      3368| 1|SZDSZ
+01|24| 4|    |KÁROLYI ROLAND                                              |      2694| 1|CENTRUM
+01|24| 5|    |LENDL JÁNOS                                                 |       746| 1|MUNKÁSPÁRT
+01|24| 6|    |TESZÁK SÁNDOR                                               |       448| 1|ÖSSZEFOGÁS A FENNMARADÁSÉRT
+01|24| 3|    |GUBÁN GYÖRGY                                                |       172| 1|FÜGGETLEN KISGAZDAPÁRT
+01|25| 1|    |DEVÁNSZKINÉ DR. MOLNÁR KATALIN                              |     22283| 1|MSZP
+01|25| 4|    |KOLTAI ILDIKÓ                                               |     15295| 2|FIDESZ                        |MDF
+01|25| 3|DR. |KERTAI AURÉL                                                |      3907| 1|CENTRUM
+01|25| 6|DR. |PÉCZELY TERÉZIA                                             |      3484| 1|SZDSZ
+01|25| 2|DR. |FENKE FERENC GYÖRGY                                         |      3133| 1|MIÉP
+01|25| 7|    |VÉGH FERENC                                                 |       822| 1|MUNKÁSPÁRT
+01|25| 5|    |LENGYEL ZSOLT                                               |       261| 1|FÜGGETLEN KISGAZDAPÁRT
+01|26| 2|DR. |KATONA BÉLA                                                 |     16370| 1|MSZP
+01|26| 5|    |RÉVÉSZ MÁRIUSZ                                              |      8630| 2|FIDESZ                        |MDF
+01|26| 4|    |PANKOTAI FERENC                                             |      1795| 1|CENTRUM
+01|26| 1|    |CHROBÁK JÁNOS                                               |      1779| 1|MIÉP
+01|26| 6|DR. |VÉCSEI PÁL                                                  |      1637| 1|SZDSZ
+01|26| 3|    |KEREZSI LÁSZLÓ                                              |       561| 1|MUNKÁSPÁRT
+01|27| 2|DR. |MESTER LÁSZLÓ                                               |     21907| 1|MSZP
+01|27| 5|    |UGHY ATTILA                                                 |     13059| 2|FIDESZ                        |MDF
+01|27| 1|    |FERENCZ ISTVÁN                                              |      3532| 1|SZDSZ
+01|27| 6|    |VARGA IMRE                                                  |      2420| 1|MIÉP
+01|27| 3|    |SZERJÁNNÉ GARA ÉVA                                          |       960| 1|MUNKÁSPÁRT
+01|27| 4|    |TÓTH JÁNOS LÁSZLÓ                                           |       173| 1|KISGAZDAPÁRT
+01|28| 2|    |BURÁNY SÁNDOR                                               |     20695| 1|MSZP
+01|28| 6|    |SIMICSKÓ ISTVÁN                                             |     11188| 2|FIDESZ                        |MDF
+01|28| 1|DR. |BALATON PÉTER                                               |      2906| 1|CENTRUM
+01|28| 3|    |FRANKA TIBOR                                                |      2352| 1|MIÉP
+01|28| 7|    |SZÛCS ERNÕ                                                  |      2196| 1|SZDSZ
+01|28| 4|    |HÜTTENER LÁSZLÓ                                             |       709| 1|MUNKÁSPÁRT
+01|28| 5|    |KLUTSIK GYÖRGY                                              |       100| 1|FÜGGETLEN KISGAZDAPÁRT
+01|29| 3|DR. |HILLER ISTVÁN                                               |     18965| 1|MSZP
+01|29| 5|    |PERLAKI JENÕ                                                |     10853| 2|FIDESZ                        |MDF
+01|29| 2|    |ERDEI CSABA                                                 |      2108| 1|CENTRUM
+01|29| 1|    |BOLDIS ENDRE                                                |      2080| 1|MIÉP
+01|29| 6|    |TÜSKÉS JÓZSEFNÉ                                             |      2080| 1|SZDSZ
+01|29| 4|DR. |KESERÛ JÓZSEFNÉ                                             |       217| 1|FÜGGETLEN KISGAZDAPÁRT
+01|30| 3|    |PODOLÁK GYÖRGY                                              |     12143| 1|MSZP
+01|30| 4|    |SOLTÉSZ MIKLÓS                                              |      5776| 2|FIDESZ                        |MDF
+01|30| 1|    |BAUER TAMÁS                                                 |      1960| 1|SZDSZ
+01|30| 5|DR. |SÓSKUTHY MÁRIA                                              |      1560| 1|CENTRUM
+01|30| 6|DR. |THÜRMER GYULA                                               |      1136| 1|MUNKÁSPÁRT
+01|30| 2|    |FURULYÁS IBOLYA                                             |      1117| 1|MIÉP
+01|31| 1|DR. |AVARKESZI DEZSÕ                                             |     12401| 1|MSZP
+01|31| 6|    |NÉMETH SZILÁRD                                              |      6190| 2|FIDESZ                        |MDF
+01|31| 5|DR. |LOTZ KÁROLY                                                 |      2720| 1|SZDSZ
+01|31| 2|    |BARTHA KÁROLY                                               |      1373| 1|CENTRUM
+01|31| 3|    |DEMETER DÉNES                                               |      1120| 1|MIÉP
+01|31| 4|    |KÕSZEGINÉ BENEDEK ANNA                                      |       734| 1|MUNKÁSPÁRT
+01|32| 4|    |LENDVAI ILDIKÓ                                              |     14819| 1|MSZP
+01|32| 5|    |NÉMETH ZSOLT                                                |     11198| 2|FIDESZ                        |MDF
+01|32| 1|    |ESZE TAMÁS                                                  |      2884| 1|MIÉP
+01|32| 3|DR. |LÁNYI ISTVÁN                                                |      2599| 1|SZDSZ
+01|32| 2|    |HÁVEL BENEDEK                                               |      1750| 1|CENTRUM
+02|01| 2|DR. |KÉKES FERENC                                                |     17067| 1|MSZP
+02|01| 4|DR. |MIKES ÉVA                                                   |     13064| 2|FIDESZ                        |MDF
+02|01| 5|    |PÁLNÉ DR. KOVÁCS ILONA                                      |      2211| 1|SZDSZ
+02|01| 3|    |KITTL JÁNOS                                                 |      1456| 1|CENTRUM
+02|01| 6|    |SIPOS SÁNDOR                                                |      1361| 1|MIÉP
+02|01| 1|    |FRATANOLO JÁNOS                                             |       971| 1|MUNKÁSPÁRT
+02|01| 7|DR. |TÓBIÁS JÁNOS                                                |       482| 1|FÜGGETLEN KISGAZDAPÁRT
+02|02| 6|DR. |SZILI KATALIN                                               |     17038| 1|MSZP
+02|02| 3|    |DE BLASIO ANTONIO                                           |     11259| 2|FIDESZ                        |MDF
+02|02| 4|DR. |DEÁK PÉTER                                                  |      2177| 1|MIÉP
+02|02| 5|    |HORVÁTH ZOLTÁN                                              |      2094| 1|SZDSZ
+02|02| 2|    |BÖDÕ CSILLA                                                 |       739| 1|MUNKÁSPÁRT
+02|02| 1|    |ACZÉL ATTILA                                                |       172| 1|FÜGGETLEN KISGAZDAPÁRT
+02|03| 8|DR. |TOLLER LÁSZLÓ                                               |     20661| 1|MSZP
+02|03| 4|    |KÖRÖMI ATTILA                                               |     11036| 2|FIDESZ                        |MDF
+02|03| 5|    |PÖRÖS BÉLA                                                  |      1724| 1|SZDSZ
+02|03| 7|DR. |SOMLÁN GYÖRGY                                               |      1621| 1|CENTRUM
+02|03| 6|    |SASHALMI GYÖRGY                                             |       946| 1|MIÉP
+02|03| 3|DR. |JEGESY ANDREA                                               |       810| 1|MUNKÁSPÁRT
+02|03| 1|    |DOLMÁNY JÁNOS                                               |       430| 0|
+02|03| 2|    |FERENC MIKLÓS                                               |       104| 1|FÜGGETLEN KISGAZDAPÁRT
+02|04| 6|    |PÁVA ZOLTÁN                                                 |     16104| 1|MSZP
+02|04| 4|    |HOFFMANN MÁTYÁSNÉ                                           |      9277| 2|FIDESZ                        |MDF
+02|04| 5|    |KOVÁCS SÁNDORNÉ                                             |      3174| 1|SZDSZ
+02|04| 8|    |TÓTH JÓZSEF                                                 |      1668| 1|CENTRUM
+02|04| 2|    |DEÁK IMRE                                                   |      1252| 1|MUNKÁSPÁRT
+02|04| 7|    |SOÓS ADRIENN                                                |       604| 1|MIÉP
+02|04| 3|    |DURA LÁSZLÓ                                                 |       367| 1|M.NY.P
+02|04| 1|DR. |BÁNYAI ILDIKÓ                                               |       203| 1|FÜGGETLEN KISGAZDAPÁRT
+02|05| 2|DR. |HARGITAI JÁNOS                                              |     16571| 2|FIDESZ                        |MDF
+02|05| 6|DR. |NYUL ISTVÁN                                                 |     12529| 1|MSZP
+02|05| 7|DR. |WEKLER FERENC                                               |      4485| 1|SZDSZ
+02|05| 5|    |LAJDI ANTALNÉ                                               |      1027| 1|MIÉP
+02|05| 3|    |HESZ ANTAL                                                  |       712| 1|CENTRUM
+02|05| 4|    |HORVÁTH JÓZSEF                                              |       502| 1|MUNKÁSPÁRT
+02|05| 1|    |BERTALAN ZOLTÁN                                             |       289| 1|FÜGGETLEN KISGAZDAPÁRT
+02|06| 6|    |KOCSI LÁSZLÓ                                                |     11465| 1|MSZP
+02|06| 5|    |KÉKKÕI ZOLTÁN JÓZSEF                                        |     11060| 2|FIDESZ                        |MDF
+02|06|11|    |TURÓS LÁSZLÓ                                                |      2619| 0|
+02|06| 4|    |HEINDL JÓZSEF                                               |      1320| 1|SZDSZ
+02|06| 1|    |BATIK IMRE ANDRÁS                                           |       957| 1|MIÉP
+02|06| 7|DR. |KOSZTICS ISTVÁN                                             |       853| 0|
+02|06| 8|    |POLGÁR ZOLTÁN LÁSZLÓ                                        |       784| 1|CENTRUM
+02|06|10|    |SZILÁGYI IMRE                                               |       762| 1|MUNKÁSPÁRT
+02|06| 9|    |SZALAY LÁSZLÓ JÓZSEFNÉ DR. SÁITY BORBÁLA                    |       439| 1|MAVEP
+02|06| 3|    |BURU LÁSZLÓ                                                 |       353| 1|FÜGGETLEN KISGAZDAPÁRT
+02|06| 2|    |BÉDA PÁL                                                    |       116| 1|REFORM KISGAZDAPÁRT
+02|07| 1|    |GRÁF JÓZSEF                                                 |     10478| 1|MSZP
+02|07| 4|    |PICHLER IMRE                                                |      9180| 2|FIDESZ                        |MDF
+02|07| 6|DR. |RODEK GYULA                                                 |      1289| 1|SZDSZ
+02|07| 3|    |NAGY JÓZSEF                                                 |       712| 1|MIÉP
+02|07| 5|    |PÖTTENDI JÁNOS                                              |       680| 1|MUNKÁSPÁRT
+02|07| 2|    |MÁTIS ISTVÁN                                                |       680| 1|CENTRUM
+02|07| 7|DR. |VERASZTÓ HERMIN                                             |       560| 1|FÜGGETLEN KISGAZDAPÁRT
+03|01| 6|    |NYITRAY ANDRÁS                                              |     15345| 2|FIDESZ                        |MDF
+03|01| 8|DR. |SZÛCS MIKLÓS                                                |     11752| 1|MSZP
+03|01| 7|    |SOÓSNÉ CSÓTI SZILVIA                                        |      1944| 1|SZDSZ
+03|01| 1|    |HETÉNYI ISTVÁN                                              |      1815| 1|MIÉP
+03|01| 5|    |NÉMET ZSOLT FERENC                                          |      1540| 1|CENTRUM
+03|01| 2|    |LENGYEL GÉZA                                                |       535| 1|MUNKÁSPÁRT
+03|01| 3|    |MENYHEI JÓZSEF                                              |       284| 1|FÜGGETLEN KISGAZDAPÁRT
+03|01| 4|    |NAGY IMRE                                                   |       270| 0|
+03|02| 2|DR. |HORVÁTH ZSOLT                                               |     11232| 2|FIDESZ                        |MDF
+03|02| 7|    |VÁRI GYULA                                                  |      9171| 1|MSZP
+03|02| 1|DR. |FEKETE LÁSZLÓ                                               |      1861| 0|
+03|02| 4|DR. |MÁRTON ZOLTÁN                                               |      1088| 1|SZDSZ
+03|02| 6|    |TRUNGEL ILONA ERZSÉBET                                      |       857| 1|MIÉP
+03|02| 3|    |KEREKES ANTAL                                               |       464| 1|MUNKÁSPÁRT
+03|02| 5|DR. |PELSÕCZI-KOVÁCS ISTVÁN ÁRPÁD                                |       195| 1|FÜGGETLEN KISGAZDAPÁRT
+03|03| 5|    |LEZSÁK SÁNDOR                                               |     14786| 2|FIDESZ                        |MDF
+03|03| 2|    |CSERNUS FERENC                                              |      6817| 1|MSZP
+03|03| 6|DR. |VANCSURA ISTVÁN                                             |      1115| 1|MIÉP
+03|03| 7|    |ZSIDAI ANIKÓ                                                |       738| 1|SZDSZ
+03|03| 4|    |FALUDI LÁSZLÓ                                               |       674| 1|CENTRUM
+03|03| 3|    |ERÕS JÓZSEF                                                 |       565| 1|MUNKÁSPÁRT
+03|03| 1|    |BERECZ JÓZSEF                                               |       486| 1|FÜGGETLEN KISGAZDAPÁRT
+03|04| 3|    |BALOGH JÓZSEF                                               |     13959| 2|FIDESZ                        |MDF
+03|04| 4|DR. |BALOGH LÁSZLÓ                                               |      9816| 1|MSZP
+03|04| 6|    |NAGY TAMÁS                                                  |      2167| 1|CENTRUM
+03|04| 1|    |ACZÉL LÁSZLÓ ISTVÁNNÉ                                       |      1088| 1|MIÉP
+03|04| 2|DR. |ÁDÁM PÁL                                                    |       707| 1|FÜGGETLEN KISGAZDAPÁRT
+03|04| 8|    |SZÉKELY KLÁRA                                               |       632| 1|SZDSZ
+03|04| 5|    |GONDA IMRE                                                  |       448| 1|MUNKÁSPÁRT
+03|04| 7|    |RUSZKOVICS JÁNOS                                            |       249| 0|
+03|05| 3|    |ENDRE SÁNDOR                                                |     11090| 2|FIDESZ                        |MDF
+03|05| 5|DR. |GARAI ISTVÁN LEVENTE                                        |      9980| 1|MSZP
+03|05| 4|    |FICSÓR JÓZSEF                                               |      2091| 1|SZDSZ
+03|05| 2|    |CSITOS GYÖRGYNÉ                                             |       914| 1|MIÉP
+03|05| 7|DR. |KOVÁCS JÓZSEF                                               |       722| 1|FÜGGETLEN KISGAZDAPÁRT
+03|05| 6|    |KISS KÁLMÁN TIBOR                                           |       603| 1|CENTRUM
+03|05| 1|    |BENCSIK KÁROLY                                              |       131| 1|MAVEP
+03|06| 2|    |FONT SÁNDOR                                                 |     14147| 2|FIDESZ                        |MDF
+03|06| 3|    |MÁRFAI PÉTER                                                |      7345| 1|MSZP
+03|06| 6|    |ZSIKLA GYÕZÕ                                                |      2961| 1|FÜGGETLEN KISGAZDAPÁRT
+03|06| 5|    |TORNYAY ÁGOTA KLÁRA                                         |      1148| 1|MIÉP
+03|06| 1|    |BERKECZ LÁSZLÓ                                              |      1092| 1|SZDSZ
+03|06| 4|    |MOLNÁR LAJOS                                                |       408| 1|MUNKÁSPÁRT
+03|07| 6|    |TÓTH ISTVÁN                                                 |     11217| 2|FIDESZ                        |MDF
+03|07| 1|    |ALFÖLDI ALBERT                                              |     10890| 1|MSZP
+03|07| 7|    |TÖRÖK GUSZTÁV ANDOR                                         |      5585| 1|SZDSZ
+03|07| 4|    |RUPPÁNER JÁNOS                                              |      1100| 1|MIÉP
+03|07| 2|DR. |BALÁS LÁSZLÓ                                                |       578| 1|FÜGGETLEN KISGAZDAPÁRT
+03|07| 5|    |SCHUCKERT GYÖRGY                                            |       531| 1|FMDP
+03|07| 3|    |MÁCSAI LAJOS ISTVÁN                                         |       147| 1|KISGAZDAPÁRT
+03|08| 6|    |ZUSCHLAG JÁNOS                                              |     10814| 1|MSZP
+03|08| 3|DR. |SZABÓ ERIKA                                                 |     10602| 2|FIDESZ                        |MDF
+03|08| 2|    |PATOCSKAI TAMÁS                                             |      1518| 1|MIÉP
+03|08| 4|    |SZABÓ LÁSZLÓNÉ                                              |       825| 1|SZDSZ
+03|08| 1|    |CSATÁRI JÓZSEF                                              |       693| 1|FÜGGETLEN KISGAZDAPÁRT
+03|08| 5|    |SZÛCS JÁNOS                                                 |       678| 1|MUNKÁSPÁRT
+03|09| 8|    |ZSIGÓ RÓBERT                                                |     14680| 2|FIDESZ                        |MDF
+03|09| 2|    |HAJDÚ MIKLÓS                                                |     12255| 1|MSZP
+03|09| 5|    |NEMES GÁBOR                                                 |      2110| 1|SZDSZ
+03|09| 4|    |HORVÁTH MÁTÉ                                                |      1324| 1|CENTRUM
+03|09| 3|    |HERNÁDI TIBOR                                               |       954| 1|MIÉP
+03|09| 1|    |ATYÁNSZKY GYÖRGY                                            |       767| 1|FÜGGETLEN KISGAZDAPÁRT
+03|09| 7|    |TAJCS SÁNDOR                                                |       756| 1|MUNKÁSPÁRT
+03|09| 6|    |S. NAGY ATTILA                                              |       486| 0|
+03|10| 8|DR. |TABAJDI CSABA                                               |     11146| 1|MSZP
+03|10| 3|DR. |FENYVESI MÁTÉ                                               |      8592| 2|FIDESZ                        |MDF
+03|10| 4|    |FUSZKÓ ATTILA                                               |      1095| 1|MIÉP
+03|10| 2|DR. |BORBÁS ZOLTÁN                                               |      1036| 1|CENTRUM
+03|10| 5|    |HALÁSZ ISTVÁN                                               |       885| 1|FÜGGETLEN KISGAZDAPÁRT
+03|10| 7|    |RAPCSÁK ANDRÁS                                              |       817| 1|SZDSZ
+03|10| 6|    |KALAPOS MÁRIA                                               |       480| 1|MUNKÁSPÁRT
+03|10| 1|    |BALÁZS JÓZSEF                                               |       266| 1|ZÖLDEK
+04|01| 4|    |MOLNÁR LÁSZLÓ                                               |     14703| 1|MSZP
+04|01| 7|    |VÉGH LÁSZLÓ                                                 |     13580| 2|FIDESZ                        |MDF
+04|01| 8|    |VELKEY GÁBOR                                                |      3602| 1|SZDSZ
+04|01| 5|    |TIMÁR IMRE                                                  |      1990| 1|CENTRUM
+04|01| 2|    |GUBUCZ KATALIN                                              |      1929| 1|MIÉP
+04|01| 1|    |BÁNHEGYI JÓZSEF                                             |      1044| 1|MUNKÁSPÁRT
+04|01| 3|DR. |KOLCSÁR SÁNDOR                                              |       390| 1|FÜGGETLEN KISGAZDAPÁRT
+04|01| 6|    |TÓTHNÉ HARANGOZÓ EDIT                                       |       334| 1|ZÖLDEK
+04|02| 6|    |TÓTH IMRE                                                   |     14892| 2|FIDESZ                        |MDF
+04|02| 7|    |TÓTH SÁNDOR                                                 |     12381| 1|MSZP
+04|02| 4|DR. |SVÉKUSNÉ DR. KOVÁCS ÁGNES                                   |      2008| 1|SZDSZ
+04|02| 3|DR. |RUZSA GYÖRGY                                                |      1171| 1|CENTRUM
+04|02| 5|    |SZÕKE JÁNOS                                                 |      1142| 1|MUNKÁSPÁRT
+04|02| 1|    |KOVÁCS SÁNDOR                                               |       736| 1|MIÉP
+04|02| 2|    |NAGY ISTVÁN                                                 |       509| 1|FÜGGETLEN KISGAZDAPÁRT
+04|03| 1|    |ERDÕS NORBERT                                               |      8654| 2|FIDESZ                        |MDF
+04|03| 4|DR. |RÁCZ LÁSZLÓ                                                 |      8357| 1|MSZP
+04|03| 6|    |VALENTINYI KÁROLY                                           |      4271| 0|
+04|03| 7|    |VÁMOS LÁSZLÓ                                                |      1703| 1|MIÉP
+04|03| 2|DR. |FARKAS ISTVÁN                                               |      1388| 1|SZDSZ
+04|03| 3|    |PALLAG LÁSZLÓ                                               |      1042| 1|FÜGGETLEN KISGAZDAPÁRT
+04|03| 5|    |SUCH MIHÁLY                                                 |       577| 1|MUNKÁSPÁRT
+04|04| 7|    |VERESS JÓZSEF                                               |     10126| 1|MSZP
+04|04| 8|    |VÍGH ILONA                                                  |      9826| 2|FIDESZ                        |MDF
+04|04| 5|DR. |PELCSINSZKI BOLESZLÁV                                       |      1447| 1|SZDSZ
+04|04| 1|    |DUDÁS ÁRPÁD                                                 |      1058| 1|CENTRUM
+04|04| 2|    |EGERESI GÁBORNÉ                                             |       568| 1|MUNKÁSPÁRT
+04|04| 3|    |HRABOVSZKY ENDRE JÁNOS                                      |       458| 1|MIÉP
+04|04| 4|    |KARANCSI TIBOR                                              |       445| 1|ÚJ BALOLDAL
+04|04| 6|    |TÍMÁR KÁROLY                                                |       328| 1|FÜGGETLEN KISGAZDAPÁRT
+04|05| 3|    |DOMOKOS LÁSZLÓ                                              |     11893| 2|FIDESZ                        |MDF
+04|05| 4|    |FÖLDESI ZOLTÁN                                              |      9712| 1|MSZP
+04|05| 7|DR. |OLASZ IMRE                                                  |      1189| 1|MIÉP
+04|05| 2|DR. |DEMETER LÁSZLÓ                                              |       949| 1|CENTRUM
+04|05| 1|    |DÁVID ISTVÁN                                                |       850| 1|MUNKÁSPÁRT
+04|05| 6|    |KOVÁCS MÁTYÁS                                               |       734| 1|SZDSZ
+04|05| 5|    |HETÉNYI ISTVÁN                                              |       564| 1|FÜGGETLEN KISGAZDAPÁRT
+04|06| 7|DR. |VASTAGH PÁL                                                 |     16274| 1|MSZP
+04|06| 6|DR. |VARGA ISTVÁN                                                |     13823| 2|FIDESZ                        |MDF
+04|06| 1|    |KISS JÁNOS                                                  |      1493| 1|MUNKÁSPÁRT
+04|06| 3|    |SZABÓ GÁBOR                                                 |      1206| 1|CENTRUM
+04|06| 2|    |KOVÁCS LAJOS GYÖRGY                                         |      1119| 1|SZDSZ
+04|06| 4|    |SZÁNTÓ GÁBOR                                                |       977| 1|MIÉP
+04|06| 5|    |TAR ANDRÁS                                                  |       664| 1|FÜGGETLEN KISGAZDAPÁRT
+04|07| 5|DR. |KARSAI JÓZSEF                                               |     12235| 1|MSZP
+04|07| 3|    |HANÓ MIKLÓS                                                 |      7782| 2|FIDESZ                        |MDF
+04|07| 7|    |NAGY BÉLA                                                   |      3430| 1|SZDSZ
+04|07| 1|    |BAKOS ISTVÁN GÉZA                                           |      1689| 1|MIÉP
+04|07| 2|    |BALOGH ALPÁR LÁSZLÓ                                         |      1055| 1|MUNKÁSPÁRT
+04|07| 4|DR. |JESZENSZKY GÉZA GYULA                                       |       722| 1|FÜGGETLEN KISGAZDAPÁRT
+04|07| 6|    |KÜRTÖSI ZSIGMOND                                            |       554| 1|CENTRUM
+05|01| 3|    |FEDOR VILMOS                                                |     15310| 1|MSZP
+05|01| 5|    |LENÁRTEK ANDRÁS                                             |     10966| 2|FIDESZ                        |MDF
+05|01| 6|    |LENKEY CSABA                                                |      1185| 1|CENTRUM
+05|01| 7|DR. |TÓTH KATALIN                                                |      1172| 1|SZDSZ
+05|01| 1|DR. |BORY ENDRE                                                  |      1162| 1|MIÉP
+05|01| 8|    |TUNYA SÁNDOR                                                |       599| 1|MUNKÁSPÁRT
+05|01| 4|    |KASSAI ATTILA                                               |       219| 1|FÜGGETLEN KISGAZDAPÁRT
+05|01| 2|    |BOZSINOVNÉ RÁSI EMESE                                       |       127| 1|REFORM KISGAZDAPÁRT
+05|02| 5|DR. |SIMON GÁBOR                                                 |     16198| 1|MSZP
+05|02| 4|DR. |RÉPÁSSY RÓBERT                                              |     10917| 2|FIDESZ                        |MDF
+05|02| 6|    |T.ASZTALOS ILDIKÓ                                           |      1959| 1|SZDSZ
+05|02| 2|    |FEJÉR ISTVÁN                                                |      1413| 1|CENTRUM
+05|02| 3|    |KOTTMAN DEZSÕ                                               |      1364| 1|MIÉP
+05|02| 1|DR. |EMÕDI GYULA                                                 |       694| 1|MUNKÁSPÁRT
+05|03| 5|    |KÁLI SÁNDOR                                                 |     17094| 1|MSZP
+05|03| 4|    |KÁDAS MIHÁLY                                                |     10100| 2|FIDESZ                        |MDF
+05|03| 3|DR. |ILLÉS JOLÁN                                                 |      1787| 1|SZDSZ
+05|03| 1|    |ÁRON BALÁZSNÉ                                               |      1470| 1|CENTRUM
+05|03| 6|    |KOCSIS JÓZSEF                                               |      1191| 1|MIÉP
+05|03| 7|    |NAGY KÁROLY                                                 |       725| 1|MUNKÁSPÁRT
+05|03| 2|DR. |CSEPREGI CSABA                                              |       123| 1|FÜGGETLEN KISGAZDAPÁRT
+05|03| 8|    |WÁGNER RÓBERT                                               |        69| 1|ÚJ BALOLDAL
+05|04| 8|DR. |TOMPA SÁNDOR                                                |     16544| 1|MSZP
+05|04| 1|    |HALMAI ISTVÁN                                               |      9347| 2|FIDESZ                        |MDF
+05|04| 6|    |SIMON KÁROLYNÉ                                              |      1245| 1|CENTRUM
+05|04| 2|    |JÁSZKA ERIKA                                                |      1215| 1|MIÉP
+05|04| 5|    |RUDOLF KATALIN                                              |      1211| 1|SZDSZ
+05|04| 3|    |KOZMA IMRE TIVADARNÉ                                        |       902| 1|MUNKÁSPÁRT
+05|04| 4|    |MOGYORÓSI GYULA                                             |       318| 1|M.NY.P
+05|04| 7|    |SZALAI ZSOLT                                                |        80| 1|FÜGGETLEN KISGAZDAPÁRT
+05|05| 9|DR. |TÓTH ISTVÁN                                                 |     13808| 1|MSZP
+05|05| 2|DR. |FÓNAGY JÁNOS                                                |      9345| 2|FIDESZ                        |MDF
+05|05| 5|DR. |KÓS CSABA                                                   |       804| 1|MIÉP
+05|05| 1|    |FILIPCSIN KÁROLY                                            |       783| 1|MUNKÁSPÁRT
+05|05| 6|    |RICHTER PÉTER                                               |       474| 1|SZDSZ
+05|05| 8|    |TOLDI MIKLÓS                                                |       365| 0|
+05|05| 7|    |SZAJKÓ BÉLA                                                 |       353| 1|ÚJ BALOLDAL
+05|05| 4|DR. |HENCZEL JÓZSEF                                              |       309| 1|CENTRUM
+05|05| 3|    |GRESKOVITS ISTVÁN                                           |       158| 1|FÜGGETLEN KISGAZDAPÁRT
+05|06| 2|DR. |FARAGÓ PÉTER                                                |     12058| 1|MSZP
+05|06| 1|DR. |CSIBA GÁBOR TAMÁS                                           |      9150| 2|FIDESZ                        |MDF
+05|06| 7|DR. |ZSÍROS SÁNDOR JÓZSEF                                        |      1192| 1|CENTRUM
+05|06| 3|    |MIKLÓS ÁRPÁD                                                |      1025| 1|MIÉP
+05|06| 6|    |VÁRADI JÓZSEFNÉ                                             |       770| 1|MUNKÁSPÁRT
+05|06| 5|    |SZEGLETES SÁNDOR                                            |       618| 1|SZDSZ
+05|06| 4|    |PARÓCZAI ANDREA TÜNDE                                       |       137| 1|FÜGGETLEN KISGAZDAPÁRT
+05|07| 4|    |GYÁRFÁS ILDIKÓ                                              |     17485| 1|MSZP
+05|07| 6|DR. |SÓJA SZABOLCS CIRILL                                        |      6297| 2|FIDESZ                        |MDF
+05|07| 1|    |BENDE GYÖRGY                                                |      1527| 1|SZDSZ
+05|07| 7|DR. |TAMÁS GYULA                                                 |       878| 1|MIÉP
+05|07| 8|    |WEINÉMER LÁSZLÓ                                             |       841| 1|MUNKÁSPÁRT
+05|07| 2|    |DEÁK PÁL TIBOR                                              |       808| 1|CENTRUM
+05|07| 3|    |DOBÓCZI SÁNDOR                                              |       176| 1|FÜGGETLEN KISGAZDAPÁRT
+05|07| 5|    |KOVÁCS KÁROLY                                               |       154| 1|ZÖLDEK
+05|08| 3|    |MOLNÁR OSZKÁR                                               |     10946| 2|FIDESZ                        |MDF
+05|08| 6|    |VARGÁNÉ KERÉKGYÁRTÓ ILDIKÓ                                  |      9569| 1|MSZP
+05|08| 5|    |SZILÁGYI ADOLF                                              |      1529| 1|CENTRUM
+05|08| 1|IFJ.|KOMJÁTI MIKLÓS                                              |      1081| 1|MIÉP
+05|08| 2|    |KOZMA BLANKA                                                |      1052| 1|SZDSZ
+05|08| 4|    |OROSZ JÓZSEF                                                |       691| 1|MUNKÁSPÁRT
+05|08| 7|    |ZOLTAI LÁSZLÓ                                               |       144| 1|FÜGGETLEN KISGAZDAPÁRT
+05|09| 7|DR. |ÓDOR FERENC                                                 |     16494| 2|FIDESZ                        |MDF
+05|09| 9|    |VADÁSZ ISTVÁN                                               |      9658| 1|MSZP
+05|09| 1|DR. |ANGYALOS LÁSZLÓ                                             |      1496| 1|MIÉP
+05|09| 8|    |SZÁDVÁRY GYULA                                              |      1051| 1|MUNKÁSPÁRT
+05|09| 2|    |BÁNSZKYNÉ SZEPESI ÉVA                                       |       985| 1|SZDSZ
+05|09| 6|    |MÁRCZIS MÁRTA                                               |       593| 1|CENTRUM
+05|09| 5|    |LACZKÓ LÁSZLÓNÉ                                             |       434| 1|FÜGGETLEN KISGAZDAPÁRT
+05|09| 3|    |JÁGER LÁSZLÓ                                                |       345| 1|REFORM KISGAZDAPÁRT
+05|09| 4|    |KARL MÁRTON                                                 |        37| 1|ÚJ BALOLDAL
+05|10| 1|DR. |HÖRCSIK RICHÁRD                                             |     15032| 2|FIDESZ                        |MDF
+05|10| 8|DR. |SOÓS GYÕZÕ                                                  |     12171| 1|MSZP
+05|10| 5|    |NÉMETH KÁROLY                                               |      1392| 1|CENTRUM
+05|10| 3|DR. |MÁRI IMRE                                                   |       967| 1|SZDSZ
+05|10| 6|    |POCSAI FERENC                                               |       938| 1|MIÉP
+05|10| 7|    |RUSZNÁK MIKLÓS                                              |       896| 0|
+05|10| 2|    |LENDVAI GYÖRGY                                              |       570| 1|MUNKÁSPÁRT
+05|10| 9|    |TAKÁCS JÓZSEF                                               |       231| 1|FÜGGETLEN KISGAZDAPÁRT
+05|10| 4|    |NAGY ZOLTÁN                                                 |        73| 1|REFORM KISGAZDAPÁRT
+05|11| 8|    |SZABÓ GYÖRGY                                                |     11708| 1|MSZP
+05|11| 2|    |KONCZ FERENC                                                |     10636| 2|FIDESZ                        |MDF
+05|11| 4|DR. |KUPA MIHÁLY                                                 |      5752| 1|CENTRUM
+05|11| 7|DR. |SZABOLCS ISTVÁN                                             |      1492| 1|MIÉP
+05|11| 5|    |PETROVSZKI ZSOLT                                            |       689| 1|SZDSZ
+05|11| 3|DR. |KÖVÉR LÁSZLÓ                                                |       575| 1|MUNKÁSPÁRT
+05|11| 6|    |SIMKÓ ANDRÁS                                                |       295| 1|FÜGGETLEN KISGAZDAPÁRT
+05|11| 1|    |BODNÁR IMRE                                                 |       165| 1|ÚJ BALOLDAL
+05|12| 5|    |KOVÁCS TIBOR                                                |     14890| 1|MSZP
+05|12| 7|    |STEINERNÉ VASVÁRI ÉVA                                       |     10723| 2|FIDESZ                        |MDF
+05|12| 2|    |FARKAS ZOLTÁN                                               |      2213| 1|SZDSZ
+05|12| 8|DR. |SZENTIRMAI KÁROLY                                           |      1212| 1|MUNKÁSPÁRT
+05|12| 9|DR. |SZIKSZAY TAMÁS                                              |      1038| 1|MIÉP
+05|12| 4|    |HORTOBÁGYI GYÖRGY                                           |      1033| 1|CENTRUM
+05|12|10|DR. |TÓTH ANTAL ISTVÁN                                           |       434| 0|
+05|12| 6|    |MÉSZÁROS ENDRE                                              |       370| 1|FÜGGETLEN KISGAZDAPÁRT
+05|12| 3|    |HOMONYIKNÉ BERTHA LAURA                                     |       222| 1|ÚJ BALOLDAL
+05|12| 1|    |CSORBA GYÖRGY                                               |       149| 1|REFORM KISGAZDAPÁRT
+05|13| 7|    |TÁLLAI ANDRÁS                                               |     16682| 2|FIDESZ                        |MDF
+05|13| 5|    |MOLNÁR JÓZSEF                                               |     11442| 1|MSZP
+05|13| 2|    |BALLA ERZSÉBET                                              |       886| 1|SZDSZ
+05|13| 4|    |MIKOLA ISTVÁN                                               |       883| 1|MIÉP
+05|13| 3|DR. |FRANKOVICS ZSOLT DEZSÕ                                      |       685| 1|CENTRUM
+05|13| 6|    |PÁLFI JÁNOS                                                 |       595| 1|MUNKÁSPÁRT
+05|13| 8|    |VÁLYI-NAGY BERTALANNÉ                                       |       205| 1|FÜGGETLEN KISGAZDAPÁRT
+05|13| 1|    |BALÁZS ELEMÉR                                               |       161| 1|ÖSSZEFOGÁS A FENNMARADÁSÉRT
+06|01| 7|    |UJHELYI ISTVÁN                                              |     17430| 1|MSZP
+06|01| 5|DR. |RÁKOS TIBOR                                                 |     12687| 2|FIDESZ                        |MDF
+06|01| 4|DR. |MOLNÁR GYULA                                                |      2431| 1|CENTRUM
+06|01| 2|    |KORMOS TIBOR                                                |      1951| 1|SZDSZ
+06|01| 6|DR. |TÁRKÁNY ISTVÁN                                              |      1229| 1|MIÉP
+06|01| 8|    |ZSIVITY DEMETER                                             |       589| 1|MUNKÁSPÁRT
+06|01| 3|DR. |LÉVAY ENDRE                                                 |       212| 1|FÜGGETLEN KISGAZDAPÁRT
+06|01| 1|    |APÁTI SÁNDOR                                                |       128| 1|SZDP
+06|02| 2|    |BALOGH LÁSZLÓ                                               |     17837| 2|FIDESZ                        |MDF
+06|02| 4|DR. |GÉCZI JÓZSEF ALAJOS                                         |     17218| 1|MSZP
+06|02| 5|    |NAGY SÁNDOR                                                 |      2048| 1|SZDSZ
+06|02| 3|DR. |FESTÕ-SZABÓ LÁSZLÓ                                          |      1394| 1|MIÉP
+06|02| 7|    |RÁCZ BÉLA                                                   |       715| 1|MUNKÁSPÁRT
+06|02| 6|    |PANCZA ISTVÁN                                               |       360| 1|FÜGGETLEN KISGAZDAPÁRT
+06|02| 1|    |BAKAI CSABA                                                 |       344| 1|MAVEP
+06|03| 2|DR. |BOTKA LÁSZLÓ                                                |     18330| 1|MSZP
+06|03| 1|DR. |BARTHA LÁSZLÓ                                               |     14120| 2|FIDESZ                        |MDF
+06|03| 8|DR. |PÁSZTI ÁGNES                                                |      2399| 1|CENTRUM
+06|03| 5|    |KECSE-NAGY SÁNDOR                                           |      1862| 1|SZDSZ
+06|03| 4|DR. |FARÁDY ÉVA                                                  |      1295| 1|MIÉP
+06|03| 7|    |NAGYVÁRI LÁSZLÓ                                             |       669| 1|MUNKÁSPÁRT
+06|03| 6|    |KOZMA GYÖRGY                                                |       238| 1|MAVEP
+06|03| 3|    |CSANÁDI JÁNOSNÉ                                             |       211| 1|FÜGGETLEN KISGAZDAPÁRT
+06|04| 8|    |VINCZE LÁSZLÓ                                               |     12460| 2|FIDESZ                        |MDF
+06|04| 2|    |FÁBIÁN GYÖRGY                                               |     10386| 1|MSZP
+06|04| 1|DR. |BERTALAN ZOLTÁN                                             |      1775| 0|
+06|04| 3|    |FAGYAL BÉLA                                                 |      1155| 1|MIÉP
+06|04| 7|DR. |SOMOGYI GYÖRGY                                              |       910| 1|CENTRUM
+06|04| 4|    |GYÕRI ZOLTÁN                                                |       799| 1|SZDSZ
+06|04| 6|    |KÕHALMINÉ FORRAI JULIANNA                                   |       667| 1|MUNKÁSPÁRT
+06|04| 5|DR. |HOFFMANN ZOLTÁN                                             |       346| 1|FÜGGETLEN KISGAZDAPÁRT
+06|05| 2|    |FARKAS SÁNDOR                                               |     10008| 2|FIDESZ                        |MDF
+06|05| 1|DR. |DEMETER ATTILA                                              |      8054| 1|MSZP
+06|05| 3|DR. |GOMBOS ANDRÁS                                               |      2286| 1|SZDSZ
+06|05| 7|    |PAP IMRE                                                    |       858| 1|MUNKÁSPÁRT
+06|05| 6|    |ORBÁN ISTVÁN                                                |       823| 1|CENTRUM
+06|05| 4|    |KOMJÁTI SÁNDOR                                              |       749| 1|MIÉP
+06|05| 5|    |KURUCZ MÁRTON                                               |       306| 0|
+06|05| 8|DR. |VARGA LÁSZLÓ                                                |       290| 1|FÜGGETLEN KISGAZDAPÁRT
+06|06| 6|DR. |LÁZÁR JÁNOS                                                 |     18421| 2|FIDESZ                        |MDF
+06|06| 1|DR. |BICSÉRDY GYULA                                              |      9001| 1|MSZP
+06|06| 4|DR. |KOVÁCS LÁSZLÓ                                               |      1830| 1|MIÉP
+06|06| 7|DR. |SZUROMI ISTVÁN                                              |      1172| 1|CENTRUM
+06|06| 2|    |HAVRÁNEK FERENC                                             |      1040| 1|MUNKÁSPÁRT
+06|06| 5|    |KRUPICZER IRMA                                              |       726| 1|SZDSZ
+06|06| 8|    |VÖRÖS LÁSZLÓ                                                |       581| 0|
+06|06| 3|    |IMRE BÉLA                                                   |       199| 1|FÜGGETLEN KISGAZDAPÁRT
+06|07| 1|DR. |BUZÁS PÉTER                                                 |     11010| 1|MSZP
+06|07| 3|DR. |MARTONOSI GYÖRGY                                            |      8906| 2|FIDESZ                        |MDF
+06|07| 2|DR. |DÁN JÁNOS                                                   |      2597| 1|FÜGGETLEN KISGAZDAPÁRT
+06|07| 5|DR. |SIKET ISTVÁN                                                |       898| 1|SZDSZ
+06|07| 4|    |PUSZTA JÁNOS                                                |       840| 1|MIÉP
+06|07| 6|    |SZABÓ JENÕNÉ                                                |       780| 1|MUNKÁSPÁRT
+07|01| 6|    |WARVASOVSZKY TIHAMÉR                                        |     17218| 1|MSZP
+07|01| 1|    |BALSAY ISTVÁN                                               |     13025| 2|FIDESZ                        |MDF
+07|01| 5|DR. |SZELIER ANDRÁS                                              |      2047| 1|SZDSZ
+07|01| 2|    |BOTOS ZOLTÁN                                                |      1066| 1|MIÉP
+07|01| 4|    |ERDÕS FERENC                                                |       468| 1|MUNKÁSPÁRT
+07|01| 3|    |BREUER IMRE                                                 |        80| 1|FÜGGETLEN KISGAZDAPÁRT
+07|02| 2|DR. |GÓGL ÁRPÁD                                                  |     16197| 2|FIDESZ                        |MDF
+07|02| 4|    |MOLNÁR ALBERT                                               |     13724| 1|MSZP
+07|02| 8|DR. |VILÁGOSI GÁBOR                                              |      2761| 1|SZDSZ
+07|02| 3|DR. |MEZÕ BÉLA                                                   |      1974| 1|CENTRUM
+07|02| 7|DR. |RÓNAI LÁSZLÓ                                                |      1705| 1|MIÉP
+07|02| 1|    |CSEH BOGNÁR SÁNDOR                                          |       640| 1|MUNKÁSPÁRT
+07|02| 6|DR. |RÁBAKÖZI FERENC                                             |       316| 1|FÜGGETLEN KISGAZDAPÁRT
+07|02| 5|    |NÉMETH TAMÁS                                                |       278| 0|
+07|03| 3|DR. |KÁLMÁN ANDRÁS                                               |     15848| 1|MSZP
+07|03| 1|    |CSERNA GÁBOR                                                |      9508| 2|FIDESZ                        |MDF
+07|03| 5|DR. |SKALICZKI ANDREA                                            |      2476| 1|SZDSZ
+07|03| 4|    |KOÓS JÁNOS                                                  |      1617| 1|CENTRUM
+07|03| 2|DR. |GYÕRIK JÁNOS                                                |       910| 1|MIÉP
+07|03| 6|DR. |SZTANKÓ JÁNOS                                               |       803| 1|MUNKÁSPÁRT
+07|04| 2|    |ECSÕDI LÁSZLÓ                                               |     17268| 1|MSZP
+07|04| 4|DR. |OROSHÁZI GYÖRGY                                             |     13166| 2|FIDESZ                        |MDF
+07|04| 6|    |SÖRÖS LÁSZLÓ                                                |      1779| 1|SZDSZ
+07|04| 5|DR. |PALLAG FERENC                                               |      1392| 1|MIÉP
+07|04| 1|    |ÁRON JÓZSEF                                                 |      1379| 1|CENTRUM
+07|04| 3|    |KOMORÓCZKI JÁNOS                                            |       655| 1|MUNKÁSPÁRT
+07|04| 7|    |SZEKERES ZSUZSANNA                                          |       183| 1|KISGAZDAPÁRT
+07|05| 7|    |SCHMIDT FERENC                                              |     17200| 2|FIDESZ                        |MDF
+07|05| 1|    |HERCZOG EDIT                                                |     12698| 1|MSZP
+07|05| 2|DR. |KOVÁCS JÁNOS                                                |      1068| 1|CENTRUM
+07|05| 5|    |PAPP GYULA                                                  |      1038| 1|MIÉP
+07|05| 3|    |MOLNÁR ISTVÁN                                               |      1014| 1|SZDSZ
+07|05| 4|    |NAGY PÁL                                                    |       821| 1|MUNKÁSPÁRT
+07|05| 6|    |PÁPAI JÁNOS                                                 |       174| 1|FÜGGETLEN KISGAZDAPÁRT
+07|06| 3|    |LENGYEL ZOLTÁN                                              |     13107| 2|FIDESZ                        |MDF
+07|06| 5|    |SZABADOS TAMÁS                                              |     12756| 1|MSZP
+07|06| 6|    |TÓTH ZOLTÁN                                                 |      1080| 1|SZDSZ
+07|06| 4|    |ÓVÁRI ZSOLT                                                 |       873| 1|MIÉP
+07|06| 1|    |BERKI MIKLÓS                                                |       593| 1|MUNKÁSPÁRT
+07|06| 2|    |DÖMÖK PÉTER                                                 |       386| 1|FÜGGETLEN KISGAZDAPÁRT
+07|06| 7|    |VARGA JÓZSEF                                                |       171| 1|DRP
+07|07| 4|DR. |KELEMEN ANDRÁS                                              |     14936| 2|FIDESZ                        |MDF
+07|07| 6|    |PENZNÉ LAJTA KATALIN                                        |     11943| 1|MSZP
+07|07| 2|    |FORRAI TAMÁS                                                |      1325| 1|SZDSZ
+07|07| 5|    |OLÁH LÁSZLÓ                                                 |      1301| 1|MIÉP
+07|07| 1|DR. |BERECZ BOTOND                                               |      1277| 1|CENTRUM
+07|07| 3|    |HORVÁTH GÁBOR                                               |       400| 1|FÜGGETLEN KISGAZDAPÁRT
+08|01| 6|DR. |MEDGYASSZAY LÁSZLÓ                                          |     23130| 2|FIDESZ                        |MDF
+08|01| 8|    |POZSGAI BALÁZS                                              |     11792| 1|MSZP
+08|01| 1|    |FODOR PÁLNÉ                                                 |      1595| 1|SZDSZ
+08|01| 4|    |HORVÁTH BÉLA                                                |      1119| 1|MIÉP
+08|01| 5|    |KOVÁCS LAJOS                                                |       859| 1|MUNKÁSPÁRT
+08|01| 2|    |GULYÁS BALÁZS                                               |       439| 1|FÜGGETLEN KISGAZDAPÁRT
+08|01| 3|    |HORVÁTH ATTILA                                              |       402| 0|
+08|01| 7|    |OSVÁTH LÁSZLÓ                                               |       136| 1|MAVEP
+08|02| 5|DR. |SZAKÁCS IMRE                                                |     16807| 2|FIDESZ                        |MDF
+08|02| 4|    |SZABÓ SÁNDORNÉ                                              |     16799| 1|MSZP
+08|02| 6|    |SZEMES JÁNOS                                                |      1672| 1|SZDSZ
+08|02| 3|    |REUTER GYÖRGY                                               |      1668| 1|CENTRUM
+08|02| 2|DR. |PETNEHÁZY ATTILA                                            |      1506| 1|MIÉP
+08|02| 1|    |CSANDA GERGELY                                              |       184| 1|FÜGGETLEN KISGAZDAPÁRT
+08|03| 2|    |BALOGH JÓZSEF                                               |     19540| 1|MSZP
+08|03| 3|    |BIRKÁS TIVADAR                                              |     15466| 2|FIDESZ                        |MDF
+08|03| 5|    |GRAFFELNER KÁLMÁN                                           |      1297| 1|SZDSZ
+08|03| 1|    |ÁRVAI-OLTYÁN FERENC                                         |      1289| 1|CENTRUM
+08|03| 6|    |PINTÉR ELEMÉR                                               |      1214| 1|MIÉP
+08|03| 4|    |ÉGI KRISZTIÁN                                               |       124| 1|FÜGGETLEN KISGAZDAPÁRT
+08|04| 5|    |STIPKOVITS PÁL                                              |     16480| 1|MSZP
+08|04| 2|DR. |PAP JÁNOS                                                   |     14078| 2|FIDESZ                        |MDF
+08|04| 6|    |SZENTKUTI KÁROLY                                            |      1260| 1|SZDSZ
+08|04| 4|DR. |RASKÓ GYÖRGY                                                |       872| 1|CENTRUM
+08|04| 7|    |VINCZE FERENC TAMÁS                                         |       713| 1|MIÉP
+08|04| 3|    |PINTÉR LAJOS                                                |       617| 1|MUNKÁSPÁRT
+08|04| 1|    |DOMICZI JÁNOS                                               |       177| 1|FÜGGETLEN KISGAZDAPÁRT
+08|05| 2|DR. |ÁDER JÁNOS                                                  |     19642| 2|FIDESZ                        |MDF
+08|05| 6|    |PAPP JÓZSEF                                                 |      9973| 1|MSZP
+08|05| 1|    |ABDAI IMRE                                                  |      1150| 1|SZDSZ
+08|05| 7|DR. |SZABADY BALÁZS                                              |       732| 1|MIÉP
+08|05| 3|    |HORVÁTH SÁNDOR                                              |       598| 1|MUNKÁSPÁRT
+08|05| 5|    |MAURER JÁNOS                                                |       586| 1|CENTRUM
+08|05| 4|    |HORVÁTH TIBOR                                               |       309| 1|FÜGGETLEN KISGAZDAPÁRT
+08|06| 3|    |IVANICS FERENC                                              |     18649| 2|FIDESZ                        |MDF
+08|06| 2|DR. |HORVÁTH FERENC                                              |      9273| 1|MSZP
+08|06| 7|    |VARGA GYULA                                                 |      2002| 1|SZDSZ
+08|06| 1|DR. |EÕRI TERÉZIA                                                |      1281| 1|MIÉP
+08|06| 4|DR. |PAYER ERZSÉBET                                              |       963| 1|CENTRUM
+08|06| 6|    |SIPÕCZ SÁNDOR                                               |       581| 1|MUNKÁSPÁRT
+08|06| 5|    |RÓZSA ATTILA                                                |       246| 1|FÜGGETLEN KISGAZDAPÁRT
+08|07| 7|DR. |SZÁJER JÓZSEF                                               |     18887| 2|FIDESZ                        |MDF
+08|07| 3|    |KRÁNITZ LÁSZLÓ                                              |     13698| 1|MSZP
+08|07| 2|DR. |KERTÉSZ ZOLTÁN                                              |      2361| 1|SZDSZ
+08|07| 1|DR. |HALMAI KAMILLÓ FLÓRIÁN                                      |      1684| 1|CENTRUM
+08|07| 4|    |NYIKOS TIVADAR                                              |      1663| 1|MIÉP
+08|07| 5|    |RÉVÉSZ JÁNOS                                                |       405| 1|MUNKÁSPÁRT
+08|07| 6|    |SÁRKÖZI IMRE                                                |        92| 1|FÜGGETLEN KISGAZDAPÁRT
+09|01| 4|DR. |PÓSÁN LÁSZLÓ                                                |     22452| 2|FIDESZ                        |MDF
+09|01| 7|DR. |SZEGEDI ISTVÁN                                              |     16090| 1|MSZP
+09|01| 1|DR. |CSIKAI GYULA                                                |      1215| 1|CENTRUM
+09|01| 2|    |KAPRONCZI MIHÁLY                                            |      1147| 1|MIÉP
+09|01| 8|    |SZILÁGYI JÁNOS                                              |      1004| 1|SZDSZ
+09|01| 3|    |MIHÁLY JÁNOS                                                |       656| 1|MUNKÁSPÁRT
+09|01| 5|    |REZES GÁBOR                                                 |       121| 1|KISGAZDAPÁRT
+09|01| 6|    |SAMÓK GYULA                                                 |       113| 1|FÜGGETLEN KISGAZDAPÁRT
+09|02| 1|    |HALÁSZ JÁNOS                                                |     16999| 2|FIDESZ                        |MDF
+09|02| 3|DR. |JUHÁSZNÉ LÉVAI KATALIN                                      |     14003| 1|MSZP
+09|02| 6|    |VARGA ISTVÁN                                                |      1348| 1|CENTRUM
+09|02| 4|    |KOVÁCS LÁSZLÓ                                               |      1219| 1|SZDSZ
+09|02| 2|    |JÓZSA ÉVA                                                   |       939| 1|MIÉP
+09|02| 5|    |SZABÓ ELEMÉR                                                |       172| 1|FÜGGETLEN KISGAZDAPÁRT
+09|03| 3|    |KÓSA LAJOS                                                  |     21297| 2|FIDESZ                        |MDF
+09|03| 1|    |CSONTOS JÁNOS                                               |     13888| 1|MSZP
+09|03| 5|DR. |RÓZSA PÉTER                                                 |      1977| 1|SZDSZ
+09|03| 4|    |MOLNÁR ANTAL                                                |      1102| 1|MIÉP
+09|03| 2|    |KELLERMANN PÉTERNÉ                                          |       210| 1|FÜGGETLEN KISGAZDAPÁRT
+09|04| 5|    |LÁYER JÓZSEF                                                |     11281| 2|FIDESZ                        |MDF
+09|04| 2|    |DERZSI MIKLÓS                                               |      7698| 1|MSZP
+09|04| 1|    |CSOBÁN JÓZSEF                                               |      3227| 0|
+09|04| 4|    |KÖLES ZOLTÁN                                                |      1234| 1|SZDSZ
+09|04| 3|    |HAMZA GÁBOR                                                 |      1176| 1|FÜGGETLEN KISGAZDAPÁRT
+09|04| 6|    |OLÁH VINCE ATTILA                                           |       447| 1|MIÉP
+09|04| 8|    |RÓNYAI LAJOS                                                |       374| 1|MUNKÁSPÁRT
+09|04| 7|    |ORVOS MIHÁLY                                                |       285| 1|REFORM KISGAZDAPÁRT
+09|05| 6|    |SZILÁGYI PÉTER                                              |     11260| 1|MSZP
+09|05| 8|DR. |VITÁNYI ISTVÁN                                              |      9243| 2|FIDESZ                        |MDF
+09|05| 5|    |SZEIFERT FERENC                                             |      2077| 1|FÜGGETLEN KISGAZDAPÁRT
+09|05| 1|    |FÜLÖP MIHÁLY ISTVÁN                                         |      1574| 1|SZDSZ
+09|05| 2|    |KARÁCSONY ISTVÁN                                            |       946| 1|MIÉP
+09|05| 4|    |MEZÕ BÉLA                                                   |       729| 1|MUNKÁSPÁRT
+09|05| 3|    |KISS JÁNOS                                                  |       672| 0|
+09|05| 7|DR. |SZÛRÖS MÁTYÁS                                               |       361| 1|ÚJ BALOLDAL
+09|06| 5|DR. |MOLNÁR LÁSZLÓ                                               |     11768| 1|MSZP
+09|06| 1|    |ARNÓTH SÁNDOR                                               |     10508| 2|FIDESZ                        |MDF
+09|06| 6|DR. |MÓRI ANTAL                                                  |      1672| 1|MIÉP
+09|06| 7|DR. |SZÖÕR ISTVÁN                                                |       712| 1|SZDSZ
+09|06| 3|    |KISS LAJOSNÉ                                                |       618| 1|MUNKÁSPÁRT
+09|06| 2|    |HAJDU SZABOLCS                                              |       418| 1|FÜGGETLEN KISGAZDAPÁRT
+09|06| 4|    |MAJOROS LÁSZLÓ                                              |       274| 1|ÚJ BALOLDAL
+09|07| 2|    |MÁRTON ATTILA                                               |     14194| 2|FIDESZ                        |MDF
+09|07| 5|DR. |TAKÁCS IMRE                                                 |     13731| 1|MSZP
+09|07| 1|    |LUXEDER ENDRE                                               |      1073| 0|
+09|07| 6|    |TARCSI ANDRÁS                                               |       841| 1|SZDSZ
+09|07| 3|    |PÉTER IMRE                                                  |       831| 1|MIÉP
+09|07| 4|    |SZIMA JÁNOS                                                 |       574| 1|FÜGGETLEN KISGAZDAPÁRT
+09|08| 6|DR. |TIBA ISTVÁN                                                 |      8029| 2|FIDESZ                        |MDF
+09|08| 7|    |TÓTH JÓZSEF                                                 |      7888| 1|MSZP
+09|08| 3|    |GÁL ISTVÁN                                                  |      5440| 1|SZDSZ
+09|08| 1|    |BIRKÁS JÓZSEF                                               |       793| 1|MUNKÁSPÁRT
+09|08| 5|    |PUSKÁS FERENC                                               |       742| 1|MIÉP
+09|08| 2|DR. |DOHÁNY LÁSZLÓ                                               |       520| 1|CENTRUM
+09|08| 4|    |KOVÁCS IMRE                                                 |       351| 1|KISGAZDAPÁRT
+09|08| 8|DR. |TÖMÖSVÁRY ZSOLT                                             |       308| 1|FÜGGETLEN KISGAZDAPÁRT
+09|09| 5|    |PÜSKI ANDRÁS                                                |     13173| 2|FIDESZ                        |MDF
+09|09| 4|DR. |NAGY SÁNDOR                                                 |     12657| 1|MSZP
+09|09| 2|DR. |CSÁSZI JÓZSEF                                               |      1452| 1|SZDSZ
+09|09| 6|DR. |ZELENI FERENC                                               |      1209| 1|FÜGGETLEN KISGAZDAPÁRT
+09|09| 3|    |MESTER ANTAL                                                |       943| 1|MIÉP
+09|09| 1|    |BALÁZSNÉ PÉNTEK ÉVA                                         |       569| 1|MUNKÁSPÁRT
+10|01| 6|DR. |NAGY IMRE                                                   |     18629| 1|MSZP
+10|01| 3|    |HOMA JÁNOS                                                  |     14478| 2|FIDESZ                        |MDF
+10|01| 4|DR. |HORUCZI CSABA                                               |      2444| 1|SZDSZ
+10|01| 2|    |BOROS BÉLÁNÉ                                                |      1506| 1|MIÉP
+10|01| 7|DR. |VASAS JOACHIM                                               |       979| 1|MUNKÁSPÁRT
+10|01| 5|    |HORVÁTH GÁBOR                                               |       279| 1|FÜGGETLEN KISGAZDAPÁRT
+10|01| 1|    |BARI JÓZSEF                                                 |       198| 1|ÚJ BALOLDAL
+10|02| 7|    |SÓS TAMÁS                                                   |     12036| 1|MSZP
+10|02| 4|    |HORVÁTH LÁSZLÓ                                              |      9944| 2|FIDESZ                        |MDF
+10|02| 8|    |TÓTH ANDRÁSNÉ                                               |       867| 1|MUNKÁSPÁRT
+10|02| 5|    |KOCSA ERIKA                                                 |       842| 1|SZDSZ
+10|02| 1|    |CSELOVSZKI GÁBOR                                            |       797| 1|MIÉP
+10|02| 3|    |GURNICZ VENCEL                                              |       450| 1|CENTRUM
+10|02| 9|DR. |VÁRHELYI ANDRÁS                                             |       437| 0|
+10|02| 6|    |SÁNTA ISTVÁN                                                |       229| 1|FÜGGETLEN KISGAZDAPÁRT
+10|02| 2|    |CSOMÓS LÁSZLÓ                                               |       212| 1|ÚJ BALOLDAL
+10|03| 5|DR. |MAGDA SÁNDOR                                                |     17436| 1|MSZP
+10|03| 6|DR. |MÁNYA KRISTÓF                                               |     11420| 2|FIDESZ                        |MDF
+10|03| 2|DR. |FODOR GÁBOR                                                 |      5159| 1|SZDSZ
+10|03| 4|    |KELEMEN MÁRTA                                               |      1851| 1|MIÉP
+10|03| 1|    |DÉR ISTVÁN                                                  |       849| 1|MUNKÁSPÁRT
+10|03| 3|    |HORVÁTH LÁSZLÓ                                              |       322| 1|FÜGGETLEN KISGAZDAPÁRT
+10|03| 7|    |SZOÓ SÁNDOR                                                 |       261| 1|KPDP
+10|04| 2|    |ÉRSEK ZSOLT                                                 |     16167| 1|MSZP
+10|04| 6|    |SZINYEI ANDRÁS                                              |     10415| 2|FIDESZ                        |MDF
+10|04| 1|DR. |BAJUSZ IMRE                                                 |      1601| 1|SZDSZ
+10|04| 4|    |LEPEL GYÖRGY                                                |      1540| 1|MIÉP
+10|04| 3|    |FEKETE KÁLMÁNNÉ                                             |      1130| 1|MUNKÁSPÁRT
+10|04| 5|DR. |MÓZER ALBERT                                                |       300| 1|FÜGGETLEN KISGAZDAPÁRT
+10|05| 2|    |GODÓ LAJOS                                                  |     12196| 1|MSZP
+10|05| 8|DR. |TÓTH JÓZSEF                                                 |      8137| 2|FIDESZ                        |MDF
+10|05| 1|DR. |ÁRVAI GYÖRGY                                                |      1558| 1|MIÉP
+10|05| 7|    |SOMLAI GYÖRGY                                               |       987| 1|SZDSZ
+10|05| 6|    |SIMONCSICS LÁSZLÓ                                           |       743| 1|MUNKÁSPÁRT
+10|05| 5|    |PAP KATALIN                                                 |       531| 1|CENTRUM
+10|05| 3|    |GÖNCZI MIHÁLY                                               |       522| 0|
+10|05| 4|DR. |ÖRDÖG ISTVÁN                                                |       366| 1|FÜGGETLEN KISGAZDAPÁRT
+10|06| 2|    |GULYÁS LÁSZLÓ                                               |     10484| 1|MSZP
+10|06| 8|    |ZAY ANDREA                                                  |      7836| 2|FIDESZ                        |MDF
+10|06| 1|    |BLAHÓ ISTVÁN                                                |      1433| 1|MUNKÁSPÁRT
+10|06| 7|DR. |SZABÓ JÁNOS                                                 |      1032| 0|
+10|06| 5|    |KERÉKGYÁRTÓ ÁKOS                                            |       878| 1|MIÉP
+10|06| 9|    |ZSEBE ZSOLT                                                 |       858| 1|SZDSZ
+10|06| 6|DR. |NAGY LAJOS FERENC                                           |       499| 1|CENTRUM
+10|06| 4|    |KELEMEN CSABA                                               |       263| 1|FÜGGETLEN KISGAZDAPÁRT
+10|06| 3|    |IFJ.KÁLLAI JÓZSEF                                           |       195| 1|ÚJ BALOLDAL
+11|01| 4|DR. |GEDEI JÓZSEF                                                |      8787| 1|MSZP
+11|01| 9|    |SZÁDVÁRI GÁBOR                                              |      7566| 2|FIDESZ                        |MDF
+11|01| 6|DR. |KIS ZOLTÁN                                                  |      4754| 1|SZDSZ
+11|01| 5|    |KASZA ANTAL                                                 |      1237| 0|
+11|01| 2|DR. |CZAPPÁN ANDREA                                              |       768| 1|MIÉP
+11|01| 7|    |PÁL ANDOR                                                   |       678| 1|MUNKÁSPÁRT
+11|01| 8|    |PAPP ISTVÁN                                                 |       493| 1|CENTRUM
+11|01| 1|    |BALLAGÓ JÁNOS                                               |       310| 1|FÜGGETLEN KISGAZDAPÁRT
+11|01| 3|    |FAZEKAS JÓZSEF                                              |       162| 0|
+11|02| 6|DR. |SZEKERES IMRE                                               |      9814| 1|MSZP
+11|02| 2|    |JÁRVÁS ISTVÁN                                               |      7769| 2|FIDESZ                        |MDF
+11|02| 4|DR. |MAGYAR LEVENTE                                              |      1113| 1|SZDSZ
+11|02| 5|DR. |ROZSI GÁBOR                                                 |      1109| 1|FÜGGETLEN KISGAZDAPÁRT
+11|02| 3|    |KÁLINÉ TÓTH KATALIN                                         |       996| 1|MIÉP
+11|02| 1|DR. |JÁNOSI GÁBOR                                                |       781| 1|MUNKÁSPÁRT
+11|03| 3|    |BOTKA LAJOSNÉ                                               |     14894| 1|MSZP
+11|03| 6|    |SZALAY FERENC                                               |     12549| 2|FIDESZ                        |MDF
+11|03| 4|    |FODOR GYÖRGY                                                |      1555| 1|SZDSZ
+11|03| 2|    |BENCSIK MIHÁLY                                              |      1372| 1|MUNKÁSPÁRT
+11|03| 5|    |HALÁSZ ISTVÁN                                               |       965| 1|MIÉP
+11|03| 1|    |BÁNÓ ZOLTÁNNÉ                                               |       548| 1|FÜGGETLEN KISGAZDAPÁRT
+11|03| 7|    |SZENTIVÁNYI ANDRÁS                                          |       248| 1|REFORM KISGAZDAPÁRT
+11|04| 4|DR. |FÜLE ISTVÁN                                                 |     16177| 1|MSZP
+11|04| 1|    |BALLA GYÖRGY                                                |     11421| 2|FIDESZ                        |MDF
+11|04| 6|    |PÁLMAI LÁSZLÓ                                               |      2005| 1|SZDSZ
+11|04| 2|    |BENDÓ MIHÁLY                                                |      1629| 1|MUNKÁSPÁRT
+11|04| 3|    |BÍBER JÓZSEF TIBOR                                          |      1488| 1|MIÉP
+11|04| 5|    |NÁSZ MARGIT                                                 |      1024| 0|
+11|04| 7|    |STORK SÁNDOR                                                |       288| 1|FÜGGETLEN KISGAZDAPÁRT
+11|05| 3|    |FARKAS IMRE                                                 |     12177| 1|MSZP
+11|05| 4|    |MAGYAR ZOLTÁN                                               |      6953| 2|FIDESZ                        |MDF
+11|05| 2|DR. |CZUCZI MIHÁLY                                               |      2580| 1|SZDSZ
+11|05| 1|    |BÁRSONY MARGIT                                              |       749| 1|MUNKÁSPÁRT
+11|05| 7|    |VÍG LÁSZLÓ                                                  |       654| 0|
+11|05| 6|    |SZÁNTÓ BÁLINT                                               |       572| 1|MIÉP
+11|05| 5|    |PAPP JÁNOS                                                  |       449| 1|FÜGGETLEN KISGAZDAPÁRT
+11|06| 5|    |RÓZSA ENDRE                                                 |     10716| 1|MSZP
+11|06| 1|    |BÚSI LAJOS                                                  |      7987| 2|FIDESZ                        |MDF
+11|06| 6|DR. |SZABÓ ZOLTÁN                                                |      1193| 1|CENTRUM
+11|06| 2|    |GOMBOS JÓZSEF                                               |      1095| 1|MUNKÁSPÁRT
+11|06| 3|    |KOCSIS JÓZSEF                                               |       874| 1|MIÉP
+11|06| 7|    |TÚRI IMRE                                                   |       754| 1|FÜGGETLEN KISGAZDAPÁRT
+11|06| 4|DR. |MERKEI ATTILA                                               |       668| 1|SZDSZ
+11|07| 4|    |HERBÁLY IMRE                                                |     13652| 1|MSZP
+11|07| 2|    |FEJÉR ANDOR                                                 |     10585| 2|FIDESZ                        |MDF
+11|07| 7|    |SZILÁGYI ANDRÁS                                             |      1236| 1|MUNKÁSPÁRT
+11|07| 5|    |NAGY-BANA ZOLTÁN                                            |      1178| 1|SZDSZ
+11|07| 1|    |DANI DÁNIEL PÁL                                             |       872| 1|MIÉP
+11|07| 3|    |FEJES FERENC                                                |       781| 1|FÜGGETLEN KISGAZDAPÁRT
+11|07| 6|    |PINCZI IMRE                                                 |       404| 0|
+11|08| 6|    |VARGA MIHÁLY                                                |     13685| 2|FIDESZ                        |MDF
+11|08| 5|    |VADAI ÁGNES                                                 |     12352| 1|MSZP
+11|08| 2|    |BOKOR JÓZSEF                                                |       955| 1|MUNKÁSPÁRT
+11|08| 3|    |KEMÉNY ISTVÁN                                               |       846| 1|MIÉP
+11|08| 1|DR. |BALOGH SÁNDOR                                               |       839| 1|SZDSZ
+11|08| 4|DR. |MAGYAR GYÖRGY                                               |       420| 1|FÜGGETLEN KISGAZDAPÁRT
+12|01| 3|DR. |SCHVARCZ TIBOR                                              |     19386| 1|MSZP
+12|01| 1|    |BENCSIK JÁNOS                                               |      9228| 0|
+12|01| 7|DR. |SZTRUHÁR GYULA                                              |      6637| 2|FIDESZ                        |MDF
+12|01| 5|    |SZALAY GÁBOR                                                |      2848| 1|SZDSZ
+12|01| 8|    |TÓTH ISTVÁN                                                 |       915| 1|MUNKÁSPÁRT
+12|01| 2|    |BEREGSZÁSZI-HEGYI LÁSZLÓ                                    |       898| 1|MIÉP
+12|01| 6|    |SZENTIRMAI FERENC                                           |       236| 1|REFORM KISGAZDAPÁRT
+12|01| 4|    |SOMHEGYI LAJOS                                              |        96| 1|FÜGGETLEN KISGAZDAPÁRT
+12|02| 6|    |TÓTH ANDRÁS                                                 |     15532| 1|MSZP
+12|02| 5|    |RUCHTI RÓBERT                                               |     12505| 2|FIDESZ                        |MDF
+12|02| 3|    |KERTI KATALIN                                               |      2306| 1|SZDSZ
+12|02| 4|    |KOVÁCS DÁVID                                                |      1616| 1|MIÉP
+12|02| 7|    |WEIRACH WÉR VILMOS                                          |      1089| 1|CENTRUM
+12|02| 2|    |GYIMÓTHY GÉZA                                               |       678| 1|FÜGGETLEN KISGAZDAPÁRT
+12|02| 1|    |ÁGH FERENC                                                  |       543| 1|MUNKÁSPÁRT
+12|03| 2|    |KELETI GYÖRGY                                               |     17221| 1|MSZP
+12|03| 4|    |LÁZÁR MÓZES                                                 |     11594| 2|FIDESZ                        |MDF
+12|03| 1|    |KARDICS ISTVÁN                                              |       994| 1|SZDSZ
+12|03| 8|    |VASVÁRI ERIKA                                               |       749| 1|MIÉP
+12|03| 7|    |VARGA JÁNOS                                                 |       702| 1|MUNKÁSPÁRT
+12|03| 5|    |LIEBMANN KATALIN                                            |       403| 1|REFORM KISGAZDAPÁRT
+12|03| 6|    |REZI ÁRPÁD                                                  |       289| 1|FÜGGETLEN KISGAZDAPÁRT
+12|03| 3|    |KÓSA SÁNDOR                                                 |        74| 1|ÚJ BALOLDAL
+12|04| 8|    |ZATYKÓ JÁNOS                                                |     16683| 1|MSZP
+12|04| 3|DR. |JUHÁSZNÉ DR. GORDÁN ILDIKÓ                                  |     13027| 2|FIDESZ                        |MDF
+12|04| 1|    |GELENCSÉR GÉZA                                              |      1657| 1|SZDSZ
+12|04| 5|    |LÉVAI PÉTER                                                 |      1260| 1|CENTRUM
+12|04| 6|    |NAGY PÉTER                                                  |      1079| 1|MUNKÁSPÁRT
+12|04| 2|    |GYÖKÉR LAJOS                                                |      1046| 1|MIÉP
+12|04| 7|    |RAFFAY GYÖRGY                                               |       213| 1|FÜGGETLEN KISGAZDAPÁRT
+12|04| 4|DR. |KOVÁCS PÉTER ISTVÁN                                         |        64| 1|ÚJ BALOLDAL
+12|05| 5|DR. |TITTMANN JÁNOS                                              |     16444| 1|MSZP
+12|05| 3|DR. |LATORCAI JÁNOS                                              |     13333| 2|FIDESZ                        |MDF
+12|05| 6|DR. |VARGA GYÕZÕ                                                 |      2185| 1|SZDSZ
+12|05| 4|    |PAPP PÁL                                                    |      1403| 1|MIÉP
+12|05| 2|    |HUBÁCSEK SÁNDOR                                             |       791| 1|MUNKÁSPÁRT
+12|05| 1|    |GULA SÁNDOR                                                 |       268| 1|FÜGGETLEN KISGAZDAPÁRT
+13|01| 5|    |PUSZTA BÉLA                                                 |     14121| 1|MSZP
+13|01| 1|    |BECSÓ ZSOLT                                                 |      9100| 2|FIDESZ                        |MDF
+13|01| 6|    |SZABÓ LÁSZLÓNÉ                                              |      3267| 1|MUNKÁSPÁRT
+13|01| 2|    |GUSZTOS PÉTER                                               |      2698| 1|SZDSZ
+13|01| 4|DR. |PETERCSÁK JÁNOS ZSOLT                                       |       969| 1|CENTRUM
+13|01| 8|    |TÓTH LÁSZLÓ                                                 |       919| 1|MIÉP
+13|01| 3|    |MECSER LAJOS                                                |       196| 1|REFORM KISGAZDAPÁRT
+13|01| 7|    |SZANDA JÁNOS                                                |       161| 1|FÜGGETLEN KISGAZDAPÁRT
+13|02| 3|    |JUHÁSZ GÁBOR                                                |     14074| 1|MSZP
+13|02| 7|    |SISÁK IMRE JÁNOS                                            |     11482| 2|FIDESZ                        |MDF
+13|02| 6|    |NAGY LAJOSNÉ                                                |      2494| 1|MUNKÁSPÁRT
+13|02| 1|    |CSÉPE TIBOR                                                 |       905| 1|MIÉP
+13|02| 5|DR. |MÁTYUS ISTVÁN LÁSZLÓ                                        |       644| 1|SZDSZ
+13|02| 4|    |KÖVESI TIBOR DEZSÕ                                          |       558| 1|CENTRUM
+13|02| 2|DR. |DOBROVOCZKY ISTVÁN                                          |       489| 0|
+13|02| 8|    |SZAJKÓNÉ HAMZA ERZSÉBET ÉVA                                 |       297| 1|ÚJ BALOLDAL
+13|02| 9|    |SZEBERÉNYI TIBOR PÁL                                        |       160| 1|FÜGGETLEN KISGAZDAPÁRT
+13|03| 8|DR. |SURJÁN LÁSZLÓ                                               |     11156| 2|FIDESZ                        |MDF
+13|03| 7|DR. |SERFÕZÕ ANDRÁS                                              |     10097| 1|MSZP
+13|03| 9|    |TÓTH LÁSZLÓ                                                 |      1335| 1|MUNKÁSPÁRT
+13|03| 4|DR. |CZELENK FERENC                                              |      1014| 1|MIÉP
+13|03| 3|    |BÜKY DOROTTYA                                               |       876| 1|SZDSZ
+13|03| 1|    |BAGÓ ATTILA                                                 |       537| 1|CENTRUM
+13|03| 6|    |KISS TIBOR                                                  |       282| 1|SZDP
+13|03| 5|    |HULITKA ISTVÁN                                              |       184| 1|FÜGGETLEN KISGAZDAPÁRT
+13|03| 2|    |BETZ JÓZSEF                                                 |       164| 1|REFORM KISGAZDAPÁRT
+13|04| 1|    |BALLA MIHÁLY TIBOR                                          |     14767| 2|FIDESZ                        |MDF
+13|04| 8|    |URBÁN ÁRPÁD                                                 |     11847| 1|MSZP
+13|04| 6|    |SMITNYA SÁNDOR                                              |      1724| 1|SZDSZ
+13|04| 2|DR. |FRANKFURTER ZSUZSANNA                                       |      1247| 1|MUNKÁSPÁRT
+13|04| 7|    |SOÓS GÉZA                                                   |       981| 1|MIÉP
+13|04| 3|    |GYÜRKY JÁNOS                                                |       949| 1|CENTRUM
+13|04| 5|    |MÁTH MIHÁLYNÉ                                               |       200| 1|FÜGGETLEN KISGAZDAPÁRT
+13|04| 4|    |HESZ MIHÁLY                                                 |       153| 1|ÚJ BALOLDAL
+14|01| 1|    |HARRACH PÉTER                                               |     15466| 2|FIDESZ                        |MDF
+14|01| 2|    |KÁRPÁTI ZSUZSA                                              |     10933| 1|MSZP
+14|01| 3|DR. |KÓRÓDI MÁRIA                                                |      2162| 1|SZDSZ
+14|01| 4|    |MEDGYES TIBOR                                               |      1955| 1|MIÉP
+14|01| 5|DR. |PÁLHÁZI GÁBOR                                               |      1394| 1|CENTRUM
+14|01| 7|    |POLÓNYI ÉVA                                                 |       581| 1|MUNKÁSPÁRT
+14|01| 6|    |PINTÉR MARGIT                                               |       205| 1|FÜGGETLEN KISGAZDAPÁRT
+14|02| 1|DR. |BÓTH JÁNOS                                                  |     13408| 1|MSZP
+14|02| 5|    |IMRE ZSOLT                                                  |     11192| 2|FIDESZ                        |MDF
+14|02| 4|    |FÖRDÕS ATTILA                                               |      2839| 1|MIÉP
+14|02| 3|    |DUDÁS ÁGNES                                                 |      1801| 1|SZDSZ
+14|02| 7|    |SZEGEDI SÁNDOR                                              |      1668| 0|
+14|02| 2|    |CSEREKLYE KÁROLY                                            |       769| 1|FÜGGETLEN KISGAZDAPÁRT
+14|02| 6|    |SZÉCSÉNYI LÁSZLÓ                                            |       529| 1|MUNKÁSPÁRT
+14|02| 8|    |SZILAJ TAMÁS                                                |       134| 1|ÚJ BALOLDAL
+14|03| 6|    |TÓTH ANDRÁS                                                 |     15585| 1|MSZP
+14|03| 5|DR. |SALAMON LÁSZLÓ                                              |     13520| 2|FIDESZ                        |MDF
+14|03| 3|DR. |KISS RÓBERT                                                 |      3238| 1|SZDSZ
+14|03| 7|    |WOLF GÁBOR                                                  |      2459| 1|MIÉP
+14|03| 4|    |MOLNÁR ANDRÁS                                               |       663| 1|MUNKÁSPÁRT
+14|03| 1|    |IZSÓ MIHÁLY                                                 |       237| 1|FÜGGETLEN KISGAZDAPÁRT
+14|03| 2|    |KELEMEN ISTVÁN                                              |       212| 1|ÚJ BALOLDAL
+14|04| 4|DR. |GÉMESI GYÖRGY                                               |     20237| 2|FIDESZ                        |MDF
+14|04| 5|    |KOVÁCS BARNABÁS                                             |     18451| 1|MSZP
+14|04| 2|DR. |BÜKKFALVY BEATRIX                                           |      3162| 1|MIÉP
+14|04| 6|DR. |SZAKÁCS GYULA                                               |      2716| 1|SZDSZ
+14|04| 1|    |BODNÁR FERENC IMRE                                          |      1936| 1|CENTRUM
+14|04| 3|    |DUDÁS LAJOS ISTVÁN                                          |       258| 1|FÜGGETLEN KISGAZDAPÁRT
+14|05| 6|    |TÓTH GÁBOR                                                  |     12600| 2|FIDESZ                        |MDF
+14|05| 5|    |SZABÓ IMRE                                                  |     10974| 1|MSZP
+14|05| 1|    |BERECZKY LÁSZLÓ                                             |      1550| 1|MIÉP
+14|05| 3|    |KIS MIKLÓS                                                  |      1074| 1|CENTRUM
+14|05| 7|    |VÉRTESI LÁSZLÓ                                              |       972| 1|SZDSZ
+14|05| 4|    |NOTTNY NORBERT /NÖVÉNYI/                                    |       365| 1|ÚJ BALOLDAL
+14|05| 2|    |IZRACSKA LÁSZLÓ                                             |       209| 1|FÜGGETLEN KISGAZDAPÁRT
+14|06| 3|    |DOSZPOT PÉTER                                               |     17206| 1|MSZP
+14|06| 2|    |CZERVÁN GYÖRGY                                              |     14530| 2|FIDESZ                        |MDF
+14|06| 5|    |SZABÓ JÁNOS                                                 |      1644| 1|SZDSZ
+14|06| 4|    |MAJOROS TIBOR                                               |      1513| 1|FÜGGETLEN KISGAZDAPÁRT
+14|06| 1|    |BALOGH ROZÁLIA                                              |      1456| 1|MIÉP
+14|07| 1|DR. |GÁL ZOLTÁN                                                  |     17138| 1|MSZP
+14|07| 4|    |POGÁCSÁS TIBOR                                              |     15631| 2|FIDESZ                        |MDF
+14|07| 3|DR. |GERENCSÉR BALÁZS                                            |      2765| 1|SZDSZ
+14|07| 2|    |GARÁDI ISTVÁN                                               |      2381| 1|CENTRUM
+14|07| 8|    |VASKÓ KRISZTIÁN                                             |      2315| 1|MIÉP
+14|07| 7|    |SZÜCS ATTILA                                                |       749| 1|MUNKÁSPÁRT
+14|07| 5|    |RÁDÓCZI GUSZTÁV                                             |       612| 1|FÜGGETLEN KISGAZDAPÁRT
+14|07| 6|    |SZABÓ LÁSZLÓ                                                |       330| 1|ZÖLDEK
+14|08| 2|DR. |JÁNOSI GYÖRGY                                               |     22145| 1|MSZP
+14|08| 6|    |VÁRKONYI ANDRÁS                                             |     16329| 2|FIDESZ                        |MDF
+14|08| 1|DR. |CSÕZIK LÁSZLÓ                                               |      3568| 1|SZDSZ
+14|08| 4|    |MABDA GÁBOR                                                 |      2941| 1|MIÉP
+14|08| 3|    |KOVÁCS ISTVÁN                                               |      1046| 1|MUNKÁSPÁRT
+14|08| 5|    |TÓTH TAMÁS                                                  |       306| 1|FÜGGETLEN KISGAZDAPÁRT
+14|09| 1|    |KELLER LÁSZLÓ                                               |     15851| 1|MSZP
+14|09| 4|    |SELMECZI GABRIELLA                                          |     13446| 2|FIDESZ                        |MDF
+14|09| 5|    |WITTINGHOFF TAMÁS                                           |      4458| 1|SZDSZ
+14|09| 3|    |SÁNDOR PÉTER                                                |      2683| 1|MIÉP
+14|09| 2|    |RADICS ERNÕ                                                 |       536| 1|FÜGGETLEN KISGAZDAPÁRT
+14|10| 1|DR. |FRAJNA IMRE                                                 |     16731| 2|FIDESZ                        |MDF
+14|10| 5|    |NIKOLITS ISTVÁN                                             |     15257| 1|MSZP
+14|10| 3|    |GRÓSZNÉ KRUPP ERZSÉBET                                      |      6082| 1|SZDSZ
+14|10| 4|IFJ.|HEGEDÛS LORÁNT                                              |      4062| 1|MIÉP
+14|10| 2|    |G. NAGYNÉ DR. MACZÓ ÁGNES                                   |       983| 1|FÜGGETLEN KISGAZDAPÁRT
+14|11| 2|    |HADHÁZY SÁNDOR                                              |     16372| 2|FIDESZ                        |MDF
+14|11| 5|    |MIAKICH GÁBOR                                               |     14450| 1|MSZP
+14|11| 1|    |GULYÁS JÓZSEF                                               |      3333| 1|SZDSZ
+14|11| 3|    |KISS ANDOR                                                  |      3152| 1|MIÉP
+14|11| 6|    |SCHUSZTER JÓZSEF                                            |      2900| 1|CENTRUM
+14|11| 4|    |KRIZSOVENSZKY LAJOS                                         |       414| 1|FÜGGETLEN KISGAZDAPÁRT
+14|12| 7|    |VARJU LÁSZLÓ                                                |     14009| 1|MSZP
+14|12| 2|    |HOFFMAN PÁL                                                 |     13332| 2|FIDESZ                        |MDF
+14|12| 4|    |KUNCZE GÁBOR                                                |     11099| 1|SZDSZ
+14|12| 3|DR. |KOÓS FERENC                                                 |      2804| 1|MIÉP
+14|12| 1|    |ÁGICS PÉTER                                                 |       677| 1|MUNKÁSPÁRT
+14|12| 5|    |URBÁN SZABÓ JÓZSEF                                          |       315| 1|ÚJ BALOLDAL
+14|12| 6|    |VARGA GYULÁNÉ                                               |       245| 1|FÜGGETLEN KISGAZDAPÁRT
+14|13| 5|    |PUSZTAI CSABA                                               |     16265| 1|MSZP
+14|13| 4|    |PÁNCZÉL KÁROLY                                              |     14757| 2|FIDESZ                        |MDF
+14|13| 9|    |VENCZEL ÉVA                                                 |      3016| 1|SZDSZ
+14|13| 3|DR. |GAZDAG ISTVÁN                                               |      2096| 1|MIÉP
+14|13| 2|DR. |BETHLEN ISTVÁNNÉ                                            |       755| 1|ZÖLDEK
+14|13| 8|    |VARGA JÓZSEF                                                |       710| 1|ÚJ BALOLDAL
+14|13| 1|    |BÁRKÁNYI FERENC                                             |       686| 1|MUNKÁSPÁRT
+14|13| 7|    |SZABÓ FERENC                                                |       668| 1|FÜGGETLEN KISGAZDAPÁRT
+14|13| 6|    |SIMON LÁSZLÓ                                                |       489| 1|KISGAZDAPÁRT
+14|14| 6|    |SZÛCS LAJOS                                                 |     15193| 2|FIDESZ                        |MDF
+14|14| 3|    |KRÁLL BÉLA                                                  |     11786| 1|MSZP
+14|14| 1|DR. |DROPPA LÁSZLÓNÉ                                             |      1568| 1|SZDSZ
+14|14| 4|    |MAJOR ATTILA                                                |      1545| 1|MIÉP
+14|14| 7|    |TUSÁK MÁRTON                                                |      1097| 1|CENTRUM
+14|14| 5|    |MENDEL LAJOS                                                |       528| 1|MUNKÁSPÁRT
+14|14| 2|    |HEGEDÛS PÉTER                                               |       330| 1|FÜGGETLEN KISGAZDAPÁRT
+14|15| 2|DR. |CZINEGE IMRE                                                |     15188| 1|MSZP
+14|15| 3|DR. |CSÁKY ANDRÁS                                                |     15003| 2|FIDESZ                        |MDF
+14|15| 4|    |KOVÁCS ZOLTÁN                                               |      1876| 1|SZDSZ
+14|15| 5|    |KUTHY KÁROLY                                                |      1289| 1|MIÉP
+14|15| 6|DR. |RÉTI MIKLÓS                                                 |       633| 1|FÜGGETLEN KISGAZDAPÁRT
+14|15| 1|    |BOLEK ZOLTÁN                                                |       247| 1|KISGAZDAPÁRT
+14|16| 2|DR. |CZIRA SZABOLCS                                              |     11808| 2|FIDESZ                        |MDF
+14|16| 8|    |TÓBIÁS JÓZSEF                                               |      9064| 1|MSZP
+14|16| 5|    |KOVÁCS ISTVÁN                                               |      1095| 1|SZDSZ
+14|16| 7|    |SZÛCS SÁNDOR                                                |      1077| 1|MIÉP
+14|16| 4|    |KIRÁLY B. IZABELLA                                          |       919| 1|PEST1601
+14|16| 6|    |KÖTELES LAJOS                                               |       591| 0|
+14|16| 3|DR. |GIDAI ERZSÉBET                                              |       283| 1|FÜGGETLEN KISGAZDAPÁRT
+14|16| 1|    |BÖKÖS JÁNOS                                                 |        78| 1|KISGAZDAPÁRT
+15|01| 4|    |SZITA KÁROLY                                                |     13352| 2|FIDESZ                        |MDF
+15|01| 1|DR. |LAMPERTH MÓNIKA                                             |     12972| 1|MSZP
+15|01| 7|    |UNGÁR KLÁRA                                                 |      1067| 1|SZDSZ
+15|01| 5|DR. |TÓTH TIBOR                                                  |       783| 1|MIÉP
+15|01| 3|    |SZABADOS PÉTER                                              |       639| 1|CENTRUM
+15|01| 6|    |ULLÁR JÁNOS                                                 |       388| 1|MUNKÁSPÁRT
+15|01| 2|    |MATI ATTILÁNÉ                                               |       131| 1|FÜGGETLEN KISGAZDAPÁRT
+15|02| 3|    |PÁSZTOHY ANDRÁS                                             |     15192| 1|MSZP
+15|02| 7|DR. |SZABÓ JÓZSEF ANDOR                                          |     13721| 2|FIDESZ                        |MDF
+15|02| 5|DR. |SPIEGL JÓZSEF                                               |      1655| 1|CENTRUM
+15|02| 4|    |PINTÉR LÓRÁND                                               |      1408| 1|SZDSZ
+15|02| 2|    |KÕKUTI ISTVÁN                                               |      1048| 1|MIÉP
+15|02| 6|    |SZABÓ IMRE GYÕZÕ                                            |       739| 1|MUNKÁSPÁRT
+15|02| 1|DR. |BÁLIZS ERNÕ                                                 |       645| 1|FÜGGETLEN KISGAZDAPÁRT
+15|03| 5|DR. |GRUBER ATTILA                                               |     13634| 2|FIDESZ                        |MDF
+15|03| 6|DR. |HÁZAS JÓZSEF                                                |     11703| 1|MSZP
+15|03| 8|    |MOLNÁR ÁRPÁD                                                |      2834| 1|CENTRUM
+15|03| 7|    |HORVÁTH JÁNOS                                               |      1038| 1|MIÉP
+15|03| 3|    |BOZAI ÁGOTA                                                 |       989| 1|SZDSZ
+15|03| 1|    |BARKÓCZY GELLÉRT                                            |       811| 1|FÜGGETLEN KISGAZDAPÁRT
+15|03| 2|    |BORBOLA ISTVÁN                                              |       653| 1|MUNKÁSPÁRT
+15|03| 4|    |FÜLÖP GÉZA                                                  |       387| 0|
+15|04| 2|    |HERÉNYI KÁROLY                                              |     13799| 2|FIDESZ                        |MDF
+15|04| 3|DR. |KOLBER ISTVÁN                                               |     11305| 1|MSZP
+15|04| 5|DR. |MÉZES ÉVA                                                   |      1694| 1|SZDSZ
+15|04| 6|DR. |ORBÁN ISTVÁN                                                |       927| 1|CENTRUM
+15|04| 4|    |MARKÓ JÓZSEF                                                |       865| 1|MIÉP
+15|04| 1|    |HÁSZ MIHÁLY                                                 |       503| 1|MUNKÁSPÁRT
+15|04| 8|    |TÓTH JÁNOS                                                  |       367| 0|
+15|04| 7|    |PAÁL SÁNDOR                                                 |       302| 1|FÜGGETLEN KISGAZDAPÁRT
+15|05| 6|    |SZÁSZFALVI LÁSZLÓ                                           |     11852| 2|FIDESZ                        |MDF
+15|05| 5|DR. |SÜTÕ LÁSZLÓ                                                 |     11485| 1|MSZP
+15|05| 2|DR. |ÁRVAI TIBOR                                                 |      1286| 1|SZDSZ
+15|05| 4|    |PÁLFINÉ HUTVÁGNER ILONA                                     |       827| 1|MIÉP
+15|05| 1|    |ÁCS ATTILA                                                  |       803| 1|CENTRUM
+15|05| 3|    |LÁSZLÓ ANDRÁS                                               |       467| 1|FÜGGETLEN KISGAZDAPÁRT
+15|06| 3|    |FRANCZ REZSÕ                                                |      9750| 1|MSZP
+15|06| 6|    |KUZMA LÁSZLÓ                                                |      8303| 2|FIDESZ                        |MDF
+15|06| 4|DR. |GYENESEI ISTVÁN                                             |      6446| 1|CENTRUM
+15|06| 5|    |KINCSEI JÁNOS                                               |       948| 1|SZDSZ
+15|06| 7|DR. |NOVÁK JÁNOS                                                 |       936| 1|FÜGGETLEN KISGAZDAPÁRT
+15|06| 1|    |BATTYÁNYI GÉZA                                              |       763| 1|MIÉP
+15|06| 2|    |BOZÓ JÁNOS                                                  |       551| 1|MUNKÁSPÁRT
+16|01| 7|DR. |VOJNIK MÁRIA                                                |     17577| 1|MSZP
+16|01| 3|    |PARRAGH DÉNES                                               |     11656| 2|FIDESZ                        |MDF
+16|01| 5|    |VARGA ILDIKÓ                                                |      2351| 1|CENTRUM
+16|01| 1|    |FELBERMANN ENDRE                                            |      1742| 1|SZDSZ
+16|01| 6|    |VAS MIKLÓS                                                  |      1128| 1|FÜGGETLEN KISGAZDAPÁRT
+16|01| 2|DR. |GYÜRE CSABA                                                 |      1094| 1|MIÉP
+16|01| 4|    |UNGVÁRI SÁNDOR                                              |       453| 1|MUNKÁSPÁRT
+16|02| 1|    |CSABAI LÁSZLÓNÉ                                             |     21362| 1|MSZP
+16|02| 4|    |MÁDI LÁSZLÓ                                                 |     11767| 2|FIDESZ                        |MDF
+16|02| 2|DR. |DOBAI CSILLA                                                |      1175| 1|CENTRUM
+16|02| 5|DR. |PÁJER JÁNOS                                                 |      1047| 1|MIÉP
+16|02| 3|    |LENDVAI ISTVÁN                                              |       803| 1|SZDSZ
+16|02| 6|    |PAMPUCH ISTVÁN                                              |       271| 1|FÜGGETLEN KISGAZDAPÁRT
+16|02| 7|    |SZILVÁSI JÁNOS                                              |        52| 1|SZDP
+16|03| 2|    |JUHÁSZ FERENC                                               |     11996| 1|MSZP
+16|03| 3|DR. |KARAKÓ LÁSZLÓ                                               |     10580| 2|FIDESZ                        |MDF
+16|03| 4|    |KOVÁCS GÁBOR                                                |      1760| 1|CENTRUM
+16|03| 5|    |NAGY TIBOR                                                  |      1349| 1|MIÉP
+16|03| 6|    |PUSZTAI JÓZSEF                                              |       886| 1|SZDSZ
+16|03| 7|    |SZÖLLÕSINÉ FITOS ÉVA                                        |       528| 1|MUNKÁSPÁRT
+16|03| 1|    |FEKETE JÓZSEF                                               |       327| 1|FÜGGETLEN KISGAZDAPÁRT
+16|04| 7|    |TÓTH ANDRÁS                                                 |      9945| 2|FIDESZ                        |MDF
+16|04| 5|DR. |SÁNDOR ELEK                                                 |      9772| 1|MSZP
+16|04| 3|DR. |HELMECZY LÁSZLÓ                                             |      4775| 1|CENTRUM
+16|04| 4|DR. |KOVÁCS JÁNOS                                                |       676| 1|FÜGGETLEN KISGAZDAPÁRT
+16|04| 8|DR. |VICEI TIBOR                                                 |       378| 1|MIÉP
+16|04| 2|    |GYIMESI ERNÕ                                                |       354| 1|SZDSZ
+16|04| 1|    |CZILL ISTVÁNNÉ                                              |       318| 1|MUNKÁSPÁRT
+16|04| 6|    |SZENDREI JÓZSEF                                             |       128| 1|SZDP
+16|05| 8|DR. |PAPCSÁK FERENC                                              |     12271| 2|FIDESZ                        |MDF
+16|05| 3|    |GAZDA LÁSZLÓ                                                |     11512| 1|MSZP
+16|05| 6|    |KISS GYULA                                                  |      1056| 1|SZDSZ
+16|05| 5|IFJ.|JUHÁSZ PÁL                                                  |       652| 1|MIÉP
+16|05| 7|DR. |MÁRTON LÁSZLÓ                                               |       596| 0|
+16|05| 2|    |CSEH LÁSZLÓ                                                 |       581| 1|FÜGGETLEN KISGAZDAPÁRT
+16|05| 4|    |HORVÁTH JÓZSEF                                              |       349| 1|MUNKÁSPÁRT
+16|05| 1|DR. |BIRTÓK MIHÁLY                                               |         0| 1|CENTRUM
+16|06| 6|DR. |SIMON MIKLÓS                                                |     11258| 2|FIDESZ                        |MDF
+16|06| 7|DR. |VERES JÁNOS                                                 |     10569| 1|MSZP
+16|06| 2|DR. |KOSSUTH LAJOS                                               |      1697| 1|MIÉP
+16|06| 1|    |FODOR ZSOLT                                                 |      1060| 1|SZDSZ
+16|06| 5|    |PETRÓCZKI FERENC                                            |      1020| 1|CENTRUM
+16|06| 4|    |MÁRKÓ LÁSZLÓ                                                |       633| 1|FÜGGETLEN KISGAZDAPÁRT
+16|06| 3|    |KOZMA JÁNOS                                                 |       190| 1|KISGAZDAPÁRT
+16|07| 1|    |BAJOR TIBOR                                                 |     11180| 2|MSZP                          |MSZDP
+16|07| 3|    |BORKÓ KÁROLY                                                |     11026| 2|FIDESZ                        |MDF
+16|07| 8|DR. |NAGY MÁRIA                                                  |      2984| 1|SZDSZ
+16|07| 5|    |GUBIK TIBOR                                                 |      1156| 1|CENTRUM
+16|07| 2|    |BODROG LÁSZLÓ                                               |       869| 1|MIÉP
+16|07| 7|    |KOVÁCS LAJOS                                                |       617| 0|
+16|07| 9|    |SZILÁGYI SÁNDOR                                             |       445| 1|MUNKÁSPÁRT
+16|07| 6|    |HARCSA IRÉN                                                 |       408| 1|FÜGGETLEN KISGAZDAPÁRT
+16|07|10|    |VARGA ZOLTÁN                                                |       208| 1|MRP
+16|07| 4|    |ÉLES ANDRÁS                                                 |        75| 1|ÚJ BALOLDAL
+16|08| 1|    |BALOGH GYULA                                                |     13203| 2|FIDESZ                        |MDF
+16|08| 5|DR. |KISS GÁBOR                                                  |      7773| 2|MSZP                          |MSZDP
+16|08| 3|    |IVÁNYI TAMÁS                                                |      1878| 1|SZDSZ
+16|08| 2|DR. |HEGEDÜS CSABA                                               |      1736| 1|CENTRUM
+16|08| 6|    |OROSZ JÁNOS                                                 |       961| 1|MIÉP
+16|08| 7|    |VARGA IMRE                                                  |       429| 1|MUNKÁSPÁRT
+16|08| 4|DR. |KÁVÁSSY SÁNDOR                                              |       314| 1|FÜGGETLEN KISGAZDAPÁRT
+16|09| 2|    |FÜLÖP ISTVÁN                                                |     11002| 2|FIDESZ                        |MDF
+16|09| 4|    |KERTÉSZ ISTVÁN                                              |     10326| 2|MSZP                          |MSZDP
+16|09|10|DR. |TORGYÁN JÓZSEF                                              |      2146| 1|FÜGGETLEN KISGAZDAPÁRT
+16|09| 3|    |HORVÁTH LÁSZLÓ                                              |       896| 1|MIÉP
+16|09| 5|DR. |KÓRÓDI FERENC                                               |       777| 1|SZDSZ
+16|09| 6|    |KOVÁCS CSABA                                                |       661| 1|CENTRUM
+16|09| 1|    |FARKAS SÁNDOR                                               |       381| 1|MRP
+16|09| 8|    |MAJOROS GYULA                                               |       277| 0|
+16|09| 9|    |SUSZTÉ LÁSZLÓ                                               |       274| 1|KISGAZDAPÁRT
+16|09| 7|    |LAKATOS JÓZSEF                                              |       250| 1|MUNKÁSPÁRT
+16|10| 3|DR. |KAPOLYI LÁSZLÓ                                              |     12182| 2|MSZP                          |MSZDP
+16|10| 5|    |LENGYEL JÁNOS                                               |     11034| 2|FIDESZ                        |MDF
+16|10| 1|    |FEKETE EDIT                                                 |       704| 1|MIÉP
+16|10| 7|    |TISZA JÁNOS                                                 |       682| 1|FÜGGETLEN KISGAZDAPÁRT
+16|10| 2|    |GALVÁCS MIKLÓS                                              |       481| 1|MUNKÁSPÁRT
+16|10| 4|    |KISS DEZSÕ                                                  |       328| 1|SZDSZ
+16|10| 6|    |RASKA ISTVÁN                                                |       228| 1|CENTRUM
+17|01| 5|    |HALMAI GÁBORNÉ                                              |     13167| 1|MSZP
+17|01| 3|DR. |BRAUN MÁRTON                                                |     13044| 2|FIDESZ                        |MDF
+17|01| 6|    |KOCSIS IMRE ANTAL                                           |      5841| 1|SZDSZ
+17|01| 9|DR. |TÓTH CSABA                                                  |      1745| 1|MIÉP
+17|01| 8|    |SZÕKE ISTVÁN                                                |       875| 1|CENTRUM
+17|01| 2|    |BORBÁS TAMÁS                                                |       721| 0|
+17|01| 1|    |BOGNÁR CECIL                                                |       676| 0|
+17|01| 4|    |BUDA PÉTERNÉ                                                |       501| 1|MUNKÁSPÁRT
+17|01| 7|    |PÁLINKÁS ISTVÁN                                             |       287| 1|FÜGGETLEN KISGAZDAPÁRT
+17|02| 6|    |SZABÓ JÓZSEF                                                |     13289| 1|MSZP
+17|02| 7|    |TÓTH FERENC                                                 |     12898| 2|FIDESZ                        |MDF
+17|02| 3|DR. |NEMES ÁRPÁD                                                 |      1563| 1|MIÉP
+17|02| 2|    |HARASZTI ISTVÁNNÉ                                           |      1139| 1|SZDSZ
+17|02| 8|    |VAJNAI ATTILA                                               |       802| 1|MUNKÁSPÁRT
+17|02| 5|    |STOCKER ANTAL                                               |       718| 1|CENTRUM
+17|02| 4|    |PFUJD LÁSZLÓ                                                |       282| 1|FÜGGETLEN KISGAZDAPÁRT
+17|02| 1|    |ELEK LÁSZLÓ                                                 |       128| 1|ZÖLDEK
+17|03| 6|    |POTÁPI ÁRPÁD                                                |     13115| 2|FIDESZ                        |MDF
+17|03| 3|DR. |KARL IMRE                                                   |      9567| 1|MSZP
+17|03| 2|    |BOLBACH JÁNOS                                               |      1149| 1|SZDSZ
+17|03| 4|DR. |KRETZ ISTVÁN                                                |       870| 1|CENTRUM
+17|03| 5|DR. |MARÓTHY GÉZA                                                |       845| 1|MIÉP
+17|03| 1|    |BÓKÁNÉ KOLLER MARGIT                                        |       549| 1|MUNKÁSPÁRT
+17|03| 7|    |SZINTAI LÁSZLÓ                                              |       303| 1|FÜGGETLEN KISGAZDAPÁRT
+17|04| 7|    |TÓTH GYULA                                                  |      7958| 1|MSZP
+17|04| 1|    |FEHÉRVÁRI TAMÁS                                             |      7366| 2|FIDESZ                        |MDF
+17|04| 5|DR. |SZÉKELY ATTILA                                              |      1198| 1|SZDSZ
+17|04| 4|    |MARKOVITS GÉZA                                              |       766| 0|
+17|04| 2|DR. |KISS ALBERT                                                 |       590| 1|MIÉP
+17|04| 8|    |TUSNOVITS JENÕ                                              |       523| 1|MUNKÁSPÁRT
+17|04| 6|    |SZÕKE GÉZA                                                  |       375| 1|CENTRUM
+17|04| 3|    |KOCSIS IMRE                                                 |       189| 1|FÜGGETLEN KISGAZDAPÁRT
+17|05| 3|DR. |DÁVID IBOLYA                                                |      9972| 2|FIDESZ                        |MDF
+17|05| 4|    |FRANKNÉ DR. KOVÁCS SZILVIA                                  |      8610| 1|MSZP
+17|05| 6|    |KOPPÁNNÉ DR. KERTÉSZ MARGIT                                 |      1301| 1|MIÉP
+17|05| 1|DR. |ALBECK ZOLTÁN                                               |       689| 1|SZDSZ
+17|05| 2|    |BÉRES JÁNOS                                                 |       644| 1|MUNKÁSPÁRT
+17|05| 5|    |KINCSES IMRE                                                |       316| 0|
+17|05| 7|    |WILHELM FERENC                                              |       201| 1|FÜGGETLEN KISGAZDAPÁRT
+18|01| 3|DR. |HANKÓ FARAGÓ MIKLÓS                                         |     15772| 2|SZDSZ                         |MSZP
+18|01| 2|DR. |GYIMESI JÓZSEF                                              |     13881| 2|FIDESZ                        |MDF
+18|01| 1|DR. |BAKAY KORNÉL                                                |      1325| 1|MIÉP
+18|02| 4|    |SÁGI JÓZSEF                                                 |     14026| 2|FIDESZ                        |MDF
+18|02| 6|    |SZÜCS GÁBOR                                                 |     12120| 2|MSZP                          |SZDSZ
+18|02| 5|DR. |SZÉP FLÓRIÁN                                                |      1900| 1|CENTRUM
+18|02| 2|DR. |BUNYEVÁCZ ZSUZSA                                            |      1604| 1|MIÉP
+18|02| 1|    |BOROS OTTÓ                                                  |       526| 1|MUNKÁSPÁRT
+18|02| 3|DR. |KUNHEGYI JÓZSEF                                             |       139| 1|REFORM KISGAZDAPÁRT
+18|03| 1|    |BÁSTHY TAMÁS                                                |     17921| 2|FIDESZ                        |MDF
+18|03| 8|    |SIMON JÓZSEF                                                |      8799| 1|MSZP
+18|03| 5|    |HORVÁTH VILMOS                                              |      1720| 1|SZDSZ
+18|03| 7|    |MAYER BERTALAN                                              |       962| 1|CENTRUM
+18|03| 4|    |HERSICS ATTILA                                              |       933| 1|MIÉP
+18|03| 2|    |DANKA LAJOS                                                 |       571| 1|FÜGGETLEN KISGAZDAPÁRT
+18|03| 6|    |KOVÁCS ATTILA                                               |       369| 1|MUNKÁSPÁRT
+18|03| 3|DR. |GRICS EDVÁRD                                                |       146| 1|REFORM KISGAZDAPÁRT
+18|04| 4|    |KOVÁCS FERENC                                               |     15486| 2|FIDESZ                        |MDF
+18|04| 8|    |SZABÓ LAJOS                                                 |     11885| 1|MSZP
+18|04| 2|    |DÖME LÁSZLÓ                                                 |      1569| 1|MIÉP
+18|04| 5|    |KOVÁCS KÁROLY                                               |      1180| 1|FÜGGETLEN KISGAZDAPÁRT
+18|04| 7|DR. |SZABÓ ISTVÁN                                                |      1025| 1|SZDSZ
+18|04| 6|IFJ.|RÁTZ OTTÓ                                                   |       464| 1|CENTRUM
+18|04| 3|    |KARVALICS IMRE                                              |       439| 1|MUNKÁSPÁRT
+18|04| 9|    |TARCZI ISTVÁN                                               |       184| 1|ÖSSZEFOGÁS A FENNMARADÁSÉRT
+18|04| 1|    |BÖCSKEI FERENC                                              |        87| 1|REFORM KISGAZDAPÁRT
+18|05| 3|    |NÉMETH ZSOLT                                                |     19702| 2|FIDESZ                        |MDF
+18|05| 4|DR. |PUSZTAI GYULA                                               |      8236| 1|MSZP
+18|05| 5|    |SÜTÕ KÁLMÁN                                                 |      1528| 1|CENTRUM
+18|05| 2|    |MÉSZÁROS BÉLA                                               |      1306| 1|SZDSZ
+18|05| 6|    |SZABADI ISTVÁN                                              |      1186| 1|MIÉP
+18|05| 1|    |DAKÓ ERNÕ                                                   |       392| 1|FÜGGETLEN KISGAZDAPÁRT
+19|01| 2|    |ÉKES JÓZSEF                                                 |     13695| 2|FIDESZ                        |MDF
+19|01| 7|    |SCHWARTZ BÉLA                                               |     13314| 1|MSZP
+19|01| 6|    |MÁDAI PÉTER                                                 |      3286| 1|SZDSZ
+19|01| 8|    |SZALAINÉ FÁBIÁN PIROSKA                                     |       976| 1|MIÉP
+19|01| 4|    |GUNICS SÁNDOR                                               |       550| 1|CENTRUM
+19|01| 3|    |GRÕBER JÓZSEF                                               |       279| 1|KISGAZDAPÁRT
+19|01| 5|    |KÓROSI TIBOR                                                |       136| 1|FÜGGETLEN KISGAZDAPÁRT
+19|01| 1|    |CSÁNYI PÁL                                                  |       128| 1|ÚJ BALOLDAL
+19|02| 1|DR. |BÓKA ISTVÁN                                                 |     14904| 2|FIDESZ                        |MDF
+19|02| 3|    |NAGY JENÕ                                                   |     10618| 1|MSZP
+19|02| 6|DR. |VARJÚ LAJOS                                                 |      1522| 1|CENTRUM
+19|02| 2|    |KENÉZ MIHÁLY                                                |      1283| 1|SZDSZ
+19|02| 4|DR. |SOMOGYI FERENC                                              |      1111| 1|MIÉP
+19|02| 5|    |SZÉLESI IMRE                                                |       343| 1|MUNKÁSPÁRT
+19|03| 4|DR. |KOVÁCS ZOLTÁN                                               |     21869| 2|FIDESZ                        |MDF
+19|03| 1|    |GÕGÖS ZOLTÁN                                                |      9973| 1|MSZP
+19|03| 7|    |SZABADI JÁNOS                                               |       974| 1|CENTRUM
+19|03| 5|DR. |LUKÁCS ATTILA MIHÁLY                                        |       949| 1|MIÉP
+19|03| 6|    |PÓCSIK ÁRPÁD                                                |       767| 1|SZDSZ
+19|03| 3|    |JÓZSA PÁL                                                   |       633| 1|MUNKÁSPÁRT
+19|03| 2|    |HARANGOZÓ ZSIGMOND                                          |       340| 1|FÜGGETLEN KISGAZDAPÁRT
+19|03| 8|    |VARGA ZOLTÁN                                                |       131| 1|ÚJ BALOLDAL
+19|04| 2|    |LASZTOVICZA JENÕ                                            |     17089| 2|FIDESZ                        |MDF
+19|04| 5|    |SIBAK ANDRÁS                                                |      9266| 1|MSZP
+19|04| 3|DR. |MIHOVICS ISTVÁN                                             |      1257| 1|CENTRUM
+19|04| 4|    |RÁTOSI FERENC                                               |      1220| 1|FÜGGETLEN KISGAZDAPÁRT
+19|04| 7|    |VÁMOS GYÖRGY                                                |      1092| 1|MIÉP
+19|04| 1|    |BOGDÁN TAMÁS                                                |       907| 1|SZDSZ
+19|04| 6|    |STRICZ LAJOSNÉ                                              |       665| 1|MUNKÁSPÁRT
+19|05| 2|    |GYAPAY ZOLTÁN                                               |     13119| 2|FIDESZ                        |MDF
+19|05| 7|    |TÖRZSÖK KÁROLYNÉ DR                                         |     12761| 1|MSZP
+19|05| 1|    |BAKY GYÖRGY                                                 |      3264| 1|SZDSZ
+19|05| 6|    |SIMON MIHÁLY                                                |      1883| 1|CENTRUM
+19|05| 4|    |KOVÁCS ATTILA                                               |      1074| 1|MIÉP
+19|05| 3|    |HORVÁTH LÁSZLÓ                                              |       854| 1|MUNKÁSPÁRT
+19|05| 5|    |MÉREG JÓZSEF                                                |       173| 1|KISGAZDAPÁRT
+19|06| 3|DR. |HORVÁTH BALÁZS                                              |     10412| 2|FIDESZ                        |MDF
+19|06| 6|    |MAZÁK GYÖRGY                                                |      6638| 1|MSZP
+19|06| 7|DR. |SZALAY ANDRÁS                                               |      1667| 1|SZDSZ
+19|06| 2|    |ÉLLÕ GYÖRGY                                                 |       829| 1|CENTRUM
+19|06| 1|    |BIKÁDI LÁSZLÓ                                               |       651| 1|MIÉP
+19|06| 4|    |KELEMEN GÁBOR                                               |       271| 1|MUNKÁSPÁRT
+19|06| 5|    |LEPSÉNYI ANDRÁS                                             |       106| 1|FÜGGETLEN KISGAZDAPÁRT
+19|07| 8|    |PÁL BÉLA                                                    |     12263| 1|MSZP
+19|07| 1|    |BERNÁTH ILDIKÓ                                              |     11156| 2|FIDESZ                        |MDF
+19|07| 2|    |DIÓSSY LÁSZLÓ                                               |      2788| 1|SZDSZ
+19|07| 7|    |MIHÁLOVICS LÁSZLÓ                                           |      1498| 1|CENTRUM
+19|07| 6|    |MAKSAI IZABELLA                                             |       725| 1|MIÉP
+19|07| 5|    |HORVÁTH ISTVÁN                                              |       471| 1|MUNKÁSPÁRT
+19|07| 4|DR. |GÉMES GYÖRGY JÁNOS                                          |       254| 1|ZÖLDEK
+19|07| 3|DR. |FRANCIA FERENC                                              |       213| 1|FÜGGETLEN KISGAZDAPÁRT
+20|01| 4|DR. |GYIMESI ENDRE JÓZSEF                                        |     17600| 2|FIDESZ                        |MDF
+20|01| 7|    |VARGA LÁSZLÓ                                                |     14946| 1|MSZP
+20|01| 2|    |BÚZ FERENC                                                  |      1341| 1|SZDSZ
+20|01| 1|    |BORBÉLY GYULA                                               |      1205| 1|CENTRUM
+20|01| 6|DR. |JILLING ÁDÁM                                                |      1174| 1|MIÉP
+20|01| 5|    |HORVÁTH IMRÉNÉ                                              |       528| 1|MUNKÁSPÁRT
+20|01| 3|    |CZOMA KÁLMÁN                                                |       183| 1|FÜGGETLEN KISGAZDAPÁRT
+20|02| 4|    |GÖNDÖR ISTVÁN                                               |     14339| 1|MSZP
+20|02| 1|    |CSERESNYÉS PÉTER                                            |     12463| 2|FIDESZ                        |MDF
+20|02| 5|    |KOVÁCS KÁLMÁN                                               |      3436| 1|SZDSZ
+20|02| 8|    |ZAKÓ LÁSZLÓ                                                 |      2682| 1|MIÉP
+20|02| 2|    |DUBB JÓZSEFNÉ                                               |       711| 1|MUNKÁSPÁRT
+20|02| 6|    |MÉSZÁROS JÓZSEF JENÕ                                        |       205| 1|FÜGGETLEN KISGAZDAPÁRT
+20|02| 3|    |FENYVES JENÕ                                                |       151| 1|ÚJ BALOLDAL
+20|02| 7|    |PÓCZA ATTILA ISTVÁN                                         |        57| 1|REFORM KISGAZDAPÁRT
+20|03| 3|    |MANNINGER JENÕ VILMOS                                       |     16038| 2|FIDESZ                        |MDF
+20|03| 6|    |VEÉR MIKLÓS                                                 |     12180| 1|MSZP
+20|03| 1|    |FARKAS LAJOS                                                |      1654| 1|MIÉP
+20|03| 5|    |TAR FERENC                                                  |      1577| 1|SZDSZ
+20|03| 4|    |MOLNÁR IMRE                                                 |       736| 1|FÜGGETLEN KISGAZDAPÁRT
+20|03| 2|    |KRISTÓF JÓZSEF                                              |       502| 1|MUNKÁSPÁRT
+20|04| 4|    |NÓGRÁDI LÁSZLÓ                                              |     17143| 2|FIDESZ                        |MDF
+20|04| 3|    |KOLLÁR GYULA                                                |      9111| 1|MSZP
+20|04| 6|    |TISLÉR ISTVÁN                                               |      2082| 1|SZDSZ
+20|04| 2|    |GYURKÓ ANTAL MÁRTON                                         |       826| 1|MIÉP
+20|04| 5|    |PINTÉR LÁSZLÓ                                               |       787| 1|FÜGGETLEN KISGAZDAPÁRT
+20|04| 1|DR. |BARTÓK TIVADAR                                              |       739| 1|CENTRUM
+20|05| 2|DR. |BOROS IMRE                                                  |     20357| 2|FIDESZ                        |MDF
+20|05| 1|DR. |BALOGH MIKLÓS                                               |      9536| 1|MSZP
+20|05| 6|DR. |SZIGETHY ISTVÁN LÁSZLÓ                                      |      1253| 1|SZDSZ
+20|05| 5|    |PERTLNÉ ZANATI ÉVA                                          |       960| 1|CENTRUM
+20|05| 4|    |KERÉKGYÁRTÓ LÁSZLÓ                                          |       926| 1|MIÉP
+20|05| 3|    |CSISZÁR LÁSZLÓ                                              |       389| 1|FÜGGETLEN KISGAZDAPÁRT

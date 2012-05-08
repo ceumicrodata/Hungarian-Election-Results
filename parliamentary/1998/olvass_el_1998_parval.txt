@@ -1,0 +1,157 @@
+1998. évi országgyûlési választások szavazóköri jegyzõkönyv adatai
+------------------------------------------------------------------
+
+A jegyzõkönyvek "fej" adatai egységes szerkezetben találhatók,
+választásonként az 1.,2. forduló, egyéni és listás választás 
+egy állományban. 
+
+Szavazóköri "fej" adatokat tartalmazó állomány neve: szkf.txt
+                                                     ********
+Szerkezete:
+   TIPUS     CHAR(6)     -- Választás típus (egyéni/listás)
+   FORD      CHAR(1)     -- Választási forduló száma
+   MAZ       CHAR(2)     -- Megye azonosító
+   TAZ       CHAR(3)     -- Település azonosító
+   SORSZ     CHAR(3)     -- Szavazókör sorszáma településen belül
+   MNEV      CHAR(25)    -- Megyenév
+   TELEP     CHAR(27)    -- Településnév
+   OEVK      CHAR(2)     -- OEVK sorszáma megyén belül
+   A         NUMBER(7)   -- Jegyzõkönyv 'A' mezõ
+                            Elõzõ nap 16 óráig a névjegyzékbe 
+                            felvett választópolgárok száma
+   B         NUMBER(7)   -- Jegyzõkönyv 'B' mezõ
+                            A szavazás napján a névjegyzékbe 
+                            felvett választópolgárok száma
+   C         NUMBER(7)   -- Jegyzõkönyv 'C' mezõ
+                            A szavazás napján a névjegyzékbõl 
+                            törölt választópolgárok száma
+   D         NUMBER(7)   -- Jegyzõkönyv 'D' mezõ
+                            Vál.polgárok száma a névjegyzékben 
+                            a választás befejezésekor
+   F         NUMBER(7)   -- Jegyzõkönyv 'F' mezõ 
+                            Szavazóként megjelentek száma
+   G         NUMBER(7)   -- Jegyzõkönyv 'G' mezõ
+                            Urnában lévõ szavazólapok száma
+   H         NUMBER(8)   -- Jegyzõkönyv 'H' mezõ
+                            Eltérés a szavazók számától (G-F, többlet +, hiány -)
+   I         NUMBER(7)   -- Jegyzõkönyv 'I' mezõ
+                            Érvénytelen szavazatok száma
+   J         NUMBER(7)   -- Jegyzõkönyv 'J' mezõ
+                            Érvényes szavazatok száma
+  
+A jegyzõkönyvek "tétel" adatai egyéni és listás választás esetén 
+eltérõ szerkezetben találhatók, míg az 1.,2. forduló adatai egy állományban.   
+  
+Szavazóköri "tétel" adatokat tartalmazó állomány neve egyéni választás esetén: egy_szkt.txt
+                                                                               ************
+Szerkezete:
+   FORD      CHAR(1)     -- Választási forduló száma
+   MAZ       CHAR(2)     -- Megye azonosító
+   TAZ       CHAR(3)     -- Település azonosító
+   SORSZ     CHAR(3)     -- Szavazókör sorszáma településen belül
+   SOR       CHAR(3)     -- Jelölt sorszáma
+   NEVDR     CHAR(4)     -- Név jelzõ (pl. Dr. Ifj. Özv. stb. )
+   NEV       CHAR(60)    -- Jelölt neve
+   SZAV      NUMBER(7)   -- Kapott érvényes szavazat
+   TAMSZ     CHAR(30)    -- Támogató pártok neve
+
+Szavazóköri "tétel" adatokat tartalmazó állomány neve listás választás esetén: lis_szkt.txt
+                                                                               ************ 
+Szerkezete:
+   FORD      CHAR(1)     -- Választási forduló száma
+   MAZ       CHAR(2)     -- Megye azonosító
+   TAZ       CHAR(3)     -- Település azonosító
+   SORSZ     CHAR(3)     -- Szavazókör sorszáma településen belül
+   SOR       CHAR(3)     -- Lista sorszáma
+   LISTA     CHAR(30)    -- Lista neve
+   SZAV      NUMBER(7)   -- Kapott érvényes szavazat
+
+
+Egyéni választókerületi választás OEVK eredmény "Fej" adatok : evkfej.txt
+							       **********	
+Szerkezete:
+   FORD      CHAR(1)     -- Választási forduló száma
+   MAZ       CHAR(2)     -- Megye azonosító
+   MNEV      CHAR(10)    -- Megye rövid neve
+   OEVK      CHAR(2)     -- OEVK sorszáma megyén belül
+   A         NUMBER(8)   -- Jegyzõkönyv 'A' mezõ
+                            Elõzõ nap 16 óráig a névjegyzékbe 
+                            felvett választópolgárok száma
+   B         NUMBER(8)   -- Jegyzõkönyv 'B' mezõ
+                            A szavazás napján a névjegyzékbe 
+                            felvett választópolgárok száma
+   C         NUMBER(8)   -- Jegyzõkönyv 'C' mezõ
+                            A szavazás napján a névjegyzékbõl 
+                            törölt választópolgárok száma
+   D         NUMBER(8)   -- Jegyzõkönyv 'D' mezõ
+                            Vál.polgárok száma a névjegyzékben 
+                            a választás befejezésekor
+   F         NUMBER(8)   -- Jegyzõkönyv 'F' mezõ 
+                            Szavazóként megjelentek száma
+   G         NUMBER(8)   -- Jegyzõkönyv 'G' mezõ
+                            Urnában lévõ szavazólapok száma
+   H         NUMBER(8)   -- Jegyzõkönyv 'H' mezõ
+                            Eltérés a szavazók számától (G-F, többlet +, hiány -)
+   I         NUMBER(8)   -- Jegyzõkönyv 'I' mezõ
+                            Érvénytelen szavazatok száma
+   J         NUMBER(8)   -- Jegyzõkönyv 'J' mezõ
+                            Érvényes szavazatok száma
+
+Egyéni választókerületi választás OEVK eredmény "Tétel" adatok: evktet.txt
+								**********
+Szerkezete:
+   FORD      CHAR(1)     -- Választási forduló száma
+   MAZ       CHAR(2)     -- Megye azonosító
+   MNEV      CHAR(10)    -- Megye rövid neve
+   OEVK      CHAR(2)     -- OEVK sorszáma megyén belül
+   SOR       CHAR(2)     -- Lista sorszáma
+   NEVDR     CHAR(4)     -- Név jelzõ (pl. Dr. Ifj. Özv. stb. )
+   NEV       CHAR(36)    -- Jelölt neve
+   SZAV      NUMBER(8)   -- Kapott érvényes szavazat
+   TAMSZ     CHAR(74)    -- Támogató pártok neve
+
+
+Területi  választókerületi választás eredmény "Fej" adatok: terfej.txt
+							    **********
+							    
+Szerkezete:
+   FORD      CHAR(1)     -- Választási forduló száma
+   MAZ       CHAR(2)     -- Megye azonosító
+   MNEV      CHAR(10)    -- Megye rövid neve
+   A         NUMBER(8)   -- Jegyzõkönyv 'A' mezõ
+                            Elõzõ nap 16 óráig a névjegyzékbe 
+                            felvett választópolgárok száma
+   B         NUMBER(8)   -- Jegyzõkönyv 'B' mezõ
+                            A szavazás napján a névjegyzékbe 
+                            felvett választópolgárok száma
+   C         NUMBER(8)   -- Jegyzõkönyv 'C' mezõ
+                            A szavazás napján a névjegyzékbõl 
+                            törölt választópolgárok száma
+   D         NUMBER(8)   -- Jegyzõkönyv 'D' mezõ
+                            Vál.polgárok száma a névjegyzékben 
+                            a választás befejezésekor
+   F         NUMBER(8)   -- Jegyzõkönyv 'F' mezõ 
+                            Szavazóként megjelentek száma
+   G         NUMBER(8)   -- Jegyzõkönyv 'G' mezõ
+                            Urnában lévõ szavazólapok száma
+   H         NUMBER(8)   -- Jegyzõkönyv 'H' mezõ
+                            Eltérés a szavazók számától (G-F, többlet +, hiány -)
+   I         NUMBER(8)   -- Jegyzõkönyv 'I' mezõ
+                            Érvénytelen szavazatok száma
+   J         NUMBER(8)   -- Jegyzõkönyv 'J' mezõ
+                            Érvényes szavazatok száma
+
+Területi  választókerületi választás eredmény "Tétel" adatok: tertet.txt
+							      **********
+
+Szerkezete:
+   FORD      CHAR(1)     -- Választási forduló száma
+   MAZ       CHAR(2)     -- Megye azonosító
+   MNEV      CHAR(10)    -- Megye rövid neve
+   SOR       CHAR(2)     -- Lista sorszáma
+   LISTA     CHAR(30)    -- Lista neve
+   SZAV      NUMBER(8)   -- Kapott érvényes szavazat
+
+
+
+

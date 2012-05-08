@@ -1,0 +1,245 @@
+01|01| 1|Dr.|Kóka                                              |János                                   |0015379|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+01|01| 4|Dr.|Nagy                                              |Gábor Tamás                             |0016880|02|FIDESZ,KDNP                                                 
+01|01| 5|Dr.|Vaskor                                            |László                                  |0000762|01|MDF                                                         
+01|02| 3|Dr.|Balsai                                            |István                                  |0020986|02|FIDESZ,KDNP                                                 
+01|02| 4|   |Horváth                                           |Csaba                                   |0019178|01|MSZP                                                        
+01|03| 2|   |Menczer                                           |Erzsébet                                |0012633|02|FIDESZ,KDNP                                                 
+01|03| 3|Dr.|Orosz                                             |Sándor                                  |0019390|01|MSZP                                                        
+01|04| 2|   |Bús                                               |Balázs                                  |0016806|02|FIDESZ,KDNP                                                 
+01|04| 3|   |Donáth                                            |László                                  |0023760|01|MSZP                                                        
+01|07| 2|Dr.|Petõ                                              |Iván                                    |0012828|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+01|07| 3|   |Rogán                                             |Antal                                   |0010470|02|FIDESZ,KDNP                                                 
+01|08| 4|Dr.|Illés                                             |Zoltán                                  |0009546|02|FIDESZ,KDNP                                                 
+01|08| 5|Dr.|Kékesi                                            |Tibor                                   |0011772|01|MSZP                                                        
+01|09| 1|   |Filló                                             |Pál                                     |0012650|01|MSZP                                                        
+01|09| 2|Dr.|Kecskés                                           |Gusztáv                                 |0008600|02|FIDESZ,KDNP                                                 
+01|10| 1|Dr.|Fónagy                                            |János                                   |0008153|02|FIDESZ,KDNP                                                 
+01|10| 3|Dr.|Szabó                                             |Zoltán                                  |0010924|01|MSZP                                                        
+01|11| 2|   |Beke                                              |Pál                                     |0009053|02|FIDESZ,KDNP                                                 
+01|11| 5|   |Hárs                                              |Gábor                                   |0013368|01|MSZP                                                        
+01|12| 1|Dr.|Gegesy                                            |Ferenc                                  |0010981|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+01|12| 5|   |Zombory                                           |Miklós                                  |0008592|02|FIDESZ,KDNP                                                 
+01|15| 2|   |Deák                                              |András                                  |0013066|02|FIDESZ,KDNP                                                 
+01|15| 6|   |Szabó                                             |Vilmos                                  |0011883|01|MSZP                                                        
+01|16| 3|   |Kristóf                                           |József                                  |0012391|02|FIDESZ,KDNP                                                 
+01|16| 4|   |Molnár                                            |Gyula                                   |0017565|01|MSZP                                                        
+01|17| 2|Dr.|Józsa                                             |István                                  |0014019|01|MSZP                                                        
+01|17| 3|Dr.|Kupper                                            |András                                  |0012786|02|FIDESZ,KDNP                                                 
+01|18| 1|   |Hagyó                                             |Miklós                                  |0017384|01|MSZP                                                        
+01|18| 3|   |Pokorni                                           |Zoltán                                  |0020971|02|FIDESZ,KDNP                                                 
+01|19| 2|Dr.|Kosztolányi                                       |Dénes                                   |0008283|02|FIDESZ,KDNP                                                 
+01|19| 4|Dr.|Szanyi                                            |Tibor                                   |0017766|01|MSZP                                                        
+01|21| 1|Dr.|Baráth                                            |Etele                                   |0018192|01|MSZP                                                        
+01|21| 3|   |Rátonyi                                           |Gábor                                   |0013768|02|FIDESZ,KDNP                                                 
+01|22| 2|Dr.|Csiha                                             |Judit                                   |0021417|01|MSZP                                                        
+01|22| 4|   |Kulcsár                                           |József                                  |0012517|02|FIDESZ,KDNP                                                 
+01|24| 3|   |Tirts                                             |Tamás                                   |0018770|02|FIDESZ,KDNP                                                 
+01|24| 4|Dr.|Vidorné Dr. Szabó                                 |Györgyi                                 |0022520|01|MSZP                                                        
+01|25| 1|   |Alexa                                             |György                                  |0026048|01|MSZP                                                        
+01|25| 7|   |Riz                                               |Levente                                 |0018641|02|FIDESZ,KDNP                                                 
+01|32| 2|   |Lendvai                                           |Ildikó                                  |0016600|01|MSZP                                                        
+01|32| 3|   |Németh                                            |Zoltán                                  |0013622|02|FIDESZ,KDNP                                                 
+02|01| 2|   |Bókay                                             |Endre                                   |0018690|01|MSZP                                                        
+02|01| 5|Dr.|Páva                                              |Zsolt                                   |0013650|02|FIDESZ,KDNP                                                 
+02|05| 3|Dr.|Hargitai                                          |János                                   |0018003|02|FIDESZ,KDNP                                                 
+02|05| 5|Dr.|Nyul                                              |István                                  |0014251|01|MSZP                                                        
+02|06| 4|   |Kékkõi                                            |Zoltán József                           |0013545|02|FIDESZ,KDNP                                                 
+02|06| 5|   |Kocsi                                             |László                                  |0014369|01|MSZP                                                        
+02|07| 2|   |Paizs                                             |József                                  |0012767|01|MSZP                                                        
+02|07| 4|   |Pichler                                           |Imre                                    |0009712|02|FIDESZ,KDNP                                                 
+03|01| 1|Dr.|Balogh                                            |László                                  |0014922|02|MSZP,SZDSZ-A MAGYAR LIBERÁLIS PÁRT                          
+03|01| 2|   |Gavaldi                                           |István                                  |0000918|01|MDF                                                         
+03|01| 4|   |Nyitray                                           |András                                  |0015769|02|FIDESZ,KDNP                                                 
+03|02| 1|Dr.|Györfi                                            |Attila Gábor                            |0000647|01|MDF                                                         
+03|02| 2|Dr.|Horváth                                           |Zsolt                                   |0011356|02|FIDESZ,KDNP                                                 
+03|02| 3|Dr.|Szécsi                                            |Gábor                                   |0011162|02|SZDSZ-A MAGYAR LIBERÁLIS PÁRT,MSZP                          
+03|05| 2|   |Endre                                             |Sándor                                  |0011922|02|FIDESZ,KDNP                                                 
+03|05| 4|Dr.|Garai                                             |István Levente                          |0011996|01|MSZP                                                        
+03|07| 1|   |Alföldi                                           |Albert                                  |0013531|01|MSZP                                                        
+03|07| 4|Dr.|Semjén                                            |Zsolt                                   |0014887|02|FIDESZ,KDNP                                                 
+03|08| 4|Dr.|Szabó                                             |Erika                                   |0012357|02|FIDESZ,KDNP                                                 
+03|08| 6|   |Váradi                                            |Krisztián                               |0011652|01|MSZP                                                        
+03|09| 8|   |Széll                                             |Péter                                   |0014322|01|MSZP                                                        
+03|09| 9|   |Zsigó                                             |Róbert                                  |0016184|02|FIDESZ,KDNP                                                 
+03|10| 1|   |Bányai                                            |Gábor                                   |0011733|02|FIDESZ,KDNP                                                 
+03|10| 3|   |Karsai                                            |Péter                                   |0000653|01|MDF                                                         
+03|10| 4|   |Márfai                                            |Péter                                   |0010385|01|MSZP                                                        
+04|01| 3|   |Molnár                                            |László                                  |0017258|01|MSZP                                                        
+04|01| 6|   |Vantara                                           |Gyula                                   |0016572|02|FIDESZ,KDNP                                                 
+04|02| 6|Dr.|Perjési                                           |Klára                                   |0015975|01|MSZP                                                        
+04|02| 9|   |Tóth                                              |Imre                                    |0014685|02|FIDESZ,KDNP                                                 
+04|03| 1|   |Erdõs                                             |Norbert                                 |0012072|02|FIDESZ,KDNP                                                 
+04|03| 4|   |Valentinyi                                        |Károly                                  |0001371|01|MDF                                                         
+04|03| 5|   |Varga                                             |Zoltán                                  |0009869|01|MSZP                                                        
+04|04| 8|   |Veress                                            |József                                  |0011974|01|MSZP                                                        
+04|04| 9|   |Vígh                                              |Ilona                                   |0010899|02|FIDESZ,KDNP                                                 
+04|06| 1|Dr.|Dancsó                                            |József                                  |0014835|02|FIDESZ,KDNP                                                 
+04|06| 3|   |Fetser                                            |János                                   |0016663|01|MSZP                                                        
+04|07| 1|Dr.|Karsai                                            |József                                  |0012918|01|MSZP                                                        
+04|07| 4|Dr.|Spiák                                             |Ibolya                                  |0010287|02|FIDESZ,KDNP                                                 
+05|08| 2|   |Gúr                                               |Nándor                                  |0011871|01|MSZP                                                        
+05|08| 3|   |Molnár                                            |Oszkár                                  |0011868|02|FIDESZ,KDNP                                                 
+05|08| 4|   |Veres                                             |Edit                                    |0000287|01|MDF                                                         
+05|10| 3|Dr.|Hõrcsik                                           |Richárd                                 |0014763|02|FIDESZ,KDNP                                                 
+05|10| 4|Dr.|Jánosdeák                                         |Gábor                                   |0000541|01|MDF                                                         
+05|10| 5|   |Vécsi                                             |István                                  |0012801|01|MSZP                                                        
+05|11| 2|   |Koncz                                             |Ferenc                                  |0013355|02|FIDESZ,KDNP                                                 
+05|11| 6|   |Szabó                                             |György                                  |0015840|01|MSZP                                                        
+06|02| 1|   |Balogh                                            |László                                  |0018736|02|FIDESZ,KDNP                                                 
+06|02| 4|Dr.|Sándor                                            |Klára                                   |0019460|02|SZDSZ-A MAGYAR LIBERÁLIS PÁRT,MSZP                          
+06|06| 2|   |Balogh                                            |Jánosné                                 |0013598|00|Független jelölt                                            
+06|06| 9|Dr.|Lázár                                             |János                                   |0016366|02|FIDESZ,KDNP                                                 
+07|02| 4|Dr.|Gógl                                              |Árpád                                   |0017568|02|FIDESZ,KDNP                                                 
+07|02| 5|   |Molnár                                            |Albert                                  |0016646|01|MSZP                                                        
+07|03| 1|Dr.|Dorkota                                           |Lajos                                   |0008828|02|FIDESZ,KDNP                                                 
+07|03| 2|Dr.|Kálmán                                            |András                                  |0016400|01|MSZP                                                        
+07|04| 2|   |Ecsõdi                                            |László                                  |0018679|01|MSZP                                                        
+07|04| 5|   |Rédli                                             |László                                  |0014492|02|FIDESZ,KDNP                                                 
+07|04| 6|   |Takács                                            |János                                   |0000973|01|MDF                                                         
+07|06| 1|   |Harasztiáné Terner                                |Irén                                    |0000645|01|MDF                                                         
+07|06| 2|   |Lengyel                                           |Zoltán                                  |0013988|02|FIDESZ,KDNP                                                 
+07|06| 4|Dr.|Szabadkai                                         |Tamás                                   |0012620|01|MSZP                                                        
+07|07| 1|Dr.|Berecz                                            |Botond                                  |0000731|01|MDF                                                         
+07|07| 3|Dr.|Kelemen                                           |András                                  |0015701|02|FIDESZ,KDNP                                                 
+07|07| 5|   |Szántó                                            |János                                   |0013510|01|MSZP                                                        
+08|02| 4|Dr.|Molnár                                            |Csaba                                   |0017099|01|MSZP                                                        
+08|02| 6|Dr.|Szakács                                           |Imre                                    |0017512|02|FIDESZ,KDNP                                                 
+08|03| 1|   |Balogh                                            |József                                  |0016832|01|MSZP                                                        
+08|03| 4|   |Szabó                                             |József                                  |0000826|01|MDF                                                         
+08|03| 5|   |Szijjártó                                         |Péter                                   |0016705|02|FIDESZ,KDNP                                                 
+08|04| 1|Dr.|Pap                                               |János                                   |0014828|02|FIDESZ,KDNP                                                 
+08|04| 5|   |Tóth                                              |Tiborné dr.                             |0017108|01|MSZP                                                        
+08|07| 1|   |FIRTL                                             |MÁTYÁS                                  |0018039|02|FIDESZ,KDNP                                                 
+08|07| 4|   |KRÁNITZ                                           |LÁSZLÓ                                  |0016217|01|MSZP                                                        
+09|04| 3|Dr.|Juhászné Lévai                                    |Katalin                                 |0013384|01|MSZP                                                        
+09|04| 5|   |Komor                                             |Sándor                                  |0000477|01|MDF                                                         
+09|04| 7|   |Tasó                                              |László                                  |0015486|02|FIDESZ,KDNP                                                 
+09|05| 4|   |Gyula                                             |Ferencné                                |0014165|01|MSZP                                                        
+09|05| 7|Dr.|Vitányi                                           |István                                  |0012856|02|FIDESZ,KDNP                                                 
+09|06| 1|   |Arnóth                                            |Sándor                                  |0012391|02|FIDESZ,KDNP                                                 
+09|06| 2|   |Csontos                                           |János                                   |0012776|01|MSZP                                                        
+09|08| 6|Dr.|Tiba                                              |István                                  |0011342|02|FIDESZ,KDNP                                                 
+09|08| 7|   |Tóth                                              |József                                  |0011873|01|MSZP                                                        
+09|09| 2|   |Kiss                                              |Attila                                  |0014069|02|FIDESZ,KDNP                                                 
+09|09| 6|Dr.|Nagy                                              |Sándor                                  |0013748|01|MSZP                                                        
+10|01| 2|   |Demeter                                           |Ervin                                   |0015898|02|FIDESZ,KDNP                                                 
+10|01| 7|Dr.|Nagy                                              |Imre                                    |0018330|01|MSZP                                                        
+10|02| 1|   |Asztalos                                          |Dezsõné                                 |0010038|02|FIDESZ,KDNP                                                 
+10|02| 5|   |Ivády                                             |Gábor                                   |0000524|01|MDF                                                         
+10|02| 6|   |Sós                                               |Tamás                                   |0012380|01|MSZP                                                        
+10|03| 4|Dr.|MAGDA                                             |SÁNDOR                                  |0019218|01|MSZP                                                        
+10|03| 7|   |TUZÁNÉ DR. TAKÁCS                                 |ZSUZSANNA                               |0013170|02|FIDESZ,KDNP                                                 
+10|06| 4|   |Herman                                            |István                                  |0009947|02|FIDESZ,KDNP                                                 
+10|06| 5|   |Korózs                                            |Lajos                                   |0012294|01|MSZP                                                        
+11|01| 2|Dr.|Gedei                                             |József                                  |0012239|01|MSZP                                                        
+11|01| 4|   |Szádvári                                          |Gábor                                   |0009145|02|FIDESZ,KDNP                                                 
+11|02| 3|   |Járvás                                            |István                                  |0008976|02|FIDESZ,KDNP                                                 
+11|02| 5|Dr.|Szekeres                                          |Imre                                    |0009707|01|MSZP                                                        
+11|03| 2|   |Botka                                             |Lajosné                                 |0016442|01|MSZP                                                        
+11|03| 5|   |Szalay                                            |Ferenc                                  |0013102|02|FIDESZ,KDNP                                                 
+11|04| 2|   |Iváncsik                                          |Imre                                    |0017532|01|MSZP                                                        
+11|04| 3|Dr.|Kovács                                            |László                                  |0011864|02|FIDESZ,KDNP                                                 
+11|07| 1|   |Fejér                                             |Andor                                   |0011265|02|FIDESZ,KDNP                                                 
+11|07| 2|   |Herbály                                           |Imre                                    |0012918|01|MSZP                                                        
+11|07| 3|   |Mezõ                                              |József                                  |0000750|01|MDF                                                         
+12|02| 2|   |Michl                                             |József                                  |0015660|02|FIDESZ,KDNP                                                 
+12|02| 4|   |Tatai-Tóth                                        |András                                  |0016419|01|MSZP                                                        
+12|04| 4|Dr.|Völner                                            |Pál                                     |0014126|02|FIDESZ,KDNP                                                 
+12|04| 5|   |Zatykó                                            |János                                   |0018143|01|MSZP                                                        
+12|05| 2|   |Meggyes                                           |Tamás                                   |0015084|02|FIDESZ,KDNP                                                 
+12|05| 3|Dr.|Tittmann                                          |János                                   |0017056|01|MSZP                                                        
+13|01| 2|   |Becsó                                             |Zsolt                                   |0011166|02|FIDESZ,KDNP                                                 
+13|01| 3|   |Boldvai                                           |László                                  |0015982|01|MSZP                                                        
+13|02| 5|   |Juhász                                            |Gábor                                   |0015803|01|MSZP                                                        
+13|02|10|   |Sisák                                             |Imre János                              |0011503|03|MDF,FIDESZ,KDNP                                             
+13|03| 1|   |Borenszki                                         |Ervin                                   |0011013|01|MSZP                                                        
+13|03| 5|Dr.|Nagy                                              |Andor                                   |0013053|02|FIDESZ,KDNP                                                 
+13|04| 1|   |Balla                                             |Mihály                                  |0015910|02|FIDESZ,KDNP                                                 
+13|04| 6|   |Lombos                                            |István                                  |0013192|01|MSZP                                                        
+14|01| 2|   |Harrach                                           |Péter                                   |0017037|02|FIDESZ,KDNP                                                 
+14|01| 3|   |Kárpáti                                           |Zsuzsa                                  |0014357|01|MSZP                                                        
+14|02| 2|Dr.|Bóth                                              |János István                            |0016081|01|MSZP                                                        
+14|02| 3|   |Imre                                              |Zsolt                                   |0013914|02|FIDESZ,KDNP                                                 
+14|03| 1|   |Erdész                                            |Zoltán                                  |0016080|02|FIDESZ,KDNP                                                 
+14|03| 3|   |Tóth                                              |András                                  |0019476|01|MSZP                                                        
+14|04| 2|   |Fogarasiné Deák                                   |Valéria Eszter                          |0021753|01|MSZP                                                        
+14|04| 3|Dr.|Gémesi                                            |György                                  |0021526|03|MDF,FIDESZ,KDNP                                             
+14|05| 3|   |Szabó                                             |Imre                                    |0012630|01|MSZP                                                        
+14|05| 4|   |Tóth                                              |Gábor                                   |0012958|02|FIDESZ,KDNP                                                 
+14|06| 2|   |Czerván                                           |György                                  |0017851|02|FIDESZ,KDNP                                                 
+14|06| 5|Dr.|Németh                                            |Imre                                    |0015821|01|MSZP                                                        
+14|07| 1|Dr.|Gál                                               |Zoltán                                  |0021430|01|MSZP                                                        
+14|07| 4|   |Pogácsás                                          |Tibor                                   |0018904|02|FIDESZ,KDNP                                                 
+14|08| 1|Dr.|Aradszki                                          |András                                  |0019699|02|FIDESZ,KDNP                                                 
+14|08| 3|Dr.|Jánosi                                            |György                                  |0025510|01|MSZP                                                        
+14|09| 1|   |Csenger-Zalán                                     |Zsolt                                   |0018209|02|FIDESZ,KDNP                                                 
+14|09| 2|   |Keller                                            |László                                  |0019184|01|MSZP                                                        
+14|10| 3|   |Gulyás                                            |Dénes                                   |0022853|02|FIDESZ,KDNP                                                 
+14|10| 4|   |Laboda                                            |Gábor                                   |0021120|01|MSZP                                                        
+14|11| 1|   |Bársony                                           |András                                  |0018478|01|MSZP                                                        
+14|11| 4|   |Hadházy                                           |Sándor                                  |0021632|02|FIDESZ,KDNP                                                 
+14|12| 2|   |Hoffman                                           |Pál                                     |0016609|02|FIDESZ,KDNP                                                 
+14|12| 4|   |Kuncze                                            |Gábor                                   |0025313|01|SZDSZ-A MAGYAR LIBERÁLIS PÁRT                               
+14|13| 2|   |Pánczél                                           |Károly                                  |0017953|02|FIDESZ,KDNP                                                 
+14|13| 5|   |Végh                                              |Tibor                                   |0020277|01|MSZP                                                        
+14|15| 1|Dr.|Czinege                                           |Imre                                    |0016434|01|MSZP                                                        
+14|15| 3|   |Földi                                             |László                                  |0016335|02|FIDESZ,KDNP                                                 
+14|16| 1|   |Barabás                                           |Ferenc                                  |0000792|01|MDF                                                         
+14|16| 2|Dr.|Czira                                             |Szabolcs                                |0012394|02|FIDESZ,KDNP                                                 
+14|16| 5|   |Tóbiás                                            |József                                  |0011230|01|MSZP                                                        
+15|02| 2|Dr.|Kolber                                            |István                                  |0016628|01|MSZP                                                        
+15|02| 6|Dr.|Szabó                                             |József Andor                            |0014397|02|FIDESZ,KDNP                                                 
+15|03| 2|Dr.|Gruber                                            |Attila                                  |0015733|02|FIDESZ,KDNP                                                 
+15|03| 5|   |Völgyi                                            |Lajos                                   |0013777|01|MSZP                                                        
+15|04| 1|   |Herényi                                           |Károly                                  |0001017|01|MDF                                                         
+15|04| 2|   |Kollmann                                          |Gergely Ferenc                          |0012346|01|MSZP                                                        
+15|04| 4|   |Móring                                            |József Attila                           |0014505|02|FIDESZ,KDNP                                                 
+15|06| 1|Dr.|Gyenesei                                          |István                                  |0013801|01|SOMOGYÉRT                                                   
+15|06| 2|   |Kuzma                                             |László                                  |0010058|02|FIDESZ,KDNP                                                 
+16|04| 1|   |Demendi                                           |László                                  |0011505|01|MSZP                                                        
+16|04| 2|   |Juhász                                            |Zoltán                                  |0002984|02|MDF,ÖSSZEFOGÁS MEGYÉNKÉRT                                   
+16|04| 7|   |Tóth                                              |András                                  |0011112|02|FIDESZ,KDNP                                                 
+16|05| 3|   |Gazda                                             |László                                  |0015881|01|MSZP                                                        
+16|05| 6|   |Papcsák                                           |Ferenc                                  |0013346|02|FIDESZ,KDNP                                                 
+16|06| 3|Dr.|Kossuth                                           |Lajos                                   |0000231|01|MIÉP-Jobbik                                                 
+16|06| 6|Dr.|Simon                                             |Miklós                                  |0013656|02|FIDESZ,KDNP                                                 
+16|06| 7|Dr.|Veres                                             |János                                   |0015110|01|MSZP                                                        
+16|07| 5|Dr.|Oláh                                              |Albert                                  |0012715|02|FIDESZ,KDNP                                                 
+16|07| 7|Dr.|Szép                                              |Béla                                    |0014307|01|MSZP                                                        
+16|09| 3|   |Fülöp                                             |István                                  |0014203|02|FIDESZ,KDNP                                                 
+16|09| 4|   |Kárpáti                                           |Tibor                                   |0012193|01|MSZP                                                        
+16|09| 5|Dr.|Szilágyi                                          |Dénes                                   |0000449|01|MDF                                                         
+16|10| 1|   |Aranyosi                                          |László                                  |0011509|01|MSZP                                                        
+16|10| 3|   |Erdõs                                             |Tamás                                   |0000656|02|MDF,ÖSSZEFOGÁS MEGYÉNKÉRT                                   
+16|10| 7|Dr.|Tilki                                             |Attila                                  |0012957|02|FIDESZ,KDNP                                                 
+17|01| 1|Dr.|Braun                                             |Márton                                  |0017391|02|FIDESZ,KDNP                                                 
+17|01| 2|   |Halmai                                            |Gáborné                                 |0016815|01|MSZP                                                        
+17|02| 3|   |Komáromi                                          |Lilla                                   |0000795|01|MDF                                                         
+17|02| 4|   |Molnár                                            |József                                  |0012895|01|MSZP                                                        
+17|02| 7|   |Tóth                                              |Ferenc                                  |0015561|02|FIDESZ,KDNP                                                 
+17|04| 1|   |Fehérvári                                         |Tamás                                   |0007910|02|FIDESZ,KDNP                                                 
+17|04| 4|   |Tóth                                              |Gyula                                   |0009629|01|MSZP                                                        
+17|05| 1|Dr.|Dávid                                             |Ibolya                                  |0000982|01|MDF                                                         
+17|05| 2|   |Frankné Dr. Kovács                                |Szilvia                                 |0008948|01|MSZP                                                        
+17|05| 3|   |Hirt                                              |Ferenc                                  |0010606|02|FIDESZ,KDNP                                                 
+18|01| 1|Dr.|Hankó Faragó                                      |Miklós                                  |0014195|02|SZDSZ-A MAGYAR LIBERÁLIS PÁRT,MSZP                          
+18|01| 2|Dr.|Puskás                                            |Tivadar                                 |0012698|02|FIDESZ,KDNP                                                 
+18|02| 2|   |Gaál                                              |Angelika                                |0013063|02|MSZP,SZDSZ-A MAGYAR LIBERÁLIS PÁRT                          
+18|02| 3|Dr.|Hende                                             |Csaba                                   |0013460|02|FIDESZ,KDNP                                                 
+19|01| 2|   |Schwartz                                          |Béla                                    |0014906|01|MSZP                                                        
+19|01| 3|   |Stolár                                            |Mihály                                  |0013027|02|FIDESZ,KDNP                                                 
+19|01| 4|   |Tamaga                                            |Ferenc                                  |0000744|01|MDF                                                         
+19|05| 2|   |Deák                                              |Istvánné                                |0015702|01|MSZP                                                        
+19|05| 4|   |Talabér                                           |Márta                                   |0014195|02|FIDESZ,KDNP                                                 
+19|06| 1|Dr.|Bense                                             |László Erik                             |0000636|01|MDF                                                         
+19|06| 2|Dr.|Horváth                                           |Balázs                                  |0009670|02|FIDESZ,KDNP                                                 
+19|06| 3|   |Katanics                                          |Sándor                                  |0007497|01|MSZP                                                        
+19|07| 1|   |Kuti                                              |Csaba                                   |0000844|01|MDF                                                         
+19|07| 2|Dr.|Navracsics                                        |Tibor                                   |0011403|02|FIDESZ,KDNP                                                 
+19|07| 3|   |Pál                                               |Béla                                    |0014173|01|MSZP                                                        
+20|01| 2|Dr.|Gyimesi                                           |Endre                                   |0016952|02|FIDESZ,KDNP                                                 
+20|01| 3|   |Kiss                                              |Ferenc                                  |0014441|01|MSZP                                                        
+20|02| 1|   |Cseresnyés                                        |Péter                                   |0013598|02|FIDESZ,KDNP                                                 
+20|02| 2|   |Göndör                                            |István                                  |0016345|01|MSZP                                                        
+20|05| 1|   |Baracskai                                         |József                                  |0010679|01|MSZP                                                        
+20|05| 7|   |Vigh                                              |László Gyõzõ                            |0017546|02|FIDESZ,KDNP                                                 

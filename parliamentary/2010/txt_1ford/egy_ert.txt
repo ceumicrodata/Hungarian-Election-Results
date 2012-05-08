@@ -1,0 +1,810 @@
+01|01| 1|   |Ertsey                                            |Katalin                                 |0005071| 1|LEHET MÁS A POLITIKA                                        
+01|01| 2|Dr.|Molnár                                            |Zsolt                                   |0007248| 1|MSZP                                                        
+01|01| 3|Dr.|Nagy                                              |Gábor Tamás                             |0016540| 2|FIDESZ,KDNP                                                 
+01|01| 4|   |Pörzse                                            |Sándor                                  |0002155| 1|Jobbik                                                      
+01|02| 1|   |Balczó                                            |Zoltán                                  |0002733| 1|Jobbik                                                      
+01|02| 2|Dr.|Balsai                                            |István                                  |0020572| 2|FIDESZ,KDNP                                                 
+01|02| 3|   |Donáth                                            |László                                  |0008920| 1|MSZP                                                        
+01|02| 4|Dr.|Pusztai                                           |Erzsébet                                |0001801| 1|MDF                                                         
+01|02| 5|   |Szombati                                          |Kristóf                                 |0004851| 1|LEHET MÁS A POLITIKA                                        
+01|03| 1|Dr.|Badacsonyi                                        |Szabolcs                                |0001207| 2|MDF,SZDSZ                                                   
+01|03| 2|   |Fejes                                             |István                                  |0002889| 1|Jobbik                                                      
+01|03| 3|   |Menczer                                           |Erzsébet                                |0013734| 2|FIDESZ,KDNP                                                 
+01|03| 4|Dr.|Orosz                                             |Sándor                                  |0009164| 1|MSZP                                                        
+01|03| 5|   |Szabó                                             |Tímea                                   |0003985| 1|LEHET MÁS A POLITIKA                                        
+01|04| 1|   |Bús                                               |Balázs                                  |0019985| 2|FIDESZ,KDNP                                                 
+01|04| 2|   |Király                                            |Zoltán                                  |0002132| 1|MDF                                                         
+01|04| 3|   |Kiss                                              |László                                  |0009283| 1|MSZP                                                        
+01|04| 4|   |Quickert                                          |Liliána Diána                           |0005066| 1|LEHET MÁS A POLITIKA                                        
+01|04| 5|   |Zsiga-Kárpát                                      |Dániel Gábor                            |0004185| 1|Jobbik                                                      
+01|05| 1|   |Boruzs                                            |András Kálmán                           |0001639| 2|MDF,SZDSZ                                                   
+01|05| 2|   |Csizmár                                           |Gábor                                   |0011283| 1|MSZP                                                        
+01|05| 3|Dr.|Hollósi                                           |Antal Gábor                             |0017461| 2|FIDESZ,KDNP                                                 
+01|05| 4|   |Pajor                                             |Tibor                                   |0004814| 1|Jobbik                                                      
+01|05| 5|   |Tálosné Pálvölgyi                                 |Márta                                   |0005290| 1|LEHET MÁS A POLITIKA                                        
+01|06| 1|   |Kiss                                              |Péter                                   |0008497| 1|MSZP                                                        
+01|06| 2|   |Perneczky                                         |László                                  |0003457| 1|LEHET MÁS A POLITIKA                                        
+01|06| 3|   |Szegedi                                           |Csanád                                  |0003743| 1|Jobbik                                                      
+01|06| 4|   |Wintermantel                                      |Zsolt                                   |0012580| 2|FIDESZ,KDNP                                                 
+01|07| 1|   |Debreczeni                                        |József                                  |0001500| 1|MDF                                                         
+01|07| 2|   |Hegedûs                                           |Lórántné                                |0001363| 1|Jobbik                                                      
+01|07| 3|   |Rogán                                             |Antal                                   |0011499| 2|FIDESZ,KDNP                                                 
+01|07| 4|   |Schiffer                                          |András                                  |0002689| 1|LEHET MÁS A POLITIKA                                        
+01|07| 5|Dr.|Steiner                                           |Pál                                     |0004395| 1|MSZP                                                        
+01|08| 1|Dr.|Cziráki                                           |Adorján                                 |0001654| 1|Jobbik                                                      
+01|08| 2|   |Hatvani                                           |Csaba                                   |0005017| 1|MSZP                                                        
+01|08| 3|Dr.|Illés                                             |Zoltán                                  |0009367| 2|FIDESZ,KDNP                                                 
+01|08| 4|   |Kaszics                                           |Bálint                                  |0003224| 1|LEHET MÁS A POLITIKA                                        
+01|09| 1|   |Csiba                                             |Katalin Gyöngyvér                       |0003460| 1|LEHET MÁS A POLITIKA                                        
+01|09| 2|Dr.|Kispál                                            |Tibor                                   |0005124| 1|MSZP                                                        
+01|09| 3|   |Rónaszékiné Keresztes                             |Monika Mária                            |0009176| 2|FIDESZ,KDNP                                                 
+01|09| 4|   |Silhavy                                           |Máté Tibor                              |0002043| 1|Jobbik                                                      
+01|10| 1|dr.|Fónagy                                            |János                                   |0008181| 2|FIDESZ,KDNP                                                 
+01|10| 2|   |Herényi                                           |Károly                                  |0000760| 1|MDF                                                         
+01|10| 3|   |Moldován                                          |László                                  |0002770| 1|LEHET MÁS A POLITIKA                                        
+01|10| 4|   |Pintér                                            |Attila                                  |0001735| 1|Jobbik                                                      
+01|10| 5|dr.|Szabó                                             |Zoltán                                  |0004337| 1|MSZP                                                        
+01|11| 1|dr.|Kocsis                                            |Máté                                    |0011985| 2|FIDESZ,KDNP                                                 
+01|11| 2|   |Komássy                                           |Ákos                                    |0005814| 1|MSZP                                                        
+01|11| 3|   |Losonczy                                          |Pál                                     |0002773| 1|Jobbik                                                      
+01|11| 4|   |Takács                                            |Gábor                                   |0001615| 2|MDF,SZDSZ                                                   
+01|12| 1|Dr.|Bácskai                                           |János                                   |0010315| 2|FIDESZ,KDNP                                                 
+01|12| 2|   |Budai                                             |Bernadett                               |0005080| 1|MSZP                                                        
+01|12| 3|   |Csárdi                                            |Antal                                   |0003014| 1|LEHET MÁS A POLITIKA                                        
+01|12| 4|   |Kassab                                            |Adonis                                  |0002023| 1|Jobbik                                                      
+01|13| 1|Dr.|Erõss                                             |Gábor                                   |0002758| 1|LEHET MÁS A POLITIKA                                        
+01|13| 2|   |Gyõry                                             |Sarolta                                 |0002738| 1|Jobbik                                                      
+01|13| 3|   |Pál                                               |Tibor                                   |0006903| 1|MSZP                                                        
+01|13| 4|Dr.|Vas                                               |Imre                                    |0009909| 2|FIDESZ,KDNP                                                 
+01|14| 1|   |Arató                                             |Gergely László                          |0008680| 1|MSZP                                                        
+01|14| 2|   |Farnady                                           |László                                  |0003193| 1|Jobbik                                                      
+01|14| 3|Dr.|György                                            |István                                  |0013268| 2|FIDESZ,KDNP                                                 
+01|14| 4|   |Gyõri                                             |Dénes                                   |0001586| 1|MDF                                                         
+01|15| 2|   |Dúró                                              |Dóra                                    |0001601| 1|Jobbik                                                      
+01|15| 3|   |Jávor                                             |Benedek                                 |0003373| 1|LEHET MÁS A POLITIKA                                        
+01|15| 4|Dr.|Rétvári                                           |Bence                                   |0013365| 2|FIDESZ,KDNP                                                 
+01|15| 5|   |Szabó                                             |Vilmos                                  |0006101| 1|MSZP                                                        
+01|16| 1|   |Diószegi                                          |Ernõ Endre                              |0002803| 1|LEHET MÁS A POLITIKA                                        
+01|16| 2|   |Molnár                                            |Gyula                                   |0011346| 1|MSZP                                                        
+01|16| 3|Dr.|Simicskó                                          |István                                  |0013203| 2|FIDESZ,KDNP                                                 
+01|16| 4|   |Szabó                                             |Gábor                                   |0002332| 1|Jobbik                                                      
+01|17| 1|Dr.|Bajomi                                            |Iván                                    |0003531| 1|LEHET MÁS A POLITIKA                                        
+01|17| 2|Dr.|Józsa                                             |István                                  |0007363| 1|MSZP                                                        
+01|17| 3|Dr.|Kupper                                            |András                                  |0013104| 2|FIDESZ,KDNP                                                 
+01|17| 4|   |Novák                                             |Elõd                                    |0002025| 1|Jobbik                                                      
+01|18| 1|Dr.|Katona                                            |Tamás                                   |0007862| 1|MSZP                                                        
+01|18| 2|   |Martinez                                          |Gábor                                   |0002274| 1|Jobbik                                                      
+01|18| 3|   |Pokorni                                           |Zoltán                                  |0020789| 2|FIDESZ,KDNP                                                 
+01|18| 4|   |Sipos                                             |Péter                                   |0004668| 1|LEHET MÁS A POLITIKA                                        
+01|18| 5|   |Slosár                                            |Gábor                                   |0001462| 1|MDF                                                         
+01|19| 1|   |Kovács                                            |Bertalan Tamás                          |0002222| 1|Jobbik                                                      
+01|19| 2|Dr.|Szalay                                            |Péter                                   |0010673| 2|FIDESZ,KDNP                                                 
+01|19| 3|Dr.|Szanyi                                            |Tibor                                   |0010244| 1|MSZP                                                        
+01|19| 4|   |Tarján                                            |András                                  |0000996| 2|MDF,SZDSZ                                                   
+01|19| 5|   |Tordai                                            |Bence                                   |0003709| 1|LEHET MÁS A POLITIKA                                        
+01|20| 1|   |Csender                                           |Tamás                                   |0002384| 1|Jobbik                                                      
+01|20| 2|   |Spaller                                           |Endre                                   |0009742| 2|FIDESZ,KDNP                                                 
+01|20| 4|Dr.|Tóth                                              |József                                  |0011976| 1|MSZP                                                        
+01|20| 5|   |Vári                                              |György                                  |0002683| 1|LEHET MÁS A POLITIKA                                        
+01|21| 1|Dr.|Bárándy                                           |Gergely                                 |0009364| 1|MSZP                                                        
+01|21| 2|Dr.|Gyenes                                            |Géza                                    |0003173| 1|Jobbik                                                      
+01|21| 3|Dr.|Papcsák                                           |Ferenc                                  |0015529| 2|FIDESZ,KDNP                                                 
+01|21| 4|   |Várnai                                            |László Sándor                           |0005336| 1|LEHET MÁS A POLITIKA                                        
+01|22| 1|   |Czeglédi                                          |János                                   |0003115| 1|Jobbik                                                      
+01|22| 2|   |Hámori                                            |Zsolt                                   |0005150| 1|LEHET MÁS A POLITIKA                                        
+01|22| 3|   |Kulcsár                                           |József Ferenc                           |0014556| 2|FIDESZ,KDNP                                                 
+01|22| 4|   |Tóth                                              |Csaba                                   |0010460| 1|MSZP                                                        
+01|23| 1|Dr.|Gaudi-Nagy                                        |Tamás                                   |0004127| 1|Jobbik                                                      
+01|23| 2|Dr.|Hetyei                                            |László Antal                            |0010810| 1|MSZP                                                        
+01|23| 3|   |László                                            |Tamás                                   |0013877| 2|FIDESZ,KDNP                                                 
+01|24| 1|   |Fejér                                             |László Elõd                             |0001368| 1|MDF                                                         
+01|24| 2|   |Kovács                                            |Péter                                   |0022381| 2|FIDESZ,KDNP                                                 
+01|24| 3|   |Szabó                                             |Barbara                                 |0004782| 1|LEHET MÁS A POLITIKA                                        
+01|24| 4|   |Vas                                               |Zoltán                                  |0004653| 1|Jobbik                                                      
+01|24| 5|Dr.|Vidorné Dr. Szabó                                 |Györgyi Mária                           |0009152| 1|MSZP                                                        
+01|25| 1|   |Alexa                                             |György                                  |0009681| 1|MSZP                                                        
+01|25| 2|   |Berze                                             |Márton                                  |0004035| 1|LEHET MÁS A POLITIKA                                        
+01|25| 3|Dr.|Farkas                                            |Tibor                                   |0001292| 1|MDF                                                         
+01|25| 4|   |Kovács                                            |István                                  |0001184| 0|Független jelölt                                            
+01|25| 5|   |Riz                                               |Levente                                 |0027457| 2|FIDESZ,KDNP                                                 
+01|25| 6|   |Szilágyi                                          |György                                  |0004653| 1|Jobbik                                                      
+01|26| 1|   |Kucsák                                            |László                                  |0013631| 2|FIDESZ,KDNP                                                 
+01|26| 2|   |Makai                                             |Tibor                                   |0003831| 1|Jobbik                                                      
+01|26| 3|   |Simon                                             |Gábor                                   |0010230| 1|MSZP                                                        
+01|27| 1|   |Ferencz                                           |István                                  |0001302| 2|MDF,SZDSZ                                                   
+01|27| 2|   |Gönczöl                                           |András                                  |0004554| 1|Jobbik                                                      
+01|27| 3|Dr.|Mester                                            |László                                  |0010959| 1|MSZP                                                        
+01|27| 4|   |Scheiring                                         |Gábor                                   |0003835| 1|LEHET MÁS A POLITIKA                                        
+01|27| 5|   |Ughy                                              |Attila                                  |0017401| 2|FIDESZ,KDNP                                                 
+01|28| 1|   |Burány                                            |Sándor                                  |0009665| 1|MSZP                                                        
+01|28| 2|   |Faith                                             |Balázs                                  |0003731| 1|LEHET MÁS A POLITIKA                                        
+01|28| 3|   |Põsze                                             |Lajos                                   |0003879| 1|Jobbik                                                      
+01|28| 4|   |Ritter                                            |János                                   |0001030| 2|MDF,SZDSZ                                                   
+01|28| 5|Dr.|Tarnai                                            |Richárd                                 |0014872| 2|FIDESZ,KDNP                                                 
+01|29| 1|   |Balog                                             |Barna                                   |0004697| 1|Jobbik                                                      
+01|29| 2|   |Földesi                                           |Gyula                                   |0015060| 2|FIDESZ,KDNP                                                 
+01|29| 3|   |Hardy                                             |László                                  |0002053| 1|MDF                                                         
+01|29| 4|Dr.|Hiller                                            |István                                  |0009615| 1|MSZP                                                        
+01|30| 1|   |Borbély                                           |Lénárd                                  |0009181| 2|FIDESZ,KDNP                                                 
+01|30| 2|   |Nagy                                              |Ferenc                                  |0003179| 1|Jobbik                                                      
+01|30| 3|   |Podolák                                           |György                                  |0006644| 1|MSZP                                                        
+01|31| 1|Dr.|Avarkeszi                                         |Dezsõ                                   |0005939| 1|MSZP                                                        
+01|31| 2|   |Hegedûs                                           |Tamás Mihály                            |0002709| 1|Jobbik                                                      
+01|31| 3|   |Hudák                                             |János                                   |0002955| 1|LEHET MÁS A POLITIKA                                        
+01|31| 4|   |Németh                                            |Szilárd                                 |0009102| 2|FIDESZ,KDNP                                                 
+01|32| 1|   |Iván                                              |János                                   |0001515| 2|MDF,SZDSZ                                                   
+01|32| 2|   |Németh                                            |Zoltán                                  |0015441| 2|FIDESZ,KDNP                                                 
+01|32| 3|   |Polákovics                                        |Balázs                                  |0003313| 1|LEHET MÁS A POLITIKA                                        
+01|32| 4|Dr.|Staudt                                            |Gábor                                   |0003359| 1|Jobbik                                                      
+01|32| 5|Dr.|Szincsák                                          |József                                  |0006910| 1|MSZP                                                        
+02|01| 1|   |Bókay                                             |Endre                                   |0006711| 1|MSZP                                                        
+02|01| 2|Dr.|Füredi                                            |Péter                                   |0001135| 1|MDF                                                         
+02|01| 3|Dr.|Hoppál                                            |Péter                                   |0017657| 2|FIDESZ,KDNP                                                 
+02|01| 4|   |Kölcsey-Gyurkóné Baka                             |Sára                                    |0003866| 1|LEHET MÁS A POLITIKA                                        
+02|01| 5|   |Porpáczy                                          |Ernõ                                    |0004007| 1|Jobbik                                                      
+02|02| 1|   |Nagy                                              |Csaba                                   |0013686| 2|FIDESZ,KDNP                                                 
+02|02| 2|   |Németh                                            |Zsolt                                   |0002608| 1|Jobbik                                                      
+02|02| 3|Dr.|Szili                                             |Katalin                                 |0007121| 1|MSZP                                                        
+02|02| 4|Dr.|Wildmann                                          |János Ferenc                            |0003432| 1|LEHET MÁS A POLITIKA                                        
+02|03| 1|   |Draskócziné Kertész                               |Júlia                                   |0003710| 1|Jobbik                                                      
+02|03| 2|Dr.|Kóbor                                             |József                                  |0003824| 1|LEHET MÁS A POLITIKA                                        
+02|03| 3|   |Kõvári                                            |János                                   |0014882| 2|FIDESZ,KDNP                                                 
+02|03| 4|Dr.|Tóth                                              |Bertalan                                |0007295| 1|MSZP                                                        
+02|04| 1|   |Ladányi                                           |Attila                                  |0001581| 1|LEHET MÁS A POLITIKA                                        
+02|04| 2|   |Ordas                                             |Miklós                                  |0000493| 1|MDF                                                         
+02|04| 3|   |Polics                                            |József                                  |0012482| 2|FIDESZ,KDNP                                                 
+02|04| 4|   |Stéger                                            |Róbert                                  |0001038| 0|Független jelölt                                            
+02|04| 5|Dr.|Szakács                                           |László                                  |0006368| 1|MSZP                                                        
+02|04| 6|   |Talált                                            |Tímea                                   |0003311| 1|Jobbik                                                      
+02|05| 1|Dr.|Habjánecz                                         |Tibor                                   |0000918| 1|MDF                                                         
+02|05| 2|Dr.|Hargitai                                          |János                                   |0019718| 2|FIDESZ,KDNP                                                 
+02|05| 3|   |Hartweg                                           |Ildikó                                  |0001758| 1|LEHET MÁS A POLITIKA                                        
+02|05| 4|Dr.|Nyul                                              |István                                  |0004989| 1|MSZP                                                        
+02|05| 5|   |Ódor                                              |György                                  |0000153| 1|MUNKÁSPÁRT                                                  
+02|05| 6|   |Polgár                                            |Károly                                  |0003285| 1|Jobbik                                                      
+02|06| 1|   |Balogh                                            |Edina                                   |0001496| 1|LEHET MÁS A POLITIKA                                        
+02|06| 2|   |Barkó                                             |Béla                                    |0003666| 1|Jobbik                                                      
+02|06| 3|   |Kocsi                                             |László                                  |0005153| 1|MSZP                                                        
+02|06| 4|   |Mali                                              |Zoltán                                  |0000415| 1|ÖSSZEFOGÁS PÁRT                                             
+02|06| 5|   |Tiffán                                            |Zsolt                                   |0015266| 2|FIDESZ,KDNP                                                 
+02|06| 6|   |Walter                                            |György                                  |0000223| 1|Független Kisgazdapárt                                      
+02|07| 1|   |Kovács                                            |Bernadett                               |0002792| 1|Jobbik                                                      
+02|07| 2|   |Litter                                            |János                                   |0000500| 1|TORGYÁN-KISGAZDA-KOALÍCIÓ                                   
+02|07| 3|   |Pichler                                           |Imre                                    |0011375| 2|FIDESZ,KDNP                                                 
+02|07| 4|   |Szubotics                                         |Miklós                                  |0004696| 1|MSZP                                                        
+03|01| 1|Dr.|Balogh                                            |László                                  |0005852| 1|MSZP                                                        
+03|01| 2|Dr.|Károlyfalvi                                       |József                                  |0003718| 1|Jobbik                                                      
+03|01| 3|   |Vágó                                              |Gábor                                   |0002951| 1|LEHET MÁS A POLITIKA                                        
+03|01| 4|Dr.|Zombor                                            |Gábor                                   |0020646| 2|FIDESZ,KDNP                                                 
+03|02| 1|Dr.|Horváth                                           |Zsolt                                   |0015080| 2|FIDESZ,KDNP                                                 
+03|02| 2|   |Kachstädter                                       |Péter                                   |0000227| 1|MIÉP                                                        
+03|02| 3|   |Király                                            |József                                  |0005416| 1|MSZP                                                        
+03|02| 4|   |Tóth                                              |Sándor                                  |0003656| 1|Jobbik                                                      
+03|03| 1|   |Csernus                                           |Ferenc                                  |0002993| 1|MSZP                                                        
+03|03| 2|Dr.|Csernus                                           |Tibor                                   |0000924| 1|MDF                                                         
+03|03| 3|   |Gyöngyösi                                         |Márton                                  |0004325| 1|Jobbik                                                      
+03|03| 5|   |Lezsák                                            |Sándor                                  |0016971| 2|FIDESZ,KDNP                                                 
+03|04| 1|   |Balogh                                            |József                                  |0019027| 2|FIDESZ,KDNP                                                 
+03|04| 2|   |Boros                                             |László                                  |0005564| 1|Jobbik                                                      
+03|04| 3|   |Hortobágyi                                        |István                                  |0003787| 1|MSZP                                                        
+03|05| 1|Dr.|Garai                                             |István Levente                          |0004814| 1|MSZP                                                        
+03|05| 2|   |Kapus                                             |Krisztián                               |0012918| 2|FIDESZ,KDNP                                                 
+03|05| 3|Dr.|Kiss                                              |Ákos Csaba                              |0000600| 1|MDF                                                         
+03|05| 4|Dr.|Réczi                                             |László                                  |0001415| 1|CIVILEK                                                     
+03|05| 5|Dr.|Vakulya                                           |István                                  |0004698| 1|Jobbik                                                      
+03|06| 1|   |Font                                              |Sándor                                  |0019224| 2|FIDESZ,KDNP                                                 
+03|06| 2|   |Kollarik                                          |László                                  |0002877| 1|MSZP                                                        
+03|06| 3|   |Szávay                                            |István                                  |0004619| 1|Jobbik                                                      
+03|07| 1|   |András                                            |István                                  |0005175| 1|MSZP                                                        
+03|07| 2|   |Beck                                              |Ottó                                    |0003733| 1|Jobbik                                                      
+03|07| 3|Dr.|Dudás                                             |József                                  |0001614| 1|LEHET MÁS A POLITIKA                                        
+03|07| 4|   |Romsics                                           |Imre                                    |0000719| 1|MDF                                                         
+03|07| 5|Dr.|Semjén                                            |Zsolt                                   |0015481| 2|FIDESZ,KDNP                                                 
+03|08| 1|   |Bor                                               |László                                  |0000310| 1|TORGYÁN-KISGAZDA-KOALÍCIÓ                                   
+03|08| 2|   |Gömzsik                                           |László                                  |0000560| 0|Független jelölt                                            
+03|08| 3|   |Kiss                                              |Norbert                                 |0000472| 1|MDF                                                         
+03|08| 4|   |Lukács                                            |László                                  |0011601| 2|FIDESZ,KDNP                                                 
+03|08| 5|   |Szabó                                             |Károly                                  |0004139| 1|MSZP                                                        
+03|08| 6|   |Vizi                                              |István                                  |0004836| 1|Jobbik                                                      
+03|08| 7|   |Wágner                                            |Szabolcs Ákos                           |0001740| 1|LEHET MÁS A POLITIKA                                        
+03|09| 1|   |Ambrus                                            |Tibor                                   |0003540| 1|Jobbik                                                      
+03|09| 2|   |Ikotity                                           |István                                  |0002245| 1|LEHET MÁS A POLITIKA                                        
+03|09| 3|   |Márfai                                            |Péter                                   |0004885| 1|MSZP                                                        
+03|09| 4|   |Papp                                              |József                                  |0000625| 1|CIVILEK                                                     
+03|09| 5|   |Zsigó                                             |Róbert                                  |0018920| 2|FIDESZ,KDNP                                                 
+03|10| 1|   |Bányai                                            |Gábor                                   |0013136| 2|FIDESZ,KDNP                                                 
+03|10| 2|   |Karsai                                            |Péter                                   |0000615| 1|MDF                                                         
+03|10| 3|   |Kiss-Petõ                                         |Tibor                                   |0003306| 1|Jobbik                                                      
+03|10| 4|   |Mamuzsits                                         |Sándor                                  |0003190| 1|MSZP                                                        
+04|01| 1|   |Gál                                               |István Elek                             |0002597| 1|LEHET MÁS A POLITIKA                                        
+04|01| 2|   |Molnár                                            |László                                  |0006552| 1|MSZP                                                        
+04|01| 3|Dr.|Szabó                                             |Terézia                                 |0002347| 1|CIVILEK                                                     
+04|01| 4|   |Szabóné Kocziha                                   |Tünde                                   |0005183| 1|Jobbik                                                      
+04|01| 5|   |Vantara                                           |Gyula                                   |0017196| 2|FIDESZ,KDNP                                                 
+04|02| 1|Dr.|Kovács                                            |József                                  |0017493| 2|FIDESZ,KDNP                                                 
+04|02| 2|Dr.|Perjési                                           |Klára                                   |0007857| 1|MSZP                                                        
+04|02| 3|Dr.|Pomuczné Nagy                                     |Ildikó Anna                             |0004495| 1|Jobbik                                                      
+04|03| 1|   |Debreceni                                         |Lajos                                   |0001353| 1|CIVILEK                                                     
+04|03| 2|   |Erdõs                                             |Norbert                                 |0013337| 2|FIDESZ,KDNP                                                 
+04|03| 3|   |Molnár                                            |József                                  |0004366| 1|Jobbik                                                      
+04|03| 4|   |Nagy                                              |László                                  |0003997| 1|MSZP                                                        
+04|04| 1|Dr.|Farkas                                            |Beáta                                   |0001473| 0|Független jelölt                                            
+04|04| 2|   |Farkas                                            |Zoltán                                  |0012414| 2|FIDESZ,KDNP                                                 
+04|04| 3|   |Séllei                                            |Zsigmond                                |0004021| 1|Jobbik                                                      
+04|04| 4|   |Veress                                            |József                                  |0003884| 1|MSZP                                                        
+04|05| 1|   |Domokos                                           |László                                  |0012890| 2|FIDESZ,KDNP                                                 
+04|05| 2|   |Földesi                                           |Zoltán                                  |0003921| 1|MSZP                                                        
+04|05| 3|   |Samu                                              |Tamás Gergõ                             |0006123| 1|Jobbik                                                      
+04|06| 1|Dr.|Dancsó                                            |József                                  |0015325| 2|FIDESZ,KDNP                                                 
+04|06| 2|   |Fanaczán                                          |Istvánné                                |0002056| 1|LEHET MÁS A POLITIKA                                        
+04|06| 3|   |Gál                                               |Ferenc                                  |0000385| 1|MUNKÁSPÁRT                                                  
+04|06| 4|   |Jámbor                                            |Nándor                                  |0005914| 1|Jobbik                                                      
+04|06| 5|   |Muszka                                            |Kálmánné                                |0000612| 1|MDF                                                         
+04|06| 6|   |Varga                                             |Zoltán                                  |0006069| 1|MSZP                                                        
+04|07| 1|Dr.|Dévényi-Dabrowsky                                 |Géza Dániel                             |0004470| 1|Jobbik                                                      
+04|07| 2|Dr.|Karsai                                            |József                                  |0006313| 1|MSZP                                                        
+04|07| 3|Dr.|Nagy                                              |Béla                                    |0001315| 1|MDF                                                         
+04|07| 4|   |Simonka                                           |György                                  |0011589| 2|FIDESZ,KDNP                                                 
+05|01| 1|   |Csanálossi                                        |Béla                                    |0000704| 1|MDF                                                         
+05|01| 2|   |Csöbör                                            |Katalin                                 |0012399| 2|FIDESZ,KDNP                                                 
+05|01| 3|   |Egyed                                             |Zsolt                                   |0007680| 1|Jobbik                                                      
+05|01| 4|   |Fedor                                             |Vilmos                                  |0006014| 1|MSZP                                                        
+05|01| 5|   |Hajdu                                             |János                                   |0000917| 1|ÖSSZEFOGÁS PÁRT                                             
+05|02| 1|   |Csorba                                            |János                                   |0005954| 1|Jobbik                                                      
+05|02| 2|Dr.|Simon                                             |Gábor                                   |0008368| 1|MSZP                                                        
+05|02| 3|Dr.|Zsiga                                             |Marcell                                 |0012452| 2|FIDESZ,KDNP                                                 
+05|03| 1|   |Káli                                              |Sándor                                  |0007835| 1|MSZP                                                        
+05|03| 2|   |Mile                                              |Lajos                                   |0001702| 1|LEHET MÁS A POLITIKA                                        
+05|03| 3|Dr.|Nagy                                              |Kálmán                                  |0011168| 2|FIDESZ,KDNP                                                 
+05|03| 4|   |Szabó                                             |Attila                                  |0006791| 1|Jobbik                                                      
+05|04| 1|   |Sebestyén                                         |László                                  |0011077| 2|FIDESZ,KDNP                                                 
+05|04| 2|   |Sztancsik                                         |Barnabás                                |0006786| 1|Jobbik                                                      
+05|04| 3|Dr.|Tompa                                             |Sándor                                  |0007785| 1|MSZP                                                        
+05|05| 1|   |Greskovits                                        |István                                  |0000158| 1|Független Kisgazdapárt                                      
+05|05| 2|   |Kisgergely                                        |András                                  |0006800| 1|Jobbik                                                      
+05|05| 3|   |Kolompár                                          |Orbán                                   |0000491| 1|MCF ROMA ÖSSZEFOGÁS PÁRT                                    
+05|05| 4|   |Kónya                                             |Béla                                    |0000362| 1|MUNKÁSPÁRT                                                  
+05|05| 5|   |Riz                                               |Gábor                                   |0008662| 2|FIDESZ,KDNP                                                 
+05|05| 6|Dr.|Tóth                                              |István                                  |0004729| 1|MSZP                                                        
+05|06| 1|   |Bencs                                             |Gábor                                   |0006366| 1|Jobbik                                                      
+05|06| 2|   |Demeter                                           |Zoltán                                  |0009352| 2|FIDESZ,KDNP                                                 
+05|06| 3|   |Gulyás                                            |János                                   |0000337| 1|MUNKÁSPÁRT                                                  
+05|06| 4|   |Soltész                                           |Imre István                             |0000206| 1|MIÉP                                                        
+05|06| 5|Dr.|Varga                                             |László                                  |0004576| 1|MSZP                                                        
+05|06| 6|   |Zsiros                                            |László                                  |0000555| 1|MDF                                                         
+05|07| 1|   |Endrésik                                          |Zsolt                                   |0006735| 1|Jobbik                                                      
+05|07| 2|Dr.|Király                                            |Bálint                                  |0001219| 1|LEHET MÁS A POLITIKA                                        
+05|07| 3|   |Szitka                                            |Péter                                   |0006657| 1|MSZP                                                        
+05|07| 4|   |Tamás                                             |Barnabás                                |0008742| 2|FIDESZ,KDNP                                                 
+05|08| 1|Dr.|Daher                                             |Pierre                                  |0008162| 2|FIDESZ,KDNP                                                 
+05|08| 2|   |Gúr                                               |Nándor                                  |0004177| 1|MSZP                                                        
+05|08| 3|   |Horváth                                           |Aladár                                  |0000335| 0|                                                            
+05|08| 4|   |Miklós                                            |Árpád                                   |0004273| 1|Jobbik                                                      
+05|08| 5|   |Molnár                                            |Oszkár                                  |0005393| 0|Független jelölt                                            
+05|09| 1|   |Baksy                                             |Rezsõ András                            |0006809| 1|Jobbik                                                      
+05|09| 2|   |Bihi                                              |Miklós                                  |0000772| 1|LEHET MÁS A POLITIKA                                        
+05|09| 3|   |Egerszegi                                         |Sándor                                  |0000245| 1|ÖSSZEFOGÁS PÁRT                                             
+05|09| 4|   |Nyakó                                             |István                                  |0003716| 1|MSZP                                                        
+05|09| 5|Dr.|Ódor                                              |Ferenc                                  |0017334| 2|FIDESZ,KDNP                                                 
+05|09| 6|   |Szabó                                             |Gyula                                   |0000235| 1|MDF                                                         
+05|10| 1|Dr.|Hörcsik                                           |Richárd                                 |0015103| 2|FIDESZ,KDNP                                                 
+05|10| 2|   |Koleszár                                          |Sándor                                  |0001538| 1|LEHET MÁS A POLITIKA                                        
+05|10| 3|   |Németh                                            |Károly                                  |0000651| 1|MDF                                                         
+05|10| 4|   |Szabó                                             |Attila                                  |0000119| 1|TORGYÁN-KISGAZDA-KOALÍCIÓ                                   
+05|10| 5|   |Szajkó                                            |Gábor                                   |0005457| 1|Jobbik                                                      
+05|10| 6|   |Vécsi                                             |István                                  |0004690| 1|MSZP                                                        
+05|11| 1|   |Dancs                                             |Mihály                                  |0000417| 1|MSZDP                                                       
+05|11| 2|   |Ficsor                                            |Ádám                                    |0004711| 1|MSZP                                                        
+05|11| 3|   |Holcman                                           |László                                  |0007778| 1|Jobbik                                                      
+05|11| 4|   |Kemény                                            |Endre                                   |0000308| 1|MDF                                                         
+05|11| 5|   |Koncz                                             |Ferenc                                  |0013795| 2|FIDESZ,KDNP                                                 
+05|11| 7|   |Szepesi                                           |Zsolt László                            |0001223| 1|ÖSSZEFOGÁS PÁRT                                             
+05|12| 1|   |Balla                                             |Gergõ                                   |0009209| 1|Jobbik                                                      
+05|12| 2|   |Bordás                                            |Géza                                    |0000379| 1|MSZDP                                                       
+05|12| 3|   |Kovács                                            |Tibor                                   |0006264| 1|MSZP                                                        
+05|12| 4|Dr.|Mengyi                                            |Roland                                  |0012552| 2|FIDESZ,KDNP                                                 
+05|12| 5|   |Szoboszlai                                        |Barna                                   |0000622| 1|ÖSSZEFOGÁS PÁRT                                             
+05|12| 6|   |Tóth                                              |Ferenc                                  |0000725| 1|MDF                                                         
+05|12| 7|Dr.|Váli                                              |Zoltán                                  |0000360| 1|MUNKÁSPÁRT                                                  
+05|13| 1|   |Csikai                                            |Balázs                                  |0008247| 1|Jobbik                                                      
+05|13| 2|   |Kormos                                            |Dénes                                   |0004461| 1|MSZP                                                        
+05|13| 3|   |Tállai                                            |András                                  |0015350| 2|FIDESZ,KDNP                                                 
+05|13| 4|   |Vass                                              |József                                  |0000472| 1|MIÉP                                                        
+06|01| 1|   |Bodó                                              |Imre                                    |0015255| 2|FIDESZ,KDNP                                                 
+06|01| 2|Dr.|Ujhelyi                                           |István                                  |0012398| 1|MSZP                                                        
+06|01| 3|   |Zagyva                                            |György Gyula                            |0003702| 1|Jobbik                                                      
+06|02| 1|   |Bozsóné Dr. Margóczi                              |Katalin                                 |0003080| 1|LEHET MÁS A POLITIKA                                        
+06|02| 2|   |Hódi                                              |Tamás                                   |0000845| 1|MDF                                                         
+06|02| 3|   |Knipf                                             |Róbert                                  |0001913| 1|CIVILEK                                                     
+06|02| 4|Dr.|Kozma                                             |József                                  |0007687| 1|MSZP                                                        
+06|02| 5|   |Nógrádi                                           |Zoltán                                  |0021637| 2|FIDESZ,KDNP                                                 
+06|02| 6|   |Pápai                                             |István                                  |0000083| 1|MIÉP                                                        
+06|02| 7|   |Tóth                                              |Péter                                   |0003850| 1|Jobbik                                                      
+06|03| 1|Dr.|Bohács                                            |Zsolt József                            |0015524| 2|FIDESZ,KDNP                                                 
+06|03| 2|Dr.|Botka                                             |László                                  |0012984| 1|MSZP                                                        
+06|03| 3|   |Málovics                                          |György                                  |0003166| 1|LEHET MÁS A POLITIKA                                        
+06|03| 4|   |Molnár                                            |Áron                                    |0004165| 1|Jobbik                                                      
+06|04| 1|   |Bedõ                                              |Tamás Albert                            |0004481| 1|MSZP                                                        
+06|04| 2|   |Csenki                                            |Mihály                                  |0001700| 1|CIVILEK                                                     
+06|04| 3|   |Dudás                                             |Zoltán Sándor                           |0004903| 1|Jobbik                                                      
+06|04| 4|   |Rabi                                              |Mihály                                  |0000592| 1|MDF                                                         
+06|04| 5|Dr.|Torgyán                                           |József                                  |0000731| 1|TORGYÁN-KISGAZDA-KOALÍCIÓ                                   
+06|04| 6|   |Vincze                                            |László Mihály                           |0014602| 2|FIDESZ,KDNP                                                 
+06|05| 1|   |Farkas                                            |Sándor                                  |0011692| 2|FIDESZ,KDNP                                                 
+06|05| 2|   |Móra                                              |József Antal                            |0004450| 1|MSZP                                                        
+06|05| 3|   |Varga                                             |Géza                                    |0004736| 1|Jobbik                                                      
+06|06| 1|   |Csengeri                                          |István                                  |0003498| 1|MSZP                                                        
+06|06| 2|   |Havránek                                          |Ferenc                                  |0001164| 1|ZÖLD BALOLDAL                                               
+06|06| 3|Dr.|Kovács                                            |László                                  |0000515| 1|MIÉP                                                        
+06|06| 4|   |Kristó                                            |Gabriella                               |0007897| 1|Jobbik                                                      
+06|06| 5|Dr.|Lázár                                             |János                                   |0017203| 2|FIDESZ,KDNP                                                 
+06|06| 6|Dr.|Takács                                            |Róbert                                  |0000874| 1|MDF                                                         
+06|07| 1|Dr.|Buzás                                             |Péter                                   |0006292| 1|MSZP                                                        
+06|07| 2|   |Fazekas                                           |Ferenc                                  |0003948| 1|Jobbik                                                      
+06|07| 3|   |Kovács                                            |László                                  |0001075| 1|CIVILEK                                                     
+06|07| 4|   |Mágori                                            |Józsefné                                |0009979| 2|FIDESZ,KDNP                                                 
+06|07| 5|   |Szabó                                             |Jenõné                                  |0000246| 1|MUNKÁSPÁRT                                                  
+06|07| 6|   |Szabó                                             |Sámuel                                  |0000505| 1|MDF                                                         
+07|01| 1|Dr.|Cser-Palkovics                                    |András                                  |0013862| 2|FIDESZ,KDNP                                                 
+07|01| 2|   |Knizse                                            |Gyula                                   |0006642| 1|MSZP                                                        
+07|01| 3|Dr.|Kummer                                            |Ákos                                    |0003747| 1|Jobbik                                                      
+07|01| 4|   |Takács                                            |László                                  |0002748| 1|LEHET MÁS A POLITIKA                                        
+07|01| 5|   |Viniczai                                          |Tibor                                   |0001001| 1|MDF                                                         
+07|02| 1|   |Gál                                               |Péter Pál                               |0005781| 1|Jobbik                                                      
+07|02| 2|   |Horváth                                           |Dóra                                    |0002311| 1|MDF                                                         
+07|02| 3|Dr.|Márton                                            |Roland                                  |0007106| 1|MSZP                                                        
+07|02| 4|   |Vargha                                            |Tamás                                   |0021455| 2|FIDESZ,KDNP                                                 
+07|03| 1|Dr.|Dorkota                                           |Lajos                                   |0010938| 2|FIDESZ,KDNP                                                 
+07|03| 2|Dr.|Kálmán                                            |András                                  |0006214| 1|MSZP                                                        
+07|03| 3|Dr.|Kiss                                              |Endre                                   |0002996| 1|LEHET MÁS A POLITIKA                                        
+07|03| 4|   |Pintér                                            |Tamás                                   |0003904| 1|Jobbik                                                      
+07|03| 5|Dr.|Skaliczki                                         |Andrea                                  |0000999| 2|MDF,SZDSZ                                                   
+07|03| 6|   |Szaksz                                            |Ferenc                                  |0000917| 1|CIVILEK                                                     
+07|04| 1|   |Ecsõdi                                            |László                                  |0008970| 1|MSZP                                                        
+07|04| 2|   |Kránitz                                           |László Viktor                           |0001638| 1|MDF                                                         
+07|04| 3|   |L. Simon                                          |László                                  |0019536| 2|FIDESZ,KDNP                                                 
+07|04| 4|   |Rozgonyi                                          |Ernõ                                    |0006253| 1|Jobbik                                                      
+07|05| 1|   |Kelemen                                           |Levente                                 |0002396| 0|                                                            
+07|05| 2|   |Krausz                                            |Attila                                  |0005968| 1|Jobbik                                                      
+07|05| 3|   |Péteri                                            |Cecília                                 |0002181| 1|CIVILEK                                                     
+07|05| 4|   |Törõ                                              |Gábor                                   |0020165| 2|FIDESZ,KDNP                                                 
+07|05| 5|   |Velez                                             |Árpád                                   |0004599| 1|MSZP                                                        
+07|06| 1|   |Árgyelán                                          |János                                   |0006100| 1|Jobbik                                                      
+07|06| 2|   |Berényi                                           |Béla                                    |0000249| 1|MUNKÁSPÁRT                                                  
+07|06| 3|Dr.|Szabadkai                                         |Tamás                                   |0004650| 1|MSZP                                                        
+07|06| 4|   |Varga                                             |Gábor                                   |0015660| 2|FIDESZ,KDNP                                                 
+07|06| 5|   |Vas                                               |István János                            |0000525| 1|MDF                                                         
+07|07| 1|Dr.|Göblyös                                           |István                                  |0001341| 1|MDF                                                         
+07|07| 2|   |Horváth                                           |András Tibor                            |0005206| 1|MSZP                                                        
+07|07| 3|   |Som                                               |Tamás Gyula                             |0005078| 1|Jobbik                                                      
+07|07| 4|   |Tessely                                           |Zoltán                                  |0019500| 2|FIDESZ,KDNP                                                 
+08|01| 1|   |Bajorfi                                           |Tamás                                   |0005057| 1|MSZP                                                        
+08|01| 2|   |Farkas                                            |Ádám                                    |0005486| 1|Jobbik                                                      
+08|01| 3|   |Kara                                              |Ákos                                    |0026076| 2|FIDESZ,KDNP                                                 
+08|01| 4|   |Pinczés                                           |Bálint                                  |0003284| 1|LEHET MÁS A POLITIKA                                        
+08|02| 1|   |Hofbauer                                          |Sándor József                           |0004194| 1|Jobbik                                                      
+08|02| 2|Dr.|Molnár                                            |Csaba                                   |0008502| 1|MSZP                                                        
+08|02| 3|   |Prácser                                           |Attila Endre                            |0001759| 1|MDF                                                         
+08|02| 4|Dr.|Szakács                                           |Imre                                    |0019754| 2|FIDESZ,KDNP                                                 
+08|03| 1|   |Borkai                                            |Zsolt                                   |0021788| 2|FIDESZ,KDNP                                                 
+08|03| 2|   |Gergely                                           |Zoltán                                  |0007982| 1|MSZP                                                        
+08|03| 3|Dr.|Nagy                                              |Gergely                                 |0004229| 1|Jobbik                                                      
+08|04| 1|   |Beke                                              |Károly                                  |0005847| 1|MSZP                                                        
+08|04| 2|   |Belovitz                                          |Károly                                  |0000317| 1|MUNKÁSPÁRT                                                  
+08|04| 3|   |Kopetti                                           |Tamás Márton                            |0003935| 1|Jobbik                                                      
+08|04| 4|   |Luksa                                             |Attila                                  |0000769| 1|MDF                                                         
+08|04| 5|Dr.|Nagy                                              |István                                  |0017158| 2|FIDESZ,KDNP                                                 
+08|04| 6|   |Oross                                             |Dániel                                  |0001882| 1|LEHET MÁS A POLITIKA                                        
+08|05| 1|   |Balogh                                            |Csaba                                   |0004146| 1|MSZP                                                        
+08|05| 2|   |Gyopáros                                          |Alpár                                   |0019479| 2|FIDESZ,KDNP                                                 
+08|05| 3|   |Molnár                                            |Tivadar                                 |0000223| 1|MIÉP                                                        
+08|05| 4|   |Szabó                                             |Tamás                                   |0000758| 1|MDF                                                         
+08|05| 5|   |Takács                                            |Krisztián                               |0003289| 1|Jobbik                                                      
+08|05| 6|   |Véber                                             |József                                  |0000960| 1|CIVILEK                                                     
+08|06| 1|   |Bozsvári                                          |István                                  |0001456| 1|CIVILEK                                                     
+08|06| 2|   |Ivanics                                           |Ferenc                                  |0019986| 2|FIDESZ,KDNP                                                 
+08|06| 3|   |Magyar                                            |Zoltán                                  |0004152| 1|Jobbik                                                      
+08|06| 4|   |Pethõ                                             |István Ernõ                             |0000750| 1|MDF                                                         
+08|06| 5|   |Róka                                              |István                                  |0003721| 1|MSZP                                                        
+08|07| 1|   |Bebesi                                            |József Lajos                            |0003278| 1|LEHET MÁS A POLITIKA                                        
+08|07| 2|   |Firtl                                             |Mátyás Sándor                           |0020465| 2|FIDESZ,KDNP                                                 
+08|07| 3|   |Gõbl                                              |Gábor                                   |0003810| 1|Jobbik                                                      
+08|07| 4|   |Kránitz                                           |László                                  |0006753| 1|MSZP                                                        
+08|07| 5|   |Nagy                                              |Tamás                                   |0001589| 1|MDF                                                         
+09|01| 1|   |Biró                                              |Tamás                                   |0002666| 1|LEHET MÁS A POLITIKA                                        
+09|01| 2|   |Danka                                             |Beáta                                   |0000964| 1|MDF                                                         
+09|01| 3|   |Hunyadi                                           |László                                  |0001028| 1|CIVILEK                                                     
+09|01| 4|   |Kulcsár                                           |Gergely                                 |0006209| 1|Jobbik                                                      
+09|01| 5|Dr.|Pósán                                             |László                                  |0026690| 2|FIDESZ,KDNP                                                 
+09|01| 6|   |Varga                                             |Zoltán Imre                             |0005843| 1|MSZP                                                        
+09|02| 1|   |Halász                                            |János                                   |0018842| 2|FIDESZ,KDNP                                                 
+09|02| 2|   |Kõszeghy                                          |Csanád Ábel                             |0004230| 1|Jobbik                                                      
+09|02| 3|   |Leinemann                                         |Zsolt                                   |0000690| 0|Független jelölt                                            
+09|02| 4|   |Mórucz                                            |Szilvia Katalin                         |0001438| 1|CIVILEK                                                     
+09|02| 5|Dr.|Rónai                                             |György                                  |0004948| 1|MSZP                                                        
+09|02| 6|   |Szani                                             |Bernadett                               |0001072| 1|MDF                                                         
+09|03| 1|   |Gosztonyi                                         |Tibor                                   |0002458| 1|LEHET MÁS A POLITIKA                                        
+09|03| 2|   |Kovács                                            |Edit                                    |0001042| 1|MDF                                                         
+09|03| 3|   |Kósa                                              |Lajos                                   |0020925| 2|FIDESZ,KDNP                                                 
+09|03| 4|   |Kulcsár                                           |Gábor                                   |0003869| 1|Jobbik                                                      
+09|03| 5|Dr.|Zsiros                                            |Zsolt                                   |0005357| 1|MSZP                                                        
+09|04| 1|Dr.|Juhászné Lévai                                    |Katalin                                 |0003477| 1|MSZP                                                        
+09|04| 2|   |Komor                                             |Sándor                                  |0000517| 1|MDF                                                         
+09|04| 3|   |Rubi                                              |Gergely                                 |0005373| 1|Jobbik                                                      
+09|04| 4|   |Tasó                                              |László                                  |0018315| 2|FIDESZ,KDNP                                                 
+09|04| 5|   |Tóth                                              |János                                   |0001112| 0|Független jelölt                                            
+09|05| 1|   |Balázs                                            |István                                  |0005255| 1|Jobbik                                                      
+09|05| 2|   |Bozsányi                                          |László                                  |0000771| 1|LEHET MÁS A POLITIKA                                        
+09|05| 3|   |Gyula                                             |Ferencné                                |0004484| 1|MSZP                                                        
+09|05| 4|   |Lakatos                                           |Tibor József                            |0000449| 1|MDF                                                         
+09|05| 5|   |Megyesi                                           |Károly                                  |0000087| 1|MIÉP                                                        
+09|05| 6|   |Nagy                                              |Norbert                                 |0000040| 1|MSZDP                                                       
+09|05| 7|Dr.|Vitányi                                           |István                                  |0013267| 2|FIDESZ,KDNP                                                 
+09|06| 1|   |Arnóth                                            |Sándor                                  |0013719| 2|FIDESZ,KDNP                                                 
+09|06| 2|   |Csontos                                           |János                                   |0003675| 1|MSZP                                                        
+09|06| 3|Dr.|Móri                                              |Antal                                   |0000532| 1|MIÉP                                                        
+09|06| 4|   |Rigán                                             |István                                  |0005631| 1|Jobbik                                                      
+09|06| 5|   |Tóth                                              |István                                  |0000502| 1|MDF                                                         
+09|07| 1|   |Dede                                              |Tamás                                   |0001636| 1|LEHET MÁS A POLITIKA                                        
+09|07| 2|   |Kocsis                                            |Zsolt                                   |0006524| 1|Jobbik                                                      
+09|07| 3|   |Makay                                             |Zsolt                                   |0001153| 1|MDF                                                         
+09|07| 4|   |Márton                                            |Attila                                  |0018032| 2|FIDESZ,KDNP                                                 
+09|07| 5|   |Nagy                                              |Sándor                                  |0000127| 1|MSZDP                                                       
+09|07| 6|Dr.|Oláh                                              |Lajos                                   |0003991| 1|MSZP                                                        
+09|08| 1|   |Bekker                                            |Gyula                                   |0001141| 1|LEHET MÁS A POLITIKA                                        
+09|08| 2|   |Joó                                               |Szabolcs                                |0000250| 1|MDF                                                         
+09|08| 3|   |Kis                                               |Csaba                                   |0004782| 1|Jobbik                                                      
+09|08| 4|Dr.|Tiba                                              |István                                  |0012678| 2|FIDESZ,KDNP                                                 
+09|08| 5|   |Tóth                                              |József                                  |0003653| 1|MSZP                                                        
+09|09| 1|Dr.|Forgács                                           |Barnabás                                |0004495| 1|MSZP                                                        
+09|09| 2|   |Iván                                              |Alfréd                                  |0000813| 1|MDF                                                         
+09|09| 3|   |Kiss                                              |Attila                                  |0016207| 2|FIDESZ,KDNP                                                 
+09|09| 4|   |Pogácsás                                          |Mariann                                 |0006282| 1|Jobbik                                                      
+10|01| 1|   |Habis                                             |László                                  |0017300| 2|FIDESZ,KDNP                                                 
+10|01| 2|   |Juhász                                            |Mihály                                  |0002614| 1|LEHET MÁS A POLITIKA                                        
+10|01| 3|Dr.|Nagy                                              |Imre                                    |0008483| 1|MSZP                                                        
+10|01| 4|   |Sneider                                           |Tamás                                   |0005820| 1|Jobbik                                                      
+10|02| 1|   |Borsos                                            |László                                  |0000348| 1|MDF                                                         
+10|02| 2|   |Dudás                                             |Róbert                                  |0004767| 1|Jobbik                                                      
+10|02| 3|   |Horváth                                           |László                                  |0011412| 2|FIDESZ,KDNP                                                 
+10|02| 4|   |Ivády                                             |Gábor                                   |0001527| 1|LEHET MÁS A POLITIKA                                        
+10|02| 5|   |Sós                                               |Tamás                                   |0004440| 1|MSZP                                                        
+10|03| 1|   |Balázs                                            |József                                  |0012976| 2|FIDESZ,KDNP                                                 
+10|03| 3|Dr.|Lukács                                            |Zoltán                                  |0002087| 1|LEHET MÁS A POLITIKA                                        
+10|03| 4|Dr.|Magda                                             |Sándor                                  |0009326| 1|MSZP                                                        
+10|03| 5|   |Vona                                              |Gábor                                   |0008613| 1|Jobbik                                                      
+10|04| 1|   |Érsek                                             |Zsolt                                   |0006274| 1|MSZP                                                        
+10|04| 2|Dr.|Nyujtó                                            |Zsolt                                   |0007726| 1|Jobbik                                                      
+10|04| 3|   |Püspöki                                           |Gábor                                   |0001980| 1|LEHET MÁS A POLITIKA                                        
+10|04| 4|   |Szabó                                             |Zsolt                                   |0011741| 2|FIDESZ,KDNP                                                 
+10|05| 1|Dr.|Árvai                                             |György                                  |0006443| 1|Jobbik                                                      
+10|05| 2|   |Godó                                              |Lajos                                   |0004122| 1|MSZP                                                        
+10|05| 3|   |Gönczi                                            |Mihály Miklós                           |0001889| 0|Független jelölt                                            
+10|05| 4|   |Karsai                                            |Miklós                                  |0000284| 1|MDF                                                         
+10|05| 5|Dr.|Tóth                                              |József                                  |0009119| 2|FIDESZ,KDNP                                                 
+10|06| 1|   |Herman                                            |István                                  |0010661| 3|FIDESZ,KDNP,Vállalkozók Pártja                              
+10|06| 2|   |Korózs                                            |Lajos                                   |0004910| 1|MSZP                                                        
+10|06| 3|   |Mirkóczki                                         |Ádám                                    |0006253| 1|Jobbik                                                      
+11|01| 1|Dr.|Gedei                                             |József                                  |0006352| 1|MSZP                                                        
+11|01| 2|   |Murányi                                           |Levente                                 |0004966| 1|Jobbik                                                      
+11|01| 3|Dr.|Szabó                                             |Tamás                                   |0011049| 2|FIDESZ,KDNP                                                 
+11|02| 1|   |Lukácsi                                           |Katalin                                 |0000514| 1|MDF                                                         
+11|02| 2|   |Madarász                                          |Sándor                                  |0004656| 1|Jobbik                                                      
+11|02| 3|   |Pócs                                              |János                                   |0010398| 2|FIDESZ,KDNP                                                 
+11|02| 4|Dr.|Szekeres                                          |Imre                                    |0003630| 1|MSZP                                                        
+11|03| 1|   |Baráth                                            |Zsolt                                   |0006567| 1|Jobbik                                                      
+11|03| 2|   |Bencsik                                           |Mihály                                  |0000408| 1|MUNKÁSPÁRT                                                  
+11|03| 3|   |Csák                                              |László                                  |0005339| 1|MSZP                                                        
+11|03| 4|Dr.|Petõ                                              |Ernõ Zoltán                             |0002599| 1|LEHET MÁS A POLITIKA                                        
+11|03| 5|   |Szalay                                            |Ferenc                                  |0014637| 2|FIDESZ,KDNP                                                 
+11|04| 1|   |Fekete                                            |Sándor                                  |0000324| 1|MUNKÁSPÁRT                                                  
+11|04| 2|   |Iváncsik                                          |Imre                                    |0006865| 1|MSZP                                                        
+11|04| 3|   |Jánosiné Dr. Bene                                 |Ildikó                                  |0013605| 2|FIDESZ,KDNP                                                 
+11|04| 4|   |Kalóczkai                                         |Sándor                                  |0006075| 1|Jobbik                                                      
+11|04| 5|   |Nagy                                              |Gábor                                   |0002387| 1|LEHET MÁS A POLITIKA                                        
+11|04| 6|   |Petronyák                                         |László                                  |0000677| 1|MDF                                                         
+11|05| 1|Dr.|Czuczi                                            |Mihály                                  |0002362| 0|Független jelölt                                            
+11|05| 2|   |Sági                                              |István                                  |0009291| 2|FIDESZ,KDNP                                                 
+11|05| 3|   |Smuta                                             |Zsolt                                   |0000710| 1|CIVILEK                                                     
+11|05| 4|   |Soós                                              |Antal                                   |0004051| 1|Jobbik                                                      
+11|05| 5|   |Tokajiné Demecs                                   |Katalin                                 |0003774| 1|MSZP                                                        
+11|06| 1|   |Boldog                                            |István                                  |0009625| 2|FIDESZ,KDNP                                                 
+11|06| 2|   |Csányi                                            |Tamás                                   |0005215| 1|Jobbik                                                      
+11|06| 3|   |Herceg                                            |Antal                                   |0000235| 1|MUNKÁSPÁRT                                                  
+11|06| 4|   |Jenei                                             |István Imre                             |0000320| 1|MDF                                                         
+11|06| 5|   |Rózsa                                             |Endre                                   |0003934| 1|MSZP                                                        
+11|06| 6|   |Szabó                                             |Attila Antal                            |0001094| 1|LEHET MÁS A POLITIKA                                        
+11|07| 1|   |Fejér                                             |Andor                                   |0012685| 2|FIDESZ,KDNP                                                 
+11|07| 2|   |Mezõ                                              |József                                  |0000751| 1|MDF                                                         
+11|07| 3|Dr.|Nagy                                              |Levente                                 |0007525| 1|Jobbik                                                      
+11|07| 4|   |Serfõzõ                                           |István                                  |0003989| 1|MSZP                                                        
+11|07| 5|   |Szilágyi                                          |András                                  |0000430| 1|MUNKÁSPÁRT                                                  
+11|08| 1|   |Boros                                             |István                                  |0004844| 1|Jobbik                                                      
+11|08| 2|Dr.|Léderer                                           |Károly Áronné                           |0000659| 0|Független jelölt                                            
+11|08| 3|Dr.|Vadai                                             |Ágnes                                   |0003823| 1|MSZP                                                        
+11|08| 4|   |Varga                                             |Mihály                                  |0017334| 2|FIDESZ,KDNP                                                 
+12|01| 1|   |Bencsik                                           |János                                   |0015604| 2|FIDESZ,KDNP                                                 
+12|01| 2|   |Kilián                                            |Géza                                    |0010050| 1|MSZP                                                        
+12|01| 3|   |Ludányi                                           |Tamás                                   |0000811| 1|MDF                                                         
+12|01| 4|   |Szilágyi                                          |László                                  |0002594| 1|LEHET MÁS A POLITIKA                                        
+12|01| 5|   |Vágó                                              |Sebestyén                               |0003684| 1|Jobbik                                                      
+12|02| 1|   |Jagarics                                          |Ferenc                                  |0000892| 1|MDF                                                         
+12|02| 2|   |Michl                                             |József                                  |0017542| 2|FIDESZ,KDNP                                                 
+12|02| 3|   |Michl                                             |Miklós                                  |0003716| 1|Jobbik                                                      
+12|02| 4|Dr.|Nagy                                              |Sándor                                  |0003241| 1|LEHET MÁS A POLITIKA                                        
+12|02| 5|   |Szaniszló                                         |Zoltán                                  |0006080| 1|MSZP                                                        
+12|03| 1|   |Czunyiné Dr. Bertalan                             |Judit                                   |0014009| 2|FIDESZ,KDNP                                                 
+12|03| 2|   |Keleti                                            |György                                  |0008106| 1|MSZP                                                        
+12|03| 3|   |Kovácsné Dr. Trázsi                               |Csilla                                  |0000922| 1|MDF                                                         
+12|03| 4|   |Schwarcz                                          |János                                   |0003562| 1|Jobbik                                                      
+12|04| 1|   |József                                            |Imre                                    |0002474| 1|LEHET MÁS A POLITIKA                                        
+12|04| 2|   |Nagy                                              |Zoltán                                  |0007501| 1|MSZP                                                        
+12|04| 3|   |Tóth                                              |Ferenc                                  |0003759| 1|Jobbik                                                      
+12|04| 4|Dr.|Völner                                            |Pál                                     |0017682| 2|FIDESZ,KDNP                                                 
+12|05| 1|   |Balog                                             |János                                   |0005534| 1|Jobbik                                                      
+12|05| 2|   |Batyikné Csõke                                    |Ágnes Erzsébet                          |0002899| 1|LEHET MÁS A POLITIKA                                        
+12|05| 3|Dr.|Jónás                                             |László                                  |0001584| 1|MDF                                                         
+12|05| 4|   |Meggyes                                           |Tamás                                   |0014936| 2|FIDESZ,KDNP                                                 
+12|05| 5|   |Winkfein                                          |Csaba                                   |0006745| 1|MSZP                                                        
+13|01| 1|   |Bagó                                              |László                                  |0005717| 1|Jobbik                                                      
+13|01| 2|   |Boldvai                                           |László                                  |0007389| 1|MSZP                                                        
+13|01| 3|   |Nagy                                              |Attila                                  |0001018| 1|MUNKÁSPÁRT                                                  
+13|01| 4|   |Székyné Dr. Sztrémi                               |Melinda                                 |0010822| 2|FIDESZ,KDNP                                                 
+13|02| 1|   |Becsó                                             |Zsolt                                   |0013666| 2|FIDESZ,KDNP                                                 
+13|02| 2|   |Fekete                                            |József                                  |0001442| 1|LEHET MÁS A POLITIKA                                        
+13|02| 3|   |Juhász                                            |Gábor                                   |0005429| 1|MSZP                                                        
+13|02| 4|   |Navratil                                          |Attila                                  |0006164| 1|Jobbik                                                      
+13|02| 5|   |Soós                                              |Károly                                  |0000261| 1|ZÖLD BALOLDAL                                               
+13|03| 1|   |Betz                                              |József                                  |0004614| 1|Jobbik                                                      
+13|03| 2|   |Borenszki                                         |Ervin                                   |0004902| 1|MSZP                                                        
+13|03| 3|Dr.|Nagy                                              |Andor                                   |0013544| 2|FIDESZ,KDNP                                                 
+13|04| 1|   |Balla                                             |Mihály                                  |0017140| 2|FIDESZ,KDNP                                                 
+13|04| 2|Dr.|Czuczi                                            |János                                   |0004665| 1|Jobbik                                                      
+13|04| 3|Dr.|Dobos                                             |Attila                                  |0000739| 1|MDF                                                         
+13|04| 4|   |Ferencz                                           |Sándor                                  |0000093| 1|MSZDP                                                       
+13|04| 5|Dr.|Frankfurter                                       |Zsuzsanna                               |0000403| 1|MUNKÁSPÁRT                                                  
+13|04| 6|   |Galanics                                          |Zoltán                                  |0001761| 1|LEHET MÁS A POLITIKA                                        
+13|04| 7|   |Lombos                                            |István                                  |0004722| 1|MSZP                                                        
+14|01| 1|   |Bedéné dr. Balogh                                 |Róza                                    |0006292| 1|Jobbik                                                      
+14|01| 2|   |Harrach                                           |Péter                                   |0019766| 2|FIDESZ,KDNP                                                 
+14|01| 3|   |Kárpáti                                           |Zsuzsa                                  |0005703| 1|MSZP                                                        
+14|01| 4|   |Krenedits                                         |Sándor                                  |0000777| 1|MDF                                                         
+14|01| 5|   |Tatár                                             |Sándor                                  |0002915| 1|LEHET MÁS A POLITIKA                                        
+14|02| 1|   |Bábiné Szottfried                                 |Gabriella                               |0011837| 2|FIDESZ,KDNP                                                 
+14|02| 2|   |Bethlen                                           |Farkas                                  |0005232| 0|                                                            
+14|02| 3|   |Elekes                                            |Balázs                                  |0002861| 1|LEHET MÁS A POLITIKA                                        
+14|02| 4|   |Fehér                                             |Zsolt                                   |0004365| 1|Jobbik                                                      
+14|02| 5|Dr.|Jakab                                             |Zoltán Attila                           |0007025| 1|MSZP                                                        
+14|03| 1|   |Dióssi                                            |Csaba                                   |0021182| 2|FIDESZ,KDNP                                                 
+14|03| 2|   |Fábry                                             |Béla                                    |0007738| 1|MSZP                                                        
+14|03| 3|   |Lukácsi                                           |Bálint                                  |0004537| 1|LEHET MÁS A POLITIKA                                        
+14|03| 4|   |Móczár                                            |Béla                                    |0001041| 1|MDF                                                         
+14|03| 5|   |Nyiri                                             |Márton                                  |0005960| 1|Jobbik                                                      
+14|03| 6|   |Simon                                             |Zsolt                                   |0001624| 1|CIVILEK                                                     
+14|04| 1|   |Bertha                                            |Szilvia                                 |0007963| 1|Jobbik                                                      
+14|04| 2|   |Fogarasiné Deák                                   |Valéria                                 |0008858| 1|MSZP                                                        
+14|04| 3|   |Lengyel                                           |Szilvia                                 |0005142| 1|LEHET MÁS A POLITIKA                                        
+14|04| 4|   |Roszík                                            |Gábor                                   |0001921| 1|MDF                                                         
+14|04| 5|   |Vécsey                                            |László                                  |0025008| 2|FIDESZ,KDNP                                                 
+14|05| 1|   |Koncz                                             |Balázs                                  |0006341| 1|Jobbik                                                      
+14|05| 2|   |Perna                                             |Pál                                     |0000907| 1|MDF                                                         
+14|05| 3|Dr.|Szabóné Müller                                    |Timea                                   |0004431| 1|MSZP                                                        
+14|05| 4|   |Tóth                                              |Gábor                                   |0015189| 2|FIDESZ,KDNP                                                 
+14|06| 1|   |Csanádi                                           |Gábor Ferenc                            |0008589| 1|Jobbik                                                      
+14|06| 2|   |Czerván                                           |György                                  |0020898| 2|FIDESZ,KDNP                                                 
+14|06| 3|   |Varró                                             |István                                  |0006720| 1|MSZP                                                        
+14|07| 1|   |Gémesi                                            |Ferenc János                            |0008040| 1|MSZP                                                        
+14|07| 2|   |Horváth                                           |István Attila                           |0001555| 1|MDF                                                         
+14|07| 3|Dr.|Nagy                                              |Marianna                                |0002623| 1|CIVILEK                                                     
+14|07| 4|   |Pogácsás                                          |Tibor János                             |0024548| 2|FIDESZ,KDNP                                                 
+14|07| 5|   |Szabóné Papp                                      |Klára                                   |0007373| 1|Jobbik                                                      
+14|08| 1|Dr.|Aradszki                                          |András                                  |0025794| 2|FIDESZ,KDNP                                                 
+14|08| 2|   |Klimsa                                            |Arthúr                                  |0000686| 1|TORGYÁN-KISGAZDA-KOALÍCIÓ                                   
+14|08| 3|   |Süle-Szigeti                                      |Gábor                                   |0007741| 1|Jobbik                                                      
+14|08| 4|   |Tóbiás                                            |József                                  |0013458| 1|MSZP                                                        
+14|09| 1|   |Csenger-Zalán                                     |Zsolt                                   |0021398| 2|FIDESZ,KDNP                                                 
+14|09| 2|Dr.|Görög                                             |Balázs                                  |0005152| 1|LEHET MÁS A POLITIKA                                        
+14|09| 3|   |Keller                                            |László                                  |0009017| 1|MSZP                                                        
+14|09| 4|   |Pályi                                             |István                                  |0004615| 1|Jobbik                                                      
+14|10| 1|   |Gulyás                                            |Dénes                                   |0027119| 2|FIDESZ,KDNP                                                 
+14|10| 2|Dr.|Lenhardt                                          |Balázs Péter                            |0005537| 1|Jobbik                                                      
+14|10| 3|   |Sass                                              |Szabolcs                                |0008739| 1|MSZP                                                        
+14|10| 4|   |Szél                                              |Bernadett                               |0006559| 1|LEHET MÁS A POLITIKA                                        
+14|11| 1|Dr.|Dragon                                            |Pál                                     |0001516| 1|MDF                                                         
+14|11| 2|Dr.|Filó                                              |András                                  |0005565| 1|Jobbik                                                      
+14|11| 3|   |Hadházy                                           |Sándor                                  |0024086| 2|FIDESZ,KDNP                                                 
+14|11| 4|   |Kukorelly                                         |Endre                                   |0005172| 1|LEHET MÁS A POLITIKA                                        
+14|11| 5|   |Szabó                                             |Imre                                    |0007637| 1|MSZP                                                        
+14|12| 1|   |Dankó                                             |Géza Gábor                              |0001332| 1|CIVILEK                                                     
+14|12| 2|   |Hoffman                                           |Pál                                     |0023377| 2|FIDESZ,KDNP                                                 
+14|12| 3|   |Kaufer                                            |Virág                                   |0005677| 1|LEHET MÁS A POLITIKA                                        
+14|12| 4|   |Lévai                                             |György                                  |0006620| 1|Jobbik                                                      
+14|12| 5|   |Varju                                             |László                                  |0010679| 1|MSZP                                                        
+14|13| 1|   |Gerecz                                            |Attila                                  |0009472| 1|Jobbik                                                      
+14|13| 2|   |Pánczél                                           |Károly                                  |0022881| 2|FIDESZ,KDNP                                                 
+14|13| 3|   |Szentgyörgyi                                      |József                                  |0008780| 1|MSZP                                                        
+14|14| 1|Dr.|Bartháné Harsányi                                 |Nóra                                    |0002115| 1|LEHET MÁS A POLITIKA                                        
+14|14| 2|Dr.|Szûcs                                             |Lajos                                   |0020695| 2|FIDESZ,KDNP                                                 
+14|14| 3|   |Végh                                              |Tibor                                   |0005151| 1|MSZP                                                        
+14|14| 4|   |Volner                                            |János                                   |0006595| 1|Jobbik                                                      
+14|15| 1|   |Földi                                             |László                                  |0017804| 2|FIDESZ,KDNP                                                 
+14|15| 2|Dr.|Fülöp                                             |Hajnalka Ilona                          |0001777| 1|MDF                                                         
+14|15| 3|   |Korondi                                           |Miklós                                  |0007471| 1|Jobbik                                                      
+14|15| 4|   |Nagy                                              |Tamás                                   |0006024| 1|MSZP                                                        
+14|16| 1|Dr.|Czira                                             |Szabolcs                                |0014258| 2|FIDESZ,KDNP                                                 
+14|16| 2|   |Dénes                                             |Dénes                                   |0004443| 1|Jobbik                                                      
+14|16| 3|   |Földi                                             |Áron                                    |0001418| 1|LEHET MÁS A POLITIKA                                        
+14|16| 4|   |Köteles                                           |Lajos                                   |0000718| 1|CIVILEK                                                     
+14|16| 5|   |László                                            |Ferenc                                  |0003487| 1|MSZP                                                        
+15|01| 1|Dr.|Heintz                                            |Tamás                                   |0015046| 2|FIDESZ,KDNP                                                 
+15|01| 2|Dr.|Lamperth                                          |Mónika                                  |0006736| 1|MSZP                                                        
+15|01| 3|   |Nemes                                             |Károly                                  |0003699| 1|Jobbik                                                      
+15|02| 1|   |Felder                                            |Frigyes                                 |0001972| 1|LEHET MÁS A POLITIKA                                        
+15|02| 2|   |Futó                                              |Tibor                                   |0004034| 1|Jobbik                                                      
+15|02| 3|   |Gelencsér                                         |Attila                                  |0018224| 2|FIDESZ,KDNP                                                 
+15|02| 4|Dr.|Kolber                                            |István                                  |0006665| 1|MSZP                                                        
+15|03| 1|   |Géczi                                             |Tibor                                   |0001131| 1|MDF                                                         
+15|03| 2|Dr.|Gruber                                            |Attila László                           |0017598| 2|FIDESZ,KDNP                                                 
+15|03| 3|   |Harangozó                                         |Gábor István                            |0005541| 1|MSZP                                                        
+15|03| 4|Dr.|Léhmann                                           |György                                  |0004378| 1|Jobbik                                                      
+15|04| 1|Dr.|Bollók                                            |Sándor                                  |0001196| 1|SOMOGYÉRT                                                   
+15|04| 2|   |Filák                                             |Péter                                   |0001743| 1|LEHET MÁS A POLITIKA                                        
+15|04| 3|   |Hajmási                                           |Judit                                   |0004324| 1|MSZP                                                        
+15|04| 4|   |Móring                                            |József Attila                           |0015544| 2|FIDESZ,KDNP                                                 
+15|04| 5|   |Stamler                                           |József                                  |0003551| 1|Jobbik                                                      
+15|05| 1|   |Boros                                             |Milán                                   |0000153| 1|TORGYÁN-KISGAZDA-KOALÍCIÓ                                   
+15|05| 2|   |Kövér                                             |István                                  |0000986| 1|SOMOGYÉRT                                                   
+15|05| 3|Dr.|Suchman                                           |Tamás                                   |0004612| 1|MSZP                                                        
+15|05| 4|   |Szászfalvi                                        |László                                  |0014085| 2|FIDESZ,KDNP                                                 
+15|05| 5|   |Széll                                             |Károly                                  |0003296| 1|Jobbik                                                      
+15|06| 1|   |Egervári                                          |József                                  |0002758| 1|Jobbik                                                      
+15|06| 2|   |Feigli                                            |Ferenc                                  |0003276| 1|MSZP                                                        
+15|06| 3|Dr.|Gyenesei                                          |István László                           |0005288| 1|SOMOGYÉRT                                                   
+15|06| 4|   |Karvalics                                         |Ottó János                              |0012417| 2|FIDESZ,KDNP                                                 
+15|06| 5|   |Lóth                                              |Ferenc                                  |0000088| 1|MSZDP                                                       
+16|01| 1|   |Jeszenszki                                        |András                                  |0007163| 1|MSZP                                                        
+16|01| 2|Dr.|Kovács                                            |Ferenc                                  |0014567| 2|FIDESZ,KDNP                                                 
+16|01| 3|   |Petrika                                           |Ibolya                                  |0000804| 1|MDF                                                         
+16|01| 4|   |Priksz                                            |Gábor                                   |0001536| 1|LEHET MÁS A POLITIKA                                        
+16|01| 5|   |Seres                                             |Mária                                   |0003291| 1|CIVILEK                                                     
+16|01| 6|Dr.|Sztankó                                           |Éva                                     |0006064| 1|Jobbik                                                      
+16|02| 1|Dr.|Csokonay                                          |József Péter                            |0002275| 1|CIVILEK                                                     
+16|02| 2|Dr.|Gyüre                                             |Csaba                                   |0007649| 1|Jobbik                                                      
+16|02| 3|   |Marsó                                             |Tamásné                                 |0000611| 0|Független jelölt                                            
+16|02| 4|   |Tukacs                                            |István                                  |0006657| 1|MSZP                                                        
+16|02| 5|Dr.|Vinnai                                            |Gyõzõ                                   |0015998| 2|FIDESZ,KDNP                                                 
+16|02| 6|   |Zalatnay                                          |László                                  |0001938| 1|LEHET MÁS A POLITIKA                                        
+16|03| 1|   |Császár                                           |József                                  |0008392| 1|Jobbik                                                      
+16|03| 2|Dr.|Helmeczy                                          |László                                  |0000546| 2|ÖSSZEFOGÁS MEGYÉNKÉRT,MDF                                   
+16|03| 3|   |Juhász                                            |Ferenc                                  |0004613| 1|MSZP                                                        
+16|03| 4|Dr.|Karakó                                            |László                                  |0010606| 2|FIDESZ,KDNP                                                 
+16|03| 5|   |Rozgonyi                                          |Attila                                  |0001235| 0|Független jelölt                                            
+16|04| 1|Dr.|Budai                                             |Gyula                                   |0013378| 2|FIDESZ,KDNP                                                 
+16|04| 2|   |Demendi                                           |László                                  |0003670| 1|MSZP                                                        
+16|04| 3|   |Juhász                                            |Zoltán                                  |0003506| 2|ÖSSZEFOGÁS MEGYÉNKÉRT,MDF                                   
+16|04| 4|   |Szilágyi                                          |Péter                                   |0005801| 1|Jobbik                                                      
+16|04| 5|   |Szöllõsiné Fitos                                  |Éva                                     |0000163| 1|MUNKÁSPÁRT                                                  
+16|05| 1|   |Balogh                                            |Gyula                                   |0001517| 0|Független jelölt                                            
+16|05| 2|   |Gazda                                             |László                                  |0004121| 1|MSZP                                                        
+16|05| 3|   |Lipõk                                             |Sándor                                  |0016647| 2|FIDESZ,KDNP                                                 
+16|05| 4|   |Orosz                                             |Mihály                                  |0001163| 0|Független jelölt                                            
+16|05| 5|   |Vass                                              |Zoltán Géza                             |0005069| 1|Jobbik                                                      
+16|06| 1|Dr.|Kiss                                              |Sándor                                  |0006036| 1|Jobbik                                                      
+16|06| 2|Dr.|Simon                                             |Miklós                                  |0015676| 2|FIDESZ,KDNP                                                 
+16|06| 3|Dr.|Veres                                             |János                                   |0004652| 1|MSZP                                                        
+16|07| 1|   |Bodrog                                            |László                                  |0007414| 1|Jobbik                                                      
+16|07| 2|Dr.|Boros                                             |László                                  |0003874| 1|MSZP                                                        
+16|07| 3|   |Gyüre                                             |Lajos                                   |0000610| 1|MDF                                                         
+16|07| 4|   |Nagy                                              |László                                  |0000663| 1|CIVILEK                                                     
+16|07| 5|Dr.|Seszták                                           |Miklós                                  |0014038| 2|FIDESZ,KDNP                                                 
+16|07| 6|   |Tóth                                              |Péter                                   |0000278| 1|MUNKÁSPÁRT                                                  
+16|08| 1|   |Adorján                                           |Béla                                    |0005447| 1|Jobbik                                                      
+16|08| 2|Dr.|Czomba                                            |Sándor                                  |0015087| 2|FIDESZ,KDNP                                                 
+16|08| 3|   |Daróczy                                           |Pál                                     |0000328| 1|MESZ                                                        
+16|08| 4|Dr.|Kapolyi                                           |László                                  |0000897| 1|MSZDP                                                       
+16|08| 5|Dr.|Legény                                            |Zsolt                                   |0002534| 1|MSZP                                                        
+16|09| 1|Dr.|Apáti                                             |István                                  |0007695| 1|Jobbik                                                      
+16|09| 2|   |Fülöp                                             |István                                  |0012984| 2|FIDESZ,KDNP                                                 
+16|09| 3|Dr.|Göröncséri                                        |Ferencné                                |0000657| 1|CIVILEK                                                     
+16|09| 4|   |Kárpáti                                           |Tibor                                   |0003309| 1|MSZP                                                        
+16|09| 5|Dr.|Szöõr                                             |Anna Noémi                              |0000580| 1|TORGYÁN-KISGAZDA-KOALÍCIÓ                                   
+16|09| 6|   |Tõzsér                                            |József                                  |0000038| 1|MESZ                                                        
+16|09| 7|Dr.|Vékony                                            |Miklós                                  |0000330| 1|MDF                                                         
+16|10| 1|   |Hopka                                             |András                                  |0003632| 1|MSZP                                                        
+16|10| 2|   |Kovács                                            |András Bálint                           |0003454| 1|Jobbik                                                      
+16|10| 3|   |Kozma                                             |Józsefné                                |0000081| 1|MSZDP                                                       
+16|10| 4|   |Seres                                             |Tamás Richárd                           |0000719| 0|Független jelölt                                            
+16|10| 5|   |Sipos                                             |László                                  |0000590| 1|LEHET MÁS A POLITIKA                                        
+16|10| 6|Dr.|Tilki                                             |Attila                                  |0015576| 2|FIDESZ,KDNP                                                 
+17|01| 1|Dr.|Harangozó                                         |Tamás                                   |0006576| 1|MSZP                                                        
+17|01| 2|   |Horváth                                           |István                                  |0018165| 2|FIDESZ,KDNP                                                 
+17|01| 3|   |Horváth                                           |Tibor                                   |0000951| 2|MDF,SZDSZ                                                   
+17|01| 4|   |Kõszegi                                           |Zsolt                                   |0000122| 1|MESZ                                                        
+17|01| 5|   |Rák                                               |Vilmos                                  |0002244| 1|LEHET MÁS A POLITIKA                                        
+17|01| 6|   |Tóth                                              |Endre                                   |0004377| 1|Jobbik                                                      
+17|02| 1|   |Földesi-Szabó                                     |László                                  |0000539| 1|MESZ                                                        
+17|02| 2|   |Horváth                                           |Zoltán                                  |0004564| 1|Jobbik                                                      
+17|02| 3|   |Horváth                                           |Zsolt                                   |0005256| 1|MSZP                                                        
+17|02| 4|   |Tóth                                              |Ferenc                                  |0017510| 2|FIDESZ,KDNP                                                 
+17|03| 1|   |Helfenbein                                        |Péter                                   |0000726| 1|MDF                                                         
+17|03| 2|   |László                                            |Ferenc                                  |0003351| 1|Jobbik                                                      
+17|03| 3|   |Potápi                                            |Árpád János                             |0014811| 2|FIDESZ,KDNP                                                 
+17|03| 4|   |Takács                                            |László                                  |0003796| 1|MSZP                                                        
+17|04| 1|   |Bodó                                              |Imre                                    |0003498| 1|Jobbik                                                      
+17|04| 2|   |Máté                                              |Mihály                                  |0000784| 1|LEHET MÁS A POLITIKA                                        
+17|04| 3|   |Patay                                             |Vilmos                                  |0007901| 2|FIDESZ,KDNP                                                 
+17|04| 4|   |Tóth                                              |Gyula                                   |0003599| 1|MSZP                                                        
+17|05| 1|   |Balogh                                            |Árpádné                                 |0000445| 1|MDF                                                         
+17|05| 2|   |Bencze                                            |János                                   |0002948| 1|Jobbik                                                      
+17|05| 3|Dr.|Benkõ                                             |András                                  |0003157| 1|MSZP                                                        
+17|05| 4|   |Bóni                                              |Zoltán                                  |0000749| 1|LEHET MÁS A POLITIKA                                        
+17|05| 5|   |Hirt                                              |Ferenc                                  |0011936| 2|FIDESZ,KDNP                                                 
+18|01| 1|   |Balassa                                           |Péter                                   |0002926| 1|Jobbik                                                      
+18|01| 2|Dr.|Ipkovich                                          |György                                  |0007464| 1|MSZP                                                        
+18|01| 3|Dr.|Puskás                                            |Tivadar                                 |0015370| 2|FIDESZ,KDNP                                                 
+18|01| 4|Dr.|Szabó                                             |Gábor                                   |0001109| 1|MDF                                                         
+18|02| 1|Dr.|Árvai                                             |Roland                                  |0003276| 1|Jobbik                                                      
+18|02| 2|Dr.|Hende                                             |Csaba                                   |0016447| 2|FIDESZ,KDNP                                                 
+18|02| 3|   |Kohuth                                            |Gyõzõ Viktor                            |0001900| 1|CIVILEK                                                     
+18|02| 4|Dr.|Nemény                                            |András                                  |0005296| 1|MSZP                                                        
+18|03| 1|   |Básthy                                            |Tamás                                   |0018944| 2|FIDESZ,KDNP                                                 
+18|03| 2|   |Giczy                                             |József                                  |0003391| 1|Jobbik                                                      
+18|03| 3|   |Plechl                                            |Tibor István                            |0001754| 1|LEHET MÁS A POLITIKA                                        
+18|03| 4|   |Rába                                              |László                                  |0004086| 1|MSZP                                                        
+18|03| 5|   |Szabó                                             |Erika                                   |0000737| 1|CIVILEK                                                     
+18|04| 1|   |Gergácz                                           |Ildikó                                  |0001432| 1|LEHET MÁS A POLITIKA                                        
+18|04| 2|   |György                                            |Tamás                                   |0004047| 1|Jobbik                                                      
+18|04| 3|   |Kovács                                            |Ferenc                                  |0017231| 2|FIDESZ,KDNP                                                 
+18|04| 4|   |Szabó                                             |Lajos                                   |0005349| 1|MSZP                                                        
+18|05| 1|   |Bana                                              |Tibor                                   |0004383| 1|Jobbik                                                      
+18|05| 2|   |Oroszvári                                         |Péter                                   |0003833| 1|MSZP                                                        
+18|05| 3|   |V.Németh                                          |Zsolt                                   |0019888| 2|FIDESZ,KDNP                                                 
+19|01| 1|   |Ékes                                              |József László                           |0013879| 2|FIDESZ,KDNP                                                 
+19|01| 2|   |Ferenczi                                          |Gábor                                   |0004252| 1|Jobbik                                                      
+19|01| 3|   |Halmay                                            |Zsuzsa Réka                             |0001185| 1|LEHET MÁS A POLITIKA                                        
+19|01| 4|   |Marton                                            |József Gyula                            |0000755| 1|MDF                                                         
+19|01| 5|   |Schwartz                                          |Béla                                    |0007578| 1|MSZP                                                        
+19|02| 1|Dr.|Bóka                                              |István                                  |0019850| 2|FIDESZ,KDNP                                                 
+19|02| 2|   |Kepli                                             |Lajos                                   |0003005| 1|Jobbik                                                      
+19|02| 3|   |Nagy                                              |Jenõ                                    |0005583| 1|MSZP                                                        
+19|03| 1|   |Erõss                                             |Bulcsú                                  |0004786| 1|Jobbik                                                      
+19|03| 2|   |Gõgös                                             |Zoltán                                  |0005699| 1|MSZP                                                        
+19|03| 3|Dr.|Kovács                                            |Zoltán                                  |0020124| 2|FIDESZ,KDNP                                                 
+19|04| 1|   |Dobó                                              |Zoltán                                  |0005462| 1|Jobbik                                                      
+19|04| 2|   |Lasztovicza                                       |Jenõ                                    |0017009| 2|FIDESZ,KDNP                                                 
+19|04| 3|   |Lévai                                             |József                                  |0004781| 1|MSZP                                                        
+19|04| 4|   |Mészáros                                          |László                                  |0000794| 1|MDF                                                         
+19|05| 1|   |Deák                                              |Istvánné                                |0005520| 1|MSZP                                                        
+19|05| 2|   |Szabó                                             |Richárd                                 |0004090| 1|Jobbik                                                      
+19|05| 3|   |Talabér                                           |Márta                                   |0016964| 2|FIDESZ,KDNP                                                 
+19|05| 4|   |Vancsek                                           |Ferenc                                  |0002790| 1|LEHET MÁS A POLITIKA                                        
+19|06| 1|   |Brantmüller                                       |László                                  |0003999| 1|MSZP                                                        
+19|06| 2|Dr.|Horváth                                           |Zsolt                                   |0011848| 2|FIDESZ,KDNP                                                 
+19|06| 3|   |Kovács                                            |Rajmund                                 |0002192| 1|Jobbik                                                      
+19|07| 1|   |Forgó                                             |Gyula                                   |0003145| 1|Jobbik                                                      
+19|07| 2|   |Hites                                             |Viktor                                  |0003127| 1|LEHET MÁS A POLITIKA                                        
+19|07| 3|Dr.|Navracsics                                        |Tibor                                   |0014042| 2|FIDESZ,KDNP                                                 
+19|07| 4|   |Pál                                               |Béla                                    |0006768| 1|MSZP                                                        
+20|01| 1|   |Baján                                             |Antal                                   |0001195| 1|MDF                                                         
+20|01| 2|Dr.|Gyimesi                                           |Endre                                   |0016842| 2|FIDESZ,KDNP                                                 
+20|01| 3|   |Major                                             |Gábor                                   |0006703| 1|MSZP                                                        
+20|01| 4|   |Pete                                              |Róbert                                  |0005440| 1|Jobbik                                                      
+20|01| 5|   |Viant                                             |Zsolt                                   |0002579| 1|LEHET MÁS A POLITIKA                                        
+20|02| 1|   |Bogár                                             |Ferenc                                  |0000810| 1|MSZDP                                                       
+20|02| 2|   |Cseresnyés                                        |Péter                                   |0014404| 2|FIDESZ,KDNP                                                 
+20|02| 3|Dr.|Fodor                                             |Csaba                                   |0006668| 1|MSZP                                                        
+20|02| 4|   |Röst                                              |János                                   |0001398| 2|MDF,SZDSZ                                                   
+20|02| 5|   |Zakó                                              |László                                  |0005510| 1|Jobbik                                                      
+20|03| 1|   |Manninger                                         |Jenõ                                    |0019680| 2|FIDESZ,KDNP                                                 
+20|03| 2|   |Mohácsi                                           |József                                  |0006071| 1|MSZP                                                        
+20|03| 3|Dr.|Pap                                               |Ervin                                   |0005061| 1|Jobbik                                                      
+20|04| 1|   |Nagy                                              |Imre                                    |0000224| 1|MSZDP                                                       
+20|04| 2|   |Nógrádi                                           |László                                  |0004134| 0|Független jelölt                                            
+20|04| 3|   |Pintér                                            |László                                  |0013828| 2|FIDESZ,KDNP                                                 
+20|04| 4|   |Rada                                              |Tamás                                   |0003603| 1|MSZP                                                        
+20|04| 5|   |Völgyi                                            |Zoltán                                  |0004099| 1|Jobbik                                                      
+20|05| 1|   |Baracskai                                         |József                                  |0004727| 1|MSZP                                                        
+20|05| 2|   |Mezõ                                              |János Bálint                            |0001514| 1|LEHET MÁS A POLITIKA                                        
+20|05| 3|   |Péntek                                            |László                                  |0005435| 1|Jobbik                                                      
+20|05| 4|Dr.|Szigethy                                          |István                                  |0000579| 1|MDF                                                         
+20|05| 5|   |Vigh                                              |László                                  |0018077| 2|FIDESZ,KDNP                                                 
