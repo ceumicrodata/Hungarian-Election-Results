@@ -1,485 +1,485 @@
-01|BUDAPEST|001|BUDAPEST     I. ker.|486|1||MAJOR GYULA L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|003|BUDAPEST     III. ker.|462|1||HOLCZINGER BERN¡T|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|004|BUDAPEST     IV. ker.|469|1||RECSNIK FERENCN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1775|⁄SZRSZ
-01|BUDAPEST|004|BUDAPEST     IV. ker.|469|2||SEB’K L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1775|⁄SZRSZ
-01|BUDAPEST|004|BUDAPEST     IV. ker.|469|3||T”TH J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1775|⁄SZRSZ
-01|BUDAPEST|005|BUDAPEST     V. ker.|502|1||BARTHOS BARNAB¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|005|BUDAPEST     V. ker.|502|2|DR.|LOHINGER IMRE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|006|BUDAPEST     VI. ker.|509|1||M‹HL TER…Z|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|007|BUDAPEST     VII. ker.|524|1||BENCSIK KATALIN|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|007|BUDAPEST     VII. ker.|524|2||D…KITY M¡RK|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|007|BUDAPEST     VII. ker.|524|3||WEIZER KATALIN|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|007|BUDAPEST     VII. ker.|533|1||FRIGYESN… ALLGEIER MAGDOLNA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|007|BUDAPEST     VII. ker.|533|2||FRIGYESI ANDR¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|008|BUDAPEST     VIII. ker.|491|1||CSORBA ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|008|BUDAPEST     VIII. ker.|491|2||N…METH B…LA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|008|BUDAPEST     VIII. ker.|491|3||SZAB” L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|008|BUDAPEST     VIII. ker.|491|4||SZ€CS GYULA|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|009|BUDAPEST     IX. ker.|505|1||BALOG M¡RIA TER…ZIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|009|BUDAPEST     IX. ker.|505|2||F‹LE ILDIK”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|009|BUDAPEST     IX. ker.|505|3||KOV¡CS ZOLT¡N|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|009|BUDAPEST     IX. ker.|505|4||SCHMIDT P…TER|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|009|BUDAPEST     IX. ker.|505|5||WITTMANN ENDRE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|009|BUDAPEST     IX. ker.|514|1||BALOGH GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|009|BUDAPEST     IX. ker.|514|2||CSONK¡N… LAKATOS KL¡RA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|009|BUDAPEST     IX. ker.|514|3||VALLA …VA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|010|BUDAPEST     X. ker.|472|1||DANYI S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|010|BUDAPEST     X. ker.|472|2||DAR”CZI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1136|HHF…SZSZ
-01|BUDAPEST|011|BUDAPEST     XI. ker.|460|1||K¡RP¡TI IMRE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|011|BUDAPEST     XI. ker.|479|1||RUDAS VAL…RIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|011|BUDAPEST     XI. ker.|488|1||BAJTAI L¡SZL”N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|011|BUDAPEST     XI. ker.|488|2||M‹LLER REZS’|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|012|BUDAPEST     XII. ker.|485|1||DICS’N… HELMLY M¡RIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|013|BUDAPEST     XIII. ker.|464|1||K¡LLAI TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|014|BUDAPEST     XIV. ker.|500|1||P¡L K¡ROLY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|014|BUDAPEST     XIV. ker.|519|1||TIMLER LAJOSN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|545|1||ABH¡ZIN… LUK¡CS BE¡TA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|550|1||GYARMATI-FARKAS DEZS’|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1077|MRP
-01|BUDAPEST|015|BUDAPEST     XV. ker.|550|2||P¡VA J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|550|3||RAFFAEL J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|568|1||ABH¡ZI J”ZSEF|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|568|2||GIZUR J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|568|3||MAJOR M”NIKA KRISZTINA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|568|4||REISZN… NASZ¡DI MAGDOLNA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|568|5||ZECHMEISZTER L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|576|1||BANCSI BERTALANN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|576|2||BOTOS B¡LINT GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|576|3||CSIBR¡KI J¡NOSN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|576|4||KARSAI ANDR¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|576|5||SZAB” J”ZSEFN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|576|6||T”TH ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|015|BUDAPEST     XV. ker.|576|7||T”TH ZOLT¡NN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|016|BUDAPEST     XVI. ker.|542|1||EBNETH FRIGYES|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|016|BUDAPEST     XVI. ker.|542|2|IFJ.|EBNETH FRIGYES|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|016|BUDAPEST     XVI. ker.|542|3||NOV¡KN… MATULA M¡RIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|016|BUDAPEST     XVI. ker.|557|1||P¡SZTOR BRIGITTA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|018|BUDAPEST     XVIII. ker.|505|1||HORNINGER ZSUZSANNA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1181|NPE XVIII.
-01|BUDAPEST|018|BUDAPEST     XVIII. ker.|505|2||WALTER G…ZA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1181|NPE XVIII.
-01|BUDAPEST|018|BUDAPEST     XVIII. ker.|505|3||ZEITLER K¡LM¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1181|NPE XVIII.
-01|BUDAPEST|020|BUDAPEST     XX. ker.|513|1|ID|HERTELENDI P…TER|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1284|NH¡SZEP
-01|BUDAPEST|020|BUDAPEST     XX. ker.|513|2||HRYCH GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|020|BUDAPEST     XX. ker.|550|1||FEH…R GY÷RGY M¡RK|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1158|MNVKSZ
-01|BUDAPEST|020|BUDAPEST     XX. ker.|550|2||HORV¡THN… RITTER KATALIN|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1158|MNVKSZ
-01|BUDAPEST|020|BUDAPEST     XX. ker.|550|3||NAGY IMRE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|020|BUDAPEST     XX. ker.|550|4||VAJDA BARNAB¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|020|BUDAPEST     XX. ker.|568|1||HORV¡TH ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1158|MNVKSZ
-01|BUDAPEST|020|BUDAPEST     XX. ker.|568|2||KOCSIS EL’D|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1158|MNVKSZ
-01|BUDAPEST|021|BUDAPEST     XXI. ker.|499|1||SZ¡RKISZJ¡N ¡D¡M|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|021|BUDAPEST     XXI. ker.|501|1||KALTENECKER G¡BOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1405|CSSSZKE
-01|BUDAPEST|021|BUDAPEST     XXI. ker.|501|2||V¡RSZEGI TAM¡S GY’Z’|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1405|CSSSZKE
-01|BUDAPEST|022|BUDAPEST     XXII. ker.|487|1|IFJ.|BAL¡ZS ZSIGMOND|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|022|BUDAPEST     XXII. ker.|487|2||DAR”CZI K¡ROLY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|023|BUDAPEST     XXIII. ker.|523|1||J”NI S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|023|BUDAPEST     XXIII. ker.|523|2||KALOCSAI ERIKA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|023|BUDAPEST     XXIII. ker.|532|1||POLONKAI ZOLT¡NN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-01|BUDAPEST|023|BUDAPEST     XXIII. ker.|532|2||SEPSEY ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|522|1||GALLAI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|522|2||HEGED‹S ISTV¡N|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|522|3||JOV¡NOVICS L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|522|4||KUN G…ZA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|522|5||ORS”S ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|522|6||SZIGETI J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|545|1||TOKODI ATTILA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|550|1||HOFFMANN TAM¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|550|2||J…GL ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|550|3||KAKAS ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|550|4||MOJZES S¡NDOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|550|5||PRETTL N¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|137|KOML”|550|6||SCHMIDT HILDEGARD GIZELLA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|539|1||ENGERT FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|539|2||K¡NTORN… RIPSZ¡M M¡RIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|539|3||KOLBACH FERENC|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|539|4||SCHAUER ANTAL|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|539|5||TR¡BERT J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|539|6||WERNER GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|539|7||WIRTH GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|558|1||KUNOVSZKI J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|566|1||KOV¡CS ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-02|BARANYA|181|MOH¡CS|566|2||MIH¡LOVICS GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|566|3||MIH¡LOVICS IBOLYA|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|566|4||MIH¡LOVICS ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|181|MOH¡CS|566|5||VAJDA ISTV¡NN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|217|P…CS|506|1||BARANYAI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|217|P…CS|506|2||K’R÷SI FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|217|P…CS|506|3||LABOD¡N… LAKATOS SZILVIA|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|217|P…CS|506|4||ORS”S FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|217|P…CS|515|1||BAKOS EDIT|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|2||FISCHER FRIGYESN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|3||HAJNAL S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|4||H¡L J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|5||HENGL N¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|6||H‹FNER KORN…LN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|7||KITTL J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|217|P…CS|515|8|DR.|MEL¡TH FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|9||MISCHINGER ISTV¡N|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|10||PENTZ MONIKA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|11||R”NA G…Z¡N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|12||SCHNEIDER J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|13||SZ…CSEI J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|217|P…CS|515|14||URSPRUNG J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1427;1476;1475|N…MET K÷R;LENAU;PETER ROSEGGER
-02|BARANYA|217|P…CS|515|15||VENCZEL TIBOR KORN…L|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|234|SIKL”S|468|1||GERTNER ¡RP¡D GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|234|SIKL”S|468|2||K÷VESI L¡SZL”N…|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|234|SIKL”S|534|1||BALOGH P…TER|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG¡NYOK…RT
-02|BARANYA|234|SIKL”S|534|2||CSURAI ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG¡NYOK…RT
-02|BARANYA|234|SIKL”S|534|3||JOV¡NOVICS L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG¡NYOK…RT
-02|BARANYA|234|SIKL”S|534|4||JOV¡NOVICS M¡RK|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG¡NYOK…RT
-02|BARANYA|234|SIKL”S|534|5||JOV¡NOVICS MIL¡N|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG¡NYOK…RT
-02|BARANYA|234|SIKL”S|534|6||KOSZTICS ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|234|SIKL”S|534|7||M‹LLERN… KOZMA MARIETTA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG¡NYOK…RT
-02|BARANYA|234|SIKL”S|548|1||BOSNY¡K M¡RK|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|234|SIKL”S|548|2||GYUROK GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|234|SIKL”S|548|4||PAPP FERENCN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|234|SIKL”S|548|5||P¡VICS J¡NOS IV¡N|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-02|BARANYA|263|SZIGETV¡R|493|1||G¡L J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-03|B¡CS|004|BAJA|493|1||B…RES B…LA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|004|BAJA|493|2||JELENCSITY MIKL”S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|004|BAJA|493|3||MARKOVICS J”ZSEFN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|004|BAJA|493|4||SZ¡SZ ROLAND|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|004|BAJA|493|5|DR.|V¡CITY J¡NOS|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|004|BAJA|505|1||BUKOR L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|004|BAJA|514|1||MUITY MIH¡LY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|054|J¡NOSHALMA|498|1||KOLOMP¡R L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1899|JVC…SZ
-03|B¡CS|056|KALOCSA|424|1||ANGELI GABRIELLA|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|060|KECSKEM…T|530|1||AG”CSN… KAR¡DI OLGA M¡RIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|060|KECSKEM…T|530|2||BARI ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|060|KECSKEM…T|530|3||K¡LLAI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|064|KISK’R÷S|480|1||GY÷RK ERN’N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|064|KISK’R÷S|499|1||KUNHEGYESI FERENC|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|064|KISK’R÷S|499|2||KUNHEGYESI FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|064|KISK’R÷S|499|3||KUNHEGYESI FERENCN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|064|KISK’R÷S|499|4||SZIL¡GYI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-03|B¡CS|066|KISKUNHALAS|438|1||ROST¡S L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1438|BKMC…SZ
-03|B¡CS|066|KISKUNHALAS|438|2||MADAR¡SZ FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1438|BKMC…SZ
-03|B¡CS|066|KISKUNHALAS|438|3||K÷VES FERENC|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1438|BKMC…SZ
-03|B¡CS|066|KISKUNHALAS|438|4||KINCSES GY÷RGYN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1438|BKMC…SZ
-03|B¡CS|066|KISKUNHALAS|438|5||SZAB” T‹NDE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1438|BKMC…SZ
-03|B¡CS|067|KISKUNMAJSA|479|1||KEREPES TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1438|BKMC…SZ
-03|B¡CS|067|KISKUNMAJSA|479|2||KOLOMP¡R ORB¡N|7|EgyÈni VK-ben nyert|1|Igen / van / stb|1438|BKMC…SZ
-03|B¡CS|067|KISKUNMAJSA|479|3||TAPOLCAI P¡L|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1438|BKMC…SZ
-03|B¡CS|067|KISKUNMAJSA|479|4||V÷LGYI ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1438|BKMC…SZ
-04|B…K…S|003|B…K…S|504|1||ANT”NI GYULA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|003|B…K…S|504|2||¡S”S TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1063|B.M.C.E.
-04|B…K…S|003|B…K…S|504|3||BODOCZKI MIH¡LY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|003|B…K…S|504|4|IFJ.|CZINAN” TIHAM…R|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|003|B…K…S|504|5||KAR¡CSON ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|003|B…K…S|504|6||R¡CZ REZS’|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|003|B…K…S|504|7||RESZEL’ K¡ROLY|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|004|B…K…SCSABA|499|1||KOV¡CS ERZS…BET|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|004|B…K…SCSABA|501|1||SZVARNASZ ALEXANDROSZ|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|004|B…K…SCSABA|510|1||HANK” ANDR¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|004|B…K…SCSABA|510|2||KUTYEJ P¡L ALBERT|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|025|GYOMAENDR’D|460|1||BOECKER MARGIT|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|025|GYOMAENDR’D|460|2||HACK M¡RIA|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|025|GYOMAENDR’D|460|3||SCHWALM M¡RTON|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|025|GYOMAENDR’D|460|4|IFJ.|WEIDMANN J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|025|GYOMAENDR’D|460|5|DR.|WEIGERT J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|025|GYOMAENDR’D|479|1|IFJ.|D”GI J¡NOS|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1039|"LUNGO DROM"
-04|B…K…S|026|GYULA|524|1||REISZ ¡D¡M|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|026|GYULA|552|1||M¡RK GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|026|GYULA|552|2||NAGYN… ROKSZIN ANNA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|026|GYULA|552|3||OROJ¡N ISTV¡N P…TER|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|049|MEZ’BER…NY|458|1||BORGULA GY÷RGYN…|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|049|MEZ’BER…NY|458|2||KONYECSNI GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1859|SZLOV¡KOK SZ.
-04|B…K…S|049|MEZ’BER…NY|458|3||VRBOVSZKI P¡L|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1859|SZLOV¡KOK SZ.
-04|B…K…S|049|MEZ’BER…NY|458|4||ZOLNAI J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|049|MEZ’BER…NY|462|1||DOGI LAJOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|049|MEZ’BER…NY|462|2||HORV¡TH J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-04|B…K…S|049|MEZ’BER…NY|462|3||R¡CZN… LAKATOS ERZS…BET|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|049|MEZ’BER…NY|471|1||B¡RDI ERZS…BET|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|049|MEZ’BER…NY|471|2||HOFFMANN ANDR¡SN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|049|MEZ’BER…NY|471|3||WAGNER J”ZSEF|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|059|OROSH¡ZA|447|1||LAKATOS TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|063|SARKAD|415|1||HORV¡TH ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|063|SARKAD|415|2||MOLN¡R ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|063|SARKAD|415|3||OL¡H K¡ROLYN…|1|Mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|066|SZARVAS|487|1||PUSZTAI J”ZSEF K¡ROLY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|066|SZARVAS|496|1||M”TY¡N TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-04|B…K…S|066|SZARVAS|496|2||Z¡VODA FERENC|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|074|EDEL…NY|522|1||VARGA ATTILA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|151|KAZINCBARCIKA|558|1||FARKAS GYULA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|194|MEZ’K÷VESD|472|1||FARKAS F…LIX|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|194|MEZ’K÷VESD|472|2||OL¡H ANDR¡SN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|194|MEZ’K÷VESD|472|3||OL¡H G…ZA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-05|BORSOD|200|MISKOLC|557|1||BURAI ALAD¡R|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1011|MFCSZ
-05|BORSOD|200|MISKOLC|557|2||GAGYI ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|200|MISKOLC|557|4||HORV¡TH ATTILA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|200|MISKOLC|557|5||MOLN¡R BERTALAN|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|224|”ZD|562|2||BALOGH GUSZT¡VN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1351|…MRU”
-05|BORSOD|224|”ZD|562|9||FARKAS G…ZA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1017;1018;1019;1021|”RESZ;…MRU FTSZ;”IC;”CSZ
-05|BORSOD|224|”ZD|562|10||GALLYAS BERTALAN|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1017;1018;1019;1021|”RESZ;…MRU FTSZ;”IC;”CSZ
-05|BORSOD|224|”ZD|562|12||K”TAI K¡ROLY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1017;1018;1019;1021|”RESZ;…MRU FTSZ;”IC;”CSZ
-05|BORSOD|224|”ZD|562|13||MEZEI ANDREA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1351|…MRU”
-05|BORSOD|224|”ZD|562|14|ID.|OL¡H K¡LM¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1351|…MRU”
-05|BORSOD|224|”ZD|562|15|IFJ.|OL¡H K¡LM¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1351|…MRU”
-05|BORSOD|224|”ZD|562|17||P¡K” FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-05|BORSOD|224|”ZD|562|20||SZED’ TAM¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1351|…MRU”
-05|BORSOD|224|”ZD|562|23||V¡RADI ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-05|BORSOD|224|”ZD|562|24||V¡RADI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1017;1018;1019;1021|”RESZ;…MRU FTSZ;”IC;”CSZ
-05|BORSOD|266|SAJ”SZENTP…TER|515|1||KALOCSAI J”ZSEF FERENC|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1187|SFCSZ
-05|BORSOD|266|SAJ”SZENTP…TER|515|2||KANALAS ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1187|SFCSZ
-05|BORSOD|272|S¡ROSPATAK|539|1||G÷NCFALVI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|272|S¡ROSPATAK|543|1||BABA J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|272|S¡ROSPATAK|543|2||BUDAI GYULA   K¡ROLY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|272|S¡ROSPATAK|543|3||LAKATOS VIKTOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|274|S¡TORALJA⁄JHELY|506|1||DOBAI ISTV¡N|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|274|S¡TORALJA⁄JHELY|506|2||NAGY L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|274|S¡TORALJA⁄JHELY|506|3||VALYK” J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|274|S¡TORALJA⁄JHELY|533|1||HOCHV¡RT J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|274|S¡TORALJA⁄JHELY|547|1||M¡RTON MIH¡LY|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|292|SZERENCS|509|1||M¡JERCSIK ZOLT¡NN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-05|BORSOD|292|SZERENCS|509|2||TAM¡S R”BERT|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1050|PHRALIPE
-06|CSONGR¡D|013|CSONGR¡D|493|1||FARAG” TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-06|CSONGR¡D|013|CSONGR¡D|493|2||PINT…R B…LA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-06|CSONGR¡D|024|H”DMEZ’V¡S¡RHELY|483|1||ELEKES ¡GNES|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-06|CSONGR¡D|024|H”DMEZ’V¡S¡RHELY|483|2||H…JJA G¡BORN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-06|CSONGR¡D|024|H”DMEZ’V¡S¡RHELY|483|3||IRH¡S J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-06|CSONGR¡D|024|H”DMEZ’V¡S¡RHELY|483|4||KOV¡CS ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-06|CSONGR¡D|024|H”DMEZ’V¡S¡RHELY|483|5||M¡TRAI ATTILA|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1610|RD…SZ
-07|FEJ…R|013|BICSKE|487|1||BAN¡DI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1081|FMCFSZ
-07|FEJ…R|013|BICSKE|487|2|ID.|BOGD¡N J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-07|FEJ…R|013|BICSKE|487|3|IFJ.|BOGD¡N J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-07|FEJ…R|013|BICSKE|487|4||J”N¡S LAJOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1081|FMCFSZ
-07|FEJ…R|013|BICSKE|487|5||M¡T… ANDR¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1081|FMCFSZ
-07|FEJ…R|013|BICSKE|487|6|IFJ.|OL¡H LAJOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-07|FEJ…R|013|BICSKE|487|7||V÷R÷S ISTV¡N|1|Mand·tumot nyert|0|Nem / nincs / stb|1081|FMCFSZ
-07|FEJ…R|024|DUNA⁄JV¡ROS|534|1||BINDISCH GY÷RGY L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-07|FEJ…R|024|DUNA⁄JV¡ROS|534|2||HOSSZ⁄ J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-07|FEJ…R|024|DUNA⁄JV¡ROS|534|3||NAGY VERONIKA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-07|FEJ…R|061|M”R|478|1||ERDEI FERENC|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-07|FEJ…R|061|M”R|478|2||MANNER J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-07|FEJ…R|061|M”R|478|3||PISCH FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-08|GY’R|055|GY’R|546|1||GANGL ANDR¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1620|MAN…GY’…RD
-08|GY’R|055|GY’R|569|1||HORV¡TH ATTILA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1141|GYMS C…SZ
-08|GY’R|055|GY’R|569|2||HORV¡TH P¡L|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1141|GYMS C…SZ
-08|GY’R|055|GY’R|569|3||KESZEI K¡ROLYN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1141|GYMS C…SZ
-08|GY’R|055|GY’R|569|4||N…METH L¡SZL”N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1141|GYMS C…SZ
-08|GY’R|055|GY’R|569|5||P¡D¡R L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1141|GYMS C…SZ
-08|GY’R|077|KAPUV¡R|437|1||K¡ROLI TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1141|GYMS C…SZ
-08|GY’R|143|SOPRON|418|1|DR.|BRENNER KOLOMAN|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-09|HAJD⁄|005|BALMAZ⁄JV¡ROS|482|1||J”N¡S G…ZA|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-09|HAJD⁄|005|BALMAZ⁄JV¡ROS|482|2||SZATM¡RI S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-09|HAJD⁄|005|BALMAZ⁄JV¡ROS|482|3||SZ¡VA GYULA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-09|HAJD⁄|009|BERETTY”⁄JFALU|485|1||MEZ’ TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1002|M C D S Z
-09|HAJD⁄|030|HAJD⁄B÷SZ÷RM…NY|520|1||HAJDU S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1238|HC…SZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|1||¡BR”K J”ZSEF L¡SZL”N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1410|HAJD⁄HADH¡Z R…SZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|2||BALOGH J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1301|KISEBBSK÷Z H¡Z
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|3||BALOGH J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1311|ROSZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|4||BALOGH S¡NDORN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1410|HAJD⁄HADH¡Z R…SZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|5||BERN¡TH FERENCN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1301|KISEBBSK÷Z H¡Z
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|6||BERN¡TH ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1410|HAJD⁄HADH¡Z R…SZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|7||HORT” S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1311|ROSZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|8||LAKATOS ATTILA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1410|HAJD⁄HADH¡Z R…SZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|9||LAKATOS DEZS’N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1311|ROSZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|10||LAKATOS G¡BOR|1|Mand·tumot nyert|0|Nem / nincs / stb|1410|HAJD⁄HADH¡Z R…SZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|11||LAKATOS GYULA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|12||LAKATOS J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1410|HAJD⁄HADH¡Z R…SZ
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|13||LAKATOS J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1301|KISEBBSK÷Z H¡Z
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|14||LAKATOS S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1002|M C D S Z
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|15||LAKATOS S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1002|M C D S Z
-09|HAJD⁄|032|HAJD⁄HADH¡Z|467|16||ROST¡S ZSIGMOND|7|EgyÈni VK-ben nyert|1|Igen / van / stb|1301|KISEBBSK÷Z H¡Z
-09|HAJD⁄|035|HAJD⁄SZOBOSZL”|492|1||ORS”S L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-09|HAJD⁄|063|P‹SP÷KLAD¡NY|421|1||KOV¡CS J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-09|HAJD⁄|063|P‹SP÷KLAD¡NY|421|2||KOV¡CS LAJOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1002|M C D S Z
-09|HAJD⁄|063|P‹SP÷KLAD¡NY|421|3||KOV¡CS LAJOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1002|M C D S Z
-09|HAJD⁄|063|P‹SP÷KLAD¡NY|421|4|IFJ.|MEZEI B…LA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1607|FIATAL ROM¡K
-09|HAJD⁄|063|P‹SP÷KLAD¡NY|421|5||T”TH FERENC|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1002|M C D S Z
-10|HEVES|025|EGER|512|1||BARI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-10|HEVES|025|EGER|512|2||CS”KA J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-10|HEVES|025|EGER|512|3||LAKATOS OSZK¡R|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-10|HEVES|025|EGER|512|4||PUPORKA TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-10|HEVES|039|GY÷NGY÷S|491|1||MURZSA ATTILA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-10|HEVES|039|GY÷NGY÷S|491|2||V¡RADI K¡LM¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-10|HEVES|048|HEVES|447|1||L”L… MIH¡LY|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1039|"LUNGO DROM"
-11|J¡SZ|016|J¡SZBER…NY|483|1||GEDEI TAM¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-11|J¡SZ|016|J¡SZBER…NY|483|2||R¡CZ TAM¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-11|J¡SZ|027|KARCAG|491|1||DOMOKOS S¡NDORN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-11|J¡SZ|027|KARCAG|491|2||JOHAN ANNA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1146|ROMA N’K EGYES‹L
-11|J¡SZ|027|KARCAG|491|3||NAGY SZIL¡RD|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-11|J¡SZ|036|KUNSZENTM¡RTON|503|1||KISS S¡NDOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-11|J¡SZ|052|SZOLNOK|481|1||FAZEKAS L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1049|MCDP
-11|J¡SZ|052|SZOLNOK|481|2||G¡SP¡R J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1049|MCDP
-11|J¡SZ|052|SZOLNOK|481|3||GUL¡CSI ANTAL|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1049|MCDP
-11|J¡SZ|052|SZOLNOK|481|4||GUL¡CSI ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1049|MCDP
-11|J¡SZ|052|SZOLNOK|481|5||MOZS¡R ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1049|MCDP
-11|J¡SZ|075|T⁄RKEVE|490|1||MIL…N… HERCZEGH ELVIRA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-12|KOM¡ROM|023|DOROG|536|1||PALK” G¡BOR P¡L|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-12|KOM¡ROM|023|DOROG|536|2||P…TERV¡RI L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-12|KOM¡ROM|028|ESZTERGOM|529|1||KRAMMERN… HAMPL ZSUZSANNA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-12|KOM¡ROM|028|ESZTERGOM|538|1||MINC…R K¡LM¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-12|KOM¡ROM|028|ESZTERGOM|542|1||CSOMBOR ERZS…BET|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-12|KOM¡ROM|051|OROSZL¡NY|485|1||BOROS GYULA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1250|MCF…SZ
-12|KOM¡ROM|051|OROSZL¡NY|485|2||NOV¡K J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1250|MCF…SZ
-12|KOM¡ROM|064|TATAB¡NYA|549|1|DR.|N…METH IMRE|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-12|KOM¡ROM|064|TATAB¡NYA|554|1||J¡R”KA ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1250|MCF…SZ
-13|N”GR¡D|003|BALASSAGYARMAT|499|1||CSONKA OLIV…R|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1174|DRSZ
-13|N”GR¡D|003|BALASSAGYARMAT|499|2||J”N¡S G¡BOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1174|DRSZ
-13|N”GR¡D|006|B¡TONYTERENYE|509|1||BERKI JUDIT|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-13|N”GR¡D|006|B¡TONYTERENYE|509|2||CSIK”S J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-13|N”GR¡D|006|B¡TONYTERENYE|509|3||N…MET MIKL”SN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-13|N”GR¡D|006|B¡TONYTERENYE|509|4||SZOMORA SZIL¡RD|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-13|N”GR¡D|096|P¡SZT”|496|1||OL¡H FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-13|N”GR¡D|096|P¡SZT”|496|2||OL¡H J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-13|N”GR¡D|102|SALG”TARJ¡N|484|1||BOTOS J”ZSEFN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1596|MRSZ
-13|N”GR¡D|102|SALG”TARJ¡N|484|2||HRANEK FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1596|MRSZ
-13|N”GR¡D|102|SALG”TARJ¡N|484|3||OL¡H S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1289|MKSZE
-13|N”GR¡D|102|SALG”TARJ¡N|484|4||R¡CZ VILMOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1596|MRSZ
-14|PEST|001|ABONY|521|1||NAGYHAJ⁄ L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1049|MCDP
-14|PEST|001|ABONY|521|2||PINVICZKI L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1049|MCDP
-14|PEST|001|ABONY|521|3||RAFFAEL J¡NOSN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-14|PEST|001|ABONY|521|4||RAFFAI L¡SZL”|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1039|"LUNGO DROM"
-14|PEST|001|ABONY|521|5||R…KASI ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1049|MCDP
-14|PEST|001|ABONY|521|6||VIGH IMRE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1049|MCDP
-14|PEST|014|BUDAKESZI|476|1||K”THYN… HERCEG M¡RIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1457|P-B-N N…MET SZ÷V
-14|PEST|014|BUDAKESZI|476|2||LIGETFALVI K¡ROLY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1457|P-B-N N…MET SZ÷V
-14|PEST|014|BUDAKESZI|476|3||MERKL ALAD¡R|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1882|HAGYOM¡NY÷RZ’
-14|PEST|014|BUDAKESZI|476|4||VARGA J”ZSEFN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1882|HAGYOM¡NY÷RZ’
-14|PEST|015|BUDA÷RS|498|1||FANCSALI M¡RIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|015|BUDA÷RS|500|1||MACZUCZA J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|015|BUDA÷RS|500|2||MEINCZINGER TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|015|BUDA÷RS|500|3||RITTER IMRE|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|015|BUDA÷RS|519|1||SZITK” ETELKA M¡RIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|025|DABAS|459|1||GARAJSZKI L¡SZL”|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|025|DABAS|459|2||LAJA J”ZSEF|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|025|DABAS|463|1||ZADUNAJSZKI J”ZSEF|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|033|DUNAHARASZTI|478|1||MANHEIM L…N¡RD|7|EgyÈni VK-ben nyert|1|Igen / van / stb|1|F¸gg. kisebbsÈg
-14|PEST|033|DUNAHARASZTI|478|2||KALTENECKER FERENC|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|033|DUNAHARASZTI|487|1||JAKAB ISTV¡N|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|033|DUNAHARASZTI|487|2||JAKAB ¡GNES|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|033|DUNAHARASZTI|487|3||ORS”S J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|033|DUNAHARASZTI|487|4||SZAB”N… PAPP ILDIK”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|034|DUNAKESZI|505|1||KANALAS FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|038|…RD|498|1||KAPPEL ZSUZSANNA|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1457|P-B-N N…MET SZ÷V
-14|PEST|038|…RD|498|2||SCHNEIDER ISTV¡N|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|038|…RD|500|1||CS¡NICS J”ZSEF|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|038|…RD|500|2||CS¡NICS S¡NDOR|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|038|…RD|500|3||MITTLMAJER FERENCN…|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|038|…RD|500|4||ROCKOV MIL¡N|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|038|…RD|519|1||BALOGH CSABA|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|047|G÷D÷LL’|466|1||BORSOS J”ZSEF|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|085|MONOR|485|1||GULY¡S ATTILA IMRE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|087|NAGYK¡TA|489|1||CSIK”S G¡BOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1050|PHRALIPE
-14|PEST|087|NAGYK¡TA|489|2||CSIK”S J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|087|NAGYK¡TA|489|3||CSIK”S S¡NDOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|087|NAGYK¡TA|489|4||FEH…R L¡SZL”N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|087|NAGYK¡TA|489|5||JAKAB P…TER|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|087|NAGYK¡TA|489|6||R¡CZ G…Z¡N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1050|PHRALIPE
-14|PEST|087|NAGYK¡TA|489|7||VARGA MIH¡LY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|087|NAGYK¡TA|489|8||VARGA TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|102|P…CEL|557|1||BURAI J¡NOS TIBOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|464|1||M‹LLER M¡RTON|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|464|2||NEUBRANDT ISTV¡N|7|EgyÈni VK-ben nyert|1|Igen / van / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|464|3||SAX L¡SZL”|1|Mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|464|4||SCHUCK EDE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|464|5||S÷R÷S J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|464|6||WIPPELHAUSER GYUL¡N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|473|1||H¡MORI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|473|2||H¡MORI L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|473|3||MANHERTZ GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|473|4||WIPPELHAUSER ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|112|PILISV÷R÷SV¡R|482|1||TAGSCHERER KATALIN|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-14|PEST|113|POM¡Z|528|1||G…RICZ S¡NDOR|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|528|2||P÷LCZ J”ZSEF|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|528|3||SZL¡VIK ISTV¡N|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|537|1||CSOB¡N SZVETOZ¡R|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|537|2||KRUNITYN… SOSITY ANNA|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|537|3||NY¡RI IV¡N|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|541|1||ERD…LYI S¡NDOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|541|2||SZALAI IMRE|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|556|1||CSABAI ERZS…BET|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|556|2||THURZ” L¡SZL”|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|564|1||ALANYAI J¡NOS|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|564|2||HORV¡TH ANDOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|113|POM¡Z|564|3||KASSAI J¡NOSN…|0|Nincs inf. mand.sz·m. nem tˆr.|0|Nem / nincs / stb|1039|"LUNGO DROM"
-14|PEST|126|SZENTENDRE|514|1||KOSZNOVSZKI L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|126|SZENTENDRE|514|2||ZAUER G¡BOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|158|T÷R÷KB¡LINT|475|1||MEGYASZAI ZOLT¡NN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-14|PEST|169|V¡C|526|1||CSUK¡RDI G¡BOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1002|M C D S Z
-14|PEST|169|V¡C|526|2||HER…DI G¡BOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1002|M C D S Z
-14|PEST|177|VECS…S|470|1||M¡R J¡NOS|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-15|SOMOGY|020|BARCS|485|1||BALOGH IMRE|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1449|DCKSZ
-15|SOMOGY|020|BARCS|485|2||BOKOR J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-15|SOMOGY|091|KAPOSV¡R|478|1||BOGD¡N FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-15|SOMOGY|091|KAPOSV¡R|478|2||KOMP¡K GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1628|PENTRU NOJ
-15|SOMOGY|091|KAPOSV¡R|478|3||NOGR¡DI L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-15|SOMOGY|130|NAGYAT¡D|483|1||IGN¡CZ IMR…N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1050|PHRALIPE
-15|SOMOGY|130|NAGYAT¡D|483|2||IGN¡CZ J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-16|SZABOLCS|077|KISV¡RDA|496|1||BALOGH J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|077|KISV¡RDA|496|2||BERKI DEZS’|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|077|KISV¡RDA|496|3||HAMZA J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|077|KISV¡RDA|496|4||LAKATOS ISTV¡N|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|094|M¡T…SZALKA|481|1||DIENES B…LA L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1691|SZNE
-16|SZABOLCS|094|M¡T…SZALKA|481|2||FARKAS S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1691|SZNE
-16|SZABOLCS|094|M¡T…SZALKA|481|3||FAZEKAS GYULA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1691|SZNE
-16|SZABOLCS|094|M¡T…SZALKA|481|4||HORV¡TH L¡SZL” ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1691|SZNE
-16|SZABOLCS|094|M¡T…SZALKA|481|5||KONCZILI VENDEL|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1691|SZNE
-16|SZABOLCS|094|M¡T…SZALKA|481|6||PERJ…SI ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1691|SZNE
-16|SZABOLCS|094|M¡T…SZALKA|481|7|DR.|SZAB” P…TER ANTAL|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1691|SZNE
-16|SZABOLCS|094|M¡T…SZALKA|481|8||SZALAI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1691|SZNE
-16|SZABOLCS|094|M¡T…SZALKA|490|1||FARKAS S¡NDOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|094|M¡T…SZALKA|490|2||NAGY J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1002|M C D S Z
-16|SZABOLCS|112|NYÕRB¡TOR|481|1||CSIKI ZSIGMOND|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|112|NYÕRB¡TOR|481|2||KISS ¡RP¡D|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|112|NYÕRB¡TOR|481|3||MOCS¡R DEZS’|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|112|NYÕRB¡TOR|481|4||VARGA K¡LM¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|112|NYÕRB¡TOR|481|5||VARGA ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|119|NYÕREGYH¡ZA|503|1||KORNHERR TIBOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|119|NYÕREGYH¡ZA|521|1||B¡RK¡NYI P…TER|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|119|NYÕREGYH¡ZA|530|1||M…SZ¡ROS FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|119|NYÕREGYH¡ZA|530|2||MORAUSZKI MIH¡LYN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|119|NYÕREGYH¡ZA|530|3||SKOLNYIK ANDR¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|119|NYÕREGYH¡ZA|544|1||CSORBA MIKL”SN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|119|NYÕREGYH¡ZA|544|2||HORV¡TH ERN’|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|119|NYÕREGYH¡ZA|544|3||PONG” ERN’|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|119|NYÕREGYH¡ZA|544|4||PONG” K¡ROLYN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-16|SZABOLCS|204|TISZAVASV¡RI|514|1||R…ZM‹VES SZILVIA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|011|BONYH¡D|477|1|DR.|ACS¡DI MARIANNA ILDIK”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|011|BONYH¡D|477|2||JENEI J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|011|BONYH¡D|477|3||RITTINGER ANTAL|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|011|BONYH¡D|477|4|IFJ.|VERES S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|011|BONYH¡D|486|1||IGN¡CZ ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|011|BONYH¡D|486|2||KOLOMP¡R ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|011|BONYH¡D|486|3||BOGD¡N S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|095|SZEKSZ¡RD|488|1||ORS”S ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|095|SZEKSZ¡RD|497|1||KALM¡R ZOLT¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|099|TOLNA|481|1||K¡RP¡TI ANDR¡S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-17|TOLNA|099|TOLNA|511|1||DUDOR MIH¡LYN…|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1039|"LUNGO DROM"
-17|TOLNA|099|TOLNA|511|2||FERGENCS L¡SZL”N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-17|TOLNA|099|TOLNA|511|3||KARASZI K¡ROLY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-17|TOLNA|099|TOLNA|511|4||NY¡RI G¡BOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-18|VAS|095|K÷RMEND|472|1||HORV¡TH L¡SZL”|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-18|VAS|095|K÷RMEND|472|2||HORV¡TH S¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-18|VAS|096|K’SZEG|527|1||MERSICH K¡ROLY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-18|VAS|096|K’SZEG|527|2||PETKOVITS S¡NDOR|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-18|VAS|096|K’SZEG|536|1||DOMINEKN… K’SZEGFALVI ¡GNES|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-18|VAS|186|SZOMBATHELY|509|1||HERGOVICH VINCE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-18|VAS|186|SZOMBATHELY|509|2||HERGOVICH VINC…N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-18|VAS|186|SZOMBATHELY|518|1|DR.|ZIELBAUER GY÷RGY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|003|AJKA|489|1||W…BER L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|003|AJKA|498|1||D÷M÷T÷R MIKL”S|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-19|VESZPR…M|003|AJKA|498|2||KISS K¡ZM…RN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|029|BALATONF‹RED|508|1||GERTNER J”ZSEFN…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-19|VESZPR…M|029|BALATONF‹RED|508|2||HORV¡TH J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-19|VESZPR…M|158|P¡PA|535|1||MARTON B…LA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|158|P¡PA|549|1||DOBOS L¡SZL”N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1250|MCF…SZ
-19|VESZPR…M|158|P¡PA|549|2||HOLDOSIN… B¡NHEGYI ILDIK” ERZS…BET|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1250|MCF…SZ
-19|VESZPR…M|158|P¡PA|549|3||KOZ¡K J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1250|MCF…SZ
-19|VESZPR…M|158|P¡PA|549|4||PENTE GYULA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
-19|VESZPR…M|195|TAPOLCA|494|1||MOLN¡R ATTILA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|195|TAPOLCA|494|2||PEM IMRE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|195|TAPOLCA|494|3||SLENNER M¡RTA|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|208|V¡RPALOTA|419|1||ORS”S IMRE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|210|VESZPR…M|418|1||AKOPJAN NIKOGOSZ BUJSZOVICS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|210|VESZPR…M|418|2|DR.|SZALAY ENDRE|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-19|VESZPR…M|210|VESZPR…M|426|1|DR.|ALBERT VENDEL|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1643|DEUTSCHKLUB
-19|VESZPR…M|210|VESZPR…M|426|2||ARNHOFFER MIH¡LY|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1643|DEUTSCHKLUB
-19|VESZPR…M|210|VESZPR…M|426|3||HEILIG FERENC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1643|DEUTSCHKLUB
-19|VESZPR…M|210|VESZPR…M|426|4||VENCZEL L’RINC|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1643|DEUTSCHKLUB
-20|ZALA|134|NAGYKANIZSA|500|1||BOGD¡N N¡NDOR|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1|F¸gg. kisebbsÈg
-20|ZALA|134|NAGYKANIZSA|500|2||MOLN¡R JEN’N…|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
-20|ZALA|134|NAGYKANIZSA|500|3||NAGY J”ZSEF|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
-20|ZALA|134|NAGYKANIZSA|500|4||ORS”S J¡NOS|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
-20|ZALA|134|NAGYKANIZSA|500|5||STEFLOVICS P…TER|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
-20|ZALA|134|NAGYKANIZSA|500|6||TELEKI L¡SZL”|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
-20|ZALA|134|NAGYKANIZSA|500|7||V¡RADI ISTV¡N|3|Nem nyert mand·tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
-20|ZALA|134|NAGYKANIZSA|500|8||V¡RADI ISTV¡NN…|2|KedvezmÈnyes mand·tumot nyert|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
+01|BUDAPEST|001|BUDAPEST     I. ker.|486|1||MAJOR GYULA L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|003|BUDAPEST     III. ker.|462|1||HOLCZINGER BERN√ÅT|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|004|BUDAPEST     IV. ker.|469|1||RECSNIK FERENCN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1775|√öSZRSZ
+01|BUDAPEST|004|BUDAPEST     IV. ker.|469|2||SEB≈êK L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1775|√öSZRSZ
+01|BUDAPEST|004|BUDAPEST     IV. ker.|469|3||T√ìTH J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1775|√öSZRSZ
+01|BUDAPEST|005|BUDAPEST     V. ker.|502|1||BARTHOS BARNAB√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|005|BUDAPEST     V. ker.|502|2|DR.|LOHINGER IMRE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|006|BUDAPEST     VI. ker.|509|1||M√úHL TER√âZ|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|007|BUDAPEST     VII. ker.|524|1||BENCSIK KATALIN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|007|BUDAPEST     VII. ker.|524|2||D√âKITY M√ÅRK|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|007|BUDAPEST     VII. ker.|524|3||WEIZER KATALIN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|007|BUDAPEST     VII. ker.|533|1||FRIGYESN√â ALLGEIER MAGDOLNA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|007|BUDAPEST     VII. ker.|533|2||FRIGYESI ANDR√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|491|1||CSORBA ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|491|2||N√âMETH B√âLA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|491|3||SZAB√ì L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|008|BUDAPEST     VIII. ker.|491|4||SZ≈∞CS GYULA|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|009|BUDAPEST     IX. ker.|505|1||BALOG M√ÅRIA TER√âZIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|009|BUDAPEST     IX. ker.|505|2||F√úLE ILDIK√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|009|BUDAPEST     IX. ker.|505|3||KOV√ÅCS ZOLT√ÅN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|009|BUDAPEST     IX. ker.|505|4||SCHMIDT P√âTER|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|009|BUDAPEST     IX. ker.|505|5||WITTMANN ENDRE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|009|BUDAPEST     IX. ker.|514|1||BALOGH GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|009|BUDAPEST     IX. ker.|514|2||CSONK√ÅN√â LAKATOS KL√ÅRA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|009|BUDAPEST     IX. ker.|514|3||VALLA √âVA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|010|BUDAPEST     X. ker.|472|1||DANYI S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|010|BUDAPEST     X. ker.|472|2||DAR√ìCZI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1136|HHF√âSZSZ
+01|BUDAPEST|011|BUDAPEST     XI. ker.|460|1||K√ÅRP√ÅTI IMRE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|011|BUDAPEST     XI. ker.|479|1||RUDAS VAL√âRIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|011|BUDAPEST     XI. ker.|488|1||BAJTAI L√ÅSZL√ìN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|011|BUDAPEST     XI. ker.|488|2||M√úLLER REZS≈ê|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|012|BUDAPEST     XII. ker.|485|1||DICS≈êN√â HELMLY M√ÅRIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|013|BUDAPEST     XIII. ker.|464|1||K√ÅLLAI TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|500|1||P√ÅL K√ÅROLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|014|BUDAPEST     XIV. ker.|519|1||TIMLER LAJOSN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|545|1||ABH√ÅZIN√â LUK√ÅCS BE√ÅTA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|550|1||GYARMATI-FARKAS DEZS≈ê|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1077|MRP
+01|BUDAPEST|015|BUDAPEST     XV. ker.|550|2||P√ÅVA J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|550|3||RAFFAEL J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|568|1||ABH√ÅZI J√ìZSEF|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|568|2||GIZUR J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|568|3||MAJOR M√ìNIKA KRISZTINA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|568|4||REISZN√â NASZ√ÅDI MAGDOLNA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|568|5||ZECHMEISZTER L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|576|1||BANCSI BERTALANN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|576|2||BOTOS B√ÅLINT GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|576|3||CSIBR√ÅKI J√ÅNOSN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|576|4||KARSAI ANDR√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|576|5||SZAB√ì J√ìZSEFN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|576|6||T√ìTH ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|015|BUDAPEST     XV. ker.|576|7||T√ìTH ZOLT√ÅNN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|542|1||EBNETH FRIGYES|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|542|2|IFJ.|EBNETH FRIGYES|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|542|3||NOV√ÅKN√â MATULA M√ÅRIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|016|BUDAPEST     XVI. ker.|557|1||P√ÅSZTOR BRIGITTA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|505|1||HORNINGER ZSUZSANNA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1181|NPE XVIII.
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|505|2||WALTER G√âZA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1181|NPE XVIII.
+01|BUDAPEST|018|BUDAPEST     XVIII. ker.|505|3||ZEITLER K√ÅLM√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1181|NPE XVIII.
+01|BUDAPEST|020|BUDAPEST     XX. ker.|513|1|ID|HERTELENDI P√âTER|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1284|NH√ÅSZEP
+01|BUDAPEST|020|BUDAPEST     XX. ker.|513|2||HRYCH GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|020|BUDAPEST     XX. ker.|550|1||FEH√âR GY√ñRGY M√ÅRK|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1158|MNVKSZ
+01|BUDAPEST|020|BUDAPEST     XX. ker.|550|2||HORV√ÅTHN√â RITTER KATALIN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1158|MNVKSZ
+01|BUDAPEST|020|BUDAPEST     XX. ker.|550|3||NAGY IMRE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|020|BUDAPEST     XX. ker.|550|4||VAJDA BARNAB√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|020|BUDAPEST     XX. ker.|568|1||HORV√ÅTH ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1158|MNVKSZ
+01|BUDAPEST|020|BUDAPEST     XX. ker.|568|2||KOCSIS EL≈êD|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1158|MNVKSZ
+01|BUDAPEST|021|BUDAPEST     XXI. ker.|499|1||SZ√ÅRKISZJ√ÅN √ÅD√ÅM|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|021|BUDAPEST     XXI. ker.|501|1||KALTENECKER G√ÅBOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1405|CSSSZKE
+01|BUDAPEST|021|BUDAPEST     XXI. ker.|501|2||V√ÅRSZEGI TAM√ÅS GY≈êZ≈ê|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1405|CSSSZKE
+01|BUDAPEST|022|BUDAPEST     XXII. ker.|487|1|IFJ.|BAL√ÅZS ZSIGMOND|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|022|BUDAPEST     XXII. ker.|487|2||DAR√ìCZI K√ÅROLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|023|BUDAPEST     XXIII. ker.|523|1||J√ìNI S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|023|BUDAPEST     XXIII. ker.|523|2||KALOCSAI ERIKA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|023|BUDAPEST     XXIII. ker.|532|1||POLONKAI ZOLT√ÅNN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+01|BUDAPEST|023|BUDAPEST     XXIII. ker.|532|2||SEPSEY ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|522|1||GALLAI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|522|2||HEGED√úS ISTV√ÅN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|522|3||JOV√ÅNOVICS L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|522|4||KUN G√âZA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|522|5||ORS√ìS ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|522|6||SZIGETI J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|545|1||TOKODI ATTILA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|550|1||HOFFMANN TAM√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|550|2||J√âGL ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|550|3||KAKAS ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|550|4||MOJZES S√ÅNDOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|550|5||PRETTL N√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|137|KOML√ì|550|6||SCHMIDT HILDEGARD GIZELLA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|539|1||ENGERT FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|539|2||K√ÅNTORN√â RIPSZ√ÅM M√ÅRIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|539|3||KOLBACH FERENC|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|539|4||SCHAUER ANTAL|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|539|5||TR√ÅBERT J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|539|6||WERNER GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|539|7||WIRTH GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|558|1||KUNOVSZKI J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|566|1||KOV√ÅCS ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+02|BARANYA|181|MOH√ÅCS|566|2||MIH√ÅLOVICS GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|566|3||MIH√ÅLOVICS IBOLYA|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|566|4||MIH√ÅLOVICS ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|181|MOH√ÅCS|566|5||VAJDA ISTV√ÅNN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|217|P√âCS|506|1||BARANYAI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|217|P√âCS|506|2||K≈êR√ñSI FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|217|P√âCS|506|3||LABOD√ÅN√â LAKATOS SZILVIA|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|217|P√âCS|506|4||ORS√ìS FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|217|P√âCS|515|1||BAKOS EDIT|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|2||FISCHER FRIGYESN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|3||HAJNAL S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|4||H√ÅL J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|5||HENGL N√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|6||H√úFNER KORN√âLN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|7||KITTL J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|217|P√âCS|515|8|DR.|MEL√ÅTH FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|9||MISCHINGER ISTV√ÅN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|10||PENTZ MONIKA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|11||R√ìNA G√âZ√ÅN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|12||SCHNEIDER J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|13||SZ√âCSEI J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|217|P√âCS|515|14||URSPRUNG J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1427;1476;1475|N√âMET K√ñR;LENAU;PETER ROSEGGER
+02|BARANYA|217|P√âCS|515|15||VENCZEL TIBOR KORN√âL|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|234|SIKL√ìS|468|1||GERTNER √ÅRP√ÅD GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|234|SIKL√ìS|468|2||K√ñVESI L√ÅSZL√ìN√â|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|234|SIKL√ìS|534|1||BALOGH P√âTER|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG√ÅNYOK√âRT
+02|BARANYA|234|SIKL√ìS|534|2||CSURAI ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG√ÅNYOK√âRT
+02|BARANYA|234|SIKL√ìS|534|3||JOV√ÅNOVICS L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG√ÅNYOK√âRT
+02|BARANYA|234|SIKL√ìS|534|4||JOV√ÅNOVICS M√ÅRK|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG√ÅNYOK√âRT
+02|BARANYA|234|SIKL√ìS|534|5||JOV√ÅNOVICS MIL√ÅN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG√ÅNYOK√âRT
+02|BARANYA|234|SIKL√ìS|534|6||KOSZTICS ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|234|SIKL√ìS|534|7||M√úLLERN√â KOZMA MARIETTA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1631;1630|S. ROMA KLUB;SV. CIG√ÅNYOK√âRT
+02|BARANYA|234|SIKL√ìS|548|1||BOSNY√ÅK M√ÅRK|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|234|SIKL√ìS|548|2||GYUROK GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|234|SIKL√ìS|548|4||PAPP FERENCN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|234|SIKL√ìS|548|5||P√ÅVICS J√ÅNOS IV√ÅN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+02|BARANYA|263|SZIGETV√ÅR|493|1||G√ÅL J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+03|B√ÅCS|004|BAJA|493|1||B√âRES B√âLA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|004|BAJA|493|2||JELENCSITY MIKL√ìS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|004|BAJA|493|3||MARKOVICS J√ìZSEFN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|004|BAJA|493|4||SZ√ÅSZ ROLAND|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|004|BAJA|493|5|DR.|V√ÅCITY J√ÅNOS|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|004|BAJA|505|1||BUKOR L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|004|BAJA|514|1||MUITY MIH√ÅLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|054|J√ÅNOSHALMA|498|1||KOLOMP√ÅR L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1899|JVC√âSZ
+03|B√ÅCS|056|KALOCSA|424|1||ANGELI GABRIELLA|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|060|KECSKEM√âT|530|1||AG√ìCSN√â KAR√ÅDI OLGA M√ÅRIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|060|KECSKEM√âT|530|2||BARI ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|060|KECSKEM√âT|530|3||K√ÅLLAI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|064|KISK≈êR√ñS|480|1||GY√ñRK ERN≈êN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|064|KISK≈êR√ñS|499|1||KUNHEGYESI FERENC|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|064|KISK≈êR√ñS|499|2||KUNHEGYESI FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|064|KISK≈êR√ñS|499|3||KUNHEGYESI FERENCN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|064|KISK≈êR√ñS|499|4||SZIL√ÅGYI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+03|B√ÅCS|066|KISKUNHALAS|438|1||ROST√ÅS L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1438|BKMC√âSZ
+03|B√ÅCS|066|KISKUNHALAS|438|2||MADAR√ÅSZ FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1438|BKMC√âSZ
+03|B√ÅCS|066|KISKUNHALAS|438|3||K√ñVES FERENC|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1438|BKMC√âSZ
+03|B√ÅCS|066|KISKUNHALAS|438|4||KINCSES GY√ñRGYN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1438|BKMC√âSZ
+03|B√ÅCS|066|KISKUNHALAS|438|5||SZAB√ì T√úNDE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1438|BKMC√âSZ
+03|B√ÅCS|067|KISKUNMAJSA|479|1||KEREPES TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1438|BKMC√âSZ
+03|B√ÅCS|067|KISKUNMAJSA|479|2||KOLOMP√ÅR ORB√ÅN|7|Egy√©ni VK-ben nyert|1|Igen / van / stb|1438|BKMC√âSZ
+03|B√ÅCS|067|KISKUNMAJSA|479|3||TAPOLCAI P√ÅL|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1438|BKMC√âSZ
+03|B√ÅCS|067|KISKUNMAJSA|479|4||V√ñLGYI ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1438|BKMC√âSZ
+04|B√âK√âS|003|B√âK√âS|504|1||ANT√ìNI GYULA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|003|B√âK√âS|504|2||√ÅS√ìS TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1063|B.M.C.E.
+04|B√âK√âS|003|B√âK√âS|504|3||BODOCZKI MIH√ÅLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|003|B√âK√âS|504|4|IFJ.|CZINAN√ì TIHAM√âR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|003|B√âK√âS|504|5||KAR√ÅCSON ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|003|B√âK√âS|504|6||R√ÅCZ REZS≈ê|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|003|B√âK√âS|504|7||RESZEL≈ê K√ÅROLY|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|004|B√âK√âSCSABA|499|1||KOV√ÅCS ERZS√âBET|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|004|B√âK√âSCSABA|501|1||SZVARNASZ ALEXANDROSZ|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|004|B√âK√âSCSABA|510|1||HANK√ì ANDR√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|004|B√âK√âSCSABA|510|2||KUTYEJ P√ÅL ALBERT|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|025|GYOMAENDR≈êD|460|1||BOECKER MARGIT|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|025|GYOMAENDR≈êD|460|2||HACK M√ÅRIA|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|025|GYOMAENDR≈êD|460|3||SCHWALM M√ÅRTON|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|025|GYOMAENDR≈êD|460|4|IFJ.|WEIDMANN J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|025|GYOMAENDR≈êD|460|5|DR.|WEIGERT J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|025|GYOMAENDR≈êD|479|1|IFJ.|D√ìGI J√ÅNOS|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1039|"LUNGO DROM"
+04|B√âK√âS|026|GYULA|524|1||REISZ √ÅD√ÅM|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|026|GYULA|552|1||M√ÅRK GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|026|GYULA|552|2||NAGYN√â ROKSZIN ANNA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|026|GYULA|552|3||OROJ√ÅN ISTV√ÅN P√âTER|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|049|MEZ≈êBER√âNY|458|1||BORGULA GY√ñRGYN√â|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|049|MEZ≈êBER√âNY|458|2||KONYECSNI GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1859|SZLOV√ÅKOK SZ.
+04|B√âK√âS|049|MEZ≈êBER√âNY|458|3||VRBOVSZKI P√ÅL|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1859|SZLOV√ÅKOK SZ.
+04|B√âK√âS|049|MEZ≈êBER√âNY|458|4||ZOLNAI J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|049|MEZ≈êBER√âNY|462|1||DOGI LAJOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|049|MEZ≈êBER√âNY|462|2||HORV√ÅTH J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+04|B√âK√âS|049|MEZ≈êBER√âNY|462|3||R√ÅCZN√â LAKATOS ERZS√âBET|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|049|MEZ≈êBER√âNY|471|1||B√ÅRDI ERZS√âBET|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|049|MEZ≈êBER√âNY|471|2||HOFFMANN ANDR√ÅSN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|049|MEZ≈êBER√âNY|471|3||WAGNER J√ìZSEF|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|059|OROSH√ÅZA|447|1||LAKATOS TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|063|SARKAD|415|1||HORV√ÅTH ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|063|SARKAD|415|2||MOLN√ÅR ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|063|SARKAD|415|3||OL√ÅH K√ÅROLYN√â|1|Mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|066|SZARVAS|487|1||PUSZTAI J√ìZSEF K√ÅROLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|066|SZARVAS|496|1||M√ìTY√ÅN TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+04|B√âK√âS|066|SZARVAS|496|2||Z√ÅVODA FERENC|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|074|EDEL√âNY|522|1||VARGA ATTILA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|151|KAZINCBARCIKA|558|1||FARKAS GYULA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|194|MEZ≈êK√ñVESD|472|1||FARKAS F√âLIX|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|194|MEZ≈êK√ñVESD|472|2||OL√ÅH ANDR√ÅSN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|194|MEZ≈êK√ñVESD|472|3||OL√ÅH G√âZA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+05|BORSOD|200|MISKOLC|557|1||BURAI ALAD√ÅR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1011|MFCSZ
+05|BORSOD|200|MISKOLC|557|2||GAGYI ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|200|MISKOLC|557|4||HORV√ÅTH ATTILA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|200|MISKOLC|557|5||MOLN√ÅR BERTALAN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|224|√ìZD|562|2||BALOGH GUSZT√ÅVN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1351|√âMRU√ì
+05|BORSOD|224|√ìZD|562|9||FARKAS G√âZA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1017;1018;1019;1021|√ìRESZ;√âMRU FTSZ;√ìIC;√ìCSZ
+05|BORSOD|224|√ìZD|562|10||GALLYAS BERTALAN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1017;1018;1019;1021|√ìRESZ;√âMRU FTSZ;√ìIC;√ìCSZ
+05|BORSOD|224|√ìZD|562|12||K√ìTAI K√ÅROLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1017;1018;1019;1021|√ìRESZ;√âMRU FTSZ;√ìIC;√ìCSZ
+05|BORSOD|224|√ìZD|562|13||MEZEI ANDREA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1351|√âMRU√ì
+05|BORSOD|224|√ìZD|562|14|ID.|OL√ÅH K√ÅLM√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1351|√âMRU√ì
+05|BORSOD|224|√ìZD|562|15|IFJ.|OL√ÅH K√ÅLM√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1351|√âMRU√ì
+05|BORSOD|224|√ìZD|562|17||P√ÅK√ì FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+05|BORSOD|224|√ìZD|562|20||SZED≈ê TAM√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1351|√âMRU√ì
+05|BORSOD|224|√ìZD|562|23||V√ÅRADI ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+05|BORSOD|224|√ìZD|562|24||V√ÅRADI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1017;1018;1019;1021|√ìRESZ;√âMRU FTSZ;√ìIC;√ìCSZ
+05|BORSOD|266|SAJ√ìSZENTP√âTER|515|1||KALOCSAI J√ìZSEF FERENC|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1187|SFCSZ
+05|BORSOD|266|SAJ√ìSZENTP√âTER|515|2||KANALAS ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1187|SFCSZ
+05|BORSOD|272|S√ÅROSPATAK|539|1||G√ñNCFALVI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|272|S√ÅROSPATAK|543|1||BABA J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|272|S√ÅROSPATAK|543|2||BUDAI GYULA   K√ÅROLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|272|S√ÅROSPATAK|543|3||LAKATOS VIKTOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|274|S√ÅTORALJA√öJHELY|506|1||DOBAI ISTV√ÅN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|274|S√ÅTORALJA√öJHELY|506|2||NAGY L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|274|S√ÅTORALJA√öJHELY|506|3||VALYK√ì J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|274|S√ÅTORALJA√öJHELY|533|1||HOCHV√ÅRT J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|274|S√ÅTORALJA√öJHELY|547|1||M√ÅRTON MIH√ÅLY|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|292|SZERENCS|509|1||M√ÅJERCSIK ZOLT√ÅNN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+05|BORSOD|292|SZERENCS|509|2||TAM√ÅS R√ìBERT|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1050|PHRALIPE
+06|CSONGR√ÅD|013|CSONGR√ÅD|493|1||FARAG√ì TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+06|CSONGR√ÅD|013|CSONGR√ÅD|493|2||PINT√âR B√âLA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+06|CSONGR√ÅD|024|H√ìDMEZ≈êV√ÅS√ÅRHELY|483|1||ELEKES √ÅGNES|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+06|CSONGR√ÅD|024|H√ìDMEZ≈êV√ÅS√ÅRHELY|483|2||H√âJJA G√ÅBORN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+06|CSONGR√ÅD|024|H√ìDMEZ≈êV√ÅS√ÅRHELY|483|3||IRH√ÅS J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+06|CSONGR√ÅD|024|H√ìDMEZ≈êV√ÅS√ÅRHELY|483|4||KOV√ÅCS ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+06|CSONGR√ÅD|024|H√ìDMEZ≈êV√ÅS√ÅRHELY|483|5||M√ÅTRAI ATTILA|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1610|RD√âSZ
+07|FEJ√âR|013|BICSKE|487|1||BAN√ÅDI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1081|FMCFSZ
+07|FEJ√âR|013|BICSKE|487|2|ID.|BOGD√ÅN J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+07|FEJ√âR|013|BICSKE|487|3|IFJ.|BOGD√ÅN J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+07|FEJ√âR|013|BICSKE|487|4||J√ìN√ÅS LAJOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1081|FMCFSZ
+07|FEJ√âR|013|BICSKE|487|5||M√ÅT√â ANDR√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1081|FMCFSZ
+07|FEJ√âR|013|BICSKE|487|6|IFJ.|OL√ÅH LAJOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+07|FEJ√âR|013|BICSKE|487|7||V√ñR√ñS ISTV√ÅN|1|Mand√°tumot nyert|0|Nem / nincs / stb|1081|FMCFSZ
+07|FEJ√âR|024|DUNA√öJV√ÅROS|534|1||BINDISCH GY√ñRGY L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+07|FEJ√âR|024|DUNA√öJV√ÅROS|534|2||HOSSZ√ö J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+07|FEJ√âR|024|DUNA√öJV√ÅROS|534|3||NAGY VERONIKA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+07|FEJ√âR|061|M√ìR|478|1||ERDEI FERENC|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+07|FEJ√âR|061|M√ìR|478|2||MANNER J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+07|FEJ√âR|061|M√ìR|478|3||PISCH FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+08|GY≈êR|055|GY≈êR|546|1||GANGL ANDR√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1620|MAN√âGY≈ê√âRD
+08|GY≈êR|055|GY≈êR|569|1||HORV√ÅTH ATTILA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1141|GYMS C√âSZ
+08|GY≈êR|055|GY≈êR|569|2||HORV√ÅTH P√ÅL|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1141|GYMS C√âSZ
+08|GY≈êR|055|GY≈êR|569|3||KESZEI K√ÅROLYN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1141|GYMS C√âSZ
+08|GY≈êR|055|GY≈êR|569|4||N√âMETH L√ÅSZL√ìN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1141|GYMS C√âSZ
+08|GY≈êR|055|GY≈êR|569|5||P√ÅD√ÅR L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1141|GYMS C√âSZ
+08|GY≈êR|077|KAPUV√ÅR|437|1||K√ÅROLI TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1141|GYMS C√âSZ
+08|GY≈êR|143|SOPRON|418|1|DR.|BRENNER KOLOMAN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+09|HAJD√ö|005|BALMAZ√öJV√ÅROS|482|1||J√ìN√ÅS G√âZA|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+09|HAJD√ö|005|BALMAZ√öJV√ÅROS|482|2||SZATM√ÅRI S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+09|HAJD√ö|005|BALMAZ√öJV√ÅROS|482|3||SZ√ÅVA GYULA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+09|HAJD√ö|009|BERETTY√ì√öJFALU|485|1||MEZ≈ê TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1002|M C D S Z
+09|HAJD√ö|030|HAJD√öB√ñSZ√ñRM√âNY|520|1||HAJDU S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1238|HC√âSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|1||√ÅBR√ìK J√ìZSEF L√ÅSZL√ìN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1410|HAJD√öHADH√ÅZ R√âSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|2||BALOGH J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1301|KISEBBSK√ñZ H√ÅZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|3||BALOGH J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1311|ROSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|4||BALOGH S√ÅNDORN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1410|HAJD√öHADH√ÅZ R√âSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|5||BERN√ÅTH FERENCN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1301|KISEBBSK√ñZ H√ÅZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|6||BERN√ÅTH ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1410|HAJD√öHADH√ÅZ R√âSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|7||HORT√ì S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1311|ROSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|8||LAKATOS ATTILA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1410|HAJD√öHADH√ÅZ R√âSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|9||LAKATOS DEZS≈êN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1311|ROSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|10||LAKATOS G√ÅBOR|1|Mand√°tumot nyert|0|Nem / nincs / stb|1410|HAJD√öHADH√ÅZ R√âSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|11||LAKATOS GYULA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|12||LAKATOS J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1410|HAJD√öHADH√ÅZ R√âSZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|13||LAKATOS J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1301|KISEBBSK√ñZ H√ÅZ
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|14||LAKATOS S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1002|M C D S Z
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|15||LAKATOS S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1002|M C D S Z
+09|HAJD√ö|032|HAJD√öHADH√ÅZ|467|16||ROST√ÅS ZSIGMOND|7|Egy√©ni VK-ben nyert|1|Igen / van / stb|1301|KISEBBSK√ñZ H√ÅZ
+09|HAJD√ö|035|HAJD√öSZOBOSZL√ì|492|1||ORS√ìS L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+09|HAJD√ö|063|P√úSP√ñKLAD√ÅNY|421|1||KOV√ÅCS J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+09|HAJD√ö|063|P√úSP√ñKLAD√ÅNY|421|2||KOV√ÅCS LAJOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1002|M C D S Z
+09|HAJD√ö|063|P√úSP√ñKLAD√ÅNY|421|3||KOV√ÅCS LAJOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1002|M C D S Z
+09|HAJD√ö|063|P√úSP√ñKLAD√ÅNY|421|4|IFJ.|MEZEI B√âLA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1607|FIATAL ROM√ÅK
+09|HAJD√ö|063|P√úSP√ñKLAD√ÅNY|421|5||T√ìTH FERENC|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1002|M C D S Z
+10|HEVES|025|EGER|512|1||BARI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+10|HEVES|025|EGER|512|2||CS√ìKA J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+10|HEVES|025|EGER|512|3||LAKATOS OSZK√ÅR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+10|HEVES|025|EGER|512|4||PUPORKA TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+10|HEVES|039|GY√ñNGY√ñS|491|1||MURZSA ATTILA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+10|HEVES|039|GY√ñNGY√ñS|491|2||V√ÅRADI K√ÅLM√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+10|HEVES|048|HEVES|447|1||L√ìL√â MIH√ÅLY|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1039|"LUNGO DROM"
+11|J√ÅSZ|016|J√ÅSZBER√âNY|483|1||GEDEI TAM√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+11|J√ÅSZ|016|J√ÅSZBER√âNY|483|2||R√ÅCZ TAM√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+11|J√ÅSZ|027|KARCAG|491|1||DOMOKOS S√ÅNDORN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+11|J√ÅSZ|027|KARCAG|491|2||JOHAN ANNA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1146|ROMA N≈êK EGYES√úL
+11|J√ÅSZ|027|KARCAG|491|3||NAGY SZIL√ÅRD|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+11|J√ÅSZ|036|KUNSZENTM√ÅRTON|503|1||KISS S√ÅNDOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+11|J√ÅSZ|052|SZOLNOK|481|1||FAZEKAS L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1049|MCDP
+11|J√ÅSZ|052|SZOLNOK|481|2||G√ÅSP√ÅR J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1049|MCDP
+11|J√ÅSZ|052|SZOLNOK|481|3||GUL√ÅCSI ANTAL|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1049|MCDP
+11|J√ÅSZ|052|SZOLNOK|481|4||GUL√ÅCSI ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1049|MCDP
+11|J√ÅSZ|052|SZOLNOK|481|5||MOZS√ÅR ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1049|MCDP
+11|J√ÅSZ|075|T√öRKEVE|490|1||MIL√âN√â HERCZEGH ELVIRA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+12|KOM√ÅROM|023|DOROG|536|1||PALK√ì G√ÅBOR P√ÅL|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+12|KOM√ÅROM|023|DOROG|536|2||P√âTERV√ÅRI L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+12|KOM√ÅROM|028|ESZTERGOM|529|1||KRAMMERN√â HAMPL ZSUZSANNA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+12|KOM√ÅROM|028|ESZTERGOM|538|1||MINC√âR K√ÅLM√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+12|KOM√ÅROM|028|ESZTERGOM|542|1||CSOMBOR ERZS√âBET|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+12|KOM√ÅROM|051|OROSZL√ÅNY|485|1||BOROS GYULA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1250|MCF√âSZ
+12|KOM√ÅROM|051|OROSZL√ÅNY|485|2||NOV√ÅK J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1250|MCF√âSZ
+12|KOM√ÅROM|064|TATAB√ÅNYA|549|1|DR.|N√âMETH IMRE|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+12|KOM√ÅROM|064|TATAB√ÅNYA|554|1||J√ÅR√ìKA ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1250|MCF√âSZ
+13|N√ìGR√ÅD|003|BALASSAGYARMAT|499|1||CSONKA OLIV√âR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1174|DRSZ
+13|N√ìGR√ÅD|003|BALASSAGYARMAT|499|2||J√ìN√ÅS G√ÅBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1174|DRSZ
+13|N√ìGR√ÅD|006|B√ÅTONYTERENYE|509|1||BERKI JUDIT|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+13|N√ìGR√ÅD|006|B√ÅTONYTERENYE|509|2||CSIK√ìS J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+13|N√ìGR√ÅD|006|B√ÅTONYTERENYE|509|3||N√âMET MIKL√ìSN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+13|N√ìGR√ÅD|006|B√ÅTONYTERENYE|509|4||SZOMORA SZIL√ÅRD|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+13|N√ìGR√ÅD|096|P√ÅSZT√ì|496|1||OL√ÅH FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+13|N√ìGR√ÅD|096|P√ÅSZT√ì|496|2||OL√ÅH J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+13|N√ìGR√ÅD|102|SALG√ìTARJ√ÅN|484|1||BOTOS J√ìZSEFN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1596|MRSZ
+13|N√ìGR√ÅD|102|SALG√ìTARJ√ÅN|484|2||HRANEK FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1596|MRSZ
+13|N√ìGR√ÅD|102|SALG√ìTARJ√ÅN|484|3||OL√ÅH S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1289|MKSZE
+13|N√ìGR√ÅD|102|SALG√ìTARJ√ÅN|484|4||R√ÅCZ VILMOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1596|MRSZ
+14|PEST|001|ABONY|521|1||NAGYHAJ√ö L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1049|MCDP
+14|PEST|001|ABONY|521|2||PINVICZKI L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1049|MCDP
+14|PEST|001|ABONY|521|3||RAFFAEL J√ÅNOSN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+14|PEST|001|ABONY|521|4||RAFFAI L√ÅSZL√ì|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1039|"LUNGO DROM"
+14|PEST|001|ABONY|521|5||R√âKASI ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1049|MCDP
+14|PEST|001|ABONY|521|6||VIGH IMRE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1049|MCDP
+14|PEST|014|BUDAKESZI|476|1||K√ìTHYN√â HERCEG M√ÅRIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1457|P-B-N N√âMET SZ√ñV
+14|PEST|014|BUDAKESZI|476|2||LIGETFALVI K√ÅROLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1457|P-B-N N√âMET SZ√ñV
+14|PEST|014|BUDAKESZI|476|3||MERKL ALAD√ÅR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1882|HAGYOM√ÅNY√ñRZ≈ê
+14|PEST|014|BUDAKESZI|476|4||VARGA J√ìZSEFN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1882|HAGYOM√ÅNY√ñRZ≈ê
+14|PEST|015|BUDA√ñRS|498|1||FANCSALI M√ÅRIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|015|BUDA√ñRS|500|1||MACZUCZA J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|015|BUDA√ñRS|500|2||MEINCZINGER TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|015|BUDA√ñRS|500|3||RITTER IMRE|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|015|BUDA√ñRS|519|1||SZITK√ì ETELKA M√ÅRIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|025|DABAS|459|1||GARAJSZKI L√ÅSZL√ì|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|025|DABAS|459|2||LAJA J√ìZSEF|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|025|DABAS|463|1||ZADUNAJSZKI J√ìZSEF|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|033|DUNAHARASZTI|478|1||MANHEIM L√âN√ÅRD|7|Egy√©ni VK-ben nyert|1|Igen / van / stb|1|F√ºgg. kisebbs√©g
+14|PEST|033|DUNAHARASZTI|478|2||KALTENECKER FERENC|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|033|DUNAHARASZTI|487|1||JAKAB ISTV√ÅN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|033|DUNAHARASZTI|487|2||JAKAB √ÅGNES|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|033|DUNAHARASZTI|487|3||ORS√ìS J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|033|DUNAHARASZTI|487|4||SZAB√ìN√â PAPP ILDIK√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|034|DUNAKESZI|505|1||KANALAS FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|038|√âRD|498|1||KAPPEL ZSUZSANNA|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1457|P-B-N N√âMET SZ√ñV
+14|PEST|038|√âRD|498|2||SCHNEIDER ISTV√ÅN|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|038|√âRD|500|1||CS√ÅNICS J√ìZSEF|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|038|√âRD|500|2||CS√ÅNICS S√ÅNDOR|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|038|√âRD|500|3||MITTLMAJER FERENCN√â|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|038|√âRD|500|4||ROCKOV MIL√ÅN|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|038|√âRD|519|1||BALOGH CSABA|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|047|G√ñD√ñLL≈ê|466|1||BORSOS J√ìZSEF|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|085|MONOR|485|1||GULY√ÅS ATTILA IMRE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|087|NAGYK√ÅTA|489|1||CSIK√ìS G√ÅBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1050|PHRALIPE
+14|PEST|087|NAGYK√ÅTA|489|2||CSIK√ìS J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|087|NAGYK√ÅTA|489|3||CSIK√ìS S√ÅNDOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|087|NAGYK√ÅTA|489|4||FEH√âR L√ÅSZL√ìN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|087|NAGYK√ÅTA|489|5||JAKAB P√âTER|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|087|NAGYK√ÅTA|489|6||R√ÅCZ G√âZ√ÅN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1050|PHRALIPE
+14|PEST|087|NAGYK√ÅTA|489|7||VARGA MIH√ÅLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|087|NAGYK√ÅTA|489|8||VARGA TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|102|P√âCEL|557|1||BURAI J√ÅNOS TIBOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|464|1||M√úLLER M√ÅRTON|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|464|2||NEUBRANDT ISTV√ÅN|7|Egy√©ni VK-ben nyert|1|Igen / van / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|464|3||SAX L√ÅSZL√ì|1|Mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|464|4||SCHUCK EDE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|464|5||S√ñR√ñS J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|464|6||WIPPELHAUSER GYUL√ÅN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|473|1||H√ÅMORI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|473|2||H√ÅMORI L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|473|3||MANHERTZ GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|473|4||WIPPELHAUSER ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|112|PILISV√ñR√ñSV√ÅR|482|1||TAGSCHERER KATALIN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+14|PEST|113|POM√ÅZ|528|1||G√âRICZ S√ÅNDOR|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|528|2||P√ñLCZ J√ìZSEF|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|528|3||SZL√ÅVIK ISTV√ÅN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|537|1||CSOB√ÅN SZVETOZ√ÅR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|537|2||KRUNITYN√â SOSITY ANNA|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|537|3||NY√ÅRI IV√ÅN|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|541|1||ERD√âLYI S√ÅNDOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|541|2||SZALAI IMRE|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|556|1||CSABAI ERZS√âBET|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|556|2||THURZ√ì L√ÅSZL√ì|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|564|1||ALANYAI J√ÅNOS|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|564|2||HORV√ÅTH ANDOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|113|POM√ÅZ|564|3||KASSAI J√ÅNOSN√â|0|Nincs inf. mand.sz√°m. nem t√∂r.|0|Nem / nincs / stb|1039|"LUNGO DROM"
+14|PEST|126|SZENTENDRE|514|1||KOSZNOVSZKI L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|126|SZENTENDRE|514|2||ZAUER G√ÅBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|158|T√ñR√ñKB√ÅLINT|475|1||MEGYASZAI ZOLT√ÅNN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+14|PEST|169|V√ÅC|526|1||CSUK√ÅRDI G√ÅBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1002|M C D S Z
+14|PEST|169|V√ÅC|526|2||HER√âDI G√ÅBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1002|M C D S Z
+14|PEST|177|VECS√âS|470|1||M√ÅR J√ÅNOS|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+15|SOMOGY|020|BARCS|485|1||BALOGH IMRE|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1449|DCKSZ
+15|SOMOGY|020|BARCS|485|2||BOKOR J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+15|SOMOGY|091|KAPOSV√ÅR|478|1||BOGD√ÅN FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+15|SOMOGY|091|KAPOSV√ÅR|478|2||KOMP√ÅK GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1628|PENTRU NOJ
+15|SOMOGY|091|KAPOSV√ÅR|478|3||NOGR√ÅDI L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+15|SOMOGY|130|NAGYAT√ÅD|483|1||IGN√ÅCZ IMR√âN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1050|PHRALIPE
+15|SOMOGY|130|NAGYAT√ÅD|483|2||IGN√ÅCZ J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+16|SZABOLCS|077|KISV√ÅRDA|496|1||BALOGH J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|077|KISV√ÅRDA|496|2||BERKI DEZS≈ê|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|077|KISV√ÅRDA|496|3||HAMZA J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|077|KISV√ÅRDA|496|4||LAKATOS ISTV√ÅN|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|094|M√ÅT√âSZALKA|481|1||DIENES B√âLA L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1691|SZNE
+16|SZABOLCS|094|M√ÅT√âSZALKA|481|2||FARKAS S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1691|SZNE
+16|SZABOLCS|094|M√ÅT√âSZALKA|481|3||FAZEKAS GYULA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1691|SZNE
+16|SZABOLCS|094|M√ÅT√âSZALKA|481|4||HORV√ÅTH L√ÅSZL√ì ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1691|SZNE
+16|SZABOLCS|094|M√ÅT√âSZALKA|481|5||KONCZILI VENDEL|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1691|SZNE
+16|SZABOLCS|094|M√ÅT√âSZALKA|481|6||PERJ√âSI ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1691|SZNE
+16|SZABOLCS|094|M√ÅT√âSZALKA|481|7|DR.|SZAB√ì P√âTER ANTAL|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1691|SZNE
+16|SZABOLCS|094|M√ÅT√âSZALKA|481|8||SZALAI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1691|SZNE
+16|SZABOLCS|094|M√ÅT√âSZALKA|490|1||FARKAS S√ÅNDOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|094|M√ÅT√âSZALKA|490|2||NAGY J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1002|M C D S Z
+16|SZABOLCS|112|NY√çRB√ÅTOR|481|1||CSIKI ZSIGMOND|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|112|NY√çRB√ÅTOR|481|2||KISS √ÅRP√ÅD|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|112|NY√çRB√ÅTOR|481|3||MOCS√ÅR DEZS≈ê|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|112|NY√çRB√ÅTOR|481|4||VARGA K√ÅLM√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|112|NY√çRB√ÅTOR|481|5||VARGA ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|119|NY√çREGYH√ÅZA|503|1||KORNHERR TIBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|119|NY√çREGYH√ÅZA|521|1||B√ÅRK√ÅNYI P√âTER|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|119|NY√çREGYH√ÅZA|530|1||M√âSZ√ÅROS FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|119|NY√çREGYH√ÅZA|530|2||MORAUSZKI MIH√ÅLYN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|119|NY√çREGYH√ÅZA|530|3||SKOLNYIK ANDR√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|119|NY√çREGYH√ÅZA|544|1||CSORBA MIKL√ìSN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|119|NY√çREGYH√ÅZA|544|2||HORV√ÅTH ERN≈ê|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|119|NY√çREGYH√ÅZA|544|3||PONG√ì ERN≈ê|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|119|NY√çREGYH√ÅZA|544|4||PONG√ì K√ÅROLYN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+16|SZABOLCS|204|TISZAVASV√ÅRI|514|1||R√âZM√úVES SZILVIA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|011|BONYH√ÅD|477|1|DR.|ACS√ÅDI MARIANNA ILDIK√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|011|BONYH√ÅD|477|2||JENEI J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|011|BONYH√ÅD|477|3||RITTINGER ANTAL|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|011|BONYH√ÅD|477|4|IFJ.|VERES S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|011|BONYH√ÅD|486|1||IGN√ÅCZ ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|011|BONYH√ÅD|486|2||KOLOMP√ÅR ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|011|BONYH√ÅD|486|3||BOGD√ÅN S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|095|SZEKSZ√ÅRD|488|1||ORS√ìS ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|095|SZEKSZ√ÅRD|497|1||KALM√ÅR ZOLT√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|099|TOLNA|481|1||K√ÅRP√ÅTI ANDR√ÅS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+17|TOLNA|099|TOLNA|511|1||DUDOR MIH√ÅLYN√â|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1039|"LUNGO DROM"
+17|TOLNA|099|TOLNA|511|2||FERGENCS L√ÅSZL√ìN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+17|TOLNA|099|TOLNA|511|3||KARASZI K√ÅROLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+17|TOLNA|099|TOLNA|511|4||NY√ÅRI G√ÅBOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+18|VAS|095|K√ñRMEND|472|1||HORV√ÅTH L√ÅSZL√ì|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+18|VAS|095|K√ñRMEND|472|2||HORV√ÅTH S√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+18|VAS|096|K≈êSZEG|527|1||MERSICH K√ÅROLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+18|VAS|096|K≈êSZEG|527|2||PETKOVITS S√ÅNDOR|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+18|VAS|096|K≈êSZEG|536|1||DOMINEKN√â K≈êSZEGFALVI √ÅGNES|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+18|VAS|186|SZOMBATHELY|509|1||HERGOVICH VINCE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+18|VAS|186|SZOMBATHELY|509|2||HERGOVICH VINC√âN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+18|VAS|186|SZOMBATHELY|518|1|DR.|ZIELBAUER GY√ñRGY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|003|AJKA|489|1||W√âBER L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|003|AJKA|498|1||D√ñM√ñT√ñR MIKL√ìS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+19|VESZPR√âM|003|AJKA|498|2||KISS K√ÅZM√âRN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|029|BALATONF√úRED|508|1||GERTNER J√ìZSEFN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+19|VESZPR√âM|029|BALATONF√úRED|508|2||HORV√ÅTH J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+19|VESZPR√âM|158|P√ÅPA|535|1||MARTON B√âLA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|158|P√ÅPA|549|1||DOBOS L√ÅSZL√ìN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1250|MCF√âSZ
+19|VESZPR√âM|158|P√ÅPA|549|2||HOLDOSIN√â B√ÅNHEGYI ILDIK√ì ERZS√âBET|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1250|MCF√âSZ
+19|VESZPR√âM|158|P√ÅPA|549|3||KOZ√ÅK J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1250|MCF√âSZ
+19|VESZPR√âM|158|P√ÅPA|549|4||PENTE GYULA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1039|"LUNGO DROM"
+19|VESZPR√âM|195|TAPOLCA|494|1||MOLN√ÅR ATTILA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|195|TAPOLCA|494|2||PEM IMRE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|195|TAPOLCA|494|3||SLENNER M√ÅRTA|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|208|V√ÅRPALOTA|419|1||ORS√ìS IMRE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|210|VESZPR√âM|418|1||AKOPJAN NIKOGOSZ BUJSZOVICS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|210|VESZPR√âM|418|2|DR.|SZALAY ENDRE|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+19|VESZPR√âM|210|VESZPR√âM|426|1|DR.|ALBERT VENDEL|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1643|DEUTSCHKLUB
+19|VESZPR√âM|210|VESZPR√âM|426|2||ARNHOFFER MIH√ÅLY|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1643|DEUTSCHKLUB
+19|VESZPR√âM|210|VESZPR√âM|426|3||HEILIG FERENC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1643|DEUTSCHKLUB
+19|VESZPR√âM|210|VESZPR√âM|426|4||VENCZEL L≈êRINC|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1643|DEUTSCHKLUB
+20|ZALA|134|NAGYKANIZSA|500|1||BOGD√ÅN N√ÅNDOR|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1|F√ºgg. kisebbs√©g
+20|ZALA|134|NAGYKANIZSA|500|2||MOLN√ÅR JEN≈êN√â|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
+20|ZALA|134|NAGYKANIZSA|500|3||NAGY J√ìZSEF|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
+20|ZALA|134|NAGYKANIZSA|500|4||ORS√ìS J√ÅNOS|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
+20|ZALA|134|NAGYKANIZSA|500|5||STEFLOVICS P√âTER|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
+20|ZALA|134|NAGYKANIZSA|500|6||TELEKI L√ÅSZL√ì|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
+20|ZALA|134|NAGYKANIZSA|500|7||V√ÅRADI ISTV√ÅN|3|Nem nyert mand√°tumot|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
+20|ZALA|134|NAGYKANIZSA|500|8||V√ÅRADI ISTV√ÅNN√â|2|Kedvezm√©nyes mand√°tumot nyert|0|Nem / nincs / stb|1029|ZALAI "A NOSTRU"
